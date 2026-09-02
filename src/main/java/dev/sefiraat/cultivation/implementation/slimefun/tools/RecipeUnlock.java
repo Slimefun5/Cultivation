@@ -8,10 +8,10 @@ import dev.sefiraat.cultivation.api.utils.StatisticUtils;
 import dev.sefiraat.cultivation.implementation.slimefun.CultivationStacks;
 import dev.sefiraat.cultivation.implementation.utils.Keys;
 import dev.sefiraat.sefilib.string.Theme;
-import io.github.bakedlibs.dough.data.persistent.PersistentDataAPI;
-import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItem;
-import io.github.thebusybiscuit.slimefun4.api.recipes.RecipeType;
-import io.github.thebusybiscuit.slimefun4.core.handlers.ItemUseHandler;
+import io.github.thebusybiscuit.slimefun5.libraries.dough.data.persistent.PersistentDataAPI;
+import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItem;
+import io.github.thebusybiscuit.slimefun5.api.recipes.RecipeType;
+import io.github.thebusybiscuit.slimefun5.core.handlers.ItemUseHandler;
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.ItemMeta;
@@ -72,10 +72,8 @@ public class RecipeUnlock extends SlimefunItem {
 
     private void setLore(@Nonnull ItemMeta itemMeta, @Nonnull String childName) {
         // Setup the lore
-        List<String> lore = itemMeta.getLore();
+        List<String> lore = itemMeta.hasLore() && itemMeta.getLore() != null ? itemMeta.getLore() : List.of();
         List<String> newLore = new ArrayList<>();
-
-        Preconditions.checkArgument(lore != null, "Shouldn't be possible, but lore is null.");
 
         for (String string : lore) {
             newLore.add(string.replace("{0}", childName));

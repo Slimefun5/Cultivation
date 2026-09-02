@@ -8,9 +8,10 @@ import dev.sefiraat.cultivation.implementation.slimefun.machines.KitchenRecipeMa
 import dev.sefiraat.cultivation.implementation.utils.Keys;
 import dev.sefiraat.sefilib.entity.LivingEntityDefinition;
 import dev.sefiraat.sefilib.string.Theme;
-import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItem;
-import io.github.thebusybiscuit.slimefun4.api.recipes.RecipeType;
-import io.github.thebusybiscuit.slimefun4.libraries.commons.lang.WordUtils;
+import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItem;
+import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
+import io.github.thebusybiscuit.slimefun5.api.recipes.RecipeType;
+import io.github.thebusybiscuit.slimefun5.libraries.commons.lang.WordUtils;
 import org.bukkit.Material;
 import org.bukkit.entity.EntityType;
 import org.bukkit.inventory.ItemStack;
@@ -431,5 +432,35 @@ public final class RecipeTypes {
 
     public static void createFoodBakingRecipe(@Nonnull ItemStack[] recipe, @Nonnull ItemStack result) {
         Machines.COUNTER_OVEN.addRecipe(recipe, result);
+    }
+
+    @Nonnull
+    public static ItemStack[] createBlockDropRecipe(@Nonnull SlimefunItemStack stackToDrop, @Nonnull ItemStack dropFrom, double dropChance) {
+        return createBlockDropRecipe(stackToDrop.item(), dropFrom, dropChance);
+    }
+
+    @Nonnull
+    public static ItemStack[] createBlockDropRecipe(@Nonnull SlimefunItemStack stackToDrop, @Nonnull Set<Material> dropFrom, double dropChance) {
+        return createBlockDropRecipe(stackToDrop.item(), dropFrom, dropChance);
+    }
+
+    @Nonnull
+    public static ItemStack[] createBucketingRecipe(@Nonnull SlimefunItemStack stackToDrop, @Nonnull Material dropFrom, double dropChance) {
+        return createBucketingRecipe(stackToDrop.item(), dropFrom, dropChance);
+    }
+
+    @Nonnull
+    public static ItemStack[] createBucketingRecipe(@Nonnull SlimefunItemStack stackToDrop, @Nonnull Set<Material> dropFrom, double dropChance) {
+        return createBucketingRecipe(stackToDrop.item(), dropFrom, dropChance);
+    }
+
+    @Nonnull
+    public static ItemStack[] createMobDropRecipe(@Nonnull SlimefunItemStack stackToDrop, @Nonnull LivingEntityDefinition dropFrom, double dropChance) {
+        return createMobDropRecipe(stackToDrop.item(), dropFrom, dropChance);
+    }
+
+    @Nonnull
+    public static ItemStack[] createMobDropRecipe(@Nonnull SlimefunItemStack stackToDrop, @Nonnull Set<LivingEntityDefinition> dropFrom, double dropChance) {
+        return createMobDropRecipe(stackToDrop.item(), dropFrom, dropChance);
     }
 }

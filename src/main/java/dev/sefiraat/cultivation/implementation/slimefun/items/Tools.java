@@ -7,8 +7,8 @@ import dev.sefiraat.cultivation.implementation.slimefun.tools.CropSticks;
 import dev.sefiraat.cultivation.implementation.slimefun.tools.PlantAnalyser;
 import dev.sefiraat.cultivation.implementation.slimefun.tools.RecipeUnlock;
 import dev.sefiraat.cultivation.implementation.slimefun.tools.SeedPack;
-import io.github.thebusybiscuit.slimefun4.api.recipes.RecipeType;
-import io.github.thebusybiscuit.slimefun4.implementation.SlimefunItems;
+import io.github.thebusybiscuit.slimefun5.api.recipes.RecipeType;
+import io.github.thebusybiscuit.slimefun5.implementation.SlimefunItems;
 import org.bukkit.Material;
 import org.bukkit.inventory.ItemStack;
 
@@ -39,7 +39,7 @@ public final class Tools {
             RecipeType.ENHANCED_CRAFTING_TABLE,
             new ItemStack[]{
                 new ItemStack(Material.DIAMOND), new ItemStack(Material.GLASS), null,
-                SlimefunItems.BLISTERING_INGOT, SlimefunItems.CROP_GROWTH_ACCELERATOR, null,
+                SlimefunItems.BLISTERING_INGOT.item(), SlimefunItems.CROP_GROWTH_ACCELERATOR.item(), null,
                 null, null, null
             }
         ).register(addon);

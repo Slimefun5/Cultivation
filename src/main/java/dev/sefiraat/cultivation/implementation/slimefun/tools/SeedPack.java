@@ -5,16 +5,16 @@ import dev.sefiraat.cultivation.api.datatypes.instances.FloraLevelProfile;
 import dev.sefiraat.cultivation.api.datatypes.instances.SeedPackInstance;
 import dev.sefiraat.cultivation.api.slimefun.items.plants.CultivationPlant;
 import dev.sefiraat.sefilib.string.Theme;
-import io.github.thebusybiscuit.slimefun4.api.items.ItemGroup;
-import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItem;
-import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItemStack;
-import io.github.thebusybiscuit.slimefun4.api.recipes.RecipeType;
-import io.github.thebusybiscuit.slimefun4.core.attributes.NotPlaceable;
-import io.github.thebusybiscuit.slimefun4.core.handlers.BlockPlaceHandler;
-import io.github.thebusybiscuit.slimefun4.core.handlers.ItemUseHandler;
-import io.github.thebusybiscuit.slimefun4.libraries.dough.data.persistent.PersistentDataAPI;
-import io.github.thebusybiscuit.slimefun4.libraries.dough.items.CustomItemStack;
-import io.github.thebusybiscuit.slimefun4.utils.ChestMenuUtils;
+import io.github.thebusybiscuit.slimefun5.api.items.ItemGroup;
+import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItem;
+import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
+import io.github.thebusybiscuit.slimefun5.api.recipes.RecipeType;
+import io.github.thebusybiscuit.slimefun5.core.attributes.NotPlaceable;
+import io.github.thebusybiscuit.slimefun5.core.handlers.BlockPlaceHandler;
+import io.github.thebusybiscuit.slimefun5.core.handlers.ItemUseHandler;
+import io.github.thebusybiscuit.slimefun5.libraries.dough.data.persistent.PersistentDataAPI;
+import io.github.thebusybiscuit.slimefun5.libraries.dough.items.CustomItemStack;
+import io.github.thebusybiscuit.slimefun5.utils.ChestMenuUtils;
 import me.mrCookieSlime.CSCoreLibPlugin.general.Inventory.ChestMenu;
 import me.mrCookieSlime.CSCoreLibPlugin.general.Inventory.ClickAction;
 import org.bukkit.Material;
@@ -25,6 +25,7 @@ import org.bukkit.inventory.meta.ItemMeta;
 import org.jetbrains.annotations.NotNull;
 
 import javax.annotation.Nonnull;
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
@@ -74,24 +75,24 @@ public class SeedPack extends SlimefunItem {
         protected static final int INCREMENT_SPEED_SLOT = 22;
         protected static final int INCREMENT_STRENGTH_SLOT = 23;
 
-        protected static final ItemStack SET_BACKGROUND_STACK = new CustomItemStack(
+        protected static final ItemStack SET_BACKGROUND_STACK = CustomItemStack.create(
             Material.GREEN_STAINED_GLASS_PANE,
             Theme.PASSIVE.apply("Set seed here")
         );
 
-        protected static final ItemStack PICKUP_BACKGROUND_STACK = new CustomItemStack(
+        protected static final ItemStack PICKUP_BACKGROUND_STACK = CustomItemStack.create(
             Material.GREEN_STAINED_GLASS_PANE,
             Theme.PASSIVE.apply("Retrieve here")
         );
 
-        protected static final ItemStack NO_SEED_SET_STACK = new CustomItemStack(
+        protected static final ItemStack NO_SEED_SET_STACK = CustomItemStack.create(
             Material.ORANGE_STAINED_GLASS_PANE,
             Theme.WARNING.apply("No Seed Set"),
             Theme.PASSIVE.apply("Click the left hand side icon"),
             Theme.PASSIVE.apply("While holding a seed to set pack.")
         );
 
-        protected static final ItemStack EMPTY_SEED_SET = new CustomItemStack(
+        protected static final ItemStack EMPTY_SEED_SET = CustomItemStack.create(
             Material.RED_STAINED_GLASS_PANE,
             Theme.WARNING.apply("Empty Set"),
             Theme.PASSIVE.apply("You have no seeds matching the"),
@@ -247,11 +248,19 @@ public class SeedPack extends SlimefunItem {
 
         private void reapplyInstance(@Nonnull CultivationPlant plant) {
             ItemMeta itemMeta = this.packStack.getItemMeta();
-            PersistentDataAPI.set(itemMeta, SeedPackDataType.KEY, SeedPackDataType.TYPE, this.instance);
-            List<String> lore = itemMeta.getLore();
-            lore.set(3, Theme.CLICK_INFO.asTitle("Set to", plant.getItemName()));
-            itemMeta.setLore(lore);
-            this.packStack.setItemMeta(itemMeta);
+            if (itemMeta != null) {
+                PersistentDataAPI.set(itemMeta, SeedPackDataType.KEY, SeedPackDataType.TYPE, this.instance);
+                List<String> lore = itemMeta.hasLore() && itemMeta.getLore() != null
+                    ? new ArrayList<>(itemMeta.getLore())
+                    : new ArrayList<>();
+                if (lore.size() > 3) {
+                    lore.set(3, Theme.CLICK_INFO.asTitle("Set to", plant.getItemName()));
+                } else {
+                    lore.add(Theme.CLICK_INFO.asTitle("Set to", plant.getItemName()));
+                }
+                itemMeta.setLore(lore);
+                this.packStack.setItemMeta(itemMeta);
+            }
         }
 
         @Nonnull
@@ -277,7 +286,7 @@ public class SeedPack extends SlimefunItem {
         }
         
         private ItemStack getIncrementStack(@Nonnull String name, int value) {
-            return new CustomItemStack(
+            return CustomItemStack.create(
                 Material.YELLOW_STAINED_GLASS_PANE,
                 Theme.CLICK_INFO.apply(name),
                 Theme.CLICK_INFO.asTitle("Left Click", "Increase " + name),

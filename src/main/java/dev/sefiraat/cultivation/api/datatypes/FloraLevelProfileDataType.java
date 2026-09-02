@@ -16,11 +16,11 @@ public class FloraLevelProfileDataType implements PersistentDataType<PersistentD
 
     public static final PersistentDataType<PersistentDataContainer, FloraLevelProfile> TYPE = new FloraLevelProfileDataType();
 
-    public static final NamespacedKey KEY = Keys.newKey("seed_instance");
-    public static final NamespacedKey LEVEL_GROWTH_SPEED = Keys.newKey("growth_speed");
-    public static final NamespacedKey LEVEL_DROP_RATE = Keys.newKey("drop_rate");
-    public static final NamespacedKey LEVEL_STRENGTH = Keys.newKey("strength");
-    public static final NamespacedKey ANALYZED = Keys.newKey("analyzed");
+    public static final NamespacedKey KEY = Keys.newBukkitKey("seed_instance");
+    public static final NamespacedKey LEVEL_GROWTH_SPEED = Keys.newBukkitKey("growth_speed");
+    public static final NamespacedKey LEVEL_DROP_RATE = Keys.newBukkitKey("drop_rate");
+    public static final NamespacedKey LEVEL_STRENGTH = Keys.newBukkitKey("strength");
+    public static final NamespacedKey ANALYZED = Keys.newBukkitKey("analyzed");
 
     @Override
     @Nonnull

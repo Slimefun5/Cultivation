@@ -4,9 +4,9 @@ import dev.sefiraat.cultivation.Cultivation;
 import dev.sefiraat.cultivation.api.interfaces.CultivationHarvestable;
 import dev.sefiraat.cultivation.api.slimefun.plant.Growth;
 import dev.sefiraat.cultivation.implementation.utils.Keys;
-import io.github.bakedlibs.dough.collections.RandomizedSet;
-import io.github.thebusybiscuit.slimefun4.api.events.PlayerRightClickEvent;
-import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItemStack;
+import io.github.thebusybiscuit.slimefun5.libraries.dough.collections.RandomizedSet;
+import io.github.thebusybiscuit.slimefun5.api.events.PlayerRightClickEvent;
+import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
 import me.mrCookieSlime.Slimefun.api.BlockStorage;
 import org.bukkit.Location;
 import org.bukkit.Material;
@@ -80,6 +80,16 @@ public class HarvestableBush extends CultivationBush implements CultivationHarve
     @Nonnull
     public HarvestableBush addHarvestingResult(@Nonnull ItemStack harvestStack) {
         return addHarvestingResult(harvestStack, 1);
+    }
+
+    @Nonnull
+    public HarvestableBush addHarvestingResult(@Nonnull SlimefunItemStack harvestStack) {
+        return addHarvestingResult(harvestStack.item(), 1);
+    }
+
+    @Nonnull
+    public HarvestableBush addHarvestingResult(@Nonnull SlimefunItemStack harvestStack, int weight) {
+        return addHarvestingResult(harvestStack.item(), weight);
     }
 
     @Nonnull

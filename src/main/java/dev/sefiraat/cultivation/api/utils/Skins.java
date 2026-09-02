@@ -1,7 +1,5 @@
 package dev.sefiraat.cultivation.api.utils;
 
-import io.github.bakedlibs.dough.skins.PlayerHead;
-import io.github.bakedlibs.dough.skins.PlayerSkin;
 import org.bukkit.inventory.ItemStack;
 
 import javax.annotation.Nonnull;
@@ -561,12 +559,9 @@ public enum Skins {
 
     @Nonnull
     private final String hash;
-    @Nonnull
-    private final PlayerSkin playerSkin;
 
     Skins(@Nonnull String hash) {
         this.hash = hash;
-        this.playerSkin = PlayerSkin.fromHashCode(hash);
     }
 
     @Nonnull
@@ -576,12 +571,15 @@ public enum Skins {
 
     @Nonnull
     public ItemStack getPlayerHead() {
-        return PlayerHead.getItemStack(playerSkin);
+        return io.github.thebusybiscuit.slimefun5.utils.SlimefunUtils.getCustomHead(hash);
     }
 
-    @Nonnull
-    public PlayerSkin getPlayerSkin() {
-        return playerSkin;
+    public void setSkin(@Nonnull org.bukkit.block.Block block, boolean sendBlockUpdate) {
+        io.github.thebusybiscuit.slimefun5.utils.compatibility.VersionedPlayerHead.setSkin(
+            block,
+            io.github.thebusybiscuit.slimefun5.utils.compatibility.VersionedPlayerHead.hashToBase64(hash),
+            sendBlockUpdate
+        );
     }
 
     @Nonnull

@@ -1,7 +1,14 @@
 package dev.sefiraat.cultivation.api.utils;
 
 import dev.sefiraat.sefilib.string.Theme;
+import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
 import net.md_5.bungee.api.ChatColor;
+import org.bukkit.Material;
+import org.bukkit.inventory.ItemStack;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 
 public final class CultivationThemes {
 
@@ -30,4 +37,50 @@ public final class CultivationThemes {
     public static final Theme SEED_BLUE = new Theme(ChatColor.of("#1d36c4"));
     public static final Theme SEED_CYAN = new Theme(ChatColor.of("#1fcccc"));
     public static final Theme SEED_PURPLE = new Theme(ChatColor.of("#811dc4"));
+
+    public static SlimefunItemStack themedSlimefunItemStack(String id, ItemStack item, Theme theme, String name, String... lore) {
+        return themedSlimefunItemStack(id, item, theme, name, Arrays.asList(lore));
+    }
+
+    public static SlimefunItemStack themedSlimefunItemStack(String id, Material material, Theme theme, String name, String... lore) {
+        return themedSlimefunItemStack(id, new ItemStack(material), theme, name, Arrays.asList(lore));
+    }
+
+    public static SlimefunItemStack themedSlimefunItemStack(String id, ItemStack item, Theme theme, String name, List<String> lore) {
+        List<String> finalLore = new ArrayList<>();
+        if (lore != null && !lore.isEmpty()) {
+            finalLore.add("");
+            for (String line : lore) {
+                finalLore.add(Theme.PASSIVE.getColor() + line);
+            }
+        }
+        if (theme.getLoreLine() != null) {
+            finalLore.add(Theme.CLICK_INFO.getColor() + theme.getLoreLine());
+        }
+        return new SlimefunItemStack(id, item, theme.color(name), finalLore.toArray(new String[0]));
+    }
+
+    public static SlimefunItemStack themedSeed(String id, ItemStack item, Theme theme, String name, List<String> lore, List<String> growthLore) {
+        List<String> finalLore = new ArrayList<>();
+        if (lore != null && !lore.isEmpty()) {
+            finalLore.add("");
+            for (String line : lore) {
+                finalLore.add(Theme.PASSIVE.getColor() + line);
+            }
+        }
+        if (growthLore != null && !growthLore.isEmpty()) {
+            finalLore.add("");
+            for (String line : growthLore) {
+                finalLore.add(line);
+            }
+        }
+        if (theme.getLoreLine() != null) {
+            finalLore.add(Theme.CLICK_INFO.getColor() + theme.getLoreLine());
+        }
+        return new SlimefunItemStack(id, item, theme.color(name), finalLore.toArray(new String[0]));
+    }
+
+    public static SlimefunItemStack themedSeed(String id, ItemStack item, Theme theme, String name, String[] lore, String[] growthLore) {
+        return themedSeed(id, item, theme, name, lore != null ? Arrays.asList(lore) : null, growthLore != null ? Arrays.asList(growthLore) : null);
+    }
 }

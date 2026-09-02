@@ -4,7 +4,7 @@ import dev.sefiraat.cultivation.Cultivation;
 import dev.sefiraat.cultivation.api.slimefun.RecipeTypes;
 import dev.sefiraat.cultivation.api.utils.CultivationThemes;
 import dev.sefiraat.sefilib.string.Theme;
-import io.github.thebusybiscuit.slimefun4.api.recipes.RecipeType;
+import io.github.thebusybiscuit.slimefun5.api.recipes.RecipeType;
 import org.bukkit.Material;
 import org.bukkit.inventory.ItemStack;
 
@@ -124,7 +124,7 @@ public class ProduceVanilla {
         String materialName = this.itemStack.getType().name();
         String friendlyName = materialName.replaceAll("_", " ").toLowerCase(Locale.ROOT);
         ByProduct byProduct = new ByProduct(
-            Theme.themedSlimefunItemStack(
+            CultivationThemes.themedSlimefunItemStack(
                 "CLT_" + name.toUpperCase(Locale.ROOT) + "_" + materialName.toUpperCase(Locale.ROOT),
                 material,
                 CultivationThemes.BY_PRODUCT,

@@ -8,17 +8,16 @@ import dev.sefiraat.cultivation.api.slimefun.plant.BreedingPair;
 import dev.sefiraat.cultivation.api.utils.CultivationThemes;
 import dev.sefiraat.cultivation.api.utils.StatisticUtils;
 import dev.sefiraat.sefilib.string.Theme;
-import io.github.bakedlibs.dough.items.CustomItemStack;
-import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItem;
-import io.github.thebusybiscuit.slimefun4.api.items.groups.FlexItemGroup;
-import io.github.thebusybiscuit.slimefun4.api.player.PlayerProfile;
-import io.github.thebusybiscuit.slimefun4.core.guide.SlimefunGuide;
-import io.github.thebusybiscuit.slimefun4.core.guide.SlimefunGuideMode;
-import io.github.thebusybiscuit.slimefun4.implementation.Slimefun;
-import io.github.thebusybiscuit.slimefun4.utils.ChestMenuUtils;
+import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItem;
+import io.github.thebusybiscuit.slimefun5.api.items.groups.NestedItemGroup;
+import io.github.thebusybiscuit.slimefun5.api.player.PlayerProfile;
+import io.github.thebusybiscuit.slimefun5.core.guide.SlimefunGuide;
+import io.github.thebusybiscuit.slimefun5.core.guide.SlimefunGuideMode;
+import io.github.thebusybiscuit.slimefun5.libraries.dough.items.CustomItemStack;
+import io.github.thebusybiscuit.slimefun5.libraries.keys.NamespacedKey;
+import io.github.thebusybiscuit.slimefun5.utils.ChestMenuUtils;
 import me.mrCookieSlime.CSCoreLibPlugin.general.Inventory.ChestMenu;
 import org.bukkit.Material;
-import org.bukkit.NamespacedKey;
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.ItemStack;
 
@@ -33,7 +32,7 @@ import java.util.List;
  * This flex group is used to display breeding information to the player.
  * Information is locked until the player has bred the appropriate plant at least once
  */
-public class PlantCodexFlexGroup extends FlexItemGroup {
+public class PlantCodexFlexGroup extends NestedItemGroup {
 
     private static final int PAGE_SIZE = 36;
 
@@ -69,22 +68,22 @@ public class PlantCodexFlexGroup extends FlexItemGroup {
         38, 39, 40, 41, 42, 43
     };
 
-    private static final ItemStack MOTHER_INFO = new CustomItemStack(
+    private static final ItemStack MOTHER_INFO = CustomItemStack.create(
         Material.LIGHT_BLUE_STAINED_GLASS_PANE,
         Theme.PASSIVE + "'Mother' Plant"
     );
 
-    private static final ItemStack FATHER_INFO = new CustomItemStack(
+    private static final ItemStack FATHER_INFO = CustomItemStack.create(
         Material.LIGHT_BLUE_STAINED_GLASS_PANE,
         Theme.PASSIVE + "'Father' Plant"
     );
 
-    private static final ItemStack CHILD_INFO = new CustomItemStack(
+    private static final ItemStack CHILD_INFO = CustomItemStack.create(
         Material.LIGHT_BLUE_STAINED_GLASS_PANE,
         Theme.PASSIVE + "'Child' Plant"
     );
 
-    private static final ItemStack HELD_SLOT = new CustomItemStack(
+    private static final ItemStack HELD_SLOT = CustomItemStack.create(
         Material.BLACK_STAINED_GLASS_PANE,
         " "
     );
@@ -106,12 +105,8 @@ public class PlantCodexFlexGroup extends FlexItemGroup {
     public void open(Player p, PlayerProfile profile, SlimefunGuideMode mode) {
         ChestMenu chestMenu = new ChestMenu(CultivationThemes.MAIN.getColor() + "Plant Codex");
 
-        for (int slot : HEADER) {
-            chestMenu.addItem(slot, ChestMenuUtils.getBackground(), (player1, i1, itemStack, clickAction) -> false);
-        }
-
-        for (int slot : FOOTER) {
-            chestMenu.addItem(slot, ChestMenuUtils.getBackground(), (player1, i1, itemStack, clickAction) -> false);
+        for (int i = 0; i < 54; i++) {
+            chestMenu.addItem(i, ChestMenuUtils.getBackground(), (player1, i1, itemStack, clickAction) -> false);
         }
 
         chestMenu.setEmptySlotsClickable(false);
@@ -136,10 +131,7 @@ public class PlantCodexFlexGroup extends FlexItemGroup {
         // Back
         menu.replaceExistingItem(
             GUIDE_BACK,
-            ChestMenuUtils.getBackButton(
-                player,
-                Slimefun.getLocalization().getMessage("guide.back.guide")
-            )
+            ChestMenuUtils.getBackButton(player)
         );
         menu.addMenuClickHandler(GUIDE_BACK, (player1, slot, itemStack, clickAction) -> {
             SlimefunGuide.openItemGroup(profile, CultivationGroups.MAIN, mode, 1);
@@ -189,10 +181,7 @@ public class PlantCodexFlexGroup extends FlexItemGroup {
         // Back Button
         menu.replaceExistingItem(
             GUIDE_BACK,
-            ChestMenuUtils.getBackButton(
-                p,
-                Slimefun.getLocalization().getMessage("guide.back.guide")
-            )
+            ChestMenuUtils.getBackButton(p)
         );
         menu.addMenuClickHandler(GUIDE_BACK, (player1, slot, itemStack, clickAction) -> {
             setupPage(player1, profile, mode, menu, returnPage);
@@ -297,7 +286,7 @@ public class PlantCodexFlexGroup extends FlexItemGroup {
 
     @Nonnull
     public static ItemStack getGrowthRate(@Nonnull CultivationPlant seed) {
-        return new CustomItemStack(
+        return CustomItemStack.create(
             Material.WHEAT_SEEDS,
             Theme.CLICK_INFO.asTitle("Growth Rate", FORMAT.format(seed.getDefaultGrowthRate()))
         );

@@ -1,9 +1,9 @@
 name: Cultivation
 author: Sefiraat, J3fftw, JustAHuman
-description: A Spiritual Successor to ExoticGarden
+description: A Slimefun5 Addon that adds a plethora of Magical and non-magical flora.
 main: dev.sefiraat.cultivation.Cultivation
 website: https://github.com/Sefiraat/Cultivation
-version: ${project.version}
+version: ${version}
 api-version: 1.19
 depend:
   - Slimefun

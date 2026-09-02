@@ -15,8 +15,8 @@ import dev.sefiraat.cultivation.managers.ListenerManager;
 import dev.sefiraat.cultivation.managers.SupportedPluginManager;
 import dev.sefiraat.cultivation.managers.TaskManager;
 import dev.sefiraat.sefilib.entity.display.DisplayGroupManager;
-import io.github.thebusybiscuit.slimefun4.api.SlimefunAddon;
-import io.github.thebusybiscuit.slimefun4.libraries.dough.updater.GitHubBuildsUpdater;
+import io.github.thebusybiscuit.slimefun5.api.SlimefunAddon;
+import io.github.thebusybiscuit.slimefun5.implementation.Slimefun;
 import org.bstats.bukkit.Metrics;
 import org.bukkit.plugin.PluginManager;
 import org.bukkit.plugin.java.JavaPlugin;
@@ -56,7 +56,6 @@ public class Cultivation extends JavaPlugin implements SlimefunAddon {
 
         saveDefaultConfig();
         this.configManager = new ConfigManager();
-        tryUpdate();
 
         this.supportedPluginManager = new SupportedPluginManager();
         this.listenerManager = new ListenerManager();
@@ -67,6 +66,10 @@ public class Cultivation extends JavaPlugin implements SlimefunAddon {
 
         setupItems();
         setupStats();
+
+        // Register translations with Slimefun5
+        Slimefun.getItemTranslationService().registerTranslations(this);
+        Slimefun.getMenuTranslationService().registerTranslations(this);
     }
 
     private void setupItems() {
@@ -84,14 +87,6 @@ public class Cultivation extends JavaPlugin implements SlimefunAddon {
     @Override
     public void onDisable() {
         this.configManager.saveAll();
-    }
-
-    public void tryUpdate() {
-        if (configManager.isAutoUpdate() && getDescription().getVersion().startsWith("DEV")) {
-            String updateLocation = MessageFormat.format("{0}/{1}/{2}", this.username, this.repo, this.branch);
-            GitHubBuildsUpdater updater = new GitHubBuildsUpdater(this, getFile(), updateLocation);
-            updater.start();
-        }
     }
 
     @Nonnull

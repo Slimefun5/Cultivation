@@ -4,11 +4,11 @@ import dev.sefiraat.cultivation.Cultivation;
 import dev.sefiraat.cultivation.api.slimefun.RecipeTypes;
 import dev.sefiraat.cultivation.api.utils.CultivationThemes;
 import dev.sefiraat.sefilib.string.Theme;
-import io.github.thebusybiscuit.slimefun4.api.SlimefunAddon;
-import io.github.thebusybiscuit.slimefun4.api.items.ItemGroup;
-import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItem;
-import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItemStack;
-import io.github.thebusybiscuit.slimefun4.api.recipes.RecipeType;
+import io.github.thebusybiscuit.slimefun5.api.SlimefunAddon;
+import io.github.thebusybiscuit.slimefun5.api.items.ItemGroup;
+import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItem;
+import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
+import io.github.thebusybiscuit.slimefun5.api.recipes.RecipeType;
 import org.bukkit.Material;
 import org.bukkit.inventory.ItemStack;
 import org.jetbrains.annotations.NotNull;
@@ -137,7 +137,7 @@ public class ProduceCore extends SlimefunItem {
     @ParametersAreNonnullByDefault
     private ByProduct registerByProduct(String name, RecipeType recipeType, Material material) {
         ByProduct byProduct = new ByProduct(
-            Theme.themedSlimefunItemStack(
+            CultivationThemes.themedSlimefunItemStack(
                 "CLT_" + name.toUpperCase(Locale.ROOT) + "_" + this.getId().substring(4),
                 material,
                 CultivationThemes.BY_PRODUCT,

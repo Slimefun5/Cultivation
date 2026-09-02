@@ -19,9 +19,9 @@ public class SeedPackDataType implements PersistentDataType<PersistentDataContai
 
     public static final PersistentDataType<PersistentDataContainer, SeedPackInstance> TYPE = new SeedPackDataType();
 
-    public static final NamespacedKey KEY = Keys.newKey("seed_instance");
-    public static final NamespacedKey PLANT_ID = Keys.newKey("plant_id");
-    public static final NamespacedKey PROFILE = Keys.newKey("profile");
+    public static final NamespacedKey KEY = Keys.newBukkitKey("seed_instance");
+    public static final NamespacedKey PLANT_ID = Keys.newBukkitKey("plant_id");
+    public static final NamespacedKey PROFILE = Keys.newBukkitKey("profile");
 
     @Override
     @Nonnull
@@ -47,7 +47,7 @@ public class SeedPackDataType implements PersistentDataType<PersistentDataContai
 
         for (Map.Entry<FloraLevelProfile, Integer> entry : complex.getAmountMap().entrySet()) {
             FloraLevelProfile profile = entry.getKey();
-            NamespacedKey key = Keys.newKey(
+            NamespacedKey key = Keys.newBukkitKey(
                 profile.getLevel() + "_" + profile.getSpeed() + "_" + profile.getStrength()
             );
             profileContainer.set(key, INTEGER, entry.getValue());
