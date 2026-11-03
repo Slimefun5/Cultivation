@@ -1,0 +1,13 @@
+cultivation:
+  main: Cultivation
+  hidden: Ascuns
+  crafting: Materiale de fabricare
+  tools: Unelte
+  machines: Mașinării
+  plants: Plante
+  bushes: Tufe
+  trees: Copaci
+  produce: Recoltă
+  by-products: Produse secundare
+  foods: Mâncăruri
+  plant_codex: Codexul plantelor

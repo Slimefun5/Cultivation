@@ -1,0 +1,65 @@
+lore:
+  seed-pack-set-to: Setat pe
+  knowledge-script-unlocks: Deblochează
+  drop-level: Nivel de producție
+  growth-speed: Viteză de creștere
+  breed-strength: Putere de încrucișare
+command:
+  no-permission: Nu ai permisiunea să faci asta.
+  invalid-subcommand: Te rog specifică o subcomandă validă.
+  players-only: Această comandă poate fi rulată doar de un jucător.
+  hold-seed-pack: Trebuie să ții în mână un pachet de semințe pentru asta.
+  pack-empty: Acest pachet e gol!
+  pack-contents: Conținut
+  pack-entry: Nivel %level%, viteză %speed%, putere %strength%
+kitchen:
+  recipe-disabled: Această rețetă e dezactivată.
+  no-recipe: Nicio rețetă potrivită.
+  not-enough-power: Energie insuficientă.
+  input-empty: Pune un obiect în slotul de intrare.
+  cooked: Gustos!
+food:
+  eaten: Minunat! Te-ai săturat de tot.
+  not-hungry: Încă nu ți-e foame! Poți mânca doar o dată la jumătate de zi (10 minute).
+  palate-cleansed: Simți cum ți se curăță papilele.
+  ouch: Au!
+knowledge-script:
+  learned: Ai învățat cum să încrucișezi %plant%.
+seed-pack:
+  title: Pachet de semințe
+  unstack-first: Trebuie mai întâi să desparți teancul de pachete de semințe.
+  not-a-seed: Obiectul trebuie să fie o sămânță de plantă Cultivation.
+  empty-before-change: Trebuie să golești pachetul înainte să-i schimbi planta.
+  no-plant-set: Nu ai setat încă o plantă.
+  none-stored: Nu ai nicio sămânță de acest fel la aceste niveluri.
+  set-here: Setează sămânța aici
+  retrieve-here: Scoate de aici
+  no-seed-set: Nicio sămânță setată
+  no-seed-set-lore:
+  - Fă click pe iconița din stânga
+  - ținând o sămânță ca să setezi pachetul.
+  empty-set: Set gol
+  empty-set-lore:
+  - Nu ai semințe care să corespundă
+  - acestor niveluri.
+  stored-seed: Tip de sămânță stocat
+  take-seed: Ia o sămânță din pachet
+  level: Nivel
+  speed: Viteză
+  strength: Putere
+  left-click: Click stânga
+  right-click: Click dreapta
+  increase: Crește %stat%
+  decrease: Scade %stat%
+  current: Curent
+codex:
+  title: Codex de plante
+  child: Plantă copil
+  mother: Plantă mamă
+  father: Plantă tată
+  growth-rate: Rată de creștere
+  not-discovered: Nedescoperit
+  not-discovered-lore:
+  - Încă nu ai descoperit cum
+  - să încrucișezi această plantă!
+  discovery: Descoperire

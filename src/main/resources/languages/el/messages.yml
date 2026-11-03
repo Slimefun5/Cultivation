@@ -1,0 +1,65 @@
+lore:
+  seed-pack-set-to: Ορισμένο σε
+  knowledge-script-unlocks: Ξεκλειδώνει
+  drop-level: Επίπεδο Απόδοσης
+  growth-speed: Ταχύτητα Ανάπτυξης
+  breed-strength: Ισχύς Διασταύρωσης
+command:
+  no-permission: Δεν έχεις άδεια να το κάνεις αυτό.
+  invalid-subcommand: Δώσε μια έγκυρη υποεντολή.
+  players-only: Αυτή η εντολή μπορεί να εκτελεστεί μόνο από παίκτη.
+  hold-seed-pack: Πρέπει να κρατάς ένα Πακέτο Σπόρων για αυτό.
+  pack-empty: Αυτό το πακέτο είναι άδειο!
+  pack-contents: Περιεχόμενα
+  pack-entry: Επίπεδο %level%, ταχύτητα %speed%, ισχύς %strength%
+kitchen:
+  recipe-disabled: Αυτή η συνταγή είναι απενεργοποιημένη.
+  no-recipe: Καμία συνταγή δεν ταιριάζει.
+  not-enough-power: Δεν υπάρχει αρκετή ενέργεια.
+  input-empty: Βάλε ένα αντικείμενο στη θέση εισόδου.
+  cooked: Νόστιμο!
+food:
+  eaten: Υπέροχα! Χόρτασες για τα καλά.
+  not-hungry: Δεν πεινάς ακόμα! Μπορείς να τρως μόνο μία φορά κάθε μισή μέρα (10 λεπτά).
+  palate-cleansed: Νιώθεις τον ουρανίσκο σου να καθαρίζει.
+  ouch: Άουτς!
+knowledge-script:
+  learned: 'Έμαθες πώς να διασταυρώνεις: %plant%.'
+seed-pack:
+  title: Πακέτο Σπόρων
+  unstack-first: Πρέπει πρώτα να ξεστοιβάξεις τα Πακέτα Σπόρων σου.
+  not-a-seed: Το αντικείμενο πρέπει να είναι σπόρος φυτού του Καλτιβέισον.
+  empty-before-change: Πρέπει να αδειάσεις ένα πακέτο πριν αλλάξεις το φυτό του.
+  no-plant-set: Δεν έχεις ορίσει φυτό ακόμα.
+  none-stored: Δεν έχεις κανέναν τέτοιο σπόρο σε αυτά τα επίπεδα.
+  set-here: Όρισε σπόρο εδώ
+  retrieve-here: Πάρε εδώ
+  no-seed-set: Χωρίς Σπόρο
+  no-seed-set-lore:
+  - Κάνε κλικ στο εικονίδιο αριστερά
+  - κρατώντας έναν σπόρο για να ορίσεις το πακέτο.
+  empty-set: Κενό Σετ
+  empty-set-lore:
+  - Δεν έχεις σπόρους που ταιριάζουν
+  - σε αυτά τα επίπεδα.
+  stored-seed: Αποθηκευμένος Τύπος Σπόρου
+  take-seed: Πάρε έναν σπόρο από το πακέτο
+  level: Επίπεδο
+  speed: Ταχύτητα
+  strength: Ισχύς
+  left-click: Αριστερό Κλικ
+  right-click: Δεξί Κλικ
+  increase: Αύξηση %stat%
+  decrease: Μείωση %stat%
+  current: Τρέχον
+codex:
+  title: Κατάλογος Φυτών
+  child: Φυτό απόγονος
+  mother: Μητρικό φυτό
+  father: Πατρικό φυτό
+  growth-rate: Ρυθμός Ανάπτυξης
+  not-discovered: Δεν Ανακαλύφθηκε
+  not-discovered-lore:
+  - Δεν έχεις ανακαλύψει ακόμα πώς
+  - να διασταυρώσεις αυτό το φυτό!
+  discovery: Ανακάλυψη

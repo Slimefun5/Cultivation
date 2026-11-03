@@ -1,0 +1,87 @@
+cultivation:
+  bush_harvest:
+    name: Recoltare din tufe
+    lore:
+    - Acest obiect poate fi recoltat dintr-o
+    - tufă Cultivation
+  tree_harvest:
+    name: Recoltare din copaci
+    lore:
+    - Acest obiect poate fi recoltat dintr-un
+    - copac Cultivation
+  trading_farmer:
+    name: Comerț cu sătenii
+    lore:
+    - Acest obiect poate fi cumpărat de la un
+    - sătean fermier.
+  trading_fletcher:
+    name: Comerț cu sătenii
+    lore:
+    - Acest obiect poate fi cumpărat de la un
+    - sătean săgetar.
+  mob:
+    name: Pradă de la creaturi
+    lore:
+    - Acest obiect are o șansă să cadă de la
+    - următoarele creaturi.
+  plant_breeding:
+    name: Încrucișarea plantelor
+    lore:
+    - Această sămânță se obține prin încrucișare.
+    - Încrucișezi plante plasând
+    - două plante cu un bloc de aer
+    - între ele.
+    - ''
+    - Dicționarul de încrucișare poate fi folosit
+    - ca să-ți urmărești descoperirile.
+    - ''
+    - 'Indiciu: particulele negre înseamnă că'
+    - cele două plante NU se pot încrucișa.
+  vanilla_block_drop:
+    name: Pradă din lume
+    lore:
+    - Cade din blocuri când sunt sparte în lume.
+  bucketing:
+    name: Pradă din lume
+    lore:
+    - Se obține din lume folosind o găleată.
+  chopped:
+    name: Tocat
+    lore:
+    - Pur și simplu toacă cu un cuțit!
+  mashed:
+    name: Zdrobit
+    lore:
+    - Zdrobește, zdrobește, zdrobește
+  blended:
+    name: Mixat
+    lore:
+    - Se face punând un obiect în blender.
+  sliced:
+    name: Feliat
+    lore:
+    - Atât de subțire și de delicat
+  ground:
+    name: Măcinat
+    lore:
+    - Cât se poate de fin
+  boiled:
+    name: Fiert
+    lore:
+    - Fierbinte, fierbinte, fierbinte!
+  fried:
+    name: Prăjit
+    lore:
+    - Perfecțiune crocantă.
+  grilled:
+    name: La grătar
+    lore:
+    - Zemos și fraged.
+  finishing:
+    name: Finisare
+    lore:
+    - Folosește blatul de finisare din bucătărie ca să faci acest obiect.
+  baking:
+    name: Coacere
+    lore:
+    - Folosește blatul cu cuptor din bucătărie ca să faci acest obiect.

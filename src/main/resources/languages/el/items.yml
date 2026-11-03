@@ -1,0 +1,6674 @@
+CLT_APRICOT:
+  name: Βερίκοκο
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Από αυτά μπορείς να φτιάξεις Ποκεμπάλ.
+  - '...'
+  - Τι εννοείς ότι είναι άλλο πράγμα...;
+CLT_ARTICHOKE:
+  name: Αγκινάρα
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Ξερίζωσέ του την ΚΑΡΔΙΑ!
+CLT_ASPARAGUS:
+  name: Σπαράγγι
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Πρόσεχε όταν πας στο μπάνιο αργότερα.
+CLT_AUBERGINE:
+  name: Μελιτζάνα
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Λαμπερό μωβ και 100% ΚΑΘΟΛΟΥ σε σχήμα αβγού.
+  - Καλύτερα να το λέμε αβγοφυτό, σωστά;
+CLT_AVOCADO:
+  name: Αβοκάντο
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Το όνειρο κάθε χίπστερ.
+CLT_BACON_SANDWICH:
+  name: Σάντουιτς με Μπέικον
+  type:
+  - '&7&oΤρόφιμο'
+  description:
+  - Ένα απλό κλασικό!
+  stats:
+  - '&8⇨ &7Θεραπεία: &b2 Καρδιές'
+  - '&8⇨ &bΙσχύς I &7(10:00)'
+  - '&8⇨ &bΤαχύτητα I &7(10:00)'
+CLT_BAGEL:
+  name: Μπέιγκελ
+  type:
+  - '&7&oΤρόφιμο'
+  description:
+  - Φρυγανισμένο; ή...
+  stats:
+  - '&8⇨ &7Θεραπεία: &b2.5 Καρδιές'
+CLT_BAGEL_BITE:
+  name: Μπουκιά Μπέιγκελ
+  type:
+  - '&7&oΤρόφιμο'
+  description:
+  - Φάε πίτσα όποτε θες!
+  stats:
+  - '&8⇨ &7Σου καίει το στόμα σε κάθε μπουκιά!'
+CLT_BAGEL_CREAM_CHEESE:
+  name: Μπέιγκελ με Τυρί Κρέμα
+  type:
+  - '&7&oΤρόφιμο'
+  description:
+  - Είναι τόσο καλό που μάλλον θα θες κι άλλο.
+  stats:
+  - '&8⇨ &7Θεραπεία: &b5 Καρδιές'
+  - '&8⇨ &bΕνίσχυση Ζωής I &7(10:00)'
+CLT_BANANA:
+  name: Μπανάνα
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Μου αρέσει πολύ η φλούδα... εεε, η φάτσα του!
+CLT_BASIL:
+  name: Βασιλικός
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Ένα γλυκό φύλλο με απαλή πιπεράτη επίγευση.
+CLT_BAY_LEAF:
+  name: Φύλλο Δάφνης
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Ένα δυνατό άρωμα με πολλές χρήσεις.
+CLT_BELL_PEPPER:
+  name: Γλυκιά Πιπεριά
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Κάτι μου χτυπάει καμπανάκι.
+CLT_BISCUIT:
+  name: Μπισκότο
+  type:
+  - '&7&oΤρόφιμο'
+  description:
+  - Ένα μικρό σνακ με τεράστια γεύση.
+  stats: &id002
+  - '&8⇨ &7Σε εκτοξεύει στον αέρα'
+CLT_BISCUIT_BASE:
+  name: Βάση Μπισκότου
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Το ότι έγινε επίπεδο τώρα δεν σημαίνει
+  - ότι μπορείς να το φας ωμό.
+CLT_BISCUIT_DOUGH:
+  name: Ζύμη Μπισκότου
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - 'Απλώς θύμιζε στον εαυτό σου: «Μην το φας ωμό.»'
+CLT_BLACK_BEANS:
+  name: Μαύρα Φασόλια
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Μια νόστιμη χορτοφαγική πρωτεΐνη.
+CLT_BLENDED_APPLE:
+  name: Χτυπημένο Μήλο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_APRICOT:
+  name: Χτυπημένο Βερίκοκο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_ARTICHOKE:
+  name: Χτυπημένη Αγκινάρα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_ASPARAGUS:
+  name: Χτυπημένο Σπαράγγι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_AUBERGINE:
+  name: Χτυπημένη Μελιτζάνα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_AVOCADO:
+  name: Χτυπημένο Αβοκάντο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_BANANA:
+  name: Χτυπημένη Μπανάνα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_BASIL:
+  name: Χτυπημένος Βασιλικός
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_BAY_LEAF:
+  name: Χτυπημένο Φύλλο Δάφνης
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_BEEF:
+  name: Χτυπημένο Βοδινό
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_BEETROOT:
+  name: Χτυπημένο Παντζάρι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_BELL_PEPPER:
+  name: Χτυπημένη Γλυκιά Πιπεριά
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_BLACK_BEANS:
+  name: Χτυπημένα Μαύρα Φασόλια
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_BREAD:
+  name: Χτυπημένο Ψωμί
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_BROCCOLI:
+  name: Χτυπημένο Μπρόκολο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_BROWN_MUSHROOM:
+  name: Χτυπημένο Καφέ Μανιτάρι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_BRUSSELS_SPROUTS:
+  name: Χτυπημένα Λαχανάκια Βρυξελλών
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_CABBAGE:
+  name: Χτυπημένο Λάχανο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_CARROT:
+  name: Χτυπημένο Καρότο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_CAULIFLOWER:
+  name: Χτυπημένο Κουνουπίδι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_CAYENNE_PEPPER:
+  name: Χτυπημένο Πιπέρι Καγιέν
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_CELERIAC:
+  name: Χτυπημένη Σελινόριζα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_CELERY:
+  name: Χτυπημένο Σέλινο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_CHERRY:
+  name: Χτυπημένο Κεράσι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_CHESTNUT:
+  name: Χτυπημένο Κάστανο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_CHICKEN:
+  name: Χτυπημένο Κοτόπουλο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_CHICKPEAS:
+  name: Χτυπημένα Ρεβίθια
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_CHICORY:
+  name: Χτυπημένο Ραδίκι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_CHILLY_PEPPER:
+  name: Χτυπημένη Καυτερή Πιπεριά
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_CHIVES:
+  name: Χτυπημένο Σχοινόπρασο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_CHORUS_FRUIT:
+  name: Χτυπημένο Χορικό Φρούτο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_CILANTRO:
+  name: Χτυπημένο Κόλιαντρο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_CINNAMON:
+  name: Χτυπημένη Κανέλα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_CLOVE:
+  name: Χτυπημένο Μοσχοκάρφι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_COCOA_BEANS:
+  name: Χτυπημένοι Σπόροι Κακάο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_COD:
+  name: Χτυπημένος Μπακαλιάρος
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_COURGETTE:
+  name: Χτυπημένο Κολοκυθάκι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_CUCUMBER:
+  name: Χτυπημένο Αγγούρι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_CUMIN:
+  name: Χτυπημένο Κύμινο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_CURRY_LEAF:
+  name: Χτυπημένο Φύλλο Κάρι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_DILL:
+  name: Χτυπημένος Άνηθος
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_EGG:
+  name: Χτυπημένο Αβγό
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_ENCHANTED_GOLDEN_APPLE:
+  name: Χτυπημένο Μαγεμένο Χρυσό Μήλο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_FENNEL:
+  name: Χτυπημένο Μάραθο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_GARLIC:
+  name: Χτυπημένο Σκόρδο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_GINGER:
+  name: Χτυπημένο Τζίντζερ
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_GLOW_BERRIES:
+  name: Χτυπημένα Λαμπερά Μούρα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_GOLDEN_APPLE:
+  name: Χτυπημένο Χρυσό Μήλο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_GOLDEN_CARROT:
+  name: Χτυπημένο Χρυσό Καρότο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_GRAPE:
+  name: Χτυπημένο Σταφύλι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_GREEN_APPLE:
+  name: Χτυπημένο Πράσινο Μήλο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_GREEN_BEANS:
+  name: Χτυπημένα Φασολάκια
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_GREEN_ONION:
+  name: Χτυπημένο Φρέσκο Κρεμμυδάκι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_HAZELNUT:
+  name: Χτυπημένο Φουντούκι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_HORSERADISH:
+  name: Χτυπημένο Χρένο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_JALAPENO:
+  name: Χτυπημένο Χαλαπένιο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_JASMINE:
+  name: Χτυπημένο Γιασεμί
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_JUNIPER_BERRY:
+  name: Χτυπημένα Κεδροκούκουτσα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_KAFFIR_LIME:
+  name: Χτυπημένο Φύλλο Κάφιρ Λάιμ
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_KALE:
+  name: Χτυπημένη Λαχανίδα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_KELP:
+  name: Χτυπημένο Φύκι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_KIWI:
+  name: Χτυπημένο Ακτινίδιο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_LAVENDER:
+  name: Χτυπημένη Λεβάντα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_LEEK:
+  name: Χτυπημένο Πράσο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_LEMON:
+  name: Χτυπημένο Λεμόνι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_LETTUCE:
+  name: Χτυπημένο Μαρούλι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_LICORICE:
+  name: Χτυπημένη Γλυκόριζα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_LIME:
+  name: Χτυπημένο Λάιμ
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_MACE:
+  name: Χτυπημένο Μάκις
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_MANGO:
+  name: Χτυπημένο Μάνγκο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_MARJORAM:
+  name: Χτυπημένη Ματζουράνα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_MARROW:
+  name: Χτυπημένο Κολοκύθι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_MELON:
+  name: Χτυπημένο Καρπούζι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_MINT:
+  name: Χτυπημένος Δυόσμος
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_MUSTARD_SEEDS:
+  name: Χτυπημένοι Σιναπόσποροι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_MUTTON:
+  name: Χτυπημένο Πρόβειο Κρέας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_NETTLES:
+  name: Χτυπημένες Τσουκνίδες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_OKRA:
+  name: Χτυπημένες Μπάμιες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_ONION:
+  name: Χτυπημένο Κρεμμύδι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_ORANGE:
+  name: Χτυπημένο Πορτοκάλι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_OREGANO:
+  name: Χτυπημένη Ρίγανη
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_PARSLEY:
+  name: Χτυπημένος Μαϊντανός
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_PARSNIP:
+  name: Χτυπημένη Παστινάκη
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_PEA:
+  name: Χτυπημένος Αρακάς
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_PEACH:
+  name: Χτυπημένο Ροδάκινο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_PEANUT:
+  name: Χτυπημένο Αράπικο Φιστίκι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_PEAR:
+  name: Χτυπημένο Αχλάδι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_PECAN:
+  name: Χτυπημένο Πεκάν
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_PEPPER:
+  name: Χτυπημένο Μαύρο Πιπέρι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_PEPPERONI:
+  name: Χτυπημένο Πεπερόνι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_PINEAPPLE:
+  name: Χτυπημένος Ανανάς
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_PINTO_BEANS:
+  name: Χτυπημένα Φασόλια Πίντο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_PORKCHOP:
+  name: Χτυπημένη Χοιρινή Μπριζόλα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_POTATO:
+  name: Χτυπημένη Πατάτα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_PUFFERFISH:
+  name: Χτυπημένο Ψάρι Φούσκα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_PUMPKIN:
+  name: Χτυπημένη Κολοκύθα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_RABBIT:
+  name: Χτυπημένο Κουνέλι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_RADDISH:
+  name: Χτυπημένο Ραπανάκι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_RADICCHIO:
+  name: Χτυπημένο Ραντίτσιο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_RAPESEED:
+  name: Χτυπημένη Ελαιοκράμβη
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_RED_MUSHROOM:
+  name: Χτυπημένο Κόκκινο Μανιτάρι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_RHUBARB:
+  name: Χτυπημένο Ραβέντι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_RICE:
+  name: Χτυπημένο Ρύζι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_ROSEMARY:
+  name: Χτυπημένο Δεντρολίβανο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_ROTTEN_FLESH:
+  name: Χτυπημένη Σάπια Σάρκα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_RUNNER_BEANS:
+  name: Χτυπημένα Φασόλια Μπαρμπούνια
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_RUTABAGA:
+  name: Χτυπημένη Ρουταμπάγκα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_SALMON:
+  name: Χτυπημένος Σολομός
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_SASSAFRAS:
+  name: Χτυπημένος Σασαφράς
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_SHALLOT:
+  name: Χτυπημένο Ασκαλώνιο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_SHISO:
+  name: Χτυπημένο Σίσο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_SOY_BEANS:
+  name: Χτυπημένα Φασόλια Σόγιας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_SPINACH:
+  name: Χτυπημένο Σπανάκι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_STAR_ANISE:
+  name: Χτυπημένος Αστεροειδής Γλυκάνισος
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_STRAWBERRY:
+  name: Χτυπημένη Φράουλα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_SUGAR:
+  name: Χτυπημένη Ζάχαρη
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_SWEETCORN:
+  name: Χτυπημένο Γλυκό Καλαμπόκι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_SWEET_BERRIES:
+  name: Χτυπημένα Γλυκά Μούρα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_SWEET_POTATO:
+  name: Χτυπημένη Γλυκοπατάτα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_TARRAGON:
+  name: Χτυπημένο Εστραγκόν
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_THYME:
+  name: Χτυπημένο Θυμάρι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_TOMATO:
+  name: Χτυπημένη Ντομάτα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_TURMERIC:
+  name: Χτυπημένος Κουρκουμάς
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_TURNIP:
+  name: Χτυπημένο Γογγύλι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_VANILLA:
+  name: Χτυπημένη Βανίλια
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_WASABI:
+  name: Χτυπημένο Γουασάμπι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLENDED_WHEAT:
+  name: Χτυπημένο Σιτάρι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BLUE_CANDY:
+  name: Μπλε Καραμέλα
+  type:
+  - '&7&oΤρόφιμο'
+  description:
+  - Μια υπέροχα γλυκιά καραμέλα.
+  stats:
+  - '&8⇨ &7Εμφανίζει έναν Κατευναστή'
+CLT_BOILED_APPLE:
+  name: Βραστό Μήλο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_APRICOT:
+  name: Βραστό Βερίκοκο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_ARTICHOKE:
+  name: Βραστή Αγκινάρα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_ASPARAGUS:
+  name: Βραστό Σπαράγγι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_AUBERGINE:
+  name: Βραστή Μελιτζάνα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_AVOCADO:
+  name: Βραστό Αβοκάντο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_BANANA:
+  name: Βραστή Μπανάνα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_BASIL:
+  name: Βραστός Βασιλικός
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_BAY_LEAF:
+  name: Βραστό Φύλλο Δάφνης
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_BEEF:
+  name: Βραστό Βοδινό
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_BEETROOT:
+  name: Βραστό Παντζάρι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_BELL_PEPPER:
+  name: Βραστή Γλυκιά Πιπεριά
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_BLACK_BEANS:
+  name: Βραστά Μαύρα Φασόλια
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_BREAD:
+  name: Βραστό Ψωμί
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_BROCCOLI:
+  name: Βραστό Μπρόκολο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_BROWN_MUSHROOM:
+  name: Βραστό Καφέ Μανιτάρι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_BRUSSELS_SPROUTS:
+  name: Βραστά Λαχανάκια Βρυξελλών
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_CABBAGE:
+  name: Βραστό Λάχανο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_CARROT:
+  name: Βραστό Καρότο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_CAULIFLOWER:
+  name: Βραστό Κουνουπίδι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_CAYENNE_PEPPER:
+  name: Βραστό Πιπέρι Καγιέν
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_CELERIAC:
+  name: Βραστή Σελινόριζα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_CELERY:
+  name: Βραστό Σέλινο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_CHERRY:
+  name: Βραστό Κεράσι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_CHESTNUT:
+  name: Βραστό Κάστανο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_CHICKEN:
+  name: Βραστό Κοτόπουλο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_CHICKPEAS:
+  name: Βραστά Ρεβίθια
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_CHICORY:
+  name: Βραστό Ραδίκι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_CHILLY_PEPPER:
+  name: Βραστή Καυτερή Πιπεριά
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_CHIVES:
+  name: Βραστό Σχοινόπρασο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_CHORUS_FRUIT:
+  name: Βραστό Χορικό Φρούτο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_CILANTRO:
+  name: Βραστό Κόλιαντρο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_CINNAMON:
+  name: Βραστή Κανέλα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_CLOVE:
+  name: Βραστό Μοσχοκάρφι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_COCOA_BEANS:
+  name: Βραστοί Σπόροι Κακάο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_COD:
+  name: Βραστός Μπακαλιάρος
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_COURGETTE:
+  name: Βραστό Κολοκυθάκι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_CUCUMBER:
+  name: Βραστό Αγγούρι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_CUMIN:
+  name: Βραστό Κύμινο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_CURRY_LEAF:
+  name: Βραστό Φύλλο Κάρι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_DILL:
+  name: Βραστός Άνηθος
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_EGG:
+  name: Βραστό Αβγό
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_ENCHANTED_GOLDEN_APPLE:
+  name: Βραστό Μαγεμένο Χρυσό Μήλο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_FENNEL:
+  name: Βραστό Μάραθο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_GARLIC:
+  name: Βραστό Σκόρδο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_GINGER:
+  name: Βραστό Τζίντζερ
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_GLOW_BERRIES:
+  name: Βραστά Λαμπερά Μούρα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_GOLDEN_APPLE:
+  name: Βραστό Χρυσό Μήλο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_GOLDEN_CARROT:
+  name: Βραστό Χρυσό Καρότο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_GRAPE:
+  name: Βραστό Σταφύλι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_GREEN_APPLE:
+  name: Βραστό Πράσινο Μήλο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_GREEN_BEANS:
+  name: Βραστά Φασολάκια
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_GREEN_ONION:
+  name: Βραστό Φρέσκο Κρεμμυδάκι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_HAZELNUT:
+  name: Βραστό Φουντούκι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_HORSERADISH:
+  name: Βραστό Χρένο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_JALAPENO:
+  name: Βραστό Χαλαπένιο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_JASMINE:
+  name: Βραστό Γιασεμί
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_JUNIPER_BERRY:
+  name: Βραστά Κεδροκούκουτσα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_KAFFIR_LIME:
+  name: Βραστό Φύλλο Κάφιρ Λάιμ
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_KALE:
+  name: Βραστή Λαχανίδα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_KELP:
+  name: Βραστό Φύκι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_KIWI:
+  name: Βραστό Ακτινίδιο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_LAVENDER:
+  name: Βραστή Λεβάντα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_LEEK:
+  name: Βραστό Πράσο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_LEMON:
+  name: Βραστό Λεμόνι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_LETTUCE:
+  name: Βραστό Μαρούλι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_LICORICE:
+  name: Βραστή Γλυκόριζα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_LIME:
+  name: Βραστό Λάιμ
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_MACE:
+  name: Βραστό Μάκις
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_MANGO:
+  name: Βραστό Μάνγκο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_MARJORAM:
+  name: Βραστή Ματζουράνα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_MARROW:
+  name: Βραστό Κολοκύθι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_MELON:
+  name: Βραστό Καρπούζι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_MINT:
+  name: Βραστός Δυόσμος
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_MUSTARD_SEEDS:
+  name: Βραστοί Σιναπόσποροι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_MUTTON:
+  name: Βραστό Πρόβειο Κρέας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_NETTLES:
+  name: Βραστές Τσουκνίδες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_OKRA:
+  name: Βραστές Μπάμιες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_ONION:
+  name: Βραστό Κρεμμύδι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_ORANGE:
+  name: Βραστό Πορτοκάλι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_OREGANO:
+  name: Βραστή Ρίγανη
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_PARSLEY:
+  name: Βραστός Μαϊντανός
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_PARSNIP:
+  name: Βραστή Παστινάκη
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_PEA:
+  name: Βραστός Αρακάς
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_PEACH:
+  name: Βραστό Ροδάκινο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_PEANUT:
+  name: Βραστό Αράπικο Φιστίκι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_PEAR:
+  name: Βραστό Αχλάδι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_PECAN:
+  name: Βραστό Πεκάν
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_PEPPER:
+  name: Βραστό Μαύρο Πιπέρι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_PEPPERONI:
+  name: Βραστό Πεπερόνι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_PINEAPPLE:
+  name: Βραστός Ανανάς
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_PINTO_BEANS:
+  name: Βραστά Φασόλια Πίντο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_PORKCHOP:
+  name: Βραστή Χοιρινή Μπριζόλα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_POTATO:
+  name: Βραστή Πατάτα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_PUFFERFISH:
+  name: Βραστό Ψάρι Φούσκα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_PUMPKIN:
+  name: Βραστή Κολοκύθα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_RABBIT:
+  name: Βραστό Κουνέλι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_RADDISH:
+  name: Βραστό Ραπανάκι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_RADICCHIO:
+  name: Βραστό Ραντίτσιο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_RAPESEED:
+  name: Βραστή Ελαιοκράμβη
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_RED_MUSHROOM:
+  name: Βραστό Κόκκινο Μανιτάρι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_RHUBARB:
+  name: Βραστό Ραβέντι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_RICE:
+  name: Βραστό Ρύζι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_ROSEMARY:
+  name: Βραστό Δεντρολίβανο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_ROTTEN_FLESH:
+  name: Βραστή Σάπια Σάρκα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_RUNNER_BEANS:
+  name: Βραστά Φασόλια Μπαρμπούνια
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_RUTABAGA:
+  name: Βραστή Ρουταμπάγκα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_SALMON:
+  name: Βραστός Σολομός
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_SASSAFRAS:
+  name: Βραστός Σασαφράς
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_SHALLOT:
+  name: Βραστό Ασκαλώνιο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_SHISO:
+  name: Βραστό Σίσο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_SOY_BEANS:
+  name: Βραστά Φασόλια Σόγιας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_SPINACH:
+  name: Βραστό Σπανάκι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_STAR_ANISE:
+  name: Βραστός Αστεροειδής Γλυκάνισος
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_STRAWBERRY:
+  name: Βραστή Φράουλα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_SUGAR:
+  name: Βραστή Ζάχαρη
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_SWEETCORN:
+  name: Βραστό Γλυκό Καλαμπόκι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_SWEET_BERRIES:
+  name: Βραστά Γλυκά Μούρα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_SWEET_POTATO:
+  name: Βραστή Γλυκοπατάτα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_TARRAGON:
+  name: Βραστό Εστραγκόν
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_THYME:
+  name: Βραστό Θυμάρι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_TOMATO:
+  name: Βραστή Ντομάτα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_TURMERIC:
+  name: Βραστός Κουρκουμάς
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_TURNIP:
+  name: Βραστό Γογγύλι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_VANILLA:
+  name: Βραστή Βανίλια
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_WASABI:
+  name: Βραστό Γουασάμπι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOILED_WHEAT:
+  name: Βραστό Σιτάρι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_BOWL_OF_STEVE:
+  name: Μπολ με... Στιβ;
+  type:
+  - '&7&oΤρόφιμο'
+  description:
+  - Τι στο &%£$
+  stats:
+  - '&8⇨ &bΚόπωση Εξόρυξης X &7(10:00)'
+  - '&8⇨ &bΒραδύτητα VI &7(10:00)'
+  - '&8⇨ &bΙσχύς X &7(10:00)'
+  - '&8⇨ &7Σε ρίχνει στη 1/2 καρδιά'
+CLT_BROCCOLI:
+  name: Μπρόκολο
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Είσαι γίγαντας που κρατάει ένα δέντρο;
+  - Όχι ρε, απλώς ένα μικρούλι δέντρο :)
+CLT_BRUSSELS_SPROUTS:
+  name: Λαχανάκια Βρυξελλών
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Μια αεριώδης απόλαυση.
+CLT_BUSH_ARTICHOKE:
+  name: Θάμνος Αγκινάρας
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Ο καλύτερος θάμνος για να πνίξεις έναν
+  - καλλιτέχνη. Αχ. Τα λογοπαίγνια είναι δύσκολα.
+CLT_BUSH_ASPARAGUS:
+  name: Θάμνος Σπαραγγιού
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Αυτός ο θάμνος σπαραγγιού είναι
+  - σπαρα-χτικά καλός στο να σε παρακολουθεί!
+CLT_BUSH_AUBERGINE:
+  name: Θάμνος Μελιτζάνας
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Αρνούμαι να πω τη λέξη αβγοφυτό. Έτσι απλά.
+CLT_BUSH_AVOCADO:
+  name: Θάμνος Αβοκάντο
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Αυτός ο θάμνος καλλιεργήθηκε ειδικά για να μην
+  - ξοδεύει πολύ νερό.
+CLT_BUSH_BASIL:
+  name: Θάμνος Βασιλικού
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Ένας ανέμελος θάμνος γεμάτος καπρίτσια.
+CLT_BUSH_BAY_LEAF:
+  name: Θάμνος Δάφνης
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Η μυρωδιά αυτού του θάμνου ταξιδεύει χιλιόμετρα.
+CLT_BUSH_BELL_PEPPER:
+  name: Θάμνος Γλυκιάς Πιπεριάς
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Πρόσεχε όταν περνάς δίπλα του, μπορεί
+  - να χτυπήσεις την καμπάνα.
+CLT_BUSH_BLACK_BEANS:
+  name: Θάμνος Μαύρων Φασολιών
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - 'Αυτός ο θάμνος σου ψιθυρίζει τρυφερά:'
+  - Είσαι υπέροχος άνθρωπος, φασουλάκι μου.
+CLT_BUSH_BROCCOLI:
+  name: Θάμνος Μπρόκολου
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Μικρά δεντράκια που τρώγονται; Ποιος το εφεύρε αυτό;!
+CLT_BUSH_BRUSSELS_SPROUTS:
+  name: Θάμνος Λαχανακιών Βρυξελλών
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Ένας θάμνος που μερικές φορές παράγει τοξικά
+  - αέρια.
+CLT_BUSH_CABBAGE:
+  name: Θάμνος Λάχανου
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Ένας θάμνος που κουβαλάει τεράστιο
+  - συναισθηματικό λάχανο... εεε, φορτίο.
+CLT_BUSH_CAULIFLOWER:
+  name: Θάμνος Κουνουπιδιού
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Ένας θάμνος ικανός να παράγει μικρά συννεφάκια
+  - απόλαυσης.
+CLT_BUSH_CAYENNE_PEPPER:
+  name: Θάμνος Πιπεριού Καγιέν
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Ένας θάμνος με πιπεράτη συμπεριφορά.
+CLT_BUSH_CELERIAC:
+  name: Θάμνος Σελινόριζας
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Κι άλλη ρίζα που φυτρώνει σε θάμνο;
+  - ΣέφιΧαζομάρα™
+CLT_BUSH_CELERY:
+  name: Θάμνος Σέλινου
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Αυτός ο θάμνος είναι περιττός.
+  - Ο Σέφι δεν συμπαθεί το Σέλινο.
+CLT_BUSH_CHICKPEAS:
+  name: Θάμνος Ρεβιθιών
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Ένας θάμνος που φτιάχτηκε διασταυρώνοντας μια κότα με
+  - ένα ρεβίθι. ΕΠΙΣΤΗΜΗ.
+CLT_BUSH_CHICORY:
+  name: Θάμνος Ραδικιού
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Νόμιζα ότι το ραδίκι ήταν ρίζα; Αυτό το πρόσθετο
+  - κάνει καν την έρευνά του;!
+CLT_BUSH_CHILLI_PEPPER:
+  name: Θάμνος Καυτερής Πιπεριάς
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Και μόνο που κοιτάζω αυτόν τον θάμνο καίγεται η γλώσσα μου.
+CLT_BUSH_CHIVES:
+  name: Θάμνος Σχοινόπρασου
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Ένας θάμνος που παράγει, ουσιαστικά, το πιο
+  - μικρό κρεμμύδι στον κόσμο.
+CLT_BUSH_CILANTRO:
+  name: Θάμνος Κόλιαντρου
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Μια αχνή μυρωδιά εσπεριδοειδών και μπαχαρικών βγαίνει από αυτόν τον θάμνο.
+CLT_BUSH_CINNAMON:
+  name: Θάμνος Κανέλας
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Ένας υπέροχα αρωματικός θάμνος.
+CLT_BUSH_CLOVE:
+  name: Θάμνος Μοσχοκαρφιού
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Ένας θάμνος που απλώς μου θυμίζει Χριστούγεννα.
+CLT_BUSH_COURGETTE:
+  name: Θάμνος Κολοκυθακιού
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Γιατί αυτός ο θάμνος φωνάζει συνέχεια τη
+  - λέξη Ζουκίνι; Μάλλον θα είναι Αμερικάνος;
+CLT_BUSH_CUCUMBER:
+  name: Θάμνος Αγγουριού
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Αυτός ο θάμνος σχεδιάστηκε αποκλειστικά για
+  - τις υπέροχες καλοκαιρινές σου σαλάτες.
+CLT_BUSH_CUMIN:
+  name: Θάμνος Κύμινου
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Ένας θάμνος που αναδίδει ζεστό άρωμα εσπεριδοειδών.
+CLT_BUSH_CURRY_LEAF:
+  name: Θάμνος Κάρι
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Καλύτερο όταν καβουρδίζεται χωρίς λάδι.
+CLT_BUSH_DILL:
+  name: Θάμνος Άνηθου
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Αυτός ο θάμνος μεγαλώνει πολύ πιο γρήγορα από τους άλλους.
+CLT_BUSH_FENNEL:
+  name: Θάμνος Μάραθου
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Γιατί αυτός ο θάμνος διώχνει τα ζουζούνια;!
+CLT_BUSH_GARLIC:
+  name: Θάμνος Σκόρδου
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Αυτός ο θάμνος έχει απλώς τη χειρότερη ανάσα.
+CLT_BUSH_GINGER:
+  name: Θάμνος Τζίντζερ
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Αυτός ο θάμνος είναι ωραίος όταν βράζεται ολόκληρος.
+CLT_BUSH_GRAPE:
+  name: Θάμνος Σταφυλιού
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Ώριμα και ζουμερά σταφύλια που σχεδόν πέφτουν
+  - μόνα τους από τον θάμνο.
+CLT_BUSH_GREEN_BEANS:
+  name: Θάμνος Φασολακιών
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Ρίξε σάλτσα ντομάτας πάνω σε αυτόν τον θάμνο για να φτιάξεις
+  - φασόλια στον φούρνο.
+CLT_BUSH_GREEN_ONION:
+  name: Θάμνος Φρέσκου Κρεμμυδιού
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Γνωστά και ως Χλωρά Κρεμμύδια.
+  - Τα Φρέσκα Κρεμμυδάκια έχουν γενικά
+  - πιο ήπια γεύση από τα περισσότερα κρεμμύδια.
+CLT_BUSH_HORSERADISH:
+  name: Θάμνος Χρένου
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Πάλι, το να φυτρώνει αυτό σε θάμνο δεν βγάζει κανένα νόημα.
+CLT_BUSH_JALAPENO:
+  name: Θάμνος Χαλαπένιο
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Και μόνο που κρατάς αυτόν τον θάμνο έχεις
+  - 1% πιθανότητα να πάρεις φωτιά.
+CLT_BUSH_JASMINE:
+  name: Θάμνος Γιασεμιού
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Το άρωμα αυτού του θάμνου είναι τόσο απαλό και γλυκό.
+CLT_BUSH_JUNIPER_BERRY:
+  name: Θάμνος Αρκεύθου
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Τόσο γλυκό στον θάμνο, πιπεράτο όταν ξεραθεί.
+CLT_BUSH_KAFFIR_LIME:
+  name: Θάμνος Κάφιρ Λάιμ
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Ένας θάμνος του οποίου τα φύλλα είναι πιο περιζήτητα από τον καρπό του.
+CLT_BUSH_KALE:
+  name: Θάμνος Λαχανίδας
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Όταν φυτεύεις αυτόν τον θάμνο, νιώθεις
+  - ότι όλα θα πάνε λαχανιδο-τέλεια.
+CLT_BUSH_LAVENDER:
+  name: Θάμνος Λεβάντας
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Αυτός ο θάμνος σκορπίζει τη μυρωδιά του παντού.
+CLT_BUSH_LEEK:
+  name: Θάμνος Πράσου
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Ήξερες ότι το πράσο είναι απλώς ένα κρεμμύδι που
+  - φοράει κορσέ; Αληθινή ιστορία.
+CLT_BUSH_LETTUCE:
+  name: Θάμνος Μαρουλιού
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Φυτρώνει καν το μαρούλι σε θάμνους;
+  - 'Σπόιλερ: Όχι, δεν φυτρώνει.'
+CLT_BUSH_LICORICE:
+  name: Θάμνος Γλυκόριζας
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Αηδία
+CLT_BUSH_MACE:
+  name: Θάμνος Μάκις
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Αυτός ο θάμνος μοιάζει να απωθεί τους επιτιθέμενους;
+CLT_BUSH_MARJORAM:
+  name: Θάμνος Ματζουράνας
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Ένας μεγάλος θάμνος με ξυλώδη μυρωδιά.
+CLT_BUSH_MARROW:
+  name: Θάμνος Κολοκυθιού
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Απορώ πώς αυτός ο θάμνος αντέχει το
+  - ίδιο του το βάρος.
+CLT_BUSH_MINT:
+  name: Θάμνος Δυόσμου
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Απλώς ο θάμνος με την καλύτερη μυρωδιά.
+CLT_BUSH_MUSTARD:
+  name: Θάμνος Σιναπιού
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Σαν φωτιά στο στόμα σου.
+CLT_BUSH_NETTLES:
+  name: Θάμνος Τσουκνίδας
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Πρόσεχε όταν περνάς μέσα από αυτόν τον θάμνο!
+CLT_BUSH_OKRA:
+  name: Θάμνος Μπάμιας
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Ψηφίστηκε το νούμερο 1 λαχανικό σύμφωνα με
+  - τη Λέσχη Λαχανικών της Μπάμιας Γουίνφρεϊ.
+CLT_BUSH_ONION:
+  name: Θάμνος Κρεμμυδιού
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Αυτός ο θάμνος μοιάζει σαν να βουρκώνει;
+CLT_BUSH_OREGANO:
+  name: Θάμνος Ρίγανης
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Αυτός ο θάμνος με την έντονη μυρωδιά διώχνει τους επισκέπτες.
+CLT_BUSH_PARSLEY:
+  name: Θάμνος Μαϊντανού
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Πέτα αυτόν τον θάμνο στη λάβα, τώρα :)
+CLT_BUSH_PARSNIP:
+  name: Θάμνος Παστινάκης
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Παράκαμψε τον μεσάζοντα και ψήσε τον θάμνο
+  - απευθείας.
+CLT_BUSH_PEA:
+  name: Θάμνος Αρακά
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Εγώ πάντως προτιμώ τα ρεβίθια.
+CLT_BUSH_PEANUTS:
+  name: Θάμνος Αράπικου Φιστικιού
+  type:
+  - '&7&oΘάμνος'
+  description: &id001
+  - Σφιχτό, αρωματικό και γεμάτο πρωτεΐνη.
+CLT_BUSH_PEPPER:
+  name: Θάμνος Μαύρου Πιπεριού
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Το Μαύρο Πιπέρι ήταν σημαντικό κομμάτι του
+  - εμπορίου μπαχαρικών μεταξύ Ινδίας και Ευρώπης
+  - ήδη από την ελληνική και ρωμαϊκή εποχή.
+CLT_BUSH_PINTO_BEANS:
+  name: Θάμνος Φασολιών Πίντο
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Σε λίγο θα καταφέρουμε να καλλιεργήσουμε
+  - έναν θάμνο που βγάζει κατευθείαν μπουρίτο, σωστά;
+CLT_BUSH_RADDISH:
+  name: Θάμνος Ραπανιού
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Αυτό το φυτό μόλις έκανε κόλπο με σκέιτμπορντ.
+  - Εντελώς ραπ... ανάκι.
+CLT_BUSH_RADICCHIO:
+  name: Θάμνος Ραντίτσιο
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Θες να ακουστείς ψαγμένος; Βάλε Ραντίτσιο σε κάθε
+  - γεύμα, είναι ουσιαστικά σαν λάχανο αλλά
+  - σε κάνει να φαίνεσαι εκλεπτυσμένος.
+CLT_BUSH_RAPESEED:
+  name: Θάμνος Ελαιοκράμβης
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Αυτός ο θάμνος εκκρίνει κάποια λαδερή ουσία.
+CLT_BUSH_RHUBARB:
+  name: Θάμνος Ραβεντιού
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Ήξερες ότι το ραβέντι είναι λαχανικό;
+  - Νόμιζα ότι ήταν είδος σφυριού.
+CLT_BUSH_RICE:
+  name: Θάμνος Ρυζιού
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Η απόλυτη βασική τροφή.
+CLT_BUSH_ROSEMARY:
+  name: Θάμνος Δεντρολίβανου
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Ένας θάμνος που η μυρωδιά του θυμίζει κυριακάτικο τραπέζι.
+CLT_BUSH_RUNNER_BEANS:
+  name: Θάμνος Φασολιών Μπαρμπούνια
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Αυτός ο θάμνος έχει πόδια ο.ο;
+CLT_BUSH_RUTABAGA:
+  name: Θάμνος Ρουταμπάγκας
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Γογγύλι Σουηδίας. Είναι γογγύλι Σουηδίας.
+CLT_BUSH_SASSAFRAS:
+  name: Θάμνος Σασαφρά
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Αυτός ο θάμνος λατρεύει να φυτεύεται κοντά σε μικρές
+  - λιμνούλες νερού.
+CLT_BUSH_SHALLOT:
+  name: Θάμνος Ασκαλωνίου
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Αυτός ο θάμνος βγάζει γρήγορα υπέροχα μίνι κρεμμυδάκια.
+  - Ευτυχώς δεν χρειάζεσαι και κανένα σασκαλώνιο... εεε, ασκαλώνιο.
+CLT_BUSH_SHISO:
+  name: Θάμνος Σίσο
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Μου αρέσει να πιστεύω ότι αυτός ο θάμνος είναι το παιδί της αγάπης
+  - ενός θάμνου δυόσμου και ενός θάμνου βασιλικού. Κρίμα
+  - που η διασταύρωση θάμνων δεν υπάρχει!
+CLT_BUSH_SOY_BEANS:
+  name: Θάμνος Σόγιας
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Αυτός ο θάμνος είναι μια φιλική απόλαυση. Με κάνει
+  - σο-για-χαρούμενο.
+CLT_BUSH_SPINACH:
+  name: Θάμνος Σπανακιού
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Αυτός ο θάμνος είναι ο κολλητός του Ποπάυ.
+CLT_BUSH_STAR_ANISE:
+  name: Θάμνος Αστεροειδούς Γλυκάνισου
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Μια μυρωδιά βγαίνει από αυτόν τον θάμνο, τόσο μοναδική
+  - για γλυκάνισο, που δεν θα το πιστεύεις.
+CLT_BUSH_STRAWBERRY:
+  name: Θάμνος Φράουλας
+  type:
+  - '&7&oΘάμνος'
+  description: *id001
+CLT_BUSH_SWEETCORN:
+  name: Θάμνος Γλυκού Καλαμποκιού
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Αυτός ο θάμνος φωνάζει να τον κάνεις
+  - λαβύρινθο.
+CLT_BUSH_SWEET_POTATO:
+  name: Θάμνος Γλυκοπατάτας
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Αυτός ο θάμνος είναι τόσο γλυκός. Τον άκουσα
+  - να σε παινεύει όταν δεν πρόσεχες.
+CLT_BUSH_TARRAGON:
+  name: Θάμνος Εστραγκόν
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Αυτός ο θάμνος δεν θέλει να τραβάει πολύ την προσοχή.
+CLT_BUSH_THYME:
+  name: Θάμνος Θυμαριού
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Αυτός ο θάμνος πάντα ξεμένει από... χρόνο... εεε, θυμάρι... *βήχας*
+CLT_BUSH_TOMATO:
+  name: Θάμνος Ντομάτας
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Ώριμο και έτοιμο.
+CLT_BUSH_TURMERIC:
+  name: Θάμνος Κουρκουμά
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Μια ριπή μπαχαρικών χτυπάει τη μύτη σου μόλις
+  - πιάσεις αυτόν τον θάμνο.
+CLT_BUSH_TURNIP:
+  name: Θάμνος Γογγυλιού
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Σύμφωνα με τη Βρετανική Κυβέρνηση
+  - αυτός ο θάμνος θα λύσει όλα μας τα προβλήματα.
+CLT_BUSH_VANILLA:
+  name: Θάμνος Βανίλιας
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Αυτός ο θάμνος φυτρώνει αυτοφυώς κοντά σε καταστήματα Στάρμπακς.
+CLT_BUSH_WASABI:
+  name: Θάμνος Γουασάμπι
+  type:
+  - '&7&oΘάμνος'
+  description:
+  - Κι άλλη ρίζα που φυτρώνει σε θάμνο;
+  - Αχ...
+CLT_CABBAGE:
+  name: Λάχανο
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Ένας ολόκληρος μπόγος λάχανο.
+CLT_CAESAR_SALAD:
+  name: Σαλάτα Καίσαρα
+  type:
+  - '&7&oΤρόφιμο'
+  description:
+  - Ένα υγιεινό κλασικό.
+  stats:
+  - '&8⇨ &7Θεραπεία: &b6 Καρδιές'
+  - '&8⇨ &bΤαχύτητα I &7(10:00)'
+  - '&8⇨ &bΑορατότητα I &7(10:00)'
+  - '&8⇨ &bΑργή Πτώση I &7(10:00)'
+CLT_CAJUN_GARLIC_BUTTER_COD:
+  name: Μπακαλιάρος Κάτζουν με Βούτυρο Σκόρδου
+  type:
+  - '&7&oΤρόφιμο'
+  description:
+  - Ένα πολύ απλό πιάτο που σκάει από γεύση.
+  stats:
+  - '&8⇨ &7Θεραπεία: &b4 Καρδιές'
+  - '&8⇨ &bΑναζωογόνηση II &7(10:00)'
+  - '&8⇨ &bΤαχύτητα I &7(10:00)'
+CLT_CAULIFLOWER:
+  name: Κουνουπίδι
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Ένα φορητό σύννεφο!
+CLT_CAYENNE_PEPPER:
+  name: Πιπέρι Καγιέν
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Μια απαλή πικάντικη λιχουδιά.
+CLT_CELERIAC:
+  name: Σελινόριζα
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Μια χορταστική ρίζα που έχει ριζώσει (χε) σε πολλές
+  - παραδοσιακές συνταγές.
+CLT_CELERY:
+  name: Σέλινο
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Κυριολεκτικά νερό με ίνες. Πείσε
+  - με για το αντίθετο.
+CLT_CHEESE_BURGER:
+  name: Μπέργκερ
+  type:
+  - '&7&oΤρόφιμο'
+  description:
+  - Ένα απλό τσίζμπεργκερ, αλλά τίποτα δεν το ξεπερνά!
+  stats:
+  - '&8⇨ &7Θεραπεία: &b4 Καρδιές'
+  - '&8⇨ &bΑναζωογόνηση III &7(10:00)'
+CLT_CHEESY_SCALLOPED_COURGETTE:
+  name: Κολοκυθάκια Ογκρατέν με Τυρί
+  type:
+  - '&7&oΤρόφιμο'
+  description:
+  - Μια εκδοχή χαμηλή σε υδατάνθρακες ενός υπέροχου κλασικού.
+  stats:
+  - '&8⇨ &7Θεραπεία: &b2 Καρδιές'
+  - '&8⇨ &bΝυχτερινή Όραση I &7(10:00)'
+  - '&8⇨ &bΑορατότητα I &7(10:00)'
+CLT_CHERRY:
+  name: Κεράσι
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Α, νόμιζα ότι φύτρωναν έτοιμα γλασέ, κρίμα!
+CLT_CHESTNUT:
+  name: Κάστανο
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Φτιαγμένο για να ψηθεί, αμέσως.
+CLT_CHICKEN_ALFREDO_MAC_AND_CHEESE:
+  name: Μακαρόνια με Τυρί και Κοτόπουλο Αλφρέντο
+  type:
+  - '&7&oΤρόφιμο'
+  description:
+  - Μια κυριλέ εκδοχή ενός συνηθισμένου κλασικού.
+  stats:
+  - '&8⇨ &7Θεραπεία: &b1 Καρδιά'
+  - '&8⇨ &bΑντίσταση Φωτιάς II &7(10:00)'
+  - '&8⇨ &bΑντίσταση III &7(10:00)'
+CLT_CHICKEN_PASTA_BAKE:
+  name: Ζυμαρικά Φούρνου με Κοτόπουλο
+  type:
+  - '&7&oΤρόφιμο'
+  description:
+  - Βασική τροφή κάθε φοιτητή.
+  stats:
+  - '&8⇨ &7Θεραπεία: &b5 Καρδιές'
+  - '&8⇨ &bΝυχτερινή Όραση I &7(10:00)'
+  - '&8⇨ &bΥποβρύχια Αναπνοή I &7(10:00)'
+CLT_CHICKEN_POT_PIE:
+  name: Κοτόπιτα
+  type:
+  - '&7&oΤρόφιμο'
+  description:
+  - Ένα ζεστό γεύμα που σε κάνει να νιώθεις σπίτι σου.
+  stats:
+  - '&8⇨ &7Θεραπεία: &b10 Καρδιές'
+  - '&8⇨ &bΕνίσχυση Άλματος II &7(10:00)'
+  - '&8⇨ &bΚορεσμός I &7(10:00)'
+CLT_CHICKPEAS:
+  name: Ρεβίθια
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Τα μαυρομάτικα φασόλια ξέρουν να τραγουδούν, τα ρεβίθια μόνο να χουμουρίζουν.
+CLT_CHICORY:
+  name: Ραδίκι
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Μια πικρή ρίζα με γεύση ξηρών καρπών.
+CLT_CHILLY_PEPPER:
+  name: Καυτερή Πιπεριά
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Μπορώ να φάω μια ολόκληρη πιπεριά χωρίς να κλάψω.
+  - Εντάξει, τη μισή.
+  - ΚΑΛΑΑΑΑ.... 1/4
+  - '...'
+  - Οκ, μπορώ να ακουμπήσω μία στη γλώσσα μου
+CLT_CHIVES:
+  name: Σχοινόπρασο
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Ένα γλυκό βότανο με γεύση κρεμμυδιού.
+CLT_CHOPPED_APPLE:
+  name: Ψιλοκομμένο Μήλο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_APRICOT:
+  name: Ψιλοκομμένο Βερίκοκο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_ARTICHOKE:
+  name: Ψιλοκομμένη Αγκινάρα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_ASPARAGUS:
+  name: Ψιλοκομμένο Σπαράγγι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_AUBERGINE:
+  name: Ψιλοκομμένη Μελιτζάνα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_AVOCADO:
+  name: Ψιλοκομμένο Αβοκάντο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_BANANA:
+  name: Ψιλοκομμένη Μπανάνα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_BASIL:
+  name: Ψιλοκομμένος Βασιλικός
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_BAY_LEAF:
+  name: Ψιλοκομμένο Φύλλο Δάφνης
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_BEEF:
+  name: Ψιλοκομμένο Βοδινό
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_BEETROOT:
+  name: Ψιλοκομμένο Παντζάρι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_BELL_PEPPER:
+  name: Ψιλοκομμένη Γλυκιά Πιπεριά
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_BLACK_BEANS:
+  name: Ψιλοκομμένα Μαύρα Φασόλια
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_BREAD:
+  name: Ψιλοκομμένο Ψωμί
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_BROCCOLI:
+  name: Ψιλοκομμένο Μπρόκολο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_BROWN_MUSHROOM:
+  name: Ψιλοκομμένο Καφέ Μανιτάρι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_BRUSSELS_SPROUTS:
+  name: Ψιλοκομμένα Λαχανάκια Βρυξελλών
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_CABBAGE:
+  name: Ψιλοκομμένο Λάχανο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_CARROT:
+  name: Ψιλοκομμένο Καρότο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_CAULIFLOWER:
+  name: Ψιλοκομμένο Κουνουπίδι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_CAYENNE_PEPPER:
+  name: Ψιλοκομμένο Πιπέρι Καγιέν
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_CELERIAC:
+  name: Ψιλοκομμένη Σελινόριζα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_CELERY:
+  name: Ψιλοκομμένο Σέλινο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_CHERRY:
+  name: Ψιλοκομμένο Κεράσι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_CHESTNUT:
+  name: Ψιλοκομμένο Κάστανο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_CHICKEN:
+  name: Ψιλοκομμένο Κοτόπουλο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_CHICKPEAS:
+  name: Ψιλοκομμένα Ρεβίθια
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_CHICORY:
+  name: Ψιλοκομμένο Ραδίκι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_CHILLY_PEPPER:
+  name: Ψιλοκομμένη Καυτερή Πιπεριά
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_CHIVES:
+  name: Ψιλοκομμένο Σχοινόπρασο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_CHORUS_FRUIT:
+  name: Ψιλοκομμένο Χορικό Φρούτο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_CILANTRO:
+  name: Ψιλοκομμένο Κόλιαντρο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_CINNAMON:
+  name: Ψιλοκομμένη Κανέλα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_CLOVE:
+  name: Ψιλοκομμένο Μοσχοκάρφι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_COCOA_BEANS:
+  name: Ψιλοκομμένοι Σπόροι Κακάο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_COD:
+  name: Ψιλοκομμένος Μπακαλιάρος
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_COURGETTE:
+  name: Ψιλοκομμένο Κολοκυθάκι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_CUCUMBER:
+  name: Ψιλοκομμένο Αγγούρι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_CUMIN:
+  name: Ψιλοκομμένο Κύμινο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_CURRY_LEAF:
+  name: Ψιλοκομμένο Φύλλο Κάρι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_DILL:
+  name: Ψιλοκομμένος Άνηθος
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_EGG:
+  name: Ψιλοκομμένο Αβγό
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_ENCHANTED_GOLDEN_APPLE:
+  name: Ψιλοκομμένο Μαγεμένο Χρυσό Μήλο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_FENNEL:
+  name: Ψιλοκομμένο Μάραθο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_GARLIC:
+  name: Ψιλοκομμένο Σκόρδο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_GINGER:
+  name: Ψιλοκομμένο Τζίντζερ
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_GLOW_BERRIES:
+  name: Ψιλοκομμένα Λαμπερά Μούρα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_GOLDEN_APPLE:
+  name: Ψιλοκομμένο Χρυσό Μήλο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_GOLDEN_CARROT:
+  name: Ψιλοκομμένο Χρυσό Καρότο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_GRAPE:
+  name: Ψιλοκομμένο Σταφύλι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_GREEN_APPLE:
+  name: Ψιλοκομμένο Πράσινο Μήλο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_GREEN_BEANS:
+  name: Ψιλοκομμένα Φασολάκια
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_GREEN_ONION:
+  name: Ψιλοκομμένο Φρέσκο Κρεμμυδάκι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_HAZELNUT:
+  name: Ψιλοκομμένο Φουντούκι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_HORSERADISH:
+  name: Ψιλοκομμένο Χρένο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_JALAPENO:
+  name: Ψιλοκομμένο Χαλαπένιο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_JASMINE:
+  name: Ψιλοκομμένο Γιασεμί
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_JUNIPER_BERRY:
+  name: Ψιλοκομμένα Κεδροκούκουτσα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_KAFFIR_LIME:
+  name: Ψιλοκομμένο Φύλλο Κάφιρ Λάιμ
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_KALE:
+  name: Ψιλοκομμένη Λαχανίδα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_KELP:
+  name: Ψιλοκομμένο Φύκι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_KIWI:
+  name: Ψιλοκομμένο Ακτινίδιο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_LAVENDER:
+  name: Ψιλοκομμένη Λεβάντα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_LEEK:
+  name: Ψιλοκομμένο Πράσο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_LEMON:
+  name: Ψιλοκομμένο Λεμόνι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_LETTUCE:
+  name: Ψιλοκομμένο Μαρούλι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_LICORICE:
+  name: Ψιλοκομμένη Γλυκόριζα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_LIME:
+  name: Ψιλοκομμένο Λάιμ
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_MACE:
+  name: Ψιλοκομμένο Μάκις
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_MANGO:
+  name: Ψιλοκομμένο Μάνγκο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_MARJORAM:
+  name: Ψιλοκομμένη Ματζουράνα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_MARROW:
+  name: Ψιλοκομμένο Κολοκύθι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_MELON:
+  name: Ψιλοκομμένο Καρπούζι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_MINT:
+  name: Ψιλοκομμένος Δυόσμος
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_MUSTARD_SEEDS:
+  name: Ψιλοκομμένοι Σιναπόσποροι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_MUTTON:
+  name: Ψιλοκομμένο Πρόβειο Κρέας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_NETTLES:
+  name: Ψιλοκομμένες Τσουκνίδες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_OKRA:
+  name: Ψιλοκομμένες Μπάμιες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_ONION:
+  name: Ψιλοκομμένο Κρεμμύδι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_ORANGE:
+  name: Ψιλοκομμένο Πορτοκάλι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_OREGANO:
+  name: Ψιλοκομμένη Ρίγανη
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_PARSLEY:
+  name: Ψιλοκομμένος Μαϊντανός
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_PARSNIP:
+  name: Ψιλοκομμένη Παστινάκη
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_PEA:
+  name: Ψιλοκομμένος Αρακάς
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_PEACH:
+  name: Ψιλοκομμένο Ροδάκινο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_PEANUT:
+  name: Ψιλοκομμένο Αράπικο Φιστίκι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_PEAR:
+  name: Ψιλοκομμένο Αχλάδι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_PECAN:
+  name: Ψιλοκομμένο Πεκάν
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_PEPPER:
+  name: Ψιλοκομμένο Μαύρο Πιπέρι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_PEPPERONI:
+  name: Ψιλοκομμένο Πεπερόνι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_PINEAPPLE:
+  name: Ψιλοκομμένος Ανανάς
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_PINTO_BEANS:
+  name: Ψιλοκομμένα Φασόλια Πίντο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_PORKCHOP:
+  name: Ψιλοκομμένη Χοιρινή Μπριζόλα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_POTATO:
+  name: Ψιλοκομμένη Πατάτα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_PUFFERFISH:
+  name: Ψιλοκομμένο Ψάρι Φούσκα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_PUMPKIN:
+  name: Ψιλοκομμένη Κολοκύθα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_RABBIT:
+  name: Ψιλοκομμένο Κουνέλι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_RADDISH:
+  name: Ψιλοκομμένο Ραπανάκι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_RADICCHIO:
+  name: Ψιλοκομμένο Ραντίτσιο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_RAPESEED:
+  name: Ψιλοκομμένη Ελαιοκράμβη
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_RED_MUSHROOM:
+  name: Ψιλοκομμένο Κόκκινο Μανιτάρι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_RHUBARB:
+  name: Ψιλοκομμένο Ραβέντι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_RICE:
+  name: Ψιλοκομμένο Ρύζι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_ROSEMARY:
+  name: Ψιλοκομμένο Δεντρολίβανο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_ROTTEN_FLESH:
+  name: Ψιλοκομμένη Σάπια Σάρκα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_RUNNER_BEANS:
+  name: Ψιλοκομμένα Φασόλια Μπαρμπούνια
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_RUTABAGA:
+  name: Ψιλοκομμένη Ρουταμπάγκα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_SALMON:
+  name: Ψιλοκομμένος Σολομός
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_SASSAFRAS:
+  name: Ψιλοκομμένος Σασαφράς
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_SHALLOT:
+  name: Ψιλοκομμένο Ασκαλώνιο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_SHISO:
+  name: Ψιλοκομμένο Σίσο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_SOY_BEANS:
+  name: Ψιλοκομμένα Φασόλια Σόγιας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_SPINACH:
+  name: Ψιλοκομμένο Σπανάκι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_STAR_ANISE:
+  name: Ψιλοκομμένος Αστεροειδής Γλυκάνισος
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_STRAWBERRY:
+  name: Ψιλοκομμένη Φράουλα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_SUGAR:
+  name: Ψιλοκομμένη Ζάχαρη
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_SWEETCORN:
+  name: Ψιλοκομμένο Γλυκό Καλαμπόκι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_SWEET_BERRIES:
+  name: Ψιλοκομμένα Γλυκά Μούρα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_SWEET_POTATO:
+  name: Ψιλοκομμένη Γλυκοπατάτα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_TARRAGON:
+  name: Ψιλοκομμένο Εστραγκόν
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_THYME:
+  name: Ψιλοκομμένο Θυμάρι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_TOMATO:
+  name: Ψιλοκομμένη Ντομάτα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_TURMERIC:
+  name: Ψιλοκομμένος Κουρκουμάς
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_TURNIP:
+  name: Ψιλοκομμένο Γογγύλι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_VANILLA:
+  name: Ψιλοκομμένη Βανίλια
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_WASABI:
+  name: Ψιλοκομμένο Γουασάμπι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CHOPPED_WHEAT:
+  name: Ψιλοκομμένο Σιτάρι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_CILANTRO:
+  name: Κόλιαντρο
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Ένα απαλό μπαχαρικό με μια νότα εσπεριδοειδούς.
+CLT_CINNAMON:
+  name: Κανέλα
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Τέλειο για μάσημα σε μορφή ξυλαριού.
+CLT_CINNAMON_ROLL:
+  name: Ρολό Κανέλας
+  type:
+  - '&7&oΤρόφιμο'
+  description:
+  - Μια γλυκιά απόλαυση τυλιγμένη για πλάκα.
+  - Αν το φας, ο κόσμος σου γυρίζει ανάποδα!
+  stats:
+  - '&8⇨ &7Θεραπεία: &b4 Καρδιές'
+  - '&8⇨ &bΑνύψωση I &7(10:00)'
+  - '&8⇨ &bΑργή Πτώση I &7(10:00)'
+CLT_CLOVE:
+  name: Μοσχοκάρφι
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Μια πολύ ζεστή και έντονη γεύση.
+CLT_COMPRESSED_BISCUIT:
+  name: Συμπιεσμένο Μπισκότο
+  type:
+  - '&7&oΤρόφιμο'
+  description:
+  - Ένα μικρό σνακ με ακόμα πιο τεράστια γεύση.
+  stats: *id002
+CLT_COOKED_BURGER_PATTY:
+  name: Ψημένο Μπιφτέκι Μπέργκερ
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Κυριολεκτικά στάζει
+CLT_COUNTER_BLENDER:
+  name: Πάγκος Κουζίνας (Μπλέντερ)
+  type:
+  - '&7&oΜηχάνημα'
+  description:
+  - Κάνε δεξί κλικ σε αυτό το μπλοκ για να χτυπήσεις σοδειά στο μπλέντερ.
+  usage: &id003
+  - Συμβουλή! Αφού το τοποθετήσεις, πάτα Σιφτ + δεξί
+  - κλικ και το μπλοκ (ή τα μπλοκ) που κρατάς θα
+  - αλλάξει το σχέδιο της κουζίνας. Δοκίμασέ το!
+CLT_COUNTER_BOILING:
+  name: Πάγκος Κουζίνας (Κατσαρόλα Βρασμού)
+  type:
+  - '&7&oΜηχάνημα'
+  description:
+  - Μπορεί να βράσει ορισμένα αντικείμενα.
+  usage: *id003
+CLT_COUNTER_CHOPPING:
+  name: Πάγκος Κουζίνας (Ξύλο Ψιλοκοπής)
+  type:
+  - '&7&oΜηχάνημα'
+  description:
+  - Κάνε δεξί κλικ σε αυτό το μπλοκ για να ψιλοκόψεις σοδειά.
+  usage: *id003
+CLT_COUNTER_FINISHING:
+  name: Πάγκος Κουζίνας (Τελικό Στάδιο)
+  type:
+  - '&7&oΜηχάνημα'
+  description:
+  - Χρησιμοποιείται για να μετατρέπει προϊόντα/υποπροϊόντα σε
+  - άλλα υποπροϊόντα ή έτοιμα φαγητά.
+  usage: *id003
+CLT_COUNTER_FRYING:
+  name: Πάγκος Κουζίνας (Τηγάνι)
+  type:
+  - '&7&oΜηχάνημα'
+  description:
+  - Μπορεί να τηγανίσει ορισμένα είδη σοδειάς.
+  usage: *id003
+CLT_COUNTER_GRILL:
+  name: Πάγκος Κουζίνας (Σχάρα)
+  type:
+  - '&7&oΜηχάνημα'
+  description:
+  - Μπορεί να ψήσει στη σχάρα ορισμένα είδη σοδειάς.
+  usage: *id003
+CLT_COUNTER_GRINDER:
+  name: Πάγκος Κουζίνας (Γουδί και Γουδοχέρι)
+  type:
+  - '&7&oΜηχάνημα'
+  description:
+  - Κάνε δεξί κλικ σε αυτό το μπλοκ για να αλέσεις σοδειά.
+  usage: *id003
+CLT_COUNTER_MASHER:
+  name: Πάγκος Κουζίνας (Μπολ Πολτοποίησης)
+  type:
+  - '&7&oΜηχάνημα'
+  description:
+  - Κάνε δεξί κλικ σε αυτό το μπλοκ για να πολτοποιήσεις σοδειά.
+  usage: *id003
+CLT_COUNTER_NOTHING:
+  name: Πάγκος Κουζίνας (Άδειος)
+  type:
+  - '&7&oΜηχάνημα'
+  description:
+  - Μόνο για διακόσμηση!
+  usage: *id003
+CLT_COUNTER_OVEN:
+  name: Πάγκος Κουζίνας (Φούρνος)
+  type:
+  - '&7&oΜηχάνημα'
+  description:
+  - Μπορεί να ψήσει στον φούρνο ορισμένα είδη σοδειάς.
+  usage: *id003
+CLT_COUNTER_SLICING:
+  name: Πάγκος Κουζίνας (Ξύλο Κοπής σε Φέτες)
+  type:
+  - '&7&oΜηχάνημα'
+  description:
+  - Κάνε δεξί κλικ σε αυτό το μπλοκ για να κόψεις σοδειά σε φέτες.
+  usage: *id003
+CLT_COURGETTE:
+  name: Κολοκυθάκι
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - 'Συμβουλή: Τρίψε το σε οποιαδήποτε σάλτσα ζυμαρικών'
+  - για βάθος και υφή.
+CLT_CREAM_CHEESE:
+  name: Τυρί Κρέμα
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Περισσότερο κρεμώδες παρά τυρένιο.
+CLT_CROP_STICKS:
+  name: Πάσσαλοι Καλλιέργειας
+  type:
+  - '&7&oΕργαλείο'
+  description:
+  - Οι πάσσαλοι καλλιέργειας πρέπει να μπουν σε
+  - φυτεμένο σπόρο για να μπορέσει να μεγαλώσει.
+  - Αν βάλεις δεύτερο σετ, το φυτό διασταυρώνεται
+  - και μπορεί να εξαπλωθεί ή/και να
+  - αναπαραχθεί.
+CLT_CUCUMBER:
+  name: Αγγούρι
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Νερό σε πράσινο κέλυφος, αποδείξτε
+  - ότι κάνω λάθος.
+CLT_CUMIN:
+  name: Κύμινο
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Ένα ζεστό φυτό με άρωμα εσπεριδοειδών.
+CLT_CURRY_LEAF:
+  name: Φύλλο Κάρι
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Η βάση για τόσα υπέροχα φαγητά.
+CLT_DILL:
+  name: Άνηθος
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Εμένα μου έχει απλώς γεύση γρασιδιού. Γιατί
+  - αρέσει στον κόσμο;
+CLT_DOUGH:
+  name: Ζύμη
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Απλή, κλασική ζύμη!
+CLT_EGG_SALAD:
+  name: Αυγοσαλάτα
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Άνοιξέ το μέσα σε τρένο, αν τολμάς!
+CLT_EGG_SALAD_SANDWICH:
+  name: Σάντουιτς με Αυγοσαλάτα
+  type:
+  - '&7&oΤρόφιμο'
+  description:
+  - Μυρίζει λίγο, αλλά η γεύση είναι φανταστική!
+  stats: &id006
+  - '&8⇨ &7Θεραπεία: &b10 Καρδιές'
+  - '&8⇨ &bΑναζωογόνηση II &7(10:00)'
+CLT_FENNEL:
+  name: Μάραθο
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Σαν μείγμα από Γλυκάνισο και Γλυκόριζα.
+CLT_FRIED_APPLE:
+  name: Τηγανητό Μήλο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_APRICOT:
+  name: Τηγανητό Βερίκοκο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_ARTICHOKE:
+  name: Τηγανητή Αγκινάρα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_ASPARAGUS:
+  name: Τηγανητό Σπαράγγι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_AUBERGINE:
+  name: Τηγανητή Μελιτζάνα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_AVOCADO:
+  name: Τηγανητό Αβοκάντο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_BANANA:
+  name: Τηγανητή Μπανάνα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_BASIL:
+  name: Τηγανητός Βασιλικός
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_BAY_LEAF:
+  name: Τηγανητό Φύλλο Δάφνης
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_BEEF:
+  name: Τηγανητό Βοδινό
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_BEETROOT:
+  name: Τηγανητό Παντζάρι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_BELL_PEPPER:
+  name: Τηγανητή Γλυκιά Πιπεριά
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_BLACK_BEANS:
+  name: Τηγανητά Μαύρα Φασόλια
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_BREAD:
+  name: Τηγανητό Ψωμί
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_BROCCOLI:
+  name: Τηγανητό Μπρόκολο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_BROWN_MUSHROOM:
+  name: Τηγανητό Καφέ Μανιτάρι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_BRUSSELS_SPROUTS:
+  name: Τηγανητά Λαχανάκια Βρυξελλών
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_CABBAGE:
+  name: Τηγανητό Λάχανο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_CARROT:
+  name: Τηγανητό Καρότο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_CAULIFLOWER:
+  name: Τηγανητό Κουνουπίδι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_CAYENNE_PEPPER:
+  name: Τηγανητό Πιπέρι Καγιέν
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_CELERIAC:
+  name: Τηγανητή Σελινόριζα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_CELERY:
+  name: Τηγανητό Σέλινο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_CHERRY:
+  name: Τηγανητό Κεράσι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_CHESTNUT:
+  name: Τηγανητό Κάστανο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_CHICKEN:
+  name: Τηγανητό Κοτόπουλο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_CHICKPEAS:
+  name: Τηγανητά Ρεβίθια
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_CHICORY:
+  name: Τηγανητό Ραδίκι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_CHILLY_PEPPER:
+  name: Τηγανητή Καυτερή Πιπεριά
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_CHIVES:
+  name: Τηγανητό Σχοινόπρασο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_CHORUS_FRUIT:
+  name: Τηγανητό Χορικό Φρούτο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_CILANTRO:
+  name: Τηγανητό Κόλιαντρο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_CINNAMON:
+  name: Τηγανητή Κανέλα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_CLOVE:
+  name: Τηγανητό Μοσχοκάρφι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_COCOA_BEANS:
+  name: Τηγανητοί Σπόροι Κακάο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_COD:
+  name: Τηγανητός Μπακαλιάρος
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_COURGETTE:
+  name: Τηγανητό Κολοκυθάκι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_CUCUMBER:
+  name: Τηγανητό Αγγούρι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_CUMIN:
+  name: Τηγανητό Κύμινο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_CURRY_LEAF:
+  name: Τηγανητό Φύλλο Κάρι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_DILL:
+  name: Τηγανητός Άνηθος
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_EGG:
+  name: Τηγανητό Αβγό
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_ENCHANTED_GOLDEN_APPLE:
+  name: Τηγανητό Μαγεμένο Χρυσό Μήλο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_FENNEL:
+  name: Τηγανητό Μάραθο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_GARLIC:
+  name: Τηγανητό Σκόρδο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_GINGER:
+  name: Τηγανητό Τζίντζερ
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_GLOW_BERRIES:
+  name: Τηγανητά Λαμπερά Μούρα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_GOLDEN_APPLE:
+  name: Τηγανητό Χρυσό Μήλο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_GOLDEN_CARROT:
+  name: Τηγανητό Χρυσό Καρότο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_GRAPE:
+  name: Τηγανητό Σταφύλι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_GREEN_APPLE:
+  name: Τηγανητό Πράσινο Μήλο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_GREEN_BEANS:
+  name: Τηγανητά Φασολάκια
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_GREEN_ONION:
+  name: Τηγανητό Φρέσκο Κρεμμυδάκι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_HAZELNUT:
+  name: Τηγανητό Φουντούκι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_HORSERADISH:
+  name: Τηγανητό Χρένο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_JALAPENO:
+  name: Τηγανητό Χαλαπένιο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_JASMINE:
+  name: Τηγανητό Γιασεμί
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_JUNIPER_BERRY:
+  name: Τηγανητά Κεδροκούκουτσα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_KAFFIR_LIME:
+  name: Τηγανητό Φύλλο Κάφιρ Λάιμ
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_KALE:
+  name: Τηγανητή Λαχανίδα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_KELP:
+  name: Τηγανητό Φύκι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_KIWI:
+  name: Τηγανητό Ακτινίδιο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_LAVENDER:
+  name: Τηγανητή Λεβάντα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_LEEK:
+  name: Τηγανητό Πράσο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_LEMON:
+  name: Τηγανητό Λεμόνι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_LETTUCE:
+  name: Τηγανητό Μαρούλι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_LICORICE:
+  name: Τηγανητή Γλυκόριζα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_LIME:
+  name: Τηγανητό Λάιμ
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_MACE:
+  name: Τηγανητό Μάκις
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_MANGO:
+  name: Τηγανητό Μάνγκο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_MARJORAM:
+  name: Τηγανητή Ματζουράνα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_MARROW:
+  name: Τηγανητό Κολοκύθι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_MELON:
+  name: Τηγανητό Καρπούζι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_MINT:
+  name: Τηγανητός Δυόσμος
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_MUSTARD_SEEDS:
+  name: Τηγανητοί Σιναπόσποροι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_MUTTON:
+  name: Τηγανητό Πρόβειο Κρέας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_NETTLES:
+  name: Τηγανητές Τσουκνίδες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_OKRA:
+  name: Τηγανητές Μπάμιες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_ONION:
+  name: Τηγανητό Κρεμμύδι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_ORANGE:
+  name: Τηγανητό Πορτοκάλι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_OREGANO:
+  name: Τηγανητή Ρίγανη
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_PARSLEY:
+  name: Τηγανητός Μαϊντανός
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_PARSNIP:
+  name: Τηγανητή Παστινάκη
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_PEA:
+  name: Τηγανητός Αρακάς
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_PEACH:
+  name: Τηγανητό Ροδάκινο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_PEANUT:
+  name: Τηγανητό Αράπικο Φιστίκι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_PEAR:
+  name: Τηγανητό Αχλάδι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_PECAN:
+  name: Τηγανητό Πεκάν
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_PEPPER:
+  name: Τηγανητό Μαύρο Πιπέρι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_PEPPERONI:
+  name: Τηγανητό Πεπερόνι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_PINEAPPLE:
+  name: Τηγανητός Ανανάς
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_PINTO_BEANS:
+  name: Τηγανητά Φασόλια Πίντο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_PORKCHOP:
+  name: Τηγανητή Χοιρινή Μπριζόλα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_POTATO:
+  name: Τηγανητή Πατάτα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_PUFFERFISH:
+  name: Τηγανητό Ψάρι Φούσκα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_PUMPKIN:
+  name: Τηγανητή Κολοκύθα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_RABBIT:
+  name: Τηγανητό Κουνέλι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_RADDISH:
+  name: Τηγανητό Ραπανάκι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_RADICCHIO:
+  name: Τηγανητό Ραντίτσιο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_RAPESEED:
+  name: Τηγανητή Ελαιοκράμβη
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_RED_MUSHROOM:
+  name: Τηγανητό Κόκκινο Μανιτάρι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_RHUBARB:
+  name: Τηγανητό Ραβέντι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_RICE:
+  name: Τηγανητό Ρύζι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_ROSEMARY:
+  name: Τηγανητό Δεντρολίβανο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_ROTTEN_FLESH:
+  name: Τηγανητή Σάπια Σάρκα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_RUNNER_BEANS:
+  name: Τηγανητά Φασόλια Μπαρμπούνια
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_RUTABAGA:
+  name: Τηγανητή Ρουταμπάγκα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_SALMON:
+  name: Τηγανητός Σολομός
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_SASSAFRAS:
+  name: Τηγανητός Σασαφράς
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_SHALLOT:
+  name: Τηγανητό Ασκαλώνιο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_SHISO:
+  name: Τηγανητό Σίσο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_SOY_BEANS:
+  name: Τηγανητά Φασόλια Σόγιας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_SPINACH:
+  name: Τηγανητό Σπανάκι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_STAR_ANISE:
+  name: Τηγανητός Αστεροειδής Γλυκάνισος
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_STRAWBERRY:
+  name: Τηγανητή Φράουλα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_SUGAR:
+  name: Τηγανητή Ζάχαρη
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_SWEETCORN:
+  name: Τηγανητό Γλυκό Καλαμπόκι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_SWEET_BERRIES:
+  name: Τηγανητά Γλυκά Μούρα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_SWEET_POTATO:
+  name: Τηγανητή Γλυκοπατάτα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_TARRAGON:
+  name: Τηγανητό Εστραγκόν
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_THYME:
+  name: Τηγανητό Θυμάρι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_TOMATO:
+  name: Τηγανητή Ντομάτα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_TURMERIC:
+  name: Τηγανητός Κουρκουμάς
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_TURNIP:
+  name: Τηγανητό Γογγύλι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_VANILLA:
+  name: Τηγανητή Βανίλια
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_WASABI:
+  name: Τηγανητό Γουασάμπι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRIED_WHEAT:
+  name: Τηγανητό Σιτάρι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_FRUIT_SALAD:
+  name: Φρουτοσαλάτα
+  type:
+  - '&7&oΤρόφιμο'
+  description:
+  - Αν το λες σαλάτα, μπορείς να φας όσο
+  - θέλεις, γιατί είναι υγιεινό.
+  stats:
+  - '&8⇨ &7Θεραπεία: &b6 Καρδιές'
+  - '&8⇨ &bΤαχύτητα III &7(10:00)'
+CLT_FUGU:
+  name: Φούγκου
+  type:
+  - '&7&oΤρόφιμο'
+  description:
+  - Έτοιμος να ρίξεις τα ζάρια;
+  stats:
+  - '&8⇨ &7Θεραπεία: &b1 Καρδιά'
+  - '&8⇨ &bΙσχύς V &7(10:00)'
+  - '&8⇨ &733% πιθανότητα να πεθάνεις επιτόπου!'
+CLT_GARDEN_CLOCHE:
+  name: Γυάλινος Κώδωνας Κήπου
+  type:
+  - '&7&oΜηχάνημα'
+  description:
+  - Μεγαλώνει αυτόματα φυτά στο εσωτερικό του.
+  stats:
+  - '&8⇨ &7Ενέργεια ανά Τικ: &b100'
+CLT_GARLIC:
+  name: Σκόρδο
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Γρήγορα, πριν έρθουν οι βρικόλακες!
+CLT_GARLIC_BUTTER_MUSHROOMS:
+  name: Μανιτάρια με Βούτυρο Σκόρδου
+  type:
+  - '&7&oΤρόφιμο'
+  description:
+  - Μάλλον το καλύτερο φαγητό πάνω στη γη.
+  stats:
+  - '&8⇨ &7Θεραπεία: &b2 Καρδιές'
+  - '&8⇨ &bΛάμψη I &7(10:00)'
+CLT_GINGER:
+  name: Τζίντζερ
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Ψιλοκομμένο Τζίντζερ σε βραστό νερό, γιατρεύει τα πάντα!
+CLT_GRAPE:
+  name: Σταφύλι
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Τόσο τροφαντό!
+CLT_GRAPE_JELLY:
+  name: Ζελέ Σταφυλιού
+  type:
+  - '&7&oΣοδειά'
+  description: &id008
+  - Το να το τρως με κουτάλι είναι ποινικό αδίκημα.
+CLT_GREEN_APPLE:
+  name: Πράσινο Μήλο
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Το σημείωμα γράφει... Αγαπητέ Δάσκαλε;
+CLT_GREEN_BEANS:
+  name: Φασολάκια
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Τι δημιουργικό όνομα!
+CLT_GREEN_ONION:
+  name: Φρέσκο Κρεμμυδάκι
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Ταιριάζει τέλεια σε τάκος!
+CLT_GRILLED_APPLE:
+  name: Μήλο Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_APRICOT:
+  name: Βερίκοκο Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_ARTICHOKE:
+  name: Αγκινάρα Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_ASPARAGUS:
+  name: Σπαράγγι Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_AUBERGINE:
+  name: Μελιτζάνα Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_AVOCADO:
+  name: Αβοκάντο Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_BANANA:
+  name: Μπανάνα Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_BASIL:
+  name: Βασιλικός Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_BAY_LEAF:
+  name: Φύλλο Δάφνης Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_BEEF:
+  name: Βοδινό Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_BEETROOT:
+  name: Παντζάρι Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_BELL_PEPPER:
+  name: Γλυκιά Πιπεριά Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_BLACK_BEANS:
+  name: Μαύρα Φασόλια Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_BREAD:
+  name: Ψωμί Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_BROCCOLI:
+  name: Μπρόκολο Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_BROWN_MUSHROOM:
+  name: Καφέ Μανιτάρι Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_BRUSSELS_SPROUTS:
+  name: Λαχανάκια Βρυξελλών Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_CABBAGE:
+  name: Λάχανο Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_CARROT:
+  name: Καρότο Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_CAULIFLOWER:
+  name: Κουνουπίδι Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_CAYENNE_PEPPER:
+  name: Πιπέρι Καγιέν Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_CELERIAC:
+  name: Σελινόριζα Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_CELERY:
+  name: Σέλινο Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_CHERRY:
+  name: Κεράσι Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_CHESTNUT:
+  name: Κάστανο Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_CHICKEN:
+  name: Κοτόπουλο Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_CHICKPEAS:
+  name: Ρεβίθια Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_CHICORY:
+  name: Ραδίκι Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_CHILLY_PEPPER:
+  name: Καυτερή Πιπεριά Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_CHIVES:
+  name: Σχοινόπρασο Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_CHORUS_FRUIT:
+  name: Χορικό Φρούτο Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_CILANTRO:
+  name: Κόλιαντρο Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_CINNAMON:
+  name: Κανέλα Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_CLOVE:
+  name: Μοσχοκάρφι Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_COCOA_BEANS:
+  name: Σπόροι Κακάο Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_COD:
+  name: Μπακαλιάρος Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_COURGETTE:
+  name: Κολοκυθάκι Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_CUCUMBER:
+  name: Αγγούρι Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_CUMIN:
+  name: Κύμινο Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_CURRY_LEAF:
+  name: Φύλλο Κάρι Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_DILL:
+  name: Άνηθος Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_EGG:
+  name: Αβγό Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_ENCHANTED_GOLDEN_APPLE:
+  name: Μαγεμένο Χρυσό Μήλο Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_FENNEL:
+  name: Μάραθο Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_GARLIC:
+  name: Σκόρδο Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_GINGER:
+  name: Τζίντζερ Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_GLOW_BERRIES:
+  name: Λαμπερά Μούρα Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_GOLDEN_APPLE:
+  name: Χρυσό Μήλο Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_GOLDEN_CARROT:
+  name: Χρυσό Καρότο Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_GRAPE:
+  name: Σταφύλι Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_GREEN_APPLE:
+  name: Πράσινο Μήλο Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_GREEN_BEANS:
+  name: Φασολάκια Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_GREEN_ONION:
+  name: Φρέσκο Κρεμμυδάκι Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_HAZELNUT:
+  name: Φουντούκι Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_HORSERADISH:
+  name: Χρένο Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_JALAPENO:
+  name: Χαλαπένιο Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_JASMINE:
+  name: Γιασεμί Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_JUNIPER_BERRY:
+  name: Κεδροκούκουτσα Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_KAFFIR_LIME:
+  name: Φύλλο Κάφιρ Λάιμ Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_KALE:
+  name: Λαχανίδα Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_KELP:
+  name: Φύκι Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_KIWI:
+  name: Ακτινίδιο Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_LAVENDER:
+  name: Λεβάντα Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_LEEK:
+  name: Πράσο Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_LEMON:
+  name: Λεμόνι Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_LETTUCE:
+  name: Μαρούλι Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_LICORICE:
+  name: Γλυκόριζα Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_LIME:
+  name: Λάιμ Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_MACE:
+  name: Μάκις Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_MANGO:
+  name: Μάνγκο Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_MARJORAM:
+  name: Ματζουράνα Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_MARROW:
+  name: Κολοκύθι Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_MELON:
+  name: Καρπούζι Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_MINT:
+  name: Δυόσμος Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_MUSTARD_SEEDS:
+  name: Σιναπόσποροι Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_MUTTON:
+  name: Πρόβειο Κρέας Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_NETTLES:
+  name: Τσουκνίδες Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_OKRA:
+  name: Μπάμιες Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_ONION:
+  name: Κρεμμύδι Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_ORANGE:
+  name: Πορτοκάλι Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_OREGANO:
+  name: Ρίγανη Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_PARSLEY:
+  name: Μαϊντανός Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_PARSNIP:
+  name: Παστινάκη Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_PEA:
+  name: Αρακάς Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_PEACH:
+  name: Ροδάκινο Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_PEANUT:
+  name: Αράπικο Φιστίκι Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_PEAR:
+  name: Αχλάδι Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_PECAN:
+  name: Πεκάν Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_PEPPER:
+  name: Μαύρο Πιπέρι Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_PEPPERONI:
+  name: Πεπερόνι Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_PINEAPPLE:
+  name: Ανανάς Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_PINTO_BEANS:
+  name: Φασόλια Πίντο Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_PORKCHOP:
+  name: Χοιρινή Μπριζόλα Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_POTATO:
+  name: Πατάτα Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_PUFFERFISH:
+  name: Ψάρι Φούσκα Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_PUMPKIN:
+  name: Κολοκύθα Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_RABBIT:
+  name: Κουνέλι Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_RADDISH:
+  name: Ραπανάκι Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_RADICCHIO:
+  name: Ραντίτσιο Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_RAPESEED:
+  name: Ελαιοκράμβη Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_RED_MUSHROOM:
+  name: Κόκκινο Μανιτάρι Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_RHUBARB:
+  name: Ραβέντι Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_RICE:
+  name: Ρύζι Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_ROSEMARY:
+  name: Δεντρολίβανο Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_ROTTEN_FLESH:
+  name: Σάπια Σάρκα Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_RUNNER_BEANS:
+  name: Φασόλια Μπαρμπούνια Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_RUTABAGA:
+  name: Ρουταμπάγκα Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_SALMON:
+  name: Σολομός Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_SALMON_SALAD:
+  name: Σαλάτα Σολομού Σχάρας
+  type:
+  - '&7&oΤρόφιμο'
+  description:
+  - Υπέροχα τραγανό και ευφυώς καρυκευμένο.
+  stats:
+  - '&8⇨ &7Θεραπεία: &b4 Καρδιές'
+  - '&8⇨ &bΑναζωογόνηση I &7(10:00)'
+  - '&8⇨ &bΕνίσχυση Ζωής V &7(10:00)'
+CLT_GRILLED_SASSAFRAS:
+  name: Σασαφράς Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_SHALLOT:
+  name: Ασκαλώνιο Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_SHISO:
+  name: Σίσο Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_SOY_BEANS:
+  name: Φασόλια Σόγιας Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_SPINACH:
+  name: Σπανάκι Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_STAR_ANISE:
+  name: Αστεροειδής Γλυκάνισος Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_STRAWBERRY:
+  name: Φράουλα Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_SUGAR:
+  name: Ζάχαρη Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_SWEETCORN:
+  name: Γλυκό Καλαμπόκι Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_SWEET_BERRIES:
+  name: Γλυκά Μούρα Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_SWEET_POTATO:
+  name: Γλυκοπατάτα Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_TARRAGON:
+  name: Εστραγκόν Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_THYME:
+  name: Θυμάρι Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_TOMATO:
+  name: Ντομάτα Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_TURMERIC:
+  name: Κουρκουμάς Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_TURNIP:
+  name: Γογγύλι Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_VANILLA:
+  name: Βανίλια Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_WASABI:
+  name: Γουασάμπι Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GRILLED_WHEAT:
+  name: Σιτάρι Σχάρας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_APPLE:
+  name: Αλεσμένο Μήλο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_APRICOT:
+  name: Αλεσμένο Βερίκοκο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_ARTICHOKE:
+  name: Αλεσμένη Αγκινάρα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_ASPARAGUS:
+  name: Αλεσμένο Σπαράγγι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_AUBERGINE:
+  name: Αλεσμένη Μελιτζάνα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_AVOCADO:
+  name: Αλεσμένο Αβοκάντο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_BANANA:
+  name: Αλεσμένη Μπανάνα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_BASIL:
+  name: Αλεσμένος Βασιλικός
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_BAY_LEAF:
+  name: Αλεσμένο Φύλλο Δάφνης
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_BEEF:
+  name: Αλεσμένο Βοδινό
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_BEETROOT:
+  name: Αλεσμένο Παντζάρι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_BELL_PEPPER:
+  name: Αλεσμένη Γλυκιά Πιπεριά
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_BLACK_BEANS:
+  name: Αλεσμένα Μαύρα Φασόλια
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_BREAD:
+  name: Αλεσμένο Ψωμί
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_BROCCOLI:
+  name: Αλεσμένο Μπρόκολο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_BROWN_MUSHROOM:
+  name: Αλεσμένο Καφέ Μανιτάρι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_BRUSSELS_SPROUTS:
+  name: Αλεσμένα Λαχανάκια Βρυξελλών
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_CABBAGE:
+  name: Αλεσμένο Λάχανο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_CARROT:
+  name: Αλεσμένο Καρότο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_CAULIFLOWER:
+  name: Αλεσμένο Κουνουπίδι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_CAYENNE_PEPPER:
+  name: Αλεσμένο Πιπέρι Καγιέν
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_CELERIAC:
+  name: Αλεσμένη Σελινόριζα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_CELERY:
+  name: Αλεσμένο Σέλινο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_CHERRY:
+  name: Αλεσμένο Κεράσι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_CHESTNUT:
+  name: Αλεσμένο Κάστανο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_CHICKEN:
+  name: Αλεσμένο Κοτόπουλο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_CHICKPEAS:
+  name: Αλεσμένα Ρεβίθια
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_CHICORY:
+  name: Αλεσμένο Ραδίκι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_CHILLY_PEPPER:
+  name: Αλεσμένη Καυτερή Πιπεριά
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_CHIVES:
+  name: Αλεσμένο Σχοινόπρασο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_CHORUS_FRUIT:
+  name: Αλεσμένο Χορικό Φρούτο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_CILANTRO:
+  name: Αλεσμένο Κόλιαντρο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_CINNAMON:
+  name: Αλεσμένη Κανέλα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_CLOVE:
+  name: Αλεσμένο Μοσχοκάρφι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_COCOA_BEANS:
+  name: Αλεσμένοι Σπόροι Κακάο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_COD:
+  name: Αλεσμένος Μπακαλιάρος
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_COURGETTE:
+  name: Αλεσμένο Κολοκυθάκι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_CUCUMBER:
+  name: Αλεσμένο Αγγούρι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_CUMIN:
+  name: Αλεσμένο Κύμινο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_CURRY_LEAF:
+  name: Αλεσμένο Φύλλο Κάρι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_DILL:
+  name: Αλεσμένος Άνηθος
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_EGG:
+  name: Αλεσμένο Αβγό
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_ENCHANTED_GOLDEN_APPLE:
+  name: Αλεσμένο Μαγεμένο Χρυσό Μήλο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_FENNEL:
+  name: Αλεσμένο Μάραθο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_GARLIC:
+  name: Αλεσμένο Σκόρδο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_GINGER:
+  name: Αλεσμένο Τζίντζερ
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_GLOW_BERRIES:
+  name: Αλεσμένα Λαμπερά Μούρα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_GOLDEN_APPLE:
+  name: Αλεσμένο Χρυσό Μήλο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_GOLDEN_CARROT:
+  name: Αλεσμένο Χρυσό Καρότο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_GRAPE:
+  name: Αλεσμένο Σταφύλι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_GREEN_APPLE:
+  name: Αλεσμένο Πράσινο Μήλο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_GREEN_BEANS:
+  name: Αλεσμένα Φασολάκια
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_GREEN_ONION:
+  name: Αλεσμένο Φρέσκο Κρεμμυδάκι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_HAZELNUT:
+  name: Αλεσμένο Φουντούκι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_HORSERADISH:
+  name: Αλεσμένο Χρένο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_JALAPENO:
+  name: Αλεσμένο Χαλαπένιο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_JASMINE:
+  name: Αλεσμένο Γιασεμί
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_JUNIPER_BERRY:
+  name: Αλεσμένα Κεδροκούκουτσα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_KAFFIR_LIME:
+  name: Αλεσμένο Φύλλο Κάφιρ Λάιμ
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_KALE:
+  name: Αλεσμένη Λαχανίδα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_KELP:
+  name: Αλεσμένο Φύκι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_KIWI:
+  name: Αλεσμένο Ακτινίδιο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_LAVENDER:
+  name: Αλεσμένη Λεβάντα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_LEEK:
+  name: Αλεσμένο Πράσο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_LEMON:
+  name: Αλεσμένο Λεμόνι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_LETTUCE:
+  name: Αλεσμένο Μαρούλι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_LICORICE:
+  name: Αλεσμένη Γλυκόριζα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_LIME:
+  name: Αλεσμένο Λάιμ
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_MACE:
+  name: Αλεσμένο Μάκις
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_MANGO:
+  name: Αλεσμένο Μάνγκο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_MARJORAM:
+  name: Αλεσμένη Ματζουράνα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_MARROW:
+  name: Αλεσμένο Κολοκύθι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_MELON:
+  name: Αλεσμένο Καρπούζι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_MINT:
+  name: Αλεσμένος Δυόσμος
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_MUSTARD_SEEDS:
+  name: Αλεσμένοι Σιναπόσποροι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_MUTTON:
+  name: Αλεσμένο Πρόβειο Κρέας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_NETTLES:
+  name: Αλεσμένες Τσουκνίδες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_OKRA:
+  name: Αλεσμένες Μπάμιες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_ONION:
+  name: Αλεσμένο Κρεμμύδι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_ORANGE:
+  name: Αλεσμένο Πορτοκάλι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_OREGANO:
+  name: Αλεσμένη Ρίγανη
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_PARSLEY:
+  name: Αλεσμένος Μαϊντανός
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_PARSNIP:
+  name: Αλεσμένη Παστινάκη
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_PEA:
+  name: Αλεσμένος Αρακάς
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_PEACH:
+  name: Αλεσμένο Ροδάκινο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_PEANUT:
+  name: Αλεσμένο Αράπικο Φιστίκι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_PEAR:
+  name: Αλεσμένο Αχλάδι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_PECAN:
+  name: Αλεσμένο Πεκάν
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_PEPPER:
+  name: Αλεσμένο Μαύρο Πιπέρι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_PEPPERONI:
+  name: Αλεσμένο Πεπερόνι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_PINEAPPLE:
+  name: Αλεσμένος Ανανάς
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_PINTO_BEANS:
+  name: Αλεσμένα Φασόλια Πίντο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_PORKCHOP:
+  name: Αλεσμένη Χοιρινή Μπριζόλα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_POTATO:
+  name: Αλεσμένη Πατάτα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_PUFFERFISH:
+  name: Αλεσμένο Ψάρι Φούσκα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_PUMPKIN:
+  name: Αλεσμένη Κολοκύθα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_RABBIT:
+  name: Αλεσμένο Κουνέλι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_RADDISH:
+  name: Αλεσμένο Ραπανάκι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_RADICCHIO:
+  name: Αλεσμένο Ραντίτσιο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_RAPESEED:
+  name: Αλεσμένη Ελαιοκράμβη
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_RED_MUSHROOM:
+  name: Αλεσμένο Κόκκινο Μανιτάρι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_RHUBARB:
+  name: Αλεσμένο Ραβέντι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_RICE:
+  name: Αλεσμένο Ρύζι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_ROSEMARY:
+  name: Αλεσμένο Δεντρολίβανο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_ROTTEN_FLESH:
+  name: Αλεσμένη Σάπια Σάρκα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_RUNNER_BEANS:
+  name: Αλεσμένα Φασόλια Μπαρμπούνια
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_RUTABAGA:
+  name: Αλεσμένη Ρουταμπάγκα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_SALMON:
+  name: Αλεσμένος Σολομός
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_SASSAFRAS:
+  name: Αλεσμένος Σασαφράς
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_SHALLOT:
+  name: Αλεσμένο Ασκαλώνιο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_SHISO:
+  name: Αλεσμένο Σίσο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_SOY_BEANS:
+  name: Αλεσμένα Φασόλια Σόγιας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_SPINACH:
+  name: Αλεσμένο Σπανάκι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_STAR_ANISE:
+  name: Αλεσμένος Αστεροειδής Γλυκάνισος
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_STRAWBERRY:
+  name: Αλεσμένη Φράουλα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_SUGAR:
+  name: Αλεσμένη Ζάχαρη
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_SWEETCORN:
+  name: Αλεσμένο Γλυκό Καλαμπόκι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_SWEET_BERRIES:
+  name: Αλεσμένα Γλυκά Μούρα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_SWEET_POTATO:
+  name: Αλεσμένη Γλυκοπατάτα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_TARRAGON:
+  name: Αλεσμένο Εστραγκόν
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_THYME:
+  name: Αλεσμένο Θυμάρι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_TOMATO:
+  name: Αλεσμένη Ντομάτα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_TURMERIC:
+  name: Αλεσμένος Κουρκουμάς
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_TURNIP:
+  name: Αλεσμένο Γογγύλι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_VANILLA:
+  name: Αλεσμένη Βανίλια
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_WASABI:
+  name: Αλεσμένο Γουασάμπι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_GROUND_WHEAT:
+  name: Αλεσμένο Σιτάρι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_HAZELNUT:
+  name: Φουντούκι
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Κάνε ό,τι χρειάζεται για να το κάνεις
+  - καφέ για μένα, τώρα!
+CLT_HORSERADISH:
+  name: Χρένο
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - $100 αν το δαγκώσεις κατευθείαν.
+CLT_JALAPENO:
+  name: Χαλαπένιο
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - ΚΑΙΕΙ ΚΑΙΕΙ ΚΑΙΕΙ.
+CLT_JASMINE:
+  name: Γιασεμί
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Κάνει υπέροχο τσάι.
+CLT_JUNIPER_BERRY:
+  name: Κεδροκούκουτσα
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Αποξηραμένο σε πιπεράτη τελειότητα.
+CLT_KAFFIR_LIME:
+  name: Φύλλο Κάφιρ Λάιμ
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Ένα φύλλο με τρομερή ζωντάνια.
+CLT_KALE:
+  name: Λαχανίδα
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Βοήθεια, είμαι χίπστερ των σμούθι του 2020!
+CLT_KETCHUP:
+  name: Κέτσαπ
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Απλώς ντομάτες σε κρεμώδη μορφή.
+CLT_KEY_LIME_PIE:
+  name: Τάρτα Λάιμ
+  type:
+  - '&7&oΤρόφιμο'
+  description:
+  - Απλώς το καλύτερο!
+  stats:
+  - '&8⇨ &7Θεραπεία: &b6 Καρδιές'
+  - '&8⇨ &bΒιασύνη IV &7(10:00)'
+CLT_KIWI:
+  name: Ακτινίδιο
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Το έβαλα στο πρόσθετο υπό πίεση.
+  - Τα ακτινίδια είναι κακά και όποιος
+  - τα χρησιμοποιεί χάνει αυτόματα
+  - 100 πόντους.
+CLT_LASAGNA:
+  name: Λαζάνια
+  type:
+  - '&7&oΤρόφιμο'
+  description:
+  - Στρώσεις σκέτης φανταστικότητας.
+  stats:
+  - '&8⇨ &7Θεραπεία: &bΠλήρης'
+  - '&8⇨ &bΑναζωογόνηση II &7(10:00)'
+  - '&8⇨ &bΑντίσταση II &7(10:00)'
+CLT_LAVENDER:
+  name: Λεβάντα
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Μια μυρωδιά που με αποκοιμίζει σιγά σιγά.
+CLT_LEAVES_TREE_APRICOT:
+  name: Φύλλα Βερικοκιάς
+  type:
+  - '&7&oΦύλλωμα'
+CLT_LEAVES_TREE_BANANA:
+  name: Φύλλα Μπανανιάς
+  type:
+  - '&7&oΦύλλωμα'
+CLT_LEAVES_TREE_CHERRY:
+  name: Φύλλα Κερασιάς
+  type:
+  - '&7&oΦύλλωμα'
+CLT_LEAVES_TREE_CHESTNUT:
+  name: Φύλλα Καστανιάς
+  type:
+  - '&7&oΦύλλωμα'
+CLT_LEAVES_TREE_GREEN_APPLE:
+  name: Φύλλα Πράσινης Μηλιάς
+  type:
+  - '&7&oΦύλλωμα'
+CLT_LEAVES_TREE_HAZELNUT:
+  name: Φύλλα Φουντουκιάς
+  type:
+  - '&7&oΦύλλωμα'
+CLT_LEAVES_TREE_KIWI:
+  name: Φύλλα Ακτινιδιάς
+  type:
+  - '&7&oΦύλλωμα'
+CLT_LEAVES_TREE_LEMON:
+  name: Φύλλα Λεμονιάς
+  type:
+  - '&7&oΦύλλωμα'
+CLT_LEAVES_TREE_LIME:
+  name: Φύλλα Δέντρου Λάιμ
+  type:
+  - '&7&oΦύλλωμα'
+CLT_LEAVES_TREE_MANGO:
+  name: Φύλλα Δέντρου Μάνγκο
+  type:
+  - '&7&oΦύλλωμα'
+CLT_LEAVES_TREE_ORANGE:
+  name: Φύλλα Πορτοκαλιάς
+  type:
+  - '&7&oΦύλλωμα'
+CLT_LEAVES_TREE_PEACH:
+  name: Φύλλα Ροδακινιάς
+  type:
+  - '&7&oΦύλλωμα'
+CLT_LEAVES_TREE_PEAR:
+  name: Φύλλα Αχλαδιάς
+  type:
+  - '&7&oΦύλλωμα'
+CLT_LEAVES_TREE_PECAN:
+  name: Φύλλα Δέντρου Πεκάν
+  type:
+  - '&7&oΦύλλωμα'
+CLT_LEAVES_TREE_PINEAPPLE:
+  name: Φύλλα Δέντρου Ανανά
+  type:
+  - '&7&oΦύλλωμα'
+CLT_LEEK:
+  name: Πράσο
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - για κάποιο λόγο στάζει νερό;
+  - Μήπως έπαθε πρασο-διαρροή;
+CLT_LEMON:
+  name: Λεμόνι
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Γιατί η ξινή φάτσα;
+CLT_LEMON_DROP:
+  name: Καραμέλα Λεμονιού
+  type:
+  - '&7&oΤρόφιμο'
+  description:
+  - Καθαρίζει τον ουρανίσκο.
+  stats:
+  - '&8⇨ &7Καθαρίζει όλες τις επιδράσεις και σε κάνει να πεινάς ξανά.'
+CLT_LETTUCE:
+  name: Μαρούλι
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Λεπτό, νερουλό και όμως νόστιμο.
+CLT_LICORICE:
+  name: Γλυκόριζα
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Τρέξε, τρέξε μακριά τώρα!
+CLT_LIME:
+  name: Λάιμ
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Μια φορά κι έναν λάιμ ήταν ένα νόστιμο φρούτο...
+CLT_MACE:
+  name: Μάκις
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Χρησιμοποιείται για ψέκασμα στο πρόσωπο των επιτιθέμενων.
+  - '...'
+  - Τι εννοείς ότι δεν είναι το σωστό είδος μάκις;
+CLT_MANGO:
+  name: Μάνγκο
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - ΜΑΝ, ΓΚΟ... πρέπει να φύγω!
+  - Οι περιγραφές είναι δύσκολες...
+CLT_MARJORAM:
+  name: Ματζουράνα
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Είμαι σε μεγάλη κάρι-φούρια, τα λέμε αργότερα;
+CLT_MARROW:
+  name: Κολοκύθι
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Ήξερες ότι τα κολοκύθια είναι ο μυελός
+  - των οστών σου;
+  - Ναι, Σέφι Εξυπνάκιας.
+CLT_MASHED_APPLE:
+  name: Πολτοποιημένο Μήλο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_APRICOT:
+  name: Πολτοποιημένο Βερίκοκο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_ARTICHOKE:
+  name: Πολτοποιημένη Αγκινάρα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_ASPARAGUS:
+  name: Πολτοποιημένο Σπαράγγι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_AUBERGINE:
+  name: Πολτοποιημένη Μελιτζάνα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_AVOCADO:
+  name: Πολτοποιημένο Αβοκάντο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_BANANA:
+  name: Πολτοποιημένη Μπανάνα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_BASIL:
+  name: Πολτοποιημένος Βασιλικός
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_BAY_LEAF:
+  name: Πολτοποιημένο Φύλλο Δάφνης
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_BEEF:
+  name: Πολτοποιημένο Βοδινό
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_BEETROOT:
+  name: Πολτοποιημένο Παντζάρι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_BELL_PEPPER:
+  name: Πολτοποιημένη Γλυκιά Πιπεριά
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_BLACK_BEANS:
+  name: Πολτοποιημένα Μαύρα Φασόλια
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_BREAD:
+  name: Πολτοποιημένο Ψωμί
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_BROCCOLI:
+  name: Πολτοποιημένο Μπρόκολο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_BROWN_MUSHROOM:
+  name: Πολτοποιημένο Καφέ Μανιτάρι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_BRUSSELS_SPROUTS:
+  name: Πολτοποιημένα Λαχανάκια Βρυξελλών
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_CABBAGE:
+  name: Πολτοποιημένο Λάχανο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_CARROT:
+  name: Πολτοποιημένο Καρότο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_CAULIFLOWER:
+  name: Πολτοποιημένο Κουνουπίδι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_CAYENNE_PEPPER:
+  name: Πολτοποιημένο Πιπέρι Καγιέν
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_CELERIAC:
+  name: Πολτοποιημένη Σελινόριζα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_CELERY:
+  name: Πολτοποιημένο Σέλινο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_CHERRY:
+  name: Πολτοποιημένο Κεράσι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_CHESTNUT:
+  name: Πολτοποιημένο Κάστανο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_CHICKEN:
+  name: Πολτοποιημένο Κοτόπουλο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_CHICKPEAS:
+  name: Πολτοποιημένα Ρεβίθια
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_CHICORY:
+  name: Πολτοποιημένο Ραδίκι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_CHILLY_PEPPER:
+  name: Πολτοποιημένη Καυτερή Πιπεριά
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_CHIVES:
+  name: Πολτοποιημένο Σχοινόπρασο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_CHORUS_FRUIT:
+  name: Πολτοποιημένο Χορικό Φρούτο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_CILANTRO:
+  name: Πολτοποιημένο Κόλιαντρο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_CINNAMON:
+  name: Πολτοποιημένη Κανέλα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_CLOVE:
+  name: Πολτοποιημένο Μοσχοκάρφι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_COCOA_BEANS:
+  name: Πολτοποιημένοι Σπόροι Κακάο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_COD:
+  name: Πολτοποιημένος Μπακαλιάρος
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_COURGETTE:
+  name: Πολτοποιημένο Κολοκυθάκι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_CUCUMBER:
+  name: Πολτοποιημένο Αγγούρι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_CUMIN:
+  name: Πολτοποιημένο Κύμινο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_CURRY_LEAF:
+  name: Πολτοποιημένο Φύλλο Κάρι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_DILL:
+  name: Πολτοποιημένος Άνηθος
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_EGG:
+  name: Πολτοποιημένο Αβγό
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_ENCHANTED_GOLDEN_APPLE:
+  name: Πολτοποιημένο Μαγεμένο Χρυσό Μήλο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_FENNEL:
+  name: Πολτοποιημένο Μάραθο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_GARLIC:
+  name: Πολτοποιημένο Σκόρδο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_GINGER:
+  name: Πολτοποιημένο Τζίντζερ
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_GLOW_BERRIES:
+  name: Πολτοποιημένα Λαμπερά Μούρα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_GOLDEN_APPLE:
+  name: Πολτοποιημένο Χρυσό Μήλο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_GOLDEN_CARROT:
+  name: Πολτοποιημένο Χρυσό Καρότο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_GRAPE:
+  name: Πολτοποιημένο Σταφύλι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_GREEN_APPLE:
+  name: Πολτοποιημένο Πράσινο Μήλο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_GREEN_BEANS:
+  name: Πολτοποιημένα Φασολάκια
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_GREEN_ONION:
+  name: Πολτοποιημένο Φρέσκο Κρεμμυδάκι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_HAZELNUT:
+  name: Πολτοποιημένο Φουντούκι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_HORSERADISH:
+  name: Πολτοποιημένο Χρένο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_JALAPENO:
+  name: Πολτοποιημένο Χαλαπένιο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_JASMINE:
+  name: Πολτοποιημένο Γιασεμί
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_JUNIPER_BERRY:
+  name: Πολτοποιημένα Κεδροκούκουτσα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_KAFFIR_LIME:
+  name: Πολτοποιημένο Φύλλο Κάφιρ Λάιμ
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_KALE:
+  name: Πολτοποιημένη Λαχανίδα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_KELP:
+  name: Πολτοποιημένο Φύκι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_KIWI:
+  name: Πολτοποιημένο Ακτινίδιο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_LAVENDER:
+  name: Πολτοποιημένη Λεβάντα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_LEEK:
+  name: Πολτοποιημένο Πράσο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_LEMON:
+  name: Πολτοποιημένο Λεμόνι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_LETTUCE:
+  name: Πολτοποιημένο Μαρούλι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_LICORICE:
+  name: Πολτοποιημένη Γλυκόριζα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_LIME:
+  name: Πολτοποιημένο Λάιμ
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_MACE:
+  name: Πολτοποιημένο Μάκις
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_MANGO:
+  name: Πολτοποιημένο Μάνγκο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_MARJORAM:
+  name: Πολτοποιημένη Ματζουράνα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_MARROW:
+  name: Πολτοποιημένο Κολοκύθι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_MELON:
+  name: Πολτοποιημένο Καρπούζι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_MINT:
+  name: Πολτοποιημένος Δυόσμος
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_MUSTARD_SEEDS:
+  name: Πολτοποιημένοι Σιναπόσποροι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_MUTTON:
+  name: Πολτοποιημένο Πρόβειο Κρέας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_NETTLES:
+  name: Πολτοποιημένες Τσουκνίδες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_OKRA:
+  name: Πολτοποιημένες Μπάμιες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_ONION:
+  name: Πολτοποιημένο Κρεμμύδι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_ORANGE:
+  name: Πολτοποιημένο Πορτοκάλι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_OREGANO:
+  name: Πολτοποιημένη Ρίγανη
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_PARSLEY:
+  name: Πολτοποιημένος Μαϊντανός
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_PARSNIP:
+  name: Πολτοποιημένη Παστινάκη
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_PEA:
+  name: Πολτοποιημένος Αρακάς
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_PEACH:
+  name: Πολτοποιημένο Ροδάκινο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_PEANUT:
+  name: Πολτοποιημένο Αράπικο Φιστίκι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_PEAR:
+  name: Πολτοποιημένο Αχλάδι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_PECAN:
+  name: Πολτοποιημένο Πεκάν
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_PEPPER:
+  name: Πολτοποιημένο Μαύρο Πιπέρι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_PEPPERONI:
+  name: Πολτοποιημένο Πεπερόνι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_PINEAPPLE:
+  name: Πολτοποιημένος Ανανάς
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_PINTO_BEANS:
+  name: Πολτοποιημένα Φασόλια Πίντο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_PORKCHOP:
+  name: Πολτοποιημένη Χοιρινή Μπριζόλα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_POTATO:
+  name: Πολτοποιημένη Πατάτα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_PUFFERFISH:
+  name: Πολτοποιημένο Ψάρι Φούσκα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_PUMPKIN:
+  name: Πολτοποιημένη Κολοκύθα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_RABBIT:
+  name: Πολτοποιημένο Κουνέλι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_RADDISH:
+  name: Πολτοποιημένο Ραπανάκι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_RADICCHIO:
+  name: Πολτοποιημένο Ραντίτσιο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_RAPESEED:
+  name: Πολτοποιημένη Ελαιοκράμβη
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_RED_MUSHROOM:
+  name: Πολτοποιημένο Κόκκινο Μανιτάρι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_RHUBARB:
+  name: Πολτοποιημένο Ραβέντι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_RICE:
+  name: Πολτοποιημένο Ρύζι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_ROSEMARY:
+  name: Πολτοποιημένο Δεντρολίβανο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_ROTTEN_FLESH:
+  name: Πολτοποιημένη Σάπια Σάρκα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_RUNNER_BEANS:
+  name: Πολτοποιημένα Φασόλια Μπαρμπούνια
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_RUTABAGA:
+  name: Πολτοποιημένη Ρουταμπάγκα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_SALMON:
+  name: Πολτοποιημένος Σολομός
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_SASSAFRAS:
+  name: Πολτοποιημένος Σασαφράς
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_SHALLOT:
+  name: Πολτοποιημένο Ασκαλώνιο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_SHISO:
+  name: Πολτοποιημένο Σίσο
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_SOY_BEANS:
+  name: Πολτοποιημένα Φασόλια Σόγιας
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_SPINACH:
+  name: Πολτοποιημένο Σπανάκι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_STAR_ANISE:
+  name: Πολτοποιημένος Αστεροειδής Γλυκάνισος
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_STRAWBERRY:
+  name: Πολτοποιημένη Φράουλα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_SUGAR:
+  name: Πολτοποιημένη Ζάχαρη
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_SWEETCORN:
+  name: Πολτοποιημένο Γλυκό Καλαμπόκι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_SWEET_BERRIES:
+  name: Πολτοποιημένα Γλυκά Μούρα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_SWEET_POTATO:
+  name: Πολτοποιημένη Γλυκοπατάτα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_TARRAGON:
+  name: Πολτοποιημένο Εστραγκόν
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_THYME:
+  name: Πολτοποιημένο Θυμάρι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_TOMATO:
+  name: Πολτοποιημένη Ντομάτα
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_TURMERIC:
+  name: Πολτοποιημένος Κουρκουμάς
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_TURNIP:
+  name: Πολτοποιημένο Γογγύλι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_VANILLA:
+  name: Πολτοποιημένη Βανίλια
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_WASABI:
+  name: Πολτοποιημένο Γουασάμπι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MASHED_WHEAT:
+  name: Πολτοποιημένο Σιτάρι
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_MAYONNAISE:
+  name: Μαγιονέζα
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Μια μεταξένια μαγιονέζα που ταιριάζει σχεδόν με τα πάντα.
+CLT_MEATBALLS:
+  name: Κεφτέδες
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Μπάλες από κρέας, ποιος να το φανταζόταν.
+CLT_MEATLOAF:
+  name: Ρολό Κιμά
+  type:
+  - '&7&oΤρόφιμο'
+  description:
+  - Τίποτα σαν αυτό! Πάμε.
+  stats:
+  - '&8⇨ &7Θεραπεία: &bΠλήρης'
+  - '&8⇨ &bΕνίσχυση Ζωής IV &7(10:00)'
+  - '&8⇨ &bΑντίσταση III &7(10:00)'
+  - '&8⇨ &bΒιασύνη II &7(10:00)'
+  - '&8⇨ &bΒραδύτητα II &7(10:00)'
+CLT_MINT:
+  name: Δυόσμος
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Μάσα μάσα μάσα.
+CLT_MUSTARD:
+  name: Μουστάρδα
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Έχει μια πικάντικη κλοτσιά!
+CLT_MUSTARD_SEEDS:
+  name: Σπόροι Μουστάρδας
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Μάσησέ τα, αν τολμάς!
+CLT_NETTLES:
+  name: Τσουκνίδες
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Φόρεσε τα γάντια σου πριν τα πιάσεις.
+CLT_OKRA:
+  name: Μπάμιες
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Καλλιεργείται πολύ στην Μπαμιο-χόμα... σωστά, ΣΩΣΤΑ;
+CLT_ONION:
+  name: Κρεμμύδι
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Στάσου, γιατί κλαις;
+CLT_ORANGE:
+  name: Πορτοκάλι
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Αυτό δεν έπρεπε να είναι κουρδιστό;
+CLT_ORANGE_JUICE:
+  name: Χυμός Πορτοκαλιού
+  type:
+  - '&7&oΤρόφιμο'
+  description:
+  - Είναι πραγματικά ο καλύτερος τρόπος να ξεκινήσεις τη μέρα.
+  stats:
+  - '&8⇨ &bΤαχύτητα IV &7(10:00)'
+CLT_OREGANO:
+  name: Ρίγανη
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Ένα κλασικό βότανο που δεν λείπει από κανένα ντουλάπι.
+CLT_PARSLEY:
+  name: Μαϊντανός
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Χειρότερο. Βότανο. Όλων.
+CLT_PARSNIP:
+  name: Παστινάκη
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Θέλει ψήσιμο αμέσως.
+CLT_PASTA:
+  name: Ζυμαρικά
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Σκέτα ζυμαρικά, απλά αλλά υπέροχα.
+CLT_PEA:
+  name: Αρακάς
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Συχνά βρίσκονται σε ζευγάρια μέσα σε λοβό, έτσι ακούω.
+CLT_PEACH:
+  name: Ροδάκινο
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Δεν μιλάμε για το Έμοτζι
+CLT_PEANUT:
+  name: Αράπικο Φιστίκι
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Ρίσις, έρχομαι!
+CLT_PEANUT_BUTTER:
+  name: Φυστικοβούτυρο
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Συγκρίνεται μόνο με υγρό χρυσάφι.
+CLT_PEANUT_BUTTER_JELLY_SANDWICH:
+  name: Σάντουιτς με Φυστικοβούτυρο και Ζελέ
+  type:
+  - '&7&oΤρόφιμο'
+  description:
+  - Είναι πραγματικά η κορυφή της τεχνολογίας σάντουιτς.
+  stats:
+  - '&8⇨ &7Θεραπεία: &b5 Καρδιές'
+  - '&8⇨ &bΙσχύς III &7(10:00)'
+CLT_PEAR:
+  name: Αχλάδι
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Δεν θα έλεγες ότι αυτό φαίνεται αχλαδο-τέλειο;
+CLT_PECAN:
+  name: Πεκάν
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Ζητάει απεγνωσμένα να γίνει πίτα.
+CLT_PECAN_PIE:
+  name: Πίτα Πεκάν
+  type:
+  - '&7&oΤρόφιμο'
+  description:
+  - Ο μόνος τρόπος να φας σκέτη ζάχαρη χωρίς
+  - να σε κρίνουν απόλυτα.
+  stats:
+  - '&8⇨ &7Θεραπεία: &b4 Καρδιές'
+  - '&8⇨ &bΑνύψωση I &7(10:00)'
+CLT_PEPPER:
+  name: Μαύρο Πιπέρι
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Πιο πικάντικο από το αλάτι.
+CLT_PEPPERONI:
+  name: Πεπερόνι
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Θα μπορούσα να φάω ολόκληρο κορμό από αυτό, άνετα.
+CLT_PICO_DE_GALLO:
+  name: Πίκο ντε Γκάγιο
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Μια ήπια σάλσα γεμάτη καθαρή νοστιμιά.
+CLT_PIE_CRUST:
+  name: Βάση Πίτας
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Αν ήταν νόμιμο να το τρως σκέτο
+  - θα ήταν η βασική μου τροφή.
+CLT_PINEAPPLE:
+  name: Ανανάς
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Αυτό ανήκει σε κάθε πίτσα που υπάρχει.
+  - Θες να τσακωθούμε γι' αυτό;!
+CLT_PINTO_BEANS:
+  name: Φασόλια Πίντο
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Κατσίνγκ! Ώρα για μπουρίτο.
+CLT_PIZZA_CHEESE:
+  name: Πίτσα με Τυρί
+  type:
+  - '&7&oΤρόφιμο'
+  description:
+  - Γιατί να παραγγείλει κανείς σκέτο τυρί; Δεν ξέρω.
+  stats:
+  - '&8⇨ &7Θεραπεία: &b4 Καρδιές'
+  - '&8⇨ &bΒραδύτητα I &7(10:00)'
+CLT_PIZZA_MUSHROOM:
+  name: Πίτσα με Μανιτάρια
+  type:
+  - '&7&oΤρόφιμο'
+  description:
+  - Μια απλή χορτοφαγική πίτσα γεμάτη πρωτεΐνες.
+  stats:
+  - '&8⇨ &7Θεραπεία: &b6 Καρδιές'
+  - '&8⇨ &bΒραδύτητα I &7(10:00)'
+  - '&8⇨ &bΒιασύνη II &7(10:00)'
+CLT_PIZZA_PEPPERONI:
+  name: Πίτσα Πεπερόνι
+  type:
+  - '&7&oΤρόφιμο'
+  description:
+  - Ένα κλασικό της Νέας Υόρκης γεμάτο γεύση.
+  stats:
+  - '&8⇨ &7Θεραπεία: &b6 Καρδιές'
+  - '&8⇨ &bΤαχύτητα I &7(10:00)'
+  - '&8⇨ &bΒιασύνη I &7(10:00)'
+  - '&8⇨ &bΕνίσχυση Άλματος I &7(10:00)'
+CLT_PLANT_AIR:
+  name: Φυτό Αρχέγονου Αέρα
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Ένα φυτό που σιγοτραγουδά απαλά
+  - τη μελωδία της γύρω φύσης.
+  - '&eΤα αρχέγονα φυτά δεν παράγουν αντικείμενα'
+  - '&eκαι χρησιμεύουν μόνο για διασταύρωση.'
+CLT_PLANT_AMETHYST:
+  name: Φυτό Αμέθυστου
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Αυτό το φυτό λατρεύει να ανθίζει σε βαθιά, σκοτεινά
+  - μέρη.
+CLT_PLANT_ANALYSER:
+  name: Αναλυτής Φυτών
+  type:
+  - '&7&oΕργαλείο'
+  description:
+  - Ένα πολύ βασικό εργαλείο που σου επιτρέπει
+  - να δεις τις λεπτομέρειες ενός φυτού που μεγαλώνει
+  usage:
+  - '&eΔεξί Κλικ&7: Σου δείχνει το είδος και τις λεπτομέρειες ανάπτυξης ενός φυτού.'
+  - '&eΣιφτ + Δεξί Κλικ&7: Εμφανίζει το όνομα ενός φυτού ή θάμνου.'
+CLT_PLANT_BASALT:
+  name: Φυτό Βασάλτη
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Ένα πολύ βαρετό και θαμπό φυτό.
+CLT_PLANT_BEE:
+  name: Φυτό Μέλισσας
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Ένα φυτό με ένα πολύ μικρό, λεπτεπίλεπτο ζευγάρι φτερά.
+CLT_PLANT_BLACKSTONE:
+  name: Φυτό Μαυρόπετρας
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Ένα φυτό που είναι γνωστό ότι απορροφά το φως.
+CLT_PLANT_BLAZE:
+  name: Φυτό Πυροστρόβιλου
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Ένα φυτό καψαλισμένο στις άκρες.
+CLT_PLANT_CHICKEN:
+  name: Φυτό Κότας
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Λέγεται ότι αν κρατήσεις αυτόν τον
+  - σπόρο πάνω από το κεφάλι σου και πηδήξεις από
+  - ψηλά, θα πετάξεις σαν ανεμόπτερο αντί να
+  - πέσεις.
+CLT_PLANT_CLAY:
+  name: Φυτό Πηλού
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Αυτό το φυτό μπορεί να πλαστεί και να αλλάξει σχήμα ελεύθερα.
+  - Αυτό δεν σημαίνει ότι είναι καλή ιδέα να το κάνεις,
+  - βέβαια!
+CLT_PLANT_COAL:
+  name: Φυτό Κάρβουνου
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Ένα φυτό με τόσες δυνατότητες.
+CLT_PLANT_COBBLESTONE:
+  name: Φυτό Κροκάλας
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Αυτό το φυτό είναι σκληρό σαν πέτρα.
+CLT_PLANT_CONCRETE:
+  name: Φυτό Σκυροδέματος
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Αυτό το φυτό δυσκολεύεται να μεγαλώσει καθώς
+  - σκληραίνει τόσο γρήγορα.
+CLT_PLANT_COW:
+  name: Φυτό Αγελάδας
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Αν φέρεις αυτόν τον σπόρο στο αυτί σου
+  - και ακούσεις πολύ προσεκτικά, θα ακούσεις
+  - πού και πού ένα μουγκανητό.
+CLT_PLANT_CREEPER:
+  name: Φυτό Κρίπερ
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Τσσσσσσσσσσσσσσ...
+CLT_PLANT_DARKNESS:
+  name: Φυτό Αρχέγονου Σκοταδιού
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Ένα φυτό που βράζει από ασυγκράτητη
+  - οργή.
+  - '&eΤα αρχέγονα φυτά δεν παράγουν αντικείμενα'
+  - '&eκαι χρησιμεύουν μόνο για διασταύρωση.'
+CLT_PLANT_DARK_FLORA:
+  name: Φυτό Σκοτεινής Χλωρίδας
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Ένα σιωπηλό κακό κρύβεται μέσα σε αυτόν τον απλό σπόρο.
+CLT_PLANT_DARK_GRASS:
+  name: Φυτό Σκοτεινού Γρασιδιού
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Ένα φυτό που έχει χάσει εντελώς την
+  - ταυτότητά του.
+CLT_PLANT_DEEPSLATE:
+  name: Φυτό Βαθόλιθου
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Βαθύ, πλακώδες, <εισάγετε περιγραφή εδώ>.
+CLT_PLANT_DIAMOND:
+  name: Φυτό Διαμαντιού
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Ένα φυτό που απλώς αποπνέει πλούτη.
+CLT_PLANT_DIM_LIT:
+  name: Φυτό Αμυδρού Φωτός
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Ένα πολύ αμυδρό φως εκπέμπεται μέσα από αυτόν τον σπόρο.
+CLT_PLANT_DIRT:
+  name: Φυτό Χώματος
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Βρόμικο στην επιφάνεια αλλά κρύβει τα
+  - δομικά στοιχεία της ίδιας της ζωής.
+CLT_PLANT_DROWNED:
+  name: Φυτό Πνιγμένου
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Ένα φυτό που στάζει νερό, όλη
+  - την ώρα.
+CLT_PLANT_DUSTY:
+  name: Φυτό Σκόνης
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Αυτό το φυτό χρειάζεται ειδική φροντίδα, το παραμικρό
+  - δυνατό αεράκι μπορεί να αρκεί για να το κάνει
+  - κομμάτια.
+CLT_PLANT_EARTH:
+  name: Φυτό Αρχέγονης Γης
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Ένα φυτό που εμπλουτίζει τον κόσμο
+  - γύρω του.
+  - '&eΤα αρχέγονα φυτά δεν παράγουν αντικείμενα'
+  - '&eκαι χρησιμεύουν μόνο για διασταύρωση.'
+CLT_PLANT_ECHO:
+  name: Φυτό Ηχούς
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Αυτό το φυτό ξέρει πάντα πώς να βρει
+  - τον δρόμο για το σπίτι.
+CLT_PLANT_ELDER_GUARDIAN:
+  name: Φυτό Πρεσβύτερου Προστάτη
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Όποιος βρίσκεται κοντά σε αυτό το φυτό νιώθει
+  - νωθρός.
+CLT_PLANT_EMERALD:
+  name: Φυτό Σμαραγδιού
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Οι ιδιοκτήτες αυτού του φυτού πρέπει να κάνουν
+  - τα αδύνατα δυνατά για να μπορούν να το αγοράσουν.
+CLT_PLANT_ENDERMAN:
+  name: Φυτό Έντερμαν
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Αν δεν το προσέχεις, αυτό το φυτό
+  - μπορεί να τηλεμεταφερθεί τυχαία!
+CLT_PLANT_ENDER_DRAGON:
+  name: Φυτό Δράκου Έντερ
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Ένα πραγματικό αφεντικό ανάμεσα στα φυτά.
+CLT_PLANT_END_STONE:
+  name: Φυτό Πέτρας Εντ
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Ένα φυτό που βουίζει με το κενό.
+CLT_PLANT_FIRE:
+  name: Φυτό Αρχέγονης Φωτιάς
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Ένα φυτό που προσφέρει τόσο τις
+  - πηγές της καταστροφής όσο και της
+  - αναγέννησης.
+  - '&eΤα αρχέγονα φυτά δεν παράγουν αντικείμενα'
+  - '&eκαι χρησιμεύουν μόνο για διασταύρωση.'
+CLT_PLANT_FISH:
+  name: Φυτό Ψαριού
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Μια ώριμη μυρωδιά αναδύεται από αυτόν τον σπόρο.
+CLT_PLANT_FLOWER:
+  name: Ανθοφόρο Φυτό
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Ένα όμορφο κέρας της Αμάλθειας, καλοστημένο.
+CLT_PLANT_FROG:
+  name: Φυτό Βατράχου
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Κουάξ!
+CLT_PLANT_GHAST:
+  name: Φυτό Γκαστ
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Ένα φυτό που είναι γνωστό ότι
+  - εκτοξεύει τυχαία μπάλες φωτιάς.
+CLT_PLANT_GLASS:
+  name: Φυτό Γυαλιού
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Από τη σωστή γωνία, θα ορκιζόσουν
+  - ότι βλέπεις μέσα από αυτό το φυτό.
+CLT_PLANT_GLAZED:
+  name: Εφυαλωμένο Φυτό
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Ένα φυτό που μεγαλώνει με περίτεχνο σχέδιο.
+CLT_PLANT_GLOWING_VINE:
+  name: Φυτό Λαμπερού Αναρριχητικού
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Ένα αχνό φως εκπέμπεται μέσα από αυτόν τον σπόρο.
+CLT_PLANT_GLOW_SQUID:
+  name: Φυτό Λαμπερού Καλαμαριού
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Ένα αστραφτερό φυτό με αχνή λάμψη.
+CLT_PLANT_GOAT:
+  name: Φυτό Κατσίκας
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Ένα απρόβλεπτα βίαιο φυτό που λατρεύει
+  - να χοροπηδάει.
+CLT_PLANT_GRASS:
+  name: Φυτό Γρασιδιού
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Η ζωή που ξεπηδά ορμητικά
+  - από το έδαφος.
+CLT_PLANT_GRAVEL:
+  name: Φυτό Χαλικιού
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Αυτό το φυτό πραγματικά δεν ξέρει πώς
+  - να μείνει σε ένα κομμάτι.
+CLT_PLANT_GUARDIAN:
+  name: Φυτό Προστάτη
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Όταν το αγγίξεις, αυτό το φυτό πετάει
+  - αγκάθια.
+CLT_PLANT_IGNEOUS:
+  name: Πυριγενές Φυτό
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Αυτό το φυτό σχηματίστηκε από θερμότητα και
+  - πίεση. Μη με κοιτάς έτσι! Όλες
+  - αυτές οι περιγραφές φυτών βγάζουν απόλυτο νόημα.
+CLT_PLANT_LAPIS:
+  name: Φυτό Λάπις
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Ένα φυτό με αχνή μαγική αύρα.
+CLT_PLANT_LIGHT:
+  name: Φυτό Αρχέγονου Φωτός
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Ένα φυτό που αποπνέει μια αύρα
+  - αγνής αγάπης.
+  - '&eΤα αρχέγονα φυτά δεν παράγουν αντικείμενα'
+  - '&eκαι χρησιμεύουν μόνο για διασταύρωση.'
+CLT_PLANT_MAGMA:
+  name: Φυτό Μάγματος
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Ένα φυτό τόσο καυτό που καίει
+  - ό,τι υπάρχει γύρω του.
+CLT_PLANT_MAGMA_CUBE:
+  name: Φυτό Γλίτσας Μάγματος
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Όταν κανείς δεν το κοιτάει, αυτό το φυτό
+  - λατρεύει να αναπηδά πάνω κάτω.
+CLT_PLANT_MOSS:
+  name: Φυτό Βρύου
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Αυτό το φυτό τείνει να εξαπλώνεται ανεξέλεγκτα.
+CLT_PLANT_MUD:
+  name: Φυτό Λάσπης
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Ένα φυτό σχεδόν τόσο βρόμικο όσο
+  - το έδαφος από το οποίο βγαίνει.
+CLT_PLANT_MUSHROOM:
+  name: Φυτό Μανιταριού
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Ναι, ένα φυτό που φτιάχνει μανιτάρια.
+  - Όλα είναι απολύτως φυσιολογικά εδώ.
+CLT_PLANT_NETHERRACK:
+  name: Φυτό Νέδερακ
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Ένα σκληρό, ανθεκτικό φυτό που επιβιώνει
+  - στα περισσότερα μέρη.
+CLT_PLANT_NETHER_QUARTZ:
+  name: Φυτό Χαλαζία Νέδερ
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Αυτό το φυτό έχει αγκάθια τόσο κοφτερά που
+  - είναι δύσκολο να το δουλέψεις.
+CLT_PLANT_PHANTOM:
+  name: Φυτό Φαντάσματος
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Ένα φυτό με αγέρωχα φύλλα.
+CLT_PLANT_PIG:
+  name: Φυτό Γουρουνιού
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Ένα φυτό που ρουθουνίζει τυχαία.
+CLT_PLANT_POWER:
+  name: Φυτό Αρχέγονης Δύναμης
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Ένα φυτό που ξεχειλίζει από δύναμη.
+  - '&eΤα αρχέγονα φυτά δεν παράγουν αντικείμενα'
+  - '&eκαι χρησιμεύουν μόνο για διασταύρωση.'
+CLT_PLANT_PURPUR:
+  name: Φυτό Πούρπουρ
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Ένα παράξενο φυτό, μοιάζει πολύ πιο ελαφρύ
+  - από τα περισσότερα.
+CLT_PLANT_RABBIT:
+  name: Φυτό Κουνελιού
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Τα έντομα θα ήταν περήφανα.
+CLT_PLANT_RAINBOW:
+  name: Φυτό Ουράνιου Τόξου
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Μπορεί και να υπάρχει ένα πιθάρι με χρυσάφι
+  - στην άκρη αυτού του φυτού.
+CLT_PLANT_RAW_COPPER:
+  name: Φυτό Ακατέργαστου Χαλκού
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Αν το αφήσεις μόνο του, αυτό το φυτό μερικές φορές
+  - τραβάει κεραυνούς.
+CLT_PLANT_RAW_GOLD:
+  name: Φυτό Ακατέργαστου Χρυσού
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Αυτό το φυτό το κλέβουν συχνά τα Πίγκλιν
+  - αν βρίσκονται κοντά.
+CLT_PLANT_RAW_IRON:
+  name: Φυτό Ακατέργαστου Σιδήρου
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Ένα γερό φυτό που αντέχει στα περισσότερα
+  - περιβάλλοντα.
+CLT_PLANT_REDSTONE:
+  name: Φυτό Κοκκινόπετρας
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Ένα φυτό γεμάτο δύναμη από άκρη σε άκρη.
+CLT_PLANT_RED_SAND:
+  name: Φυτό Κόκκινης Άμμου
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Αυτό το φυτό μερικές φορές θρυμματίζεται
+  - με ένα άγγιγμα, αλλά... πιο κόκκινα.
+CLT_PLANT_REINFORCED:
+  name: Ενισχυμένο Φυτό
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Ένα φυτό που μπορεί να στέκεται όρθιο
+  - σε ό,τι κι αν συμβεί.
+CLT_PLANT_SAND:
+  name: Φυτό Άμμου
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Αυτό το φυτό μερικές φορές θρυμματίζεται
+  - με ένα μόνο άγγιγμα.
+CLT_PLANT_SAPLING:
+  name: Φυτό Δενδρυλλίου
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Αυτό το φυτό δεν βγάζει καν νόημα...
+CLT_PLANT_SCRAPPY:
+  name: Φυτό Θραυσμάτων
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Αυτό το φυτό είναι πραγματικά η κορυφή της
+  - κηπουρικής.
+CLT_PLANT_SHEEP:
+  name: Φυτό Προβάτου
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Ένα φυτό με τραχιά, μάλλινη υφή.
+CLT_PLANT_SHULKER:
+  name: Φυτό Σάλκερ
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Ένα φυτό που συχνά αιωρείται πάνω
+  - από το έδαφος.
+CLT_PLANT_SKELETON:
+  name: Φυτό Σκελετού
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Ένα φυτό που κροταλίζει καθώς λικνίζεται.
+CLT_PLANT_SLIME:
+  name: Φυτό Γλίτσας
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Γιατί κολλάει τόσο;
+CLT_PLANT_SOUL:
+  name: Φυτό Ψυχής
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Ένα φυτό που ακούγεται να ουρλιάζει
+  - όταν επικρατεί ησυχία.
+CLT_PLANT_SPECTRUM:
+  name: Φυτό Αρχέγονου Φάσματος
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Ένα φυτό που αλλάζει ελαφρώς χρώμα.
+  - '&eΤα αρχέγονα φυτά δεν παράγουν αντικείμενα'
+  - '&eκαι χρησιμεύουν μόνο για διασταύρωση.'
+CLT_PLANT_SPIDER:
+  name: Φυτό Αράχνης
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Σκότωσέ το, σκότωσέ το ΤΩΡΑΑΑ!
+CLT_PLANT_SQUID:
+  name: Φυτό Καλαμαριού
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Πρόσεχε, και μόνο αν αγγίξεις αυτό το φυτό
+  - μπορεί να εκραγεί και να πετάξει μελάνι
+  - παντού.
+CLT_PLANT_STAINED:
+  name: Χρωματιστό Φυτό
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Αυτό το φυτό διασπά το φως σε ένα πραγματικό
+  - φάσμα πάνω στα κοντινά αντικείμενα.
+CLT_PLANT_TERRA:
+  name: Φυτό Τέρρα
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Ένα σκληρό γήινο φυτό που ραγίζει υπό πίεση.
+CLT_PLANT_TURTLE:
+  name: Φυτό Χελώνας
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Ένας σπόρος τυλιγμένος σε κέλυφος σκληρό σαν πέτρα.
+CLT_PLANT_VILLAGER:
+  name: Φυτό Χωρικού
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Ναι, συμπυκνώσαμε την ουσία ενός Χωρικού
+  - σε ένα φυτό. Απ' ό,τι φαίνεται, πόνεσε πολύ.
+CLT_PLANT_VINE:
+  name: Φυτό Αναρριχητικού
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Ένα φυτό που μπερδεύεται στον εαυτό του
+  - αμέσως.
+CLT_PLANT_WATER:
+  name: Φυτό Αρχέγονου Νερού
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Ένα φυτό που θρέφει και δίνει
+  - ζωή στη γύρω περιοχή.
+  - '&eΤα αρχέγονα φυτά δεν παράγουν αντικείμενα'
+  - '&eκαι χρησιμεύουν μόνο για διασταύρωση.'
+CLT_PLANT_WAXY:
+  name: Κέρινο Φυτό
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Ο χυμός αυτού του φυτού γίνεται
+  - κερί σε σχήμα τέλειου κεριού.
+CLT_PLANT_WEALTH:
+  name: Φυτό Αρχέγονου Πλούτου
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Ένα φυτό που απλώς ουρλιάζει υπέρμετρο πλούτο.
+  - '&eΤα αρχέγονα φυτά δεν παράγουν αντικείμενα'
+  - '&eκαι χρησιμεύουν μόνο για διασταύρωση.'
+CLT_PLANT_WITCH:
+  name: Φυτό Μάγισσας
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Ένα φυτό που ακούγεται σαν να μουρμουρίζει
+  - απαλά ξόρκια.
+CLT_PLANT_WITHER:
+  name: Φυτό Ουίδερ
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Ένα θανατηφόρο φυτό που θέλει
+  - προσεκτικό χειρισμό.
+CLT_PLANT_WITHER_ROSE:
+  name: Φυτό Τριαντάφυλλου Ουίδερ
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Αυτό το φυτό, κάπως, εκπέμπει μια βλαβερή
+  - αύρα γύρω του.
+CLT_PLANT_WITHER_SKELETON:
+  name: Φυτό Σκελετού Ουίδερ
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Ένα φυτό γνωστό ως άπιαστο και ανθεκτικό.
+CLT_PLANT_WOOLLY:
+  name: Μάλλινο Φυτό
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Ένα μάλλινο φυτό, από τη ρίζα ως τα πέταλα!
+CLT_PLANT_ZOMBIE:
+  name: Φυτό Ζόμπι
+  type:
+  - '&7&oΦυτό'
+  description:
+  - Αυτό το φυτό στάζει... κάτι...
+CLT_RADDISH:
+  name: Ραπανάκι
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Μικρά πακετάκια φρέσκιας, τραγανής λιακάδας.
+CLT_RADICCHIO:
+  name: Ραντίτσιο
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Το να γράφω όλες αυτές τις περιγραφές παίρνει τόσο χρόνο.
+  - Είναι ραντιτσο-γελοίο.
+CLT_RAMEN_BEEF:
+  name: Ράμεν με Βοδινό
+  type:
+  - '&7&oΤρόφιμο'
+  description:
+  - Μια όχι και τόσο υγιεινή επιλογή.
+  stats: &id004
+  - '&8⇨ &bΕνίσχυση Ζωής I &7(10:00)'
+CLT_RAMEN_BEEF_HEARTY:
+  name: Χορταστικό Ράμεν με Βοδινό
+  type:
+  - '&7&oΤρόφιμο'
+  description:
+  - Μια υγιεινή επιλογή.
+  stats: &id005
+  - '&8⇨ &7Θεραπεία: &bΠλήρης'
+  - '&8⇨ &bΕνίσχυση Ζωής II &7(10:00)'
+  - '&8⇨ &bΤαχύτητα I &7(10:00)'
+CLT_RAMEN_CHICKEN:
+  name: Ράμεν με Κοτόπουλο
+  type:
+  - '&7&oΤρόφιμο'
+  description:
+  - Μια όχι και τόσο χορταστική επιλογή.
+  stats: *id004
+CLT_RAMEN_CHICKEN_HEARTY:
+  name: Χορταστικό Ράμεν με Κοτόπουλο
+  type:
+  - '&7&oΤρόφιμο'
+  description:
+  - Μια χορταστική επιλογή.
+  stats: *id005
+CLT_RAMEN_SEAFOOD:
+  name: Ράμεν με Θαλασσινά
+  type:
+  - '&7&oΤρόφιμο'
+  description:
+  - Μια όχι και τόσο ικανοποιητική επιλογή.
+  stats: *id004
+CLT_RAMEN_SEAFOOD_HEARTY:
+  name: Χορταστικό Ράμεν με Θαλασσινά
+  type:
+  - '&7&oΤρόφιμο'
+  description:
+  - Μια ικανοποιητική επιλογή.
+  stats: *id005
+CLT_RAPESEED:
+  name: Ελαιοκράμβη
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Χρησιμοποιείται συχνά για την παραγωγή λαδιών.
+CLT_RECIPE_UNLOCK:
+  name: Πάπυρος Γνώσης Καλτιβέισον
+  type:
+  - '&7&oΕργαλείο'
+  description:
+  - Κάνε δεξί κλικ για να μάθεις μια συνταγή
+  - διασταύρωσης του Καλτιβέισον.
+CLT_RHUBARB:
+  name: Ραβέντι
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Απλώς φρόντισε να βγάλεις τα φύλλα!
+CLT_RICE:
+  name: Ρύζι
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Θυμήσου, ένα ρύζι το έχουμε!
+CLT_ROSEMARY:
+  name: Δεντρολίβανο
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Πάντα αργεί, δεν έχει θυμάρι... εεε, χρόνο.
+CLT_RUNNER_BEANS:
+  name: Φασόλια Μπαρμπούνια
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Πάντα προσπαθεί να το σκάσει.
+CLT_RUTABAGA:
+  name: Ρουταμπάγκα
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Πονάει πραγματικά να μην το λέω γογγύλι Σουηδίας.
+CLT_SALMON_NIGIRI:
+  name: Νιγκίρι Σολομού
+  type:
+  - '&7&oΤρόφιμο'
+  description:
+  - Μια υπέροχη αλλά διακριτική γεύση.
+  stats:
+  - '&8⇨ &7Θεραπεία: &b2 Καρδιές'
+  - '&8⇨ &bΑναζωογόνηση I &7(10:00)'
+CLT_SASSAFRAS:
+  name: Σασαφράς
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Φαγώσιμη Ρουτ Μπίρα, σοβαρά ψάξ' το
+  - στο ίντερνετ, το αγοράζω συνέχεια πλέον.
+CLT_SAUSAGE:
+  name: Λουκάνικο
+  type:
+  - '&7&oΤρόφιμο'
+  description:
+  - Ο αδελφός του μπέικον.
+  stats: &id007
+  - '&8⇨ &7Θεραπεία: &b1 Καρδιά'
+CLT_SEED_PACK:
+  name: Πακέτο Σπόρων
+  type:
+  - '&7&oΕργαλείο'
+  description:
+  - Κάνε δεξί κλικ για να ανοίξεις αυτό το πακέτο.
+  stats:
+  - '&8⇨ &7Ορισμένο σε: &bΤίποτα'
+CLT_SHAKSHUKA:
+  name: Σακσούκα
+  type:
+  - '&7&oΤρόφιμο'
+  description:
+  - Ένα πιάτο που ζεσταίνει την καρδιά, με αβγά για μέρες.
+  stats:
+  - '&8⇨ &7Θεραπεία: &b4 Καρδιές'
+  - '&8⇨ &bΉρωας του Χωριού I &7(10:00)'
+  - '&8⇨ &bΤύχη I &7(10:00)'
+CLT_SHALLOT:
+  name: Ασκαλώνιο
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Τα Ασκαλώνια τα λατρεύω, και σε μεγάλες δόσεις.
+CLT_SHEPHERDS_PIE:
+  name: Πίτα του Βοσκού
+  type:
+  - '&7&oΤρόφιμο'
+  description:
+  - Ζεστό, χορταστικό και απλώς υπέροχο.
+  stats: *id006
+CLT_SHISO:
+  name: Σίσο
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Δυόσμος με γαρνιτούρα αγάπης.
+CLT_SLICED_APPLE:
+  name: Μήλο σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_APRICOT:
+  name: Βερίκοκο σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_ARTICHOKE:
+  name: Αγκινάρα σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_ASPARAGUS:
+  name: Σπαράγγι σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_AUBERGINE:
+  name: Μελιτζάνα σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_AVOCADO:
+  name: Αβοκάντο σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_BANANA:
+  name: Μπανάνα σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_BASIL:
+  name: Βασιλικός σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_BAY_LEAF:
+  name: Φύλλο Δάφνης σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_BEEF:
+  name: Βοδινό σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_BEETROOT:
+  name: Παντζάρι σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_BELL_PEPPER:
+  name: Γλυκιά Πιπεριά σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_BLACK_BEANS:
+  name: Μαύρα Φασόλια σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_BREAD:
+  name: Ψωμί σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_BROCCOLI:
+  name: Μπρόκολο σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_BROWN_MUSHROOM:
+  name: Καφέ Μανιτάρι σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_BRUSSELS_SPROUTS:
+  name: Λαχανάκια Βρυξελλών σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_CABBAGE:
+  name: Λάχανο σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_CARROT:
+  name: Καρότο σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_CAULIFLOWER:
+  name: Κουνουπίδι σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_CAYENNE_PEPPER:
+  name: Πιπέρι Καγιέν σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_CELERIAC:
+  name: Σελινόριζα σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_CELERY:
+  name: Σέλινο σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_CHERRY:
+  name: Κεράσι σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_CHESTNUT:
+  name: Κάστανο σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_CHICKEN:
+  name: Κοτόπουλο σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_CHICKPEAS:
+  name: Ρεβίθια σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_CHICORY:
+  name: Ραδίκι σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_CHILLY_PEPPER:
+  name: Καυτερή Πιπεριά σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_CHIVES:
+  name: Σχοινόπρασο σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_CHORUS_FRUIT:
+  name: Χορικό Φρούτο σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_CILANTRO:
+  name: Κόλιαντρο σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_CINNAMON:
+  name: Κανέλα σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_CLOVE:
+  name: Μοσχοκάρφι σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_COCOA_BEANS:
+  name: Σπόροι Κακάο σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_COD:
+  name: Μπακαλιάρος σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_COURGETTE:
+  name: Κολοκυθάκι σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_CUCUMBER:
+  name: Αγγούρι σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_CUMIN:
+  name: Κύμινο σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_CURRY_LEAF:
+  name: Φύλλο Κάρι σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_DILL:
+  name: Άνηθος σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_EGG:
+  name: Αβγό σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_ENCHANTED_GOLDEN_APPLE:
+  name: Μαγεμένο Χρυσό Μήλο σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_FENNEL:
+  name: Μάραθο σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_GARLIC:
+  name: Σκόρδο σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_GINGER:
+  name: Τζίντζερ σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_GLOW_BERRIES:
+  name: Λαμπερά Μούρα σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_GOLDEN_APPLE:
+  name: Χρυσό Μήλο σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_GOLDEN_CARROT:
+  name: Χρυσό Καρότο σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_GRAPE:
+  name: Σταφύλι σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_GREEN_APPLE:
+  name: Πράσινο Μήλο σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_GREEN_BEANS:
+  name: Φασολάκια σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_GREEN_ONION:
+  name: Φρέσκο Κρεμμυδάκι σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_HAZELNUT:
+  name: Φουντούκι σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_HORSERADISH:
+  name: Χρένο σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_JALAPENO:
+  name: Χαλαπένιο σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_JASMINE:
+  name: Γιασεμί σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_JUNIPER_BERRY:
+  name: Κεδροκούκουτσα σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_KAFFIR_LIME:
+  name: Φύλλο Κάφιρ Λάιμ σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_KALE:
+  name: Λαχανίδα σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_KELP:
+  name: Φύκι σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_KIWI:
+  name: Ακτινίδιο σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_LAVENDER:
+  name: Λεβάντα σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_LEEK:
+  name: Πράσο σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_LEMON:
+  name: Λεμόνι σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_LETTUCE:
+  name: Μαρούλι σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_LICORICE:
+  name: Γλυκόριζα σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_LIME:
+  name: Λάιμ σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_MACE:
+  name: Μάκις σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_MANGO:
+  name: Μάνγκο σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_MARJORAM:
+  name: Ματζουράνα σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_MARROW:
+  name: Κολοκύθι σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_MELON:
+  name: Καρπούζι σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_MINT:
+  name: Δυόσμος σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_MUSTARD_SEEDS:
+  name: Σιναπόσποροι σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_MUTTON:
+  name: Πρόβειο Κρέας σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_NETTLES:
+  name: Τσουκνίδες σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_OKRA:
+  name: Μπάμιες σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_ONION:
+  name: Κρεμμύδι σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_ORANGE:
+  name: Πορτοκάλι σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_OREGANO:
+  name: Ρίγανη σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_PARSLEY:
+  name: Μαϊντανός σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_PARSNIP:
+  name: Παστινάκη σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_PEA:
+  name: Αρακάς σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_PEACH:
+  name: Ροδάκινο σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_PEANUT:
+  name: Αράπικο Φιστίκι σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_PEAR:
+  name: Αχλάδι σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_PECAN:
+  name: Πεκάν σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_PEPPER:
+  name: Μαύρο Πιπέρι σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_PEPPERONI:
+  name: Πεπερόνι σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_PINEAPPLE:
+  name: Ανανάς σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_PINTO_BEANS:
+  name: Φασόλια Πίντο σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_PORKCHOP:
+  name: Χοιρινή Μπριζόλα σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_POTATO:
+  name: Πατάτα σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_PUFFERFISH:
+  name: Ψάρι Φούσκα σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_PUMPKIN:
+  name: Κολοκύθα σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_RABBIT:
+  name: Κουνέλι σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_RADDISH:
+  name: Ραπανάκι σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_RADICCHIO:
+  name: Ραντίτσιο σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_RAPESEED:
+  name: Ελαιοκράμβη σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_RED_MUSHROOM:
+  name: Κόκκινο Μανιτάρι σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_RHUBARB:
+  name: Ραβέντι σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_RICE:
+  name: Ρύζι σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_ROSEMARY:
+  name: Δεντρολίβανο σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_ROTTEN_FLESH:
+  name: Σάπια Σάρκα σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_RUNNER_BEANS:
+  name: Φασόλια Μπαρμπούνια σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_RUTABAGA:
+  name: Ρουταμπάγκα σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_SALMON:
+  name: Σολομός σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_SASSAFRAS:
+  name: Σασαφράς σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_SHALLOT:
+  name: Ασκαλώνιο σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_SHISO:
+  name: Σίσο σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_SOY_BEANS:
+  name: Φασόλια Σόγιας σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_SPINACH:
+  name: Σπανάκι σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_STAR_ANISE:
+  name: Αστεροειδής Γλυκάνισος σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_STRAWBERRY:
+  name: Φράουλα σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_SUGAR:
+  name: Ζάχαρη σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_SWEETCORN:
+  name: Γλυκό Καλαμπόκι σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_SWEET_BERRIES:
+  name: Γλυκά Μούρα σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_SWEET_POTATO:
+  name: Γλυκοπατάτα σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_TARRAGON:
+  name: Εστραγκόν σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_THYME:
+  name: Θυμάρι σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_TOMATO:
+  name: Ντομάτα σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_TURMERIC:
+  name: Κουρκουμάς σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_TURNIP:
+  name: Γογγύλι σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_VANILLA:
+  name: Βανίλια σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_WASABI:
+  name: Γουασάμπι σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SLICED_WHEAT:
+  name: Σιτάρι σε Φέτες
+  type:
+  - '&7&oΥποπροϊόν'
+CLT_SOFT_BOILED_EGG:
+  name: Μελάτο Αβγό
+  type:
+  - '&7&oΤρόφιμο'
+  description:
+  - Απλώς ένα βραστό αβγό, τι άλλο να πεις.
+  stats:
+  - '&8⇨ &7Θεραπεία: &b1 Καρδιά'
+  - '&8⇨ &7Μερικές φορές καλεί μια κότα σε βοήθειά σου.'
+CLT_SOYLENT:
+  name: Σόιλεντ
+  type:
+  - '&7&oΤρόφιμο'
+  description:
+  - Όλα όσα χρειάζεται ο οργανισμός!
+  stats:
+  - '&8⇨ &bΚακός Οιωνός I &7(10:00)'
+  - '&8⇨ &bΑδυναμία IV &7(10:00)'
+CLT_SOY_BEANS:
+  name: Φασόλια Σόγιας
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Έρχεται το γάλα σόγιας.
+CLT_SPAGHETTI:
+  name: Σπαγγέτι
+  type:
+  - '&7&oΤρόφιμο'
+  description:
+  - Συνέχισε να ρουφάς.
+  stats: *id007
+CLT_SPAGHETTI_AND_MEATBALLS:
+  name: Σπαγγέτι με Κεφτέδες
+  type:
+  - '&7&oΤρόφιμο'
+  description:
+  - Απλό, κλασικό και χορταστικό.
+  stats:
+  - '&8⇨ &7Θεραπεία: &b1 Καρδιά'
+  - '&8⇨ &bΚακός Οιωνός I &7(10:00)'
+CLT_SPINACH:
+  name: Σπανάκι
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Μαραμένο με αγάπη.
+CLT_STAR_ANISE:
+  name: Αστεροειδής Γλυκάνισος
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Μία από τις καλύτερες και πιο μοναδικές γεύσεις.
+CLT_STRAWBERRY:
+  name: Φράουλα
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Απλώς πρόσθεσε κρέμα!
+CLT_STRAWBERRY_JELLY:
+  name: Ζελέ Φράουλας
+  type:
+  - '&7&oΣοδειά'
+  description: *id008
+CLT_SUGARED_SKULL:
+  name: Ζαχαρωμένο Κρανίο
+  type:
+  - '&7&oΤρόφιμο'
+  description:
+  - Είναι αυτό καν φαγητό...;
+  stats:
+  - '&8⇨ &bΣκότος III &7(10:00)'
+CLT_SWEETCORN:
+  name: Γλυκό Καλαμπόκι
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Ίσως το καλύτερο λαχανικό που υπάρχει.
+CLT_SWEET_BEEHIVE:
+  name: Γλυκιά Κυψέλη
+  type:
+  - '&7&oΤρόφιμο'
+  description:
+  - Δεν ξέρω τι σε έκανε να θες να μαγειρέψεις αυτό!
+  stats:
+  - '&8⇨ &7Καλεί μερικές μέλισσες!'
+CLT_SWEET_POTATO:
+  name: Γλυκοπατάτα
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Γιαμ γιαμ γιαμ.
+CLT_TAQUITO:
+  name: Τακίτο
+  type:
+  - '&7&oΤρόφιμο'
+  description:
+  - Ο Ζιμ θα ήταν περήφανος!
+  stats:
+  - '&8⇨ &7Θεραπεία: &b4 Καρδιές'
+  - '&8⇨ &7Καλεί τον Γκιρ να βοηθήσει (Είναι Γκόλεμ Σιδήρου, χαλάρωσε).'
+CLT_TARRAGON:
+  name: Εστραγκόν
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Κυριολεκτικά το βάζω σε όλα.
+  - 'Σπόιλερ: Δεν είμαι καλός σεφ.'
+CLT_TATER_TOTS:
+  name: Πατατοκροκέτες
+  type:
+  - '&7&oΤρόφιμο'
+  description:
+  - Μικρές πατατένιες μπουκίτσες.
+  stats:
+  - '&8⇨ &7Θεραπεία: &b0.5 Καρδιές'
+  - '&8⇨ &bΤαχύτητα II &7(10:00)'
+CLT_THYME:
+  name: Θυμάρι
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Συχνά ξεχνιέται, το καημένο το δεντρολίβανο.
+CLT_TOMATO:
+  name: Ντομάτα
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Κατευθείαν από το κλήμα.... εεε... τον θάμνο;
+CLT_TORTILLAS:
+  name: Τορτίγιες
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Απολαύσεις από καλαμποκάλευρο
+CLT_TREE_APRICOT:
+  name: Βερικοκιά
+  type:
+  - '&7&oΔενδρύλλιο'
+  description:
+  - Μέσα έχει ένα μόνο κουκούτσι απόγνωσης.
+  stats: &id009
+  - '&8⇨ &7Σχέδιο: &bΜπιΓουάιτ'
+CLT_TREE_BANANA:
+  name: Μπανανιά
+  type:
+  - '&7&oΔενδρύλλιο'
+  description:
+  - Ένα δέντρο που βγάζει δάχτυλα, μακάβριο!
+  stats:
+  - '&8⇨ &7Σχέδιο: &bΣεφιράατ'
+CLT_TREE_CHERRY:
+  name: Κερασιά
+  type:
+  - '&7&oΔενδρύλλιο'
+  description:
+  - Δέσε τον κόμπο!
+  stats:
+  - '&8⇨ &7Σχέδιο: &bΡίζονΦάουντΝτικόι'
+CLT_TREE_CHESTNUT:
+  name: Καστανιά
+  type:
+  - '&7&oΔενδρύλλιο'
+  description:
+  - Ένα δέντρο φτιαγμένο σαφώς για σκαρφάλωμα.
+  stats: &id010
+  - '&8⇨ &7Σχέδιο: &bΕϊΜπιτΌντις'
+CLT_TREE_GREEN_APPLE:
+  name: Πράσινη Μηλιά
+  type:
+  - '&7&oΔενδρύλλιο'
+  description:
+  - Βγάζει μεγάλα και τραγανά πράσινα μήλα.
+  stats: *id009
+CLT_TREE_HAZELNUT:
+  name: Φουντουκιά
+  type:
+  - '&7&oΔενδρύλλιο'
+  description:
+  - Το τράνταγμα αυτού του δέντρου είναι παιδικό χόμπι.
+  stats: *id010
+CLT_TREE_KIWI:
+  name: Ακτινιδιά
+  type:
+  - '&7&oΔενδρύλλιο'
+  description:
+  - Δέντρο της Νέας Ζηλανδίας; Σωστά το λέω;
+  stats: *id010
+CLT_TREE_LEMON:
+  name: Λεμονιά
+  type:
+  - '&7&oΔενδρύλλιο'
+  description:
+  - Και μόνο που κοιτάς αυτό το δέντρο νιώθεις ξινίλα.
+  stats: &id011
+  - '&8⇨ &7Σχέδιο: &bΤζεφ'
+CLT_TREE_LIME:
+  name: Δέντρο Λάιμ
+  type:
+  - '&7&oΔενδρύλλιο'
+  description:
+  - Ήξερες ότι τα Λάιμ είναι απλώς Λεμόνια που κρατάνε την ανάσα τους;
+  stats: *id010
+CLT_TREE_MANGO:
+  name: Δέντρο Μάνγκο
+  type:
+  - '&7&oΔενδρύλλιο'
+  description:
+  - Καλύτερο όταν είναι στο πιο ώριμο σημείο του.
+  stats: *id009
+CLT_TREE_ORANGE:
+  name: Πορτοκαλιά
+  type:
+  - '&7&oΔενδρύλλιο'
+  description:
+  - Μικρές σφαίρες λιακάδας.
+  stats: *id011
+CLT_TREE_PEACH:
+  name: Ροδακινιά
+  type:
+  - '&7&oΔενδρύλλιο'
+  description:
+  - Ο Τζέιμς αυτό έψαχνε, νομίζω;
+  stats: *id010
+CLT_TREE_PEAR:
+  name: Αχλαδιά
+  type:
+  - '&7&oΔενδρύλλιο'
+  description:
+  - Δυο αχλάδια ζευγαρώθηκαν για να είναι ζυγά τα ζευγάρια.
+  stats: *id009
+CLT_TREE_PECAN:
+  name: Δέντρο Πεκάν
+  type:
+  - '&7&oΔενδρύλλιο'
+  description:
+  - Μπορούμε να μεγαλώσουμε αυτό το δέντρο; Πεκάν-τως ναι!
+  stats: *id009
+CLT_TREE_PINEAPPLE:
+  name: Δέντρο Ανανά
+  type:
+  - '&7&oΔενδρύλλιο'
+  description:
+  - ΠΟΥ ΕΙΝΑΙ Η ΠΙΤΣΑ ΜΟΥ;
+  stats: *id010
+CLT_TURMERIC:
+  name: Κουρκουμάς
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Μια έντονη μοσχάτη παρουσία που απογειώνει πολλά πιάτα.
+CLT_TURNIP:
+  name: Γογγύλι
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Θα λύσει όλα τα προβλήματα της ζωής.
+CLT_VANILLA:
+  name: Βανίλια
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - 'Οδηγίες: Βούτηξέ το κατευθείαν σε λάτε'
+CLT_WASABI:
+  name: Γουασάμπι
+  type:
+  - '&7&oΣοδειά'
+  description:
+  - Βοήθεια... γουασάμπι...
+CLT_WITHER_ROSE_SALAD:
+  name: Σαλάτα με Τριαντάφυλλο Ουίδερ
+  type:
+  - '&7&oΤρόφιμο'
+  description:
+  - Γεμάτο δύναμη αλλά με σκληρή παρενέργεια.
+  stats:
+  - '&8⇨ &7Θεραπεία: &bΠλήρης'
+  - '&8⇨ &bΜαρασμός II &7(10:00)'
+  - '&8⇨ &bΕνίσχυση Ζωής XX &7(10:00)'

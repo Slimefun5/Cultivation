@@ -1,0 +1,6674 @@
+CLT_APRICOT:
+  name: Caisă
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Poți face Pokéballuri din astea.
+  - '...'
+  - Cum adică e altceva...?
+CLT_ARTICHOKE:
+  name: Anghinare
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Smulge-i INIMA!
+CLT_ASPARAGUS:
+  name: Sparanghel
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Ai grijă când mergi mai târziu la baie.
+CLT_AUBERGINE:
+  name: Vânătă
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Mov aprins și 100% NU în formă de ou.
+  - Mai bine îi zicem pătlăgea vânătă, nu?
+CLT_AVOCADO:
+  name: Avocado
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Visul oricărui hipster.
+CLT_BACON_SANDWICH:
+  name: Sandviș cu bacon
+  type:
+  - '&7&oMâncare'
+  description:
+  - Un clasic simplu!
+  stats:
+  - '&8⇨ &7Vindecare: &b2 inimi'
+  - '&8⇨ &bForță I &7(10:00)'
+  - '&8⇨ &bViteză I &7(10:00)'
+CLT_BAGEL:
+  name: Covrig
+  type:
+  - '&7&oMâncare'
+  description:
+  - Prăjit? Sau...
+  stats:
+  - '&8⇨ &7Vindecare: &b2.5 inimi'
+CLT_BAGEL_BITE:
+  name: Mini covrig
+  type:
+  - '&7&oMâncare'
+  description:
+  - Mănâncă pizza oricând!
+  stats:
+  - '&8⇨ &7Îți arde gura la fiecare mușcătură!'
+CLT_BAGEL_CREAM_CHEESE:
+  name: Covrig cu cremă de brânză
+  type:
+  - '&7&oMâncare'
+  description:
+  - E atât de bun că probabil o să mai vrei unul.
+  stats:
+  - '&8⇨ &7Vindecare: &b5 inimi'
+  - '&8⇨ &bBonus de viață I &7(10:00)'
+CLT_BANANA:
+  name: Banană
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Dragoste la prima coajă!
+CLT_BASIL:
+  name: Busuioc
+  type:
+  - '&7&oRecoltă'
+  description:
+  - O frunză dulce cu un postgust fin de piper.
+CLT_BAY_LEAF:
+  name: Foaie de dafin
+  type:
+  - '&7&oRecoltă'
+  description:
+  - O aromă puternică, bună la multe.
+CLT_BELL_PEPPER:
+  name: Ardei gras
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Îmi sună cunoscut, ca un clopoțel.
+CLT_BISCUIT:
+  name: Biscuit
+  type:
+  - '&7&oMâncare'
+  description:
+  - O gustare mică cu un gust uriaș.
+  stats: &id002
+  - '&8⇨ &7Te lansează în aer'
+CLT_BISCUIT_BASE:
+  name: Bază de biscuit
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Doar pentru că acum e plat nu înseamnă
+  - că îl poți mânca crud.
+CLT_BISCUIT_DOUGH:
+  name: Aluat de biscuiți
+  type:
+  - '&7&oRecoltă'
+  description:
+  - 'Doar amintește-ți: "Nu-l mânca crud."'
+CLT_BLACK_BEANS:
+  name: Fasole neagră
+  type:
+  - '&7&oRecoltă'
+  description:
+  - O proteină vegetariană delicioasă.
+CLT_BLENDED_APPLE:
+  name: Măr mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_APRICOT:
+  name: Caisă mixată
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_ARTICHOKE:
+  name: Anghinare mixată
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_ASPARAGUS:
+  name: Sparanghel mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_AUBERGINE:
+  name: Vânătă mixată
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_AVOCADO:
+  name: Avocado mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_BANANA:
+  name: Banană mixată
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_BASIL:
+  name: Busuioc mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_BAY_LEAF:
+  name: Foaie de dafin mixată
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_BEEF:
+  name: Carne de vită mixată
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_BEETROOT:
+  name: Sfeclă mixată
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_BELL_PEPPER:
+  name: Ardei gras mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_BLACK_BEANS:
+  name: Fasole neagră mixată
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_BREAD:
+  name: Pâine mixată
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_BROCCOLI:
+  name: Broccoli mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_BROWN_MUSHROOM:
+  name: Ciupercă maro mixată
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_BRUSSELS_SPROUTS:
+  name: Varză de Bruxelles mixată
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_CABBAGE:
+  name: Varză mixată
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_CARROT:
+  name: Morcov mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_CAULIFLOWER:
+  name: Conopidă mixată
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_CAYENNE_PEPPER:
+  name: Piper de Cayenne mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_CELERIAC:
+  name: Țelină mixată
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_CELERY:
+  name: Țelină apio mixată
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_CHERRY:
+  name: Cireașă mixată
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_CHESTNUT:
+  name: Castană mixată
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_CHICKEN:
+  name: Pui mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_CHICKPEAS:
+  name: Năut mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_CHICORY:
+  name: Cicoare mixată
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_CHILLY_PEPPER:
+  name: Ardei iute mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_CHIVES:
+  name: Arpagic mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_CHORUS_FRUIT:
+  name: Fruct coral mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_CILANTRO:
+  name: Coriandru mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_CINNAMON:
+  name: Scorțișoară mixată
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_CLOVE:
+  name: Cuișor mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_COCOA_BEANS:
+  name: Boabe de cacao mixate
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_COD:
+  name: Cod mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_COURGETTE:
+  name: Dovlecel mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_CUCUMBER:
+  name: Castravete mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_CUMIN:
+  name: Chimion mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_CURRY_LEAF:
+  name: Foaie de curry mixată
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_DILL:
+  name: Mărar mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_EGG:
+  name: Ou mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_ENCHANTED_GOLDEN_APPLE:
+  name: Măr de aur fermecat mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_FENNEL:
+  name: Fenicul mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_GARLIC:
+  name: Usturoi mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_GINGER:
+  name: Ghimbir mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_GLOW_BERRIES:
+  name: Fructe de pădure strălucitoare mixate
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_GOLDEN_APPLE:
+  name: Măr de aur mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_GOLDEN_CARROT:
+  name: Morcov de aur mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_GRAPE:
+  name: Strugure mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_GREEN_APPLE:
+  name: Măr verde mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_GREEN_BEANS:
+  name: Fasole verde mixată
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_GREEN_ONION:
+  name: Ceapă verde mixată
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_HAZELNUT:
+  name: Alună de pădure mixată
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_HORSERADISH:
+  name: Hrean mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_JALAPENO:
+  name: Jalapeño mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_JASMINE:
+  name: Iasomie mixată
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_JUNIPER_BERRY:
+  name: Boabe de ienupăr mixate
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_KAFFIR_LIME:
+  name: Frunză de lămâie kaffir mixată
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_KALE:
+  name: Varză kale mixată
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_KELP:
+  name: Algă mixată
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_KIWI:
+  name: Kiwi mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_LAVENDER:
+  name: Lavandă mixată
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_LEEK:
+  name: Praz mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_LEMON:
+  name: Lămâie mixată
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_LETTUCE:
+  name: Salată verde mixată
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_LICORICE:
+  name: Lemn dulce mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_LIME:
+  name: Lămâie verde mixată
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_MACE:
+  name: Floare de nucșoară mixată
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_MANGO:
+  name: Mango mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_MARJORAM:
+  name: Maghiran mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_MARROW:
+  name: Dovlecel mare mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_MELON:
+  name: Pepene mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_MINT:
+  name: Mentă mixată
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_MUSTARD_SEEDS:
+  name: Semințe de muștar mixate
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_MUTTON:
+  name: Carne de oaie mixată
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_NETTLES:
+  name: Urzici mixate
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_OKRA:
+  name: Bame mixate
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_ONION:
+  name: Ceapă mixată
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_ORANGE:
+  name: Portocală mixată
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_OREGANO:
+  name: Oregano mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_PARSLEY:
+  name: Pătrunjel mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_PARSNIP:
+  name: Păstârnac mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_PEA:
+  name: Mazăre mixată
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_PEACH:
+  name: Piersică mixată
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_PEANUT:
+  name: Arahidă mixată
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_PEAR:
+  name: Pară mixată
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_PECAN:
+  name: Nucă pecan mixată
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_PEPPER:
+  name: Piper negru mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_PEPPERONI:
+  name: Pepperoni mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_PINEAPPLE:
+  name: Ananas mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_PINTO_BEANS:
+  name: Fasole pinto mixată
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_PORKCHOP:
+  name: Cotlet de porc mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_POTATO:
+  name: Cartof mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_PUFFERFISH:
+  name: Pește-balon mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_PUMPKIN:
+  name: Dovleac mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_RABBIT:
+  name: Iepure mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_RADDISH:
+  name: Ridiche mixată
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_RADICCHIO:
+  name: Radicchio mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_RAPESEED:
+  name: Rapiță mixată
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_RED_MUSHROOM:
+  name: Ciupercă roșie mixată
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_RHUBARB:
+  name: Rubarbă mixată
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_RICE:
+  name: Orez mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_ROSEMARY:
+  name: Rozmarin mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_ROTTEN_FLESH:
+  name: Carne putrezită mixată
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_RUNNER_BEANS:
+  name: Fasole urcătoare mixată
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_RUTABAGA:
+  name: Rutabaga mixată
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_SALMON:
+  name: Somon mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_SASSAFRAS:
+  name: Sassafras mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_SHALLOT:
+  name: Eșalotă mixată
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_SHISO:
+  name: Shiso mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_SOY_BEANS:
+  name: Boabe de soia mixate
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_SPINACH:
+  name: Spanac mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_STAR_ANISE:
+  name: Anason stelat mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_STRAWBERRY:
+  name: Căpșună mixată
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_SUGAR:
+  name: Zahăr mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_SWEETCORN:
+  name: Porumb dulce mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_SWEET_BERRIES:
+  name: Fructe de pădure dulci mixate
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_SWEET_POTATO:
+  name: Cartof dulce mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_TARRAGON:
+  name: Tarhon mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_THYME:
+  name: Cimbru mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_TOMATO:
+  name: Roșie mixată
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_TURMERIC:
+  name: Turmeric mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_TURNIP:
+  name: Nap mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_VANILLA:
+  name: Vanilie mixată
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_WASABI:
+  name: Wasabi mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLENDED_WHEAT:
+  name: Grâu mixat
+  type:
+  - '&7&oProdus secundar'
+CLT_BLUE_CANDY:
+  name: Bomboană albastră
+  type:
+  - '&7&oMâncare'
+  description:
+  - O bomboană încântător de dulce.
+  stats:
+  - '&8⇨ &7Invocă un Aliat'
+CLT_BOILED_APPLE:
+  name: Măr fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_APRICOT:
+  name: Caisă fiartă
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_ARTICHOKE:
+  name: Anghinare fiartă
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_ASPARAGUS:
+  name: Sparanghel fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_AUBERGINE:
+  name: Vânătă fiartă
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_AVOCADO:
+  name: Avocado fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_BANANA:
+  name: Banană fiartă
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_BASIL:
+  name: Busuioc fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_BAY_LEAF:
+  name: Foaie de dafin fiartă
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_BEEF:
+  name: Carne de vită fiartă
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_BEETROOT:
+  name: Sfeclă fiartă
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_BELL_PEPPER:
+  name: Ardei gras fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_BLACK_BEANS:
+  name: Fasole neagră fiartă
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_BREAD:
+  name: Pâine fiartă
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_BROCCOLI:
+  name: Broccoli fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_BROWN_MUSHROOM:
+  name: Ciupercă maro fiartă
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_BRUSSELS_SPROUTS:
+  name: Varză de Bruxelles fiartă
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_CABBAGE:
+  name: Varză fiartă
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_CARROT:
+  name: Morcov fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_CAULIFLOWER:
+  name: Conopidă fiartă
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_CAYENNE_PEPPER:
+  name: Piper de Cayenne fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_CELERIAC:
+  name: Țelină fiartă
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_CELERY:
+  name: Țelină apio fiartă
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_CHERRY:
+  name: Cireașă fiartă
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_CHESTNUT:
+  name: Castană fiartă
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_CHICKEN:
+  name: Pui fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_CHICKPEAS:
+  name: Năut fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_CHICORY:
+  name: Cicoare fiartă
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_CHILLY_PEPPER:
+  name: Ardei iute fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_CHIVES:
+  name: Arpagic fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_CHORUS_FRUIT:
+  name: Fruct coral fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_CILANTRO:
+  name: Coriandru fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_CINNAMON:
+  name: Scorțișoară fiartă
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_CLOVE:
+  name: Cuișor fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_COCOA_BEANS:
+  name: Boabe de cacao fierte
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_COD:
+  name: Cod fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_COURGETTE:
+  name: Dovlecel fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_CUCUMBER:
+  name: Castravete fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_CUMIN:
+  name: Chimion fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_CURRY_LEAF:
+  name: Foaie de curry fiartă
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_DILL:
+  name: Mărar fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_EGG:
+  name: Ou fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_ENCHANTED_GOLDEN_APPLE:
+  name: Măr de aur fermecat fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_FENNEL:
+  name: Fenicul fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_GARLIC:
+  name: Usturoi fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_GINGER:
+  name: Ghimbir fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_GLOW_BERRIES:
+  name: Fructe de pădure strălucitoare fierte
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_GOLDEN_APPLE:
+  name: Măr de aur fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_GOLDEN_CARROT:
+  name: Morcov de aur fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_GRAPE:
+  name: Strugure fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_GREEN_APPLE:
+  name: Măr verde fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_GREEN_BEANS:
+  name: Fasole verde fiartă
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_GREEN_ONION:
+  name: Ceapă verde fiartă
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_HAZELNUT:
+  name: Alună de pădure fiartă
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_HORSERADISH:
+  name: Hrean fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_JALAPENO:
+  name: Jalapeño fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_JASMINE:
+  name: Iasomie fiartă
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_JUNIPER_BERRY:
+  name: Boabe de ienupăr fierte
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_KAFFIR_LIME:
+  name: Frunză de lămâie kaffir fiartă
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_KALE:
+  name: Varză kale fiartă
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_KELP:
+  name: Algă fiartă
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_KIWI:
+  name: Kiwi fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_LAVENDER:
+  name: Lavandă fiartă
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_LEEK:
+  name: Praz fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_LEMON:
+  name: Lămâie fiartă
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_LETTUCE:
+  name: Salată verde fiartă
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_LICORICE:
+  name: Lemn dulce fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_LIME:
+  name: Lămâie verde fiartă
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_MACE:
+  name: Floare de nucșoară fiartă
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_MANGO:
+  name: Mango fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_MARJORAM:
+  name: Maghiran fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_MARROW:
+  name: Dovlecel mare fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_MELON:
+  name: Pepene fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_MINT:
+  name: Mentă fiartă
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_MUSTARD_SEEDS:
+  name: Semințe de muștar fierte
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_MUTTON:
+  name: Carne de oaie fiartă
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_NETTLES:
+  name: Urzici fierte
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_OKRA:
+  name: Bame fierte
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_ONION:
+  name: Ceapă fiartă
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_ORANGE:
+  name: Portocală fiartă
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_OREGANO:
+  name: Oregano fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_PARSLEY:
+  name: Pătrunjel fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_PARSNIP:
+  name: Păstârnac fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_PEA:
+  name: Mazăre fiartă
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_PEACH:
+  name: Piersică fiartă
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_PEANUT:
+  name: Arahidă fiartă
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_PEAR:
+  name: Pară fiartă
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_PECAN:
+  name: Nucă pecan fiartă
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_PEPPER:
+  name: Piper negru fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_PEPPERONI:
+  name: Pepperoni fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_PINEAPPLE:
+  name: Ananas fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_PINTO_BEANS:
+  name: Fasole pinto fiartă
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_PORKCHOP:
+  name: Cotlet de porc fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_POTATO:
+  name: Cartof fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_PUFFERFISH:
+  name: Pește-balon fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_PUMPKIN:
+  name: Dovleac fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_RABBIT:
+  name: Iepure fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_RADDISH:
+  name: Ridiche fiartă
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_RADICCHIO:
+  name: Radicchio fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_RAPESEED:
+  name: Rapiță fiartă
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_RED_MUSHROOM:
+  name: Ciupercă roșie fiartă
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_RHUBARB:
+  name: Rubarbă fiartă
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_RICE:
+  name: Orez fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_ROSEMARY:
+  name: Rozmarin fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_ROTTEN_FLESH:
+  name: Carne putrezită fiartă
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_RUNNER_BEANS:
+  name: Fasole urcătoare fiartă
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_RUTABAGA:
+  name: Rutabaga fiartă
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_SALMON:
+  name: Somon fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_SASSAFRAS:
+  name: Sassafras fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_SHALLOT:
+  name: Eșalotă fiartă
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_SHISO:
+  name: Shiso fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_SOY_BEANS:
+  name: Boabe de soia fierte
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_SPINACH:
+  name: Spanac fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_STAR_ANISE:
+  name: Anason stelat fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_STRAWBERRY:
+  name: Căpșună fiartă
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_SUGAR:
+  name: Zahăr fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_SWEETCORN:
+  name: Porumb dulce fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_SWEET_BERRIES:
+  name: Fructe de pădure dulci fierte
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_SWEET_POTATO:
+  name: Cartof dulce fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_TARRAGON:
+  name: Tarhon fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_THYME:
+  name: Cimbru fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_TOMATO:
+  name: Roșie fiartă
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_TURMERIC:
+  name: Turmeric fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_TURNIP:
+  name: Nap fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_VANILLA:
+  name: Vanilie fiartă
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_WASABI:
+  name: Wasabi fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOILED_WHEAT:
+  name: Grâu fiert
+  type:
+  - '&7&oProdus secundar'
+CLT_BOWL_OF_STEVE:
+  name: Castron de... Steve?
+  type:
+  - '&7&oMâncare'
+  description:
+  - Ce naiba &%£$
+  stats:
+  - '&8⇨ &bIstovire X &7(10:00)'
+  - '&8⇨ &bÎncetineală VI &7(10:00)'
+  - '&8⇨ &bForță X &7(10:00)'
+  - '&8⇨ &7Te reduce la 1/2 inimă'
+CLT_BROCCOLI:
+  name: Broccoli
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Ești un uriaș care ține un copac în mână?
+  - Nu, doar un copăcel mititel :)
+CLT_BRUSSELS_SPROUTS:
+  name: Varză de Bruxelles
+  type:
+  - '&7&oRecoltă'
+  description:
+  - O delicie... gazoasă.
+CLT_BUSH_ARTICHOKE:
+  name: Tufă de anghinare
+  type:
+  - '&7&oTufă'
+  description:
+  - Cea mai bună tufă cu care să sufoci un
+  - artist. Of. Calambururile sunt grele.
+CLT_BUSH_ASPARAGUS:
+  name: Tufă de sparanghel
+  type:
+  - '&7&oTufă'
+  description:
+  - Tufa asta de sparanghel te urmărește
+  - din tulpină în tulpină!
+CLT_BUSH_AUBERGINE:
+  name: Tufă de vinete
+  type:
+  - '&7&oTufă'
+  description:
+  - Refuz să-i zic pătlăgea vânătă. Pur și simplu refuz.
+CLT_BUSH_AVOCADO:
+  name: Tufă de avocado
+  type:
+  - '&7&oTufă'
+  description:
+  - Tufa asta a fost crescută special ca să nu
+  - consume prea multă apă.
+CLT_BUSH_BASIL:
+  name: Tufă de busuioc
+  type:
+  - '&7&oTufă'
+  description:
+  - O tufă veselă, plină de fantezie.
+CLT_BUSH_BAY_LEAF:
+  name: Tufă de dafin
+  type:
+  - '&7&oTufă'
+  description:
+  - Mirosul tufei ăsteia se simte de la kilometri.
+CLT_BUSH_BELL_PEPPER:
+  name: Tufă de ardei gras
+  type:
+  - '&7&oTufă'
+  description:
+  - Ai grijă când treci pe lângă ea, s-ar putea
+  - să suni din clopoțel.
+CLT_BUSH_BLACK_BEANS:
+  name: Tufă de fasole neagră
+  type:
+  - '&7&oTufă'
+  description:
+  - 'Tufa asta îți șoptește blând:'
+  - Ești un om bun ca fasolea.
+CLT_BUSH_BROCCOLI:
+  name: Tufă de broccoli
+  type:
+  - '&7&oTufă'
+  description:
+  - Copăcei care se mănâncă? Cine a inventat asta!?
+CLT_BUSH_BRUSSELS_SPROUTS:
+  name: Tufă de varză de Bruxelles
+  type:
+  - '&7&oTufă'
+  description:
+  - O tufă care uneori produce gaze
+  - toxice.
+CLT_BUSH_CABBAGE:
+  name: Tufă de varză
+  type:
+  - '&7&oTufă'
+  description:
+  - O tufă care vine cu o cantitate mare de
+  - varză emoțională.
+CLT_BUSH_CAULIFLOWER:
+  name: Tufă de conopidă
+  type:
+  - '&7&oTufă'
+  description:
+  - O tufă în stare să producă mici nori
+  - de încântare.
+CLT_BUSH_CAYENNE_PEPPER:
+  name: Tufă de piper de Cayenne
+  type:
+  - '&7&oTufă'
+  description:
+  - O tufă cu o atitudine piperată.
+CLT_BUSH_CELERIAC:
+  name: Tufă de țelină
+  type:
+  - '&7&oTufă'
+  description:
+  - Iar o rădăcină care crește dintr-o tufă?
+  - SefiProst™
+CLT_BUSH_CELERY:
+  name: Tufă de țelină apio
+  type:
+  - '&7&oTufă'
+  description:
+  - Tufa asta e redundantă.
+  - Lui Sefi nu-i place țelina apio.
+CLT_BUSH_CHICKPEAS:
+  name: Tufă de năut
+  type:
+  - '&7&oTufă'
+  description:
+  - O tufă obținută încrucișând o găină cu
+  - un bob de mazăre. ȘTIINȚĂ.
+CLT_BUSH_CHICORY:
+  name: Tufă de cicoare
+  type:
+  - '&7&oTufă'
+  description:
+  - Credeam că cicoarea e o rădăcină? Addonul ăsta
+  - măcar se documentează!?
+CLT_BUSH_CHILLI_PEPPER:
+  name: Tufă de ardei iute
+  type:
+  - '&7&oTufă'
+  description:
+  - Doar când mă uit la tufa asta mă arde limba.
+CLT_BUSH_CHIVES:
+  name: Tufă de arpagic
+  type:
+  - '&7&oTufă'
+  description:
+  - O tufă care produce, practic, cea mai mică
+  - ceapă din lume.
+CLT_BUSH_CILANTRO:
+  name: Tufă de coriandru
+  type:
+  - '&7&oTufă'
+  description:
+  - Din tufa asta vine un miros slab de citrice și condimente.
+CLT_BUSH_CINNAMON:
+  name: Tufă de scorțișoară
+  type:
+  - '&7&oTufă'
+  description:
+  - O tufă încântător de parfumată.
+CLT_BUSH_CLOVE:
+  name: Tufă de cuișoare
+  type:
+  - '&7&oTufă'
+  description:
+  - O tufă care pur și simplu îmi amintește de Crăciun.
+CLT_BUSH_COURGETTE:
+  name: Tufă de dovlecei
+  type:
+  - '&7&oTufă'
+  description:
+  - De ce tot strigă tufa asta cuvântul
+  - Zucchini? Probabil e americană?
+CLT_BUSH_CUCUMBER:
+  name: Tufă de castraveți
+  type:
+  - '&7&oTufă'
+  description:
+  - Tufa asta a fost creată doar pentru
+  - salatele tale minunate de vară.
+CLT_BUSH_CUMIN:
+  name: Tufă de chimion
+  type:
+  - '&7&oTufă'
+  description:
+  - O tufă care degajă o aromă caldă de citrice.
+CLT_BUSH_CURRY_LEAF:
+  name: Tufă de curry
+  type:
+  - '&7&oTufă'
+  description:
+  - Cel mai bun prăjit fără ulei.
+CLT_BUSH_DILL:
+  name: Tufă de mărar
+  type:
+  - '&7&oTufă'
+  description:
+  - Tufa asta crește mult mai repede decât altele.
+CLT_BUSH_FENNEL:
+  name: Tufă de fenicul
+  type:
+  - '&7&oTufă'
+  description:
+  - De ce alungă tufa asta insectele!?
+CLT_BUSH_GARLIC:
+  name: Tufă de usturoi
+  type:
+  - '&7&oTufă'
+  description:
+  - Tufa asta are pur și simplu cel mai urât miros din gură.
+CLT_BUSH_GINGER:
+  name: Tufă de ghimbir
+  type:
+  - '&7&oTufă'
+  description:
+  - Tufa asta e bună fiartă întreagă.
+CLT_BUSH_GRAPE:
+  name: Tufă de struguri
+  type:
+  - '&7&oTufă'
+  description:
+  - Struguri copți și zemoși care aproape cad
+  - singuri din tufă.
+CLT_BUSH_GREEN_BEANS:
+  name: Tufă de fasole verde
+  type:
+  - '&7&oTufă'
+  description:
+  - Toarnă sos de roșii peste tufa asta și
+  - ai fasole la cuptor.
+CLT_BUSH_GREEN_ONION:
+  name: Tufă de ceapă verde
+  type:
+  - '&7&oTufă'
+  description:
+  - Cunoscută și drept ceapă de primăvară.
+  - Ceapa verde are în general un
+  - gust mai blând decât majoritatea cepelor.
+CLT_BUSH_HORSERADISH:
+  name: Tufă de hrean
+  type:
+  - '&7&oTufă'
+  description:
+  - Din nou, să crească asta pe o tufă n-are niciun sens.
+CLT_BUSH_JALAPENO:
+  name: Tufă de jalapeño
+  type:
+  - '&7&oTufă'
+  description:
+  - Doar ținând tufa asta în mână ai o
+  - șansă de 1% să iei foc.
+CLT_BUSH_JASMINE:
+  name: Tufă de iasomie
+  type:
+  - '&7&oTufă'
+  description:
+  - Parfumul tufei ăsteia e atât de fin și de blând.
+CLT_BUSH_JUNIPER_BERRY:
+  name: Tufă de ienupăr
+  type:
+  - '&7&oTufă'
+  description:
+  - Atât de dulce pe tufă, piperat când e uscat.
+CLT_BUSH_KAFFIR_LIME:
+  name: Tufă de lămâie kaffir
+  type:
+  - '&7&oTufă'
+  description:
+  - O tufă ale cărei frunze sunt mai căutate decât fructele.
+CLT_BUSH_KALE:
+  name: Tufă de varză kale
+  type:
+  - '&7&oTufă'
+  description:
+  - Când plantezi tufa asta, ai senzația
+  - că totul o să fie o-kale.
+CLT_BUSH_LAVENDER:
+  name: Tufă de lavandă
+  type:
+  - '&7&oTufă'
+  description:
+  - Tufa asta își împrăștie mirosul peste tot.
+CLT_BUSH_LEEK:
+  name: Tufă de praz
+  type:
+  - '&7&oTufă'
+  description:
+  - Știai că prazul e doar o ceapă care
+  - poartă corset? Poveste adevărată.
+CLT_BUSH_LETTUCE:
+  name: Tufă de salată verde
+  type:
+  - '&7&oTufă'
+  description:
+  - Crește salata verde măcar pe tufe?
+  - 'Spoiler: Nu, nu crește.'
+CLT_BUSH_LICORICE:
+  name: Tufă de lemn dulce
+  type:
+  - '&7&oTufă'
+  description:
+  - Scârbos
+CLT_BUSH_MACE:
+  name: Tufă de floare de nucșoară
+  type:
+  - '&7&oTufă'
+  description:
+  - Tufa asta pare să respingă atacatorii?
+CLT_BUSH_MARJORAM:
+  name: Tufă de maghiran
+  type:
+  - '&7&oTufă'
+  description:
+  - O tufă mare cu miros lemnos.
+CLT_BUSH_MARROW:
+  name: Tufă de dovlecel mare
+  type:
+  - '&7&oTufă'
+  description:
+  - Sunt surprins că tufa asta își poate ține
+  - propria greutate.
+CLT_BUSH_MINT:
+  name: Tufă de mentă
+  type:
+  - '&7&oTufă'
+  description:
+  - Pur și simplu tufa cu cel mai bun miros.
+CLT_BUSH_MUSTARD:
+  name: Tufă de semințe de muștar
+  type:
+  - '&7&oTufă'
+  description:
+  - Ca focul în gură.
+CLT_BUSH_NETTLES:
+  name: Tufă de urzici
+  type:
+  - '&7&oTufă'
+  description:
+  - Ai grijă când treci prin tufa asta!
+CLT_BUSH_OKRA:
+  name: Tufă de bame
+  type:
+  - '&7&oTufă'
+  description:
+  - Votată legumă numărul 1 de
+  - Clubul de Legume al lui Okra Winfrey.
+CLT_BUSH_ONION:
+  name: Tufă de ceapă
+  type:
+  - '&7&oTufă'
+  description:
+  - Tufa asta pare că lăcrimează?
+CLT_BUSH_OREGANO:
+  name: Tufă de oregano
+  type:
+  - '&7&oTufă'
+  description:
+  - Tufa asta cu miros înțepător alungă vizitatorii.
+CLT_BUSH_PARSLEY:
+  name: Tufă de pătrunjel
+  type:
+  - '&7&oTufă'
+  description:
+  - Aruncă tufa asta în lavă, acum :D
+CLT_BUSH_PARSNIP:
+  name: Tufă de păstârnac
+  type:
+  - '&7&oTufă'
+  description:
+  - Sari peste intermediar și prăjește tufa
+  - direct.
+CLT_BUSH_PEA:
+  name: Tufă de mazăre
+  type:
+  - '&7&oTufă'
+  description:
+  - Eu prefer litera Q
+CLT_BUSH_PEANUTS:
+  name: Tufă de arahide
+  type:
+  - '&7&oTufă'
+  description: &id001
+  - Solidă, parfumată și plină de proteine.
+CLT_BUSH_PEPPER:
+  name: Tufă de piper negru
+  type:
+  - '&7&oTufă'
+  description:
+  - Piperul negru a fost o parte importantă a
+  - comerțului cu mirodenii dintre India și Europa
+  - încă din vremea grecilor și a romanilor.
+CLT_BUSH_PINTO_BEANS:
+  name: Tufă de fasole pinto
+  type:
+  - '&7&oTufă'
+  description:
+  - Nu mai durează mult până vom crește
+  - o tufă care face direct burrito, nu?
+CLT_BUSH_RADDISH:
+  name: Tufă de ridichi
+  type:
+  - '&7&oTufă'
+  description:
+  - Planta asta tocmai a făcut un truc pe skateboard.
+  - Total ridi-cool.
+CLT_BUSH_RADICCHIO:
+  name: Tufă de radicchio
+  type:
+  - '&7&oTufă'
+  description:
+  - Vrei să pari sofisticat? Pune radicchio în orice
+  - masă, e practic ca varza, dar
+  - te face să pari rafinat.
+CLT_BUSH_RAPESEED:
+  name: Tufă de rapiță
+  type:
+  - '&7&oTufă'
+  description:
+  - Tufa asta secretă o substanță uleioasă.
+CLT_BUSH_RHUBARB:
+  name: Tufă de rubarbă
+  type:
+  - '&7&oTufă'
+  description:
+  - Știai că rubarba e o legumă?
+  - Credeam că e un tip de ciocan.
+CLT_BUSH_RICE:
+  name: Tufă de orez
+  type:
+  - '&7&oTufă'
+  description:
+  - Hrana de bază supremă.
+CLT_BUSH_ROSEMARY:
+  name: Tufă de rozmarin
+  type:
+  - '&7&oTufă'
+  description:
+  - O tufă al cărei miros amintește de prânzurile de duminică.
+CLT_BUSH_RUNNER_BEANS:
+  name: Tufă de fasole urcătoare
+  type:
+  - '&7&oTufă'
+  description:
+  - Tufa asta are picioare o.o?
+CLT_BUSH_RUTABAGA:
+  name: Tufă de rutabaga
+  type:
+  - '&7&oTufă'
+  description:
+  - Nap suedez. E un nap suedez.
+CLT_BUSH_SASSAFRAS:
+  name: Tufă de sassafras
+  type:
+  - '&7&oTufă'
+  description:
+  - Tufei ăsteia îi place să fie plantată lângă
+  - mici ochiuri de apă.
+CLT_BUSH_SHALLOT:
+  name: Tufă de eșalotă
+  type:
+  - '&7&oTufă'
+  description:
+  - Tufa asta produce rapid niște cepe mici minunate.
+  - Din fericire, nu-ți trebuie eșalote cu nemiluita.
+CLT_BUSH_SHISO:
+  name: Tufă de shiso
+  type:
+  - '&7&oTufă'
+  description:
+  - Îmi place să cred că tufa asta e copilul iubirii
+  - dintre o tufă de mentă și una de busuioc. Păcat
+  - că încrucișarea tufelor nu există!
+CLT_BUSH_SOY_BEANS:
+  name: Tufă de soia
+  type:
+  - '&7&oTufă'
+  description:
+  - Tufa asta e o încântare prietenoasă. Mă face
+  - să zâmbesc ca o boabă de soia.
+CLT_BUSH_SPINACH:
+  name: Tufă de spanac
+  type:
+  - '&7&oTufă'
+  description:
+  - Tufa asta e cel mai bun prieten al lui Popeye.
+CLT_BUSH_STAR_ANISE:
+  name: Tufă de anason stelat
+  type:
+  - '&7&oTufă'
+  description:
+  - Din tufa asta vine un miros atât de unic
+  - de anason, că nici nu-ți vine să crezi.
+CLT_BUSH_STRAWBERRY:
+  name: Tufă de căpșuni
+  type:
+  - '&7&oTufă'
+  description: *id001
+CLT_BUSH_SWEETCORN:
+  name: Tufă de porumb dulce
+  type:
+  - '&7&oTufă'
+  description:
+  - Tufa asta pur și simplu cere să fie transformată
+  - într-un labirint.
+CLT_BUSH_SWEET_POTATO:
+  name: Tufă de cartof dulce
+  type:
+  - '&7&oTufă'
+  description:
+  - Tufa asta e atât de dulce. Am auzit-o
+  - cum te complimenta când nu ascultai.
+CLT_BUSH_TARRAGON:
+  name: Tufă de tarhon
+  type:
+  - '&7&oTufă'
+  description:
+  - Tufei ăsteia nu-i place să atragă prea multă atenție.
+CLT_BUSH_THYME:
+  name: Tufă de cimbru
+  type:
+  - '&7&oTufă'
+  description:
+  - Tufa asta nu are niciodată... timp-ian... *tuse*
+CLT_BUSH_TOMATO:
+  name: Tufă de roșii
+  type:
+  - '&7&oTufă'
+  description:
+  - Coaptă și gata.
+CLT_BUSH_TURMERIC:
+  name: Tufă de turmeric
+  type:
+  - '&7&oTufă'
+  description:
+  - O adiere de mirodenii te lovește în nas doar
+  - când ții tufa asta în mână.
+CLT_BUSH_TURNIP:
+  name: Tufă de napi
+  type:
+  - '&7&oTufă'
+  description:
+  - Conform guvernului britanic,
+  - tufa asta ne va rezolva toate problemele.
+CLT_BUSH_VANILLA:
+  name: Tufă de vanilie
+  type:
+  - '&7&oTufă'
+  description:
+  - Tufa asta crește natural lângă cafenelele StarBucks.
+CLT_BUSH_WASABI:
+  name: Tufă de wasabi
+  type:
+  - '&7&oTufă'
+  description:
+  - Încă o rădăcină care crește dintr-o tufă?
+  - Of...
+CLT_CABBAGE:
+  name: Varză
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Un bagaj de varză.
+CLT_CAESAR_SALAD:
+  name: Salată Caesar
+  type:
+  - '&7&oMâncare'
+  description:
+  - Un clasic sănătos.
+  stats:
+  - '&8⇨ &7Vindecare: &b6 inimi'
+  - '&8⇨ &bViteză I &7(10:00)'
+  - '&8⇨ &bInvizibilitate I &7(10:00)'
+  - '&8⇨ &bCădere lentă I &7(10:00)'
+CLT_CAJUN_GARLIC_BUTTER_COD:
+  name: Cod cajun cu unt și usturoi
+  type:
+  - '&7&oMâncare'
+  description:
+  - Un fel de mâncare foarte simplu, plin de savoare.
+  stats:
+  - '&8⇨ &7Vindecare: &b4 inimi'
+  - '&8⇨ &bRegenerare II &7(10:00)'
+  - '&8⇨ &bViteză I &7(10:00)'
+CLT_CAULIFLOWER:
+  name: Conopidă
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Un nor portabil!
+CLT_CAYENNE_PEPPER:
+  name: Piper de Cayenne
+  type:
+  - '&7&oRecoltă'
+  description:
+  - O delicatesă blând picantă.
+CLT_CELERIAC:
+  name: Țelină
+  type:
+  - '&7&oRecoltă'
+  description:
+  - O rădăcină consistentă, înrădăcinată (heh) în multe
+  - rețete tradiționale.
+CLT_CELERY:
+  name: Țelină apio
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Literalmente apă cu ațe. Convinge-mă
+  - de contrariu.
+CLT_CHEESE_BURGER:
+  name: Burger
+  type:
+  - '&7&oMâncare'
+  description:
+  - Un simplu cheeseburger, dar nimic nu-l întrece!
+  stats:
+  - '&8⇨ &7Vindecare: &b4 inimi'
+  - '&8⇨ &bRegenerare III &7(10:00)'
+CLT_CHEESY_SCALLOPED_COURGETTE:
+  name: Gratin de dovlecei cu brânză
+  type:
+  - '&7&oMâncare'
+  description:
+  - O versiune cu puțini carbohidrați a unui clasic minunat.
+  stats:
+  - '&8⇨ &7Vindecare: &b2 inimi'
+  - '&8⇨ &bVedere nocturnă I &7(10:00)'
+  - '&8⇨ &bInvizibilitate I &7(10:00)'
+CLT_CHERRY:
+  name: Cireașă
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Oh, credeam că cresc deja glasate, păcat!
+CLT_CHESTNUT:
+  name: Castană
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Făcut ca să fie copt, imediat.
+CLT_CHICKEN_ALFREDO_MAC_AND_CHEESE:
+  name: Macaroane cu brânză și pui Alfredo
+  type:
+  - '&7&oMâncare'
+  description:
+  - O variantă fină a unui clasic obișnuit.
+  stats:
+  - '&8⇨ &7Vindecare: &b1 inimă'
+  - '&8⇨ &bRezistență la foc II &7(10:00)'
+  - '&8⇨ &bRezistență III &7(10:00)'
+CLT_CHICKEN_PASTA_BAKE:
+  name: Paste cu pui la cuptor
+  type:
+  - '&7&oMâncare'
+  description:
+  - Mâncarea de bază a oricărui student.
+  stats:
+  - '&8⇨ &7Vindecare: &b5 inimi'
+  - '&8⇨ &bVedere nocturnă I &7(10:00)'
+  - '&8⇨ &bRespirat sub apă I &7(10:00)'
+CLT_CHICKEN_POT_PIE:
+  name: Plăcintă cu pui
+  type:
+  - '&7&oMâncare'
+  description:
+  - O masă caldă care te face să te simți acasă.
+  stats:
+  - '&8⇨ &7Vindecare: &b10 inimi'
+  - '&8⇨ &bSalt puternic II &7(10:00)'
+  - '&8⇨ &bSaturație I &7(10:00)'
+CLT_CHICKPEAS:
+  name: Năut
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Black Eyed Peas pot cânta o melodie, năutul doar o fredonează în hummus.
+CLT_CHICORY:
+  name: Cicoare
+  type:
+  - '&7&oRecoltă'
+  description:
+  - O rădăcină amăruie, cu gust de nucă.
+CLT_CHILLY_PEPPER:
+  name: Ardei iute
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Pot mânca un ardei întreg fără să plâng.
+  - Mă rog, jumătate.
+  - BIIIINE.... 1/4
+  - '...'
+  - Ok, pot să ating unul cu limba
+CLT_CHIVES:
+  name: Arpagic
+  type:
+  - '&7&oRecoltă'
+  description:
+  - O verdeață dulce, cu gust de ceapă.
+CLT_CHOPPED_APPLE:
+  name: Măr tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_APRICOT:
+  name: Caisă tocată
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_ARTICHOKE:
+  name: Anghinare tocată
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_ASPARAGUS:
+  name: Sparanghel tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_AUBERGINE:
+  name: Vânătă tocată
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_AVOCADO:
+  name: Avocado tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_BANANA:
+  name: Banană tocată
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_BASIL:
+  name: Busuioc tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_BAY_LEAF:
+  name: Foaie de dafin tocată
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_BEEF:
+  name: Carne de vită tocată
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_BEETROOT:
+  name: Sfeclă tocată
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_BELL_PEPPER:
+  name: Ardei gras tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_BLACK_BEANS:
+  name: Fasole neagră tocată
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_BREAD:
+  name: Pâine tocată
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_BROCCOLI:
+  name: Broccoli tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_BROWN_MUSHROOM:
+  name: Ciupercă maro tocată
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_BRUSSELS_SPROUTS:
+  name: Varză de Bruxelles tocată
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_CABBAGE:
+  name: Varză tocată
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_CARROT:
+  name: Morcov tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_CAULIFLOWER:
+  name: Conopidă tocată
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_CAYENNE_PEPPER:
+  name: Piper de Cayenne tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_CELERIAC:
+  name: Țelină tocată
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_CELERY:
+  name: Țelină apio tocată
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_CHERRY:
+  name: Cireașă tocată
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_CHESTNUT:
+  name: Castană tocată
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_CHICKEN:
+  name: Pui tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_CHICKPEAS:
+  name: Năut tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_CHICORY:
+  name: Cicoare tocată
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_CHILLY_PEPPER:
+  name: Ardei iute tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_CHIVES:
+  name: Arpagic tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_CHORUS_FRUIT:
+  name: Fruct coral tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_CILANTRO:
+  name: Coriandru tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_CINNAMON:
+  name: Scorțișoară tocată
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_CLOVE:
+  name: Cuișor tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_COCOA_BEANS:
+  name: Boabe de cacao tocate
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_COD:
+  name: Cod tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_COURGETTE:
+  name: Dovlecel tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_CUCUMBER:
+  name: Castravete tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_CUMIN:
+  name: Chimion tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_CURRY_LEAF:
+  name: Foaie de curry tocată
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_DILL:
+  name: Mărar tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_EGG:
+  name: Ou tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_ENCHANTED_GOLDEN_APPLE:
+  name: Măr de aur fermecat tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_FENNEL:
+  name: Fenicul tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_GARLIC:
+  name: Usturoi tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_GINGER:
+  name: Ghimbir tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_GLOW_BERRIES:
+  name: Fructe de pădure strălucitoare tocate
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_GOLDEN_APPLE:
+  name: Măr de aur tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_GOLDEN_CARROT:
+  name: Morcov de aur tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_GRAPE:
+  name: Strugure tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_GREEN_APPLE:
+  name: Măr verde tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_GREEN_BEANS:
+  name: Fasole verde tocată
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_GREEN_ONION:
+  name: Ceapă verde tocată
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_HAZELNUT:
+  name: Alună de pădure tocată
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_HORSERADISH:
+  name: Hrean tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_JALAPENO:
+  name: Jalapeño tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_JASMINE:
+  name: Iasomie tocată
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_JUNIPER_BERRY:
+  name: Boabe de ienupăr tocate
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_KAFFIR_LIME:
+  name: Frunză de lămâie kaffir tocată
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_KALE:
+  name: Varză kale tocată
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_KELP:
+  name: Algă tocată
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_KIWI:
+  name: Kiwi tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_LAVENDER:
+  name: Lavandă tocată
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_LEEK:
+  name: Praz tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_LEMON:
+  name: Lămâie tocată
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_LETTUCE:
+  name: Salată verde tocată
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_LICORICE:
+  name: Lemn dulce tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_LIME:
+  name: Lămâie verde tocată
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_MACE:
+  name: Floare de nucșoară tocată
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_MANGO:
+  name: Mango tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_MARJORAM:
+  name: Maghiran tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_MARROW:
+  name: Dovlecel mare tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_MELON:
+  name: Pepene tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_MINT:
+  name: Mentă tocată
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_MUSTARD_SEEDS:
+  name: Semințe de muștar tocate
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_MUTTON:
+  name: Carne de oaie tocată
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_NETTLES:
+  name: Urzici tocate
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_OKRA:
+  name: Bame tocate
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_ONION:
+  name: Ceapă tocată
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_ORANGE:
+  name: Portocală tocată
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_OREGANO:
+  name: Oregano tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_PARSLEY:
+  name: Pătrunjel tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_PARSNIP:
+  name: Păstârnac tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_PEA:
+  name: Mazăre tocată
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_PEACH:
+  name: Piersică tocată
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_PEANUT:
+  name: Arahidă tocată
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_PEAR:
+  name: Pară tocată
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_PECAN:
+  name: Nucă pecan tocată
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_PEPPER:
+  name: Piper negru tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_PEPPERONI:
+  name: Pepperoni tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_PINEAPPLE:
+  name: Ananas tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_PINTO_BEANS:
+  name: Fasole pinto tocată
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_PORKCHOP:
+  name: Cotlet de porc tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_POTATO:
+  name: Cartof tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_PUFFERFISH:
+  name: Pește-balon tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_PUMPKIN:
+  name: Dovleac tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_RABBIT:
+  name: Iepure tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_RADDISH:
+  name: Ridiche tocată
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_RADICCHIO:
+  name: Radicchio tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_RAPESEED:
+  name: Rapiță tocată
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_RED_MUSHROOM:
+  name: Ciupercă roșie tocată
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_RHUBARB:
+  name: Rubarbă tocată
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_RICE:
+  name: Orez tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_ROSEMARY:
+  name: Rozmarin tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_ROTTEN_FLESH:
+  name: Carne putrezită tocată
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_RUNNER_BEANS:
+  name: Fasole urcătoare tocată
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_RUTABAGA:
+  name: Rutabaga tocată
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_SALMON:
+  name: Somon tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_SASSAFRAS:
+  name: Sassafras tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_SHALLOT:
+  name: Eșalotă tocată
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_SHISO:
+  name: Shiso tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_SOY_BEANS:
+  name: Boabe de soia tocate
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_SPINACH:
+  name: Spanac tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_STAR_ANISE:
+  name: Anason stelat tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_STRAWBERRY:
+  name: Căpșună tocată
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_SUGAR:
+  name: Zahăr tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_SWEETCORN:
+  name: Porumb dulce tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_SWEET_BERRIES:
+  name: Fructe de pădure dulci tocate
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_SWEET_POTATO:
+  name: Cartof dulce tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_TARRAGON:
+  name: Tarhon tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_THYME:
+  name: Cimbru tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_TOMATO:
+  name: Roșie tocată
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_TURMERIC:
+  name: Turmeric tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_TURNIP:
+  name: Nap tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_VANILLA:
+  name: Vanilie tocată
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_WASABI:
+  name: Wasabi tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CHOPPED_WHEAT:
+  name: Grâu tocat
+  type:
+  - '&7&oProdus secundar'
+CLT_CILANTRO:
+  name: Coriandru
+  type:
+  - '&7&oRecoltă'
+  description:
+  - O mirodenie blândă cu o notă de citrice.
+CLT_CINNAMON:
+  name: Scorțișoară
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Bună de mestecat sub formă de baton.
+CLT_CINNAMON_ROLL:
+  name: Melc cu scorțișoară
+  type:
+  - '&7&oMâncare'
+  description:
+  - O delicie dulce rulată de distracție.
+  - Dacă o mănânci, lumea se întoarce cu susul în jos!
+  stats:
+  - '&8⇨ &7Vindecare: &b4 inimi'
+  - '&8⇨ &bLevitație I &7(10:00)'
+  - '&8⇨ &bCădere lentă I &7(10:00)'
+CLT_CLOVE:
+  name: Cuișor
+  type:
+  - '&7&oRecoltă'
+  description:
+  - O aromă super caldă și intensă.
+CLT_COMPRESSED_BISCUIT:
+  name: Biscuit comprimat
+  type:
+  - '&7&oMâncare'
+  description:
+  - O gustare mică cu un gust și mai uriaș.
+  stats: *id002
+CLT_COOKED_BURGER_PATTY:
+  name: Chiftea de burger gătită
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Practic picură
+CLT_COUNTER_BLENDER:
+  name: Blat de bucătărie (blender)
+  type:
+  - '&7&oMașinărie'
+  description:
+  - Click dreapta pe acest bloc ca să mixezi recolta.
+  usage: &id003
+  - Sfat! După ce îl plasezi, poți apăsa shift + click
+  - dreapta, iar blocul (blocurile) din mână vor
+  - schimba designul bucătăriei. Încearcă!
+CLT_COUNTER_BOILING:
+  name: Blat de bucătărie (oală de fiert)
+  type:
+  - '&7&oMașinărie'
+  description:
+  - Poate fierbe anumite obiecte.
+  usage: *id003
+CLT_COUNTER_CHOPPING:
+  name: Blat de bucătărie (tocător)
+  type:
+  - '&7&oMașinărie'
+  description:
+  - Click dreapta pe acest bloc ca să toci recolta.
+  usage: *id003
+CLT_COUNTER_FINISHING:
+  name: Blat de bucătărie (finisare)
+  type:
+  - '&7&oMașinărie'
+  description:
+  - Folosit pentru a transforma produse/produse secundare
+  - în alte produse secundare sau mâncăruri finite.
+  usage: *id003
+CLT_COUNTER_FRYING:
+  name: Blat de bucătărie (tigaie)
+  type:
+  - '&7&oMașinărie'
+  description:
+  - Poate prăji anumite produse din recoltă.
+  usage: *id003
+CLT_COUNTER_GRILL:
+  name: Blat de bucătărie (grătar)
+  type:
+  - '&7&oMașinărie'
+  description:
+  - Poate frige la grătar anumite produse din recoltă.
+  usage: *id003
+CLT_COUNTER_GRINDER:
+  name: Blat de bucătărie (mojar și pistil)
+  type:
+  - '&7&oMașinărie'
+  description:
+  - Click dreapta pe acest bloc ca să macini recolta.
+  usage: *id003
+CLT_COUNTER_MASHER:
+  name: Blat de bucătărie (bol de zdrobit)
+  type:
+  - '&7&oMașinărie'
+  description:
+  - Click dreapta pe acest bloc ca să zdrobești recolta.
+  usage: *id003
+CLT_COUNTER_NOTHING:
+  name: Blat de bucătărie (gol)
+  type:
+  - '&7&oMașinărie'
+  description:
+  - Doar pentru decor!
+  usage: *id003
+CLT_COUNTER_OVEN:
+  name: Blat de bucătărie (cuptor)
+  type:
+  - '&7&oMașinărie'
+  description:
+  - Poate coace anumite produse din recoltă.
+  usage: *id003
+CLT_COUNTER_SLICING:
+  name: Blat de bucătărie (placă de feliat)
+  type:
+  - '&7&oMașinărie'
+  description:
+  - Click dreapta pe acest bloc ca să feliezi recolta.
+  usage: *id003
+CLT_COURGETTE:
+  name: Dovlecel
+  type:
+  - '&7&oRecoltă'
+  description:
+  - 'Sfat: Rade asta în orice sos de paste'
+  - pentru profunzime și textură.
+CLT_CREAM_CHEESE:
+  name: Cremă de brânză
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Mai mult cremos decât brânzos.
+CLT_CROP_STICKS:
+  name: Bețe pentru culturi
+  type:
+  - '&7&oUnealtă'
+  description:
+  - Bețele pentru culturi trebuie aplicate pe o
+  - sămânță plasată ca aceasta să poată crește.
+  - Plasarea unui al doilea set încrucișează
+  - planta, permițându-i să se extindă și/sau
+  - să se înmulțească.
+CLT_CUCUMBER:
+  name: Castravete
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Apă într-o coajă verde, dovedește-mi
+  - contrariul.
+CLT_CUMIN:
+  name: Chimion
+  type:
+  - '&7&oRecoltă'
+  description:
+  - O plantă caldă cu aromă de citrice.
+CLT_CURRY_LEAF:
+  name: Foaie de curry
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Baza atâtor mâncăruri minunate.
+CLT_DILL:
+  name: Mărar
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Mie îmi are gust de iarbă. De ce
+  - le place oamenilor asta?
+CLT_DOUGH:
+  name: Aluat
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Doar un aluat simplu!
+CLT_EGG_SALAD:
+  name: Salată de ouă
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Deschide asta în tren, te provoc!
+CLT_EGG_SALAD_SANDWICH:
+  name: Sandviș cu salată de ouă
+  type:
+  - '&7&oMâncare'
+  description:
+  - Miroase un pic, dar are un gust uimitor!
+  stats: &id006
+  - '&8⇨ &7Vindecare: &b10 inimi'
+  - '&8⇨ &bRegenerare II &7(10:00)'
+CLT_FENNEL:
+  name: Fenicul
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Ca un amestec de anason și lemn dulce.
+CLT_FRIED_APPLE:
+  name: Măr prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_APRICOT:
+  name: Caisă prăjită
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_ARTICHOKE:
+  name: Anghinare prăjită
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_ASPARAGUS:
+  name: Sparanghel prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_AUBERGINE:
+  name: Vânătă prăjită
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_AVOCADO:
+  name: Avocado prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_BANANA:
+  name: Banană prăjită
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_BASIL:
+  name: Busuioc prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_BAY_LEAF:
+  name: Foaie de dafin prăjită
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_BEEF:
+  name: Carne de vită prăjită
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_BEETROOT:
+  name: Sfeclă prăjită
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_BELL_PEPPER:
+  name: Ardei gras prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_BLACK_BEANS:
+  name: Fasole neagră prăjită
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_BREAD:
+  name: Pâine prăjită
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_BROCCOLI:
+  name: Broccoli prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_BROWN_MUSHROOM:
+  name: Ciupercă maro prăjită
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_BRUSSELS_SPROUTS:
+  name: Varză de Bruxelles prăjită
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_CABBAGE:
+  name: Varză prăjită
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_CARROT:
+  name: Morcov prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_CAULIFLOWER:
+  name: Conopidă prăjită
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_CAYENNE_PEPPER:
+  name: Piper de Cayenne prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_CELERIAC:
+  name: Țelină prăjită
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_CELERY:
+  name: Țelină apio prăjită
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_CHERRY:
+  name: Cireașă prăjită
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_CHESTNUT:
+  name: Castană prăjită
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_CHICKEN:
+  name: Pui prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_CHICKPEAS:
+  name: Năut prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_CHICORY:
+  name: Cicoare prăjită
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_CHILLY_PEPPER:
+  name: Ardei iute prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_CHIVES:
+  name: Arpagic prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_CHORUS_FRUIT:
+  name: Fruct coral prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_CILANTRO:
+  name: Coriandru prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_CINNAMON:
+  name: Scorțișoară prăjită
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_CLOVE:
+  name: Cuișor prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_COCOA_BEANS:
+  name: Boabe de cacao prăjite
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_COD:
+  name: Cod prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_COURGETTE:
+  name: Dovlecel prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_CUCUMBER:
+  name: Castravete prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_CUMIN:
+  name: Chimion prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_CURRY_LEAF:
+  name: Foaie de curry prăjită
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_DILL:
+  name: Mărar prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_EGG:
+  name: Ou prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_ENCHANTED_GOLDEN_APPLE:
+  name: Măr de aur fermecat prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_FENNEL:
+  name: Fenicul prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_GARLIC:
+  name: Usturoi prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_GINGER:
+  name: Ghimbir prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_GLOW_BERRIES:
+  name: Fructe de pădure strălucitoare prăjite
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_GOLDEN_APPLE:
+  name: Măr de aur prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_GOLDEN_CARROT:
+  name: Morcov de aur prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_GRAPE:
+  name: Strugure prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_GREEN_APPLE:
+  name: Măr verde prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_GREEN_BEANS:
+  name: Fasole verde prăjită
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_GREEN_ONION:
+  name: Ceapă verde prăjită
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_HAZELNUT:
+  name: Alună de pădure prăjită
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_HORSERADISH:
+  name: Hrean prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_JALAPENO:
+  name: Jalapeño prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_JASMINE:
+  name: Iasomie prăjită
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_JUNIPER_BERRY:
+  name: Boabe de ienupăr prăjite
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_KAFFIR_LIME:
+  name: Frunză de lămâie kaffir prăjită
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_KALE:
+  name: Varză kale prăjită
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_KELP:
+  name: Algă prăjită
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_KIWI:
+  name: Kiwi prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_LAVENDER:
+  name: Lavandă prăjită
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_LEEK:
+  name: Praz prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_LEMON:
+  name: Lămâie prăjită
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_LETTUCE:
+  name: Salată verde prăjită
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_LICORICE:
+  name: Lemn dulce prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_LIME:
+  name: Lămâie verde prăjită
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_MACE:
+  name: Floare de nucșoară prăjită
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_MANGO:
+  name: Mango prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_MARJORAM:
+  name: Maghiran prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_MARROW:
+  name: Dovlecel mare prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_MELON:
+  name: Pepene prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_MINT:
+  name: Mentă prăjită
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_MUSTARD_SEEDS:
+  name: Semințe de muștar prăjite
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_MUTTON:
+  name: Carne de oaie prăjită
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_NETTLES:
+  name: Urzici prăjite
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_OKRA:
+  name: Bame prăjite
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_ONION:
+  name: Ceapă prăjită
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_ORANGE:
+  name: Portocală prăjită
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_OREGANO:
+  name: Oregano prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_PARSLEY:
+  name: Pătrunjel prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_PARSNIP:
+  name: Păstârnac prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_PEA:
+  name: Mazăre prăjită
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_PEACH:
+  name: Piersică prăjită
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_PEANUT:
+  name: Arahidă prăjită
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_PEAR:
+  name: Pară prăjită
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_PECAN:
+  name: Nucă pecan prăjită
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_PEPPER:
+  name: Piper negru prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_PEPPERONI:
+  name: Pepperoni prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_PINEAPPLE:
+  name: Ananas prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_PINTO_BEANS:
+  name: Fasole pinto prăjită
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_PORKCHOP:
+  name: Cotlet de porc prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_POTATO:
+  name: Cartof prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_PUFFERFISH:
+  name: Pește-balon prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_PUMPKIN:
+  name: Dovleac prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_RABBIT:
+  name: Iepure prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_RADDISH:
+  name: Ridiche prăjită
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_RADICCHIO:
+  name: Radicchio prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_RAPESEED:
+  name: Rapiță prăjită
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_RED_MUSHROOM:
+  name: Ciupercă roșie prăjită
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_RHUBARB:
+  name: Rubarbă prăjită
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_RICE:
+  name: Orez prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_ROSEMARY:
+  name: Rozmarin prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_ROTTEN_FLESH:
+  name: Carne putrezită prăjită
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_RUNNER_BEANS:
+  name: Fasole urcătoare prăjită
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_RUTABAGA:
+  name: Rutabaga prăjită
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_SALMON:
+  name: Somon prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_SASSAFRAS:
+  name: Sassafras prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_SHALLOT:
+  name: Eșalotă prăjită
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_SHISO:
+  name: Shiso prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_SOY_BEANS:
+  name: Boabe de soia prăjite
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_SPINACH:
+  name: Spanac prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_STAR_ANISE:
+  name: Anason stelat prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_STRAWBERRY:
+  name: Căpșună prăjită
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_SUGAR:
+  name: Zahăr prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_SWEETCORN:
+  name: Porumb dulce prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_SWEET_BERRIES:
+  name: Fructe de pădure dulci prăjite
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_SWEET_POTATO:
+  name: Cartof dulce prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_TARRAGON:
+  name: Tarhon prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_THYME:
+  name: Cimbru prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_TOMATO:
+  name: Roșie prăjită
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_TURMERIC:
+  name: Turmeric prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_TURNIP:
+  name: Nap prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_VANILLA:
+  name: Vanilie prăjită
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_WASABI:
+  name: Wasabi prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRIED_WHEAT:
+  name: Grâu prăjit
+  type:
+  - '&7&oProdus secundar'
+CLT_FRUIT_SALAD:
+  name: Salată de fructe
+  type:
+  - '&7&oMâncare'
+  description:
+  - Dacă îi spui salată, poți mânca oricât
+  - vrei, că doar e sănătos.
+  stats:
+  - '&8⇨ &7Vindecare: &b6 inimi'
+  - '&8⇨ &bViteză III &7(10:00)'
+CLT_FUGU:
+  name: Fugu
+  type:
+  - '&7&oMâncare'
+  description:
+  - Gata să dai cu zarul?
+  stats:
+  - '&8⇨ &7Vindecare: &b1 inimă'
+  - '&8⇨ &bForță V &7(10:00)'
+  - '&8⇨ &733% șanse să mori pur și simplu!'
+CLT_GARDEN_CLOCHE:
+  name: Clopot de grădină
+  type:
+  - '&7&oMașinărie'
+  description:
+  - Crește automat plantele din interior.
+  stats:
+  - '&8⇨ &7Energie pe tick: &b100'
+CLT_GARLIC:
+  name: Usturoi
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Repede, până nu vin vampirii!
+CLT_GARLIC_BUTTER_MUSHROOMS:
+  name: Ciuperci cu unt și usturoi
+  type:
+  - '&7&oMâncare'
+  description:
+  - S-ar putea să fie cel mai bun aliment de pe pământ.
+  stats:
+  - '&8⇨ &7Vindecare: &b2 inimi'
+  - '&8⇨ &bStrălucire I &7(10:00)'
+CLT_GINGER:
+  name: Ghimbir
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Ghimbir tocat în apă clocotită, vindecă toate bolile!
+CLT_GRAPE:
+  name: Strugure
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Atât de plinuț!
+CLT_GRAPE_JELLY:
+  name: Jeleu de struguri
+  type:
+  - '&7&oRecoltă'
+  description: &id008
+  - Să-l mănânci cu lingura e infracțiune.
+CLT_GREEN_APPLE:
+  name: Măr verde
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Biletul spune... Dragă doamnă profesoară?
+CLT_GREEN_BEANS:
+  name: Fasole verde
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Ce nume creativ!
+CLT_GREEN_ONION:
+  name: Ceapă verde
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Merge de minune pe tacos!
+CLT_GRILLED_APPLE:
+  name: Măr la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_APRICOT:
+  name: Caisă la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_ARTICHOKE:
+  name: Anghinare la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_ASPARAGUS:
+  name: Sparanghel la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_AUBERGINE:
+  name: Vânătă la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_AVOCADO:
+  name: Avocado la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_BANANA:
+  name: Banană la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_BASIL:
+  name: Busuioc la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_BAY_LEAF:
+  name: Foaie de dafin la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_BEEF:
+  name: Carne de vită la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_BEETROOT:
+  name: Sfeclă la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_BELL_PEPPER:
+  name: Ardei gras la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_BLACK_BEANS:
+  name: Fasole neagră la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_BREAD:
+  name: Pâine la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_BROCCOLI:
+  name: Broccoli la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_BROWN_MUSHROOM:
+  name: Ciupercă maro la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_BRUSSELS_SPROUTS:
+  name: Varză de Bruxelles la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_CABBAGE:
+  name: Varză la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_CARROT:
+  name: Morcov la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_CAULIFLOWER:
+  name: Conopidă la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_CAYENNE_PEPPER:
+  name: Piper de Cayenne la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_CELERIAC:
+  name: Țelină la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_CELERY:
+  name: Țelină apio la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_CHERRY:
+  name: Cireașă la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_CHESTNUT:
+  name: Castană la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_CHICKEN:
+  name: Pui la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_CHICKPEAS:
+  name: Năut la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_CHICORY:
+  name: Cicoare la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_CHILLY_PEPPER:
+  name: Ardei iute la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_CHIVES:
+  name: Arpagic la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_CHORUS_FRUIT:
+  name: Fruct coral la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_CILANTRO:
+  name: Coriandru la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_CINNAMON:
+  name: Scorțișoară la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_CLOVE:
+  name: Cuișor la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_COCOA_BEANS:
+  name: Boabe de cacao la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_COD:
+  name: Cod la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_COURGETTE:
+  name: Dovlecel la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_CUCUMBER:
+  name: Castravete la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_CUMIN:
+  name: Chimion la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_CURRY_LEAF:
+  name: Foaie de curry la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_DILL:
+  name: Mărar la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_EGG:
+  name: Ou la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_ENCHANTED_GOLDEN_APPLE:
+  name: Măr de aur fermecat la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_FENNEL:
+  name: Fenicul la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_GARLIC:
+  name: Usturoi la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_GINGER:
+  name: Ghimbir la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_GLOW_BERRIES:
+  name: Fructe de pădure strălucitoare la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_GOLDEN_APPLE:
+  name: Măr de aur la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_GOLDEN_CARROT:
+  name: Morcov de aur la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_GRAPE:
+  name: Strugure la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_GREEN_APPLE:
+  name: Măr verde la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_GREEN_BEANS:
+  name: Fasole verde la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_GREEN_ONION:
+  name: Ceapă verde la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_HAZELNUT:
+  name: Alună de pădure la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_HORSERADISH:
+  name: Hrean la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_JALAPENO:
+  name: Jalapeño la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_JASMINE:
+  name: Iasomie la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_JUNIPER_BERRY:
+  name: Boabe de ienupăr la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_KAFFIR_LIME:
+  name: Frunză de lămâie kaffir la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_KALE:
+  name: Varză kale la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_KELP:
+  name: Algă la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_KIWI:
+  name: Kiwi la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_LAVENDER:
+  name: Lavandă la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_LEEK:
+  name: Praz la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_LEMON:
+  name: Lămâie la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_LETTUCE:
+  name: Salată verde la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_LICORICE:
+  name: Lemn dulce la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_LIME:
+  name: Lămâie verde la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_MACE:
+  name: Floare de nucșoară la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_MANGO:
+  name: Mango la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_MARJORAM:
+  name: Maghiran la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_MARROW:
+  name: Dovlecel mare la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_MELON:
+  name: Pepene la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_MINT:
+  name: Mentă la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_MUSTARD_SEEDS:
+  name: Semințe de muștar la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_MUTTON:
+  name: Carne de oaie la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_NETTLES:
+  name: Urzici la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_OKRA:
+  name: Bame la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_ONION:
+  name: Ceapă la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_ORANGE:
+  name: Portocală la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_OREGANO:
+  name: Oregano la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_PARSLEY:
+  name: Pătrunjel la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_PARSNIP:
+  name: Păstârnac la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_PEA:
+  name: Mazăre la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_PEACH:
+  name: Piersică la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_PEANUT:
+  name: Arahidă la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_PEAR:
+  name: Pară la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_PECAN:
+  name: Nucă pecan la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_PEPPER:
+  name: Piper negru la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_PEPPERONI:
+  name: Pepperoni la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_PINEAPPLE:
+  name: Ananas la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_PINTO_BEANS:
+  name: Fasole pinto la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_PORKCHOP:
+  name: Cotlet de porc la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_POTATO:
+  name: Cartof la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_PUFFERFISH:
+  name: Pește-balon la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_PUMPKIN:
+  name: Dovleac la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_RABBIT:
+  name: Iepure la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_RADDISH:
+  name: Ridiche la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_RADICCHIO:
+  name: Radicchio la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_RAPESEED:
+  name: Rapiță la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_RED_MUSHROOM:
+  name: Ciupercă roșie la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_RHUBARB:
+  name: Rubarbă la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_RICE:
+  name: Orez la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_ROSEMARY:
+  name: Rozmarin la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_ROTTEN_FLESH:
+  name: Carne putrezită la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_RUNNER_BEANS:
+  name: Fasole urcătoare la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_RUTABAGA:
+  name: Rutabaga la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_SALMON:
+  name: Somon la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_SALMON_SALAD:
+  name: Salată de somon la grătar
+  type:
+  - '&7&oMâncare'
+  description:
+  - Încântător de fraged și genial condimentat.
+  stats:
+  - '&8⇨ &7Vindecare: &b4 inimi'
+  - '&8⇨ &bRegenerare I &7(10:00)'
+  - '&8⇨ &bBonus de viață V &7(10:00)'
+CLT_GRILLED_SASSAFRAS:
+  name: Sassafras la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_SHALLOT:
+  name: Eșalotă la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_SHISO:
+  name: Shiso la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_SOY_BEANS:
+  name: Boabe de soia la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_SPINACH:
+  name: Spanac la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_STAR_ANISE:
+  name: Anason stelat la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_STRAWBERRY:
+  name: Căpșună la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_SUGAR:
+  name: Zahăr la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_SWEETCORN:
+  name: Porumb dulce la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_SWEET_BERRIES:
+  name: Fructe de pădure dulci la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_SWEET_POTATO:
+  name: Cartof dulce la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_TARRAGON:
+  name: Tarhon la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_THYME:
+  name: Cimbru la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_TOMATO:
+  name: Roșie la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_TURMERIC:
+  name: Turmeric la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_TURNIP:
+  name: Nap la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_VANILLA:
+  name: Vanilie la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_WASABI:
+  name: Wasabi la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GRILLED_WHEAT:
+  name: Grâu la grătar
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_APPLE:
+  name: Măr măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_APRICOT:
+  name: Caisă măcinată
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_ARTICHOKE:
+  name: Anghinare măcinată
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_ASPARAGUS:
+  name: Sparanghel măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_AUBERGINE:
+  name: Vânătă măcinată
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_AVOCADO:
+  name: Avocado măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_BANANA:
+  name: Banană măcinată
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_BASIL:
+  name: Busuioc măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_BAY_LEAF:
+  name: Foaie de dafin măcinată
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_BEEF:
+  name: Carne de vită măcinată
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_BEETROOT:
+  name: Sfeclă măcinată
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_BELL_PEPPER:
+  name: Ardei gras măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_BLACK_BEANS:
+  name: Fasole neagră măcinată
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_BREAD:
+  name: Pâine măcinată
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_BROCCOLI:
+  name: Broccoli măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_BROWN_MUSHROOM:
+  name: Ciupercă maro măcinată
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_BRUSSELS_SPROUTS:
+  name: Varză de Bruxelles măcinată
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_CABBAGE:
+  name: Varză măcinată
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_CARROT:
+  name: Morcov măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_CAULIFLOWER:
+  name: Conopidă măcinată
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_CAYENNE_PEPPER:
+  name: Piper de Cayenne măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_CELERIAC:
+  name: Țelină măcinată
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_CELERY:
+  name: Țelină apio măcinată
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_CHERRY:
+  name: Cireașă măcinată
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_CHESTNUT:
+  name: Castană măcinată
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_CHICKEN:
+  name: Pui măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_CHICKPEAS:
+  name: Năut măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_CHICORY:
+  name: Cicoare măcinată
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_CHILLY_PEPPER:
+  name: Ardei iute măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_CHIVES:
+  name: Arpagic măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_CHORUS_FRUIT:
+  name: Fruct coral măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_CILANTRO:
+  name: Coriandru măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_CINNAMON:
+  name: Scorțișoară măcinată
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_CLOVE:
+  name: Cuișor măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_COCOA_BEANS:
+  name: Boabe de cacao măcinate
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_COD:
+  name: Cod măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_COURGETTE:
+  name: Dovlecel măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_CUCUMBER:
+  name: Castravete măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_CUMIN:
+  name: Chimion măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_CURRY_LEAF:
+  name: Foaie de curry măcinată
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_DILL:
+  name: Mărar măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_EGG:
+  name: Ou măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_ENCHANTED_GOLDEN_APPLE:
+  name: Măr de aur fermecat măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_FENNEL:
+  name: Fenicul măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_GARLIC:
+  name: Usturoi măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_GINGER:
+  name: Ghimbir măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_GLOW_BERRIES:
+  name: Fructe de pădure strălucitoare măcinate
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_GOLDEN_APPLE:
+  name: Măr de aur măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_GOLDEN_CARROT:
+  name: Morcov de aur măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_GRAPE:
+  name: Strugure măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_GREEN_APPLE:
+  name: Măr verde măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_GREEN_BEANS:
+  name: Fasole verde măcinată
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_GREEN_ONION:
+  name: Ceapă verde măcinată
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_HAZELNUT:
+  name: Alună de pădure măcinată
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_HORSERADISH:
+  name: Hrean măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_JALAPENO:
+  name: Jalapeño măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_JASMINE:
+  name: Iasomie măcinată
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_JUNIPER_BERRY:
+  name: Boabe de ienupăr măcinate
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_KAFFIR_LIME:
+  name: Frunză de lămâie kaffir măcinată
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_KALE:
+  name: Varză kale măcinată
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_KELP:
+  name: Algă măcinată
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_KIWI:
+  name: Kiwi măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_LAVENDER:
+  name: Lavandă măcinată
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_LEEK:
+  name: Praz măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_LEMON:
+  name: Lămâie măcinată
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_LETTUCE:
+  name: Salată verde măcinată
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_LICORICE:
+  name: Lemn dulce măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_LIME:
+  name: Lămâie verde măcinată
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_MACE:
+  name: Floare de nucșoară măcinată
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_MANGO:
+  name: Mango măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_MARJORAM:
+  name: Maghiran măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_MARROW:
+  name: Dovlecel mare măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_MELON:
+  name: Pepene măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_MINT:
+  name: Mentă măcinată
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_MUSTARD_SEEDS:
+  name: Semințe de muștar măcinate
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_MUTTON:
+  name: Carne de oaie măcinată
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_NETTLES:
+  name: Urzici măcinate
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_OKRA:
+  name: Bame măcinate
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_ONION:
+  name: Ceapă măcinată
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_ORANGE:
+  name: Portocală măcinată
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_OREGANO:
+  name: Oregano măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_PARSLEY:
+  name: Pătrunjel măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_PARSNIP:
+  name: Păstârnac măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_PEA:
+  name: Mazăre măcinată
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_PEACH:
+  name: Piersică măcinată
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_PEANUT:
+  name: Arahidă măcinată
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_PEAR:
+  name: Pară măcinată
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_PECAN:
+  name: Nucă pecan măcinată
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_PEPPER:
+  name: Piper negru măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_PEPPERONI:
+  name: Pepperoni măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_PINEAPPLE:
+  name: Ananas măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_PINTO_BEANS:
+  name: Fasole pinto măcinată
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_PORKCHOP:
+  name: Cotlet de porc măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_POTATO:
+  name: Cartof măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_PUFFERFISH:
+  name: Pește-balon măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_PUMPKIN:
+  name: Dovleac măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_RABBIT:
+  name: Iepure măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_RADDISH:
+  name: Ridiche măcinată
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_RADICCHIO:
+  name: Radicchio măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_RAPESEED:
+  name: Rapiță măcinată
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_RED_MUSHROOM:
+  name: Ciupercă roșie măcinată
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_RHUBARB:
+  name: Rubarbă măcinată
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_RICE:
+  name: Orez măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_ROSEMARY:
+  name: Rozmarin măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_ROTTEN_FLESH:
+  name: Carne putrezită măcinată
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_RUNNER_BEANS:
+  name: Fasole urcătoare măcinată
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_RUTABAGA:
+  name: Rutabaga măcinată
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_SALMON:
+  name: Somon măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_SASSAFRAS:
+  name: Sassafras măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_SHALLOT:
+  name: Eșalotă măcinată
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_SHISO:
+  name: Shiso măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_SOY_BEANS:
+  name: Boabe de soia măcinate
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_SPINACH:
+  name: Spanac măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_STAR_ANISE:
+  name: Anason stelat măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_STRAWBERRY:
+  name: Căpșună măcinată
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_SUGAR:
+  name: Zahăr măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_SWEETCORN:
+  name: Porumb dulce măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_SWEET_BERRIES:
+  name: Fructe de pădure dulci măcinate
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_SWEET_POTATO:
+  name: Cartof dulce măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_TARRAGON:
+  name: Tarhon măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_THYME:
+  name: Cimbru măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_TOMATO:
+  name: Roșie măcinată
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_TURMERIC:
+  name: Turmeric măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_TURNIP:
+  name: Nap măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_VANILLA:
+  name: Vanilie măcinată
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_WASABI:
+  name: Wasabi măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_GROUND_WHEAT:
+  name: Grâu măcinat
+  type:
+  - '&7&oProdus secundar'
+CLT_HAZELNUT:
+  name: Alună de pădure
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Fă orice trebuie ca să-l transformi
+  - într-o cafea pentru mine, acum!
+CLT_HORSERADISH:
+  name: Hrean
+  type:
+  - '&7&oRecoltă'
+  description:
+  - $100 dacă muști direct din el.
+CLT_JALAPENO:
+  name: Jalapeño
+  type:
+  - '&7&oRecoltă'
+  description:
+  - IUTE IUTE IUTE.
+CLT_JASMINE:
+  name: Iasomie
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Face un ceai minunat.
+CLT_JUNIPER_BERRY:
+  name: Boabe de ienupăr
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Uscat până la o perfecțiune piperată.
+CLT_KAFFIR_LIME:
+  name: Frunză de lămâie kaffir
+  type:
+  - '&7&oRecoltă'
+  description:
+  - O frunză cu o aromă puternică de citrice.
+CLT_KALE:
+  name: Varză kale
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Ajutor, sunt un hipster cu smoothie-uri din 2020!
+CLT_KETCHUP:
+  name: Ketchup
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Doar roșii în formă cremoasă.
+CLT_KEY_LIME_PIE:
+  name: Plăcintă cu lămâie verde
+  type:
+  - '&7&oMâncare'
+  description:
+  - Pur și simplu cel mai bun!
+  stats:
+  - '&8⇨ &7Vindecare: &b6 inimi'
+  - '&8⇨ &bGrabă IV &7(10:00)'
+CLT_KIWI:
+  name: Kiwi
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Am pus asta în addon sub constrângere.
+  - Kiwi sunt malefice și oricine
+  - le folosește pierde automat
+  - 100 de puncte.
+CLT_LASAGNA:
+  name: Lasagna
+  type:
+  - '&7&oMâncare'
+  description:
+  - Straturi peste straturi de grozăvie.
+  stats:
+  - '&8⇨ &7Vindecare: &bCompletă'
+  - '&8⇨ &bRegenerare II &7(10:00)'
+  - '&8⇨ &bRezistență II &7(10:00)'
+CLT_LAVENDER:
+  name: Lavandă
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Un miros care mă poate adormi încetișor.
+CLT_LEAVES_TREE_APRICOT:
+  name: Frunze de cais
+  type:
+  - '&7&oFrunze'
+CLT_LEAVES_TREE_BANANA:
+  name: Frunze de bananier
+  type:
+  - '&7&oFrunze'
+CLT_LEAVES_TREE_CHERRY:
+  name: Frunze de cireș
+  type:
+  - '&7&oFrunze'
+CLT_LEAVES_TREE_CHESTNUT:
+  name: Frunze de castan
+  type:
+  - '&7&oFrunze'
+CLT_LEAVES_TREE_GREEN_APPLE:
+  name: Frunze de măr cu mere verzi
+  type:
+  - '&7&oFrunze'
+CLT_LEAVES_TREE_HAZELNUT:
+  name: Frunze de alun
+  type:
+  - '&7&oFrunze'
+CLT_LEAVES_TREE_KIWI:
+  name: Frunze de arbore de kiwi
+  type:
+  - '&7&oFrunze'
+CLT_LEAVES_TREE_LEMON:
+  name: Frunze de lămâi
+  type:
+  - '&7&oFrunze'
+CLT_LEAVES_TREE_LIME:
+  name: Frunze de lămâi verde
+  type:
+  - '&7&oFrunze'
+CLT_LEAVES_TREE_MANGO:
+  name: Frunze de arbore de mango
+  type:
+  - '&7&oFrunze'
+CLT_LEAVES_TREE_ORANGE:
+  name: Frunze de portocal
+  type:
+  - '&7&oFrunze'
+CLT_LEAVES_TREE_PEACH:
+  name: Frunze de piersic
+  type:
+  - '&7&oFrunze'
+CLT_LEAVES_TREE_PEAR:
+  name: Frunze de păr
+  type:
+  - '&7&oFrunze'
+CLT_LEAVES_TREE_PECAN:
+  name: Frunze de arbore de pecan
+  type:
+  - '&7&oFrunze'
+CLT_LEAVES_TREE_PINEAPPLE:
+  name: Frunze de arbore de ananas
+  type:
+  - '&7&oFrunze'
+CLT_LEEK:
+  name: Praz
+  type:
+  - '&7&oRecoltă'
+  description:
+  - dintr-un motiv anume picură apă?
+  - Poate s-a fisurat prazul?
+CLT_LEMON:
+  name: Lămâie
+  type:
+  - '&7&oRecoltă'
+  description:
+  - De ce așa acru?
+CLT_LEMON_DROP:
+  name: Bomboană cu lămâie
+  type:
+  - '&7&oMâncare'
+  description:
+  - Un curățitor de papile.
+  stats:
+  - '&8⇨ &7Elimină toate efectele și îți face din nou foame.'
+CLT_LETTUCE:
+  name: Salată verde
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Subțire, apoasă și totuși delicioasă.
+CLT_LICORICE:
+  name: Lemn dulce
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Fugi, fugi acum!
+CLT_LIME:
+  name: Lămâie verde
+  type:
+  - '&7&oRecoltă'
+  description:
+  - A fost odată ca nicio-lămâie un fruct delicios...
+CLT_MACE:
+  name: Floare de nucșoară
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Folosit ca să-l pulverizezi în fața atacatorilor.
+  - '...'
+  - Cum adică nu e genul potrivit de buzdugan?
+CLT_MANGO:
+  name: Mango
+  type:
+  - '&7&oRecoltă'
+  description:
+  - MAN-GO, trebuie să plec!
+  - Poveștile astea sunt grele...
+CLT_MARJORAM:
+  name: Maghiran
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Sunt cam în curry acum, vorbim mai târziu?
+CLT_MARROW:
+  name: Dovlecel mare
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Știai că dovlecelul se găsește în
+  - măduva oaselor tale?
+  - Da, Sefi Deștept.
+CLT_MASHED_APPLE:
+  name: Măr zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_APRICOT:
+  name: Caisă zdrobită
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_ARTICHOKE:
+  name: Anghinare zdrobită
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_ASPARAGUS:
+  name: Sparanghel zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_AUBERGINE:
+  name: Vânătă zdrobită
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_AVOCADO:
+  name: Avocado zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_BANANA:
+  name: Banană zdrobită
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_BASIL:
+  name: Busuioc zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_BAY_LEAF:
+  name: Foaie de dafin zdrobită
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_BEEF:
+  name: Carne de vită zdrobită
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_BEETROOT:
+  name: Sfeclă zdrobită
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_BELL_PEPPER:
+  name: Ardei gras zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_BLACK_BEANS:
+  name: Fasole neagră zdrobită
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_BREAD:
+  name: Pâine zdrobită
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_BROCCOLI:
+  name: Broccoli zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_BROWN_MUSHROOM:
+  name: Ciupercă maro zdrobită
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_BRUSSELS_SPROUTS:
+  name: Varză de Bruxelles zdrobită
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_CABBAGE:
+  name: Varză zdrobită
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_CARROT:
+  name: Morcov zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_CAULIFLOWER:
+  name: Conopidă zdrobită
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_CAYENNE_PEPPER:
+  name: Piper de Cayenne zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_CELERIAC:
+  name: Țelină zdrobită
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_CELERY:
+  name: Țelină apio zdrobită
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_CHERRY:
+  name: Cireașă zdrobită
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_CHESTNUT:
+  name: Castană zdrobită
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_CHICKEN:
+  name: Pui zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_CHICKPEAS:
+  name: Năut zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_CHICORY:
+  name: Cicoare zdrobită
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_CHILLY_PEPPER:
+  name: Ardei iute zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_CHIVES:
+  name: Arpagic zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_CHORUS_FRUIT:
+  name: Fruct coral zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_CILANTRO:
+  name: Coriandru zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_CINNAMON:
+  name: Scorțișoară zdrobită
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_CLOVE:
+  name: Cuișor zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_COCOA_BEANS:
+  name: Boabe de cacao zdrobite
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_COD:
+  name: Cod zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_COURGETTE:
+  name: Dovlecel zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_CUCUMBER:
+  name: Castravete zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_CUMIN:
+  name: Chimion zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_CURRY_LEAF:
+  name: Foaie de curry zdrobită
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_DILL:
+  name: Mărar zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_EGG:
+  name: Ou zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_ENCHANTED_GOLDEN_APPLE:
+  name: Măr de aur fermecat zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_FENNEL:
+  name: Fenicul zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_GARLIC:
+  name: Usturoi zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_GINGER:
+  name: Ghimbir zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_GLOW_BERRIES:
+  name: Fructe de pădure strălucitoare zdrobite
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_GOLDEN_APPLE:
+  name: Măr de aur zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_GOLDEN_CARROT:
+  name: Morcov de aur zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_GRAPE:
+  name: Strugure zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_GREEN_APPLE:
+  name: Măr verde zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_GREEN_BEANS:
+  name: Fasole verde zdrobită
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_GREEN_ONION:
+  name: Ceapă verde zdrobită
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_HAZELNUT:
+  name: Alună de pădure zdrobită
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_HORSERADISH:
+  name: Hrean zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_JALAPENO:
+  name: Jalapeño zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_JASMINE:
+  name: Iasomie zdrobită
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_JUNIPER_BERRY:
+  name: Boabe de ienupăr zdrobite
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_KAFFIR_LIME:
+  name: Frunză de lămâie kaffir zdrobită
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_KALE:
+  name: Varză kale zdrobită
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_KELP:
+  name: Algă zdrobită
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_KIWI:
+  name: Kiwi zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_LAVENDER:
+  name: Lavandă zdrobită
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_LEEK:
+  name: Praz zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_LEMON:
+  name: Lămâie zdrobită
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_LETTUCE:
+  name: Salată verde zdrobită
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_LICORICE:
+  name: Lemn dulce zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_LIME:
+  name: Lămâie verde zdrobită
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_MACE:
+  name: Floare de nucșoară zdrobită
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_MANGO:
+  name: Mango zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_MARJORAM:
+  name: Maghiran zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_MARROW:
+  name: Dovlecel mare zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_MELON:
+  name: Pepene zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_MINT:
+  name: Mentă zdrobită
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_MUSTARD_SEEDS:
+  name: Semințe de muștar zdrobite
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_MUTTON:
+  name: Carne de oaie zdrobită
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_NETTLES:
+  name: Urzici zdrobite
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_OKRA:
+  name: Bame zdrobite
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_ONION:
+  name: Ceapă zdrobită
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_ORANGE:
+  name: Portocală zdrobită
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_OREGANO:
+  name: Oregano zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_PARSLEY:
+  name: Pătrunjel zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_PARSNIP:
+  name: Păstârnac zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_PEA:
+  name: Mazăre zdrobită
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_PEACH:
+  name: Piersică zdrobită
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_PEANUT:
+  name: Arahidă zdrobită
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_PEAR:
+  name: Pară zdrobită
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_PECAN:
+  name: Nucă pecan zdrobită
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_PEPPER:
+  name: Piper negru zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_PEPPERONI:
+  name: Pepperoni zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_PINEAPPLE:
+  name: Ananas zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_PINTO_BEANS:
+  name: Fasole pinto zdrobită
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_PORKCHOP:
+  name: Cotlet de porc zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_POTATO:
+  name: Cartof zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_PUFFERFISH:
+  name: Pește-balon zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_PUMPKIN:
+  name: Dovleac zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_RABBIT:
+  name: Iepure zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_RADDISH:
+  name: Ridiche zdrobită
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_RADICCHIO:
+  name: Radicchio zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_RAPESEED:
+  name: Rapiță zdrobită
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_RED_MUSHROOM:
+  name: Ciupercă roșie zdrobită
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_RHUBARB:
+  name: Rubarbă zdrobită
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_RICE:
+  name: Orez zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_ROSEMARY:
+  name: Rozmarin zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_ROTTEN_FLESH:
+  name: Carne putrezită zdrobită
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_RUNNER_BEANS:
+  name: Fasole urcătoare zdrobită
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_RUTABAGA:
+  name: Rutabaga zdrobită
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_SALMON:
+  name: Somon zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_SASSAFRAS:
+  name: Sassafras zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_SHALLOT:
+  name: Eșalotă zdrobită
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_SHISO:
+  name: Shiso zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_SOY_BEANS:
+  name: Boabe de soia zdrobite
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_SPINACH:
+  name: Spanac zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_STAR_ANISE:
+  name: Anason stelat zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_STRAWBERRY:
+  name: Căpșună zdrobită
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_SUGAR:
+  name: Zahăr zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_SWEETCORN:
+  name: Porumb dulce zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_SWEET_BERRIES:
+  name: Fructe de pădure dulci zdrobite
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_SWEET_POTATO:
+  name: Cartof dulce zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_TARRAGON:
+  name: Tarhon zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_THYME:
+  name: Cimbru zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_TOMATO:
+  name: Roșie zdrobită
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_TURMERIC:
+  name: Turmeric zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_TURNIP:
+  name: Nap zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_VANILLA:
+  name: Vanilie zdrobită
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_WASABI:
+  name: Wasabi zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MASHED_WHEAT:
+  name: Grâu zdrobit
+  type:
+  - '&7&oProdus secundar'
+CLT_MAYONNAISE:
+  name: Maioneză
+  type:
+  - '&7&oRecoltă'
+  description:
+  - O maioneză fină și catifelată care merge cu aproape orice.
+CLT_MEATBALLS:
+  name: Chiftele
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Bile de carne, cine s-ar fi gândit.
+CLT_MEATLOAF:
+  name: Drob de carne
+  type:
+  - '&7&oMâncare'
+  description:
+  - Nimic nu se compară! Hai să mergem.
+  stats:
+  - '&8⇨ &7Vindecare: &bCompletă'
+  - '&8⇨ &bBonus de viață IV &7(10:00)'
+  - '&8⇨ &bRezistență III &7(10:00)'
+  - '&8⇨ &bGrabă II &7(10:00)'
+  - '&8⇨ &bÎncetineală II &7(10:00)'
+CLT_MINT:
+  name: Mentă
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Mestecă, mestecă, mestecă.
+CLT_MUSTARD:
+  name: Muștar
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Are o mică înțepătură!
+CLT_MUSTARD_SEEDS:
+  name: Semințe de muștar
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Mestecă-le, te provoc!
+CLT_NETTLES:
+  name: Urzici
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Te rog pune-ți mănușile înainte să le ții.
+CLT_OKRA:
+  name: Bame
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Crește din belșug în Okra-homa... nu-i așa, NU-I AȘA?
+CLT_ONION:
+  name: Ceapă
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Stai, de ce plângi?
+CLT_ORANGE:
+  name: Portocală
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Nu trebuia să fie mecanică?
+CLT_ORANGE_JUICE:
+  name: Suc de portocale
+  type:
+  - '&7&oMâncare'
+  description:
+  - Chiar e cel mai bun mod de a începe ziua.
+  stats:
+  - '&8⇨ &bViteză IV &7(10:00)'
+CLT_OREGANO:
+  name: Oregano
+  type:
+  - '&7&oRecoltă'
+  description:
+  - O verdeață clasică din orice cămară.
+CLT_PARSLEY:
+  name: Pătrunjel
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Cea. Mai. Proastă. Verdeață.
+CLT_PARSNIP:
+  name: Păstârnac
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Trebuie prăjit la cuptor imediat.
+CLT_PASTA:
+  name: Paste
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Doar paste simple, modeste dar minunate.
+CLT_PEA:
+  name: Mazăre
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Se găsesc de obicei câte două într-o păstaie, sau așa am auzit.
+CLT_PEACH:
+  name: Piersică
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Despre emoji nu vorbim
+CLT_PEANUT:
+  name: Arahidă
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Reece's, vin!
+CLT_PEANUT_BUTTER:
+  name: Unt de arahide
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Comparabil doar cu aurul lichid.
+CLT_PEANUT_BUTTER_JELLY_SANDWICH:
+  name: Sandviș cu unt de arahide și jeleu
+  type:
+  - '&7&oMâncare'
+  description:
+  - Chiar e apogeul tehnologiei sandvișurilor.
+  stats:
+  - '&8⇨ &7Vindecare: &b5 inimi'
+  - '&8⇨ &bForță III &7(10:00)'
+CLT_PEAR:
+  name: Pară
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Nu ți se pară perfectă?
+CLT_PECAN:
+  name: Nucă pecan
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Abia așteaptă să ajungă într-o plăcintă.
+CLT_PECAN_PIE:
+  name: Plăcintă cu nuci pecan
+  type:
+  - '&7&oMâncare'
+  description:
+  - Singurul mod de a mânca zahăr pur fără
+  - să fii judecat din cap până-n picioare.
+  stats:
+  - '&8⇨ &7Vindecare: &b4 inimi'
+  - '&8⇨ &bLevitație I &7(10:00)'
+CLT_PEPPER:
+  name: Piper negru
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Mai picant decât sarea.
+CLT_PEPPERONI:
+  name: Pepperoni
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Aș putea mânca un baton întreg din asta, ușor.
+CLT_PICO_DE_GALLO:
+  name: Pico de gallo
+  type:
+  - '&7&oRecoltă'
+  description:
+  - O salsa blândă, plină de delicios pur.
+CLT_PIE_CRUST:
+  name: Blat de plăcintă
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Dacă ar fi legal să mănânc asta goală,
+  - ar fi principala mea sursă de hrană.
+CLT_PINEAPPLE:
+  name: Ananas
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Asta trebuie pusă pe orice pizza care există.
+  - Vrei să ne certăm!?
+CLT_PINTO_BEANS:
+  name: Fasole pinto
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Ka-ching! E vremea de burrito.
+CLT_PIZZA_CHEESE:
+  name: Pizza cu brânză
+  type:
+  - '&7&oMâncare'
+  description:
+  - De ce ar comanda cineva doar brânză? Habar n-am.
+  stats:
+  - '&8⇨ &7Vindecare: &b4 inimi'
+  - '&8⇨ &bÎncetineală I &7(10:00)'
+CLT_PIZZA_MUSHROOM:
+  name: Pizza cu ciuperci
+  type:
+  - '&7&oMâncare'
+  description:
+  - O pizza vegetariană simplă, plină de proteine.
+  stats:
+  - '&8⇨ &7Vindecare: &b6 inimi'
+  - '&8⇨ &bÎncetineală I &7(10:00)'
+  - '&8⇨ &bGrabă II &7(10:00)'
+CLT_PIZZA_PEPPERONI:
+  name: Pizza cu pepperoni
+  type:
+  - '&7&oMâncare'
+  description:
+  - Un clasic din New York plin de savoare.
+  stats:
+  - '&8⇨ &7Vindecare: &b6 inimi'
+  - '&8⇨ &bViteză I &7(10:00)'
+  - '&8⇨ &bGrabă I &7(10:00)'
+  - '&8⇨ &bSalt puternic I &7(10:00)'
+CLT_PLANT_AIR:
+  name: Plantă de aer primordial
+  type:
+  - '&7&oPlantă'
+  description:
+  - O plantă care fredonează încet
+  - melodia naturii din jur.
+  - '&ePlantele primordiale nu produc obiecte'
+  - '&eși sunt doar pentru încrucișare.'
+CLT_PLANT_AMETHYST:
+  name: Plantă de ametist
+  type:
+  - '&7&oPlantă'
+  description:
+  - Planta asta adoră să înflorească în locuri
+  - adânci și întunecate.
+CLT_PLANT_ANALYSER:
+  name: Analizor de plante
+  type:
+  - '&7&oUnealtă'
+  description:
+  - O unealtă foarte simplă care îți permite
+  - să vezi detaliile unei plante în creștere
+  usage:
+  - '&eClick dreapta&7: Îți arată specia și detaliile de creștere ale unei plante.'
+  - '&eShift + click dreapta&7: Afișează numele unei plante sau al unei tufe.'
+CLT_PLANT_BASALT:
+  name: Plantă de bazalt
+  type:
+  - '&7&oPlantă'
+  description:
+  - O plantă foarte plictisitoare și ternă.
+CLT_PLANT_BEE:
+  name: Plantă de albine
+  type:
+  - '&7&oPlantă'
+  description:
+  - O plantă cu o pereche de aripi foarte mici și delicate.
+CLT_PLANT_BLACKSTONE:
+  name: Plantă de piatră neagră
+  type:
+  - '&7&oPlantă'
+  description:
+  - O plantă despre care se știe că absoarbe lumina.
+CLT_PLANT_BLAZE:
+  name: Plantă de dogoreală
+  type:
+  - '&7&oPlantă'
+  description:
+  - O plantă pârlită pe margini.
+CLT_PLANT_CHICKEN:
+  name: Plantă de pui
+  type:
+  - '&7&oPlantă'
+  description:
+  - Se zvonește că dacă ții această
+  - sămânță deasupra capului și sari de la
+  - mare înălțime, vei plana în loc
+  - să cazi.
+CLT_PLANT_CLAY:
+  name: Plantă de lut
+  type:
+  - '&7&oPlantă'
+  description:
+  - Planta asta poate fi modelată și remodelată liber.
+  - Asta nu înseamnă că e o idee bună să o faci,
+  - totuși!
+CLT_PLANT_COAL:
+  name: Plantă de cărbune
+  type:
+  - '&7&oPlantă'
+  description:
+  - O plantă cu atât de mult potențial.
+CLT_PLANT_COBBLESTONE:
+  name: Plantă de pietruială
+  type:
+  - '&7&oPlantă'
+  description:
+  - Planta asta e tare ca piatra.
+CLT_PLANT_CONCRETE:
+  name: Plantă de beton
+  type:
+  - '&7&oPlantă'
+  description:
+  - Planta asta crește cu greu, pentru că
+  - se întărește atât de repede.
+CLT_PLANT_COW:
+  name: Plantă de vacă
+  type:
+  - '&7&oPlantă'
+  description:
+  - Dacă ții sămânța asta la ureche
+  - și asculți foarte atent, poți auzi
+  - din când în când un muget.
+CLT_PLANT_CREEPER:
+  name: Plantă de creeper
+  type:
+  - '&7&oPlantă'
+  description:
+  - Tsssssssssttt...
+CLT_PLANT_DARKNESS:
+  name: Plantă de întuneric primordial
+  type:
+  - '&7&oPlantă'
+  description:
+  - O plantă care fierbe de o furie
+  - nestăpânită.
+  - '&ePlantele primordiale nu produc obiecte'
+  - '&eși sunt doar pentru încrucișare.'
+CLT_PLANT_DARK_FLORA:
+  name: Plantă de floră întunecată
+  type:
+  - '&7&oPlantă'
+  description:
+  - Un rău tăcut sălășluiește în această sămânță simplă.
+CLT_PLANT_DARK_GRASS:
+  name: Plantă de iarbă întunecată
+  type:
+  - '&7&oPlantă'
+  description:
+  - O plantă care și-a pierdut cu totul
+  - identitatea.
+CLT_PLANT_DEEPSLATE:
+  name: Plantă de ardezie adâncă
+  type:
+  - '&7&oPlantă'
+  description:
+  - Adâncă, ardeziană, <aici vine povestea>.
+CLT_PLANT_DIAMOND:
+  name: Plantă de diamant
+  type:
+  - '&7&oPlantă'
+  description:
+  - O plantă care pur și simplu respiră bogăție.
+CLT_PLANT_DIM_LIT:
+  name: Plantă slab luminată
+  type:
+  - '&7&oPlantă'
+  description:
+  - O lumină foarte slabă emană din această sămânță.
+CLT_PLANT_DIRT:
+  name: Plantă de pământ
+  type:
+  - '&7&oPlantă'
+  description:
+  - Murdară la suprafață, dar ascunde în ea
+  - cărămizile vieții însăși.
+CLT_PLANT_DROWNED:
+  name: Plantă de înecați
+  type:
+  - '&7&oPlantă'
+  description:
+  - O plantă udă leoarcă, tot
+  - timpul.
+CLT_PLANT_DUSTY:
+  name: Plantă prăfuită
+  type:
+  - '&7&oPlantă'
+  description:
+  - Planta asta are nevoie de grijă specială, cea mai
+  - mică adiere mai puternică poate fi de ajuns ca să se
+  - destrame.
+CLT_PLANT_EARTH:
+  name: Plantă de pământ primordial
+  type:
+  - '&7&oPlantă'
+  description:
+  - O plantă care îmbogățește lumea
+  - din jurul ei.
+  - '&ePlantele primordiale nu produc obiecte'
+  - '&eși sunt doar pentru încrucișare.'
+CLT_PLANT_ECHO:
+  name: Plantă de ecou
+  type:
+  - '&7&oPlantă'
+  description:
+  - Planta asta știe mereu cum să-și găsească
+  - drumul spre casă.
+CLT_PLANT_ELDER_GUARDIAN:
+  name: Plantă de mare străjer
+  type:
+  - '&7&oPlantă'
+  description:
+  - Lângă planta asta, oamenii devin
+  - leneși.
+CLT_PLANT_EMERALD:
+  name: Plantă de smarald
+  type:
+  - '&7&oPlantă'
+  description:
+  - Proprietarii acestei plante trebuie să sară
+  - prin cercuri doar ca să și-o permită.
+CLT_PLANT_ENDERMAN:
+  name: Plantă de enderman
+  type:
+  - '&7&oPlantă'
+  description:
+  - Dacă nu e tratată cu grijă, planta asta
+  - se poate teleporta la întâmplare!
+CLT_PLANT_ENDER_DRAGON:
+  name: Plantă de dragon de Ender
+  type:
+  - '&7&oPlantă'
+  description:
+  - Un adevărat boss printre plante.
+CLT_PLANT_END_STONE:
+  name: Plantă de piatră din End
+  type:
+  - '&7&oPlantă'
+  description:
+  - O plantă care vibrează cu vidul.
+CLT_PLANT_FIRE:
+  name: Plantă de foc primordial
+  type:
+  - '&7&oPlantă'
+  description:
+  - O plantă care oferă atât
+  - sursele distrugerii, cât și pe
+  - cele ale renașterii.
+  - '&ePlantele primordiale nu produc obiecte'
+  - '&eși sunt doar pentru încrucișare.'
+CLT_PLANT_FISH:
+  name: Plantă de pește
+  type:
+  - '&7&oPlantă'
+  description:
+  - Un miros de fruct copt emană din această sămânță.
+CLT_PLANT_FLOWER:
+  name: Plantă înflorită
+  type:
+  - '&7&oPlantă'
+  description:
+  - Un corn al abundenței frumos prezentat.
+CLT_PLANT_FROG:
+  name: Plantă de broască
+  type:
+  - '&7&oPlantă'
+  description:
+  - Oac!
+CLT_PLANT_GHAST:
+  name: Plantă de ghast
+  type:
+  - '&7&oPlantă'
+  description:
+  - O plantă despre care se știe că
+  - trage la întâmplare cu mingi de foc.
+CLT_PLANT_GLASS:
+  name: Plantă de sticlă
+  type:
+  - '&7&oPlantă'
+  description:
+  - Din unghiul potrivit, ai putea
+  - jura că vezi prin planta asta.
+CLT_PLANT_GLAZED:
+  name: Plantă glazurată
+  type:
+  - '&7&oPlantă'
+  description:
+  - O plantă care crește după un model complicat.
+CLT_PLANT_GLOWING_VINE:
+  name: Plantă de liană strălucitoare
+  type:
+  - '&7&oPlantă'
+  description:
+  - O lumină slabă emană din această sămânță.
+CLT_PLANT_GLOW_SQUID:
+  name: Plantă de calamar strălucitor
+  type:
+  - '&7&oPlantă'
+  description:
+  - O plantă sclipitoare cu o strălucire slabă.
+CLT_PLANT_GOAT:
+  name: Plantă de capră
+  type:
+  - '&7&oPlantă'
+  description:
+  - O plantă violentă din senin, căreia îi place
+  - să sară peste tot.
+CLT_PLANT_GRASS:
+  name: Plantă de iarbă
+  type:
+  - '&7&oPlantă'
+  description:
+  - Viața înfloritoare țâșnește
+  - din pământ.
+CLT_PLANT_GRAVEL:
+  name: Plantă de pietriș
+  type:
+  - '&7&oPlantă'
+  description:
+  - Planta asta chiar nu știe cum
+  - să se adune.
+CLT_PLANT_GUARDIAN:
+  name: Plantă de străjer
+  type:
+  - '&7&oPlantă'
+  description:
+  - Când e atinsă, planta asta eliberează
+  - spini.
+CLT_PLANT_IGNEOUS:
+  name: Plantă magmatică
+  type:
+  - '&7&oPlantă'
+  description:
+  - Planta asta a fost formată de căldură și
+  - presiune. Nu te uita așa la mine! Toate
+  - descrierile astea de plante au sens total.
+CLT_PLANT_LAPIS:
+  name: Plantă de lapis
+  type:
+  - '&7&oPlantă'
+  description:
+  - O plantă cu o aură magică slabă.
+CLT_PLANT_LIGHT:
+  name: Plantă de lumină primordială
+  type:
+  - '&7&oPlantă'
+  description:
+  - O plantă care emană o aură
+  - de iubire pură.
+  - '&ePlantele primordiale nu produc obiecte'
+  - '&eși sunt doar pentru încrucișare.'
+CLT_PLANT_MAGMA:
+  name: Plantă de magmă
+  type:
+  - '&7&oPlantă'
+  description:
+  - O plantă atât de fierbinte că arde tot
+  - ce e în jurul ei.
+CLT_PLANT_MAGMA_CUBE:
+  name: Plantă de cub de magmă
+  type:
+  - '&7&oPlantă'
+  description:
+  - Când nu e privită, planta asta
+  - adoră să țopăie în sus și în jos.
+CLT_PLANT_MOSS:
+  name: Plantă de mușchi
+  type:
+  - '&7&oPlantă'
+  description:
+  - Planta asta tinde să se răspândească necontrolat.
+CLT_PLANT_MUD:
+  name: Plantă de noroi
+  type:
+  - '&7&oPlantă'
+  description:
+  - O plantă aproape la fel de murdară ca
+  - pământul din care provine.
+CLT_PLANT_MUSHROOM:
+  name: Plantă de ciuperci
+  type:
+  - '&7&oPlantă'
+  description:
+  - Da, o plantă care face ciuperci.
+  - Totul e perfect normal pe aici.
+CLT_PLANT_NETHERRACK:
+  name: Plantă de netherrack
+  type:
+  - '&7&oPlantă'
+  description:
+  - O plantă dură și rezistentă, care poate supraviețui
+  - în majoritatea locurilor.
+CLT_PLANT_NETHER_QUARTZ:
+  name: Plantă de cuarț de Nether
+  type:
+  - '&7&oPlantă'
+  description:
+  - Planta asta are spini atât de ascuțiți încât
+  - e greu să lucrezi cu ea.
+CLT_PLANT_PHANTOM:
+  name: Plantă de fantasmă
+  type:
+  - '&7&oPlantă'
+  description:
+  - O plantă cu frunze semețe.
+CLT_PLANT_PIG:
+  name: Plantă de porc
+  type:
+  - '&7&oPlantă'
+  description:
+  - O plantă care pufnește la întâmplare.
+CLT_PLANT_POWER:
+  name: Plantă de putere primordială
+  type:
+  - '&7&oPlantă'
+  description:
+  - O plantă care emană putere din plin.
+  - '&ePlantele primordiale nu produc obiecte'
+  - '&eși sunt doar pentru încrucișare.'
+CLT_PLANT_PURPUR:
+  name: Plantă de purpur
+  type:
+  - '&7&oPlantă'
+  description:
+  - O plantă ciudată, pare mult mai ușoară
+  - decât majoritatea.
+CLT_PLANT_RABBIT:
+  name: Plantă de iepure
+  type:
+  - '&7&oPlantă'
+  description:
+  - Gândacii ar fi mândri.
+CLT_PLANT_RAINBOW:
+  name: Plantă de curcubeu
+  type:
+  - '&7&oPlantă'
+  description:
+  - S-ar putea să fie sau să nu fie o oală cu aur
+  - la capătul acestei plante.
+CLT_PLANT_RAW_COPPER:
+  name: Plantă de cupru brut
+  type:
+  - '&7&oPlantă'
+  description:
+  - Lăsată în pace, planta asta uneori
+  - atrage fulgerele.
+CLT_PLANT_RAW_GOLD:
+  name: Plantă de aur brut
+  type:
+  - '&7&oPlantă'
+  description:
+  - Planta asta e furată des de piglini
+  - dacă sunt prin preajmă.
+CLT_PLANT_RAW_IRON:
+  name: Plantă de fier brut
+  type:
+  - '&7&oPlantă'
+  description:
+  - O plantă robustă care rezistă în majoritatea
+  - mediilor.
+CLT_PLANT_REDSTONE:
+  name: Plantă de redstone
+  type:
+  - '&7&oPlantă'
+  description:
+  - O plantă plină de putere din cap până-n rădăcină.
+CLT_PLANT_RED_SAND:
+  name: Plantă de nisip roșu
+  type:
+  - '&7&oPlantă'
+  description:
+  - Planta asta se poate fărâmița uneori
+  - la o singură atingere, dar... mai roșie.
+CLT_PLANT_REINFORCED:
+  name: Plantă ranforsată
+  type:
+  - '&7&oPlantă'
+  description:
+  - O plantă care se ține pe picioare
+  - orice ar fi.
+CLT_PLANT_SAND:
+  name: Plantă de nisip
+  type:
+  - '&7&oPlantă'
+  description:
+  - Planta asta se poate fărâmița uneori
+  - la o singură atingere.
+CLT_PLANT_SAPLING:
+  name: Plantă de puiet
+  type:
+  - '&7&oPlantă'
+  description:
+  - Planta asta nici măcar nu are sens...
+CLT_PLANT_SCRAPPY:
+  name: Plantă zdrențuită
+  type:
+  - '&7&oPlantă'
+  description:
+  - Planta asta chiar e apogeul
+  - horticulturii.
+CLT_PLANT_SHEEP:
+  name: Plantă de oaie
+  type:
+  - '&7&oPlantă'
+  description:
+  - O plantă cu o textură aspră și lânoasă.
+CLT_PLANT_SHULKER:
+  name: Plantă de shulker
+  type:
+  - '&7&oPlantă'
+  description:
+  - O plantă care deseori levitează deasupra
+  - pământului.
+CLT_PLANT_SKELETON:
+  name: Plantă de schelet
+  type:
+  - '&7&oPlantă'
+  description:
+  - O plantă care zdrăngăne când se leagănă.
+CLT_PLANT_SLIME:
+  name: Plantă de mâzgă
+  type:
+  - '&7&oPlantă'
+  description:
+  - De ce e atât de lipicioasă?
+CLT_PLANT_SOUL:
+  name: Plantă de suflet
+  type:
+  - '&7&oPlantă'
+  description:
+  - O plantă pe care o auzi țipând
+  - când e liniște.
+CLT_PLANT_SPECTRUM:
+  name: Plantă de spectru primordial
+  type:
+  - '&7&oPlantă'
+  description:
+  - O plantă care își schimbă ușor culoarea.
+  - '&ePlantele primordiale nu produc obiecte'
+  - '&eși sunt doar pentru încrucișare.'
+CLT_PLANT_SPIDER:
+  name: Plantă de păianjen
+  type:
+  - '&7&oPlantă'
+  description:
+  - Omoar-o, omoar-o ACUM!
+CLT_PLANT_SQUID:
+  name: Plantă de calamar
+  type:
+  - '&7&oPlantă'
+  description:
+  - Ai grijă, doar atingând planta asta
+  - riști să împroști cerneală peste
+  - tot locul.
+CLT_PLANT_STAINED:
+  name: Plantă pătată
+  type:
+  - '&7&oPlantă'
+  description:
+  - Planta asta descompune lumina într-un adevărat
+  - spectru peste obiectele din jur.
+CLT_PLANT_TERRA:
+  name: Plantă de terra
+  type:
+  - '&7&oPlantă'
+  description:
+  - O plantă tare și pământoasă care cedează sub presiune.
+CLT_PLANT_TURTLE:
+  name: Plantă de țestoasă
+  type:
+  - '&7&oPlantă'
+  description:
+  - O sămânță învelită într-o coajă tare ca piatra.
+CLT_PLANT_VILLAGER:
+  name: Plantă de sătean
+  type:
+  - '&7&oPlantă'
+  description:
+  - Da, am condensat esența unui sătean
+  - într-o plantă. Se pare că a durut mult.
+CLT_PLANT_VINE:
+  name: Plantă de liană
+  type:
+  - '&7&oPlantă'
+  description:
+  - O plantă care se încâlcește instantaneu
+  - singură.
+CLT_PLANT_WATER:
+  name: Plantă de apă primordială
+  type:
+  - '&7&oPlantă'
+  description:
+  - O plantă care hrănește și dă
+  - viață zonei din jur.
+  - '&ePlantele primordiale nu produc obiecte'
+  - '&eși sunt doar pentru încrucișare.'
+CLT_PLANT_WAXY:
+  name: Plantă ceroasă
+  type:
+  - '&7&oPlantă'
+  description:
+  - Seva acestei plante se transformă în
+  - ceară perfectă în formă de lumânare.
+CLT_PLANT_WEALTH:
+  name: Plantă de bogăție primordială
+  type:
+  - '&7&oPlantă'
+  description:
+  - O plantă care pur și simplu strigă bogăție exuberantă.
+  - '&ePlantele primordiale nu produc obiecte'
+  - '&eși sunt doar pentru încrucișare.'
+CLT_PLANT_WITCH:
+  name: Plantă de vrăjitoare
+  type:
+  - '&7&oPlantă'
+  description:
+  - O plantă care sună de parcă ar
+  - murmura încet vrăji.
+CLT_PLANT_WITHER:
+  name: Plantă de wither
+  type:
+  - '&7&oPlantă'
+  description:
+  - O plantă mortală care trebuie tratată
+  - cu grijă.
+CLT_PLANT_WITHER_ROSE:
+  name: Plantă de trandafir al witherului
+  type:
+  - '&7&oPlantă'
+  description:
+  - Planta asta, cumva, pulsează o aură
+  - nocivă în jurul ei.
+CLT_PLANT_WITHER_SKELETON:
+  name: Plantă de schelet wither
+  type:
+  - '&7&oPlantă'
+  description:
+  - O plantă cunoscută ca fiind greu de prins și rezistentă.
+CLT_PLANT_WOOLLY:
+  name: Plantă lânoasă
+  type:
+  - '&7&oPlantă'
+  description:
+  - O plantă lânoasă, de la rădăcină la petale!
+CLT_PLANT_ZOMBIE:
+  name: Plantă de zombi
+  type:
+  - '&7&oPlantă'
+  description:
+  - Planta asta picură... ceva...
+CLT_RADDISH:
+  name: Ridiche
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Mici buzunare de soare proaspăt și crocant.
+CLT_RADICCHIO:
+  name: Radicchio
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Să scriu toată povestea asta durează atât de mult.
+  - E de-a dreptul radicchi-col.
+CLT_RAMEN_BEEF:
+  name: Ramen cu vită
+  type:
+  - '&7&oMâncare'
+  description:
+  - O alegere nu tocmai sănătoasă.
+  stats: &id004
+  - '&8⇨ &bBonus de viață I &7(10:00)'
+CLT_RAMEN_BEEF_HEARTY:
+  name: Ramen consistent cu vită
+  type:
+  - '&7&oMâncare'
+  description:
+  - O alegere sănătoasă.
+  stats: &id005
+  - '&8⇨ &7Vindecare: &bCompletă'
+  - '&8⇨ &bBonus de viață II &7(10:00)'
+  - '&8⇨ &bViteză I &7(10:00)'
+CLT_RAMEN_CHICKEN:
+  name: Ramen cu pui
+  type:
+  - '&7&oMâncare'
+  description:
+  - O alegere nu tocmai sățioasă.
+  stats: *id004
+CLT_RAMEN_CHICKEN_HEARTY:
+  name: Ramen consistent cu pui
+  type:
+  - '&7&oMâncare'
+  description:
+  - O alegere sățioasă.
+  stats: *id005
+CLT_RAMEN_SEAFOOD:
+  name: Ramen cu fructe de mare
+  type:
+  - '&7&oMâncare'
+  description:
+  - O alegere nu tocmai satisfăcătoare.
+  stats: *id004
+CLT_RAMEN_SEAFOOD_HEARTY:
+  name: Ramen consistent cu fructe de mare
+  type:
+  - '&7&oMâncare'
+  description:
+  - O alegere satisfăcătoare.
+  stats: *id005
+CLT_RAPESEED:
+  name: Rapiță
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Folosită adesea pentru a face uleiuri.
+CLT_RECIPE_UNLOCK:
+  name: Manuscris de cunoștințe Cultivation
+  type:
+  - '&7&oUnealtă'
+  description:
+  - Click dreapta ca să înveți o rețetă de
+  - încrucișare Cultivation.
+CLT_RHUBARB:
+  name: Rubarbă
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Doar ai grijă să scoți frunzele!
+CLT_RICE:
+  name: Orez
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Ține minte, nu trăiești decât o-rez!
+CLT_ROSEMARY:
+  name: Rozmarin
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Deseori îi e dor de cimbru.
+CLT_RUNNER_BEANS:
+  name: Fasole urcătoare
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Mereu încearcă să fugă.
+CLT_RUTABAGA:
+  name: Rutabaga
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Chiar doare să nu-i spun nap suedez.
+CLT_SALMON_NIGIRI:
+  name: Nigiri cu somon
+  type:
+  - '&7&oMâncare'
+  description:
+  - O aromă încântătoare, dar subtilă.
+  stats:
+  - '&8⇨ &7Vindecare: &b2 inimi'
+  - '&8⇨ &bRegenerare I &7(10:00)'
+CLT_SASSAFRAS:
+  name: Sassafras
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Root beer comestibil, serios, caută
+  - pe Google, acum îl cumpăr mereu.
+CLT_SAUSAGE:
+  name: Cârnat
+  type:
+  - '&7&oMâncare'
+  description:
+  - Fratele baconului.
+  stats: &id007
+  - '&8⇨ &7Vindecare: &b1 inimă'
+CLT_SEED_PACK:
+  name: Pachet de semințe
+  type:
+  - '&7&oUnealtă'
+  description:
+  - Click dreapta ca să deschizi acest pachet.
+  stats:
+  - '&8⇨ &7Setat pe: &bNimic'
+CLT_SHAKSHUKA:
+  name: Shakshuka
+  type:
+  - '&7&oMâncare'
+  description:
+  - Un fel de mâncare care îți încălzește inima, cu ouă cât cuprinde.
+  stats:
+  - '&8⇨ &7Vindecare: &b4 inimi'
+  - '&8⇨ &bEroul satului I &7(10:00)'
+  - '&8⇨ &bNoroc I &7(10:00)'
+CLT_SHALLOT:
+  name: Eșalotă
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Iubesc eșalota cu nemiluita.
+CLT_SHEPHERDS_PIE:
+  name: Plăcintă ciobănească
+  type:
+  - '&7&oMâncare'
+  description:
+  - Cald, sățios și pur și simplu minunat.
+  stats: *id006
+CLT_SHISO:
+  name: Shiso
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Mentă cu o garnitură de iubire.
+CLT_SLICED_APPLE:
+  name: Măr feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_APRICOT:
+  name: Caisă feliată
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_ARTICHOKE:
+  name: Anghinare feliată
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_ASPARAGUS:
+  name: Sparanghel feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_AUBERGINE:
+  name: Vânătă feliată
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_AVOCADO:
+  name: Avocado feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_BANANA:
+  name: Banană feliată
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_BASIL:
+  name: Busuioc feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_BAY_LEAF:
+  name: Foaie de dafin feliată
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_BEEF:
+  name: Carne de vită feliată
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_BEETROOT:
+  name: Sfeclă feliată
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_BELL_PEPPER:
+  name: Ardei gras feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_BLACK_BEANS:
+  name: Fasole neagră feliată
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_BREAD:
+  name: Pâine feliată
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_BROCCOLI:
+  name: Broccoli feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_BROWN_MUSHROOM:
+  name: Ciupercă maro feliată
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_BRUSSELS_SPROUTS:
+  name: Varză de Bruxelles feliată
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_CABBAGE:
+  name: Varză feliată
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_CARROT:
+  name: Morcov feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_CAULIFLOWER:
+  name: Conopidă feliată
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_CAYENNE_PEPPER:
+  name: Piper de Cayenne feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_CELERIAC:
+  name: Țelină feliată
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_CELERY:
+  name: Țelină apio feliată
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_CHERRY:
+  name: Cireașă feliată
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_CHESTNUT:
+  name: Castană feliată
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_CHICKEN:
+  name: Pui feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_CHICKPEAS:
+  name: Năut feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_CHICORY:
+  name: Cicoare feliată
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_CHILLY_PEPPER:
+  name: Ardei iute feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_CHIVES:
+  name: Arpagic feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_CHORUS_FRUIT:
+  name: Fruct coral feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_CILANTRO:
+  name: Coriandru feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_CINNAMON:
+  name: Scorțișoară feliată
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_CLOVE:
+  name: Cuișor feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_COCOA_BEANS:
+  name: Boabe de cacao feliate
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_COD:
+  name: Cod feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_COURGETTE:
+  name: Dovlecel feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_CUCUMBER:
+  name: Castravete feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_CUMIN:
+  name: Chimion feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_CURRY_LEAF:
+  name: Foaie de curry feliată
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_DILL:
+  name: Mărar feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_EGG:
+  name: Ou feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_ENCHANTED_GOLDEN_APPLE:
+  name: Măr de aur fermecat feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_FENNEL:
+  name: Fenicul feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_GARLIC:
+  name: Usturoi feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_GINGER:
+  name: Ghimbir feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_GLOW_BERRIES:
+  name: Fructe de pădure strălucitoare feliate
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_GOLDEN_APPLE:
+  name: Măr de aur feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_GOLDEN_CARROT:
+  name: Morcov de aur feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_GRAPE:
+  name: Strugure feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_GREEN_APPLE:
+  name: Măr verde feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_GREEN_BEANS:
+  name: Fasole verde feliată
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_GREEN_ONION:
+  name: Ceapă verde feliată
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_HAZELNUT:
+  name: Alună de pădure feliată
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_HORSERADISH:
+  name: Hrean feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_JALAPENO:
+  name: Jalapeño feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_JASMINE:
+  name: Iasomie feliată
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_JUNIPER_BERRY:
+  name: Boabe de ienupăr feliate
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_KAFFIR_LIME:
+  name: Frunză de lămâie kaffir feliată
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_KALE:
+  name: Varză kale feliată
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_KELP:
+  name: Algă feliată
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_KIWI:
+  name: Kiwi feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_LAVENDER:
+  name: Lavandă feliată
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_LEEK:
+  name: Praz feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_LEMON:
+  name: Lămâie feliată
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_LETTUCE:
+  name: Salată verde feliată
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_LICORICE:
+  name: Lemn dulce feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_LIME:
+  name: Lămâie verde feliată
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_MACE:
+  name: Floare de nucșoară feliată
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_MANGO:
+  name: Mango feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_MARJORAM:
+  name: Maghiran feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_MARROW:
+  name: Dovlecel mare feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_MELON:
+  name: Pepene feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_MINT:
+  name: Mentă feliată
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_MUSTARD_SEEDS:
+  name: Semințe de muștar feliate
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_MUTTON:
+  name: Carne de oaie feliată
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_NETTLES:
+  name: Urzici feliate
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_OKRA:
+  name: Bame feliate
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_ONION:
+  name: Ceapă feliată
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_ORANGE:
+  name: Portocală feliată
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_OREGANO:
+  name: Oregano feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_PARSLEY:
+  name: Pătrunjel feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_PARSNIP:
+  name: Păstârnac feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_PEA:
+  name: Mazăre feliată
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_PEACH:
+  name: Piersică feliată
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_PEANUT:
+  name: Arahidă feliată
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_PEAR:
+  name: Pară feliată
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_PECAN:
+  name: Nucă pecan feliată
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_PEPPER:
+  name: Piper negru feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_PEPPERONI:
+  name: Pepperoni feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_PINEAPPLE:
+  name: Ananas feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_PINTO_BEANS:
+  name: Fasole pinto feliată
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_PORKCHOP:
+  name: Cotlet de porc feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_POTATO:
+  name: Cartof feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_PUFFERFISH:
+  name: Pește-balon feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_PUMPKIN:
+  name: Dovleac feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_RABBIT:
+  name: Iepure feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_RADDISH:
+  name: Ridiche feliată
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_RADICCHIO:
+  name: Radicchio feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_RAPESEED:
+  name: Rapiță feliată
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_RED_MUSHROOM:
+  name: Ciupercă roșie feliată
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_RHUBARB:
+  name: Rubarbă feliată
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_RICE:
+  name: Orez feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_ROSEMARY:
+  name: Rozmarin feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_ROTTEN_FLESH:
+  name: Carne putrezită feliată
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_RUNNER_BEANS:
+  name: Fasole urcătoare feliată
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_RUTABAGA:
+  name: Rutabaga feliată
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_SALMON:
+  name: Somon feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_SASSAFRAS:
+  name: Sassafras feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_SHALLOT:
+  name: Eșalotă feliată
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_SHISO:
+  name: Shiso feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_SOY_BEANS:
+  name: Boabe de soia feliate
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_SPINACH:
+  name: Spanac feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_STAR_ANISE:
+  name: Anason stelat feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_STRAWBERRY:
+  name: Căpșună feliată
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_SUGAR:
+  name: Zahăr feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_SWEETCORN:
+  name: Porumb dulce feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_SWEET_BERRIES:
+  name: Fructe de pădure dulci feliate
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_SWEET_POTATO:
+  name: Cartof dulce feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_TARRAGON:
+  name: Tarhon feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_THYME:
+  name: Cimbru feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_TOMATO:
+  name: Roșie feliată
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_TURMERIC:
+  name: Turmeric feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_TURNIP:
+  name: Nap feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_VANILLA:
+  name: Vanilie feliată
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_WASABI:
+  name: Wasabi feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SLICED_WHEAT:
+  name: Grâu feliat
+  type:
+  - '&7&oProdus secundar'
+CLT_SOFT_BOILED_EGG:
+  name: Ou fiert moale
+  type:
+  - '&7&oMâncare'
+  description:
+  - Doar un ou fiert, ce mai e de zis.
+  stats:
+  - '&8⇨ &7Vindecare: &b1 inimă'
+  - '&8⇨ &7Uneori poate chema o găină în ajutor.'
+CLT_SOYLENT:
+  name: Soylent
+  type:
+  - '&7&oMâncare'
+  description:
+  - Tot ce-i trebuie corpului!
+  stats:
+  - '&8⇨ &bRău augur I &7(10:00)'
+  - '&8⇨ &bSlăbiciune IV &7(10:00)'
+CLT_SOY_BEANS:
+  name: Boabe de soia
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Iată că vine laptele de soia.
+CLT_SPAGHETTI:
+  name: Spaghete
+  type:
+  - '&7&oMâncare'
+  description:
+  - Sorbi în continuare.
+  stats: *id007
+CLT_SPAGHETTI_AND_MEATBALLS:
+  name: Spaghete cu chiftele
+  type:
+  - '&7&oMâncare'
+  description:
+  - Simplu, clasic și sățios.
+  stats:
+  - '&8⇨ &7Vindecare: &b1 inimă'
+  - '&8⇨ &bRău augur I &7(10:00)'
+CLT_SPINACH:
+  name: Spanac
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Ofilit cu dragoste.
+CLT_STAR_ANISE:
+  name: Anason stelat
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Una dintre cele mai bune și mai unice arome.
+CLT_STRAWBERRY:
+  name: Căpșună
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Doar adaugă frișcă!
+CLT_STRAWBERRY_JELLY:
+  name: Jeleu de căpșuni
+  type:
+  - '&7&oRecoltă'
+  description: *id008
+CLT_SUGARED_SKULL:
+  name: Craniu de zahăr
+  type:
+  - '&7&oMâncare'
+  description:
+  - Asta măcar e mâncare...?
+  stats:
+  - '&8⇨ &bÎntuneric III &7(10:00)'
+CLT_SWEETCORN:
+  name: Porumb dulce
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Poate cea mai bună legumă de pe aici.
+CLT_SWEET_BEEHIVE:
+  name: Stup dulce
+  type:
+  - '&7&oMâncare'
+  description:
+  - Nu știu ce te-a făcut să vrei să gătești asta!
+  stats:
+  - '&8⇨ &7Invocă niște albine!'
+CLT_SWEET_POTATO:
+  name: Cartof dulce
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Iam iam iam.
+CLT_TAQUITO:
+  name: Taquito
+  type:
+  - '&7&oMâncare'
+  description:
+  - Zim ar fi mândru!
+  stats:
+  - '&8⇨ &7Vindecare: &b4 inimi'
+  - '&8⇨ &7Îl invocă pe Gir în ajutor (e un Golem de fier, liniștește-te).'
+CLT_TARRAGON:
+  name: Tarhon
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Pun asta literalmente pe orice.
+  - 'Spoiler: nu sunt un bucătar bun.'
+CLT_TATER_TOTS:
+  name: Crochete de cartofi
+  type:
+  - '&7&oMâncare'
+  description:
+  - Mici bombițe de cartofi.
+  stats:
+  - '&8⇨ &7Vindecare: &b0.5 inimi'
+  - '&8⇨ &bViteză II &7(10:00)'
+CLT_THYME:
+  name: Cimbru
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Deseori îi e dor de rozmarin.
+CLT_TOMATO:
+  name: Roșie
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Direct de pe viță.... ăăă... tufă?
+CLT_TORTILLAS:
+  name: Tortilla
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Delicii din făină de porumb
+CLT_TREE_APRICOT:
+  name: Cais
+  type:
+  - '&7&oPuiet'
+  description:
+  - Înăuntru e un singur sâmbure de disperare.
+  stats: &id009
+  - '&8⇨ &7Design de: &bBWhite'
+CLT_TREE_BANANA:
+  name: Bananier
+  type:
+  - '&7&oPuiet'
+  description:
+  - Un copac căruia îi cresc degete, sinistru!
+  stats:
+  - '&8⇨ &7Design de: &bSefiraat'
+CLT_TREE_CHERRY:
+  name: Cireș
+  type:
+  - '&7&oPuiet'
+  description:
+  - Fă nodul!
+  stats:
+  - '&8⇨ &7Design de: &bReasonFoundDecoy'
+CLT_TREE_CHESTNUT:
+  name: Castan
+  type:
+  - '&7&oPuiet'
+  description:
+  - Un copac făcut clar ca să fie cățărat.
+  stats: &id010
+  - '&8⇨ &7Design de: &bABitOddish'
+CLT_TREE_GREEN_APPLE:
+  name: Măr cu mere verzi
+  type:
+  - '&7&oPuiet'
+  description:
+  - Face mere verzi mari și crocante.
+  stats: *id009
+CLT_TREE_HAZELNUT:
+  name: Alun
+  type:
+  - '&7&oPuiet'
+  description:
+  - Scuturatul acestui copac e o distracție din copilărie.
+  stats: *id010
+CLT_TREE_KIWI:
+  name: Arbore de kiwi
+  type:
+  - '&7&oPuiet'
+  description:
+  - Un copac din Noua Zeelandă? Am înțeles bine?
+  stats: *id010
+CLT_TREE_LEMON:
+  name: Lămâi
+  type:
+  - '&7&oPuiet'
+  description:
+  - Doar când te uiți la copacul ăsta simți un gust acru.
+  stats: &id011
+  - '&8⇨ &7Design de: &bJeff'
+CLT_TREE_LIME:
+  name: Lămâi verde
+  type:
+  - '&7&oPuiet'
+  description:
+  - Știai că lămâile verzi sunt doar lămâi care își țin respirația?
+  stats: *id010
+CLT_TREE_MANGO:
+  name: Arbore de mango
+  type:
+  - '&7&oPuiet'
+  description:
+  - Cel mai bun când e cel mai copt.
+  stats: *id009
+CLT_TREE_ORANGE:
+  name: Portocal
+  type:
+  - '&7&oPuiet'
+  description:
+  - Mici sfere de soare.
+  stats: *id011
+CLT_TREE_PEACH:
+  name: Piersic
+  type:
+  - '&7&oPuiet'
+  description:
+  - Cred că James căuta asta?
+  stats: *id010
+CLT_TREE_PEAR:
+  name: Păr
+  type:
+  - '&7&oPuiet'
+  description:
+  - O pereche de pere a fost împerecheată pentru paritate.
+  stats: *id009
+CLT_TREE_PECAN:
+  name: Arbore de pecan
+  type:
+  - '&7&oPuiet'
+  description:
+  - Putem crește copacul ăsta? Pe-can sigur că da!
+  stats: *id009
+CLT_TREE_PINEAPPLE:
+  name: Arbore de ananas
+  type:
+  - '&7&oPuiet'
+  description:
+  - UNDE E PIZZA MEA?
+  stats: *id010
+CLT_TURMERIC:
+  name: Turmeric
+  type:
+  - '&7&oRecoltă'
+  description:
+  - O prezență puternică, moscată, care completează multe feluri.
+CLT_TURNIP:
+  name: Nap
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Va rezolva toate problemele vieții.
+CLT_VANILLA:
+  name: Vanilie
+  type:
+  - '&7&oRecoltă'
+  description:
+  - 'Instrucțiuni: Înmoaie direct într-un latte'
+CLT_WASABI:
+  name: Wasabi
+  type:
+  - '&7&oRecoltă'
+  description:
+  - Ajutor... wasabi...
+CLT_WITHER_ROSE_SALAD:
+  name: Salată de trandafir al witherului
+  type:
+  - '&7&oMâncare'
+  description:
+  - Plin de putere, dar cu un efect secundar dur.
+  stats:
+  - '&8⇨ &7Vindecare: &bCompletă'
+  - '&8⇨ &bVeștejire II &7(10:00)'
+  - '&8⇨ &bBonus de viață XX &7(10:00)'

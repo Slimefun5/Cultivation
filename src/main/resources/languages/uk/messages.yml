@@ -1,0 +1,65 @@
+lore:
+  seed-pack-set-to: Встановлено
+  knowledge-script-unlocks: Відкриває
+  drop-level: Рівень врожаю
+  growth-speed: Швидкість росту
+  breed-strength: Сила схрещування
+command:
+  no-permission: У тебе немає дозволу на це.
+  invalid-subcommand: Вкажи правильну підкоманду.
+  players-only: Цю команду може виконати лише гравець.
+  hold-seed-pack: Для цього треба тримати пакет насіння.
+  pack-empty: Цей пакет порожній!
+  pack-contents: Вміст
+  pack-entry: Рівень %level%, швидкість %speed%, сила %strength%
+kitchen:
+  recipe-disabled: Цей рецепт вимкнено.
+  no-recipe: Відповідного рецепта немає.
+  not-enough-power: Недостатньо енергії.
+  input-empty: Поклади предмет у вхідний слот.
+  cooked: Смачно!
+food:
+  eaten: Чудово! Ти наївся досхочу.
+  not-hungry: Ти ще не голодний! Їсти можна лише раз на пів дня (10 хвилин).
+  palate-cleansed: Ти відчуваєш, як очищаються твої смакові рецептори.
+  ouch: Ой!
+knowledge-script:
+  learned: 'Ти навчився схрещувати: %plant%.'
+seed-pack:
+  title: Пакет насіння
+  unstack-first: Спершу розклади пакети насіння поштучно.
+  not-a-seed: Предмет має бути насінням рослини Культивейшн.
+  empty-before-change: Спершу спорожни пакет, а потім змінюй рослину.
+  no-plant-set: Ти ще не вибрав рослину.
+  none-stored: У тебе немає цього насіння з такими рівнями.
+  set-here: Вибрати насіння тут
+  retrieve-here: Забрати тут
+  no-seed-set: Насіння не вибрано
+  no-seed-set-lore:
+  - Клацни по значку ліворуч,
+  - тримаючи насіння, щоб налаштувати пакет.
+  empty-set: Нічого немає
+  empty-set-lore:
+  - У тебе немає насіння з
+  - такими рівнями.
+  stored-seed: Тип насіння в пакеті
+  take-seed: Взяти насінину з пакета
+  level: Рівень
+  speed: Швидкість
+  strength: Сила
+  left-click: Лівий клік
+  right-click: Правий клік
+  increase: Збільшити %stat%
+  decrease: Зменшити %stat%
+  current: Поточне
+codex:
+  title: Кодекс рослин
+  child: Дочірня рослина
+  mother: Материнська рослина
+  father: Батьківська рослина
+  growth-rate: Темп росту
+  not-discovered: Не відкрито
+  not-discovered-lore:
+  - Ти ще не з'ясував, як
+  - схрестити цю рослину!
+  discovery: Відкриття
