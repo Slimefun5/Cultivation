@@ -230,7 +230,7 @@ CLT_BLENDED_CHICORY:
   type:
   - '&7&oNebenprodukt'
 CLT_BLENDED_CHILLY_PEPPER:
-  name: Pürierte Chilischote
+  name: Pürierter Chili
   type:
   - '&7&oNebenprodukt'
 CLT_BLENDED_CHIVES:
@@ -746,7 +746,7 @@ CLT_BOILED_CHICORY:
   type:
   - '&7&oNebenprodukt'
 CLT_BOILED_CHILLY_PEPPER:
-  name: Gekochte Chilischote
+  name: Gekochter Chili
   type:
   - '&7&oNebenprodukt'
 CLT_BOILED_CHIVES:
@@ -1827,7 +1827,7 @@ CLT_CHICORY:
   description:
   - Eine nussige, bittere Wurzel.
 CLT_CHILLY_PEPPER:
-  name: Chilischote
+  name: Chili
   type:
   - '&7&oErzeugnis'
   description:
@@ -1955,7 +1955,7 @@ CLT_CHOPPED_CHICORY:
   type:
   - '&7&oNebenprodukt'
 CLT_CHOPPED_CHILLY_PEPPER:
-  name: Gehackte Chilischote
+  name: Gehackter Chili
   type:
   - '&7&oNebenprodukt'
 CLT_CHOPPED_CHIVES:
@@ -2662,7 +2662,7 @@ CLT_FRIED_CHICORY:
   type:
   - '&7&oNebenprodukt'
 CLT_FRIED_CHILLY_PEPPER:
-  name: Gebratene Chilischote
+  name: Gebratener Chili
   type:
   - '&7&oNebenprodukt'
 CLT_FRIED_CHIVES:
@@ -3249,7 +3249,7 @@ CLT_GRILLED_CHICORY:
   type:
   - '&7&oNebenprodukt'
 CLT_GRILLED_CHILLY_PEPPER:
-  name: Gegrillte Chilischote
+  name: Gegrillter Chili
   type:
   - '&7&oNebenprodukt'
 CLT_GRILLED_CHIVES:
@@ -3767,7 +3767,7 @@ CLT_GROUND_CHICORY:
   type:
   - '&7&oNebenprodukt'
 CLT_GROUND_CHILLY_PEPPER:
-  name: Gemahlene Chilischote
+  name: Gemahlener Chili
   type:
   - '&7&oNebenprodukt'
 CLT_GROUND_CHIVES:
@@ -4486,7 +4486,7 @@ CLT_MASHED_CHICORY:
   type:
   - '&7&oNebenprodukt'
 CLT_MASHED_CHILLY_PEPPER:
-  name: Gestampfte Chilischote
+  name: Gestampfter Chili
   type:
   - '&7&oNebenprodukt'
 CLT_MASHED_CHIVES:
@@ -5789,12 +5789,12 @@ CLT_RAPESEED:
   description:
   - Wird oft zur Herstellung von Ölen genutzt.
 CLT_RECIPE_UNLOCK:
-  name: Kultivierungs-Wissensschrift
+  name: Cultivation-Wissensschrift
   type:
   - '&7&oWerkzeug'
   description:
   - Rechtsklick, um ein neues Zuchtrezept
-  - der Kultivierung zu lernen.
+  - von Cultivation zu lernen.
 CLT_RHUBARB:
   name: Rhabarber
   type:
@@ -5999,7 +5999,7 @@ CLT_SLICED_CHICORY:
   type:
   - '&7&oNebenprodukt'
 CLT_SLICED_CHILLY_PEPPER:
-  name: Geschnittene Chilischote
+  name: Geschnittener Chili
   type:
   - '&7&oNebenprodukt'
 CLT_SLICED_CHIVES:

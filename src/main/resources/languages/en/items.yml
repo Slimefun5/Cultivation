@@ -275,7 +275,7 @@ CLT_BLENDED_CHICORY:
     - '&7&oBy-Product'
 
 CLT_BLENDED_CHILLY_PEPPER:
-  name: 'Blended Chilly Pepper'
+  name: 'Blended Chilli Pepper'
   type:
     - '&7&oBy-Product'
 
@@ -620,7 +620,7 @@ CLT_BLENDED_RABBIT:
     - '&7&oBy-Product'
 
 CLT_BLENDED_RADDISH:
-  name: 'Blended Raddish'
+  name: 'Blended Radish'
   type:
     - '&7&oBy-Product'
 
@@ -919,7 +919,7 @@ CLT_BOILED_CHICORY:
     - '&7&oBy-Product'
 
 CLT_BOILED_CHILLY_PEPPER:
-  name: 'Boiled Chilly Pepper'
+  name: 'Boiled Chilli Pepper'
   type:
     - '&7&oBy-Product'
 
@@ -1264,7 +1264,7 @@ CLT_BOILED_RABBIT:
     - '&7&oBy-Product'
 
 CLT_BOILED_RADDISH:
-  name: 'Boiled Raddish'
+  name: 'Boiled Radish'
   type:
     - '&7&oBy-Product'
 
@@ -1876,7 +1876,7 @@ CLT_BUSH_PINTO_BEANS:
     - 'a direct-burrito bush, right?'
 
 CLT_BUSH_RADDISH:
-  name: 'Raddish Bush'
+  name: 'Radish Bush'
   type:
     - '&7&oBush'
   description:
@@ -2201,7 +2201,7 @@ CLT_CHICORY:
     - 'A nutty, bitter root.'
 
 CLT_CHILLY_PEPPER:
-  name: 'Chilly Pepper'
+  name: 'Chilli Pepper'
   type:
     - '&7&oProduce'
   description:
@@ -2359,7 +2359,7 @@ CLT_CHOPPED_CHICORY:
     - '&7&oBy-Product'
 
 CLT_CHOPPED_CHILLY_PEPPER:
-  name: 'Chopped Chilly Pepper'
+  name: 'Chopped Chilli Pepper'
   type:
     - '&7&oBy-Product'
 
@@ -2704,7 +2704,7 @@ CLT_CHOPPED_RABBIT:
     - '&7&oBy-Product'
 
 CLT_CHOPPED_RADDISH:
-  name: 'Chopped Raddish'
+  name: 'Chopped Radish'
   type:
     - '&7&oBy-Product'
 
@@ -3252,7 +3252,7 @@ CLT_FRIED_CHICORY:
     - '&7&oBy-Product'
 
 CLT_FRIED_CHILLY_PEPPER:
-  name: 'Fried Chilly Pepper'
+  name: 'Fried Chilli Pepper'
   type:
     - '&7&oBy-Product'
 
@@ -3597,7 +3597,7 @@ CLT_FRIED_RABBIT:
     - '&7&oBy-Product'
 
 CLT_FRIED_RADDISH:
-  name: 'Fried Raddish'
+  name: 'Fried Radish'
   type:
     - '&7&oBy-Product'
 
@@ -3977,7 +3977,7 @@ CLT_GRILLED_CHICORY:
     - '&7&oBy-Product'
 
 CLT_GRILLED_CHILLY_PEPPER:
-  name: 'Grilled Chilly Pepper'
+  name: 'Grilled Chilli Pepper'
   type:
     - '&7&oBy-Product'
 
@@ -4322,7 +4322,7 @@ CLT_GRILLED_RABBIT:
     - '&7&oBy-Product'
 
 CLT_GRILLED_RADDISH:
-  name: 'Grilled Raddish'
+  name: 'Grilled Radish'
   type:
     - '&7&oBy-Product'
 
@@ -4623,7 +4623,7 @@ CLT_GROUND_CHICORY:
     - '&7&oBy-Product'
 
 CLT_GROUND_CHILLY_PEPPER:
-  name: 'Ground Chilly Pepper'
+  name: 'Ground Chilli Pepper'
   type:
     - '&7&oBy-Product'
 
@@ -4968,7 +4968,7 @@ CLT_GROUND_RABBIT:
     - '&7&oBy-Product'
 
 CLT_GROUND_RADDISH:
-  name: 'Ground Raddish'
+  name: 'Ground Radish'
   type:
     - '&7&oBy-Product'
 
@@ -5506,7 +5506,7 @@ CLT_MASHED_CHICORY:
     - '&7&oBy-Product'
 
 CLT_MASHED_CHILLY_PEPPER:
-  name: 'Mashed Chilly Pepper'
+  name: 'Mashed Chilli Pepper'
   type:
     - '&7&oBy-Product'
 
@@ -5851,7 +5851,7 @@ CLT_MASHED_RABBIT:
     - '&7&oBy-Product'
 
 CLT_MASHED_RADDISH:
-  name: 'Mashed Raddish'
+  name: 'Mashed Radish'
   type:
     - '&7&oBy-Product'
 
@@ -6965,7 +6965,7 @@ CLT_PLANT_ZOMBIE:
     - 'This plant is dripping... something...'
 
 CLT_RADDISH:
-  name: 'Raddish'
+  name: 'Radish'
   type:
     - '&7&oProduce'
   description:
@@ -7144,7 +7144,7 @@ CLT_SHALLOT:
     - 'I do love a lot of shallot.'
 
 CLT_SHEPHERDS_PIE:
-  name: 'Shepherds Pie'
+  name: 'Shepherd''s Pie'
   type:
     - '&7&oFood'
   description:
@@ -7301,7 +7301,7 @@ CLT_SLICED_CHICORY:
     - '&7&oBy-Product'
 
 CLT_SLICED_CHILLY_PEPPER:
-  name: 'Sliced Chilly Pepper'
+  name: 'Sliced Chilli Pepper'
   type:
     - '&7&oBy-Product'
 
@@ -7646,7 +7646,7 @@ CLT_SLICED_RABBIT:
     - '&7&oBy-Product'
 
 CLT_SLICED_RADDISH:
-  name: 'Sliced Raddish'
+  name: 'Sliced Radish'
   type:
     - '&7&oBy-Product'
 

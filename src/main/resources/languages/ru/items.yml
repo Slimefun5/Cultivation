@@ -230,7 +230,7 @@ CLT_BLENDED_CHICORY:
   type:
   - '&7&oПобочный продукт'
 CLT_BLENDED_CHILLY_PEPPER:
-  name: Измельчённый жгучий перец
+  name: Измельчённый перец чили
   type:
   - '&7&oПобочный продукт'
 CLT_BLENDED_CHIVES:
@@ -746,7 +746,7 @@ CLT_BOILED_CHICORY:
   type:
   - '&7&oПобочный продукт'
 CLT_BOILED_CHILLY_PEPPER:
-  name: Варёный жгучий перец
+  name: Варёный перец чили
   type:
   - '&7&oПобочный продукт'
 CLT_BOILED_CHIVES:
@@ -1827,7 +1827,7 @@ CLT_CHICORY:
   description:
   - Орехово-горький корень.
 CLT_CHILLY_PEPPER:
-  name: Жгучий перец
+  name: Перец чили
   type:
   - '&7&oУрожай'
   description:
@@ -1955,7 +1955,7 @@ CLT_CHOPPED_CHICORY:
   type:
   - '&7&oПобочный продукт'
 CLT_CHOPPED_CHILLY_PEPPER:
-  name: Рубленый жгучий перец
+  name: Рубленый перец чили
   type:
   - '&7&oПобочный продукт'
 CLT_CHOPPED_CHIVES:
@@ -2662,7 +2662,7 @@ CLT_FRIED_CHICORY:
   type:
   - '&7&oПобочный продукт'
 CLT_FRIED_CHILLY_PEPPER:
-  name: Жареный жгучий перец
+  name: Жареный перец чили
   type:
   - '&7&oПобочный продукт'
 CLT_FRIED_CHIVES:
@@ -3249,7 +3249,7 @@ CLT_GRILLED_CHICORY:
   type:
   - '&7&oПобочный продукт'
 CLT_GRILLED_CHILLY_PEPPER:
-  name: Жгучий перец на гриле
+  name: Перец чили на гриле
   type:
   - '&7&oПобочный продукт'
 CLT_GRILLED_CHIVES:
@@ -3767,7 +3767,7 @@ CLT_GROUND_CHICORY:
   type:
   - '&7&oПобочный продукт'
 CLT_GROUND_CHILLY_PEPPER:
-  name: Молотый жгучий перец
+  name: Молотый перец чили
   type:
   - '&7&oПобочный продукт'
 CLT_GROUND_CHIVES:
@@ -4486,7 +4486,7 @@ CLT_MASHED_CHICORY:
   type:
   - '&7&oПобочный продукт'
 CLT_MASHED_CHILLY_PEPPER:
-  name: Толчёный жгучий перец
+  name: Толчёный перец чили
   type:
   - '&7&oПобочный продукт'
 CLT_MASHED_CHIVES:
@@ -5789,12 +5789,12 @@ CLT_RAPESEED:
   description:
   - Часто идёт на масло.
 CLT_RECIPE_UNLOCK:
-  name: Свиток знаний Культивации
+  name: Свиток знаний Культивейшн
   type:
   - '&7&oИнструмент'
   description:
   - ПКМ, чтобы изучить рецепт
-  - скрещивания Культивации.
+  - скрещивания Культивейшн.
 CLT_RHUBARB:
   name: Ревень
   type:
@@ -5999,7 +5999,7 @@ CLT_SLICED_CHICORY:
   type:
   - '&7&oПобочный продукт'
 CLT_SLICED_CHILLY_PEPPER:
-  name: Нарезанный жгучий перец
+  name: Нарезанный перец чили
   type:
   - '&7&oПобочный продукт'
 CLT_SLICED_CHIVES:

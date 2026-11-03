@@ -28,7 +28,7 @@ knowledge-script:
 seed-pack:
   title: Samenpackung
   unstack-first: Du musst deine Samenpackungen zuerst entstapeln.
-  not-a-seed: Der Gegenstand muss ein Kultivierungs-Pflanzensamen sein.
+  not-a-seed: Der Gegenstand muss ein Cultivation-Pflanzensamen sein.
   empty-before-change: Du musst eine Packung leeren, bevor du ihre Pflanze änderst.
   no-plant-set: Du hast noch keine Pflanze festgelegt.
   none-stored: Du hast keinen solchen Samen mit diesen Werten.

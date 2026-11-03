@@ -3,12 +3,12 @@ cultivation:
     name: Strauchernte
     lore:
     - Dieser Gegenstand kann von einem
-    - Kultivierungs-Strauch geerntet werden
+    - Cultivation-Strauch geerntet werden
   tree_harvest:
     name: Baumernte
     lore:
     - Dieser Gegenstand kann von einem
-    - Kultivierungs-Baum geerntet werden
+    - Cultivation-Baum geerntet werden
   trading_farmer:
     name: Dorfbewohnerhandel
     lore:
