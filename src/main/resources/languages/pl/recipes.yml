@@ -1,0 +1,87 @@
+cultivation:
+  bush_harvest:
+    name: Zbiór z krzaka
+    lore:
+    - Ten przedmiot można zebrać z
+    - krzaka Cultivation
+  tree_harvest:
+    name: Zbiór z drzewa
+    lore:
+    - Ten przedmiot można zebrać z
+    - drzewa Cultivation
+  trading_farmer:
+    name: Handel z osadnikami
+    lore:
+    - Ten przedmiot można kupić od
+    - osadnika rolnika.
+  trading_fletcher:
+    name: Handel z osadnikami
+    lore:
+    - Ten przedmiot można kupić od
+    - osadnika łuczarza.
+  mob:
+    name: Łup z moba
+    lore:
+    - Ten przedmiot może wypaść z
+    - następujących mobów.
+  plant_breeding:
+    name: Krzyżowanie roślin
+    lore:
+    - To nasiono zdobywa się przez krzyżowanie.
+    - Rośliny krzyżuje się, sadząc
+    - dwie rośliny z jednym blokiem powietrza
+    - pomiędzy nimi.
+    - ''
+    - Słownik krzyżowania pozwala
+    - śledzić twoje odkrycia.
+    - ''
+    - 'Wskazówka: czarne cząsteczki oznaczają, że'
+    - tych dwóch roślin NIE DA SIĘ skrzyżować.
+  vanilla_block_drop:
+    name: Łup ze świata
+    lore:
+    - Wypada z bloków niszczonych w świecie.
+  bucketing:
+    name: Łup ze świata
+    lore:
+    - Pozyskiwane ze świata za pomocą wiadra.
+  chopped:
+    name: Siekanie
+    lore:
+    - Po prostu posiekaj nożem!
+  mashed:
+    name: Tłuczenie
+    lore:
+    - Tłuc, tłuc, tłuc
+  blended:
+    name: Miksowanie
+    lore:
+    - Powstaje przez włożenie przedmiotu do blendera.
+  sliced:
+    name: Krojenie w plastry
+    lore:
+    - Tak cienkie i delikatne
+  ground:
+    name: Mielenie
+    lore:
+    - Na drobno
+  boiled:
+    name: Gotowanie
+    lore:
+    - Gorące, gorące, gorące!
+  fried:
+    name: Smażenie
+    lore:
+    - Chrupiąca perfekcja.
+  grilled:
+    name: Grillowanie
+    lore:
+    - Soczyste i delikatne.
+  finishing:
+    name: Wykańczanie
+    lore:
+    - Użyj kuchennego blatu do wykańczania, aby zrobić ten przedmiot.
+  baking:
+    name: Pieczenie
+    lore:
+    - Użyj kuchennego blatu z piekarnikiem, aby zrobić ten przedmiot.

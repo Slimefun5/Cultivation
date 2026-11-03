@@ -1,0 +1,87 @@
+cultivation:
+  bush_harvest:
+    name: 灌木採收
+    lore:
+    - 這個物品可以從
+    - 卡爾提維遜灌木採收
+  tree_harvest:
+    name: 樹木採收
+    lore:
+    - 這個物品可以從
+    - 卡爾提維遜樹木採收
+  trading_farmer:
+    name: 村民交易
+    lore:
+    - 這個物品可以向
+    - 農夫村民購買。
+  trading_fletcher:
+    name: 村民交易
+    lore:
+    - 這個物品可以向
+    - 製箭師村民購買。
+  mob:
+    name: 生物掉落
+    lore:
+    - 這個物品有機率從
+    - 以下生物掉落。
+  plant_breeding:
+    name: 植物配種
+    lore:
+    - 這顆種子要透過配種取得。
+    - 配種方法是放下
+    - 兩株植物，並在中間
+    - 留一格空氣方塊。
+    - ''
+    - 配種辭典可以用來
+    - 記錄你的發現。
+    - ''
+    - 提示：黑色粒子代表
+    - 這兩株植物無法配種。
+  vanilla_block_drop:
+    name: 世界掉落
+    lore:
+    - 在世界中破壞方塊時掉落。
+  bucketing:
+    name: 世界掉落
+    lore:
+    - 在世界中使用桶子時取得。
+  chopped:
+    name: 切碎
+    lore:
+    - 用刀切一切就好！
+  mashed:
+    name: 搗泥
+    lore:
+    - 搗搗搗
+  blended:
+    name: 攪打
+    lore:
+    - 把物品放進果汁機製成。
+  sliced:
+    name: 切片
+    lore:
+    - 又薄又細緻
+  ground:
+    name: 研磨
+    lore:
+    - 磨得細細的
+  boiled:
+    name: 水煮
+    lore:
+    - 燙燙燙！
+  fried:
+    name: 油炸
+    lore:
+    - 酥脆完美。
+  grilled:
+    name: 炭烤
+    lore:
+    - 多汁軟嫩。
+  finishing:
+    name: 擺盤
+    lore:
+    - 使用廚房的擺盤流理台來製作這個物品。
+  baking:
+    name: 烘烤
+    lore:
+    - 使用廚房的烤箱流理台來製作這個物品。

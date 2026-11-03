@@ -1,0 +1,87 @@
+cultivation:
+  bush_harvest:
+    name: Struikoogst
+    lore:
+    - Dit item kan geoogst worden van een
+    - Cultivation-struik
+  tree_harvest:
+    name: Boomoogst
+    lore:
+    - Dit item kan geoogst worden van een
+    - Cultivation-boom
+  trading_farmer:
+    name: Handel met dorpelingen
+    lore:
+    - Dit item kan gekocht worden bij een
+    - dorpeling met het beroep boer.
+  trading_fletcher:
+    name: Handel met dorpelingen
+    lore:
+    - Dit item kan gekocht worden bij een
+    - dorpeling met het beroep pijlenmaker.
+  mob:
+    name: Mob-buit
+    lore:
+    - Dit item kan met een bepaalde kans vallen
+    - van de volgende mob(s).
+  plant_breeding:
+    name: Planten kruisen
+    lore:
+    - Dit zaadje vind je door te kruisen.
+    - Je kruist planten door twee planten
+    - neer te zetten met een luchtblok
+    - ertussen.
+    - ''
+    - Met het kweekwoordenboek kun je
+    - je ontdekkingen bijhouden.
+    - ''
+    - 'Hint: zwarte deeltjes betekenen dat de'
+    - twee planten NIET kunnen kruisen.
+  vanilla_block_drop:
+    name: Wereldbuit
+    lore:
+    - Valt uit blokken die in de wereld worden gebroken.
+  bucketing:
+    name: Wereldbuit
+    lore:
+    - Komt uit de wereld als je een emmer gebruikt.
+  chopped:
+    name: Gehakt
+    lore:
+    - Gewoon hakken met een mes!
+  mashed:
+    name: Gestampt
+    lore:
+    - Stampen, stampen, stampen
+  blended:
+    name: Gepureerd
+    lore:
+    - Wordt gemaakt door een item in de blender te doen.
+  sliced:
+    name: Gesneden
+    lore:
+    - Zo dun en teer
+  ground:
+    name: Gemalen
+    lore:
+    - Tot in de fijnste korrel
+  boiled:
+    name: Gekookt
+    lore:
+    - Heet heet heet!
+  fried:
+    name: Gebakken
+    lore:
+    - Knapperige perfectie.
+  grilled:
+    name: Gegrild
+    lore:
+    - Sappig en mals.
+  finishing:
+    name: Afwerken
+    lore:
+    - Gebruik het afwerkaanrecht van de keuken om dit item te maken.
+  baking:
+    name: In de oven
+    lore:
+    - Gebruik het ovenaanrecht van de keuken om dit item te maken.

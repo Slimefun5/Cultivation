@@ -1,0 +1,87 @@
+cultivation:
+  bush_harvest:
+    name: Raccolta da cespuglio
+    lore:
+    - Questo oggetto si raccoglie da un
+    - cespuglio di Cultivation
+  tree_harvest:
+    name: Raccolta da albero
+    lore:
+    - Questo oggetto si raccoglie da un
+    - albero di Cultivation
+  trading_farmer:
+    name: Commercio con i villici
+    lore:
+    - Questo oggetto si compra da un
+    - villico contadino.
+  trading_fletcher:
+    name: Commercio con i villici
+    lore:
+    - Questo oggetto si compra da un
+    - villico fabbricafrecce.
+  mob:
+    name: Drop di creature
+    lore:
+    - Questo oggetto può essere rilasciato
+    - dalle seguenti creature.
+  plant_breeding:
+    name: Incrocio di piante
+    lore:
+    - Questo seme si ottiene con gli incroci.
+    - Le piante si incrociano piazzando
+    - due piante con un blocco d'aria
+    - in mezzo.
+    - ''
+    - Il dizionario degli incroci serve
+    - a tenere traccia delle tue scoperte.
+    - ''
+    - 'Suggerimento: le particelle nere indicano'
+    - che le due piante NON possono incrociarsi.
+  vanilla_block_drop:
+    name: Drop dal mondo
+    lore:
+    - Cade dai blocchi quando vengono rotti nel mondo.
+  bucketing:
+    name: Drop dal mondo
+    lore:
+    - Si ottiene dal mondo usando un secchio.
+  chopped:
+    name: Tritato
+    lore:
+    - Basta tritarlo con un coltello!
+  mashed:
+    name: Schiacciato
+    lore:
+    - Schiaccia schiaccia schiaccia
+  blended:
+    name: Frullato
+    lore:
+    - Si ottiene mettendo un oggetto nel frullatore.
+  sliced:
+    name: Affettato
+    lore:
+    - Sottile e delicato
+  ground:
+    name: Macinato
+    lore:
+    - Fino a una grana finissima
+  boiled:
+    name: Bollito
+    lore:
+    - Scotta scotta scotta!
+  fried:
+    name: Fritto
+    lore:
+    - Croccantezza perfetta.
+  grilled:
+    name: Grigliato
+    lore:
+    - Succoso e tenero.
+  finishing:
+    name: Rifinitura
+    lore:
+    - Usa il bancone di rifinitura della cucina per creare questo oggetto.
+  baking:
+    name: Cottura al forno
+    lore:
+    - Usa il bancone con forno della cucina per creare questo oggetto.

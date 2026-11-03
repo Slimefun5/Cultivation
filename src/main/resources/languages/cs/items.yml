@@ -1,0 +1,6674 @@
+CLT_APRICOT:
+  name: Meruňka
+  type:
+  - '&7&oÚroda'
+  description:
+  - Dají se z nich vyrobit Pokébally.
+  - '...'
+  - Jak to myslíš, že to je něco jiného...?
+CLT_ARTICHOKE:
+  name: Artyčok
+  type:
+  - '&7&oÚroda'
+  description:
+  - Vyrvi mu SRDCE!
+CLT_ASPARAGUS:
+  name: Chřest
+  type:
+  - '&7&oÚroda'
+  description:
+  - Opatrně, až půjdeš později na záchod.
+CLT_AUBERGINE:
+  name: Lilek
+  type:
+  - '&7&oÚroda'
+  description:
+  - Jasně fialový a na 100% NE ve tvaru vejce.
+  - Tak proč mu Angličani říkají vaječná rostlina?
+CLT_AVOCADO:
+  name: Avokádo
+  type:
+  - '&7&oÚroda'
+  description:
+  - O čem sní hipsteři.
+CLT_BACON_SANDWICH:
+  name: Sendvič se slaninou
+  type:
+  - '&7&oJídlo'
+  description:
+  - Jednoduchá klasika!
+  stats:
+  - '&8⇨ &7Léčení: &b2 srdce'
+  - '&8⇨ &bSíla I &7(10:00)'
+  - '&8⇨ &bSvižnost I &7(10:00)'
+CLT_BAGEL:
+  name: Bagel
+  type:
+  - '&7&oJídlo'
+  description:
+  - Opečený? Nebo...
+  stats:
+  - '&8⇨ &7Léčení: &b2.5 srdce'
+CLT_BAGEL_BITE:
+  name: Mini pizza bagel
+  type:
+  - '&7&oJídlo'
+  description:
+  - Pizza kdykoli se ti zachce!
+  stats:
+  - '&8⇨ &7Pálí tě v puse při každém soustu!'
+CLT_BAGEL_CREAM_CHEESE:
+  name: Bagel se smetanovým sýrem
+  type:
+  - '&7&oJídlo'
+  description:
+  - Je tak dobrý, že si nejspíš dáš ještě jeden.
+  stats:
+  - '&8⇨ &7Léčení: &b5 srdcí'
+  - '&8⇨ &bZesílení zdraví I &7(10:00)'
+CLT_BANANA:
+  name: Banán
+  type:
+  - '&7&oÚroda'
+  description:
+  - Tak banální, a přesto tak krásný!
+CLT_BASIL:
+  name: Bazalka
+  type:
+  - '&7&oÚroda'
+  description:
+  - Sladký lístek s jemně pepřovou dochutí.
+CLT_BAY_LEAF:
+  name: Bobkový list
+  type:
+  - '&7&oÚroda'
+  description:
+  - Silná aromatická bylinka s mnoha využitími.
+CLT_BELL_PEPPER:
+  name: Paprika
+  type:
+  - '&7&oÚroda'
+  description:
+  - Zní to pravdivě jako zvon.
+CLT_BISCUIT:
+  name: Sušenka
+  type:
+  - '&7&oJídlo'
+  description:
+  - Malá svačinka s obrovskou chutí.
+  stats: &id002
+  - '&8⇨ &7Vystřelí tě do vzduchu'
+CLT_BISCUIT_BASE:
+  name: Sušenkový korpus
+  type:
+  - '&7&oÚroda'
+  description:
+  - To, že je teď placatý, ještě neznamená,
+  - že ho můžeš jíst syrový.
+CLT_BISCUIT_DOUGH:
+  name: Sušenkové těsto
+  type:
+  - '&7&oÚroda'
+  description:
+  - 'Pořád si opakuj: "Nejez to syrové."'
+CLT_BLACK_BEANS:
+  name: Černé fazole
+  type:
+  - '&7&oÚroda'
+  description:
+  - Lahodná vegetariánská bílkovina.
+CLT_BLENDED_APPLE:
+  name: Mixované jablko
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_APRICOT:
+  name: Mixovaná meruňka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_ARTICHOKE:
+  name: Mixovaný artyčok
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_ASPARAGUS:
+  name: Mixovaný chřest
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_AUBERGINE:
+  name: Mixovaný lilek
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_AVOCADO:
+  name: Mixované avokádo
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_BANANA:
+  name: Mixovaný banán
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_BASIL:
+  name: Mixovaná bazalka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_BAY_LEAF:
+  name: Mixovaný bobkový list
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_BEEF:
+  name: Mixované hovězí maso
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_BEETROOT:
+  name: Mixovaná červená řepa
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_BELL_PEPPER:
+  name: Mixovaná paprika
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_BLACK_BEANS:
+  name: Mixované černé fazole
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_BREAD:
+  name: Mixovaný chléb
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_BROCCOLI:
+  name: Mixovaná brokolice
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_BROWN_MUSHROOM:
+  name: Mixovaný hřib
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_BRUSSELS_SPROUTS:
+  name: Mixovaná růžičková kapusta
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_CABBAGE:
+  name: Mixované zelí
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_CARROT:
+  name: Mixovaná mrkev
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_CAULIFLOWER:
+  name: Mixovaný květák
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_CAYENNE_PEPPER:
+  name: Mixovaný kajenský pepř
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_CELERIAC:
+  name: Mixovaný bulvový celer
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_CELERY:
+  name: Mixovaný řapíkatý celer
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_CHERRY:
+  name: Mixovaná třešeň
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_CHESTNUT:
+  name: Mixovaný kaštan
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_CHICKEN:
+  name: Mixované kuře
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_CHICKPEAS:
+  name: Mixovaná cizrna
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_CHICORY:
+  name: Mixovaná čekanka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_CHILLY_PEPPER:
+  name: Mixovaná chilli paprička
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_CHIVES:
+  name: Mixovaná pažitka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_CHORUS_FRUIT:
+  name: Mixovaný plod chorusu
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_CILANTRO:
+  name: Mixovaný koriandr
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_CINNAMON:
+  name: Mixovaná skořice
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_CLOVE:
+  name: Mixovaný hřebíček
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_COCOA_BEANS:
+  name: Mixované kakaové boby
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_COD:
+  name: Mixovaná treska
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_COURGETTE:
+  name: Mixovaná cuketa
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_CUCUMBER:
+  name: Mixovaná okurka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_CUMIN:
+  name: Mixovaný kmín
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_CURRY_LEAF:
+  name: Mixovaný kari list
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_DILL:
+  name: Mixovaný kopr
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_EGG:
+  name: Mixované vajíčko
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_ENCHANTED_GOLDEN_APPLE:
+  name: Mixované očarované zlaté jablko
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_FENNEL:
+  name: Mixovaný fenykl
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_GARLIC:
+  name: Mixovaný česnek
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_GINGER:
+  name: Mixovaný zázvor
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_GLOW_BERRIES:
+  name: Mixované zářinky
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_GOLDEN_APPLE:
+  name: Mixované zlaté jablko
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_GOLDEN_CARROT:
+  name: Mixovaná zlatá mrkev
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_GRAPE:
+  name: Mixovaný hrozen
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_GREEN_APPLE:
+  name: Mixované zelené jablko
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_GREEN_BEANS:
+  name: Mixované zelené fazolky
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_GREEN_ONION:
+  name: Mixovaná jarní cibulka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_HAZELNUT:
+  name: Mixovaný lískový oříšek
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_HORSERADISH:
+  name: Mixovaný křen
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_JALAPENO:
+  name: Mixované jalapeño
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_JASMINE:
+  name: Mixovaný jasmín
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_JUNIPER_BERRY:
+  name: Mixované jalovcové bobule
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_KAFFIR_LIME:
+  name: Mixovaný list kafírové limety
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_KALE:
+  name: Mixovaný kadeřávek
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_KELP:
+  name: Mixovaná chaluha
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_KIWI:
+  name: Mixované kiwi
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_LAVENDER:
+  name: Mixovaná levandule
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_LEEK:
+  name: Mixovaný pórek
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_LEMON:
+  name: Mixovaný citron
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_LETTUCE:
+  name: Mixovaný hlávkový salát
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_LICORICE:
+  name: Mixovaná lékořice
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_LIME:
+  name: Mixovaná limeta
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_MACE:
+  name: Mixovaný muškátový květ
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_MANGO:
+  name: Mixované mango
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_MARJORAM:
+  name: Mixovaná majoránka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_MARROW:
+  name: Mixovaná tykev
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_MELON:
+  name: Mixovaný meloun
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_MINT:
+  name: Mixovaná máta
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_MUSTARD_SEEDS:
+  name: Mixované hořčičné semínko
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_MUTTON:
+  name: Mixované skopové
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_NETTLES:
+  name: Mixované kopřivy
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_OKRA:
+  name: Mixovaná okra
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_ONION:
+  name: Mixovaná cibule
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_ORANGE:
+  name: Mixovaný pomeranč
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_OREGANO:
+  name: Mixované oregano
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_PARSLEY:
+  name: Mixovaná petržel
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_PARSNIP:
+  name: Mixovaný pastinák
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_PEA:
+  name: Mixovaný hrášek
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_PEACH:
+  name: Mixovaná broskev
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_PEANUT:
+  name: Mixovaný arašíd
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_PEAR:
+  name: Mixovaná hruška
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_PECAN:
+  name: Mixovaný pekanový ořech
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_PEPPER:
+  name: Mixovaný černý pepř
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_PEPPERONI:
+  name: Mixovaný pepperoni salám
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_PINEAPPLE:
+  name: Mixovaný ananas
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_PINTO_BEANS:
+  name: Mixované fazole pinto
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_PORKCHOP:
+  name: Mixovaná kotleta
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_POTATO:
+  name: Mixovaná brambora
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_PUFFERFISH:
+  name: Mixovaný čtverzubec
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_PUMPKIN:
+  name: Mixovaná dýně
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_RABBIT:
+  name: Mixovaný králík
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_RADDISH:
+  name: Mixovaná ředkvička
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_RADICCHIO:
+  name: Mixované radicchio
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_RAPESEED:
+  name: Mixovaná řepka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_RED_MUSHROOM:
+  name: Mixovaná muchomůrka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_RHUBARB:
+  name: Mixovaná rebarbora
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_RICE:
+  name: Mixovaná rýže
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_ROSEMARY:
+  name: Mixovaný rozmarýn
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_ROTTEN_FLESH:
+  name: Mixované shnilé maso
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_RUNNER_BEANS:
+  name: Mixované šarlatové fazole
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_RUTABAGA:
+  name: Mixovaný tuřín
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_SALMON:
+  name: Mixovaný losos
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_SASSAFRAS:
+  name: Mixovaný sassafras
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_SHALLOT:
+  name: Mixovaná šalotka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_SHISO:
+  name: Mixovaná perila
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_SOY_BEANS:
+  name: Mixované sójové boby
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_SPINACH:
+  name: Mixovaný špenát
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_STAR_ANISE:
+  name: Mixovaný badyán
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_STRAWBERRY:
+  name: Mixovaná jahoda
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_SUGAR:
+  name: Mixovaný cukr
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_SWEETCORN:
+  name: Mixovaná kukuřice
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_SWEET_BERRIES:
+  name: Mixované sladké bobule
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_SWEET_POTATO:
+  name: Mixovaný batát
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_TARRAGON:
+  name: Mixovaný estragon
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_THYME:
+  name: Mixovaný tymián
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_TOMATO:
+  name: Mixované rajče
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_TURMERIC:
+  name: Mixovaná kurkuma
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_TURNIP:
+  name: Mixovaná vodnice
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_VANILLA:
+  name: Mixovaná vanilka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_WASABI:
+  name: Mixované wasabi
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLENDED_WHEAT:
+  name: Mixovaná pšenice
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BLUE_CANDY:
+  name: Modrý bonbon
+  type:
+  - '&7&oJídlo'
+  description:
+  - Rozkošně sladký bonbon.
+  stats:
+  - '&8⇨ &7Přivolá pomocníčka'
+CLT_BOILED_APPLE:
+  name: Vařené jablko
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_APRICOT:
+  name: Vařená meruňka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_ARTICHOKE:
+  name: Vařený artyčok
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_ASPARAGUS:
+  name: Vařený chřest
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_AUBERGINE:
+  name: Vařený lilek
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_AVOCADO:
+  name: Vařené avokádo
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_BANANA:
+  name: Vařený banán
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_BASIL:
+  name: Vařená bazalka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_BAY_LEAF:
+  name: Vařený bobkový list
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_BEEF:
+  name: Vařené hovězí maso
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_BEETROOT:
+  name: Vařená červená řepa
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_BELL_PEPPER:
+  name: Vařená paprika
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_BLACK_BEANS:
+  name: Vařené černé fazole
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_BREAD:
+  name: Vařený chléb
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_BROCCOLI:
+  name: Vařená brokolice
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_BROWN_MUSHROOM:
+  name: Vařený hřib
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_BRUSSELS_SPROUTS:
+  name: Vařená růžičková kapusta
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_CABBAGE:
+  name: Vařené zelí
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_CARROT:
+  name: Vařená mrkev
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_CAULIFLOWER:
+  name: Vařený květák
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_CAYENNE_PEPPER:
+  name: Vařený kajenský pepř
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_CELERIAC:
+  name: Vařený bulvový celer
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_CELERY:
+  name: Vařený řapíkatý celer
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_CHERRY:
+  name: Vařená třešeň
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_CHESTNUT:
+  name: Vařený kaštan
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_CHICKEN:
+  name: Vařené kuře
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_CHICKPEAS:
+  name: Vařená cizrna
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_CHICORY:
+  name: Vařená čekanka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_CHILLY_PEPPER:
+  name: Vařená chilli paprička
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_CHIVES:
+  name: Vařená pažitka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_CHORUS_FRUIT:
+  name: Vařený plod chorusu
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_CILANTRO:
+  name: Vařený koriandr
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_CINNAMON:
+  name: Vařená skořice
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_CLOVE:
+  name: Vařený hřebíček
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_COCOA_BEANS:
+  name: Vařené kakaové boby
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_COD:
+  name: Vařená treska
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_COURGETTE:
+  name: Vařená cuketa
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_CUCUMBER:
+  name: Vařená okurka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_CUMIN:
+  name: Vařený kmín
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_CURRY_LEAF:
+  name: Vařený kari list
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_DILL:
+  name: Vařený kopr
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_EGG:
+  name: Vařené vajíčko
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_ENCHANTED_GOLDEN_APPLE:
+  name: Vařené očarované zlaté jablko
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_FENNEL:
+  name: Vařený fenykl
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_GARLIC:
+  name: Vařený česnek
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_GINGER:
+  name: Vařený zázvor
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_GLOW_BERRIES:
+  name: Vařené zářinky
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_GOLDEN_APPLE:
+  name: Vařené zlaté jablko
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_GOLDEN_CARROT:
+  name: Vařená zlatá mrkev
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_GRAPE:
+  name: Vařený hrozen
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_GREEN_APPLE:
+  name: Vařené zelené jablko
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_GREEN_BEANS:
+  name: Vařené zelené fazolky
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_GREEN_ONION:
+  name: Vařená jarní cibulka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_HAZELNUT:
+  name: Vařený lískový oříšek
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_HORSERADISH:
+  name: Vařený křen
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_JALAPENO:
+  name: Vařené jalapeño
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_JASMINE:
+  name: Vařený jasmín
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_JUNIPER_BERRY:
+  name: Vařené jalovcové bobule
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_KAFFIR_LIME:
+  name: Vařený list kafírové limety
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_KALE:
+  name: Vařený kadeřávek
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_KELP:
+  name: Vařená chaluha
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_KIWI:
+  name: Vařené kiwi
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_LAVENDER:
+  name: Vařená levandule
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_LEEK:
+  name: Vařený pórek
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_LEMON:
+  name: Vařený citron
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_LETTUCE:
+  name: Vařený hlávkový salát
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_LICORICE:
+  name: Vařená lékořice
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_LIME:
+  name: Vařená limeta
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_MACE:
+  name: Vařený muškátový květ
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_MANGO:
+  name: Vařené mango
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_MARJORAM:
+  name: Vařená majoránka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_MARROW:
+  name: Vařená tykev
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_MELON:
+  name: Vařený meloun
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_MINT:
+  name: Vařená máta
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_MUSTARD_SEEDS:
+  name: Vařené hořčičné semínko
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_MUTTON:
+  name: Vařené skopové
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_NETTLES:
+  name: Vařené kopřivy
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_OKRA:
+  name: Vařená okra
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_ONION:
+  name: Vařená cibule
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_ORANGE:
+  name: Vařený pomeranč
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_OREGANO:
+  name: Vařené oregano
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_PARSLEY:
+  name: Vařená petržel
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_PARSNIP:
+  name: Vařený pastinák
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_PEA:
+  name: Vařený hrášek
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_PEACH:
+  name: Vařená broskev
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_PEANUT:
+  name: Vařený arašíd
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_PEAR:
+  name: Vařená hruška
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_PECAN:
+  name: Vařený pekanový ořech
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_PEPPER:
+  name: Vařený černý pepř
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_PEPPERONI:
+  name: Vařený pepperoni salám
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_PINEAPPLE:
+  name: Vařený ananas
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_PINTO_BEANS:
+  name: Vařené fazole pinto
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_PORKCHOP:
+  name: Vařená kotleta
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_POTATO:
+  name: Vařená brambora
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_PUFFERFISH:
+  name: Vařený čtverzubec
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_PUMPKIN:
+  name: Vařená dýně
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_RABBIT:
+  name: Vařený králík
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_RADDISH:
+  name: Vařená ředkvička
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_RADICCHIO:
+  name: Vařené radicchio
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_RAPESEED:
+  name: Vařená řepka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_RED_MUSHROOM:
+  name: Vařená muchomůrka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_RHUBARB:
+  name: Vařená rebarbora
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_RICE:
+  name: Vařená rýže
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_ROSEMARY:
+  name: Vařený rozmarýn
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_ROTTEN_FLESH:
+  name: Vařené shnilé maso
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_RUNNER_BEANS:
+  name: Vařené šarlatové fazole
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_RUTABAGA:
+  name: Vařený tuřín
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_SALMON:
+  name: Vařený losos
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_SASSAFRAS:
+  name: Vařený sassafras
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_SHALLOT:
+  name: Vařená šalotka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_SHISO:
+  name: Vařená perila
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_SOY_BEANS:
+  name: Vařené sójové boby
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_SPINACH:
+  name: Vařený špenát
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_STAR_ANISE:
+  name: Vařený badyán
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_STRAWBERRY:
+  name: Vařená jahoda
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_SUGAR:
+  name: Vařený cukr
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_SWEETCORN:
+  name: Vařená kukuřice
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_SWEET_BERRIES:
+  name: Vařené sladké bobule
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_SWEET_POTATO:
+  name: Vařený batát
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_TARRAGON:
+  name: Vařený estragon
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_THYME:
+  name: Vařený tymián
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_TOMATO:
+  name: Vařené rajče
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_TURMERIC:
+  name: Vařená kurkuma
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_TURNIP:
+  name: Vařená vodnice
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_VANILLA:
+  name: Vařená vanilka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_WASABI:
+  name: Vařené wasabi
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOILED_WHEAT:
+  name: Vařená pšenice
+  type:
+  - '&7&oVedlejší produkt'
+CLT_BOWL_OF_STEVE:
+  name: Miska... Steva?
+  type:
+  - '&7&oJídlo'
+  description:
+  - Co to sakra &%£$
+  stats:
+  - '&8⇨ &bÚnava z těžby X &7(10:00)'
+  - '&8⇨ &bZpomalení VI &7(10:00)'
+  - '&8⇨ &bSíla X &7(10:00)'
+  - '&8⇨ &7Sníží tvé zdraví na 1/2 srdce'
+CLT_BROCCOLI:
+  name: Brokolice
+  type:
+  - '&7&oÚroda'
+  description:
+  - Jsi obr, který drží strom?
+  - Kdepak, jen malinký stromeček :)
+CLT_BRUSSELS_SPROUTS:
+  name: Růžičková kapusta
+  type:
+  - '&7&oÚroda'
+  description:
+  - Nadýmavá lahůdka.
+CLT_BUSH_ARTICHOKE:
+  name: Keř artyčoku
+  type:
+  - '&7&oKeř'
+  description:
+  - Zdaleka nejlepší keř, kterým uškrtit umělce.
+  - Art-yčok. Ach jo. Slovní hříčky jsou těžké.
+CLT_BUSH_ASPARAGUS:
+  name: Keř chřestu
+  type:
+  - '&7&oKeř'
+  description:
+  - Tenhle keř chřestu se umí plížit
+  - jen po stoncích!
+CLT_BUSH_AUBERGINE:
+  name: Keř lilku
+  type:
+  - '&7&oKeř'
+  description:
+  - Odmítám mu říkat vaječná rostlina. Prostě odmítám.
+CLT_BUSH_AVOCADO:
+  name: Keř avokáda
+  type:
+  - '&7&oKeř'
+  description:
+  - Tento keř byl vyšlechtěn speciálně tak, aby
+  - nespotřeboval příliš vody.
+CLT_BUSH_BASIL:
+  name: Keř bazalky
+  type:
+  - '&7&oKeř'
+  description:
+  - Bezstarostný keř plný rozmarů.
+CLT_BUSH_BAY_LEAF:
+  name: Keř vavřínu
+  type:
+  - '&7&oKeř'
+  description:
+  - Vůně tohoto keře se nese na kilometry daleko.
+CLT_BUSH_BELL_PEPPER:
+  name: Keř papriky
+  type:
+  - '&7&oKeř'
+  description:
+  - Opatrně, když jdeš kolem, mohl bys
+  - rozezvonit zvonek.
+CLT_BUSH_BLACK_BEANS:
+  name: Keř černých fazolí
+  type:
+  - '&7&oKeř'
+  description:
+  - 'Tento keř ti jemně šeptá:'
+  - Jsi skvělá lidská fazolka.
+CLT_BUSH_BROCCOLI:
+  name: Keř brokolice
+  type:
+  - '&7&oKeř'
+  description:
+  - Malé stromky, které se dají jíst? Kdo tohle vymyslel!?
+CLT_BUSH_BRUSSELS_SPROUTS:
+  name: Keř růžičkové kapusty
+  type:
+  - '&7&oKeř'
+  description:
+  - Keř, který občas vypouští
+  - jedovaté plyny.
+CLT_BUSH_CABBAGE:
+  name: Keř zelí
+  type:
+  - '&7&oKeř'
+  description:
+  - Keř, u kterého je ti nakonec
+  - všechno jedno zelí.
+CLT_BUSH_CAULIFLOWER:
+  name: Keř květáku
+  type:
+  - '&7&oKeř'
+  description:
+  - Keř, který dokáže vytvářet malé obláčky
+  - radosti.
+CLT_BUSH_CAYENNE_PEPPER:
+  name: Keř kajenského pepře
+  type:
+  - '&7&oKeř'
+  description:
+  - Keř s peprnou povahou.
+CLT_BUSH_CELERIAC:
+  name: Keř bulvového celeru
+  type:
+  - '&7&oKeř'
+  description:
+  - Zase další kořen, který roste na keři?
+  - SefiDumb™
+CLT_BUSH_CELERY:
+  name: Keř řapíkatého celeru
+  type:
+  - '&7&oKeř'
+  description:
+  - Tento keř je zbytečný.
+  - Sefi nemá rád celer.
+CLT_BUSH_CHICKPEAS:
+  name: Keř cizrny
+  type:
+  - '&7&oKeř'
+  description:
+  - Keř vzniklý zkřížením kuřete
+  - s hráškem. VĚDA.
+CLT_BUSH_CHICORY:
+  name: Keř čekanky
+  type:
+  - '&7&oKeř'
+  description:
+  - Myslel jsem, že čekanka je kořen? Dělá tenhle addon
+  - vůbec nějaký průzkum!?
+CLT_BUSH_CHILLI_PEPPER:
+  name: Keř chilli papričky
+  type:
+  - '&7&oKeř'
+  description:
+  - Už jen pohled na tenhle keř mi pálí jazyk.
+CLT_BUSH_CHIVES:
+  name: Keř pažitky
+  type:
+  - '&7&oKeř'
+  description:
+  - Keř, který produkuje v podstatě
+  - nejmenší cibuli na světě.
+CLT_BUSH_CILANTRO:
+  name: Keř koriandru
+  type:
+  - '&7&oKeř'
+  description:
+  - Z tohoto keře se line slabá vůně citrusů a koření.
+CLT_BUSH_CINNAMON:
+  name: Keř skořice
+  type:
+  - '&7&oKeř'
+  description:
+  - Rozkošně voňavý keř.
+CLT_BUSH_CLOVE:
+  name: Keř hřebíčku
+  type:
+  - '&7&oKeř'
+  description:
+  - Keř, který mi prostě připomíná Vánoce.
+CLT_BUSH_COURGETTE:
+  name: Keř cukety
+  type:
+  - '&7&oKeř'
+  description:
+  - Proč tenhle keř pořád křičí slovo
+  - Zucchini? Asi bude z Ameriky?
+CLT_BUSH_CUCUMBER:
+  name: Keř okurky
+  type:
+  - '&7&oKeř'
+  description:
+  - Tento keř byl navržen výhradně pro účely
+  - tvých krásných letních salátů.
+CLT_BUSH_CUMIN:
+  name: Keř kmínu
+  type:
+  - '&7&oKeř'
+  description:
+  - Keř, který vydává hřejivou citrusovou vůni.
+CLT_BUSH_CURRY_LEAF:
+  name: Keř kari listu
+  type:
+  - '&7&oKeř'
+  description:
+  - Nejlepší opražený nasucho.
+CLT_BUSH_DILL:
+  name: Keř kopru
+  type:
+  - '&7&oKeř'
+  description:
+  - Tento keř roste mnohem rychleji než ostatní.
+CLT_BUSH_FENNEL:
+  name: Keř fenyklu
+  type:
+  - '&7&oKeř'
+  description:
+  - Proč tenhle keř odpuzuje hmyz!?
+CLT_BUSH_GARLIC:
+  name: Keř česneku
+  type:
+  - '&7&oKeř'
+  description:
+  - Tenhle keř má prostě ten nejhorší dech.
+CLT_BUSH_GINGER:
+  name: Keř zázvoru
+  type:
+  - '&7&oKeř'
+  description:
+  - Tento keř je výborný uvařený vcelku.
+CLT_BUSH_GRAPE:
+  name: Keř vinné révy
+  type:
+  - '&7&oKeř'
+  description:
+  - Zralé a šťavnaté hrozny, které z keře
+  - prakticky samy padají.
+CLT_BUSH_GREEN_BEANS:
+  name: Keř zelených fazolek
+  type:
+  - '&7&oKeř'
+  description:
+  - Polij tenhle keř rajčatovou omáčkou
+  - a máš fazole v tomatě.
+CLT_BUSH_GREEN_ONION:
+  name: Keř jarní cibulky
+  type:
+  - '&7&oKeř'
+  description:
+  - Známá také jako lahůdková cibulka.
+  - Jarní cibulka mívá obvykle
+  - jemnější chuť než většina cibulí.
+CLT_BUSH_HORSERADISH:
+  name: Keř křenu
+  type:
+  - '&7&oKeř'
+  description:
+  - Zase, tohle na keři prostě nedává smysl.
+CLT_BUSH_JALAPENO:
+  name: Keř jalapeña
+  type:
+  - '&7&oKeř'
+  description:
+  - Už jen držení tohoto keře ti dává
+  - 1% šanci, že vzplaneš.
+CLT_BUSH_JASMINE:
+  name: Keř jasmínu
+  type:
+  - '&7&oKeř'
+  description:
+  - Vůně tohoto keře je tak jemná a vlídná.
+CLT_BUSH_JUNIPER_BERRY:
+  name: Keř jalovce
+  type:
+  - '&7&oKeř'
+  description:
+  - Na keři tak sladký, usušený pepřový.
+CLT_BUSH_KAFFIR_LIME:
+  name: Keř kafírové limety
+  type:
+  - '&7&oKeř'
+  description:
+  - Keř, jehož listy jsou žádanější než jeho plody.
+CLT_BUSH_KALE:
+  name: Keř kadeřávku
+  type:
+  - '&7&oKeř'
+  description:
+  - Když zasadíš tenhle keř, máš pocit,
+  - že všechno dopadne kadeřávkově dobře.
+CLT_BUSH_LAVENDER:
+  name: Keř levandule
+  type:
+  - '&7&oKeř'
+  description:
+  - Tento keř šíří svou vůni úplně všude.
+CLT_BUSH_LEEK:
+  name: Keř pórku
+  type:
+  - '&7&oKeř'
+  description:
+  - Věděl jsi, že pórek je jen cibule, která
+  - nosí korzet? Pravdivý příběh.
+CLT_BUSH_LETTUCE:
+  name: Keř hlávkového salátu
+  type:
+  - '&7&oKeř'
+  description:
+  - Roste salát vůbec na keřích?
+  - 'Spoiler: Ne, neroste.'
+CLT_BUSH_LICORICE:
+  name: Keř lékořice
+  type:
+  - '&7&oKeř'
+  description:
+  - Fuj
+CLT_BUSH_MACE:
+  name: Keř muškátového květu
+  type:
+  - '&7&oKeř'
+  description:
+  - Zdá se, že tento keř odpuzuje útočníky?
+CLT_BUSH_MARJORAM:
+  name: Keř majoránky
+  type:
+  - '&7&oKeř'
+  description:
+  - Velký keř vonící dřevem.
+CLT_BUSH_MARROW:
+  name: Keř tykve
+  type:
+  - '&7&oKeř'
+  description:
+  - Divím se, že tenhle keř vůbec unese
+  - svou vlastní váhu.
+CLT_BUSH_MINT:
+  name: Keř máty
+  type:
+  - '&7&oKeř'
+  description:
+  - Prostě nejlépe vonící keř.
+CLT_BUSH_MUSTARD:
+  name: Keř hořčičného semínka
+  type:
+  - '&7&oKeř'
+  description:
+  - Jako oheň v puse.
+CLT_BUSH_NETTLES:
+  name: Keř kopřiv
+  type:
+  - '&7&oKeř'
+  description:
+  - Dávej pozor, když procházíš tímto keřem!
+CLT_BUSH_OKRA:
+  name: Keř okry
+  type:
+  - '&7&oKeř'
+  description:
+  - Zvolena zeleninou číslo 1 podle
+  - Zeleninového klubu Okry Winfreyové.
+CLT_BUSH_ONION:
+  name: Keř cibule
+  type:
+  - '&7&oKeř'
+  description:
+  - Nevypadá ten keř, jako by se mu draly slzy do očí?
+CLT_BUSH_OREGANO:
+  name: Keř oregana
+  type:
+  - '&7&oKeř'
+  description:
+  - Tento štiplavě páchnoucí keř odrazuje návštěvníky.
+CLT_BUSH_PARSLEY:
+  name: Keř petržele
+  type:
+  - '&7&oKeř'
+  description:
+  - Hoď tenhle keř do lávy, hned :D
+CLT_BUSH_PARSNIP:
+  name: Keř pastináku
+  type:
+  - '&7&oKeř'
+  description:
+  - Vynech prostředníka a opraž rovnou
+  - celý keř.
+CLT_BUSH_PEA:
+  name: Keř hrášku
+  type:
+  - '&7&oKeř'
+  description:
+  - Já mám radši Q
+CLT_BUSH_PEANUTS:
+  name: Keř arašídů
+  type:
+  - '&7&oKeř'
+  description: &id001
+  - Pevné, voňavé a plné bílkovin.
+CLT_BUSH_PEPPER:
+  name: Keř černého pepře
+  type:
+  - '&7&oKeř'
+  description:
+  - Černý pepř byl důležitou součástí
+  - obchodu s kořením mezi Indií a Evropou
+  - už v dobách Řeků a Římanů.
+CLT_BUSH_PINTO_BEANS:
+  name: Keř fazolí pinto
+  type:
+  - '&7&oKeř'
+  description:
+  - Už brzy se nám jistě podaří vyšlechtit
+  - keř, na kterém rostou rovnou burrita, ne?
+CLT_BUSH_RADDISH:
+  name: Keř ředkvičky
+  type:
+  - '&7&oKeř'
+  description:
+  - Tahle rostlina právě předvedla trik na skejtu.
+  - Prostě ředkvělé.
+CLT_BUSH_RADICCHIO:
+  name: Keř radicchia
+  type:
+  - '&7&oKeř'
+  description:
+  - Chceš působit nóbl? Dej radicchio do jakéhokoli
+  - jídla, je to v podstatě zelí, ale
+  - budeš vypadat jako labužník.
+CLT_BUSH_RAPESEED:
+  name: Keř řepky
+  type:
+  - '&7&oKeř'
+  description:
+  - Tento keř vylučuje nějakou olejovitou látku.
+CLT_BUSH_RHUBARB:
+  name: Keř rebarbory
+  type:
+  - '&7&oKeř'
+  description:
+  - Věděl jsi, že rebarbora je zelenina?
+  - Myslel jsem, že je to druh kladiva.
+CLT_BUSH_RICE:
+  name: Keř rýže
+  type:
+  - '&7&oKeř'
+  description:
+  - Základní potravina všech dob.
+CLT_BUSH_ROSEMARY:
+  name: Keř rozmarýnu
+  type:
+  - '&7&oKeř'
+  description:
+  - Keř, jehož vůně lidem připomíná nedělní obědy.
+CLT_BUSH_RUNNER_BEANS:
+  name: Keř šarlatových fazolí
+  type:
+  - '&7&oKeř'
+  description:
+  - Tenhle keř má nohy o.o?
+CLT_BUSH_RUTABAGA:
+  name: Keř tuřínu
+  type:
+  - '&7&oKeř'
+  description:
+  - Tuřín. Britové mu říkají Švéd.
+CLT_BUSH_SASSAFRAS:
+  name: Keř sassafrasu
+  type:
+  - '&7&oKeř'
+  description:
+  - Tenhle keř miluje, když roste poblíž malých
+  - vodních ploch.
+CLT_BUSH_SHALLOT:
+  name: Keř šalotky
+  type:
+  - '&7&oKeř'
+  description:
+  - Tento keř rychle produkuje krásné mini cibulky.
+  - Šalotka sem, šalotka tam, pořád jich je dost.
+CLT_BUSH_SHISO:
+  name: Keř perily
+  type:
+  - '&7&oKeř'
+  description:
+  - Rád si představuji, že je tenhle keř dítětem lásky
+  - keře máty a keře bazalky. Škoda, že
+  - křížení keřů neexistuje!
+CLT_BUSH_SOY_BEANS:
+  name: Keř sójových bobů
+  type:
+  - '&7&oKeř'
+  description:
+  - Tento keř je přátelská lahůdka. Dělá mě
+  - tak sójově šťastným.
+CLT_BUSH_SPINACH:
+  name: Keř špenátu
+  type:
+  - '&7&oKeř'
+  description:
+  - Tento keř je nejlepší přítel pepka námořníka.
+CLT_BUSH_STAR_ANISE:
+  name: Keř badyánu
+  type:
+  - '&7&oKeř'
+  description:
+  - Z tohoto keře se line vůně tak typická
+  - pro anýz, že tomu ani neuvěříš.
+CLT_BUSH_STRAWBERRY:
+  name: Keř jahody
+  type:
+  - '&7&oKeř'
+  description: *id001
+CLT_BUSH_SWEETCORN:
+  name: Keř kukuřice
+  type:
+  - '&7&oKeř'
+  description:
+  - Tento keř přímo prosí, aby z něj někdo
+  - postavil bludiště.
+CLT_BUSH_SWEET_POTATO:
+  name: Keř batátu
+  type:
+  - '&7&oKeř'
+  description:
+  - Tenhle keř je tak sladký. Slyšel jsem, jak ti
+  - skládá komplimenty, když jsi neposlouchal.
+CLT_BUSH_TARRAGON:
+  name: Keř estragonu
+  type:
+  - '&7&oKeř'
+  description:
+  - Tento keř nerad přitahuje příliš pozornosti.
+CLT_BUSH_THYME:
+  name: Keř tymiánu
+  type:
+  - '&7&oKeř'
+  description:
+  - Tomuhle keři pořád dochází... tymián... *ehm* čas.
+CLT_BUSH_TOMATO:
+  name: Keř rajčete
+  type:
+  - '&7&oKeř'
+  description:
+  - Zralé a připravené.
+CLT_BUSH_TURMERIC:
+  name: Keř kurkumy
+  type:
+  - '&7&oKeř'
+  description:
+  - Jen co vezmeš tenhle keř do ruky,
+  - udeří tě do nosu vůně koření.
+CLT_BUSH_TURNIP:
+  name: Keř vodnice
+  type:
+  - '&7&oKeř'
+  description:
+  - Podle britské vlády
+  - tento keř vyřeší všechny naše problémy.
+CLT_BUSH_VANILLA:
+  name: Keř vanilky
+  type:
+  - '&7&oKeř'
+  description:
+  - Tento keř přirozeně roste poblíž poboček Starbucks.
+CLT_BUSH_WASABI:
+  name: Keř wasabi
+  type:
+  - '&7&oKeř'
+  description:
+  - Další kořen, který roste na keři?
+  - Ach jo...
+CLT_CABBAGE:
+  name: Zelí
+  type:
+  - '&7&oÚroda'
+  description:
+  - Zelí, kam se podíváš.
+CLT_CAESAR_SALAD:
+  name: Caesar salát
+  type:
+  - '&7&oJídlo'
+  description:
+  - Zdravá klasika.
+  stats:
+  - '&8⇨ &7Léčení: &b6 srdcí'
+  - '&8⇨ &bSvižnost I &7(10:00)'
+  - '&8⇨ &bNeviditelnost I &7(10:00)'
+  - '&8⇨ &bSnášení se I &7(10:00)'
+CLT_CAJUN_GARLIC_BUTTER_COD:
+  name: Treska na cajunském česnekovém másle
+  type:
+  - '&7&oJídlo'
+  description:
+  - Velmi jednoduché jídlo, které jen hýří chutí.
+  stats:
+  - '&8⇨ &7Léčení: &b4 srdce'
+  - '&8⇨ &bRegenerace II &7(10:00)'
+  - '&8⇨ &bSvižnost I &7(10:00)'
+CLT_CAULIFLOWER:
+  name: Květák
+  type:
+  - '&7&oÚroda'
+  description:
+  - Přenosný obláček!
+CLT_CAYENNE_PEPPER:
+  name: Kajenský pepř
+  type:
+  - '&7&oÚroda'
+  description:
+  - Jemně pikantní pochoutka.
+CLT_CELERIAC:
+  name: Bulvový celer
+  type:
+  - '&7&oÚroda'
+  description:
+  - Vydatný kořen, který je zakořeněný (he) v mnoha
+  - tradičních receptech.
+CLT_CELERY:
+  name: Řapíkatý celer
+  type:
+  - '&7&oÚroda'
+  description:
+  - Doslova jen vláknitá voda. Přesvědč
+  - mě o opaku.
+CLT_CHEESE_BURGER:
+  name: Burger
+  type:
+  - '&7&oJídlo'
+  description:
+  - Obyčejný cheeseburger, ale nic ho nepřekoná!
+  stats:
+  - '&8⇨ &7Léčení: &b4 srdce'
+  - '&8⇨ &bRegenerace III &7(10:00)'
+CLT_CHEESY_SCALLOPED_COURGETTE:
+  name: Zapečená cuketa se sýrem
+  type:
+  - '&7&oJídlo'
+  description:
+  - Nízkosacharidová verze úžasné klasiky.
+  stats:
+  - '&8⇨ &7Léčení: &b2 srdce'
+  - '&8⇨ &bVidění ve tmě I &7(10:00)'
+  - '&8⇨ &bNeviditelnost I &7(10:00)'
+CLT_CHERRY:
+  name: Třešeň
+  type:
+  - '&7&oÚroda'
+  description:
+  - Ach, myslel jsem, že rostou rovnou kandované, škoda!
+CLT_CHESTNUT:
+  name: Kaštan
+  type:
+  - '&7&oÚroda'
+  description:
+  - Navrženo k okamžitému upečení.
+CLT_CHICKEN_ALFREDO_MAC_AND_CHEESE:
+  name: Makaróny se sýrem a kuřetem Alfredo
+  type:
+  - '&7&oJídlo'
+  description:
+  - Nóbl obměna obyčejné klasiky.
+  stats:
+  - '&8⇨ &7Léčení: &b1 srdce'
+  - '&8⇨ &bOhnivzdornost II &7(10:00)'
+  - '&8⇨ &bOdolnost III &7(10:00)'
+CLT_CHICKEN_PASTA_BAKE:
+  name: Zapečené těstoviny s kuřetem
+  type:
+  - '&7&oJídlo'
+  description:
+  - Základ studentského jídelníčku.
+  stats:
+  - '&8⇨ &7Léčení: &b5 srdcí'
+  - '&8⇨ &bVidění ve tmě I &7(10:00)'
+  - '&8⇨ &bPodvodní dýchání I &7(10:00)'
+CLT_CHICKEN_POT_PIE:
+  name: Kuřecí slaný koláč
+  type:
+  - '&7&oJídlo'
+  description:
+  - Hřejivé jídlo, u kterého se cítíš jako doma.
+  stats:
+  - '&8⇨ &7Léčení: &b10 srdcí'
+  - '&8⇨ &bVyšší skoky II &7(10:00)'
+  - '&8⇨ &bSytost I &7(10:00)'
+CLT_CHICKPEAS:
+  name: Cizrna
+  type:
+  - '&7&oÚroda'
+  description:
+  - Black Eyed Peas umí zazpívat písničku, cizrna umí jen hummusit.
+CLT_CHICORY:
+  name: Čekanka
+  type:
+  - '&7&oÚroda'
+  description:
+  - Oříškový, hořký kořen.
+CLT_CHILLY_PEPPER:
+  name: Chilli paprička
+  type:
+  - '&7&oÚroda'
+  description:
+  - Sním celou papričku a nebudu u toho brečet.
+  - No, půlku.
+  - NOOOOO.... 1/4
+  - '...'
+  - Dobře, můžu si na ni sáhnout jazykem
+CLT_CHIVES:
+  name: Pažitka
+  type:
+  - '&7&oÚroda'
+  description:
+  - Sladká bylinka s chutí cibule.
+CLT_CHOPPED_APPLE:
+  name: Nasekané jablko
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_APRICOT:
+  name: Nasekaná meruňka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_ARTICHOKE:
+  name: Nasekaný artyčok
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_ASPARAGUS:
+  name: Nasekaný chřest
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_AUBERGINE:
+  name: Nasekaný lilek
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_AVOCADO:
+  name: Nasekané avokádo
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_BANANA:
+  name: Nasekaný banán
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_BASIL:
+  name: Nasekaná bazalka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_BAY_LEAF:
+  name: Nasekaný bobkový list
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_BEEF:
+  name: Nasekané hovězí maso
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_BEETROOT:
+  name: Nasekaná červená řepa
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_BELL_PEPPER:
+  name: Nasekaná paprika
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_BLACK_BEANS:
+  name: Nasekané černé fazole
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_BREAD:
+  name: Nasekaný chléb
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_BROCCOLI:
+  name: Nasekaná brokolice
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_BROWN_MUSHROOM:
+  name: Nasekaný hřib
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_BRUSSELS_SPROUTS:
+  name: Nasekaná růžičková kapusta
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_CABBAGE:
+  name: Nasekané zelí
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_CARROT:
+  name: Nasekaná mrkev
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_CAULIFLOWER:
+  name: Nasekaný květák
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_CAYENNE_PEPPER:
+  name: Nasekaný kajenský pepř
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_CELERIAC:
+  name: Nasekaný bulvový celer
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_CELERY:
+  name: Nasekaný řapíkatý celer
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_CHERRY:
+  name: Nasekaná třešeň
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_CHESTNUT:
+  name: Nasekaný kaštan
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_CHICKEN:
+  name: Nasekané kuře
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_CHICKPEAS:
+  name: Nasekaná cizrna
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_CHICORY:
+  name: Nasekaná čekanka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_CHILLY_PEPPER:
+  name: Nasekaná chilli paprička
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_CHIVES:
+  name: Nasekaná pažitka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_CHORUS_FRUIT:
+  name: Nasekaný plod chorusu
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_CILANTRO:
+  name: Nasekaný koriandr
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_CINNAMON:
+  name: Nasekaná skořice
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_CLOVE:
+  name: Nasekaný hřebíček
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_COCOA_BEANS:
+  name: Nasekané kakaové boby
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_COD:
+  name: Nasekaná treska
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_COURGETTE:
+  name: Nasekaná cuketa
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_CUCUMBER:
+  name: Nasekaná okurka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_CUMIN:
+  name: Nasekaný kmín
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_CURRY_LEAF:
+  name: Nasekaný kari list
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_DILL:
+  name: Nasekaný kopr
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_EGG:
+  name: Nasekané vajíčko
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_ENCHANTED_GOLDEN_APPLE:
+  name: Nasekané očarované zlaté jablko
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_FENNEL:
+  name: Nasekaný fenykl
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_GARLIC:
+  name: Nasekaný česnek
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_GINGER:
+  name: Nasekaný zázvor
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_GLOW_BERRIES:
+  name: Nasekané zářinky
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_GOLDEN_APPLE:
+  name: Nasekané zlaté jablko
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_GOLDEN_CARROT:
+  name: Nasekaná zlatá mrkev
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_GRAPE:
+  name: Nasekaný hrozen
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_GREEN_APPLE:
+  name: Nasekané zelené jablko
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_GREEN_BEANS:
+  name: Nasekané zelené fazolky
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_GREEN_ONION:
+  name: Nasekaná jarní cibulka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_HAZELNUT:
+  name: Nasekaný lískový oříšek
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_HORSERADISH:
+  name: Nasekaný křen
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_JALAPENO:
+  name: Nasekané jalapeño
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_JASMINE:
+  name: Nasekaný jasmín
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_JUNIPER_BERRY:
+  name: Nasekané jalovcové bobule
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_KAFFIR_LIME:
+  name: Nasekaný list kafírové limety
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_KALE:
+  name: Nasekaný kadeřávek
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_KELP:
+  name: Nasekaná chaluha
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_KIWI:
+  name: Nasekané kiwi
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_LAVENDER:
+  name: Nasekaná levandule
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_LEEK:
+  name: Nasekaný pórek
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_LEMON:
+  name: Nasekaný citron
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_LETTUCE:
+  name: Nasekaný hlávkový salát
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_LICORICE:
+  name: Nasekaná lékořice
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_LIME:
+  name: Nasekaná limeta
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_MACE:
+  name: Nasekaný muškátový květ
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_MANGO:
+  name: Nasekané mango
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_MARJORAM:
+  name: Nasekaná majoránka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_MARROW:
+  name: Nasekaná tykev
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_MELON:
+  name: Nasekaný meloun
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_MINT:
+  name: Nasekaná máta
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_MUSTARD_SEEDS:
+  name: Nasekané hořčičné semínko
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_MUTTON:
+  name: Nasekané skopové
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_NETTLES:
+  name: Nasekané kopřivy
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_OKRA:
+  name: Nasekaná okra
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_ONION:
+  name: Nasekaná cibule
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_ORANGE:
+  name: Nasekaný pomeranč
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_OREGANO:
+  name: Nasekané oregano
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_PARSLEY:
+  name: Nasekaná petržel
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_PARSNIP:
+  name: Nasekaný pastinák
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_PEA:
+  name: Nasekaný hrášek
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_PEACH:
+  name: Nasekaná broskev
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_PEANUT:
+  name: Nasekaný arašíd
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_PEAR:
+  name: Nasekaná hruška
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_PECAN:
+  name: Nasekaný pekanový ořech
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_PEPPER:
+  name: Nasekaný černý pepř
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_PEPPERONI:
+  name: Nasekaný pepperoni salám
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_PINEAPPLE:
+  name: Nasekaný ananas
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_PINTO_BEANS:
+  name: Nasekané fazole pinto
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_PORKCHOP:
+  name: Nasekaná kotleta
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_POTATO:
+  name: Nasekaná brambora
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_PUFFERFISH:
+  name: Nasekaný čtverzubec
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_PUMPKIN:
+  name: Nasekaná dýně
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_RABBIT:
+  name: Nasekaný králík
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_RADDISH:
+  name: Nasekaná ředkvička
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_RADICCHIO:
+  name: Nasekané radicchio
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_RAPESEED:
+  name: Nasekaná řepka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_RED_MUSHROOM:
+  name: Nasekaná muchomůrka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_RHUBARB:
+  name: Nasekaná rebarbora
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_RICE:
+  name: Nasekaná rýže
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_ROSEMARY:
+  name: Nasekaný rozmarýn
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_ROTTEN_FLESH:
+  name: Nasekané shnilé maso
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_RUNNER_BEANS:
+  name: Nasekané šarlatové fazole
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_RUTABAGA:
+  name: Nasekaný tuřín
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_SALMON:
+  name: Nasekaný losos
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_SASSAFRAS:
+  name: Nasekaný sassafras
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_SHALLOT:
+  name: Nasekaná šalotka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_SHISO:
+  name: Nasekaná perila
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_SOY_BEANS:
+  name: Nasekané sójové boby
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_SPINACH:
+  name: Nasekaný špenát
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_STAR_ANISE:
+  name: Nasekaný badyán
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_STRAWBERRY:
+  name: Nasekaná jahoda
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_SUGAR:
+  name: Nasekaný cukr
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_SWEETCORN:
+  name: Nasekaná kukuřice
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_SWEET_BERRIES:
+  name: Nasekané sladké bobule
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_SWEET_POTATO:
+  name: Nasekaný batát
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_TARRAGON:
+  name: Nasekaný estragon
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_THYME:
+  name: Nasekaný tymián
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_TOMATO:
+  name: Nasekané rajče
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_TURMERIC:
+  name: Nasekaná kurkuma
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_TURNIP:
+  name: Nasekaná vodnice
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_VANILLA:
+  name: Nasekaná vanilka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_WASABI:
+  name: Nasekané wasabi
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CHOPPED_WHEAT:
+  name: Nasekaná pšenice
+  type:
+  - '&7&oVedlejší produkt'
+CLT_CILANTRO:
+  name: Koriandr
+  type:
+  - '&7&oÚroda'
+  description:
+  - Jemné koření s nádechem citrusů.
+CLT_CINNAMON:
+  name: Skořice
+  type:
+  - '&7&oÚroda'
+  description:
+  - Skvělá na žvýkání ve formě tyčinek.
+CLT_CINNAMON_ROLL:
+  name: Skořicový šnek
+  type:
+  - '&7&oJídlo'
+  description:
+  - Sladká dobrota zarolovaná pro radost.
+  - Když ji sníš, svět se ti obrátí vzhůru nohama!
+  stats:
+  - '&8⇨ &7Léčení: &b4 srdce'
+  - '&8⇨ &bLevitace I &7(10:00)'
+  - '&8⇨ &bSnášení se I &7(10:00)'
+CLT_CLOVE:
+  name: Hřebíček
+  type:
+  - '&7&oÚroda'
+  description:
+  - Velmi hřejivá a intenzivní chuť.
+CLT_COMPRESSED_BISCUIT:
+  name: Lisovaná sušenka
+  type:
+  - '&7&oJídlo'
+  description:
+  - Malá svačinka s ještě obrovštější chutí.
+  stats: *id002
+CLT_COOKED_BURGER_PATTY:
+  name: Opečená burgerová placka
+  type:
+  - '&7&oÚroda'
+  description:
+  - Prakticky z toho kape
+CLT_COUNTER_BLENDER:
+  name: Kuchyňská linka (mixér)
+  type:
+  - '&7&oStroj'
+  description:
+  - Klikni pravým tlačítkem na tento blok a rozmixuj úrodu.
+  usage: &id003
+  - Tip! Po položení můžeš pomocí Shift + pravého
+  - tlačítka změnit vzhled kuchyně podle bloků,
+  - které držíš v ruce. Vyzkoušej to!
+CLT_COUNTER_BOILING:
+  name: Kuchyňská linka (hrnec na vaření)
+  type:
+  - '&7&oStroj'
+  description:
+  - Umí uvařit určité předměty.
+  usage: *id003
+CLT_COUNTER_CHOPPING:
+  name: Kuchyňská linka (prkénko na sekání)
+  type:
+  - '&7&oStroj'
+  description:
+  - Klikni pravým tlačítkem na tento blok a nasekej úrodu.
+  usage: *id003
+CLT_COUNTER_FINISHING:
+  name: Kuchyňská linka (dokončování)
+  type:
+  - '&7&oStroj'
+  description:
+  - Slouží k výrobě dalších vedlejších produktů nebo
+  - hotových jídel z produktů a vedlejších produktů.
+  usage: *id003
+CLT_COUNTER_FRYING:
+  name: Kuchyňská linka (pánev)
+  type:
+  - '&7&oStroj'
+  description:
+  - Umí osmažit určité plodiny.
+  usage: *id003
+CLT_COUNTER_GRILL:
+  name: Kuchyňská linka (gril)
+  type:
+  - '&7&oStroj'
+  description:
+  - Umí ogrilovat určité plodiny.
+  usage: *id003
+CLT_COUNTER_GRINDER:
+  name: Kuchyňská linka (hmoždíř s paličkou)
+  type:
+  - '&7&oStroj'
+  description:
+  - Klikni pravým tlačítkem na tento blok a namel úrodu.
+  usage: *id003
+CLT_COUNTER_MASHER:
+  name: Kuchyňská linka (miska na mačkání)
+  type:
+  - '&7&oStroj'
+  description:
+  - Klikni pravým tlačítkem na tento blok a rozmačkej úrodu.
+  usage: *id003
+CLT_COUNTER_NOTHING:
+  name: Kuchyňská linka (prázdná)
+  type:
+  - '&7&oStroj'
+  description:
+  - Jen pro ozdobu!
+  usage: *id003
+CLT_COUNTER_OVEN:
+  name: Kuchyňská linka (trouba)
+  type:
+  - '&7&oStroj'
+  description:
+  - Umí upéct určité plodiny.
+  usage: *id003
+CLT_COUNTER_SLICING:
+  name: Kuchyňská linka (prkénko na krájení)
+  type:
+  - '&7&oStroj'
+  description:
+  - Klikni pravým tlačítkem na tento blok a nakrájej úrodu.
+  usage: *id003
+CLT_COURGETTE:
+  name: Cuketa
+  type:
+  - '&7&oÚroda'
+  description:
+  - 'Tip: Nastrouhej to do jakékoli omáčky na těstoviny'
+  - pro hloubku chuti a texturu.
+CLT_CREAM_CHEESE:
+  name: Smetanový sýr
+  type:
+  - '&7&oÚroda'
+  description:
+  - Spíš smetanový než sýrový.
+CLT_CROP_STICKS:
+  name: Tyčky na plodiny
+  type:
+  - '&7&oNástroj'
+  description:
+  - Tyčky na plodiny musíš přidat
+  - k zasazenému semínku, aby rostlo.
+  - Položením druhé sady se rostlina
+  - zkříží, takže se může šířit
+  - a/nebo šlechtit.
+CLT_CUCUMBER:
+  name: Okurka
+  type:
+  - '&7&oÚroda'
+  description:
+  - Voda v zelené slupce, dokaž mi
+  - opak.
+CLT_CUMIN:
+  name: Kmín
+  type:
+  - '&7&oÚroda'
+  description:
+  - Hřejivá citrusová rostlina.
+CLT_CURRY_LEAF:
+  name: Kari list
+  type:
+  - '&7&oÚroda'
+  description:
+  - Základ tolika úžasných jídel.
+CLT_DILL:
+  name: Kopr
+  type:
+  - '&7&oÚroda'
+  description:
+  - Mně to chutná jen jako tráva. Proč
+  - to lidi mají tak rádi?
+CLT_DOUGH:
+  name: Těsto
+  type:
+  - '&7&oÚroda'
+  description:
+  - Prostě obyčejné těsto!
+CLT_EGG_SALAD:
+  name: Vaječný salát
+  type:
+  - '&7&oÚroda'
+  description:
+  - Otevři to ve vlaku, jestli na to máš!
+CLT_EGG_SALAD_SANDWICH:
+  name: Sendvič s vaječným salátem
+  type:
+  - '&7&oJídlo'
+  description:
+  - Trochu to smrdí, ale chutná to úžasně!
+  stats: &id006
+  - '&8⇨ &7Léčení: &b10 srdcí'
+  - '&8⇨ &bRegenerace II &7(10:00)'
+CLT_FENNEL:
+  name: Fenykl
+  type:
+  - '&7&oÚroda'
+  description:
+  - Jako směs anýzu a lékořice.
+CLT_FRIED_APPLE:
+  name: Smažené jablko
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_APRICOT:
+  name: Smažená meruňka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_ARTICHOKE:
+  name: Smažený artyčok
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_ASPARAGUS:
+  name: Smažený chřest
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_AUBERGINE:
+  name: Smažený lilek
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_AVOCADO:
+  name: Smažené avokádo
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_BANANA:
+  name: Smažený banán
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_BASIL:
+  name: Smažená bazalka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_BAY_LEAF:
+  name: Smažený bobkový list
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_BEEF:
+  name: Smažené hovězí maso
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_BEETROOT:
+  name: Smažená červená řepa
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_BELL_PEPPER:
+  name: Smažená paprika
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_BLACK_BEANS:
+  name: Smažené černé fazole
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_BREAD:
+  name: Smažený chléb
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_BROCCOLI:
+  name: Smažená brokolice
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_BROWN_MUSHROOM:
+  name: Smažený hřib
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_BRUSSELS_SPROUTS:
+  name: Smažená růžičková kapusta
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_CABBAGE:
+  name: Smažené zelí
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_CARROT:
+  name: Smažená mrkev
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_CAULIFLOWER:
+  name: Smažený květák
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_CAYENNE_PEPPER:
+  name: Smažený kajenský pepř
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_CELERIAC:
+  name: Smažený bulvový celer
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_CELERY:
+  name: Smažený řapíkatý celer
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_CHERRY:
+  name: Smažená třešeň
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_CHESTNUT:
+  name: Smažený kaštan
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_CHICKEN:
+  name: Smažené kuře
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_CHICKPEAS:
+  name: Smažená cizrna
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_CHICORY:
+  name: Smažená čekanka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_CHILLY_PEPPER:
+  name: Smažená chilli paprička
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_CHIVES:
+  name: Smažená pažitka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_CHORUS_FRUIT:
+  name: Smažený plod chorusu
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_CILANTRO:
+  name: Smažený koriandr
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_CINNAMON:
+  name: Smažená skořice
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_CLOVE:
+  name: Smažený hřebíček
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_COCOA_BEANS:
+  name: Smažené kakaové boby
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_COD:
+  name: Smažená treska
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_COURGETTE:
+  name: Smažená cuketa
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_CUCUMBER:
+  name: Smažená okurka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_CUMIN:
+  name: Smažený kmín
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_CURRY_LEAF:
+  name: Smažený kari list
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_DILL:
+  name: Smažený kopr
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_EGG:
+  name: Smažené vajíčko
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_ENCHANTED_GOLDEN_APPLE:
+  name: Smažené očarované zlaté jablko
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_FENNEL:
+  name: Smažený fenykl
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_GARLIC:
+  name: Smažený česnek
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_GINGER:
+  name: Smažený zázvor
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_GLOW_BERRIES:
+  name: Smažené zářinky
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_GOLDEN_APPLE:
+  name: Smažené zlaté jablko
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_GOLDEN_CARROT:
+  name: Smažená zlatá mrkev
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_GRAPE:
+  name: Smažený hrozen
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_GREEN_APPLE:
+  name: Smažené zelené jablko
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_GREEN_BEANS:
+  name: Smažené zelené fazolky
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_GREEN_ONION:
+  name: Smažená jarní cibulka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_HAZELNUT:
+  name: Smažený lískový oříšek
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_HORSERADISH:
+  name: Smažený křen
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_JALAPENO:
+  name: Smažené jalapeño
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_JASMINE:
+  name: Smažený jasmín
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_JUNIPER_BERRY:
+  name: Smažené jalovcové bobule
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_KAFFIR_LIME:
+  name: Smažený list kafírové limety
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_KALE:
+  name: Smažený kadeřávek
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_KELP:
+  name: Smažená chaluha
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_KIWI:
+  name: Smažené kiwi
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_LAVENDER:
+  name: Smažená levandule
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_LEEK:
+  name: Smažený pórek
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_LEMON:
+  name: Smažený citron
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_LETTUCE:
+  name: Smažený hlávkový salát
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_LICORICE:
+  name: Smažená lékořice
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_LIME:
+  name: Smažená limeta
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_MACE:
+  name: Smažený muškátový květ
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_MANGO:
+  name: Smažené mango
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_MARJORAM:
+  name: Smažená majoránka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_MARROW:
+  name: Smažená tykev
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_MELON:
+  name: Smažený meloun
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_MINT:
+  name: Smažená máta
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_MUSTARD_SEEDS:
+  name: Smažené hořčičné semínko
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_MUTTON:
+  name: Smažené skopové
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_NETTLES:
+  name: Smažené kopřivy
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_OKRA:
+  name: Smažená okra
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_ONION:
+  name: Smažená cibule
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_ORANGE:
+  name: Smažený pomeranč
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_OREGANO:
+  name: Smažené oregano
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_PARSLEY:
+  name: Smažená petržel
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_PARSNIP:
+  name: Smažený pastinák
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_PEA:
+  name: Smažený hrášek
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_PEACH:
+  name: Smažená broskev
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_PEANUT:
+  name: Smažený arašíd
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_PEAR:
+  name: Smažená hruška
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_PECAN:
+  name: Smažený pekanový ořech
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_PEPPER:
+  name: Smažený černý pepř
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_PEPPERONI:
+  name: Smažený pepperoni salám
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_PINEAPPLE:
+  name: Smažený ananas
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_PINTO_BEANS:
+  name: Smažené fazole pinto
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_PORKCHOP:
+  name: Smažená kotleta
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_POTATO:
+  name: Smažená brambora
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_PUFFERFISH:
+  name: Smažený čtverzubec
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_PUMPKIN:
+  name: Smažená dýně
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_RABBIT:
+  name: Smažený králík
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_RADDISH:
+  name: Smažená ředkvička
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_RADICCHIO:
+  name: Smažené radicchio
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_RAPESEED:
+  name: Smažená řepka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_RED_MUSHROOM:
+  name: Smažená muchomůrka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_RHUBARB:
+  name: Smažená rebarbora
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_RICE:
+  name: Smažená rýže
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_ROSEMARY:
+  name: Smažený rozmarýn
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_ROTTEN_FLESH:
+  name: Smažené shnilé maso
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_RUNNER_BEANS:
+  name: Smažené šarlatové fazole
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_RUTABAGA:
+  name: Smažený tuřín
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_SALMON:
+  name: Smažený losos
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_SASSAFRAS:
+  name: Smažený sassafras
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_SHALLOT:
+  name: Smažená šalotka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_SHISO:
+  name: Smažená perila
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_SOY_BEANS:
+  name: Smažené sójové boby
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_SPINACH:
+  name: Smažený špenát
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_STAR_ANISE:
+  name: Smažený badyán
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_STRAWBERRY:
+  name: Smažená jahoda
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_SUGAR:
+  name: Smažený cukr
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_SWEETCORN:
+  name: Smažená kukuřice
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_SWEET_BERRIES:
+  name: Smažené sladké bobule
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_SWEET_POTATO:
+  name: Smažený batát
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_TARRAGON:
+  name: Smažený estragon
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_THYME:
+  name: Smažený tymián
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_TOMATO:
+  name: Smažené rajče
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_TURMERIC:
+  name: Smažená kurkuma
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_TURNIP:
+  name: Smažená vodnice
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_VANILLA:
+  name: Smažená vanilka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_WASABI:
+  name: Smažené wasabi
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRIED_WHEAT:
+  name: Smažená pšenice
+  type:
+  - '&7&oVedlejší produkt'
+CLT_FRUIT_SALAD:
+  name: Ovocný salát
+  type:
+  - '&7&oJídlo'
+  description:
+  - Když tomu říkáš salát, můžeš toho sníst,
+  - kolik chceš, protože je to zdravé.
+  stats:
+  - '&8⇨ &7Léčení: &b6 srdcí'
+  - '&8⇨ &bSvižnost III &7(10:00)'
+CLT_FUGU:
+  name: Fugu
+  type:
+  - '&7&oJídlo'
+  description:
+  - Jsi připraven hodit kostkou?
+  stats:
+  - '&8⇨ &7Léčení: &b1 srdce'
+  - '&8⇨ &bSíla V &7(10:00)'
+  - '&8⇨ &733% šance, že prostě umřeš!'
+CLT_GARDEN_CLOCHE:
+  name: Zahradní poklop
+  type:
+  - '&7&oStroj'
+  description:
+  - Automaticky v sobě pěstuje rostliny.
+  stats:
+  - '&8⇨ &7Energie za tick: &b100'
+CLT_GARLIC:
+  name: Česnek
+  type:
+  - '&7&oÚroda'
+  description:
+  - Rychle, než přijdou upíři!
+CLT_GARLIC_BUTTER_MUSHROOMS:
+  name: Houby na česnekovém másle
+  type:
+  - '&7&oJídlo'
+  description:
+  - Možná nejlepší jídlo na celém světě.
+  stats:
+  - '&8⇨ &7Léčení: &b2 srdce'
+  - '&8⇨ &bZáření I &7(10:00)'
+CLT_GINGER:
+  name: Zázvor
+  type:
+  - '&7&oÚroda'
+  description:
+  - Nasekaný zázvor ve vroucí vodě vyléčí všechny neduhy!
+CLT_GRAPE:
+  name: Hrozen
+  type:
+  - '&7&oÚroda'
+  description:
+  - Tak baculatý!
+CLT_GRAPE_JELLY:
+  name: Hroznové želé
+  type:
+  - '&7&oÚroda'
+  description: &id008
+  - Jíst to lžící je trestný čin.
+CLT_GREEN_APPLE:
+  name: Zelené jablko
+  type:
+  - '&7&oÚroda'
+  description:
+  - Na lístku stojí... Milá paní učitelko?
+CLT_GREEN_BEANS:
+  name: Zelené fazolky
+  type:
+  - '&7&oÚroda'
+  description:
+  - Jak kreativní název!
+CLT_GREEN_ONION:
+  name: Jarní cibulka
+  type:
+  - '&7&oÚroda'
+  description:
+  - Skvěle se hodí na taco!
+CLT_GRILLED_APPLE:
+  name: Grilované jablko
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_APRICOT:
+  name: Grilovaná meruňka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_ARTICHOKE:
+  name: Grilovaný artyčok
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_ASPARAGUS:
+  name: Grilovaný chřest
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_AUBERGINE:
+  name: Grilovaný lilek
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_AVOCADO:
+  name: Grilované avokádo
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_BANANA:
+  name: Grilovaný banán
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_BASIL:
+  name: Grilovaná bazalka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_BAY_LEAF:
+  name: Grilovaný bobkový list
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_BEEF:
+  name: Grilované hovězí maso
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_BEETROOT:
+  name: Grilovaná červená řepa
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_BELL_PEPPER:
+  name: Grilovaná paprika
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_BLACK_BEANS:
+  name: Grilované černé fazole
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_BREAD:
+  name: Grilovaný chléb
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_BROCCOLI:
+  name: Grilovaná brokolice
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_BROWN_MUSHROOM:
+  name: Grilovaný hřib
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_BRUSSELS_SPROUTS:
+  name: Grilovaná růžičková kapusta
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_CABBAGE:
+  name: Grilované zelí
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_CARROT:
+  name: Grilovaná mrkev
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_CAULIFLOWER:
+  name: Grilovaný květák
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_CAYENNE_PEPPER:
+  name: Grilovaný kajenský pepř
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_CELERIAC:
+  name: Grilovaný bulvový celer
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_CELERY:
+  name: Grilovaný řapíkatý celer
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_CHERRY:
+  name: Grilovaná třešeň
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_CHESTNUT:
+  name: Grilovaný kaštan
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_CHICKEN:
+  name: Grilované kuře
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_CHICKPEAS:
+  name: Grilovaná cizrna
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_CHICORY:
+  name: Grilovaná čekanka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_CHILLY_PEPPER:
+  name: Grilovaná chilli paprička
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_CHIVES:
+  name: Grilovaná pažitka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_CHORUS_FRUIT:
+  name: Grilovaný plod chorusu
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_CILANTRO:
+  name: Grilovaný koriandr
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_CINNAMON:
+  name: Grilovaná skořice
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_CLOVE:
+  name: Grilovaný hřebíček
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_COCOA_BEANS:
+  name: Grilované kakaové boby
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_COD:
+  name: Grilovaná treska
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_COURGETTE:
+  name: Grilovaná cuketa
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_CUCUMBER:
+  name: Grilovaná okurka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_CUMIN:
+  name: Grilovaný kmín
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_CURRY_LEAF:
+  name: Grilovaný kari list
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_DILL:
+  name: Grilovaný kopr
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_EGG:
+  name: Grilované vajíčko
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_ENCHANTED_GOLDEN_APPLE:
+  name: Grilované očarované zlaté jablko
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_FENNEL:
+  name: Grilovaný fenykl
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_GARLIC:
+  name: Grilovaný česnek
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_GINGER:
+  name: Grilovaný zázvor
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_GLOW_BERRIES:
+  name: Grilované zářinky
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_GOLDEN_APPLE:
+  name: Grilované zlaté jablko
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_GOLDEN_CARROT:
+  name: Grilovaná zlatá mrkev
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_GRAPE:
+  name: Grilovaný hrozen
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_GREEN_APPLE:
+  name: Grilované zelené jablko
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_GREEN_BEANS:
+  name: Grilované zelené fazolky
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_GREEN_ONION:
+  name: Grilovaná jarní cibulka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_HAZELNUT:
+  name: Grilovaný lískový oříšek
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_HORSERADISH:
+  name: Grilovaný křen
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_JALAPENO:
+  name: Grilované jalapeño
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_JASMINE:
+  name: Grilovaný jasmín
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_JUNIPER_BERRY:
+  name: Grilované jalovcové bobule
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_KAFFIR_LIME:
+  name: Grilovaný list kafírové limety
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_KALE:
+  name: Grilovaný kadeřávek
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_KELP:
+  name: Grilovaná chaluha
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_KIWI:
+  name: Grilované kiwi
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_LAVENDER:
+  name: Grilovaná levandule
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_LEEK:
+  name: Grilovaný pórek
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_LEMON:
+  name: Grilovaný citron
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_LETTUCE:
+  name: Grilovaný hlávkový salát
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_LICORICE:
+  name: Grilovaná lékořice
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_LIME:
+  name: Grilovaná limeta
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_MACE:
+  name: Grilovaný muškátový květ
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_MANGO:
+  name: Grilované mango
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_MARJORAM:
+  name: Grilovaná majoránka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_MARROW:
+  name: Grilovaná tykev
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_MELON:
+  name: Grilovaný meloun
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_MINT:
+  name: Grilovaná máta
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_MUSTARD_SEEDS:
+  name: Grilované hořčičné semínko
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_MUTTON:
+  name: Grilované skopové
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_NETTLES:
+  name: Grilované kopřivy
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_OKRA:
+  name: Grilovaná okra
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_ONION:
+  name: Grilovaná cibule
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_ORANGE:
+  name: Grilovaný pomeranč
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_OREGANO:
+  name: Grilované oregano
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_PARSLEY:
+  name: Grilovaná petržel
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_PARSNIP:
+  name: Grilovaný pastinák
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_PEA:
+  name: Grilovaný hrášek
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_PEACH:
+  name: Grilovaná broskev
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_PEANUT:
+  name: Grilovaný arašíd
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_PEAR:
+  name: Grilovaná hruška
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_PECAN:
+  name: Grilovaný pekanový ořech
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_PEPPER:
+  name: Grilovaný černý pepř
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_PEPPERONI:
+  name: Grilovaný pepperoni salám
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_PINEAPPLE:
+  name: Grilovaný ananas
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_PINTO_BEANS:
+  name: Grilované fazole pinto
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_PORKCHOP:
+  name: Grilovaná kotleta
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_POTATO:
+  name: Grilovaná brambora
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_PUFFERFISH:
+  name: Grilovaný čtverzubec
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_PUMPKIN:
+  name: Grilovaná dýně
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_RABBIT:
+  name: Grilovaný králík
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_RADDISH:
+  name: Grilovaná ředkvička
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_RADICCHIO:
+  name: Grilované radicchio
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_RAPESEED:
+  name: Grilovaná řepka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_RED_MUSHROOM:
+  name: Grilovaná muchomůrka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_RHUBARB:
+  name: Grilovaná rebarbora
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_RICE:
+  name: Grilovaná rýže
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_ROSEMARY:
+  name: Grilovaný rozmarýn
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_ROTTEN_FLESH:
+  name: Grilované shnilé maso
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_RUNNER_BEANS:
+  name: Grilované šarlatové fazole
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_RUTABAGA:
+  name: Grilovaný tuřín
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_SALMON:
+  name: Grilovaný losos
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_SALMON_SALAD:
+  name: Grilovaný lososový salát
+  type:
+  - '&7&oJídlo'
+  description:
+  - Rozkošně křehké a skvěle ochucené.
+  stats:
+  - '&8⇨ &7Léčení: &b4 srdce'
+  - '&8⇨ &bRegenerace I &7(10:00)'
+  - '&8⇨ &bZesílení zdraví V &7(10:00)'
+CLT_GRILLED_SASSAFRAS:
+  name: Grilovaný sassafras
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_SHALLOT:
+  name: Grilovaná šalotka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_SHISO:
+  name: Grilovaná perila
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_SOY_BEANS:
+  name: Grilované sójové boby
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_SPINACH:
+  name: Grilovaný špenát
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_STAR_ANISE:
+  name: Grilovaný badyán
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_STRAWBERRY:
+  name: Grilovaná jahoda
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_SUGAR:
+  name: Grilovaný cukr
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_SWEETCORN:
+  name: Grilovaná kukuřice
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_SWEET_BERRIES:
+  name: Grilované sladké bobule
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_SWEET_POTATO:
+  name: Grilovaný batát
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_TARRAGON:
+  name: Grilovaný estragon
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_THYME:
+  name: Grilovaný tymián
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_TOMATO:
+  name: Grilované rajče
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_TURMERIC:
+  name: Grilovaná kurkuma
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_TURNIP:
+  name: Grilovaná vodnice
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_VANILLA:
+  name: Grilovaná vanilka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_WASABI:
+  name: Grilované wasabi
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GRILLED_WHEAT:
+  name: Grilovaná pšenice
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_APPLE:
+  name: Mleté jablko
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_APRICOT:
+  name: Mletá meruňka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_ARTICHOKE:
+  name: Mletý artyčok
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_ASPARAGUS:
+  name: Mletý chřest
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_AUBERGINE:
+  name: Mletý lilek
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_AVOCADO:
+  name: Mleté avokádo
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_BANANA:
+  name: Mletý banán
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_BASIL:
+  name: Mletá bazalka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_BAY_LEAF:
+  name: Mletý bobkový list
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_BEEF:
+  name: Mleté hovězí maso
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_BEETROOT:
+  name: Mletá červená řepa
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_BELL_PEPPER:
+  name: Mletá paprika
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_BLACK_BEANS:
+  name: Mleté černé fazole
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_BREAD:
+  name: Mletý chléb
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_BROCCOLI:
+  name: Mletá brokolice
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_BROWN_MUSHROOM:
+  name: Mletý hřib
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_BRUSSELS_SPROUTS:
+  name: Mletá růžičková kapusta
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_CABBAGE:
+  name: Mleté zelí
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_CARROT:
+  name: Mletá mrkev
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_CAULIFLOWER:
+  name: Mletý květák
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_CAYENNE_PEPPER:
+  name: Mletý kajenský pepř
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_CELERIAC:
+  name: Mletý bulvový celer
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_CELERY:
+  name: Mletý řapíkatý celer
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_CHERRY:
+  name: Mletá třešeň
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_CHESTNUT:
+  name: Mletý kaštan
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_CHICKEN:
+  name: Mleté kuře
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_CHICKPEAS:
+  name: Mletá cizrna
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_CHICORY:
+  name: Mletá čekanka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_CHILLY_PEPPER:
+  name: Mletá chilli paprička
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_CHIVES:
+  name: Mletá pažitka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_CHORUS_FRUIT:
+  name: Mletý plod chorusu
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_CILANTRO:
+  name: Mletý koriandr
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_CINNAMON:
+  name: Mletá skořice
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_CLOVE:
+  name: Mletý hřebíček
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_COCOA_BEANS:
+  name: Mleté kakaové boby
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_COD:
+  name: Mletá treska
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_COURGETTE:
+  name: Mletá cuketa
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_CUCUMBER:
+  name: Mletá okurka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_CUMIN:
+  name: Mletý kmín
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_CURRY_LEAF:
+  name: Mletý kari list
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_DILL:
+  name: Mletý kopr
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_EGG:
+  name: Mleté vajíčko
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_ENCHANTED_GOLDEN_APPLE:
+  name: Mleté očarované zlaté jablko
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_FENNEL:
+  name: Mletý fenykl
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_GARLIC:
+  name: Mletý česnek
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_GINGER:
+  name: Mletý zázvor
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_GLOW_BERRIES:
+  name: Mleté zářinky
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_GOLDEN_APPLE:
+  name: Mleté zlaté jablko
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_GOLDEN_CARROT:
+  name: Mletá zlatá mrkev
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_GRAPE:
+  name: Mletý hrozen
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_GREEN_APPLE:
+  name: Mleté zelené jablko
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_GREEN_BEANS:
+  name: Mleté zelené fazolky
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_GREEN_ONION:
+  name: Mletá jarní cibulka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_HAZELNUT:
+  name: Mletý lískový oříšek
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_HORSERADISH:
+  name: Mletý křen
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_JALAPENO:
+  name: Mleté jalapeño
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_JASMINE:
+  name: Mletý jasmín
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_JUNIPER_BERRY:
+  name: Mleté jalovcové bobule
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_KAFFIR_LIME:
+  name: Mletý list kafírové limety
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_KALE:
+  name: Mletý kadeřávek
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_KELP:
+  name: Mletá chaluha
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_KIWI:
+  name: Mleté kiwi
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_LAVENDER:
+  name: Mletá levandule
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_LEEK:
+  name: Mletý pórek
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_LEMON:
+  name: Mletý citron
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_LETTUCE:
+  name: Mletý hlávkový salát
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_LICORICE:
+  name: Mletá lékořice
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_LIME:
+  name: Mletá limeta
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_MACE:
+  name: Mletý muškátový květ
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_MANGO:
+  name: Mleté mango
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_MARJORAM:
+  name: Mletá majoránka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_MARROW:
+  name: Mletá tykev
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_MELON:
+  name: Mletý meloun
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_MINT:
+  name: Mletá máta
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_MUSTARD_SEEDS:
+  name: Mleté hořčičné semínko
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_MUTTON:
+  name: Mleté skopové
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_NETTLES:
+  name: Mleté kopřivy
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_OKRA:
+  name: Mletá okra
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_ONION:
+  name: Mletá cibule
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_ORANGE:
+  name: Mletý pomeranč
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_OREGANO:
+  name: Mleté oregano
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_PARSLEY:
+  name: Mletá petržel
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_PARSNIP:
+  name: Mletý pastinák
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_PEA:
+  name: Mletý hrášek
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_PEACH:
+  name: Mletá broskev
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_PEANUT:
+  name: Mletý arašíd
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_PEAR:
+  name: Mletá hruška
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_PECAN:
+  name: Mletý pekanový ořech
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_PEPPER:
+  name: Mletý černý pepř
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_PEPPERONI:
+  name: Mletý pepperoni salám
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_PINEAPPLE:
+  name: Mletý ananas
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_PINTO_BEANS:
+  name: Mleté fazole pinto
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_PORKCHOP:
+  name: Mletá kotleta
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_POTATO:
+  name: Mletá brambora
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_PUFFERFISH:
+  name: Mletý čtverzubec
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_PUMPKIN:
+  name: Mletá dýně
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_RABBIT:
+  name: Mletý králík
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_RADDISH:
+  name: Mletá ředkvička
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_RADICCHIO:
+  name: Mleté radicchio
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_RAPESEED:
+  name: Mletá řepka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_RED_MUSHROOM:
+  name: Mletá muchomůrka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_RHUBARB:
+  name: Mletá rebarbora
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_RICE:
+  name: Mletá rýže
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_ROSEMARY:
+  name: Mletý rozmarýn
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_ROTTEN_FLESH:
+  name: Mleté shnilé maso
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_RUNNER_BEANS:
+  name: Mleté šarlatové fazole
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_RUTABAGA:
+  name: Mletý tuřín
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_SALMON:
+  name: Mletý losos
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_SASSAFRAS:
+  name: Mletý sassafras
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_SHALLOT:
+  name: Mletá šalotka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_SHISO:
+  name: Mletá perila
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_SOY_BEANS:
+  name: Mleté sójové boby
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_SPINACH:
+  name: Mletý špenát
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_STAR_ANISE:
+  name: Mletý badyán
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_STRAWBERRY:
+  name: Mletá jahoda
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_SUGAR:
+  name: Mletý cukr
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_SWEETCORN:
+  name: Mletá kukuřice
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_SWEET_BERRIES:
+  name: Mleté sladké bobule
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_SWEET_POTATO:
+  name: Mletý batát
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_TARRAGON:
+  name: Mletý estragon
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_THYME:
+  name: Mletý tymián
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_TOMATO:
+  name: Mleté rajče
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_TURMERIC:
+  name: Mletá kurkuma
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_TURNIP:
+  name: Mletá vodnice
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_VANILLA:
+  name: Mletá vanilka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_WASABI:
+  name: Mleté wasabi
+  type:
+  - '&7&oVedlejší produkt'
+CLT_GROUND_WHEAT:
+  name: Mletá pšenice
+  type:
+  - '&7&oVedlejší produkt'
+CLT_HAZELNUT:
+  name: Lískový oříšek
+  type:
+  - '&7&oÚroda'
+  description:
+  - Udělej cokoli, abys z toho pro mě
+  - udělal kafe, a to hned!
+CLT_HORSERADISH:
+  name: Křen
+  type:
+  - '&7&oÚroda'
+  description:
+  - $100, když se do toho rovnou zakousneš.
+CLT_JALAPENO:
+  name: Jalapeño
+  type:
+  - '&7&oÚroda'
+  description:
+  - PÁLÍ PÁLÍ PÁLÍ.
+CLT_JASMINE:
+  name: Jasmín
+  type:
+  - '&7&oÚroda'
+  description:
+  - Dělá se z toho skvělý čaj.
+CLT_JUNIPER_BERRY:
+  name: Jalovcové bobule
+  type:
+  - '&7&oÚroda'
+  description:
+  - Usušeno do pepřové dokonalosti.
+CLT_KAFFIR_LIME:
+  name: List kafírové limety
+  type:
+  - '&7&oÚroda'
+  description:
+  - List s mocnou svěžestí.
+CLT_KALE:
+  name: Kadeřávek
+  type:
+  - '&7&oÚroda'
+  description:
+  - Pomoc, jsem smoothie hipster z roku 2020!
+CLT_KETCHUP:
+  name: Kečup
+  type:
+  - '&7&oÚroda'
+  description:
+  - Jen rajčata v krémové podobě.
+CLT_KEY_LIME_PIE:
+  name: Limetový koláč
+  type:
+  - '&7&oJídlo'
+  description:
+  - Prostě nejlepší!
+  stats:
+  - '&8⇨ &7Léčení: &b6 srdcí'
+  - '&8⇨ &bSpěch IV &7(10:00)'
+CLT_KIWI:
+  name: Kiwi
+  type:
+  - '&7&oÚroda'
+  description:
+  - Dal jsem to do addonu pod nátlakem.
+  - Kiwi jsou zlá a každý, kdo
+  - je použije, automaticky ztrácí
+  - 100 bodů.
+CLT_LASAGNA:
+  name: Lasagne
+  type:
+  - '&7&oJídlo'
+  description:
+  - Vrstvy úžasnosti.
+  stats:
+  - '&8⇨ &7Léčení: &bPlné'
+  - '&8⇨ &bRegenerace II &7(10:00)'
+  - '&8⇨ &bOdolnost II &7(10:00)'
+CLT_LAVENDER:
+  name: Levandule
+  type:
+  - '&7&oÚroda'
+  description:
+  - Vůně, při které pomalu usínám.
+CLT_LEAVES_TREE_APRICOT:
+  name: Listí meruňkového stromu
+  type:
+  - '&7&oListí'
+CLT_LEAVES_TREE_BANANA:
+  name: Listí banánovníku
+  type:
+  - '&7&oListí'
+CLT_LEAVES_TREE_CHERRY:
+  name: Listí třešňového stromu
+  type:
+  - '&7&oListí'
+CLT_LEAVES_TREE_CHESTNUT:
+  name: Listí kaštanovníku
+  type:
+  - '&7&oListí'
+CLT_LEAVES_TREE_GREEN_APPLE:
+  name: Listí zelené jabloně
+  type:
+  - '&7&oListí'
+CLT_LEAVES_TREE_HAZELNUT:
+  name: Listí lísky
+  type:
+  - '&7&oListí'
+CLT_LEAVES_TREE_KIWI:
+  name: Listí stromu kiwi
+  type:
+  - '&7&oListí'
+CLT_LEAVES_TREE_LEMON:
+  name: Listí citroníku
+  type:
+  - '&7&oListí'
+CLT_LEAVES_TREE_LIME:
+  name: Listí limetovníku
+  type:
+  - '&7&oListí'
+CLT_LEAVES_TREE_MANGO:
+  name: Listí mangovníku
+  type:
+  - '&7&oListí'
+CLT_LEAVES_TREE_ORANGE:
+  name: Listí pomerančovníku
+  type:
+  - '&7&oListí'
+CLT_LEAVES_TREE_PEACH:
+  name: Listí broskvoně
+  type:
+  - '&7&oListí'
+CLT_LEAVES_TREE_PEAR:
+  name: Listí hrušně
+  type:
+  - '&7&oListí'
+CLT_LEAVES_TREE_PECAN:
+  name: Listí pekanovníku
+  type:
+  - '&7&oListí'
+CLT_LEAVES_TREE_PINEAPPLE:
+  name: Listí ananasovníku
+  type:
+  - '&7&oListí'
+CLT_LEEK:
+  name: Pórek
+  type:
+  - '&7&oÚroda'
+  description:
+  - Z nějakého důvodu z toho kape voda?
+  - Že by nám někde netěsnil pórek?
+CLT_LEMON:
+  name: Citron
+  type:
+  - '&7&oÚroda'
+  description:
+  - Proč tak kyselý výraz?
+CLT_LEMON_DROP:
+  name: Citronový bonbon
+  type:
+  - '&7&oJídlo'
+  description:
+  - Na pročištění chuti.
+  stats:
+  - '&8⇨ &7Odstraní všechny efekty a znovu ti vyhládne.'
+CLT_LETTUCE:
+  name: Hlávkový salát
+  type:
+  - '&7&oÚroda'
+  description:
+  - Řídké, vodnaté, a přesto lahodné.
+CLT_LICORICE:
+  name: Lékořice
+  type:
+  - '&7&oÚroda'
+  description:
+  - Uteč, hned teď uteč!
+CLT_LIME:
+  name: Limeta
+  type:
+  - '&7&oÚroda'
+  description:
+  - Bylo nebylo, za devatero limetami bylo lahodné ovoce...
+CLT_MACE:
+  name: Muškátový květ
+  type:
+  - '&7&oÚroda'
+  description:
+  - Používá se ke stříkání do obličeje útočníkům.
+  - '...'
+  - Jak to myslíš, že to není ten správný druh palcátu?
+CLT_MANGO:
+  name: Mango
+  type:
+  - '&7&oÚroda'
+  description:
+  - MAN, už musím GO.
+  - Psát popisky je těžké...
+CLT_MARJORAM:
+  name: Majoránka
+  type:
+  - '&7&oÚroda'
+  description:
+  - Teď nemám kari čas, promluvíme si později?
+CLT_MARROW:
+  name: Tykev
+  type:
+  - '&7&oÚroda'
+  description:
+  - Věděl jsi, že ti tykev
+  - může tykat?
+  - Jo, Sefi chytrej.
+CLT_MASHED_APPLE:
+  name: Rozmačkané jablko
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_APRICOT:
+  name: Rozmačkaná meruňka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_ARTICHOKE:
+  name: Rozmačkaný artyčok
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_ASPARAGUS:
+  name: Rozmačkaný chřest
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_AUBERGINE:
+  name: Rozmačkaný lilek
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_AVOCADO:
+  name: Rozmačkané avokádo
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_BANANA:
+  name: Rozmačkaný banán
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_BASIL:
+  name: Rozmačkaná bazalka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_BAY_LEAF:
+  name: Rozmačkaný bobkový list
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_BEEF:
+  name: Rozmačkané hovězí maso
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_BEETROOT:
+  name: Rozmačkaná červená řepa
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_BELL_PEPPER:
+  name: Rozmačkaná paprika
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_BLACK_BEANS:
+  name: Rozmačkané černé fazole
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_BREAD:
+  name: Rozmačkaný chléb
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_BROCCOLI:
+  name: Rozmačkaná brokolice
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_BROWN_MUSHROOM:
+  name: Rozmačkaný hřib
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_BRUSSELS_SPROUTS:
+  name: Rozmačkaná růžičková kapusta
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_CABBAGE:
+  name: Rozmačkané zelí
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_CARROT:
+  name: Rozmačkaná mrkev
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_CAULIFLOWER:
+  name: Rozmačkaný květák
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_CAYENNE_PEPPER:
+  name: Rozmačkaný kajenský pepř
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_CELERIAC:
+  name: Rozmačkaný bulvový celer
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_CELERY:
+  name: Rozmačkaný řapíkatý celer
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_CHERRY:
+  name: Rozmačkaná třešeň
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_CHESTNUT:
+  name: Rozmačkaný kaštan
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_CHICKEN:
+  name: Rozmačkané kuře
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_CHICKPEAS:
+  name: Rozmačkaná cizrna
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_CHICORY:
+  name: Rozmačkaná čekanka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_CHILLY_PEPPER:
+  name: Rozmačkaná chilli paprička
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_CHIVES:
+  name: Rozmačkaná pažitka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_CHORUS_FRUIT:
+  name: Rozmačkaný plod chorusu
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_CILANTRO:
+  name: Rozmačkaný koriandr
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_CINNAMON:
+  name: Rozmačkaná skořice
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_CLOVE:
+  name: Rozmačkaný hřebíček
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_COCOA_BEANS:
+  name: Rozmačkané kakaové boby
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_COD:
+  name: Rozmačkaná treska
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_COURGETTE:
+  name: Rozmačkaná cuketa
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_CUCUMBER:
+  name: Rozmačkaná okurka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_CUMIN:
+  name: Rozmačkaný kmín
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_CURRY_LEAF:
+  name: Rozmačkaný kari list
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_DILL:
+  name: Rozmačkaný kopr
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_EGG:
+  name: Rozmačkané vajíčko
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_ENCHANTED_GOLDEN_APPLE:
+  name: Rozmačkané očarované zlaté jablko
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_FENNEL:
+  name: Rozmačkaný fenykl
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_GARLIC:
+  name: Rozmačkaný česnek
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_GINGER:
+  name: Rozmačkaný zázvor
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_GLOW_BERRIES:
+  name: Rozmačkané zářinky
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_GOLDEN_APPLE:
+  name: Rozmačkané zlaté jablko
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_GOLDEN_CARROT:
+  name: Rozmačkaná zlatá mrkev
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_GRAPE:
+  name: Rozmačkaný hrozen
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_GREEN_APPLE:
+  name: Rozmačkané zelené jablko
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_GREEN_BEANS:
+  name: Rozmačkané zelené fazolky
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_GREEN_ONION:
+  name: Rozmačkaná jarní cibulka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_HAZELNUT:
+  name: Rozmačkaný lískový oříšek
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_HORSERADISH:
+  name: Rozmačkaný křen
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_JALAPENO:
+  name: Rozmačkané jalapeño
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_JASMINE:
+  name: Rozmačkaný jasmín
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_JUNIPER_BERRY:
+  name: Rozmačkané jalovcové bobule
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_KAFFIR_LIME:
+  name: Rozmačkaný list kafírové limety
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_KALE:
+  name: Rozmačkaný kadeřávek
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_KELP:
+  name: Rozmačkaná chaluha
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_KIWI:
+  name: Rozmačkané kiwi
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_LAVENDER:
+  name: Rozmačkaná levandule
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_LEEK:
+  name: Rozmačkaný pórek
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_LEMON:
+  name: Rozmačkaný citron
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_LETTUCE:
+  name: Rozmačkaný hlávkový salát
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_LICORICE:
+  name: Rozmačkaná lékořice
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_LIME:
+  name: Rozmačkaná limeta
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_MACE:
+  name: Rozmačkaný muškátový květ
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_MANGO:
+  name: Rozmačkané mango
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_MARJORAM:
+  name: Rozmačkaná majoránka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_MARROW:
+  name: Rozmačkaná tykev
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_MELON:
+  name: Rozmačkaný meloun
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_MINT:
+  name: Rozmačkaná máta
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_MUSTARD_SEEDS:
+  name: Rozmačkané hořčičné semínko
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_MUTTON:
+  name: Rozmačkané skopové
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_NETTLES:
+  name: Rozmačkané kopřivy
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_OKRA:
+  name: Rozmačkaná okra
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_ONION:
+  name: Rozmačkaná cibule
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_ORANGE:
+  name: Rozmačkaný pomeranč
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_OREGANO:
+  name: Rozmačkané oregano
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_PARSLEY:
+  name: Rozmačkaná petržel
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_PARSNIP:
+  name: Rozmačkaný pastinák
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_PEA:
+  name: Rozmačkaný hrášek
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_PEACH:
+  name: Rozmačkaná broskev
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_PEANUT:
+  name: Rozmačkaný arašíd
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_PEAR:
+  name: Rozmačkaná hruška
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_PECAN:
+  name: Rozmačkaný pekanový ořech
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_PEPPER:
+  name: Rozmačkaný černý pepř
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_PEPPERONI:
+  name: Rozmačkaný pepperoni salám
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_PINEAPPLE:
+  name: Rozmačkaný ananas
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_PINTO_BEANS:
+  name: Rozmačkané fazole pinto
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_PORKCHOP:
+  name: Rozmačkaná kotleta
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_POTATO:
+  name: Rozmačkaná brambora
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_PUFFERFISH:
+  name: Rozmačkaný čtverzubec
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_PUMPKIN:
+  name: Rozmačkaná dýně
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_RABBIT:
+  name: Rozmačkaný králík
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_RADDISH:
+  name: Rozmačkaná ředkvička
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_RADICCHIO:
+  name: Rozmačkané radicchio
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_RAPESEED:
+  name: Rozmačkaná řepka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_RED_MUSHROOM:
+  name: Rozmačkaná muchomůrka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_RHUBARB:
+  name: Rozmačkaná rebarbora
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_RICE:
+  name: Rozmačkaná rýže
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_ROSEMARY:
+  name: Rozmačkaný rozmarýn
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_ROTTEN_FLESH:
+  name: Rozmačkané shnilé maso
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_RUNNER_BEANS:
+  name: Rozmačkané šarlatové fazole
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_RUTABAGA:
+  name: Rozmačkaný tuřín
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_SALMON:
+  name: Rozmačkaný losos
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_SASSAFRAS:
+  name: Rozmačkaný sassafras
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_SHALLOT:
+  name: Rozmačkaná šalotka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_SHISO:
+  name: Rozmačkaná perila
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_SOY_BEANS:
+  name: Rozmačkané sójové boby
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_SPINACH:
+  name: Rozmačkaný špenát
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_STAR_ANISE:
+  name: Rozmačkaný badyán
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_STRAWBERRY:
+  name: Rozmačkaná jahoda
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_SUGAR:
+  name: Rozmačkaný cukr
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_SWEETCORN:
+  name: Rozmačkaná kukuřice
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_SWEET_BERRIES:
+  name: Rozmačkané sladké bobule
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_SWEET_POTATO:
+  name: Rozmačkaný batát
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_TARRAGON:
+  name: Rozmačkaný estragon
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_THYME:
+  name: Rozmačkaný tymián
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_TOMATO:
+  name: Rozmačkané rajče
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_TURMERIC:
+  name: Rozmačkaná kurkuma
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_TURNIP:
+  name: Rozmačkaná vodnice
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_VANILLA:
+  name: Rozmačkaná vanilka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_WASABI:
+  name: Rozmačkané wasabi
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MASHED_WHEAT:
+  name: Rozmačkaná pšenice
+  type:
+  - '&7&oVedlejší produkt'
+CLT_MAYONNAISE:
+  name: Majonéza
+  type:
+  - '&7&oÚroda'
+  description:
+  - Hedvábně hladká majonéza, která se hodí skoro ke všemu.
+CLT_MEATBALLS:
+  name: Masové kuličky
+  type:
+  - '&7&oÚroda'
+  description:
+  - Kuličky z masa, kdo by to byl řek.
+CLT_MEATLOAF:
+  name: Sekaná
+  type:
+  - '&7&oJídlo'
+  description:
+  - Nic se tomu nevyrovná! Jdeme na to.
+  stats:
+  - '&8⇨ &7Léčení: &bPlné'
+  - '&8⇨ &bZesílení zdraví IV &7(10:00)'
+  - '&8⇨ &bOdolnost III &7(10:00)'
+  - '&8⇨ &bSpěch II &7(10:00)'
+  - '&8⇨ &bZpomalení II &7(10:00)'
+CLT_MINT:
+  name: Máta
+  type:
+  - '&7&oÚroda'
+  description:
+  - Žvýkej, žvýkej, žvýkej.
+CLT_MUSTARD:
+  name: Hořčice
+  type:
+  - '&7&oÚroda'
+  description:
+  - Pěkně to kopne!
+CLT_MUSTARD_SEEDS:
+  name: Semínka hořčice
+  type:
+  - '&7&oÚroda'
+  description:
+  - Zkus je žvýkat, jestli na to máš!
+CLT_NETTLES:
+  name: Kopřivy
+  type:
+  - '&7&oÚroda'
+  description:
+  - Než je vezmeš do ruky, nasaď si rukavice.
+CLT_OKRA:
+  name: Okra
+  type:
+  - '&7&oÚroda'
+  description:
+  - Hodně se pěstuje v Okra-homě... že jo, ŽE JO?
+CLT_ONION:
+  name: Cibule
+  type:
+  - '&7&oÚroda'
+  description:
+  - Počkej, proč brečíš?
+CLT_ORANGE:
+  name: Pomeranč
+  type:
+  - '&7&oÚroda'
+  description:
+  - Neměl by být spíš mechanický?
+CLT_ORANGE_JUICE:
+  name: Pomerančová šťáva
+  type:
+  - '&7&oJídlo'
+  description:
+  - Je to opravdu nejlepší způsob, jak začít den.
+  stats:
+  - '&8⇨ &bSvižnost IV &7(10:00)'
+CLT_OREGANO:
+  name: Oregano
+  type:
+  - '&7&oÚroda'
+  description:
+  - Klasická bylinka, která nesmí chybět ve spíži.
+CLT_PARSLEY:
+  name: Petržel
+  type:
+  - '&7&oÚroda'
+  description:
+  - Nejhorší. Bylinka. Všech dob.
+CLT_PARSNIP:
+  name: Pastinák
+  type:
+  - '&7&oÚroda'
+  description:
+  - Vyžaduje okamžité opražení.
+CLT_PASTA:
+  name: Těstoviny
+  type:
+  - '&7&oÚroda'
+  description:
+  - Prostě obyčejné těstoviny, jednoduché, a přesto úžasné.
+CLT_PEA:
+  name: Hrášek
+  type:
+  - '&7&oÚroda'
+  description:
+  - Prý se často nachází v páru v jednom lusku.
+CLT_PEACH:
+  name: Broskev
+  type:
+  - '&7&oÚroda'
+  description:
+  - O tom emoji se nemluví
+CLT_PEANUT:
+  name: Arašíd
+  type:
+  - '&7&oÚroda'
+  description:
+  - Reese's, už jdu!
+CLT_PEANUT_BUTTER:
+  name: Arašídové máslo
+  type:
+  - '&7&oÚroda'
+  description:
+  - Vyrovná se mu snad jen tekuté zlato.
+CLT_PEANUT_BUTTER_JELLY_SANDWICH:
+  name: Sendvič s arašídovým máslem a želé
+  type:
+  - '&7&oJídlo'
+  description:
+  - Je to opravdu vrchol sendvičové technologie.
+  stats:
+  - '&8⇨ &7Léčení: &b5 srdcí'
+  - '&8⇨ &bSíla III &7(10:00)'
+CLT_PEAR:
+  name: Hruška
+  type:
+  - '&7&oÚroda'
+  description:
+  - Neřekl bys, že to vypadá hruškově dokonale?
+CLT_PECAN:
+  name: Pekanový ořech
+  type:
+  - '&7&oÚroda'
+  description:
+  - Přímo prosí, aby se z toho upekl koláč.
+CLT_PECAN_PIE:
+  name: Pekanový koláč
+  type:
+  - '&7&oJídlo'
+  description:
+  - Jediný způsob, jak jíst čistý cukr, aniž by
+  - tě všichni odsuzovali.
+  stats:
+  - '&8⇨ &7Léčení: &b4 srdce'
+  - '&8⇨ &bLevitace I &7(10:00)'
+CLT_PEPPER:
+  name: Černý pepř
+  type:
+  - '&7&oÚroda'
+  description:
+  - Pikantnější než sůl.
+CLT_PEPPERONI:
+  name: Pepperoni salám
+  type:
+  - '&7&oÚroda'
+  description:
+  - Snědl bych toho celé poleno, v pohodě.
+CLT_PICO_DE_GALLO:
+  name: Pico de gallo
+  type:
+  - '&7&oÚroda'
+  description:
+  - Jemná salsa plná čiré lahodnosti.
+CLT_PIE_CRUST:
+  name: Korpus na koláč
+  type:
+  - '&7&oÚroda'
+  description:
+  - Kdyby bylo legální jíst to samotné,
+  - byl by to můj hlavní zdroj potravy.
+CLT_PINEAPPLE:
+  name: Ananas
+  type:
+  - '&7&oÚroda'
+  description:
+  - Tohle patří na každou pizzu, co kdy existovala.
+  - Chceš se o tom hádat!?
+CLT_PINTO_BEANS:
+  name: Fazole pinto
+  type:
+  - '&7&oÚroda'
+  description:
+  - Kačing! Je čas na burrito.
+CLT_PIZZA_CHEESE:
+  name: Sýrová pizza
+  type:
+  - '&7&oJídlo'
+  description:
+  - Proč by si někdo objednal jen sýr? Netuším.
+  stats:
+  - '&8⇨ &7Léčení: &b4 srdce'
+  - '&8⇨ &bZpomalení I &7(10:00)'
+CLT_PIZZA_MUSHROOM:
+  name: Houbová pizza
+  type:
+  - '&7&oJídlo'
+  description:
+  - Jednoduchá vegetariánská pizza plná bílkovin.
+  stats:
+  - '&8⇨ &7Léčení: &b6 srdcí'
+  - '&8⇨ &bZpomalení I &7(10:00)'
+  - '&8⇨ &bSpěch II &7(10:00)'
+CLT_PIZZA_PEPPERONI:
+  name: Pizza s pepperoni
+  type:
+  - '&7&oJídlo'
+  description:
+  - Newyorská klasika plná chuti.
+  stats:
+  - '&8⇨ &7Léčení: &b6 srdcí'
+  - '&8⇨ &bSvižnost I &7(10:00)'
+  - '&8⇨ &bSpěch I &7(10:00)'
+  - '&8⇨ &bVyšší skoky I &7(10:00)'
+CLT_PLANT_AIR:
+  name: Rostlina prvotního vzduchu
+  type:
+  - '&7&oRostlina'
+  description:
+  - Rostlina, která si tiše pobrukuje
+  - melodii okolní přírody.
+  - '&ePrvotní rostliny neprodukují předměty'
+  - '&ea slouží jen ke šlechtění.'
+CLT_PLANT_AMETHYST:
+  name: Rostlina ametystu
+  type:
+  - '&7&oRostlina'
+  description:
+  - Tato rostlina ráda vzkvétá v hlubokých, temných
+  - končinách.
+CLT_PLANT_ANALYSER:
+  name: Analyzátor rostlin
+  type:
+  - '&7&oNástroj'
+  description:
+  - Velmi jednoduchý nástroj, který ti
+  - ukáže podrobnosti rostoucí rostliny
+  usage:
+  - '&ePravé kliknutí&7: Zobrazí druh a podrobnosti růstu rostliny.'
+  - '&eShift + pravé kliknutí&7: Zobrazí název rostliny nebo keře.'
+CLT_PLANT_BASALT:
+  name: Rostlina čediče
+  type:
+  - '&7&oRostlina'
+  description:
+  - Velmi nudná a fádní rostlina.
+CLT_PLANT_BEE:
+  name: Rostlina včely
+  type:
+  - '&7&oRostlina'
+  description:
+  - Rostlina s velmi malými, křehkými křidélky.
+CLT_PLANT_BLACKSTONE:
+  name: Rostlina černokamene
+  type:
+  - '&7&oRostlina'
+  description:
+  - Rostlina, o které se ví, že pohlcuje světlo.
+CLT_PLANT_BLAZE:
+  name: Rostlina ohniváka
+  type:
+  - '&7&oRostlina'
+  description:
+  - Rostlina se spálenými okraji.
+CLT_PLANT_CHICKEN:
+  name: Rostlina kuřete
+  type:
+  - '&7&oRostlina'
+  description:
+  - Říká se, že když toto semínko podržíš
+  - nad hlavou a skočíš z nějakého
+  - vysokého místa, budeš plachtit, místo
+  - abys padal.
+CLT_PLANT_CLAY:
+  name: Rostlina jílu
+  type:
+  - '&7&oRostlina'
+  description:
+  - Tuto rostlinu lze volně tvarovat a přetvářet.
+  - To ale ještě neznamená, že je dobrý nápad
+  - to dělat!
+CLT_PLANT_COAL:
+  name: Rostlina uhlí
+  type:
+  - '&7&oRostlina'
+  description:
+  - Rostlina, která skrývá obrovský potenciál.
+CLT_PLANT_COBBLESTONE:
+  name: Rostlina kamení
+  type:
+  - '&7&oRostlina'
+  description:
+  - Tato rostlina je tvrdá jako skála.
+CLT_PLANT_CONCRETE:
+  name: Rostlina betonu
+  type:
+  - '&7&oRostlina'
+  description:
+  - Tato rostlina jen těžko roste, protože
+  - tak rychle tvrdne.
+CLT_PLANT_COW:
+  name: Rostlina krávy
+  type:
+  - '&7&oRostlina'
+  description:
+  - Když si toto semínko přiložíš k uchu
+  - a budeš velmi pozorně poslouchat, uslyšíš
+  - občasné bučení.
+CLT_PLANT_CREEPER:
+  name: Rostlina creepera
+  type:
+  - '&7&oRostlina'
+  description:
+  - Tsssssssssttt...
+CLT_PLANT_DARKNESS:
+  name: Rostlina prvotní temnoty
+  type:
+  - '&7&oRostlina'
+  description:
+  - Rostlina, která kypí nespoutaným
+  - vztekem.
+  - '&ePrvotní rostliny neprodukují předměty'
+  - '&ea slouží jen ke šlechtění.'
+CLT_PLANT_DARK_FLORA:
+  name: Rostlina temné flóry
+  type:
+  - '&7&oRostlina'
+  description:
+  - V tomto prostém semínku dřímá tiché zlo.
+CLT_PLANT_DARK_GRASS:
+  name: Rostlina temné trávy
+  type:
+  - '&7&oRostlina'
+  description:
+  - Rostlina, která úplně ztratila svou
+  - identitu.
+CLT_PLANT_DEEPSLATE:
+  name: Rostlina břidlice
+  type:
+  - '&7&oRostlina'
+  description:
+  - Hluboká, břidličnatá, <sem vlož popisek>.
+CLT_PLANT_DIAMOND:
+  name: Rostlina diamantu
+  type:
+  - '&7&oRostlina'
+  description:
+  - Rostlina, ze které přímo čiší bohatství.
+CLT_PLANT_DIM_LIT:
+  name: Tlumeně zářící rostlina
+  type:
+  - '&7&oRostlina'
+  description:
+  - Z nitra tohoto semínka vychází velmi slabé světlo.
+CLT_PLANT_DIRT:
+  name: Rostlina hlíny
+  type:
+  - '&7&oRostlina'
+  description:
+  - Na povrchu špinavá, ale ukrývá
+  - stavební kameny samotného života.
+CLT_PLANT_DROWNED:
+  name: Rostlina utopence
+  type:
+  - '&7&oRostlina'
+  description:
+  - Rostlina, která je pořád úplně
+  - promočená.
+CLT_PLANT_DUSTY:
+  name: Zaprášená rostlina
+  type:
+  - '&7&oRostlina'
+  description:
+  - Tato rostlina vyžaduje zvláštní péči, i nejmenší
+  - silnější vánek ji může stačit k tomu, aby se
+  - rozpadla.
+CLT_PLANT_EARTH:
+  name: Rostlina prvotní země
+  type:
+  - '&7&oRostlina'
+  description:
+  - Rostlina, která obohacuje svět
+  - kolem sebe.
+  - '&ePrvotní rostliny neprodukují předměty'
+  - '&ea slouží jen ke šlechtění.'
+CLT_PLANT_ECHO:
+  name: Rostlina ozvěny
+  type:
+  - '&7&oRostlina'
+  description:
+  - Tato rostlina vždycky ví, jak najít
+  - cestu domů.
+CLT_PLANT_ELDER_GUARDIAN:
+  name: Rostlina prastrážce
+  type:
+  - '&7&oRostlina'
+  description:
+  - V blízkosti této rostliny jsou lidé
+  - jako přibití.
+CLT_PLANT_EMERALD:
+  name: Rostlina smaragdu
+  type:
+  - '&7&oRostlina'
+  description:
+  - Majitelé této rostliny musí skákat
+  - přes obruče, jen aby si ji mohli dovolit.
+CLT_PLANT_ENDERMAN:
+  name: Rostlina endermana
+  type:
+  - '&7&oRostlina'
+  description:
+  - Pokud se s ní nezachází opatrně, může se tato
+  - rostlina náhodně teleportovat!
+CLT_PLANT_ENDER_DRAGON:
+  name: Rostlina draka z Endu
+  type:
+  - '&7&oRostlina'
+  description:
+  - Rostlina, která je pořádný boss.
+CLT_PLANT_END_STONE:
+  name: Rostlina enderitu
+  type:
+  - '&7&oRostlina'
+  description:
+  - Rostlina, která bzučí prázdnotou.
+CLT_PLANT_FIRE:
+  name: Rostlina prvotního ohně
+  type:
+  - '&7&oRostlina'
+  description:
+  - Rostlina, která poskytuje zdroje
+  - zkázy, ale zároveň i
+  - znovuzrození.
+  - '&ePrvotní rostliny neprodukují předměty'
+  - '&ea slouží jen ke šlechtění.'
+CLT_PLANT_FISH:
+  name: Rostlina ryby
+  type:
+  - '&7&oRostlina'
+  description:
+  - Z tohoto semínka se line vůně zralosti.
+CLT_PLANT_FLOWER:
+  name: Kvetoucí rostlina
+  type:
+  - '&7&oRostlina'
+  description:
+  - Krásný roh hojnosti, pěkně naservírovaný.
+CLT_PLANT_FROG:
+  name: Rostlina žáby
+  type:
+  - '&7&oRostlina'
+  description:
+  - Kvák!
+CLT_PLANT_GHAST:
+  name: Rostlina ghasta
+  type:
+  - '&7&oRostlina'
+  description:
+  - Rostlina, o které se ví, že
+  - náhodně střílí ohnivé koule.
+CLT_PLANT_GLASS:
+  name: Rostlina skla
+  type:
+  - '&7&oRostlina'
+  description:
+  - Ve správném úhlu bys mohl
+  - přísahat, že je tato rostlina průhledná.
+CLT_PLANT_GLAZED:
+  name: Glazovaná rostlina
+  type:
+  - '&7&oRostlina'
+  description:
+  - Rostlina, která roste se složitým vzorem.
+CLT_PLANT_GLOWING_VINE:
+  name: Rostlina zářivé liány
+  type:
+  - '&7&oRostlina'
+  description:
+  - Z nitra tohoto semínka vychází slabé světlo.
+CLT_PLANT_GLOW_SQUID:
+  name: Rostlina světélkující chobotnice
+  type:
+  - '&7&oRostlina'
+  description:
+  - Třpytivá rostlina se slabou září.
+CLT_PLANT_GOAT:
+  name: Rostlina kozy
+  type:
+  - '&7&oRostlina'
+  description:
+  - Nevyzpytatelně násilná rostlina, která
+  - ráda poskakuje.
+CLT_PLANT_GRASS:
+  name: Rostlina trávy
+  type:
+  - '&7&oRostlina'
+  description:
+  - Rašící život, který se dere
+  - ze země.
+CLT_PLANT_GRAVEL:
+  name: Rostlina štěrku
+  type:
+  - '&7&oRostlina'
+  description:
+  - Tahle rostlina fakt neví, jak
+  - se dát dohromady.
+CLT_PLANT_GUARDIAN:
+  name: Rostlina strážce
+  type:
+  - '&7&oRostlina'
+  description:
+  - Když se jí dotkneš, tato rostlina
+  - vystřelí trny.
+CLT_PLANT_IGNEOUS:
+  name: Vyvřelá rostlina
+  type:
+  - '&7&oRostlina'
+  description:
+  - Tato rostlina vznikla působením tepla a
+  - tlaku. Nekoukej na mě tak! Všechny ty
+  - popisky rostlin dávají naprostý smysl.
+CLT_PLANT_LAPIS:
+  name: Rostlina lapisu
+  type:
+  - '&7&oRostlina'
+  description:
+  - Rostlina se slabou magickou aurou.
+CLT_PLANT_LIGHT:
+  name: Rostlina prvotního světla
+  type:
+  - '&7&oRostlina'
+  description:
+  - Rostlina, která vyzařuje auru
+  - čisté lásky.
+  - '&ePrvotní rostliny neprodukují předměty'
+  - '&ea slouží jen ke šlechtění.'
+CLT_PLANT_MAGMA:
+  name: Rostlina magmatu
+  type:
+  - '&7&oRostlina'
+  description:
+  - Rostlina tak horká, že spaluje své
+  - okolí.
+CLT_PLANT_MAGMA_CUBE:
+  name: Rostlina magmaslizouna
+  type:
+  - '&7&oRostlina'
+  description:
+  - Když se nikdo nedívá, tato rostlina
+  - ráda poskakuje nahoru a dolů.
+CLT_PLANT_MOSS:
+  name: Rostlina mechu
+  type:
+  - '&7&oRostlina'
+  description:
+  - Tato rostlina má sklon nekontrolovatelně se šířit.
+CLT_PLANT_MUD:
+  name: Rostlina bahna
+  type:
+  - '&7&oRostlina'
+  description:
+  - Rostlina, která je skoro stejně špinavá jako
+  - hlína, ze které vyrostla.
+CLT_PLANT_MUSHROOM:
+  name: Rostlina houby
+  type:
+  - '&7&oRostlina'
+  description:
+  - Jo, rostlina, ze které rostou houby.
+  - Tady je všechno naprosto normální.
+CLT_PLANT_NETHERRACK:
+  name: Rostlina netherové suti
+  type:
+  - '&7&oRostlina'
+  description:
+  - Tuhá a odolná rostlina, která přežije
+  - ve většině končin.
+CLT_PLANT_NETHER_QUARTZ:
+  name: Rostlina netherového křemene
+  type:
+  - '&7&oRostlina'
+  description:
+  - Tato rostlina má tak ostré trny, že se
+  - s ní špatně pracuje.
+CLT_PLANT_PHANTOM:
+  name: Rostlina přízraku
+  type:
+  - '&7&oRostlina'
+  description:
+  - Rostlina s vznešeně vzdušnými listy.
+CLT_PLANT_PIG:
+  name: Rostlina prasete
+  type:
+  - '&7&oRostlina'
+  description:
+  - Rostlina, která náhodně chrochtá.
+CLT_PLANT_POWER:
+  name: Rostlina prvotní síly
+  type:
+  - '&7&oRostlina'
+  description:
+  - Rostlina, která přímo sálá mocí.
+  - '&ePrvotní rostliny neprodukují předměty'
+  - '&ea slouží jen ke šlechtění.'
+CLT_PLANT_PURPUR:
+  name: Rostlina purpuru
+  type:
+  - '&7&oRostlina'
+  description:
+  - Zvláštní rostlina, zdá se mnohem lehčí
+  - než většina ostatních.
+CLT_PLANT_RABBIT:
+  name: Rostlina králíka
+  type:
+  - '&7&oRostlina'
+  description:
+  - Bugs Bunny by byl hrdý.
+CLT_PLANT_RAINBOW:
+  name: Rostlina duhy
+  type:
+  - '&7&oRostlina'
+  description:
+  - Na konci této rostliny možná je, a možná
+  - není, hrnec zlata.
+CLT_PLANT_RAW_COPPER:
+  name: Rostlina vytěžené mědi
+  type:
+  - '&7&oRostlina'
+  description:
+  - Když ji necháš být, tato rostlina
+  - někdy přitahuje blesky.
+CLT_PLANT_RAW_GOLD:
+  name: Rostlina vytěženého zlata
+  type:
+  - '&7&oRostlina'
+  description:
+  - Tuto rostlinu piglini často kradou,
+  - když jsou poblíž.
+CLT_PLANT_RAW_IRON:
+  name: Rostlina vytěženého železa
+  type:
+  - '&7&oRostlina'
+  description:
+  - Statná rostlina, která odolá většině
+  - prostředí.
+CLT_PLANT_REDSTONE:
+  name: Rostlina redstonu
+  type:
+  - '&7&oRostlina'
+  description:
+  - Rostlina, která skrz naskrz překypuje silou.
+CLT_PLANT_RED_SAND:
+  name: Rostlina rudého písku
+  type:
+  - '&7&oRostlina'
+  description:
+  - Tato rostlina se někdy rozpadne
+  - při jediném dotyku, ale... rudějc.
+CLT_PLANT_REINFORCED:
+  name: Zpevněná rostlina
+  type:
+  - '&7&oRostlina'
+  description:
+  - Rostlina, která se dokáže udržet vzpřímeně
+  - navzdory čemukoli.
+CLT_PLANT_SAND:
+  name: Rostlina písku
+  type:
+  - '&7&oRostlina'
+  description:
+  - Tato rostlina se někdy rozpadne
+  - při jediném dotyku.
+CLT_PLANT_SAPLING:
+  name: Rostlina sazenice
+  type:
+  - '&7&oRostlina'
+  description:
+  - Tahle rostlina nedává vůbec žádný smysl...
+CLT_PLANT_SCRAPPY:
+  name: Šrotová rostlina
+  type:
+  - '&7&oRostlina'
+  description:
+  - Tato rostlina je opravdu vrcholem
+  - zahradnického umění.
+CLT_PLANT_SHEEP:
+  name: Rostlina ovce
+  type:
+  - '&7&oRostlina'
+  description:
+  - Rostlina s hrubou vlnatou texturou.
+CLT_PLANT_SHULKER:
+  name: Rostlina shulkera
+  type:
+  - '&7&oRostlina'
+  description:
+  - Rostlina, která se často vznáší
+  - nad zemí.
+CLT_PLANT_SKELETON:
+  name: Rostlina kostlivce
+  type:
+  - '&7&oRostlina'
+  description:
+  - Rostlina, která chrastí, když se pohupuje.
+CLT_PLANT_SLIME:
+  name: Rostlina slizouna
+  type:
+  - '&7&oRostlina'
+  description:
+  - Proč je to tak lepkavé?
+CLT_PLANT_SOUL:
+  name: Rostlina duše
+  type:
+  - '&7&oRostlina'
+  description:
+  - Rostlina, kterou je slyšet křičet,
+  - když je ticho.
+CLT_PLANT_SPECTRUM:
+  name: Rostlina prvotního spektra
+  type:
+  - '&7&oRostlina'
+  description:
+  - Rostlina, která nepatrně mění svou barvu.
+  - '&ePrvotní rostliny neprodukují předměty'
+  - '&ea slouží jen ke šlechtění.'
+CLT_PLANT_SPIDER:
+  name: Rostlina pavouka
+  type:
+  - '&7&oRostlina'
+  description:
+  - Zabij to, zabij to HNED!
+CLT_PLANT_SQUID:
+  name: Rostlina chobotnice
+  type:
+  - '&7&oRostlina'
+  description:
+  - Opatrně, už jen dotek této rostliny
+  - může způsobit, že vybuchne a postříká
+  - všechno kolem inkoustem.
+CLT_PLANT_STAINED:
+  name: Barvená rostlina
+  type:
+  - '&7&oRostlina'
+  description:
+  - Tato rostlina rozkládá světlo na skutečné
+  - spektrum, které dopadá na okolní předměty.
+CLT_PLANT_TERRA:
+  name: Rostlina terry
+  type:
+  - '&7&oRostlina'
+  description:
+  - Tvrdá zemitá rostlina, která praská pod tlakem.
+CLT_PLANT_TURTLE:
+  name: Rostlina želvy
+  type:
+  - '&7&oRostlina'
+  description:
+  - Semínko obklopené skořápkou tvrdou jako kámen.
+CLT_PLANT_VILLAGER:
+  name: Rostlina vesničana
+  type:
+  - '&7&oRostlina'
+  description:
+  - Jo, zhustili jsme esenci vesničana
+  - do rostliny. Prý to dost bolelo.
+CLT_PLANT_VINE:
+  name: Rostlina liány
+  type:
+  - '&7&oRostlina'
+  description:
+  - Rostlina, která se okamžitě sama
+  - zamotá.
+CLT_PLANT_WATER:
+  name: Rostlina prvotní vody
+  type:
+  - '&7&oRostlina'
+  description:
+  - Rostlina, která pečuje o své okolí
+  - a dává mu život.
+  - '&ePrvotní rostliny neprodukují předměty'
+  - '&ea slouží jen ke šlechtění.'
+CLT_PLANT_WAXY:
+  name: Vosková rostlina
+  type:
+  - '&7&oRostlina'
+  description:
+  - Míza z této rostliny tuhne do vosku
+  - ve tvaru dokonalé svíčky.
+CLT_PLANT_WEALTH:
+  name: Rostlina prvotního bohatství
+  type:
+  - '&7&oRostlina'
+  description:
+  - Rostlina, ze které přímo křičí nevázané bohatství.
+  - '&ePrvotní rostliny neprodukují předměty'
+  - '&ea slouží jen ke šlechtění.'
+CLT_PLANT_WITCH:
+  name: Rostlina čarodějnice
+  type:
+  - '&7&oRostlina'
+  description:
+  - Rostlina, která zní, jako by si potichu
+  - mumlala zaklínadla.
+CLT_PLANT_WITHER:
+  name: Rostlina withera
+  type:
+  - '&7&oRostlina'
+  description:
+  - Smrtící rostlina, se kterou je třeba
+  - zacházet opatrně.
+CLT_PLANT_WITHER_ROSE:
+  name: Rostlina witherovy růže
+  type:
+  - '&7&oRostlina'
+  description:
+  - Tato rostlina kolem sebe nějakým způsobem
+  - pulzuje škodlivou aurou.
+CLT_PLANT_WITHER_SKELETON:
+  name: Rostlina wither kostlivce
+  type:
+  - '&7&oRostlina'
+  description:
+  - Rostlina známá tím, že je nepolapitelná a odolná.
+CLT_PLANT_WOOLLY:
+  name: Vlnatá rostlina
+  type:
+  - '&7&oRostlina'
+  description:
+  - Vlnatá rostlina od kořínků až po okvětní lístky!
+CLT_PLANT_ZOMBIE:
+  name: Rostlina zombie
+  type:
+  - '&7&oRostlina'
+  description:
+  - Z této rostliny kape... něco...
+CLT_RADDISH:
+  name: Ředkvička
+  type:
+  - '&7&oÚroda'
+  description:
+  - Malé kapsičky svěžího, křupavého slunce.
+CLT_RADICCHIO:
+  name: Radicchio
+  type:
+  - '&7&oÚroda'
+  description:
+  - Psaní všech těch popisků trvá tak dlouho.
+  - Je to radicchio-lózní.
+CLT_RAMEN_BEEF:
+  name: Hovězí ramen
+  type:
+  - '&7&oJídlo'
+  description:
+  - Ne zrovna zdravá volba.
+  stats: &id004
+  - '&8⇨ &bZesílení zdraví I &7(10:00)'
+CLT_RAMEN_BEEF_HEARTY:
+  name: Vydatný hovězí ramen
+  type:
+  - '&7&oJídlo'
+  description:
+  - Zdravá volba.
+  stats: &id005
+  - '&8⇨ &7Léčení: &bPlné'
+  - '&8⇨ &bZesílení zdraví II &7(10:00)'
+  - '&8⇨ &bSvižnost I &7(10:00)'
+CLT_RAMEN_CHICKEN:
+  name: Kuřecí ramen
+  type:
+  - '&7&oJídlo'
+  description:
+  - Ne zrovna sytá volba.
+  stats: *id004
+CLT_RAMEN_CHICKEN_HEARTY:
+  name: Vydatný kuřecí ramen
+  type:
+  - '&7&oJídlo'
+  description:
+  - Sytá volba.
+  stats: *id005
+CLT_RAMEN_SEAFOOD:
+  name: Ramen s mořskými plody
+  type:
+  - '&7&oJídlo'
+  description:
+  - Ne zrovna uspokojivá volba.
+  stats: *id004
+CLT_RAMEN_SEAFOOD_HEARTY:
+  name: Vydatný ramen s mořskými plody
+  type:
+  - '&7&oJídlo'
+  description:
+  - Uspokojivá volba.
+  stats: *id005
+CLT_RAPESEED:
+  name: Řepka
+  type:
+  - '&7&oÚroda'
+  description:
+  - Často se z toho lisuje olej.
+CLT_RECIPE_UNLOCK:
+  name: Svitek znalostí Cultivation
+  type:
+  - '&7&oNástroj'
+  description:
+  - Klikni pravým tlačítkem a nauč se šlechtitelský
+  - recept Cultivation.
+CLT_RHUBARB:
+  name: Rebarbora
+  type:
+  - '&7&oÚroda'
+  description:
+  - Jen nezapomeň odstranit listy!
+CLT_RICE:
+  name: Rýže
+  type:
+  - '&7&oÚroda'
+  description:
+  - Pamatuj, žiješ jen rýžkrát!
+CLT_ROSEMARY:
+  name: Rozmarýn
+  type:
+  - '&7&oÚroda'
+  description:
+  - Často mu chybí tymián... teda čas.
+CLT_RUNNER_BEANS:
+  name: Šarlatové fazole
+  type:
+  - '&7&oÚroda'
+  description:
+  - Pořád se snaží utéct.
+CLT_RUTABAGA:
+  name: Tuřín
+  type:
+  - '&7&oÚroda'
+  description:
+  - Fakt to bolí, neříkat tomu Švéd.
+CLT_SALMON_NIGIRI:
+  name: Lososové nigiri
+  type:
+  - '&7&oJídlo'
+  description:
+  - Lahodná, a přesto jemná chuť.
+  stats:
+  - '&8⇨ &7Léčení: &b2 srdce'
+  - '&8⇨ &bRegenerace I &7(10:00)'
+CLT_SASSAFRAS:
+  name: Sassafras
+  type:
+  - '&7&oÚroda'
+  description:
+  - Jedlé Root Beer, fakt si to vygoogli,
+  - teď to kupuju pořád.
+CLT_SAUSAGE:
+  name: Klobása
+  type:
+  - '&7&oJídlo'
+  description:
+  - Bratr slaniny.
+  stats: &id007
+  - '&8⇨ &7Léčení: &b1 srdce'
+CLT_SEED_PACK:
+  name: Balíček semínek
+  type:
+  - '&7&oNástroj'
+  description:
+  - Klikni pravým tlačítkem a otevři tento balíček.
+  stats:
+  - '&8⇨ &7Nastaveno na: &bNic'
+CLT_SHAKSHUKA:
+  name: Šakšuka
+  type:
+  - '&7&oJídlo'
+  description:
+  - Jídlo, které zahřeje u srdce, s vajíčky na celé dny.
+  stats:
+  - '&8⇨ &7Léčení: &b4 srdce'
+  - '&8⇨ &bHrdina vesnice I &7(10:00)'
+  - '&8⇨ &bŠtěstí I &7(10:00)'
+CLT_SHALLOT:
+  name: Šalotka
+  type:
+  - '&7&oÚroda'
+  description:
+  - Šalotky já mám rád, i když jich je celý sad.
+CLT_SHEPHERDS_PIE:
+  name: Pastýřský koláč
+  type:
+  - '&7&oJídlo'
+  description:
+  - Hřejivé, vydatné a prostě úžasné.
+  stats: *id006
+CLT_SHISO:
+  name: Perila
+  type:
+  - '&7&oÚroda'
+  description:
+  - Máta s porcí lásky navíc.
+CLT_SLICED_APPLE:
+  name: Nakrájené jablko
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_APRICOT:
+  name: Nakrájená meruňka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_ARTICHOKE:
+  name: Nakrájený artyčok
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_ASPARAGUS:
+  name: Nakrájený chřest
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_AUBERGINE:
+  name: Nakrájený lilek
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_AVOCADO:
+  name: Nakrájené avokádo
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_BANANA:
+  name: Nakrájený banán
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_BASIL:
+  name: Nakrájená bazalka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_BAY_LEAF:
+  name: Nakrájený bobkový list
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_BEEF:
+  name: Nakrájené hovězí maso
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_BEETROOT:
+  name: Nakrájená červená řepa
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_BELL_PEPPER:
+  name: Nakrájená paprika
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_BLACK_BEANS:
+  name: Nakrájené černé fazole
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_BREAD:
+  name: Nakrájený chléb
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_BROCCOLI:
+  name: Nakrájená brokolice
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_BROWN_MUSHROOM:
+  name: Nakrájený hřib
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_BRUSSELS_SPROUTS:
+  name: Nakrájená růžičková kapusta
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_CABBAGE:
+  name: Nakrájené zelí
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_CARROT:
+  name: Nakrájená mrkev
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_CAULIFLOWER:
+  name: Nakrájený květák
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_CAYENNE_PEPPER:
+  name: Nakrájený kajenský pepř
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_CELERIAC:
+  name: Nakrájený bulvový celer
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_CELERY:
+  name: Nakrájený řapíkatý celer
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_CHERRY:
+  name: Nakrájená třešeň
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_CHESTNUT:
+  name: Nakrájený kaštan
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_CHICKEN:
+  name: Nakrájené kuře
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_CHICKPEAS:
+  name: Nakrájená cizrna
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_CHICORY:
+  name: Nakrájená čekanka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_CHILLY_PEPPER:
+  name: Nakrájená chilli paprička
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_CHIVES:
+  name: Nakrájená pažitka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_CHORUS_FRUIT:
+  name: Nakrájený plod chorusu
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_CILANTRO:
+  name: Nakrájený koriandr
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_CINNAMON:
+  name: Nakrájená skořice
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_CLOVE:
+  name: Nakrájený hřebíček
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_COCOA_BEANS:
+  name: Nakrájené kakaové boby
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_COD:
+  name: Nakrájená treska
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_COURGETTE:
+  name: Nakrájená cuketa
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_CUCUMBER:
+  name: Nakrájená okurka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_CUMIN:
+  name: Nakrájený kmín
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_CURRY_LEAF:
+  name: Nakrájený kari list
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_DILL:
+  name: Nakrájený kopr
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_EGG:
+  name: Nakrájené vajíčko
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_ENCHANTED_GOLDEN_APPLE:
+  name: Nakrájené očarované zlaté jablko
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_FENNEL:
+  name: Nakrájený fenykl
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_GARLIC:
+  name: Nakrájený česnek
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_GINGER:
+  name: Nakrájený zázvor
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_GLOW_BERRIES:
+  name: Nakrájené zářinky
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_GOLDEN_APPLE:
+  name: Nakrájené zlaté jablko
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_GOLDEN_CARROT:
+  name: Nakrájená zlatá mrkev
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_GRAPE:
+  name: Nakrájený hrozen
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_GREEN_APPLE:
+  name: Nakrájené zelené jablko
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_GREEN_BEANS:
+  name: Nakrájené zelené fazolky
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_GREEN_ONION:
+  name: Nakrájená jarní cibulka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_HAZELNUT:
+  name: Nakrájený lískový oříšek
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_HORSERADISH:
+  name: Nakrájený křen
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_JALAPENO:
+  name: Nakrájené jalapeño
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_JASMINE:
+  name: Nakrájený jasmín
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_JUNIPER_BERRY:
+  name: Nakrájené jalovcové bobule
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_KAFFIR_LIME:
+  name: Nakrájený list kafírové limety
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_KALE:
+  name: Nakrájený kadeřávek
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_KELP:
+  name: Nakrájená chaluha
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_KIWI:
+  name: Nakrájené kiwi
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_LAVENDER:
+  name: Nakrájená levandule
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_LEEK:
+  name: Nakrájený pórek
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_LEMON:
+  name: Nakrájený citron
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_LETTUCE:
+  name: Nakrájený hlávkový salát
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_LICORICE:
+  name: Nakrájená lékořice
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_LIME:
+  name: Nakrájená limeta
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_MACE:
+  name: Nakrájený muškátový květ
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_MANGO:
+  name: Nakrájené mango
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_MARJORAM:
+  name: Nakrájená majoránka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_MARROW:
+  name: Nakrájená tykev
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_MELON:
+  name: Nakrájený meloun
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_MINT:
+  name: Nakrájená máta
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_MUSTARD_SEEDS:
+  name: Nakrájené hořčičné semínko
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_MUTTON:
+  name: Nakrájené skopové
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_NETTLES:
+  name: Nakrájené kopřivy
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_OKRA:
+  name: Nakrájená okra
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_ONION:
+  name: Nakrájená cibule
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_ORANGE:
+  name: Nakrájený pomeranč
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_OREGANO:
+  name: Nakrájené oregano
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_PARSLEY:
+  name: Nakrájená petržel
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_PARSNIP:
+  name: Nakrájený pastinák
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_PEA:
+  name: Nakrájený hrášek
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_PEACH:
+  name: Nakrájená broskev
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_PEANUT:
+  name: Nakrájený arašíd
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_PEAR:
+  name: Nakrájená hruška
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_PECAN:
+  name: Nakrájený pekanový ořech
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_PEPPER:
+  name: Nakrájený černý pepř
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_PEPPERONI:
+  name: Nakrájený pepperoni salám
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_PINEAPPLE:
+  name: Nakrájený ananas
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_PINTO_BEANS:
+  name: Nakrájené fazole pinto
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_PORKCHOP:
+  name: Nakrájená kotleta
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_POTATO:
+  name: Nakrájená brambora
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_PUFFERFISH:
+  name: Nakrájený čtverzubec
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_PUMPKIN:
+  name: Nakrájená dýně
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_RABBIT:
+  name: Nakrájený králík
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_RADDISH:
+  name: Nakrájená ředkvička
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_RADICCHIO:
+  name: Nakrájené radicchio
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_RAPESEED:
+  name: Nakrájená řepka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_RED_MUSHROOM:
+  name: Nakrájená muchomůrka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_RHUBARB:
+  name: Nakrájená rebarbora
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_RICE:
+  name: Nakrájená rýže
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_ROSEMARY:
+  name: Nakrájený rozmarýn
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_ROTTEN_FLESH:
+  name: Nakrájené shnilé maso
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_RUNNER_BEANS:
+  name: Nakrájené šarlatové fazole
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_RUTABAGA:
+  name: Nakrájený tuřín
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_SALMON:
+  name: Nakrájený losos
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_SASSAFRAS:
+  name: Nakrájený sassafras
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_SHALLOT:
+  name: Nakrájená šalotka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_SHISO:
+  name: Nakrájená perila
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_SOY_BEANS:
+  name: Nakrájené sójové boby
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_SPINACH:
+  name: Nakrájený špenát
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_STAR_ANISE:
+  name: Nakrájený badyán
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_STRAWBERRY:
+  name: Nakrájená jahoda
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_SUGAR:
+  name: Nakrájený cukr
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_SWEETCORN:
+  name: Nakrájená kukuřice
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_SWEET_BERRIES:
+  name: Nakrájené sladké bobule
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_SWEET_POTATO:
+  name: Nakrájený batát
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_TARRAGON:
+  name: Nakrájený estragon
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_THYME:
+  name: Nakrájený tymián
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_TOMATO:
+  name: Nakrájené rajče
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_TURMERIC:
+  name: Nakrájená kurkuma
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_TURNIP:
+  name: Nakrájená vodnice
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_VANILLA:
+  name: Nakrájená vanilka
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_WASABI:
+  name: Nakrájené wasabi
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SLICED_WHEAT:
+  name: Nakrájená pšenice
+  type:
+  - '&7&oVedlejší produkt'
+CLT_SOFT_BOILED_EGG:
+  name: Vejce naměkko
+  type:
+  - '&7&oJídlo'
+  description:
+  - Prostě vařené vajíčko, co víc k tomu říct.
+  stats:
+  - '&8⇨ &7Léčení: &b1 srdce'
+  - '&8⇨ &7Někdy ti na pomoc přivolá slepici.'
+CLT_SOYLENT:
+  name: Soylent
+  type:
+  - '&7&oJídlo'
+  description:
+  - Všechno, co tělo potřebuje!
+  stats:
+  - '&8⇨ &bZlověstné znamení I &7(10:00)'
+  - '&8⇨ &bOslabení IV &7(10:00)'
+CLT_SOY_BEANS:
+  name: Sójové boby
+  type:
+  - '&7&oÚroda'
+  description:
+  - Sójové mléko přichází.
+CLT_SPAGHETTI:
+  name: Špagety
+  type:
+  - '&7&oJídlo'
+  description:
+  - Jen srkej dál.
+  stats: *id007
+CLT_SPAGHETTI_AND_MEATBALLS:
+  name: Špagety s masovými kuličkami
+  type:
+  - '&7&oJídlo'
+  description:
+  - Jednoduché, klasické a vydatné.
+  stats:
+  - '&8⇨ &7Léčení: &b1 srdce'
+  - '&8⇨ &bZlověstné znamení I &7(10:00)'
+CLT_SPINACH:
+  name: Špenát
+  type:
+  - '&7&oÚroda'
+  description:
+  - Spařený s láskou.
+CLT_STAR_ANISE:
+  name: Badyán
+  type:
+  - '&7&oÚroda'
+  description:
+  - Jedna z nejlepších a nejjedinečnějších chutí.
+CLT_STRAWBERRY:
+  name: Jahoda
+  type:
+  - '&7&oÚroda'
+  description:
+  - Stačí přidat smetanu!
+CLT_STRAWBERRY_JELLY:
+  name: Jahodové želé
+  type:
+  - '&7&oÚroda'
+  description: *id008
+CLT_SUGARED_SKULL:
+  name: Cukrová lebka
+  type:
+  - '&7&oJídlo'
+  description:
+  - Je tohle vůbec jídlo...?
+  stats:
+  - '&8⇨ &bTemnota III &7(10:00)'
+CLT_SWEETCORN:
+  name: Kukuřice
+  type:
+  - '&7&oÚroda'
+  description:
+  - Možná nejlepší zelenina široko daleko.
+CLT_SWEET_BEEHIVE:
+  name: Sladký úl
+  type:
+  - '&7&oJídlo'
+  description:
+  - Netuším, co tě vedlo k tomu, tohle uvařit!
+  stats:
+  - '&8⇨ &7Přivolá pár včel!'
+CLT_SWEET_POTATO:
+  name: Batát
+  type:
+  - '&7&oÚroda'
+  description:
+  - Ňam ňam ňam.
+CLT_TAQUITO:
+  name: Taquito
+  type:
+  - '&7&oJídlo'
+  description:
+  - Zim by byl hrdý!
+  stats:
+  - '&8⇨ &7Léčení: &b4 srdce'
+  - '&8⇨ &7Přivolá na pomoc Gira (je to železný golem, klid).'
+CLT_TARRAGON:
+  name: Estragon
+  type:
+  - '&7&oÚroda'
+  description:
+  - Dávám to doslova na všechno.
+  - 'Spoiler: Nejsem dobrý kuchař.'
+CLT_TATER_TOTS:
+  name: Bramborové krokety
+  type:
+  - '&7&oJídlo'
+  description:
+  - Malé bramborové kuličky do pusy.
+  stats:
+  - '&8⇨ &7Léčení: &b0.5 srdce'
+  - '&8⇨ &bSvižnost II &7(10:00)'
+CLT_THYME:
+  name: Tymián
+  type:
+  - '&7&oÚroda'
+  description:
+  - Často mu chyběl rozmarýn.
+CLT_TOMATO:
+  name: Rajče
+  type:
+  - '&7&oÚroda'
+  description:
+  - Rovnou z révy.... ehm... z keře?
+CLT_TORTILLAS:
+  name: Tortilly
+  type:
+  - '&7&oÚroda'
+  description:
+  - Dobroty z kukuřičné mouky
+CLT_TREE_APRICOT:
+  name: Meruňkový strom
+  type:
+  - '&7&oSazenice'
+  description:
+  - Uvnitř je jediná pecka zoufalství.
+  stats: &id009
+  - '&8⇨ &7Návrh: &bBWhite'
+CLT_TREE_BANANA:
+  name: Banánovník
+  type:
+  - '&7&oSazenice'
+  description:
+  - Strom, kterému rostou prsty, hrůza!
+  stats:
+  - '&8⇨ &7Návrh: &bSefiraat'
+CLT_TREE_CHERRY:
+  name: Třešňový strom
+  type:
+  - '&7&oSazenice'
+  description:
+  - Udělej na tom uzel!
+  stats:
+  - '&8⇨ &7Návrh: &bReasonFoundDecoy'
+CLT_TREE_CHESTNUT:
+  name: Kaštanovník
+  type:
+  - '&7&oSazenice'
+  description:
+  - Strom, který je jasně navržený k lezení.
+  stats: &id010
+  - '&8⇨ &7Návrh: &bABitOddish'
+CLT_TREE_GREEN_APPLE:
+  name: Zelená jabloň
+  type:
+  - '&7&oSazenice'
+  description:
+  - Rodí velká a křupavá zelená jablka.
+  stats: *id009
+CLT_TREE_HAZELNUT:
+  name: Líska
+  type:
+  - '&7&oSazenice'
+  description:
+  - Třesení tímto stromem je oblíbená dětská zábava.
+  stats: *id010
+CLT_TREE_KIWI:
+  name: Strom kiwi
+  type:
+  - '&7&oSazenice'
+  description:
+  - Novozélandský strom? Mám to správně?
+  stats: *id010
+CLT_TREE_LEMON:
+  name: Citroník
+  type:
+  - '&7&oSazenice'
+  description:
+  - Už jen pohled na tenhle strom chutná kysele.
+  stats: &id011
+  - '&8⇨ &7Návrh: &bJeff'
+CLT_TREE_LIME:
+  name: Limetovník
+  type:
+  - '&7&oSazenice'
+  description:
+  - Věděl jsi, že limety jsou jen citrony, které zadržují dech?
+  stats: *id010
+CLT_TREE_MANGO:
+  name: Mangovník
+  type:
+  - '&7&oSazenice'
+  description:
+  - Nejlepší, když je nejzralejší.
+  stats: *id009
+CLT_TREE_ORANGE:
+  name: Pomerančovník
+  type:
+  - '&7&oSazenice'
+  description:
+  - Malé koule slunečního svitu.
+  stats: *id011
+CLT_TREE_PEACH:
+  name: Broskvoň
+  type:
+  - '&7&oSazenice'
+  description:
+  - Tohle asi hledal James, ne?
+  stats: *id010
+CLT_TREE_PEAR:
+  name: Hrušeň
+  type:
+  - '&7&oSazenice'
+  description:
+  - Pár hrušek se spároval pro parádu.
+  stats: *id009
+CLT_TREE_PECAN:
+  name: Pekanovník
+  type:
+  - '&7&oSazenice'
+  description:
+  - Dokážeme vypěstovat tenhle strom? Jasně, pekan-ky!
+  stats: *id009
+CLT_TREE_PINEAPPLE:
+  name: Ananasovník
+  type:
+  - '&7&oSazenice'
+  description:
+  - KDE JE MOJE PIZZA?
+  stats: *id010
+CLT_TURMERIC:
+  name: Kurkuma
+  type:
+  - '&7&oÚroda'
+  description:
+  - Výrazné pižmové aroma, které obohatí mnoho jídel.
+CLT_TURNIP:
+  name: Vodnice
+  type:
+  - '&7&oÚroda'
+  description:
+  - Vyřeší všechny životní problémy.
+CLT_VANILLA:
+  name: Vanilka
+  type:
+  - '&7&oÚroda'
+  description:
+  - 'Návod: Namoč rovnou do latte'
+CLT_WASABI:
+  name: Wasabi
+  type:
+  - '&7&oÚroda'
+  description:
+  - Pomoc... wasabi...
+CLT_WITHER_ROSE_SALAD:
+  name: Salát z witherovy růže
+  type:
+  - '&7&oJídlo'
+  description:
+  - Překypuje silou, ale má drsný vedlejší účinek.
+  stats:
+  - '&8⇨ &7Léčení: &bPlné'
+  - '&8⇨ &bUsychání II &7(10:00)'
+  - '&8⇨ &bZesílení zdraví XX &7(10:00)'

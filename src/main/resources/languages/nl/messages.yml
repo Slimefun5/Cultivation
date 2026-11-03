@@ -1,0 +1,65 @@
+lore:
+  seed-pack-set-to: Ingesteld op
+  knowledge-script-unlocks: Ontgrendelt
+  drop-level: Opbrengstniveau
+  growth-speed: Groeisnelheid
+  breed-strength: Kweekkracht
+command:
+  no-permission: Je hebt geen toestemming om dit te doen.
+  invalid-subcommand: Geef een geldig subcommando op.
+  players-only: Dit commando kan alleen door een speler worden uitgevoerd.
+  hold-seed-pack: Je moet hiervoor een zadenzakje vasthouden.
+  pack-empty: Dit zakje is leeg!
+  pack-contents: Inhoud
+  pack-entry: Niveau %level%, snelheid %speed%, kracht %strength%
+kitchen:
+  recipe-disabled: Dit recept is uitgeschakeld.
+  no-recipe: Geen passend recept.
+  not-enough-power: Niet genoeg stroom.
+  input-empty: Doe een item in het invoervak.
+  cooked: Lekker!
+food:
+  eaten: Heerlijk! Je zit helemaal vol.
+  not-hungry: Je hebt nog geen honger! Je kunt maar één keer per halve dag eten (10 minuten).
+  palate-cleansed: Je voelt hoe je smaakpapillen weer helemaal fris worden.
+  ouch: Au!
+knowledge-script:
+  learned: Je hebt geleerd hoe je %plant% kweekt.
+seed-pack:
+  title: Zadenzakje
+  unstack-first: Je moet je zadenzakjes eerst uit de stapel halen.
+  not-a-seed: Het item moet een zaadje van een Cultivation-plant zijn.
+  empty-before-change: Je moet een zakje legen voordat je de plant verandert.
+  no-plant-set: Je hebt nog geen plant ingesteld.
+  none-stored: Je hebt geen zaadjes van deze soort met deze niveaus.
+  set-here: Zaadje hier instellen
+  retrieve-here: Hier ophalen
+  no-seed-set: Geen zaadje ingesteld
+  no-seed-set-lore:
+  - Klik op het icoon links terwijl je
+  - een zaadje vasthoudt om het zakje in te stellen.
+  empty-set: Lege set
+  empty-set-lore:
+  - Je hebt geen zaadjes die passen bij
+  - deze niveaus.
+  stored-seed: Opgeslagen zaadsoort
+  take-seed: Een zaadje uit het zakje nemen
+  level: Niveau
+  speed: Snelheid
+  strength: Kracht
+  left-click: Linksklik
+  right-click: Rechtsklik
+  increase: '%stat% verhogen'
+  decrease: '%stat% verlagen'
+  current: Huidig
+codex:
+  title: Plantencodex
+  child: Kindplant
+  mother: Moederplant
+  father: Vaderplant
+  growth-rate: Groeitempo
+  not-discovered: Niet ontdekt
+  not-discovered-lore:
+  - Je hebt nog niet ontdekt hoe je
+  - deze plant kweekt!
+  discovery: Ontdekking

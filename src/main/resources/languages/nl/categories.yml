@@ -1,0 +1,13 @@
+cultivation:
+  main: Cultivation
+  hidden: Verborgen
+  crafting: Vervaardigingsitems
+  tools: Gereedschap
+  machines: Machines
+  plants: Planten
+  bushes: Struiken
+  trees: Bomen
+  produce: Oogst
+  by-products: Bijproducten
+  foods: Voedsel
+  plant_codex: Plantencodex

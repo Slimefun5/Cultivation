@@ -1,0 +1,6674 @@
+CLT_APRICOT:
+  name: Morela
+  type:
+  - '&7&oPlon'
+  description:
+  - Można z nich robić Pokéballe.
+  - '...'
+  - Jak to, to coś innego...?
+CLT_ARTICHOKE:
+  name: Karczoch
+  type:
+  - '&7&oPlon'
+  description:
+  - Wyrwij mu SERCE!
+CLT_ASPARAGUS:
+  name: Szparagi
+  type:
+  - '&7&oPlon'
+  description:
+  - Uważaj potem przy wizycie w toalecie.
+CLT_AUBERGINE:
+  name: Bakłażan
+  type:
+  - '&7&oPlon'
+  description:
+  - Jaskrawo fioletowy i w 100% NIE w kształcie jajka.
+  - Lepiej mówić na niego "jajowiec", prawda?
+CLT_AVOCADO:
+  name: Awokado
+  type:
+  - '&7&oPlon'
+  description:
+  - O tym marzą hipsterzy.
+CLT_BACON_SANDWICH:
+  name: Kanapka z bekonem
+  type:
+  - '&7&oJedzenie'
+  description:
+  - Prosty klasyk!
+  stats:
+  - '&8⇨ &7Leczenie: &b2 serca'
+  - '&8⇨ &bSiła I &7(10:00)'
+  - '&8⇨ &bSzybkość I &7(10:00)'
+CLT_BAGEL:
+  name: Bajgiel
+  type:
+  - '&7&oJedzenie'
+  description:
+  - Tostowany? Czy może...
+  stats:
+  - '&8⇨ &7Leczenie: &b2.5 serca'
+CLT_BAGEL_BITE:
+  name: Kęs bajgla
+  type:
+  - '&7&oJedzenie'
+  description:
+  - Pizza o każdej porze!
+  stats:
+  - '&8⇨ &7Parzy usta przy każdym kęsie!'
+CLT_BAGEL_CREAM_CHEESE:
+  name: Bajgiel z serkiem śmietankowym
+  type:
+  - '&7&oJedzenie'
+  description:
+  - Tak dobre, że pewnie zechcesz jeszcze jedno.
+  stats:
+  - '&8⇨ &7Leczenie: &b5 serc'
+  - '&8⇨ &bZwiększenie zdrowia I &7(10:00)'
+CLT_BANANA:
+  name: Banan
+  type:
+  - '&7&oPlon'
+  description:
+  - Ten banan to mój typ, aż mnie obiera z rozumu!
+CLT_BASIL:
+  name: Bazylia
+  type:
+  - '&7&oPlon'
+  description:
+  - Słodki liść z delikatnie pieprzowym posmakiem.
+CLT_BAY_LEAF:
+  name: Liść laurowy
+  type:
+  - '&7&oPlon'
+  description:
+  - Silny aromat o wielu zastosowaniach.
+CLT_BELL_PEPPER:
+  name: Papryka
+  type:
+  - '&7&oPlon'
+  description:
+  - Dźwięczy prawdą jak dzwon.
+CLT_BISCUIT:
+  name: Herbatnik
+  type:
+  - '&7&oJedzenie'
+  description:
+  - Mała przekąska o ogromnym smaku.
+  stats: &id002
+  - '&8⇨ &7Wystrzeliwuje cię w powietrze'
+CLT_BISCUIT_BASE:
+  name: Spód z herbatników
+  type:
+  - '&7&oPlon'
+  description:
+  - To, że jest teraz płaskie, nie znaczy,
+  - że możesz jeść je na surowo.
+CLT_BISCUIT_DOUGH:
+  name: Ciasto na herbatniki
+  type:
+  - '&7&oPlon'
+  description:
+  - 'Powtarzaj sobie: "Nie jedz tego na surowo."'
+CLT_BLACK_BEANS:
+  name: Czarna fasola
+  type:
+  - '&7&oPlon'
+  description:
+  - Pyszne wegetariańskie białko.
+CLT_BLENDED_APPLE:
+  name: Zmiksowane jabłko
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_APRICOT:
+  name: Zmiksowana morela
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_ARTICHOKE:
+  name: Zmiksowany karczoch
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_ASPARAGUS:
+  name: Zmiksowane szparagi
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_AUBERGINE:
+  name: Zmiksowany bakłażan
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_AVOCADO:
+  name: Zmiksowane awokado
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_BANANA:
+  name: Zmiksowany banan
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_BASIL:
+  name: Zmiksowana bazylia
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_BAY_LEAF:
+  name: Zmiksowany liść laurowy
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_BEEF:
+  name: Zmiksowana wołowina
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_BEETROOT:
+  name: Zmiksowany burak
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_BELL_PEPPER:
+  name: Zmiksowana papryka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_BLACK_BEANS:
+  name: Zmiksowana czarna fasola
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_BREAD:
+  name: Zmiksowany chleb
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_BROCCOLI:
+  name: Zmiksowany brokuł
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_BROWN_MUSHROOM:
+  name: Zmiksowany borowik
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_BRUSSELS_SPROUTS:
+  name: Zmiksowana brukselka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_CABBAGE:
+  name: Zmiksowana kapusta
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_CARROT:
+  name: Zmiksowana marchewka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_CAULIFLOWER:
+  name: Zmiksowany kalafior
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_CAYENNE_PEPPER:
+  name: Zmiksowany pieprz cayenne
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_CELERIAC:
+  name: Zmiksowany seler korzeniowy
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_CELERY:
+  name: Zmiksowany seler naciowy
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_CHERRY:
+  name: Zmiksowana wiśnia
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_CHESTNUT:
+  name: Zmiksowany kasztan
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_CHICKEN:
+  name: Zmiksowany kurczak
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_CHICKPEAS:
+  name: Zmiksowana ciecierzyca
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_CHICORY:
+  name: Zmiksowana cykoria
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_CHILLY_PEPPER:
+  name: Zmiksowana papryczka chili
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_CHIVES:
+  name: Zmiksowany szczypiorek
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_CHORUS_FRUIT:
+  name: Zmiksowany owoc refrenusu
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_CILANTRO:
+  name: Zmiksowana kolendra
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_CINNAMON:
+  name: Zmiksowany cynamon
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_CLOVE:
+  name: Zmiksowany goździk
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_COCOA_BEANS:
+  name: Zmiksowane ziarna kakaowe
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_COD:
+  name: Zmiksowany dorsz
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_COURGETTE:
+  name: Zmiksowana cukinia
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_CUCUMBER:
+  name: Zmiksowany ogórek
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_CUMIN:
+  name: Zmiksowany kmin rzymski
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_CURRY_LEAF:
+  name: Zmiksowany liść curry
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_DILL:
+  name: Zmiksowany koperek
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_EGG:
+  name: Zmiksowane jajko
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_ENCHANTED_GOLDEN_APPLE:
+  name: Zmiksowane zaklęte złote jabłko
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_FENNEL:
+  name: Zmiksowany koper włoski
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_GARLIC:
+  name: Zmiksowany czosnek
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_GINGER:
+  name: Zmiksowany imbir
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_GLOW_BERRIES:
+  name: Zmiksowane świecące jagody
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_GOLDEN_APPLE:
+  name: Zmiksowane złote jabłko
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_GOLDEN_CARROT:
+  name: Zmiksowana złota marchewka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_GRAPE:
+  name: Zmiksowane winogrono
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_GREEN_APPLE:
+  name: Zmiksowane zielone jabłko
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_GREEN_BEANS:
+  name: Zmiksowana fasolka szparagowa
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_GREEN_ONION:
+  name: Zmiksowana zielona cebulka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_HAZELNUT:
+  name: Zmiksowany orzech laskowy
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_HORSERADISH:
+  name: Zmiksowany chrzan
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_JALAPENO:
+  name: Zmiksowana papryczka jalapeño
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_JASMINE:
+  name: Zmiksowany jaśmin
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_JUNIPER_BERRY:
+  name: Zmiksowane jagody jałowca
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_KAFFIR_LIME:
+  name: Zmiksowany liść limonki kaffir
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_KALE:
+  name: Zmiksowany jarmuż
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_KELP:
+  name: Zmiksowany wodorost
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_KIWI:
+  name: Zmiksowane kiwi
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_LAVENDER:
+  name: Zmiksowana lawenda
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_LEEK:
+  name: Zmiksowany por
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_LEMON:
+  name: Zmiksowana cytryna
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_LETTUCE:
+  name: Zmiksowana sałata
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_LICORICE:
+  name: Zmiksowana lukrecja
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_LIME:
+  name: Zmiksowana limonka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_MACE:
+  name: Zmiksowany kwiat muszkatołowca
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_MANGO:
+  name: Zmiksowane mango
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_MARJORAM:
+  name: Zmiksowany majeranek
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_MARROW:
+  name: Zmiksowany kabaczek
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_MELON:
+  name: Zmiksowany arbuz
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_MINT:
+  name: Zmiksowana mięta
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_MUSTARD_SEEDS:
+  name: Zmiksowane ziarna gorczycy
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_MUTTON:
+  name: Zmiksowana baranina
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_NETTLES:
+  name: Zmiksowana pokrzywa
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_OKRA:
+  name: Zmiksowana okra
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_ONION:
+  name: Zmiksowana cebula
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_ORANGE:
+  name: Zmiksowana pomarańcza
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_OREGANO:
+  name: Zmiksowane oregano
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_PARSLEY:
+  name: Zmiksowana pietruszka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_PARSNIP:
+  name: Zmiksowany pasternak
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_PEA:
+  name: Zmiksowany groszek
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_PEACH:
+  name: Zmiksowana brzoskwinia
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_PEANUT:
+  name: Zmiksowany orzeszek ziemny
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_PEAR:
+  name: Zmiksowana gruszka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_PECAN:
+  name: Zmiksowany orzech pekan
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_PEPPER:
+  name: Zmiksowany czarny pieprz
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_PEPPERONI:
+  name: Zmiksowane pepperoni
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_PINEAPPLE:
+  name: Zmiksowany ananas
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_PINTO_BEANS:
+  name: Zmiksowana fasola pinto
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_PORKCHOP:
+  name: Zmiksowana wieprzowina
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_POTATO:
+  name: Zmiksowany ziemniak
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_PUFFERFISH:
+  name: Zmiksowana rozdymka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_PUMPKIN:
+  name: Zmiksowana dynia
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_RABBIT:
+  name: Zmiksowany królik
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_RADDISH:
+  name: Zmiksowana rzodkiewka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_RADICCHIO:
+  name: Zmiksowane radicchio
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_RAPESEED:
+  name: Zmiksowany rzepak
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_RED_MUSHROOM:
+  name: Zmiksowany muchomor
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_RHUBARB:
+  name: Zmiksowany rabarbar
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_RICE:
+  name: Zmiksowany ryż
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_ROSEMARY:
+  name: Zmiksowany rozmaryn
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_ROTTEN_FLESH:
+  name: Zmiksowane zgniłe mięso
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_RUNNER_BEANS:
+  name: Zmiksowana fasola wielokwiatowa
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_RUTABAGA:
+  name: Zmiksowana brukiew
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_SALMON:
+  name: Zmiksowany łosoś
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_SASSAFRAS:
+  name: Zmiksowany sasafras
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_SHALLOT:
+  name: Zmiksowana szalotka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_SHISO:
+  name: Zmiksowane shiso
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_SOY_BEANS:
+  name: Zmiksowana soja
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_SPINACH:
+  name: Zmiksowany szpinak
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_STAR_ANISE:
+  name: Zmiksowany anyż gwiazdkowaty
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_STRAWBERRY:
+  name: Zmiksowana truskawka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_SUGAR:
+  name: Zmiksowany cukier
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_SWEETCORN:
+  name: Zmiksowana kukurydza
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_SWEET_BERRIES:
+  name: Zmiksowane słodkie jagody
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_SWEET_POTATO:
+  name: Zmiksowany batat
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_TARRAGON:
+  name: Zmiksowany estragon
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_THYME:
+  name: Zmiksowany tymianek
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_TOMATO:
+  name: Zmiksowany pomidor
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_TURMERIC:
+  name: Zmiksowana kurkuma
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_TURNIP:
+  name: Zmiksowana rzepa
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_VANILLA:
+  name: Zmiksowana wanilia
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_WASABI:
+  name: Zmiksowane wasabi
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLENDED_WHEAT:
+  name: Zmiksowana pszenica
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BLUE_CANDY:
+  name: Niebieski cukierek
+  type:
+  - '&7&oJedzenie'
+  description:
+  - Rozkosznie słodki cukierek.
+  stats:
+  - '&8⇨ &7Przywołuje Allaya'
+CLT_BOILED_APPLE:
+  name: Gotowane jabłko
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_APRICOT:
+  name: Gotowana morela
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_ARTICHOKE:
+  name: Gotowany karczoch
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_ASPARAGUS:
+  name: Gotowane szparagi
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_AUBERGINE:
+  name: Gotowany bakłażan
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_AVOCADO:
+  name: Gotowane awokado
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_BANANA:
+  name: Gotowany banan
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_BASIL:
+  name: Gotowana bazylia
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_BAY_LEAF:
+  name: Gotowany liść laurowy
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_BEEF:
+  name: Gotowana wołowina
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_BEETROOT:
+  name: Gotowany burak
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_BELL_PEPPER:
+  name: Gotowana papryka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_BLACK_BEANS:
+  name: Gotowana czarna fasola
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_BREAD:
+  name: Gotowany chleb
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_BROCCOLI:
+  name: Gotowany brokuł
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_BROWN_MUSHROOM:
+  name: Gotowany borowik
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_BRUSSELS_SPROUTS:
+  name: Gotowana brukselka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_CABBAGE:
+  name: Gotowana kapusta
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_CARROT:
+  name: Gotowana marchewka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_CAULIFLOWER:
+  name: Gotowany kalafior
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_CAYENNE_PEPPER:
+  name: Gotowany pieprz cayenne
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_CELERIAC:
+  name: Gotowany seler korzeniowy
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_CELERY:
+  name: Gotowany seler naciowy
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_CHERRY:
+  name: Gotowana wiśnia
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_CHESTNUT:
+  name: Gotowany kasztan
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_CHICKEN:
+  name: Gotowany kurczak
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_CHICKPEAS:
+  name: Gotowana ciecierzyca
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_CHICORY:
+  name: Gotowana cykoria
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_CHILLY_PEPPER:
+  name: Gotowana papryczka chili
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_CHIVES:
+  name: Gotowany szczypiorek
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_CHORUS_FRUIT:
+  name: Gotowany owoc refrenusu
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_CILANTRO:
+  name: Gotowana kolendra
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_CINNAMON:
+  name: Gotowany cynamon
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_CLOVE:
+  name: Gotowany goździk
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_COCOA_BEANS:
+  name: Gotowane ziarna kakaowe
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_COD:
+  name: Gotowany dorsz
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_COURGETTE:
+  name: Gotowana cukinia
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_CUCUMBER:
+  name: Gotowany ogórek
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_CUMIN:
+  name: Gotowany kmin rzymski
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_CURRY_LEAF:
+  name: Gotowany liść curry
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_DILL:
+  name: Gotowany koperek
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_EGG:
+  name: Gotowane jajko
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_ENCHANTED_GOLDEN_APPLE:
+  name: Gotowane zaklęte złote jabłko
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_FENNEL:
+  name: Gotowany koper włoski
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_GARLIC:
+  name: Gotowany czosnek
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_GINGER:
+  name: Gotowany imbir
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_GLOW_BERRIES:
+  name: Gotowane świecące jagody
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_GOLDEN_APPLE:
+  name: Gotowane złote jabłko
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_GOLDEN_CARROT:
+  name: Gotowana złota marchewka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_GRAPE:
+  name: Gotowane winogrono
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_GREEN_APPLE:
+  name: Gotowane zielone jabłko
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_GREEN_BEANS:
+  name: Gotowana fasolka szparagowa
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_GREEN_ONION:
+  name: Gotowana zielona cebulka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_HAZELNUT:
+  name: Gotowany orzech laskowy
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_HORSERADISH:
+  name: Gotowany chrzan
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_JALAPENO:
+  name: Gotowana papryczka jalapeño
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_JASMINE:
+  name: Gotowany jaśmin
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_JUNIPER_BERRY:
+  name: Gotowane jagody jałowca
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_KAFFIR_LIME:
+  name: Gotowany liść limonki kaffir
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_KALE:
+  name: Gotowany jarmuż
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_KELP:
+  name: Gotowany wodorost
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_KIWI:
+  name: Gotowane kiwi
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_LAVENDER:
+  name: Gotowana lawenda
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_LEEK:
+  name: Gotowany por
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_LEMON:
+  name: Gotowana cytryna
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_LETTUCE:
+  name: Gotowana sałata
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_LICORICE:
+  name: Gotowana lukrecja
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_LIME:
+  name: Gotowana limonka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_MACE:
+  name: Gotowany kwiat muszkatołowca
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_MANGO:
+  name: Gotowane mango
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_MARJORAM:
+  name: Gotowany majeranek
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_MARROW:
+  name: Gotowany kabaczek
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_MELON:
+  name: Gotowany arbuz
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_MINT:
+  name: Gotowana mięta
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_MUSTARD_SEEDS:
+  name: Gotowane ziarna gorczycy
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_MUTTON:
+  name: Gotowana baranina
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_NETTLES:
+  name: Gotowana pokrzywa
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_OKRA:
+  name: Gotowana okra
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_ONION:
+  name: Gotowana cebula
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_ORANGE:
+  name: Gotowana pomarańcza
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_OREGANO:
+  name: Gotowane oregano
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_PARSLEY:
+  name: Gotowana pietruszka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_PARSNIP:
+  name: Gotowany pasternak
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_PEA:
+  name: Gotowany groszek
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_PEACH:
+  name: Gotowana brzoskwinia
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_PEANUT:
+  name: Gotowany orzeszek ziemny
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_PEAR:
+  name: Gotowana gruszka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_PECAN:
+  name: Gotowany orzech pekan
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_PEPPER:
+  name: Gotowany czarny pieprz
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_PEPPERONI:
+  name: Gotowane pepperoni
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_PINEAPPLE:
+  name: Gotowany ananas
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_PINTO_BEANS:
+  name: Gotowana fasola pinto
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_PORKCHOP:
+  name: Gotowana wieprzowina
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_POTATO:
+  name: Gotowany ziemniak
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_PUFFERFISH:
+  name: Gotowana rozdymka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_PUMPKIN:
+  name: Gotowana dynia
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_RABBIT:
+  name: Gotowany królik
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_RADDISH:
+  name: Gotowana rzodkiewka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_RADICCHIO:
+  name: Gotowane radicchio
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_RAPESEED:
+  name: Gotowany rzepak
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_RED_MUSHROOM:
+  name: Gotowany muchomor
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_RHUBARB:
+  name: Gotowany rabarbar
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_RICE:
+  name: Gotowany ryż
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_ROSEMARY:
+  name: Gotowany rozmaryn
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_ROTTEN_FLESH:
+  name: Gotowane zgniłe mięso
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_RUNNER_BEANS:
+  name: Gotowana fasola wielokwiatowa
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_RUTABAGA:
+  name: Gotowana brukiew
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_SALMON:
+  name: Gotowany łosoś
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_SASSAFRAS:
+  name: Gotowany sasafras
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_SHALLOT:
+  name: Gotowana szalotka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_SHISO:
+  name: Gotowane shiso
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_SOY_BEANS:
+  name: Gotowana soja
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_SPINACH:
+  name: Gotowany szpinak
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_STAR_ANISE:
+  name: Gotowany anyż gwiazdkowaty
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_STRAWBERRY:
+  name: Gotowana truskawka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_SUGAR:
+  name: Gotowany cukier
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_SWEETCORN:
+  name: Gotowana kukurydza
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_SWEET_BERRIES:
+  name: Gotowane słodkie jagody
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_SWEET_POTATO:
+  name: Gotowany batat
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_TARRAGON:
+  name: Gotowany estragon
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_THYME:
+  name: Gotowany tymianek
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_TOMATO:
+  name: Gotowany pomidor
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_TURMERIC:
+  name: Gotowana kurkuma
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_TURNIP:
+  name: Gotowana rzepa
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_VANILLA:
+  name: Gotowana wanilia
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_WASABI:
+  name: Gotowane wasabi
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOILED_WHEAT:
+  name: Gotowana pszenica
+  type:
+  - '&7&oProdukt uboczny'
+CLT_BOWL_OF_STEVE:
+  name: Miska... Steve'a?
+  type:
+  - '&7&oJedzenie'
+  description:
+  - Co to ma być, do &%£$
+  stats:
+  - '&8⇨ &bWyczerpanie X &7(10:00)'
+  - '&8⇨ &bSpowolnienie VI &7(10:00)'
+  - '&8⇨ &bSiła X &7(10:00)'
+  - '&8⇨ &7Zmniejsza twoje zdrowie do 1/2 serca'
+CLT_BROCCOLI:
+  name: Brokuł
+  type:
+  - '&7&oPlon'
+  description:
+  - Jesteś olbrzymem trzymającym drzewo?
+  - Nie, to tylko malutkie drzewko :)
+CLT_BRUSSELS_SPROUTS:
+  name: Brukselka
+  type:
+  - '&7&oPlon'
+  description:
+  - Wzdymająca rozkosz.
+CLT_BUSH_ARTICHOKE:
+  name: Krzak karczocha
+  type:
+  - '&7&oKrzak'
+  description:
+  - Najlepszy krzak do wymierzania kar.
+  - KAR-czoch. Ech. Kalambury są trudne.
+CLT_BUSH_ASPARAGUS:
+  name: Krzak szparagów
+  type:
+  - '&7&oKrzak'
+  description:
+  - Ten krzak szparagów podgląda
+  - przez każdą szparę!
+CLT_BUSH_AUBERGINE:
+  name: Krzak bakłażana
+  type:
+  - '&7&oKrzak'
+  description:
+  - Odmawiam używania słowa oberżyna. Po prostu tak.
+CLT_BUSH_AVOCADO:
+  name: Krzak awokado
+  type:
+  - '&7&oKrzak'
+  description:
+  - Ten krzak wyhodowano specjalnie tak, by nie
+  - zużywał zbyt dużo wody.
+CLT_BUSH_BASIL:
+  name: Krzak bazylii
+  type:
+  - '&7&oKrzak'
+  description:
+  - Lekkoduszny krzak pełen fantazji.
+CLT_BUSH_BAY_LEAF:
+  name: Krzak wawrzynu
+  type:
+  - '&7&oKrzak'
+  description:
+  - Zapach tego krzaka niesie się na kilometry.
+CLT_BUSH_BELL_PEPPER:
+  name: Krzak papryki
+  type:
+  - '&7&oKrzak'
+  description:
+  - Uważaj, przechodząc obok, bo możesz
+  - zadzwonić dzwonkiem.
+CLT_BUSH_BLACK_BEANS:
+  name: Krzak czarnej fasoli
+  type:
+  - '&7&oKrzak'
+  description:
+  - 'Ten krzak szepcze ci łagodnie:'
+  - Jesteś naprawdę fasolnym człowiekiem.
+CLT_BUSH_BROCCOLI:
+  name: Krzak brokułu
+  type:
+  - '&7&oKrzak'
+  description:
+  - Małe drzewka, które można jeść? Kto to wymyślił!?
+CLT_BUSH_BRUSSELS_SPROUTS:
+  name: Krzak brukselki
+  type:
+  - '&7&oKrzak'
+  description:
+  - Krzak, który czasem wydziela szkodliwe
+  - gazy.
+CLT_BUSH_CABBAGE:
+  name: Krzak kapusty
+  type:
+  - '&7&oKrzak'
+  description:
+  - Krzak, który dźwiga ogromny
+  - kapuściany bagaż emocjonalny.
+CLT_BUSH_CAULIFLOWER:
+  name: Krzak kalafiora
+  type:
+  - '&7&oKrzak'
+  description:
+  - Krzak, który potrafi wytwarzać małe chmurki
+  - rozkoszy.
+CLT_BUSH_CAYENNE_PEPPER:
+  name: Krzak pieprzu cayenne
+  type:
+  - '&7&oKrzak'
+  description:
+  - Krzak o pieprznym charakterze.
+CLT_BUSH_CELERIAC:
+  name: Krzak selera korzeniowego
+  type:
+  - '&7&oKrzak'
+  description:
+  - Kolejny korzeń rosnący na krzaku?
+  - SefiDumb™
+CLT_BUSH_CELERY:
+  name: Krzak selera naciowego
+  type:
+  - '&7&oKrzak'
+  description:
+  - Ten krzak jest zbędny.
+  - Sefi nie lubi selera.
+CLT_BUSH_CHICKPEAS:
+  name: Krzak ciecierzycy
+  type:
+  - '&7&oKrzak'
+  description:
+  - Krzak powstały ze skrzyżowania kurczaka
+  - z groszkiem. NAUKA.
+CLT_BUSH_CHICORY:
+  name: Krzak cykorii
+  type:
+  - '&7&oKrzak'
+  description:
+  - Myślałem, że cykoria to korzeń? Czy ten dodatek
+  - w ogóle robi jakiś research!?
+CLT_BUSH_CHILLI_PEPPER:
+  name: Krzak papryczki chili
+  type:
+  - '&7&oKrzak'
+  description:
+  - Samo patrzenie na ten krzak pali mi język.
+CLT_BUSH_CHIVES:
+  name: Krzak szczypiorku
+  type:
+  - '&7&oKrzak'
+  description:
+  - Krzak, który daje coś, co jest w praktyce
+  - najmniejszą cebulą świata.
+CLT_BUSH_CILANTRO:
+  name: Krzak kolendry
+  type:
+  - '&7&oKrzak'
+  description:
+  - Z tego krzaka unosi się delikatny zapach cytrusów i przypraw.
+CLT_BUSH_CINNAMON:
+  name: Krzak cynamonu
+  type:
+  - '&7&oKrzak'
+  description:
+  - Rozkosznie pachnący krzak.
+CLT_BUSH_CLOVE:
+  name: Krzak goździkowca
+  type:
+  - '&7&oKrzak'
+  description:
+  - Krzak, który po prostu kojarzy mi się ze świętami.
+CLT_BUSH_COURGETTE:
+  name: Krzak cukinii
+  type:
+  - '&7&oKrzak'
+  description:
+  - Czemu ten krzak wciąż wykrzykuje słowo
+  - '"Zucchini"? Pewnie jest Amerykaninem?'
+CLT_BUSH_CUCUMBER:
+  name: Krzak ogórka
+  type:
+  - '&7&oKrzak'
+  description:
+  - Ten krzak stworzono wyłącznie z myślą
+  - o twoich cudownych letnich sałatkach.
+CLT_BUSH_CUMIN:
+  name: Krzak kminu rzymskiego
+  type:
+  - '&7&oKrzak'
+  description:
+  - Krzak wydzielający ciepły, cytrusowy aromat.
+CLT_BUSH_CURRY_LEAF:
+  name: Krzak curry
+  type:
+  - '&7&oKrzak'
+  description:
+  - Najlepszy prażony na sucho.
+CLT_BUSH_DILL:
+  name: Krzak kopru
+  type:
+  - '&7&oKrzak'
+  description:
+  - Ten krzak rośnie znacznie szybciej niż inne.
+CLT_BUSH_FENNEL:
+  name: Krzak kopru włoskiego
+  type:
+  - '&7&oKrzak'
+  description:
+  - Czemu ten krzak odstrasza robaki!?
+CLT_BUSH_GARLIC:
+  name: Krzak czosnku
+  type:
+  - '&7&oKrzak'
+  description:
+  - Ten krzak ma po prostu najgorszy oddech.
+CLT_BUSH_GINGER:
+  name: Krzak imbiru
+  type:
+  - '&7&oKrzak'
+  description:
+  - Ten krzak najlepiej gotować w całości.
+CLT_BUSH_GRAPE:
+  name: Krzak winorośli
+  type:
+  - '&7&oKrzak'
+  description:
+  - Dojrzałe, soczyste winogrona, które same
+  - spadają z krzaka.
+CLT_BUSH_GREEN_BEANS:
+  name: Krzak fasolki szparagowej
+  type:
+  - '&7&oKrzak'
+  description:
+  - Polej ten krzak sosem pomidorowym,
+  - a dostaniesz fasolkę po bretońsku.
+CLT_BUSH_GREEN_ONION:
+  name: Krzak zielonej cebulki
+  type:
+  - '&7&oKrzak'
+  description:
+  - Znana też jako dymka.
+  - Zielona cebulka ma zwykle
+  - łagodniejszy smak niż większość cebul.
+CLT_BUSH_HORSERADISH:
+  name: Krzak chrzanu
+  type:
+  - '&7&oKrzak'
+  description:
+  - 'Znowu: to, że rośnie na krzaku, po prostu nie ma sensu.'
+CLT_BUSH_JALAPENO:
+  name: Krzak papryczki jalapeño
+  type:
+  - '&7&oKrzak'
+  description:
+  - Samo trzymanie tego krzaka daje ci
+  - 1% szansy, że staniesz w płomieniach.
+CLT_BUSH_JASMINE:
+  name: Krzak jaśminu
+  type:
+  - '&7&oKrzak'
+  description:
+  - Zapach tego krzaka jest tak miękki i łagodny.
+CLT_BUSH_JUNIPER_BERRY:
+  name: Krzak jałowca
+  type:
+  - '&7&oKrzak'
+  description:
+  - Taki słodki na krzaku, pieprzny po wysuszeniu.
+CLT_BUSH_KAFFIR_LIME:
+  name: Krzak limonki kaffir
+  type:
+  - '&7&oKrzak'
+  description:
+  - Krzak, którego liście są bardziej pożądane niż owoce.
+CLT_BUSH_KALE:
+  name: Krzak jarmużu
+  type:
+  - '&7&oKrzak'
+  description:
+  - Gdy sadzisz ten krzak, masz przeczucie,
+  - że wszystko pójdzie jak z jarmuża.
+CLT_BUSH_LAVENDER:
+  name: Krzak lawendy
+  type:
+  - '&7&oKrzak'
+  description:
+  - Ten krzak roznosi swój zapach wszędzie.
+CLT_BUSH_LEEK:
+  name: Krzak pora
+  type:
+  - '&7&oKrzak'
+  description:
+  - Czy wiesz, że por to po prostu cebula,
+  - która nosi gorset? Prawdziwa historia.
+CLT_BUSH_LETTUCE:
+  name: Krzak sałaty
+  type:
+  - '&7&oKrzak'
+  description:
+  - Czy sałata w ogóle rośnie na krzakach?
+  - 'Spoiler: nie, nie rośnie.'
+CLT_BUSH_LICORICE:
+  name: Krzak lukrecji
+  type:
+  - '&7&oKrzak'
+  description:
+  - Fuj
+CLT_BUSH_MACE:
+  name: Krzak muszkatołowca
+  type:
+  - '&7&oKrzak'
+  description:
+  - Ten krzak chyba odstrasza napastników?
+CLT_BUSH_MARJORAM:
+  name: Krzak majeranku
+  type:
+  - '&7&oKrzak'
+  description:
+  - Duży krzak o drzewnym zapachu.
+CLT_BUSH_MARROW:
+  name: Krzak kabaczka
+  type:
+  - '&7&oKrzak'
+  description:
+  - Dziwię się, że ten krzak utrzymuje
+  - własny ciężar.
+CLT_BUSH_MINT:
+  name: Krzak mięty
+  type:
+  - '&7&oKrzak'
+  description:
+  - Po prostu najpiękniej pachnący krzak.
+CLT_BUSH_MUSTARD:
+  name: Krzak gorczycy białej
+  type:
+  - '&7&oKrzak'
+  description:
+  - Jak ogień w ustach.
+CLT_BUSH_NETTLES:
+  name: Krzak pokrzywy
+  type:
+  - '&7&oKrzak'
+  description:
+  - Uważaj, przechodząc przez ten krzak!
+CLT_BUSH_OKRA:
+  name: Krzak okry
+  type:
+  - '&7&oKrzak'
+  description:
+  - Wybrane warzywem numer 1 według
+  - Klubu Warzywnego Okry Winfrey.
+CLT_BUSH_ONION:
+  name: Krzak cebuli
+  type:
+  - '&7&oKrzak'
+  description:
+  - Czy ten krzak nie wygląda, jakby miał łzy w oczach?
+CLT_BUSH_OREGANO:
+  name: Krzak oregano
+  type:
+  - '&7&oKrzak'
+  description:
+  - Ten ostro pachnący krzak odstrasza gości.
+CLT_BUSH_PARSLEY:
+  name: Krzak pietruszki
+  type:
+  - '&7&oKrzak'
+  description:
+  - Wrzuć ten krzak do lawy, natychmiast :D
+CLT_BUSH_PARSNIP:
+  name: Krzak pasternaku
+  type:
+  - '&7&oKrzak'
+  description:
+  - Pomiń pośrednika i upiecz krzak
+  - od razu.
+CLT_BUSH_PEA:
+  name: Krzak grochu
+  type:
+  - '&7&oKrzak'
+  description:
+  - Ja tam wolę Q
+CLT_BUSH_PEANUTS:
+  name: Krzak orzeszków ziemnych
+  type:
+  - '&7&oKrzak'
+  description: &id001
+  - Treściwy, aromatyczny i pełen białka.
+CLT_BUSH_PEPPER:
+  name: Krzak czarnego pieprzu
+  type:
+  - '&7&oKrzak'
+  description:
+  - Czarny pieprz był ważną częścią
+  - handlu przyprawami między Indiami a Europą
+  - już w czasach greckich i rzymskich.
+CLT_BUSH_PINTO_BEANS:
+  name: Krzak fasoli pinto
+  type:
+  - '&7&oKrzak'
+  description:
+  - Niedługo uda się wyhodować krzak,
+  - który rodzi gotowe burrito, prawda?
+CLT_BUSH_RADDISH:
+  name: Krzak rzodkiewki
+  type:
+  - '&7&oKrzak'
+  description:
+  - Ta roślina właśnie zrobiła trik na deskorolce.
+  - Rzodko się takie rzeczy widuje.
+CLT_BUSH_RADICCHIO:
+  name: Krzak radicchio
+  type:
+  - '&7&oKrzak'
+  description:
+  - Chcesz brzmieć wytwornie? Dodaj radicchio do
+  - każdego posiłku, to w zasadzie kapusta, ale
+  - sprawia, że wydajesz się wyrafinowany.
+CLT_BUSH_RAPESEED:
+  name: Krzak rzepaku
+  type:
+  - '&7&oKrzak'
+  description:
+  - Ten krzak wydziela jakąś oleistą substancję.
+CLT_BUSH_RHUBARB:
+  name: Krzak rabarbaru
+  type:
+  - '&7&oKrzak'
+  description:
+  - Czy wiesz, że rabarbar to warzywo?
+  - Myślałem, że to rodzaj młotka.
+CLT_BUSH_RICE:
+  name: Krzak ryżu
+  type:
+  - '&7&oKrzak'
+  description:
+  - Najważniejsza podstawa każdej kuchni.
+CLT_BUSH_ROSEMARY:
+  name: Krzak rozmarynu
+  type:
+  - '&7&oKrzak'
+  description:
+  - Krzak, którego zapach przypomina niedzielne obiady.
+CLT_BUSH_RUNNER_BEANS:
+  name: Krzak fasoli wielokwiatowej
+  type:
+  - '&7&oKrzak'
+  description:
+  - Ten krzak ma nogi o.o?
+CLT_BUSH_RUTABAGA:
+  name: Krzak brukwi
+  type:
+  - '&7&oKrzak'
+  description:
+  - Brukiew szwedzka. Po prostu szwedka.
+CLT_BUSH_SASSAFRAS:
+  name: Krzak sasafrasu
+  type:
+  - '&7&oKrzak'
+  description:
+  - Ten krzak uwielbia rosnąć blisko małych
+  - zbiorników wodnych.
+CLT_BUSH_SHALLOT:
+  name: Krzak szalotki
+  type:
+  - '&7&oKrzak'
+  description:
+  - Ten krzak szybko daje cudowne mini cebulki.
+  - Szał na szalotki gwarantowany.
+CLT_BUSH_SHISO:
+  name: Krzak shiso
+  type:
+  - '&7&oKrzak'
+  description:
+  - Lubię myśleć, że ten krzak to owoc miłości
+  - krzaka mięty i krzaka bazylii. Szkoda, że
+  - krzyżowanie krzaków nie istnieje!
+CLT_BUSH_SOY_BEANS:
+  name: Krzak soi
+  type:
+  - '&7&oKrzak'
+  description:
+  - Ten krzak to przyjazna rozkosz. Zawieram
+  - z nim soju-sz na całe życie.
+CLT_BUSH_SPINACH:
+  name: Krzak szpinaku
+  type:
+  - '&7&oKrzak'
+  description:
+  - Ten krzak to najlepszy przyjaciel Popeye'a.
+CLT_BUSH_STAR_ANISE:
+  name: Krzak anyżu gwiazdkowatego
+  type:
+  - '&7&oKrzak'
+  description:
+  - Z tego krzaka bije zapach tak typowy
+  - dla anyżu, że aż trudno uwierzyć.
+CLT_BUSH_STRAWBERRY:
+  name: Krzak truskawki
+  type:
+  - '&7&oKrzak'
+  description: *id001
+CLT_BUSH_SWEETCORN:
+  name: Krzak kukurydzy
+  type:
+  - '&7&oKrzak'
+  description:
+  - Ten krzak aż się prosi, żeby zrobić z niego
+  - labirynt.
+CLT_BUSH_SWEET_POTATO:
+  name: Krzak batata
+  type:
+  - '&7&oKrzak'
+  description:
+  - Ten krzak jest po prostu słodki. Słyszałem,
+  - jak cię komplementował, kiedy nie słuchałeś.
+CLT_BUSH_TARRAGON:
+  name: Krzak estragonu
+  type:
+  - '&7&oKrzak'
+  description:
+  - Ten krzak nie lubi zwracać na siebie uwagi.
+CLT_BUSH_THYME:
+  name: Krzak tymianku
+  type:
+  - '&7&oKrzak'
+  description:
+  - Ten krzak ma ciągle tymczasowe... znaczy tymiankowe... kłopoty *khm*
+CLT_BUSH_TOMATO:
+  name: Krzak pomidora
+  type:
+  - '&7&oKrzak'
+  description:
+  - Dojrzały i gotowy.
+CLT_BUSH_TURMERIC:
+  name: Krzak kurkumy
+  type:
+  - '&7&oKrzak'
+  description:
+  - Fala przypraw uderza ci do nosa, gdy tylko
+  - trzymasz ten krzak.
+CLT_BUSH_TURNIP:
+  name: Krzak rzepy
+  type:
+  - '&7&oKrzak'
+  description:
+  - Według brytyjskiego rządu
+  - ten krzak rozwiąże wszystkie nasze problemy.
+CLT_BUSH_VANILLA:
+  name: Krzak wanilii
+  type:
+  - '&7&oKrzak'
+  description:
+  - Ten krzak rośnie naturalnie w pobliżu Starbucksów.
+CLT_BUSH_WASABI:
+  name: Krzak wasabi
+  type:
+  - '&7&oKrzak'
+  description:
+  - Kolejny korzeń rosnący na krzaku?
+  - Ech...
+CLT_CABBAGE:
+  name: Kapusta
+  type:
+  - '&7&oPlon'
+  description:
+  - Kapuściany bagaż.
+CLT_CAESAR_SALAD:
+  name: Sałatka Cezar
+  type:
+  - '&7&oJedzenie'
+  description:
+  - Zdrowy klasyk.
+  stats:
+  - '&8⇨ &7Leczenie: &b6 serc'
+  - '&8⇨ &bSzybkość I &7(10:00)'
+  - '&8⇨ &bNiewidzialność I &7(10:00)'
+  - '&8⇨ &bPowolne opadanie I &7(10:00)'
+CLT_CAJUN_GARLIC_BUTTER_COD:
+  name: Dorsz cajun w maśle czosnkowym
+  type:
+  - '&7&oJedzenie'
+  description:
+  - Bardzo proste danie, które aż kipi smakiem.
+  stats:
+  - '&8⇨ &7Leczenie: &b4 serca'
+  - '&8⇨ &bRegeneracja II &7(10:00)'
+  - '&8⇨ &bSzybkość I &7(10:00)'
+CLT_CAULIFLOWER:
+  name: Kalafior
+  type:
+  - '&7&oPlon'
+  description:
+  - Przenośna chmurka!
+CLT_CAYENNE_PEPPER:
+  name: Pieprz cayenne
+  type:
+  - '&7&oPlon'
+  description:
+  - Delikatnie pikantny przysmak.
+CLT_CELERIAC:
+  name: Seler korzeniowy
+  type:
+  - '&7&oPlon'
+  description:
+  - Sycący korzeń, zakorzeniony (heh) w wielu
+  - tradycyjnych przepisach.
+CLT_CELERY:
+  name: Seler naciowy
+  type:
+  - '&7&oPlon'
+  description:
+  - Dosłownie woda z włóknami. Przekonaj
+  - mnie, że jest inaczej.
+CLT_CHEESE_BURGER:
+  name: Burger
+  type:
+  - '&7&oJedzenie'
+  description:
+  - Zwykły cheeseburger, ale nic go nie przebije!
+  stats:
+  - '&8⇨ &7Leczenie: &b4 serca'
+  - '&8⇨ &bRegeneracja III &7(10:00)'
+CLT_CHEESY_SCALLOPED_COURGETTE:
+  name: Zapiekana cukinia z serem
+  type:
+  - '&7&oJedzenie'
+  description:
+  - Niskowęglowodanowa wersja wspaniałego klasyka.
+  stats:
+  - '&8⇨ &7Leczenie: &b2 serca'
+  - '&8⇨ &bNoktowizja I &7(10:00)'
+  - '&8⇨ &bNiewidzialność I &7(10:00)'
+CLT_CHERRY:
+  name: Wiśnia
+  type:
+  - '&7&oPlon'
+  description:
+  - Och, myślałem, że rosną od razu kandyzowane, szkoda!
+CLT_CHESTNUT:
+  name: Kasztan
+  type:
+  - '&7&oPlon'
+  description:
+  - Stworzone, by od razu je upiec.
+CLT_CHICKEN_ALFREDO_MAC_AND_CHEESE:
+  name: Makaron z serem i kurczakiem Alfredo
+  type:
+  - '&7&oJedzenie'
+  description:
+  - Wytworna wariacja na temat zwykłego klasyka.
+  stats:
+  - '&8⇨ &7Leczenie: &b1 serce'
+  - '&8⇨ &bOgnioodporność II &7(10:00)'
+  - '&8⇨ &bOdporność III &7(10:00)'
+CLT_CHICKEN_PASTA_BAKE:
+  name: Zapiekanka makaronowa z kurczakiem
+  type:
+  - '&7&oJedzenie'
+  description:
+  - Podstawa studenckiej diety.
+  stats:
+  - '&8⇨ &7Leczenie: &b5 serc'
+  - '&8⇨ &bNoktowizja I &7(10:00)'
+  - '&8⇨ &bOddychanie pod wodą I &7(10:00)'
+CLT_CHICKEN_POT_PIE:
+  name: Placek z kurczakiem
+  type:
+  - '&7&oJedzenie'
+  description:
+  - Rozgrzewający posiłek, który smakuje jak w domu.
+  stats:
+  - '&8⇨ &7Leczenie: &b10 serc'
+  - '&8⇨ &bZwiększony skok II &7(10:00)'
+  - '&8⇨ &bNasycenie I &7(10:00)'
+CLT_CHICKPEAS:
+  name: Ciecierzyca
+  type:
+  - '&7&oPlon'
+  description:
+  - Fasola potrafi zaśpiewać piosenkę, ciecierzyca może ją najwyżej zahummusować.
+CLT_CHICORY:
+  name: Cykoria
+  type:
+  - '&7&oPlon'
+  description:
+  - Orzechowy, gorzki korzeń.
+CLT_CHILLY_PEPPER:
+  name: Papryczka chili
+  type:
+  - '&7&oPlon'
+  description:
+  - Zjem całą papryczkę i nie zapłaczę.
+  - No, połowę.
+  - NOOO DOBRAAA.... 1/4
+  - '...'
+  - Ok, mogę jej dotknąć językiem
+CLT_CHIVES:
+  name: Szczypiorek
+  type:
+  - '&7&oPlon'
+  description:
+  - Słodkie zioło o smaku cebuli.
+CLT_CHOPPED_APPLE:
+  name: Siekane jabłko
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_APRICOT:
+  name: Siekana morela
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_ARTICHOKE:
+  name: Siekany karczoch
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_ASPARAGUS:
+  name: Siekane szparagi
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_AUBERGINE:
+  name: Siekany bakłażan
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_AVOCADO:
+  name: Siekane awokado
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_BANANA:
+  name: Siekany banan
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_BASIL:
+  name: Siekana bazylia
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_BAY_LEAF:
+  name: Siekany liść laurowy
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_BEEF:
+  name: Siekana wołowina
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_BEETROOT:
+  name: Siekany burak
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_BELL_PEPPER:
+  name: Siekana papryka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_BLACK_BEANS:
+  name: Siekana czarna fasola
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_BREAD:
+  name: Siekany chleb
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_BROCCOLI:
+  name: Siekany brokuł
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_BROWN_MUSHROOM:
+  name: Siekany borowik
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_BRUSSELS_SPROUTS:
+  name: Siekana brukselka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_CABBAGE:
+  name: Siekana kapusta
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_CARROT:
+  name: Siekana marchewka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_CAULIFLOWER:
+  name: Siekany kalafior
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_CAYENNE_PEPPER:
+  name: Siekany pieprz cayenne
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_CELERIAC:
+  name: Siekany seler korzeniowy
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_CELERY:
+  name: Siekany seler naciowy
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_CHERRY:
+  name: Siekana wiśnia
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_CHESTNUT:
+  name: Siekany kasztan
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_CHICKEN:
+  name: Siekany kurczak
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_CHICKPEAS:
+  name: Siekana ciecierzyca
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_CHICORY:
+  name: Siekana cykoria
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_CHILLY_PEPPER:
+  name: Siekana papryczka chili
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_CHIVES:
+  name: Siekany szczypiorek
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_CHORUS_FRUIT:
+  name: Siekany owoc refrenusu
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_CILANTRO:
+  name: Siekana kolendra
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_CINNAMON:
+  name: Siekany cynamon
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_CLOVE:
+  name: Siekany goździk
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_COCOA_BEANS:
+  name: Siekane ziarna kakaowe
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_COD:
+  name: Siekany dorsz
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_COURGETTE:
+  name: Siekana cukinia
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_CUCUMBER:
+  name: Siekany ogórek
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_CUMIN:
+  name: Siekany kmin rzymski
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_CURRY_LEAF:
+  name: Siekany liść curry
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_DILL:
+  name: Siekany koperek
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_EGG:
+  name: Siekane jajko
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_ENCHANTED_GOLDEN_APPLE:
+  name: Siekane zaklęte złote jabłko
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_FENNEL:
+  name: Siekany koper włoski
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_GARLIC:
+  name: Siekany czosnek
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_GINGER:
+  name: Siekany imbir
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_GLOW_BERRIES:
+  name: Siekane świecące jagody
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_GOLDEN_APPLE:
+  name: Siekane złote jabłko
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_GOLDEN_CARROT:
+  name: Siekana złota marchewka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_GRAPE:
+  name: Siekane winogrono
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_GREEN_APPLE:
+  name: Siekane zielone jabłko
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_GREEN_BEANS:
+  name: Siekana fasolka szparagowa
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_GREEN_ONION:
+  name: Siekana zielona cebulka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_HAZELNUT:
+  name: Siekany orzech laskowy
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_HORSERADISH:
+  name: Siekany chrzan
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_JALAPENO:
+  name: Siekana papryczka jalapeño
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_JASMINE:
+  name: Siekany jaśmin
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_JUNIPER_BERRY:
+  name: Siekane jagody jałowca
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_KAFFIR_LIME:
+  name: Siekany liść limonki kaffir
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_KALE:
+  name: Siekany jarmuż
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_KELP:
+  name: Siekany wodorost
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_KIWI:
+  name: Siekane kiwi
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_LAVENDER:
+  name: Siekana lawenda
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_LEEK:
+  name: Siekany por
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_LEMON:
+  name: Siekana cytryna
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_LETTUCE:
+  name: Siekana sałata
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_LICORICE:
+  name: Siekana lukrecja
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_LIME:
+  name: Siekana limonka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_MACE:
+  name: Siekany kwiat muszkatołowca
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_MANGO:
+  name: Siekane mango
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_MARJORAM:
+  name: Siekany majeranek
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_MARROW:
+  name: Siekany kabaczek
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_MELON:
+  name: Siekany arbuz
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_MINT:
+  name: Siekana mięta
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_MUSTARD_SEEDS:
+  name: Siekane ziarna gorczycy
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_MUTTON:
+  name: Siekana baranina
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_NETTLES:
+  name: Siekana pokrzywa
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_OKRA:
+  name: Siekana okra
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_ONION:
+  name: Siekana cebula
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_ORANGE:
+  name: Siekana pomarańcza
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_OREGANO:
+  name: Siekane oregano
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_PARSLEY:
+  name: Siekana pietruszka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_PARSNIP:
+  name: Siekany pasternak
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_PEA:
+  name: Siekany groszek
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_PEACH:
+  name: Siekana brzoskwinia
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_PEANUT:
+  name: Siekany orzeszek ziemny
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_PEAR:
+  name: Siekana gruszka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_PECAN:
+  name: Siekany orzech pekan
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_PEPPER:
+  name: Siekany czarny pieprz
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_PEPPERONI:
+  name: Siekane pepperoni
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_PINEAPPLE:
+  name: Siekany ananas
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_PINTO_BEANS:
+  name: Siekana fasola pinto
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_PORKCHOP:
+  name: Siekana wieprzowina
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_POTATO:
+  name: Siekany ziemniak
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_PUFFERFISH:
+  name: Siekana rozdymka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_PUMPKIN:
+  name: Siekana dynia
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_RABBIT:
+  name: Siekany królik
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_RADDISH:
+  name: Siekana rzodkiewka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_RADICCHIO:
+  name: Siekane radicchio
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_RAPESEED:
+  name: Siekany rzepak
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_RED_MUSHROOM:
+  name: Siekany muchomor
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_RHUBARB:
+  name: Siekany rabarbar
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_RICE:
+  name: Siekany ryż
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_ROSEMARY:
+  name: Siekany rozmaryn
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_ROTTEN_FLESH:
+  name: Siekane zgniłe mięso
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_RUNNER_BEANS:
+  name: Siekana fasola wielokwiatowa
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_RUTABAGA:
+  name: Siekana brukiew
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_SALMON:
+  name: Siekany łosoś
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_SASSAFRAS:
+  name: Siekany sasafras
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_SHALLOT:
+  name: Siekana szalotka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_SHISO:
+  name: Siekane shiso
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_SOY_BEANS:
+  name: Siekana soja
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_SPINACH:
+  name: Siekany szpinak
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_STAR_ANISE:
+  name: Siekany anyż gwiazdkowaty
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_STRAWBERRY:
+  name: Siekana truskawka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_SUGAR:
+  name: Siekany cukier
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_SWEETCORN:
+  name: Siekana kukurydza
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_SWEET_BERRIES:
+  name: Siekane słodkie jagody
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_SWEET_POTATO:
+  name: Siekany batat
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_TARRAGON:
+  name: Siekany estragon
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_THYME:
+  name: Siekany tymianek
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_TOMATO:
+  name: Siekany pomidor
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_TURMERIC:
+  name: Siekana kurkuma
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_TURNIP:
+  name: Siekana rzepa
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_VANILLA:
+  name: Siekana wanilia
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_WASABI:
+  name: Siekane wasabi
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CHOPPED_WHEAT:
+  name: Siekana pszenica
+  type:
+  - '&7&oProdukt uboczny'
+CLT_CILANTRO:
+  name: Kolendra
+  type:
+  - '&7&oPlon'
+  description:
+  - Delikatna przyprawa z nutą cytrusów.
+CLT_CINNAMON:
+  name: Cynamon
+  type:
+  - '&7&oPlon'
+  description:
+  - Świetny do żucia w formie laski.
+CLT_CINNAMON_ROLL:
+  name: Bułeczka cynamonowa
+  type:
+  - '&7&oJedzenie'
+  description:
+  - Słodka rozkosz zwinięta dla zabawy.
+  - Zjedzenie jej stawia świat na głowie!
+  stats:
+  - '&8⇨ &7Leczenie: &b4 serca'
+  - '&8⇨ &bLewitacja I &7(10:00)'
+  - '&8⇨ &bPowolne opadanie I &7(10:00)'
+CLT_CLOVE:
+  name: Goździk
+  type:
+  - '&7&oPlon'
+  description:
+  - Bardzo rozgrzewający i intensywny smak.
+CLT_COMPRESSED_BISCUIT:
+  name: Sprasowany herbatnik
+  type:
+  - '&7&oJedzenie'
+  description:
+  - Mała przekąska o jeszcze ogromniejszym smaku.
+  stats: *id002
+CLT_COOKED_BURGER_PATTY:
+  name: Usmażony kotlet do burgera
+  type:
+  - '&7&oPlon'
+  description:
+  - Dosłownie ocieka
+CLT_COUNTER_BLENDER:
+  name: Blat kuchenny (blender)
+  type:
+  - '&7&oMaszyna'
+  description:
+  - Kliknij ten blok prawym przyciskiem, aby zmiksować plony.
+  usage: &id003
+  - Porada! Po postawieniu możesz kliknąć shift +
+  - prawy przycisk, a trzymane bloki
+  - zmienią wygląd kuchni. Wypróbuj!
+CLT_COUNTER_BOILING:
+  name: Blat kuchenny (garnek)
+  type:
+  - '&7&oMaszyna'
+  description:
+  - Pozwala gotować niektóre przedmioty.
+  usage: *id003
+CLT_COUNTER_CHOPPING:
+  name: Blat kuchenny (deska do siekania)
+  type:
+  - '&7&oMaszyna'
+  description:
+  - Kliknij ten blok prawym przyciskiem, aby posiekać plony.
+  usage: *id003
+CLT_COUNTER_FINISHING:
+  name: Blat kuchenny (wykańczanie)
+  type:
+  - '&7&oMaszyna'
+  description:
+  - Służy do przerabiania produktów i produktów ubocznych
+  - na inne produkty uboczne lub gotowe potrawy.
+  usage: *id003
+CLT_COUNTER_FRYING:
+  name: Blat kuchenny (patelnia)
+  type:
+  - '&7&oMaszyna'
+  description:
+  - Pozwala smażyć niektóre plony.
+  usage: *id003
+CLT_COUNTER_GRILL:
+  name: Blat kuchenny (grill)
+  type:
+  - '&7&oMaszyna'
+  description:
+  - Pozwala grillować niektóre plony.
+  usage: *id003
+CLT_COUNTER_GRINDER:
+  name: Blat kuchenny (moździerz z tłuczkiem)
+  type:
+  - '&7&oMaszyna'
+  description:
+  - Kliknij ten blok prawym przyciskiem, aby zmielić plony.
+  usage: *id003
+CLT_COUNTER_MASHER:
+  name: Blat kuchenny (miska do tłuczenia)
+  type:
+  - '&7&oMaszyna'
+  description:
+  - Kliknij ten blok prawym przyciskiem, aby utłuc plony.
+  usage: *id003
+CLT_COUNTER_NOTHING:
+  name: Blat kuchenny (pusty)
+  type:
+  - '&7&oMaszyna'
+  description:
+  - Tylko do dekoracji!
+  usage: *id003
+CLT_COUNTER_OVEN:
+  name: Blat kuchenny (piekarnik)
+  type:
+  - '&7&oMaszyna'
+  description:
+  - Pozwala piec niektóre plony.
+  usage: *id003
+CLT_COUNTER_SLICING:
+  name: Blat kuchenny (deska do krojenia)
+  type:
+  - '&7&oMaszyna'
+  description:
+  - Kliknij ten blok prawym przyciskiem, aby pokroić plony w plastry.
+  usage: *id003
+CLT_COURGETTE:
+  name: Cukinia
+  type:
+  - '&7&oPlon'
+  description:
+  - 'Porada: zetrzyj to do dowolnego sosu do makaronu,'
+  - by dodać mu głębi i konsystencji.
+CLT_CREAM_CHEESE:
+  name: Serek śmietankowy
+  type:
+  - '&7&oPlon'
+  description:
+  - Bardziej kremowy niż serowy.
+CLT_CROP_STICKS:
+  name: Tyczki uprawne
+  type:
+  - '&7&oNarzędzie'
+  description:
+  - Tyczki uprawne trzeba przyłożyć do
+  - posadzonego nasiona, aby mogło rosnąć.
+  - Postawienie drugiego zestawu skrzyżuje
+  - roślinę, pozwalając jej się rozprzestrzenić
+  - i/lub rozmnożyć.
+CLT_CUCUMBER:
+  name: Ogórek
+  type:
+  - '&7&oPlon'
+  description:
+  - Woda w zielonej skorupce, udowodnij mi,
+  - że się mylę.
+CLT_CUMIN:
+  name: Kmin rzymski
+  type:
+  - '&7&oPlon'
+  description:
+  - Ciepła, cytrusowa roślina.
+CLT_CURRY_LEAF:
+  name: Liść curry
+  type:
+  - '&7&oPlon'
+  description:
+  - Podstawa tylu wspaniałych potraw.
+CLT_DILL:
+  name: Koperek
+  type:
+  - '&7&oPlon'
+  description:
+  - Dla mnie smakuje jak trawa. Czemu
+  - ludzie to lubią?
+CLT_DOUGH:
+  name: Ciasto
+  type:
+  - '&7&oPlon'
+  description:
+  - Zwykłe, poczciwe ciasto!
+CLT_EGG_SALAD:
+  name: Sałatka jajeczna
+  type:
+  - '&7&oPlon'
+  description:
+  - Otwórz to w pociągu, no śmiało!
+CLT_EGG_SALAD_SANDWICH:
+  name: Kanapka z sałatką jajeczną
+  type:
+  - '&7&oJedzenie'
+  description:
+  - Trochę pachnie, ale smakuje obłędnie!
+  stats: &id006
+  - '&8⇨ &7Leczenie: &b10 serc'
+  - '&8⇨ &bRegeneracja II &7(10:00)'
+CLT_FENNEL:
+  name: Koper włoski
+  type:
+  - '&7&oPlon'
+  description:
+  - Jak mieszanka anyżu i lukrecji.
+CLT_FRIED_APPLE:
+  name: Smażone jabłko
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_APRICOT:
+  name: Smażona morela
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_ARTICHOKE:
+  name: Smażony karczoch
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_ASPARAGUS:
+  name: Smażone szparagi
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_AUBERGINE:
+  name: Smażony bakłażan
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_AVOCADO:
+  name: Smażone awokado
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_BANANA:
+  name: Smażony banan
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_BASIL:
+  name: Smażona bazylia
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_BAY_LEAF:
+  name: Smażony liść laurowy
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_BEEF:
+  name: Smażona wołowina
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_BEETROOT:
+  name: Smażony burak
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_BELL_PEPPER:
+  name: Smażona papryka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_BLACK_BEANS:
+  name: Smażona czarna fasola
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_BREAD:
+  name: Smażony chleb
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_BROCCOLI:
+  name: Smażony brokuł
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_BROWN_MUSHROOM:
+  name: Smażony borowik
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_BRUSSELS_SPROUTS:
+  name: Smażona brukselka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_CABBAGE:
+  name: Smażona kapusta
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_CARROT:
+  name: Smażona marchewka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_CAULIFLOWER:
+  name: Smażony kalafior
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_CAYENNE_PEPPER:
+  name: Smażony pieprz cayenne
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_CELERIAC:
+  name: Smażony seler korzeniowy
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_CELERY:
+  name: Smażony seler naciowy
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_CHERRY:
+  name: Smażona wiśnia
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_CHESTNUT:
+  name: Smażony kasztan
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_CHICKEN:
+  name: Smażony kurczak
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_CHICKPEAS:
+  name: Smażona ciecierzyca
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_CHICORY:
+  name: Smażona cykoria
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_CHILLY_PEPPER:
+  name: Smażona papryczka chili
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_CHIVES:
+  name: Smażony szczypiorek
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_CHORUS_FRUIT:
+  name: Smażony owoc refrenusu
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_CILANTRO:
+  name: Smażona kolendra
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_CINNAMON:
+  name: Smażony cynamon
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_CLOVE:
+  name: Smażony goździk
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_COCOA_BEANS:
+  name: Smażone ziarna kakaowe
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_COD:
+  name: Smażony dorsz
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_COURGETTE:
+  name: Smażona cukinia
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_CUCUMBER:
+  name: Smażony ogórek
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_CUMIN:
+  name: Smażony kmin rzymski
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_CURRY_LEAF:
+  name: Smażony liść curry
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_DILL:
+  name: Smażony koperek
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_EGG:
+  name: Smażone jajko
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_ENCHANTED_GOLDEN_APPLE:
+  name: Smażone zaklęte złote jabłko
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_FENNEL:
+  name: Smażony koper włoski
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_GARLIC:
+  name: Smażony czosnek
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_GINGER:
+  name: Smażony imbir
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_GLOW_BERRIES:
+  name: Smażone świecące jagody
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_GOLDEN_APPLE:
+  name: Smażone złote jabłko
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_GOLDEN_CARROT:
+  name: Smażona złota marchewka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_GRAPE:
+  name: Smażone winogrono
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_GREEN_APPLE:
+  name: Smażone zielone jabłko
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_GREEN_BEANS:
+  name: Smażona fasolka szparagowa
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_GREEN_ONION:
+  name: Smażona zielona cebulka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_HAZELNUT:
+  name: Smażony orzech laskowy
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_HORSERADISH:
+  name: Smażony chrzan
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_JALAPENO:
+  name: Smażona papryczka jalapeño
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_JASMINE:
+  name: Smażony jaśmin
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_JUNIPER_BERRY:
+  name: Smażone jagody jałowca
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_KAFFIR_LIME:
+  name: Smażony liść limonki kaffir
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_KALE:
+  name: Smażony jarmuż
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_KELP:
+  name: Smażony wodorost
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_KIWI:
+  name: Smażone kiwi
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_LAVENDER:
+  name: Smażona lawenda
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_LEEK:
+  name: Smażony por
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_LEMON:
+  name: Smażona cytryna
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_LETTUCE:
+  name: Smażona sałata
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_LICORICE:
+  name: Smażona lukrecja
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_LIME:
+  name: Smażona limonka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_MACE:
+  name: Smażony kwiat muszkatołowca
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_MANGO:
+  name: Smażone mango
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_MARJORAM:
+  name: Smażony majeranek
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_MARROW:
+  name: Smażony kabaczek
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_MELON:
+  name: Smażony arbuz
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_MINT:
+  name: Smażona mięta
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_MUSTARD_SEEDS:
+  name: Smażone ziarna gorczycy
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_MUTTON:
+  name: Smażona baranina
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_NETTLES:
+  name: Smażona pokrzywa
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_OKRA:
+  name: Smażona okra
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_ONION:
+  name: Smażona cebula
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_ORANGE:
+  name: Smażona pomarańcza
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_OREGANO:
+  name: Smażone oregano
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_PARSLEY:
+  name: Smażona pietruszka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_PARSNIP:
+  name: Smażony pasternak
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_PEA:
+  name: Smażony groszek
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_PEACH:
+  name: Smażona brzoskwinia
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_PEANUT:
+  name: Smażony orzeszek ziemny
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_PEAR:
+  name: Smażona gruszka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_PECAN:
+  name: Smażony orzech pekan
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_PEPPER:
+  name: Smażony czarny pieprz
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_PEPPERONI:
+  name: Smażone pepperoni
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_PINEAPPLE:
+  name: Smażony ananas
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_PINTO_BEANS:
+  name: Smażona fasola pinto
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_PORKCHOP:
+  name: Smażona wieprzowina
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_POTATO:
+  name: Smażony ziemniak
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_PUFFERFISH:
+  name: Smażona rozdymka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_PUMPKIN:
+  name: Smażona dynia
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_RABBIT:
+  name: Smażony królik
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_RADDISH:
+  name: Smażona rzodkiewka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_RADICCHIO:
+  name: Smażone radicchio
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_RAPESEED:
+  name: Smażony rzepak
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_RED_MUSHROOM:
+  name: Smażony muchomor
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_RHUBARB:
+  name: Smażony rabarbar
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_RICE:
+  name: Smażony ryż
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_ROSEMARY:
+  name: Smażony rozmaryn
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_ROTTEN_FLESH:
+  name: Smażone zgniłe mięso
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_RUNNER_BEANS:
+  name: Smażona fasola wielokwiatowa
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_RUTABAGA:
+  name: Smażona brukiew
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_SALMON:
+  name: Smażony łosoś
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_SASSAFRAS:
+  name: Smażony sasafras
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_SHALLOT:
+  name: Smażona szalotka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_SHISO:
+  name: Smażone shiso
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_SOY_BEANS:
+  name: Smażona soja
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_SPINACH:
+  name: Smażony szpinak
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_STAR_ANISE:
+  name: Smażony anyż gwiazdkowaty
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_STRAWBERRY:
+  name: Smażona truskawka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_SUGAR:
+  name: Smażony cukier
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_SWEETCORN:
+  name: Smażona kukurydza
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_SWEET_BERRIES:
+  name: Smażone słodkie jagody
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_SWEET_POTATO:
+  name: Smażony batat
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_TARRAGON:
+  name: Smażony estragon
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_THYME:
+  name: Smażony tymianek
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_TOMATO:
+  name: Smażony pomidor
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_TURMERIC:
+  name: Smażona kurkuma
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_TURNIP:
+  name: Smażona rzepa
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_VANILLA:
+  name: Smażona wanilia
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_WASABI:
+  name: Smażone wasabi
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRIED_WHEAT:
+  name: Smażona pszenica
+  type:
+  - '&7&oProdukt uboczny'
+CLT_FRUIT_SALAD:
+  name: Sałatka owocowa
+  type:
+  - '&7&oJedzenie'
+  description:
+  - Jeśli nazwiesz to sałatką, możesz jeść, ile
+  - chcesz, bo przecież to zdrowe.
+  stats:
+  - '&8⇨ &7Leczenie: &b6 serc'
+  - '&8⇨ &bSzybkość III &7(10:00)'
+CLT_FUGU:
+  name: Fugu
+  type:
+  - '&7&oJedzenie'
+  description:
+  - Gotowy rzucić kośćmi?
+  stats:
+  - '&8⇨ &7Leczenie: &b1 serce'
+  - '&8⇨ &bSiła V &7(10:00)'
+  - '&8⇨ &733% szansy, że po prostu umrzesz!'
+CLT_GARDEN_CLOCHE:
+  name: Klosz ogrodowy
+  type:
+  - '&7&oMaszyna'
+  description:
+  - Automatycznie hoduje w sobie rośliny.
+  stats:
+  - '&8⇨ &7Energia na tick: &b100'
+CLT_GARLIC:
+  name: Czosnek
+  type:
+  - '&7&oPlon'
+  description:
+  - Szybko, zanim przyjdą wampiry!
+CLT_GARLIC_BUTTER_MUSHROOMS:
+  name: Grzyby w maśle czosnkowym
+  type:
+  - '&7&oJedzenie'
+  description:
+  - Być może najlepsze jedzenie na ziemi.
+  stats:
+  - '&8⇨ &7Leczenie: &b2 serca'
+  - '&8⇨ &bBlask I &7(10:00)'
+CLT_GINGER:
+  name: Imbir
+  type:
+  - '&7&oPlon'
+  description:
+  - Posiekany imbir we wrzątku leczy wszelkie dolegliwości!
+CLT_GRAPE:
+  name: Winogrono
+  type:
+  - '&7&oPlon'
+  description:
+  - Jakie pulchne!
+CLT_GRAPE_JELLY:
+  name: Galaretka winogronowa
+  type:
+  - '&7&oPlon'
+  description: &id008
+  - Jedzenie tego łyżką to przestępstwo.
+CLT_GREEN_APPLE:
+  name: Zielone jabłko
+  type:
+  - '&7&oPlon'
+  description:
+  - Liścik mówi... Droga Pani Nauczycielko?
+CLT_GREEN_BEANS:
+  name: Fasolka szparagowa
+  type:
+  - '&7&oPlon'
+  description:
+  - Jak kreatywnie nazwane!
+CLT_GREEN_ONION:
+  name: Zielona cebulka
+  type:
+  - '&7&oPlon'
+  description:
+  - Świetnie pasuje do tacos!
+CLT_GRILLED_APPLE:
+  name: Grillowane jabłko
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_APRICOT:
+  name: Grillowana morela
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_ARTICHOKE:
+  name: Grillowany karczoch
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_ASPARAGUS:
+  name: Grillowane szparagi
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_AUBERGINE:
+  name: Grillowany bakłażan
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_AVOCADO:
+  name: Grillowane awokado
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_BANANA:
+  name: Grillowany banan
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_BASIL:
+  name: Grillowana bazylia
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_BAY_LEAF:
+  name: Grillowany liść laurowy
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_BEEF:
+  name: Grillowana wołowina
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_BEETROOT:
+  name: Grillowany burak
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_BELL_PEPPER:
+  name: Grillowana papryka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_BLACK_BEANS:
+  name: Grillowana czarna fasola
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_BREAD:
+  name: Grillowany chleb
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_BROCCOLI:
+  name: Grillowany brokuł
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_BROWN_MUSHROOM:
+  name: Grillowany borowik
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_BRUSSELS_SPROUTS:
+  name: Grillowana brukselka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_CABBAGE:
+  name: Grillowana kapusta
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_CARROT:
+  name: Grillowana marchewka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_CAULIFLOWER:
+  name: Grillowany kalafior
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_CAYENNE_PEPPER:
+  name: Grillowany pieprz cayenne
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_CELERIAC:
+  name: Grillowany seler korzeniowy
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_CELERY:
+  name: Grillowany seler naciowy
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_CHERRY:
+  name: Grillowana wiśnia
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_CHESTNUT:
+  name: Grillowany kasztan
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_CHICKEN:
+  name: Grillowany kurczak
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_CHICKPEAS:
+  name: Grillowana ciecierzyca
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_CHICORY:
+  name: Grillowana cykoria
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_CHILLY_PEPPER:
+  name: Grillowana papryczka chili
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_CHIVES:
+  name: Grillowany szczypiorek
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_CHORUS_FRUIT:
+  name: Grillowany owoc refrenusu
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_CILANTRO:
+  name: Grillowana kolendra
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_CINNAMON:
+  name: Grillowany cynamon
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_CLOVE:
+  name: Grillowany goździk
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_COCOA_BEANS:
+  name: Grillowane ziarna kakaowe
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_COD:
+  name: Grillowany dorsz
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_COURGETTE:
+  name: Grillowana cukinia
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_CUCUMBER:
+  name: Grillowany ogórek
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_CUMIN:
+  name: Grillowany kmin rzymski
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_CURRY_LEAF:
+  name: Grillowany liść curry
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_DILL:
+  name: Grillowany koperek
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_EGG:
+  name: Grillowane jajko
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_ENCHANTED_GOLDEN_APPLE:
+  name: Grillowane zaklęte złote jabłko
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_FENNEL:
+  name: Grillowany koper włoski
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_GARLIC:
+  name: Grillowany czosnek
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_GINGER:
+  name: Grillowany imbir
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_GLOW_BERRIES:
+  name: Grillowane świecące jagody
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_GOLDEN_APPLE:
+  name: Grillowane złote jabłko
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_GOLDEN_CARROT:
+  name: Grillowana złota marchewka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_GRAPE:
+  name: Grillowane winogrono
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_GREEN_APPLE:
+  name: Grillowane zielone jabłko
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_GREEN_BEANS:
+  name: Grillowana fasolka szparagowa
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_GREEN_ONION:
+  name: Grillowana zielona cebulka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_HAZELNUT:
+  name: Grillowany orzech laskowy
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_HORSERADISH:
+  name: Grillowany chrzan
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_JALAPENO:
+  name: Grillowana papryczka jalapeño
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_JASMINE:
+  name: Grillowany jaśmin
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_JUNIPER_BERRY:
+  name: Grillowane jagody jałowca
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_KAFFIR_LIME:
+  name: Grillowany liść limonki kaffir
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_KALE:
+  name: Grillowany jarmuż
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_KELP:
+  name: Grillowany wodorost
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_KIWI:
+  name: Grillowane kiwi
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_LAVENDER:
+  name: Grillowana lawenda
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_LEEK:
+  name: Grillowany por
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_LEMON:
+  name: Grillowana cytryna
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_LETTUCE:
+  name: Grillowana sałata
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_LICORICE:
+  name: Grillowana lukrecja
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_LIME:
+  name: Grillowana limonka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_MACE:
+  name: Grillowany kwiat muszkatołowca
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_MANGO:
+  name: Grillowane mango
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_MARJORAM:
+  name: Grillowany majeranek
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_MARROW:
+  name: Grillowany kabaczek
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_MELON:
+  name: Grillowany arbuz
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_MINT:
+  name: Grillowana mięta
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_MUSTARD_SEEDS:
+  name: Grillowane ziarna gorczycy
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_MUTTON:
+  name: Grillowana baranina
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_NETTLES:
+  name: Grillowana pokrzywa
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_OKRA:
+  name: Grillowana okra
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_ONION:
+  name: Grillowana cebula
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_ORANGE:
+  name: Grillowana pomarańcza
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_OREGANO:
+  name: Grillowane oregano
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_PARSLEY:
+  name: Grillowana pietruszka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_PARSNIP:
+  name: Grillowany pasternak
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_PEA:
+  name: Grillowany groszek
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_PEACH:
+  name: Grillowana brzoskwinia
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_PEANUT:
+  name: Grillowany orzeszek ziemny
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_PEAR:
+  name: Grillowana gruszka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_PECAN:
+  name: Grillowany orzech pekan
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_PEPPER:
+  name: Grillowany czarny pieprz
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_PEPPERONI:
+  name: Grillowane pepperoni
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_PINEAPPLE:
+  name: Grillowany ananas
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_PINTO_BEANS:
+  name: Grillowana fasola pinto
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_PORKCHOP:
+  name: Grillowana wieprzowina
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_POTATO:
+  name: Grillowany ziemniak
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_PUFFERFISH:
+  name: Grillowana rozdymka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_PUMPKIN:
+  name: Grillowana dynia
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_RABBIT:
+  name: Grillowany królik
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_RADDISH:
+  name: Grillowana rzodkiewka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_RADICCHIO:
+  name: Grillowane radicchio
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_RAPESEED:
+  name: Grillowany rzepak
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_RED_MUSHROOM:
+  name: Grillowany muchomor
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_RHUBARB:
+  name: Grillowany rabarbar
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_RICE:
+  name: Grillowany ryż
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_ROSEMARY:
+  name: Grillowany rozmaryn
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_ROTTEN_FLESH:
+  name: Grillowane zgniłe mięso
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_RUNNER_BEANS:
+  name: Grillowana fasola wielokwiatowa
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_RUTABAGA:
+  name: Grillowana brukiew
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_SALMON:
+  name: Grillowany łosoś
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_SALMON_SALAD:
+  name: Grillowana sałatka z łososia
+  type:
+  - '&7&oJedzenie'
+  description:
+  - Rozkosznie krucha i znakomicie przyprawiona.
+  stats:
+  - '&8⇨ &7Leczenie: &b4 serca'
+  - '&8⇨ &bRegeneracja I &7(10:00)'
+  - '&8⇨ &bZwiększenie zdrowia V &7(10:00)'
+CLT_GRILLED_SASSAFRAS:
+  name: Grillowany sasafras
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_SHALLOT:
+  name: Grillowana szalotka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_SHISO:
+  name: Grillowane shiso
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_SOY_BEANS:
+  name: Grillowana soja
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_SPINACH:
+  name: Grillowany szpinak
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_STAR_ANISE:
+  name: Grillowany anyż gwiazdkowaty
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_STRAWBERRY:
+  name: Grillowana truskawka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_SUGAR:
+  name: Grillowany cukier
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_SWEETCORN:
+  name: Grillowana kukurydza
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_SWEET_BERRIES:
+  name: Grillowane słodkie jagody
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_SWEET_POTATO:
+  name: Grillowany batat
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_TARRAGON:
+  name: Grillowany estragon
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_THYME:
+  name: Grillowany tymianek
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_TOMATO:
+  name: Grillowany pomidor
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_TURMERIC:
+  name: Grillowana kurkuma
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_TURNIP:
+  name: Grillowana rzepa
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_VANILLA:
+  name: Grillowana wanilia
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_WASABI:
+  name: Grillowane wasabi
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GRILLED_WHEAT:
+  name: Grillowana pszenica
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_APPLE:
+  name: Mielone jabłko
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_APRICOT:
+  name: Mielona morela
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_ARTICHOKE:
+  name: Mielony karczoch
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_ASPARAGUS:
+  name: Mielone szparagi
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_AUBERGINE:
+  name: Mielony bakłażan
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_AVOCADO:
+  name: Mielone awokado
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_BANANA:
+  name: Mielony banan
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_BASIL:
+  name: Mielona bazylia
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_BAY_LEAF:
+  name: Mielony liść laurowy
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_BEEF:
+  name: Mielona wołowina
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_BEETROOT:
+  name: Mielony burak
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_BELL_PEPPER:
+  name: Mielona papryka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_BLACK_BEANS:
+  name: Mielona czarna fasola
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_BREAD:
+  name: Mielony chleb
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_BROCCOLI:
+  name: Mielony brokuł
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_BROWN_MUSHROOM:
+  name: Mielony borowik
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_BRUSSELS_SPROUTS:
+  name: Mielona brukselka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_CABBAGE:
+  name: Mielona kapusta
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_CARROT:
+  name: Mielona marchewka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_CAULIFLOWER:
+  name: Mielony kalafior
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_CAYENNE_PEPPER:
+  name: Mielony pieprz cayenne
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_CELERIAC:
+  name: Mielony seler korzeniowy
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_CELERY:
+  name: Mielony seler naciowy
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_CHERRY:
+  name: Mielona wiśnia
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_CHESTNUT:
+  name: Mielony kasztan
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_CHICKEN:
+  name: Mielony kurczak
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_CHICKPEAS:
+  name: Mielona ciecierzyca
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_CHICORY:
+  name: Mielona cykoria
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_CHILLY_PEPPER:
+  name: Mielona papryczka chili
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_CHIVES:
+  name: Mielony szczypiorek
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_CHORUS_FRUIT:
+  name: Mielony owoc refrenusu
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_CILANTRO:
+  name: Mielona kolendra
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_CINNAMON:
+  name: Mielony cynamon
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_CLOVE:
+  name: Mielony goździk
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_COCOA_BEANS:
+  name: Mielone ziarna kakaowe
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_COD:
+  name: Mielony dorsz
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_COURGETTE:
+  name: Mielona cukinia
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_CUCUMBER:
+  name: Mielony ogórek
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_CUMIN:
+  name: Mielony kmin rzymski
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_CURRY_LEAF:
+  name: Mielony liść curry
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_DILL:
+  name: Mielony koperek
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_EGG:
+  name: Mielone jajko
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_ENCHANTED_GOLDEN_APPLE:
+  name: Mielone zaklęte złote jabłko
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_FENNEL:
+  name: Mielony koper włoski
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_GARLIC:
+  name: Mielony czosnek
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_GINGER:
+  name: Mielony imbir
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_GLOW_BERRIES:
+  name: Mielone świecące jagody
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_GOLDEN_APPLE:
+  name: Mielone złote jabłko
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_GOLDEN_CARROT:
+  name: Mielona złota marchewka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_GRAPE:
+  name: Mielone winogrono
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_GREEN_APPLE:
+  name: Mielone zielone jabłko
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_GREEN_BEANS:
+  name: Mielona fasolka szparagowa
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_GREEN_ONION:
+  name: Mielona zielona cebulka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_HAZELNUT:
+  name: Mielony orzech laskowy
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_HORSERADISH:
+  name: Mielony chrzan
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_JALAPENO:
+  name: Mielona papryczka jalapeño
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_JASMINE:
+  name: Mielony jaśmin
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_JUNIPER_BERRY:
+  name: Mielone jagody jałowca
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_KAFFIR_LIME:
+  name: Mielony liść limonki kaffir
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_KALE:
+  name: Mielony jarmuż
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_KELP:
+  name: Mielony wodorost
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_KIWI:
+  name: Mielone kiwi
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_LAVENDER:
+  name: Mielona lawenda
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_LEEK:
+  name: Mielony por
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_LEMON:
+  name: Mielona cytryna
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_LETTUCE:
+  name: Mielona sałata
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_LICORICE:
+  name: Mielona lukrecja
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_LIME:
+  name: Mielona limonka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_MACE:
+  name: Mielony kwiat muszkatołowca
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_MANGO:
+  name: Mielone mango
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_MARJORAM:
+  name: Mielony majeranek
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_MARROW:
+  name: Mielony kabaczek
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_MELON:
+  name: Mielony arbuz
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_MINT:
+  name: Mielona mięta
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_MUSTARD_SEEDS:
+  name: Mielone ziarna gorczycy
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_MUTTON:
+  name: Mielona baranina
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_NETTLES:
+  name: Mielona pokrzywa
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_OKRA:
+  name: Mielona okra
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_ONION:
+  name: Mielona cebula
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_ORANGE:
+  name: Mielona pomarańcza
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_OREGANO:
+  name: Mielone oregano
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_PARSLEY:
+  name: Mielona pietruszka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_PARSNIP:
+  name: Mielony pasternak
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_PEA:
+  name: Mielony groszek
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_PEACH:
+  name: Mielona brzoskwinia
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_PEANUT:
+  name: Mielony orzeszek ziemny
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_PEAR:
+  name: Mielona gruszka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_PECAN:
+  name: Mielony orzech pekan
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_PEPPER:
+  name: Mielony czarny pieprz
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_PEPPERONI:
+  name: Mielone pepperoni
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_PINEAPPLE:
+  name: Mielony ananas
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_PINTO_BEANS:
+  name: Mielona fasola pinto
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_PORKCHOP:
+  name: Mielona wieprzowina
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_POTATO:
+  name: Mielony ziemniak
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_PUFFERFISH:
+  name: Mielona rozdymka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_PUMPKIN:
+  name: Mielona dynia
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_RABBIT:
+  name: Mielony królik
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_RADDISH:
+  name: Mielona rzodkiewka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_RADICCHIO:
+  name: Mielone radicchio
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_RAPESEED:
+  name: Mielony rzepak
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_RED_MUSHROOM:
+  name: Mielony muchomor
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_RHUBARB:
+  name: Mielony rabarbar
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_RICE:
+  name: Mielony ryż
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_ROSEMARY:
+  name: Mielony rozmaryn
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_ROTTEN_FLESH:
+  name: Mielone zgniłe mięso
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_RUNNER_BEANS:
+  name: Mielona fasola wielokwiatowa
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_RUTABAGA:
+  name: Mielona brukiew
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_SALMON:
+  name: Mielony łosoś
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_SASSAFRAS:
+  name: Mielony sasafras
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_SHALLOT:
+  name: Mielona szalotka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_SHISO:
+  name: Mielone shiso
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_SOY_BEANS:
+  name: Mielona soja
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_SPINACH:
+  name: Mielony szpinak
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_STAR_ANISE:
+  name: Mielony anyż gwiazdkowaty
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_STRAWBERRY:
+  name: Mielona truskawka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_SUGAR:
+  name: Mielony cukier
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_SWEETCORN:
+  name: Mielona kukurydza
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_SWEET_BERRIES:
+  name: Mielone słodkie jagody
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_SWEET_POTATO:
+  name: Mielony batat
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_TARRAGON:
+  name: Mielony estragon
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_THYME:
+  name: Mielony tymianek
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_TOMATO:
+  name: Mielony pomidor
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_TURMERIC:
+  name: Mielona kurkuma
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_TURNIP:
+  name: Mielona rzepa
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_VANILLA:
+  name: Mielona wanilia
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_WASABI:
+  name: Mielone wasabi
+  type:
+  - '&7&oProdukt uboczny'
+CLT_GROUND_WHEAT:
+  name: Mielona pszenica
+  type:
+  - '&7&oProdukt uboczny'
+CLT_HAZELNUT:
+  name: Orzech laskowy
+  type:
+  - '&7&oPlon'
+  description:
+  - Zrób, co trzeba, żeby zamienić to
+  - w kawę dla mnie, już!
+CLT_HORSERADISH:
+  name: Chrzan
+  type:
+  - '&7&oPlon'
+  description:
+  - $100, jeśli od razu się w to wgryziesz.
+CLT_JALAPENO:
+  name: Papryczka jalapeño
+  type:
+  - '&7&oPlon'
+  description:
+  - GORĄCE GORĄCE GORĄCE.
+CLT_JASMINE:
+  name: Jaśmin
+  type:
+  - '&7&oPlon'
+  description:
+  - Wychodzi z tego wspaniała herbata.
+CLT_JUNIPER_BERRY:
+  name: Jagody jałowca
+  type:
+  - '&7&oPlon'
+  description:
+  - Wysuszony do pieprznej perfekcji.
+CLT_KAFFIR_LIME:
+  name: Liść limonki kaffir
+  type:
+  - '&7&oPlon'
+  description:
+  - Liść o potężnym aromacie.
+CLT_KALE:
+  name: Jarmuż
+  type:
+  - '&7&oPlon'
+  description:
+  - Pomocy, jestem smoothie-hipsterem z 2020!
+CLT_KETCHUP:
+  name: Keczup
+  type:
+  - '&7&oPlon'
+  description:
+  - Po prostu pomidory w kremowej formie.
+CLT_KEY_LIME_PIE:
+  name: Placek limonkowy
+  type:
+  - '&7&oJedzenie'
+  description:
+  - Po prostu najlepsze!
+  stats:
+  - '&8⇨ &7Leczenie: &b6 serc'
+  - '&8⇨ &bPośpiech IV &7(10:00)'
+CLT_KIWI:
+  name: Kiwi
+  type:
+  - '&7&oPlon'
+  description:
+  - Dodałem to do dodatku pod przymusem.
+  - Kiwi są złe i każdy, kto
+  - ich używa, automatycznie traci
+  - 100 punktów.
+CLT_LASAGNA:
+  name: Lasagna
+  type:
+  - '&7&oJedzenie'
+  description:
+  - Warstwy wspaniałości.
+  stats:
+  - '&8⇨ &7Leczenie: &bPełne'
+  - '&8⇨ &bRegeneracja II &7(10:00)'
+  - '&8⇨ &bOdporność II &7(10:00)'
+CLT_LAVENDER:
+  name: Lawenda
+  type:
+  - '&7&oPlon'
+  description:
+  - Zapach, przy którym powoli odpływam w sen.
+CLT_LEAVES_TREE_APRICOT:
+  name: Liście moreli
+  type:
+  - '&7&oLiście'
+CLT_LEAVES_TREE_BANANA:
+  name: Liście bananowca
+  type:
+  - '&7&oLiście'
+CLT_LEAVES_TREE_CHERRY:
+  name: Liście wiśni
+  type:
+  - '&7&oLiście'
+CLT_LEAVES_TREE_CHESTNUT:
+  name: Liście kasztana
+  type:
+  - '&7&oLiście'
+CLT_LEAVES_TREE_GREEN_APPLE:
+  name: Liście drzewa zielonych jabłek
+  type:
+  - '&7&oLiście'
+CLT_LEAVES_TREE_HAZELNUT:
+  name: Liście leszczyny
+  type:
+  - '&7&oLiście'
+CLT_LEAVES_TREE_KIWI:
+  name: Liście kiwi
+  type:
+  - '&7&oLiście'
+CLT_LEAVES_TREE_LEMON:
+  name: Liście cytryny
+  type:
+  - '&7&oLiście'
+CLT_LEAVES_TREE_LIME:
+  name: Liście limonki
+  type:
+  - '&7&oLiście'
+CLT_LEAVES_TREE_MANGO:
+  name: Liście mango
+  type:
+  - '&7&oLiście'
+CLT_LEAVES_TREE_ORANGE:
+  name: Liście pomarańczy
+  type:
+  - '&7&oLiście'
+CLT_LEAVES_TREE_PEACH:
+  name: Liście brzoskwini
+  type:
+  - '&7&oLiście'
+CLT_LEAVES_TREE_PEAR:
+  name: Liście gruszy
+  type:
+  - '&7&oLiście'
+CLT_LEAVES_TREE_PECAN:
+  name: Liście pekanu
+  type:
+  - '&7&oLiście'
+CLT_LEAVES_TREE_PINEAPPLE:
+  name: Liście ananasa
+  type:
+  - '&7&oLiście'
+CLT_LEEK:
+  name: Por
+  type:
+  - '&7&oPlon'
+  description:
+  - z jakiegoś powodu ocieka wodą?
+  - Może otworzyły mu się pory?
+CLT_LEMON:
+  name: Cytryna
+  type:
+  - '&7&oPlon'
+  description:
+  - Czemu taka kwaśna mina?
+CLT_LEMON_DROP:
+  name: Drops cytrynowy
+  type:
+  - '&7&oJedzenie'
+  description:
+  - Odświeżacz podniebienia.
+  stats:
+  - '&8⇨ &7Usuwa wszystkie efekty i sprawia, że znów jesteś głodny.'
+CLT_LETTUCE:
+  name: Sałata
+  type:
+  - '&7&oPlon'
+  description:
+  - Cienka, wodnista, a jednak pyszna.
+CLT_LICORICE:
+  name: Lukrecja
+  type:
+  - '&7&oPlon'
+  description:
+  - Uciekaj, uciekaj natychmiast!
+CLT_LIME:
+  name: Limonka
+  type:
+  - '&7&oPlon'
+  description:
+  - Dawno, dawno temu, za siedmioma limonkami, był sobie pyszny owoc...
+CLT_MACE:
+  name: Kwiat muszkatołowca
+  type:
+  - '&7&oPlon'
+  description:
+  - Służy do pryskania w twarz napastnikom.
+  - '...'
+  - Jak to, to nie ten rodzaj gazu?
+CLT_MANGO:
+  name: Mango
+  type:
+  - '&7&oPlon'
+  description:
+  - Człowieku, MAN-GOnię już, pa.
+  - Pisanie opisów jest trudne...
+CLT_MARJORAM:
+  name: Majeranek
+  type:
+  - '&7&oPlon'
+  description:
+  - Jestem trochę w curry... znaczy w pośpiechu, pogadamy później?
+CLT_MARROW:
+  name: Kabaczek
+  type:
+  - '&7&oPlon'
+  description:
+  - Czy wiesz, że kabaczek to po angielsku
+  - '"marrow", czyli szpik kostny?'
+  - Tak, Sefi Mondry.
+CLT_MASHED_APPLE:
+  name: Tłuczone jabłko
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_APRICOT:
+  name: Tłuczona morela
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_ARTICHOKE:
+  name: Tłuczony karczoch
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_ASPARAGUS:
+  name: Tłuczone szparagi
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_AUBERGINE:
+  name: Tłuczony bakłażan
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_AVOCADO:
+  name: Tłuczone awokado
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_BANANA:
+  name: Tłuczony banan
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_BASIL:
+  name: Tłuczona bazylia
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_BAY_LEAF:
+  name: Tłuczony liść laurowy
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_BEEF:
+  name: Tłuczona wołowina
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_BEETROOT:
+  name: Tłuczony burak
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_BELL_PEPPER:
+  name: Tłuczona papryka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_BLACK_BEANS:
+  name: Tłuczona czarna fasola
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_BREAD:
+  name: Tłuczony chleb
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_BROCCOLI:
+  name: Tłuczony brokuł
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_BROWN_MUSHROOM:
+  name: Tłuczony borowik
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_BRUSSELS_SPROUTS:
+  name: Tłuczona brukselka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_CABBAGE:
+  name: Tłuczona kapusta
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_CARROT:
+  name: Tłuczona marchewka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_CAULIFLOWER:
+  name: Tłuczony kalafior
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_CAYENNE_PEPPER:
+  name: Tłuczony pieprz cayenne
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_CELERIAC:
+  name: Tłuczony seler korzeniowy
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_CELERY:
+  name: Tłuczony seler naciowy
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_CHERRY:
+  name: Tłuczona wiśnia
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_CHESTNUT:
+  name: Tłuczony kasztan
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_CHICKEN:
+  name: Tłuczony kurczak
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_CHICKPEAS:
+  name: Tłuczona ciecierzyca
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_CHICORY:
+  name: Tłuczona cykoria
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_CHILLY_PEPPER:
+  name: Tłuczona papryczka chili
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_CHIVES:
+  name: Tłuczony szczypiorek
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_CHORUS_FRUIT:
+  name: Tłuczony owoc refrenusu
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_CILANTRO:
+  name: Tłuczona kolendra
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_CINNAMON:
+  name: Tłuczony cynamon
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_CLOVE:
+  name: Tłuczony goździk
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_COCOA_BEANS:
+  name: Tłuczone ziarna kakaowe
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_COD:
+  name: Tłuczony dorsz
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_COURGETTE:
+  name: Tłuczona cukinia
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_CUCUMBER:
+  name: Tłuczony ogórek
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_CUMIN:
+  name: Tłuczony kmin rzymski
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_CURRY_LEAF:
+  name: Tłuczony liść curry
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_DILL:
+  name: Tłuczony koperek
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_EGG:
+  name: Tłuczone jajko
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_ENCHANTED_GOLDEN_APPLE:
+  name: Tłuczone zaklęte złote jabłko
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_FENNEL:
+  name: Tłuczony koper włoski
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_GARLIC:
+  name: Tłuczony czosnek
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_GINGER:
+  name: Tłuczony imbir
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_GLOW_BERRIES:
+  name: Tłuczone świecące jagody
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_GOLDEN_APPLE:
+  name: Tłuczone złote jabłko
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_GOLDEN_CARROT:
+  name: Tłuczona złota marchewka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_GRAPE:
+  name: Tłuczone winogrono
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_GREEN_APPLE:
+  name: Tłuczone zielone jabłko
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_GREEN_BEANS:
+  name: Tłuczona fasolka szparagowa
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_GREEN_ONION:
+  name: Tłuczona zielona cebulka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_HAZELNUT:
+  name: Tłuczony orzech laskowy
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_HORSERADISH:
+  name: Tłuczony chrzan
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_JALAPENO:
+  name: Tłuczona papryczka jalapeño
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_JASMINE:
+  name: Tłuczony jaśmin
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_JUNIPER_BERRY:
+  name: Tłuczone jagody jałowca
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_KAFFIR_LIME:
+  name: Tłuczony liść limonki kaffir
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_KALE:
+  name: Tłuczony jarmuż
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_KELP:
+  name: Tłuczony wodorost
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_KIWI:
+  name: Tłuczone kiwi
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_LAVENDER:
+  name: Tłuczona lawenda
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_LEEK:
+  name: Tłuczony por
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_LEMON:
+  name: Tłuczona cytryna
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_LETTUCE:
+  name: Tłuczona sałata
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_LICORICE:
+  name: Tłuczona lukrecja
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_LIME:
+  name: Tłuczona limonka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_MACE:
+  name: Tłuczony kwiat muszkatołowca
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_MANGO:
+  name: Tłuczone mango
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_MARJORAM:
+  name: Tłuczony majeranek
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_MARROW:
+  name: Tłuczony kabaczek
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_MELON:
+  name: Tłuczony arbuz
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_MINT:
+  name: Tłuczona mięta
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_MUSTARD_SEEDS:
+  name: Tłuczone ziarna gorczycy
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_MUTTON:
+  name: Tłuczona baranina
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_NETTLES:
+  name: Tłuczona pokrzywa
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_OKRA:
+  name: Tłuczona okra
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_ONION:
+  name: Tłuczona cebula
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_ORANGE:
+  name: Tłuczona pomarańcza
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_OREGANO:
+  name: Tłuczone oregano
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_PARSLEY:
+  name: Tłuczona pietruszka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_PARSNIP:
+  name: Tłuczony pasternak
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_PEA:
+  name: Tłuczony groszek
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_PEACH:
+  name: Tłuczona brzoskwinia
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_PEANUT:
+  name: Tłuczony orzeszek ziemny
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_PEAR:
+  name: Tłuczona gruszka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_PECAN:
+  name: Tłuczony orzech pekan
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_PEPPER:
+  name: Tłuczony czarny pieprz
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_PEPPERONI:
+  name: Tłuczone pepperoni
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_PINEAPPLE:
+  name: Tłuczony ananas
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_PINTO_BEANS:
+  name: Tłuczona fasola pinto
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_PORKCHOP:
+  name: Tłuczona wieprzowina
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_POTATO:
+  name: Tłuczony ziemniak
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_PUFFERFISH:
+  name: Tłuczona rozdymka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_PUMPKIN:
+  name: Tłuczona dynia
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_RABBIT:
+  name: Tłuczony królik
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_RADDISH:
+  name: Tłuczona rzodkiewka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_RADICCHIO:
+  name: Tłuczone radicchio
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_RAPESEED:
+  name: Tłuczony rzepak
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_RED_MUSHROOM:
+  name: Tłuczony muchomor
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_RHUBARB:
+  name: Tłuczony rabarbar
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_RICE:
+  name: Tłuczony ryż
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_ROSEMARY:
+  name: Tłuczony rozmaryn
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_ROTTEN_FLESH:
+  name: Tłuczone zgniłe mięso
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_RUNNER_BEANS:
+  name: Tłuczona fasola wielokwiatowa
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_RUTABAGA:
+  name: Tłuczona brukiew
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_SALMON:
+  name: Tłuczony łosoś
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_SASSAFRAS:
+  name: Tłuczony sasafras
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_SHALLOT:
+  name: Tłuczona szalotka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_SHISO:
+  name: Tłuczone shiso
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_SOY_BEANS:
+  name: Tłuczona soja
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_SPINACH:
+  name: Tłuczony szpinak
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_STAR_ANISE:
+  name: Tłuczony anyż gwiazdkowaty
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_STRAWBERRY:
+  name: Tłuczona truskawka
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_SUGAR:
+  name: Tłuczony cukier
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_SWEETCORN:
+  name: Tłuczona kukurydza
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_SWEET_BERRIES:
+  name: Tłuczone słodkie jagody
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_SWEET_POTATO:
+  name: Tłuczony batat
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_TARRAGON:
+  name: Tłuczony estragon
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_THYME:
+  name: Tłuczony tymianek
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_TOMATO:
+  name: Tłuczony pomidor
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_TURMERIC:
+  name: Tłuczona kurkuma
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_TURNIP:
+  name: Tłuczona rzepa
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_VANILLA:
+  name: Tłuczona wanilia
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_WASABI:
+  name: Tłuczone wasabi
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MASHED_WHEAT:
+  name: Tłuczona pszenica
+  type:
+  - '&7&oProdukt uboczny'
+CLT_MAYONNAISE:
+  name: Majonez
+  type:
+  - '&7&oPlon'
+  description:
+  - Jedwabiście gładki majonez, który pasuje niemal do wszystkiego.
+CLT_MEATBALLS:
+  name: Klopsiki
+  type:
+  - '&7&oPlon'
+  description:
+  - Kulki z mięsa, kto by pomyślał.
+CLT_MEATLOAF:
+  name: Pieczeń rzymska
+  type:
+  - '&7&oJedzenie'
+  description:
+  - Nie ma nic lepszego! Ruszajmy.
+  stats:
+  - '&8⇨ &7Leczenie: &bPełne'
+  - '&8⇨ &bZwiększenie zdrowia IV &7(10:00)'
+  - '&8⇨ &bOdporność III &7(10:00)'
+  - '&8⇨ &bPośpiech II &7(10:00)'
+  - '&8⇨ &bSpowolnienie II &7(10:00)'
+CLT_MINT:
+  name: Mięta
+  type:
+  - '&7&oPlon'
+  description:
+  - Żuj, żuj, żuj.
+CLT_MUSTARD:
+  name: Gorczyca
+  type:
+  - '&7&oPlon'
+  description:
+  - Ma w sobie trochę pazura!
+CLT_MUSTARD_SEEDS:
+  name: Nasiona gorczycy
+  type:
+  - '&7&oPlon'
+  description:
+  - Pogryź je, no śmiało!
+CLT_NETTLES:
+  name: Pokrzywa
+  type:
+  - '&7&oPlon'
+  description:
+  - Załóż rękawiczki, zanim ich dotkniesz.
+CLT_OKRA:
+  name: Okra
+  type:
+  - '&7&oPlon'
+  description:
+  - Rośnie masowo w Okra-homie... prawda, PRAWDA?
+CLT_ONION:
+  name: Cebula
+  type:
+  - '&7&oPlon'
+  description:
+  - Czekaj, czemu płaczesz?
+CLT_ORANGE:
+  name: Pomarańcza
+  type:
+  - '&7&oPlon'
+  description:
+  - Czy ta pomarańcza nie miała być mechaniczna?
+CLT_ORANGE_JUICE:
+  name: Sok pomarańczowy
+  type:
+  - '&7&oJedzenie'
+  description:
+  - To naprawdę najlepszy sposób na rozpoczęcie dnia.
+  stats:
+  - '&8⇨ &bSzybkość IV &7(10:00)'
+CLT_OREGANO:
+  name: Oregano
+  type:
+  - '&7&oPlon'
+  description:
+  - Klasyczne zioło z każdej spiżarni.
+CLT_PARSLEY:
+  name: Pietruszka
+  type:
+  - '&7&oPlon'
+  description:
+  - Najgorsze. Zioło. Świata.
+CLT_PARSNIP:
+  name: Pasternak
+  type:
+  - '&7&oPlon'
+  description:
+  - Wymaga natychmiastowego upieczenia.
+CLT_PASTA:
+  name: Makaron
+  type:
+  - '&7&oPlon'
+  description:
+  - Zwykły makaron, prosty, a cudowny.
+CLT_PEA:
+  name: Groszek
+  type:
+  - '&7&oPlon'
+  description:
+  - Często występuje parami w strąku, przynajmniej tak słyszałem.
+CLT_PEACH:
+  name: Brzoskwinia
+  type:
+  - '&7&oPlon'
+  description:
+  - Nie rozmawiamy o tym emoji
+CLT_PEANUT:
+  name: Orzeszek ziemny
+  type:
+  - '&7&oPlon'
+  description:
+  - Reese's, nadchodzę!
+CLT_PEANUT_BUTTER:
+  name: Masło orzechowe
+  type:
+  - '&7&oPlon'
+  description:
+  - Porównywalne tylko z płynnym złotem.
+CLT_PEANUT_BUTTER_JELLY_SANDWICH:
+  name: Kanapka z masłem orzechowym i galaretką
+  type:
+  - '&7&oJedzenie'
+  description:
+  - To naprawdę szczyt technologii kanapkowej.
+  stats:
+  - '&8⇨ &7Leczenie: &b5 serc'
+  - '&8⇨ &bSiła III &7(10:00)'
+CLT_PEAR:
+  name: Gruszka
+  type:
+  - '&7&oPlon'
+  description:
+  - Nie powiesz, że wygląda grusz-pięknie?
+CLT_PECAN:
+  name: Orzech pekan
+  type:
+  - '&7&oPlon'
+  description:
+  - Aż się prosi, żeby zrobić z tego placek.
+CLT_PECAN_PIE:
+  name: Placek z orzechami pekan
+  type:
+  - '&7&oJedzenie'
+  description:
+  - Jedyny sposób, by jeść czysty cukier i nie
+  - być za to totalnie ocenianym.
+  stats:
+  - '&8⇨ &7Leczenie: &b4 serca'
+  - '&8⇨ &bLewitacja I &7(10:00)'
+CLT_PEPPER:
+  name: Czarny pieprz
+  type:
+  - '&7&oPlon'
+  description:
+  - Ostrzejszy niż sól.
+CLT_PEPPERONI:
+  name: Pepperoni
+  type:
+  - '&7&oPlon'
+  description:
+  - Zjadłbym cały baton tego, bez problemu.
+CLT_PICO_DE_GALLO:
+  name: Pico de gallo
+  type:
+  - '&7&oPlon'
+  description:
+  - Łagodna salsa pełna czystej pyszności.
+CLT_PIE_CRUST:
+  name: Spód do placka
+  type:
+  - '&7&oPlon'
+  description:
+  - Gdyby jedzenie tego samego było legalne,
+  - byłoby to moje główne źródło pożywienia.
+CLT_PINEAPPLE:
+  name: Ananas
+  type:
+  - '&7&oPlon'
+  description:
+  - To powinno być na każdej istniejącej pizzy.
+  - Chcesz się o to bić!?
+CLT_PINTO_BEANS:
+  name: Fasola pinto
+  type:
+  - '&7&oPlon'
+  description:
+  - Ka-ching! Czas na burrito.
+CLT_PIZZA_CHEESE:
+  name: Pizza serowa
+  type:
+  - '&7&oJedzenie'
+  description:
+  - Kto zamawia pizzę z samym serem? Nie mam pojęcia.
+  stats:
+  - '&8⇨ &7Leczenie: &b4 serca'
+  - '&8⇨ &bSpowolnienie I &7(10:00)'
+CLT_PIZZA_MUSHROOM:
+  name: Pizza z grzybami
+  type:
+  - '&7&oJedzenie'
+  description:
+  - Prosta wegetariańska pizza pełna białka.
+  stats:
+  - '&8⇨ &7Leczenie: &b6 serc'
+  - '&8⇨ &bSpowolnienie I &7(10:00)'
+  - '&8⇨ &bPośpiech II &7(10:00)'
+CLT_PIZZA_PEPPERONI:
+  name: Pizza pepperoni
+  type:
+  - '&7&oJedzenie'
+  description:
+  - Nowojorski klasyk pełen smaku.
+  stats:
+  - '&8⇨ &7Leczenie: &b6 serc'
+  - '&8⇨ &bSzybkość I &7(10:00)'
+  - '&8⇨ &bPośpiech I &7(10:00)'
+  - '&8⇨ &bZwiększony skok I &7(10:00)'
+CLT_PLANT_AIR:
+  name: Roślina pierwotnego powietrza
+  type:
+  - '&7&oRoślina'
+  description:
+  - Roślina, która cicho nuci
+  - melodię otaczającej ją przyrody.
+  - '&ePierwotne rośliny nie dają przedmiotów,'
+  - '&esłużą tylko do krzyżowania.'
+CLT_PLANT_AMETHYST:
+  name: Roślina ametystu
+  type:
+  - '&7&oRoślina'
+  description:
+  - Ta roślina uwielbia rozkwitać w głębokich, ciemnych
+  - miejscach.
+CLT_PLANT_ANALYSER:
+  name: Analizator roślin
+  type:
+  - '&7&oNarzędzie'
+  description:
+  - Bardzo proste narzędzie, które pozwala
+  - zobaczyć szczegóły rosnącej rośliny
+  usage:
+  - '&ePrawy przycisk&7: Pokazuje gatunek i szczegóły wzrostu rośliny.'
+  - '&eShift + prawy przycisk&7: Wyświetla nazwę rośliny lub krzaka.'
+CLT_PLANT_BASALT:
+  name: Roślina bazaltu
+  type:
+  - '&7&oRoślina'
+  description:
+  - Bardzo nudna i bezbarwna roślina.
+CLT_PLANT_BEE:
+  name: Roślina pszczoły
+  type:
+  - '&7&oRoślina'
+  description:
+  - Roślina z bardzo małymi, delikatnymi skrzydełkami.
+CLT_PLANT_BLACKSTONE:
+  name: Roślina czernitu
+  type:
+  - '&7&oRoślina'
+  description:
+  - Roślina znana z tego, że pochłania światło.
+CLT_PLANT_BLAZE:
+  name: Roślina płomyka
+  type:
+  - '&7&oRoślina'
+  description:
+  - Roślina przypalona na brzegach.
+CLT_PLANT_CHICKEN:
+  name: Roślina kurczaka
+  type:
+  - '&7&oRoślina'
+  description:
+  - Plotka głosi, że jeśli uniesiesz to
+  - nasiono nad głową i skoczysz z
+  - wysokiego miejsca, zaczniesz szybować
+  - zamiast spadać.
+CLT_PLANT_CLAY:
+  name: Roślina gliny
+  type:
+  - '&7&oRoślina'
+  description:
+  - Tę roślinę można dowolnie formować i przekształcać.
+  - Nie znaczy to jednak, że to dobry pomysł,
+  - o nie!
+CLT_PLANT_COAL:
+  name: Roślina węgla
+  type:
+  - '&7&oRoślina'
+  description:
+  - Roślina o tak wielkim potencjale.
+CLT_PLANT_COBBLESTONE:
+  name: Roślina bruku
+  type:
+  - '&7&oRoślina'
+  description:
+  - Ta roślina jest twarda jak skała.
+CLT_PLANT_CONCRETE:
+  name: Roślina betonu
+  type:
+  - '&7&oRoślina'
+  description:
+  - Ta roślina z trudem rośnie, bo
+  - tak szybko twardnieje.
+CLT_PLANT_COW:
+  name: Roślina krowy
+  type:
+  - '&7&oRoślina'
+  description:
+  - Jeśli przyłożysz to nasiono do ucha
+  - i będziesz bardzo uważnie słuchać, usłyszysz
+  - od czasu do czasu muczenie.
+CLT_PLANT_CREEPER:
+  name: Roślina creepera
+  type:
+  - '&7&oRoślina'
+  description:
+  - Tsssssssssttt...
+CLT_PLANT_DARKNESS:
+  name: Roślina pierwotnej ciemności
+  type:
+  - '&7&oRoślina'
+  description:
+  - Roślina, która kipi nieokiełznaną
+  - wściekłością.
+  - '&ePierwotne rośliny nie dają przedmiotów,'
+  - '&esłużą tylko do krzyżowania.'
+CLT_PLANT_DARK_FLORA:
+  name: Roślina mrocznej flory
+  type:
+  - '&7&oRoślina'
+  description:
+  - W tym prostym nasionie drzemie ciche zło.
+CLT_PLANT_DARK_GRASS:
+  name: Roślina ciemnej trawy
+  type:
+  - '&7&oRoślina'
+  description:
+  - Roślina, która naprawdę zatraciła swoją
+  - tożsamość.
+CLT_PLANT_DEEPSLATE:
+  name: Roślina łupka
+  type:
+  - '&7&oRoślina'
+  description:
+  - Głęboka, łupkowa, <tu wstaw opis>.
+CLT_PLANT_DIAMOND:
+  name: Roślina diamentu
+  type:
+  - '&7&oRoślina'
+  description:
+  - Roślina, która aż mówi o bogactwie.
+CLT_PLANT_DIM_LIT:
+  name: Roślina półmroku
+  type:
+  - '&7&oRoślina'
+  description:
+  - Z wnętrza tego nasiona bije bardzo przyćmione światło.
+CLT_PLANT_DIRT:
+  name: Roślina ziemi
+  type:
+  - '&7&oRoślina'
+  description:
+  - Brudna na powierzchni, lecz kryjąca
+  - budulec samego życia.
+CLT_PLANT_DROWNED:
+  name: Roślina utopca
+  type:
+  - '&7&oRoślina'
+  description:
+  - Roślina, z której cały czas
+  - kapie woda.
+CLT_PLANT_DUSTY:
+  name: Roślina kurzu
+  type:
+  - '&7&oRoślina'
+  description:
+  - Ta roślina wymaga szczególnej troski, nawet
+  - lekki, silniejszy powiew może sprawić, że się
+  - rozpadnie.
+CLT_PLANT_EARTH:
+  name: Roślina pierwotnej ziemi
+  type:
+  - '&7&oRoślina'
+  description:
+  - Roślina, która wzbogaca świat
+  - wokół siebie.
+  - '&ePierwotne rośliny nie dają przedmiotów,'
+  - '&esłużą tylko do krzyżowania.'
+CLT_PLANT_ECHO:
+  name: Roślina echa
+  type:
+  - '&7&oRoślina'
+  description:
+  - Ta roślina zawsze wie, jak znaleźć
+  - drogę do domu.
+CLT_PLANT_ELDER_GUARDIAN:
+  name: Roślina prastrażnika
+  type:
+  - '&7&oRoślina'
+  description:
+  - Przebywanie w pobliżu tej rośliny
+  - sprawia, że ludzie stają się ospali.
+CLT_PLANT_EMERALD:
+  name: Roślina szmaragdu
+  type:
+  - '&7&oRoślina'
+  description:
+  - Właściciele tej rośliny muszą stawać na głowie,
+  - żeby w ogóle było ich na nią stać.
+CLT_PLANT_ENDERMAN:
+  name: Roślina endermana
+  type:
+  - '&7&oRoślina'
+  description:
+  - Jeśli nie obchodzisz się z nią ostrożnie, ta roślina
+  - może losowo się teleportować!
+CLT_PLANT_ENDER_DRAGON:
+  name: Roślina smoka Endu
+  type:
+  - '&7&oRoślina'
+  description:
+  - Prawdziwy boss wśród roślin.
+CLT_PLANT_END_STONE:
+  name: Roślina kamienia Endu
+  type:
+  - '&7&oRoślina'
+  description:
+  - Roślina, która brzęczy pustką.
+CLT_PLANT_FIRE:
+  name: Roślina pierwotnego ognia
+  type:
+  - '&7&oRoślina'
+  description:
+  - Roślina, która daje zarówno
+  - źródła zniszczenia, jak i
+  - odrodzenia.
+  - '&ePierwotne rośliny nie dają przedmiotów,'
+  - '&esłużą tylko do krzyżowania.'
+CLT_PLANT_FISH:
+  name: Roślina ryby
+  type:
+  - '&7&oRoślina'
+  description:
+  - Z tego nasiona unosi się zapach dojrzałości.
+CLT_PLANT_FLOWER:
+  name: Roślina kwiecia
+  type:
+  - '&7&oRoślina'
+  description:
+  - Piękny róg obfitości, ładnie podany.
+CLT_PLANT_FROG:
+  name: Roślina żaby
+  type:
+  - '&7&oRoślina'
+  description:
+  - Kum kum!
+CLT_PLANT_GHAST:
+  name: Roślina ghasta
+  type:
+  - '&7&oRoślina'
+  description:
+  - Roślina znana z tego, że
+  - losowo strzela kulami ognia.
+CLT_PLANT_GLASS:
+  name: Roślina szkła
+  type:
+  - '&7&oRoślina'
+  description:
+  - Pod odpowiednim kątem można by
+  - przysiąc, że ta roślina jest przezroczysta.
+CLT_PLANT_GLAZED:
+  name: Roślina glazury
+  type:
+  - '&7&oRoślina'
+  description:
+  - Roślina, która rośnie według misternego wzoru.
+CLT_PLANT_GLOWING_VINE:
+  name: Roślina świecącego pnącza
+  type:
+  - '&7&oRoślina'
+  description:
+  - Z wnętrza tego nasiona bije słabe światło.
+CLT_PLANT_GLOW_SQUID:
+  name: Roślina świecącej kałamarnicy
+  type:
+  - '&7&oRoślina'
+  description:
+  - Lśniąca roślina o słabym blasku.
+CLT_PLANT_GOAT:
+  name: Roślina kozy
+  type:
+  - '&7&oRoślina'
+  description:
+  - Losowo agresywna roślina, która uwielbia
+  - skakać dookoła.
+CLT_PLANT_GRASS:
+  name: Roślina trawy
+  type:
+  - '&7&oRoślina'
+  description:
+  - Budzące się życie wyrywa się
+  - z ziemi.
+CLT_PLANT_GRAVEL:
+  name: Roślina żwiru
+  type:
+  - '&7&oRoślina'
+  description:
+  - Ta roślina naprawdę nie wie, jak
+  - się pozbierać.
+CLT_PLANT_GUARDIAN:
+  name: Roślina strażnika
+  type:
+  - '&7&oRoślina'
+  description:
+  - Dotknięta, ta roślina wypuszcza
+  - kolce.
+CLT_PLANT_IGNEOUS:
+  name: Roślina skały magmowej
+  type:
+  - '&7&oRoślina'
+  description:
+  - Ta roślina powstała pod wpływem ciepła i
+  - ciśnienia. Nie patrz tak na mnie! Wszystkie
+  - te opisy roślin mają totalny sens.
+CLT_PLANT_LAPIS:
+  name: Roślina lazurytu
+  type:
+  - '&7&oRoślina'
+  description:
+  - Roślina o słabej magicznej aurze.
+CLT_PLANT_LIGHT:
+  name: Roślina pierwotnego światła
+  type:
+  - '&7&oRoślina'
+  description:
+  - Roślina, która roztacza aurę
+  - czystej miłości.
+  - '&ePierwotne rośliny nie dają przedmiotów,'
+  - '&esłużą tylko do krzyżowania.'
+CLT_PLANT_MAGMA:
+  name: Roślina magmy
+  type:
+  - '&7&oRoślina'
+  description:
+  - Roślina tak gorąca, że pali
+  - wszystko wokół.
+CLT_PLANT_MAGMA_CUBE:
+  name: Roślina kostki magmy
+  type:
+  - '&7&oRoślina'
+  description:
+  - Gdy nikt nie patrzy, ta roślina
+  - lubi podskakiwać w górę i w dół.
+CLT_PLANT_MOSS:
+  name: Roślina mchu
+  type:
+  - '&7&oRoślina'
+  description:
+  - Ta roślina ma skłonność do niekontrolowanego rozrastania się.
+CLT_PLANT_MUD:
+  name: Roślina błota
+  type:
+  - '&7&oRoślina'
+  description:
+  - Roślina prawie tak brudna jak
+  - ziemia, z której wyrasta.
+CLT_PLANT_MUSHROOM:
+  name: Roślina grzyba
+  type:
+  - '&7&oRoślina'
+  description:
+  - Tak, roślina, która robi grzyby.
+  - Wszystko tu jest całkowicie normalne.
+CLT_PLANT_NETHERRACK:
+  name: Roślina netherracku
+  type:
+  - '&7&oRoślina'
+  description:
+  - Twarda, wytrzymała roślina, która przetrwa
+  - w większości miejsc.
+CLT_PLANT_NETHER_QUARTZ:
+  name: Roślina netherowego kwarcu
+  type:
+  - '&7&oRoślina'
+  description:
+  - Ta roślina ma tak ostre ciernie, że
+  - trudno się z nią pracuje.
+CLT_PLANT_PHANTOM:
+  name: Roślina fantoma
+  type:
+  - '&7&oRoślina'
+  description:
+  - Roślina o wyniosłych liściach.
+CLT_PLANT_PIG:
+  name: Roślina świni
+  type:
+  - '&7&oRoślina'
+  description:
+  - Roślina, która losowo chrząka.
+CLT_PLANT_POWER:
+  name: Roślina pierwotnej mocy
+  type:
+  - '&7&oRoślina'
+  description:
+  - Roślina, która wprost emanuje mocą.
+  - '&ePierwotne rośliny nie dają przedmiotów,'
+  - '&esłużą tylko do krzyżowania.'
+CLT_PLANT_PURPUR:
+  name: Roślina purpuru
+  type:
+  - '&7&oRoślina'
+  description:
+  - Dziwna roślina, wydaje się dużo lżejsza
+  - od większości.
+CLT_PLANT_RABBIT:
+  name: Roślina królika
+  type:
+  - '&7&oRoślina'
+  description:
+  - Owady byłyby dumne.
+CLT_PLANT_RAINBOW:
+  name: Roślina tęczy
+  type:
+  - '&7&oRoślina'
+  description:
+  - Może, a może nie, na końcu tej rośliny
+  - czeka garnek złota.
+CLT_PLANT_RAW_COPPER:
+  name: Roślina rudy miedzi
+  type:
+  - '&7&oRoślina'
+  description:
+  - Pozostawiona sama sobie, ta roślina czasem
+  - przyciąga pioruny.
+CLT_PLANT_RAW_GOLD:
+  name: Roślina surowego złota
+  type:
+  - '&7&oRoślina'
+  description:
+  - Tę roślinę często kradną piglini,
+  - jeśli są w pobliżu.
+CLT_PLANT_RAW_IRON:
+  name: Roślina rudy żelaza
+  type:
+  - '&7&oRoślina'
+  description:
+  - Wytrzymała roślina, która zniesie większość
+  - środowisk.
+CLT_PLANT_REDSTONE:
+  name: Roślina redstone
+  type:
+  - '&7&oRoślina'
+  description:
+  - Roślina przepełniona mocą na wskroś.
+CLT_PLANT_RED_SAND:
+  name: Roślina czerwonego piasku
+  type:
+  - '&7&oRoślina'
+  description:
+  - Ta roślina potrafi czasem rozsypać się
+  - od jednego dotyku, ale... bardziej czerwono.
+CLT_PLANT_REINFORCED:
+  name: Wzmocniona roślina
+  type:
+  - '&7&oRoślina'
+  description:
+  - Roślina, która potrafi utrzymać się w pionie
+  - mimo wszystko.
+CLT_PLANT_SAND:
+  name: Roślina piasku
+  type:
+  - '&7&oRoślina'
+  description:
+  - Ta roślina potrafi czasem rozsypać się
+  - od jednego dotyku.
+CLT_PLANT_SAPLING:
+  name: Roślina sadzonki
+  type:
+  - '&7&oRoślina'
+  description:
+  - Ta roślina nie ma nawet sensu...
+CLT_PLANT_SCRAPPY:
+  name: Roślina złomu
+  type:
+  - '&7&oRoślina'
+  description:
+  - Ta roślina to prawdziwy szczyt
+  - ogrodnictwa.
+CLT_PLANT_SHEEP:
+  name: Roślina owcy
+  type:
+  - '&7&oRoślina'
+  description:
+  - Roślina o szorstkiej, wełnistej fakturze.
+CLT_PLANT_SHULKER:
+  name: Roślina shulkera
+  type:
+  - '&7&oRoślina'
+  description:
+  - Roślina, która często lewituje
+  - nad ziemią.
+CLT_PLANT_SKELETON:
+  name: Roślina szkieletu
+  type:
+  - '&7&oRoślina'
+  description:
+  - Roślina, która grzechocze, gdy się kołysze.
+CLT_PLANT_SLIME:
+  name: Roślina szlamu
+  type:
+  - '&7&oRoślina'
+  description:
+  - Czemu to jest takie lepkie?
+CLT_PLANT_SOUL:
+  name: Roślina duszy
+  type:
+  - '&7&oRoślina'
+  description:
+  - Roślina, którą słychać, jak krzyczy,
+  - gdy jest cicho.
+CLT_PLANT_SPECTRUM:
+  name: Roślina pierwotnego spektrum
+  type:
+  - '&7&oRoślina'
+  description:
+  - Roślina, która lekko zmienia kolor.
+  - '&ePierwotne rośliny nie dają przedmiotów,'
+  - '&esłużą tylko do krzyżowania.'
+CLT_PLANT_SPIDER:
+  name: Roślina pająka
+  type:
+  - '&7&oRoślina'
+  description:
+  - Zabij to, zabij to NATYCHMIAST!
+CLT_PLANT_SQUID:
+  name: Roślina kałamarnicy
+  type:
+  - '&7&oRoślina'
+  description:
+  - Uważaj, samo dotknięcie tej rośliny
+  - może sprawić, że wszędzie
+  - wybuchnie atrament.
+CLT_PLANT_STAINED:
+  name: Roślina barwnika
+  type:
+  - '&7&oRoślina'
+  description:
+  - Ta roślina rozszczepia światło w prawdziwe
+  - spektrum na pobliskie obiekty.
+CLT_PLANT_TERRA:
+  name: Roślina terry
+  type:
+  - '&7&oRoślina'
+  description:
+  - Twarda, ziemista roślina, która pęka pod presją.
+CLT_PLANT_TURTLE:
+  name: Roślina żółwia
+  type:
+  - '&7&oRoślina'
+  description:
+  - Nasiono otoczone twardą jak skała skorupą.
+CLT_PLANT_VILLAGER:
+  name: Roślina osadnika
+  type:
+  - '&7&oRoślina'
+  description:
+  - Tak, skondensowaliśmy esencję osadnika
+  - w roślinie. Podobno bardzo bolało.
+CLT_PLANT_VINE:
+  name: Roślina pnącza
+  type:
+  - '&7&oRoślina'
+  description:
+  - Roślina, która natychmiast sama się
+  - zaplątuje.
+CLT_PLANT_WATER:
+  name: Roślina pierwotnej wody
+  type:
+  - '&7&oRoślina'
+  description:
+  - Roślina, która pielęgnuje i daje
+  - życie całej okolicy.
+  - '&ePierwotne rośliny nie dają przedmiotów,'
+  - '&esłużą tylko do krzyżowania.'
+CLT_PLANT_WAXY:
+  name: Roślina wosku
+  type:
+  - '&7&oRoślina'
+  description:
+  - Sok tej rośliny zastyga w wosk
+  - w idealnym kształcie świecy.
+CLT_PLANT_WEALTH:
+  name: Roślina pierwotnego bogactwa
+  type:
+  - '&7&oRoślina'
+  description:
+  - Roślina, która aż krzyczy wylewnym bogactwem.
+  - '&ePierwotne rośliny nie dają przedmiotów,'
+  - '&esłużą tylko do krzyżowania.'
+CLT_PLANT_WITCH:
+  name: Roślina wiedźmy
+  type:
+  - '&7&oRoślina'
+  description:
+  - Roślina, która brzmi, jakby cicho
+  - mamrotała zaklęcia.
+CLT_PLANT_WITHER:
+  name: Roślina withera
+  type:
+  - '&7&oRoślina'
+  description:
+  - Śmiertelna roślina, z którą trzeba się obchodzić
+  - ostrożnie.
+CLT_PLANT_WITHER_ROSE:
+  name: Roślina witherowej róży
+  type:
+  - '&7&oRoślina'
+  description:
+  - Ta roślina w jakiś sposób pulsuje szkodliwą
+  - aurą wokół siebie.
+CLT_PLANT_WITHER_SKELETON:
+  name: Roślina witherowego szkieletu
+  type:
+  - '&7&oRoślina'
+  description:
+  - Roślina znana z tego, że jest nieuchwytna i wytrzymała.
+CLT_PLANT_WOOLLY:
+  name: Roślina wełny
+  type:
+  - '&7&oRoślina'
+  description:
+  - Wełnista roślina, od korzeni po płatki!
+CLT_PLANT_ZOMBIE:
+  name: Roślina zombie
+  type:
+  - '&7&oRoślina'
+  description:
+  - Z tej rośliny kapie... coś...
+CLT_RADDISH:
+  name: Rzodkiewka
+  type:
+  - '&7&oPlon'
+  description:
+  - Małe kieszonki świeżego, chrupiącego słońca.
+CLT_RADICCHIO:
+  name: Radicchio
+  type:
+  - '&7&oPlon'
+  description:
+  - Pisanie tych opisów trwa tak długo.
+  - To aż radicchiulne.
+CLT_RAMEN_BEEF:
+  name: Ramen z wołowiną
+  type:
+  - '&7&oJedzenie'
+  description:
+  - Niezbyt zdrowy wybór.
+  stats: &id004
+  - '&8⇨ &bZwiększenie zdrowia I &7(10:00)'
+CLT_RAMEN_BEEF_HEARTY:
+  name: Sycący ramen z wołowiną
+  type:
+  - '&7&oJedzenie'
+  description:
+  - Zdrowy wybór.
+  stats: &id005
+  - '&8⇨ &7Leczenie: &bPełne'
+  - '&8⇨ &bZwiększenie zdrowia II &7(10:00)'
+  - '&8⇨ &bSzybkość I &7(10:00)'
+CLT_RAMEN_CHICKEN:
+  name: Ramen z kurczakiem
+  type:
+  - '&7&oJedzenie'
+  description:
+  - Niezbyt sycący wybór.
+  stats: *id004
+CLT_RAMEN_CHICKEN_HEARTY:
+  name: Sycący ramen z kurczakiem
+  type:
+  - '&7&oJedzenie'
+  description:
+  - Sycący wybór.
+  stats: *id005
+CLT_RAMEN_SEAFOOD:
+  name: Ramen z owocami morza
+  type:
+  - '&7&oJedzenie'
+  description:
+  - Niezbyt satysfakcjonujący wybór.
+  stats: *id004
+CLT_RAMEN_SEAFOOD_HEARTY:
+  name: Sycący ramen z owocami morza
+  type:
+  - '&7&oJedzenie'
+  description:
+  - Satysfakcjonujący wybór.
+  stats: *id005
+CLT_RAPESEED:
+  name: Rzepak
+  type:
+  - '&7&oPlon'
+  description:
+  - Często używany do produkcji olejów.
+CLT_RECIPE_UNLOCK:
+  name: Zwój wiedzy Cultivation
+  type:
+  - '&7&oNarzędzie'
+  description:
+  - Kliknij prawym przyciskiem, aby poznać przepis
+  - krzyżowania Cultivation.
+CLT_RHUBARB:
+  name: Rabarbar
+  type:
+  - '&7&oPlon'
+  description:
+  - Tylko pamiętaj, żeby usunąć liście!
+CLT_RICE:
+  name: Ryż
+  type:
+  - '&7&oPlon'
+  description:
+  - Pamiętaj, żyje się tylko ryż!
+CLT_ROSEMARY:
+  name: Rozmaryn
+  type:
+  - '&7&oPlon'
+  description:
+  - Wiecznie nie ma tymczasu.
+CLT_RUNNER_BEANS:
+  name: Fasola wielokwiatowa
+  type:
+  - '&7&oPlon'
+  description:
+  - Zawsze próbuje uciec.
+CLT_RUTABAGA:
+  name: Brukiew
+  type:
+  - '&7&oPlon'
+  description:
+  - Aż boli, że nie mogę nazwać tego szwedką.
+CLT_SALMON_NIGIRI:
+  name: Nigiri z łososiem
+  type:
+  - '&7&oJedzenie'
+  description:
+  - Rozkoszny, a zarazem subtelny smak.
+  stats:
+  - '&8⇨ &7Leczenie: &b2 serca'
+  - '&8⇨ &bRegeneracja I &7(10:00)'
+CLT_SASSAFRAS:
+  name: Sasafras
+  type:
+  - '&7&oPlon'
+  description:
+  - Jadalne piwo korzenne, serio, wygoogluj
+  - to, teraz kupuję je ciągle.
+CLT_SAUSAGE:
+  name: Kiełbasa
+  type:
+  - '&7&oJedzenie'
+  description:
+  - Brat bekonu.
+  stats: &id007
+  - '&8⇨ &7Leczenie: &b1 serce'
+CLT_SEED_PACK:
+  name: Paczka nasion
+  type:
+  - '&7&oNarzędzie'
+  description:
+  - Kliknij prawym przyciskiem, aby otworzyć tę paczkę.
+  stats:
+  - '&8⇨ &7Ustawione: &bNic'
+CLT_SHAKSHUKA:
+  name: Szakszuka
+  type:
+  - '&7&oJedzenie'
+  description:
+  - Rozgrzewające serce danie z jajkami bez końca.
+  stats:
+  - '&8⇨ &7Leczenie: &b4 serca'
+  - '&8⇨ &bBohater wioski I &7(10:00)'
+  - '&8⇨ &bSzczęście I &7(10:00)'
+CLT_SHALLOT:
+  name: Szalotka
+  type:
+  - '&7&oPlon'
+  description:
+  - Szalotka? Szaleję za nią.
+CLT_SHEPHERDS_PIE:
+  name: Pasterski placek
+  type:
+  - '&7&oJedzenie'
+  description:
+  - Ciepłe, sycące i po prostu cudowne.
+  stats: *id006
+CLT_SHISO:
+  name: Shiso
+  type:
+  - '&7&oPlon'
+  description:
+  - Mięta z dodatkiem miłości.
+CLT_SLICED_APPLE:
+  name: Jabłko w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_APRICOT:
+  name: Morela w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_ARTICHOKE:
+  name: Karczoch w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_ASPARAGUS:
+  name: Szparagi w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_AUBERGINE:
+  name: Bakłażan w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_AVOCADO:
+  name: Awokado w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_BANANA:
+  name: Banan w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_BASIL:
+  name: Bazylia w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_BAY_LEAF:
+  name: Liść laurowy w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_BEEF:
+  name: Wołowina w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_BEETROOT:
+  name: Burak w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_BELL_PEPPER:
+  name: Papryka w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_BLACK_BEANS:
+  name: Czarna fasola w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_BREAD:
+  name: Chleb w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_BROCCOLI:
+  name: Brokuł w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_BROWN_MUSHROOM:
+  name: Borowik w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_BRUSSELS_SPROUTS:
+  name: Brukselka w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_CABBAGE:
+  name: Kapusta w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_CARROT:
+  name: Marchewka w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_CAULIFLOWER:
+  name: Kalafior w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_CAYENNE_PEPPER:
+  name: Pieprz cayenne w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_CELERIAC:
+  name: Seler korzeniowy w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_CELERY:
+  name: Seler naciowy w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_CHERRY:
+  name: Wiśnia w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_CHESTNUT:
+  name: Kasztan w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_CHICKEN:
+  name: Kurczak w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_CHICKPEAS:
+  name: Ciecierzyca w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_CHICORY:
+  name: Cykoria w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_CHILLY_PEPPER:
+  name: Papryczka chili w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_CHIVES:
+  name: Szczypiorek w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_CHORUS_FRUIT:
+  name: Owoc refrenusu w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_CILANTRO:
+  name: Kolendra w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_CINNAMON:
+  name: Cynamon w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_CLOVE:
+  name: Goździk w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_COCOA_BEANS:
+  name: Ziarna kakaowe w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_COD:
+  name: Dorsz w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_COURGETTE:
+  name: Cukinia w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_CUCUMBER:
+  name: Ogórek w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_CUMIN:
+  name: Kmin rzymski w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_CURRY_LEAF:
+  name: Liść curry w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_DILL:
+  name: Koperek w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_EGG:
+  name: Jajko w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_ENCHANTED_GOLDEN_APPLE:
+  name: Zaklęte złote jabłko w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_FENNEL:
+  name: Koper włoski w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_GARLIC:
+  name: Czosnek w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_GINGER:
+  name: Imbir w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_GLOW_BERRIES:
+  name: Świecące jagody w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_GOLDEN_APPLE:
+  name: Złote jabłko w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_GOLDEN_CARROT:
+  name: Złota marchewka w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_GRAPE:
+  name: Winogrono w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_GREEN_APPLE:
+  name: Zielone jabłko w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_GREEN_BEANS:
+  name: Fasolka szparagowa w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_GREEN_ONION:
+  name: Zielona cebulka w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_HAZELNUT:
+  name: Orzech laskowy w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_HORSERADISH:
+  name: Chrzan w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_JALAPENO:
+  name: Papryczka jalapeño w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_JASMINE:
+  name: Jaśmin w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_JUNIPER_BERRY:
+  name: Jagody jałowca w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_KAFFIR_LIME:
+  name: Liść limonki kaffir w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_KALE:
+  name: Jarmuż w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_KELP:
+  name: Wodorost w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_KIWI:
+  name: Kiwi w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_LAVENDER:
+  name: Lawenda w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_LEEK:
+  name: Por w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_LEMON:
+  name: Cytryna w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_LETTUCE:
+  name: Sałata w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_LICORICE:
+  name: Lukrecja w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_LIME:
+  name: Limonka w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_MACE:
+  name: Kwiat muszkatołowca w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_MANGO:
+  name: Mango w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_MARJORAM:
+  name: Majeranek w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_MARROW:
+  name: Kabaczek w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_MELON:
+  name: Arbuz w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_MINT:
+  name: Mięta w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_MUSTARD_SEEDS:
+  name: Ziarna gorczycy w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_MUTTON:
+  name: Baranina w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_NETTLES:
+  name: Pokrzywa w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_OKRA:
+  name: Okra w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_ONION:
+  name: Cebula w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_ORANGE:
+  name: Pomarańcza w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_OREGANO:
+  name: Oregano w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_PARSLEY:
+  name: Pietruszka w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_PARSNIP:
+  name: Pasternak w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_PEA:
+  name: Groszek w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_PEACH:
+  name: Brzoskwinia w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_PEANUT:
+  name: Orzeszek ziemny w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_PEAR:
+  name: Gruszka w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_PECAN:
+  name: Orzech pekan w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_PEPPER:
+  name: Czarny pieprz w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_PEPPERONI:
+  name: Pepperoni w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_PINEAPPLE:
+  name: Ananas w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_PINTO_BEANS:
+  name: Fasola pinto w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_PORKCHOP:
+  name: Wieprzowina w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_POTATO:
+  name: Ziemniak w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_PUFFERFISH:
+  name: Rozdymka w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_PUMPKIN:
+  name: Dynia w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_RABBIT:
+  name: Królik w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_RADDISH:
+  name: Rzodkiewka w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_RADICCHIO:
+  name: Radicchio w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_RAPESEED:
+  name: Rzepak w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_RED_MUSHROOM:
+  name: Muchomor w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_RHUBARB:
+  name: Rabarbar w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_RICE:
+  name: Ryż w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_ROSEMARY:
+  name: Rozmaryn w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_ROTTEN_FLESH:
+  name: Zgniłe mięso w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_RUNNER_BEANS:
+  name: Fasola wielokwiatowa w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_RUTABAGA:
+  name: Brukiew w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_SALMON:
+  name: Łosoś w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_SASSAFRAS:
+  name: Sasafras w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_SHALLOT:
+  name: Szalotka w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_SHISO:
+  name: Shiso w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_SOY_BEANS:
+  name: Soja w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_SPINACH:
+  name: Szpinak w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_STAR_ANISE:
+  name: Anyż gwiazdkowaty w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_STRAWBERRY:
+  name: Truskawka w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_SUGAR:
+  name: Cukier w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_SWEETCORN:
+  name: Kukurydza w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_SWEET_BERRIES:
+  name: Słodkie jagody w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_SWEET_POTATO:
+  name: Batat w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_TARRAGON:
+  name: Estragon w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_THYME:
+  name: Tymianek w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_TOMATO:
+  name: Pomidor w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_TURMERIC:
+  name: Kurkuma w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_TURNIP:
+  name: Rzepa w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_VANILLA:
+  name: Wanilia w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_WASABI:
+  name: Wasabi w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SLICED_WHEAT:
+  name: Pszenica w plastrach
+  type:
+  - '&7&oProdukt uboczny'
+CLT_SOFT_BOILED_EGG:
+  name: Jajko na miękko
+  type:
+  - '&7&oJedzenie'
+  description:
+  - Po prostu gotowane jajko, co tu więcej mówić.
+  stats:
+  - '&8⇨ &7Leczenie: &b1 serce'
+  - '&8⇨ &7Czasem może wezwać kurę na pomoc.'
+CLT_SOYLENT:
+  name: Soylent
+  type:
+  - '&7&oJedzenie'
+  description:
+  - Wszystko, czego potrzebuje ciało!
+  stats:
+  - '&8⇨ &bZły omen I &7(10:00)'
+  - '&8⇨ &bSłabość IV &7(10:00)'
+CLT_SOY_BEANS:
+  name: Soja
+  type:
+  - '&7&oPlon'
+  description:
+  - Nadchodzi mleko sojowe.
+CLT_SPAGHETTI:
+  name: Spaghetti
+  type:
+  - '&7&oJedzenie'
+  description:
+  - Po prostu siorb dalej.
+  stats: *id007
+CLT_SPAGHETTI_AND_MEATBALLS:
+  name: Spaghetti z klopsikami
+  type:
+  - '&7&oJedzenie'
+  description:
+  - Proste, klasyczne i sycące.
+  stats:
+  - '&8⇨ &7Leczenie: &b1 serce'
+  - '&8⇨ &bZły omen I &7(10:00)'
+CLT_SPINACH:
+  name: Szpinak
+  type:
+  - '&7&oPlon'
+  description:
+  - Zwiędły z miłością.
+CLT_STAR_ANISE:
+  name: Anyż gwiazdkowaty
+  type:
+  - '&7&oPlon'
+  description:
+  - Jeden z najlepszych i najbardziej wyjątkowych smaków.
+CLT_STRAWBERRY:
+  name: Truskawka
+  type:
+  - '&7&oPlon'
+  description:
+  - Wystarczy dodać śmietanę!
+CLT_STRAWBERRY_JELLY:
+  name: Galaretka truskawkowa
+  type:
+  - '&7&oPlon'
+  description: *id008
+CLT_SUGARED_SKULL:
+  name: Cukrowa czaszka
+  type:
+  - '&7&oJedzenie'
+  description:
+  - Czy to w ogóle jest jedzenie...?
+  stats:
+  - '&8⇨ &bMrok III &7(10:00)'
+CLT_SWEETCORN:
+  name: Kukurydza
+  type:
+  - '&7&oPlon'
+  description:
+  - Być może najlepsze warzywo w okolicy.
+CLT_SWEET_BEEHIVE:
+  name: Słodki ul
+  type:
+  - '&7&oJedzenie'
+  description:
+  - Nie wiem, co cię podkusiło, żeby to ugotować!
+  stats:
+  - '&8⇨ &7Przywołuje pszczoły!'
+CLT_SWEET_POTATO:
+  name: Batat
+  type:
+  - '&7&oPlon'
+  description:
+  - Mniam mniam mniam.
+CLT_TAQUITO:
+  name: Taquito
+  type:
+  - '&7&oJedzenie'
+  description:
+  - Zim byłby dumny!
+  stats:
+  - '&8⇨ &7Leczenie: &b4 serca'
+  - '&8⇨ &7Przywołuje Gira do pomocy (to żelazny golem, spokojnie).'
+CLT_TARRAGON:
+  name: Estragon
+  type:
+  - '&7&oPlon'
+  description:
+  - Dosłownie dodaję to do wszystkiego.
+  - 'Spoiler: nie jestem dobrym kucharzem.'
+CLT_TATER_TOTS:
+  name: Krokieciki ziemniaczane
+  type:
+  - '&7&oJedzenie'
+  description:
+  - Małe ziemniaczane kąski.
+  stats:
+  - '&8⇨ &7Leczenie: &b0.5 serca'
+  - '&8⇨ &bSzybkość II &7(10:00)'
+CLT_THYME:
+  name: Tymianek
+  type:
+  - '&7&oPlon'
+  description:
+  - Często tęskni za rozmarynem.
+CLT_TOMATO:
+  name: Pomidor
+  type:
+  - '&7&oPlon'
+  description:
+  - Prosto z winorośli.... yyy... krzaka?
+CLT_TORTILLAS:
+  name: Tortille
+  type:
+  - '&7&oPlon'
+  description:
+  - Kukurydziane rozkosze
+CLT_TREE_APRICOT:
+  name: Drzewo moreli
+  type:
+  - '&7&oSadzonka'
+  description:
+  - W środku kryje się jedna pestka rozpaczy.
+  stats: &id009
+  - '&8⇨ &7Projekt: &bBWhite'
+CLT_TREE_BANANA:
+  name: Drzewo bananowca
+  type:
+  - '&7&oSadzonka'
+  description:
+  - Drzewo, na którym rosną palce, makabra!
+  stats:
+  - '&8⇨ &7Projekt: &bSefiraat'
+CLT_TREE_CHERRY:
+  name: Drzewo wiśni
+  type:
+  - '&7&oSadzonka'
+  description:
+  - Zawiąż węzełek!
+  stats:
+  - '&8⇨ &7Projekt: &bReasonFoundDecoy'
+CLT_TREE_CHESTNUT:
+  name: Drzewo kasztana
+  type:
+  - '&7&oSadzonka'
+  description:
+  - Drzewo wyraźnie stworzone do wspinaczki.
+  stats: &id010
+  - '&8⇨ &7Projekt: &bABitOddish'
+CLT_TREE_GREEN_APPLE:
+  name: Drzewo zielonych jabłek
+  type:
+  - '&7&oSadzonka'
+  description:
+  - Rodzi duże, chrupiące zielone jabłka.
+  stats: *id009
+CLT_TREE_HAZELNUT:
+  name: Drzewo leszczyny
+  type:
+  - '&7&oSadzonka'
+  description:
+  - Potrząsanie tym drzewem to zabawa z dzieciństwa.
+  stats: *id010
+CLT_TREE_KIWI:
+  name: Drzewo kiwi
+  type:
+  - '&7&oSadzonka'
+  description:
+  - Drzewo z Nowej Zelandii? Dobrze mówię?
+  stats: *id010
+CLT_TREE_LEMON:
+  name: Drzewo cytryny
+  type:
+  - '&7&oSadzonka'
+  description:
+  - Już samo patrzenie na to drzewo jest kwaśne.
+  stats: &id011
+  - '&8⇨ &7Projekt: &bJeff'
+CLT_TREE_LIME:
+  name: Drzewo limonki
+  type:
+  - '&7&oSadzonka'
+  description:
+  - Czy wiesz, że limonki to po prostu cytryny, które wstrzymują oddech?
+  stats: *id010
+CLT_TREE_MANGO:
+  name: Drzewo mango
+  type:
+  - '&7&oSadzonka'
+  description:
+  - Najlepsze, gdy jest najbardziej dojrzałe.
+  stats: *id009
+CLT_TREE_ORANGE:
+  name: Drzewo pomarańczy
+  type:
+  - '&7&oSadzonka'
+  description:
+  - Małe kule słońca.
+  stats: *id011
+CLT_TREE_PEACH:
+  name: Drzewo brzoskwini
+  type:
+  - '&7&oSadzonka'
+  description:
+  - Chyba James tego szukał?
+  stats: *id010
+CLT_TREE_PEAR:
+  name: Drzewo gruszy
+  type:
+  - '&7&oSadzonka'
+  description:
+  - Para gruszek z pary grusz do pary parowała.
+  stats: *id009
+CLT_TREE_PECAN:
+  name: Drzewo pekan
+  type:
+  - '&7&oSadzonka'
+  description:
+  - Czy wyhodujemy to drzewo? Pe-kanie, że tak!
+  stats: *id009
+CLT_TREE_PINEAPPLE:
+  name: Drzewo ananasa
+  type:
+  - '&7&oSadzonka'
+  description:
+  - GDZIE MOJA PIZZA?
+  stats: *id010
+CLT_TURMERIC:
+  name: Kurkuma
+  type:
+  - '&7&oPlon'
+  description:
+  - Silna, piżmowa nuta, która dopełni wiele potraw.
+CLT_TURNIP:
+  name: Rzepa
+  type:
+  - '&7&oPlon'
+  description:
+  - Rozwiąże wszystkie życiowe problemy.
+CLT_VANILLA:
+  name: Wanilia
+  type:
+  - '&7&oPlon'
+  description:
+  - 'Instrukcja: zanurzyć bezpośrednio w latte'
+CLT_WASABI:
+  name: Wasabi
+  type:
+  - '&7&oPlon'
+  description:
+  - Ratunku... wasabiii...
+CLT_WITHER_ROSE_SALAD:
+  name: Sałatka z witherowej róży
+  type:
+  - '&7&oJedzenie'
+  description:
+  - Pełen mocy, ale z ostrym skutkiem ubocznym.
+  stats:
+  - '&8⇨ &7Leczenie: &bPełne'
+  - '&8⇨ &bObumieranie II &7(10:00)'
+  - '&8⇨ &bZwiększenie zdrowia XX &7(10:00)'

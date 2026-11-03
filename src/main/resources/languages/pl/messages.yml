@@ -1,0 +1,65 @@
+lore:
+  seed-pack-set-to: Ustawione
+  knowledge-script-unlocks: Odblokowuje
+  drop-level: Poziom plonu
+  growth-speed: Szybkość wzrostu
+  breed-strength: Siła krzyżowania
+command:
+  no-permission: Nie masz uprawnień, aby to zrobić.
+  invalid-subcommand: Podaj prawidłową podkomendę.
+  players-only: Tę komendę może wykonać tylko gracz.
+  hold-seed-pack: Musisz trzymać paczkę nasion.
+  pack-empty: Ta paczka jest pusta!
+  pack-contents: Zawartość
+  pack-entry: Poziom %level%, szybkość %speed%, siła %strength%
+kitchen:
+  recipe-disabled: Ten przepis jest wyłączony.
+  no-recipe: Brak pasującego przepisu.
+  not-enough-power: Za mało energii.
+  input-empty: Włóż przedmiot do slotu wejściowego.
+  cooked: Pyszne!
+food:
+  eaten: Cudownie! Jesteś już najedzony.
+  not-hungry: Nie jesteś jeszcze głodny! Możesz jeść tylko raz na pół dnia (10 minut).
+  palate-cleansed: Czujesz, jak twoje podniebienie się oczyszcza.
+  ouch: Auć!
+knowledge-script:
+  learned: 'Nauczyłeś się krzyżować: %plant%.'
+seed-pack:
+  title: Paczka nasion
+  unstack-first: Najpierw rozdziel stos paczek nasion.
+  not-a-seed: Przedmiot musi być nasionem rośliny Cultivation.
+  empty-before-change: Opróżnij paczkę, zanim zmienisz jej roślinę.
+  no-plant-set: Nie ustawiono jeszcze rośliny.
+  none-stored: Nie masz tego nasiona na tych poziomach.
+  set-here: Ustaw nasiono tutaj
+  retrieve-here: Odbierz tutaj
+  no-seed-set: Brak nasiona
+  no-seed-set-lore:
+  - Kliknij ikonę po lewej,
+  - trzymając nasiono, by ustawić paczkę.
+  empty-set: Pusty zestaw
+  empty-set-lore:
+  - Nie masz nasion pasujących
+  - do tych poziomów.
+  stored-seed: Przechowywane nasiono
+  take-seed: Wyjmij nasiono z paczki
+  level: Poziom
+  speed: Szybkość
+  strength: Siła
+  left-click: Lewy przycisk
+  right-click: Prawy przycisk
+  increase: 'Zwiększ: %stat%'
+  decrease: 'Zmniejsz: %stat%'
+  current: Obecnie
+codex:
+  title: Kodeks roślin
+  child: Roślina potomna
+  mother: Roślina mateczna
+  father: Roślina ojcowska
+  growth-rate: Tempo wzrostu
+  not-discovered: Nieodkryte
+  not-discovered-lore:
+  - Nie odkryłeś jeszcze, jak
+  - skrzyżować tę roślinę!
+  discovery: Odkrycie

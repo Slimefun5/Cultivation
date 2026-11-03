@@ -1,0 +1,65 @@
+lore:
+  seed-pack-set-to: 設定為
+  knowledge-script-unlocks: 解鎖
+  drop-level: 掉落等級
+  growth-speed: 生長速度
+  breed-strength: 配種強度
+command:
+  no-permission: 你沒有權限執行此操作。
+  invalid-subcommand: 請提供有效的子指令。
+  players-only: 此指令只能由玩家執行。
+  hold-seed-pack: 你必須手持種子包才能這麼做。
+  pack-empty: 這個包是空的！
+  pack-contents: 內容物
+  pack-entry: 等級 %level%，速度 %speed%，強度 %strength%
+kitchen:
+  recipe-disabled: 此配方已停用。
+  no-recipe: 沒有符合的配方。
+  not-enough-power: 電力不足。
+  input-empty: 請將物品放入輸入欄位。
+  cooked: 好吃！
+food:
+  eaten: 太棒了！你已經吃飽了。
+  not-hungry: 你還不餓！每半天（10 分鐘）只能吃一次。
+  palate-cleansed: 你感覺味蕾被淨化了。
+  ouch: 好痛！
+knowledge-script:
+  learned: 你已學會如何配種 %plant%。
+seed-pack:
+  title: 種子包
+  unstack-first: 你必須先把種子包分開，不能堆疊。
+  not-a-seed: 物品必須是卡爾提維遜的植物種子。
+  empty-before-change: 更換植物前必須先清空種子包。
+  no-plant-set: 你還沒有設定植物。
+  none-stored: 你沒有這些等級的這種種子。
+  set-here: 在此設定種子
+  retrieve-here: 在此取出
+  no-seed-set: 未設定種子
+  no-seed-set-lore:
+  - 手持種子並點擊左側圖示
+  - 來設定這個種子包。
+  empty-set: 空的組合
+  empty-set-lore:
+  - 你沒有符合
+  - 這些等級的種子。
+  stored-seed: 已儲存的種子類型
+  take-seed: 從種子包取出一顆種子
+  level: 等級
+  speed: 速度
+  strength: 強度
+  left-click: 左鍵
+  right-click: 右鍵
+  increase: 提高%stat%
+  decrease: 降低%stat%
+  current: 目前
+codex:
+  title: 植物圖鑑
+  child: 子代植物
+  mother: 母本植物
+  father: 父本植物
+  growth-rate: 生長速率
+  not-discovered: 尚未發現
+  not-discovered-lore:
+  - 你還沒發現如何
+  - 配種這株植物！
+  discovery: 發現

@@ -1,0 +1,65 @@
+lore:
+  seed-pack-set-to: Nastaveno na
+  knowledge-script-unlocks: Odemyká
+  drop-level: Úroveň výnosu
+  growth-speed: Rychlost růstu
+  breed-strength: Síla šlechtění
+command:
+  no-permission: K tomuto nemáš oprávnění.
+  invalid-subcommand: Zadej platný podpříkaz.
+  players-only: Tento příkaz může použít pouze hráč.
+  hold-seed-pack: K tomu musíš držet balíček semínek.
+  pack-empty: Tento balíček je prázdný!
+  pack-contents: Obsah
+  pack-entry: Úroveň %level%, rychlost %speed%, síla %strength%
+kitchen:
+  recipe-disabled: Tento recept je vypnutý.
+  no-recipe: Žádný odpovídající recept.
+  not-enough-power: Nedostatek energie.
+  input-empty: Vlož předmět do vstupního slotu.
+  cooked: Mňam!
+food:
+  eaten: Paráda! Jsi úplně najedený.
+  not-hungry: Ještě nemáš hlad! Jíst můžeš jen jednou za půl dne (10 minut).
+  palate-cleansed: Cítíš, jak se ti pročišťují chuťové buňky.
+  ouch: Au!
+knowledge-script:
+  learned: Naučil ses šlechtit %plant%.
+seed-pack:
+  title: Balíček semínek
+  unstack-first: Nejdřív musíš balíčky semínek rozdělit ze stohu.
+  not-a-seed: Předmět musí být semínko rostliny Cultivation.
+  empty-before-change: Než změníš rostlinu balíčku, musíš ho vyprázdnit.
+  no-plant-set: Zatím jsi nenastavil žádnou rostlinu.
+  none-stored: Žádné semínko tohoto druhu na těchto úrovních nemáš.
+  set-here: Sem vlož semínko
+  retrieve-here: Zde vyzvedni
+  no-seed-set: Semínko nenastaveno
+  no-seed-set-lore:
+  - Klikni na ikonu vlevo se semínkem
+  - v ruce a nastav tak balíček.
+  empty-set: Prázdná sada
+  empty-set-lore:
+  - Nemáš žádná semínka odpovídající
+  - těmto úrovním.
+  stored-seed: Uložený druh semínka
+  take-seed: Vezmi semínko z balíčku
+  level: Úroveň
+  speed: Rychlost
+  strength: Síla
+  left-click: Levé kliknutí
+  right-click: Pravé kliknutí
+  increase: Zvýšit %stat%
+  decrease: Snížit %stat%
+  current: Aktuální
+codex:
+  title: Kodex rostlin
+  child: Potomek
+  mother: Mateřská rostlina
+  father: Otcovská rostlina
+  growth-rate: Tempo růstu
+  not-discovered: Neobjeveno
+  not-discovered-lore:
+  - Ještě jsi neobjevil, jak
+  - tuto rostlinu vyšlechtit!
+  discovery: Objev

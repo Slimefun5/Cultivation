@@ -1,0 +1,87 @@
+cultivation:
+  bush_harvest:
+    name: Sklizeň z keřů
+    lore:
+    - Tento předmět lze sklidit
+    - z keře Cultivation
+  tree_harvest:
+    name: Sklizeň ze stromů
+    lore:
+    - Tento předmět lze sklidit
+    - ze stromu Cultivation
+  trading_farmer:
+    name: Obchod s vesničany
+    lore:
+    - Tento předmět lze koupit od
+    - vesničana farmáře.
+  trading_fletcher:
+    name: Obchod s vesničany
+    lore:
+    - Tento předmět lze koupit od
+    - vesničana šípaře.
+  mob:
+    name: Kořist z mobů
+    lore:
+    - Tento předmět může s určitou šancí
+    - padnout z následujících mobů.
+  plant_breeding:
+    name: Šlechtění rostlin
+    lore:
+    - Toto semínko se získává šlechtěním.
+    - Rostliny šlechtíš tak, že položíš
+    - dvě rostliny s jedním blokem vzduchu
+    - mezi nimi.
+    - ''
+    - Šlechtitelský slovník ti pomůže
+    - sledovat tvé objevy.
+    - ''
+    - 'Nápověda: Černé částice znamenají, že'
+    - se tyto dvě rostliny NEMOHOU zkřížit.
+  vanilla_block_drop:
+    name: Nález ve světě
+    lore:
+    - Padá z bloků, když je ve světě rozbiješ.
+  bucketing:
+    name: Nález ve světě
+    lore:
+    - Získáš ho ze světa pomocí kbelíku.
+  chopped:
+    name: Sekání
+    lore:
+    - Prostě to nasekej nožem!
+  mashed:
+    name: Mačkání
+    lore:
+    - Mač mač mač
+  blended:
+    name: Mixování
+    lore:
+    - Vyrábí se vložením předmětu do mixéru.
+  sliced:
+    name: Krájení
+    lore:
+    - Tak tenké a jemné
+  ground:
+    name: Mletí
+    lore:
+    - Najemno
+  boiled:
+    name: Vaření
+    lore:
+    - Horké, horké, horké!
+  fried:
+    name: Smažení
+    lore:
+    - Křupavá dokonalost.
+  grilled:
+    name: Grilování
+    lore:
+    - Šťavnaté a křehké.
+  finishing:
+    name: Dokončování
+    lore:
+    - K výrobě tohoto předmětu použij kuchyňskou linku na dokončování.
+  baking:
+    name: Pečení
+    lore:
+    - K výrobě tohoto předmětu použij kuchyňskou linku s troubou.

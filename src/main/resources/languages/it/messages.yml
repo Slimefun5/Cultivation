@@ -1,0 +1,65 @@
+lore:
+  seed-pack-set-to: Impostato su
+  knowledge-script-unlocks: Sblocca
+  drop-level: Livello di drop
+  growth-speed: Velocità di crescita
+  breed-strength: Forza d'incrocio
+command:
+  no-permission: Non hai il permesso di farlo.
+  invalid-subcommand: Specifica un sottocomando valido.
+  players-only: Questo comando può essere eseguito solo da un giocatore.
+  hold-seed-pack: Per farlo devi tenere in mano un pacchetto di semi.
+  pack-empty: Questo pacchetto è vuoto!
+  pack-contents: Contenuto
+  pack-entry: Livello %level%, velocità %speed%, forza %strength%
+kitchen:
+  recipe-disabled: Questa ricetta è disattivata.
+  no-recipe: Nessuna ricetta corrispondente.
+  not-enough-power: Energia insufficiente.
+  input-empty: Metti un oggetto nello slot di ingresso.
+  cooked: Buonissimo!
+food:
+  eaten: Delizioso! Ora sei sazio.
+  not-hungry: Non hai ancora fame! Puoi mangiare solo una volta ogni mezza giornata (10 minuti).
+  palate-cleansed: Senti il palato che si ripulisce.
+  ouch: Ahia!
+knowledge-script:
+  learned: Hai imparato a incrociare %plant%.
+seed-pack:
+  title: Pacchetto di semi
+  unstack-first: Prima devi separare i tuoi pacchetti di semi.
+  not-a-seed: L'oggetto deve essere un seme di una pianta di Cultivation.
+  empty-before-change: Devi svuotare un pacchetto prima di cambiarne la pianta.
+  no-plant-set: Non hai ancora impostato una pianta.
+  none-stored: Non hai semi di questo tipo con questi livelli.
+  set-here: Imposta il seme qui
+  retrieve-here: Ritira qui
+  no-seed-set: Nessun seme impostato
+  no-seed-set-lore:
+  - Fai clic sull'icona a sinistra
+  - tenendo un seme per impostare il pacchetto.
+  empty-set: Nessun seme
+  empty-set-lore:
+  - Non hai semi che corrispondono
+  - a questi livelli.
+  stored-seed: Tipo di seme contenuto
+  take-seed: Prendi un seme dal pacchetto
+  level: Livello
+  speed: Velocità
+  strength: Forza
+  left-click: Clic sinistro
+  right-click: Clic destro
+  increase: Aumenta %stat%
+  decrease: Diminuisci %stat%
+  current: Attuale
+codex:
+  title: Codice delle piante
+  child: Pianta figlia
+  mother: Pianta madre
+  father: Pianta padre
+  growth-rate: Ritmo di crescita
+  not-discovered: Non scoperta
+  not-discovered-lore:
+  - Non hai ancora scoperto come
+  - incrociare questa pianta!
+  discovery: Scoperta
