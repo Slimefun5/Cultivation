@@ -44,8 +44,8 @@ CLT_BACON_SANDWICH:
     - 'A simple classic!'
   stats:
     - '&8⇨ &7Healing: &b2 Hearts'
-    - '&8⇨ &7Effect 1: &bPower + 1'
-    - '&8⇨ &7Effect 2: &bSpeed + 1'
+    - '&8⇨ &bStrength I &7(10:00)'
+    - '&8⇨ &bSpeed I &7(10:00)'
 
 CLT_BAGEL:
   name: 'Bagel'
@@ -54,7 +54,7 @@ CLT_BAGEL:
   description:
     - 'Toasted? or...'
   stats:
-    - '&8⇨ &7Healing: &b5'
+    - '&8⇨ &7Healing: &b2.5 Hearts'
 
 CLT_BAGEL_BITE:
   name: 'Bagel Bite'
@@ -63,7 +63,7 @@ CLT_BAGEL_BITE:
   description:
     - 'Eat pizza anytime!'
   stats:
-    - '&8⇨ &7Effect 1: &bBurns your mouth with every bite!'
+    - '&8⇨ &7Burns your mouth with every bite!'
 
 CLT_BAGEL_CREAM_CHEESE:
   name: 'Bagel (Cream Cheese)'
@@ -72,8 +72,8 @@ CLT_BAGEL_CREAM_CHEESE:
   description:
     - 'It''s so good you''ll probably want another.'
   stats:
-    - '&8⇨ &7Healing: &b10'
-    - '&8⇨ &7Effect 1: &bHealth Boost + 1'
+    - '&8⇨ &7Healing: &b5 Hearts'
+    - '&8⇨ &bHealth Boost I &7(10:00)'
 
 CLT_BANANA:
   name: 'Banana'
@@ -110,14 +110,14 @@ CLT_BISCUIT:
   description:
     - 'A little snack with a huge taste.'
   stats:
-    - '&8⇨ &7Effect 1: &bLaunches you into the air'
+    - '&8⇨ &7Launches you into the air'
 
 CLT_BISCUIT_BASE:
   name: 'Biscuit Base'
   type:
     - '&7&oProduce'
   description:
-    - 'Just ''cause it''s flat now doesnt mean'
+    - 'Just ''cause it''s flat now doesn''t mean'
     - 'you can eat it raw.'
 
 CLT_BISCUIT_DOUGH:
@@ -776,7 +776,7 @@ CLT_BLUE_CANDY:
   description:
     - 'A delightfully sweet candy.'
   stats:
-    - '&8⇨ &7Effect 1: &bSpawns an Allay'
+    - '&8⇨ &7Spawns an Allay'
 
 CLT_BOILED_APPLE:
   name: 'Boiled Apple'
@@ -1420,10 +1420,10 @@ CLT_BOWL_OF_STEVE:
   description:
     - 'What the actual &%£$'
   stats:
-    - '&8⇨ &7Effect 1: &bReduces you to 1/2 heart'
-    - '&8⇨ &7Effect 2: &bFatigue + 10'
-    - '&8⇨ &7Effect 3: &bSlow + 5'
-    - '&8⇨ &7Effect 4: &bDamage + 10'
+    - '&8⇨ &bMining Fatigue X &7(10:00)'
+    - '&8⇨ &bSlowness VI &7(10:00)'
+    - '&8⇨ &bStrength X &7(10:00)'
+    - '&8⇨ &7Reduces you to 1/2 heart'
 
 CLT_BROCCOLI:
   name: 'Broccoli'
@@ -1872,7 +1872,7 @@ CLT_BUSH_PINTO_BEANS:
   type:
     - '&7&oBush'
   description:
-    - 'It wont be long until we successfully breed'
+    - 'It won''t be long until we successfully breed'
     - 'a direct-burrito bush, right?'
 
 CLT_BUSH_RADDISH:
@@ -2072,10 +2072,10 @@ CLT_CAESAR_SALAD:
   description:
     - 'A healthy classic.'
   stats:
-    - '&8⇨ &7Healing: &b4 Hearts'
-    - '&8⇨ &7Effect 1: &bSpeed + 1'
-    - '&8⇨ &7Effect 2: &bInvisibility + 1'
-    - '&8⇨ &7Effect 3: &bSlow Falling + 1'
+    - '&8⇨ &7Healing: &b6 Hearts'
+    - '&8⇨ &bSpeed I &7(10:00)'
+    - '&8⇨ &bInvisibility I &7(10:00)'
+    - '&8⇨ &bSlow Falling I &7(10:00)'
 
 CLT_CAJUN_GARLIC_BUTTER_COD:
   name: 'Cajun Garlic Butter Cod'
@@ -2085,8 +2085,8 @@ CLT_CAJUN_GARLIC_BUTTER_COD:
     - 'A very simple dish busting with flavour.'
   stats:
     - '&8⇨ &7Healing: &b4 Hearts'
-    - '&8⇨ &7Effect 1: &bRegen + 2'
-    - '&8⇨ &7Effect 2: &bSpeed + 1'
+    - '&8⇨ &bRegeneration II &7(10:00)'
+    - '&8⇨ &bSpeed I &7(10:00)'
 
 CLT_CAULIFLOWER:
   name: 'Cauliflower'
@@ -2125,8 +2125,8 @@ CLT_CHEESE_BURGER:
   description:
     - 'A simple cheese burger, but nothing beats it!'
   stats:
-    - '&8⇨ &7Healing: &b4'
-    - '&8⇨ &7Effect 1: &bRegen + 3'
+    - '&8⇨ &7Healing: &b4 Hearts'
+    - '&8⇨ &bRegeneration III &7(10:00)'
 
 CLT_CHEESY_SCALLOPED_COURGETTE:
   name: 'Cheesy Scalloped Courgette'
@@ -2136,8 +2136,8 @@ CLT_CHEESY_SCALLOPED_COURGETTE:
     - 'A low carb version of an amazing classic.'
   stats:
     - '&8⇨ &7Healing: &b2 Hearts'
-    - '&8⇨ &7Effect 1: &bNight Vision + 1'
-    - '&8⇨ &7Effect 1: &bInvisibility + 1'
+    - '&8⇨ &bNight Vision I &7(10:00)'
+    - '&8⇨ &bInvisibility I &7(10:00)'
 
 CLT_CHERRY:
   name: 'Cherry'
@@ -2160,9 +2160,9 @@ CLT_CHICKEN_ALFREDO_MAC_AND_CHEESE:
   description:
     - 'A posh twist on a common classic.'
   stats:
-    - '&8⇨ &7Healing: &b1 Hearts'
-    - '&8⇨ &7Effect 1: &bFire Resistance + 2'
-    - '&8⇨ &7Effect 2: &bDamage Resistance + 3'
+    - '&8⇨ &7Healing: &b1 Heart'
+    - '&8⇨ &bFire Resistance II &7(10:00)'
+    - '&8⇨ &bResistance III &7(10:00)'
 
 CLT_CHICKEN_PASTA_BAKE:
   name: 'Chicken Pasta Bake'
@@ -2172,8 +2172,8 @@ CLT_CHICKEN_PASTA_BAKE:
     - 'A student staple.'
   stats:
     - '&8⇨ &7Healing: &b5 Hearts'
-    - '&8⇨ &7Effect 1: &bNight Vision + 1'
-    - '&8⇨ &7Effect 2: &bWater Breathing + 1'
+    - '&8⇨ &bNight Vision I &7(10:00)'
+    - '&8⇨ &bWater Breathing I &7(10:00)'
 
 CLT_CHICKEN_POT_PIE:
   name: 'Chicken Pot Pie'
@@ -2183,8 +2183,8 @@ CLT_CHICKEN_POT_PIE:
     - 'A warming meal that really hits home.'
   stats:
     - '&8⇨ &7Healing: &b10 Hearts'
-    - '&8⇨ &7Effect 1: &bJump + 2'
-    - '&8⇨ &7Effect 2: &bSaturation + 1'
+    - '&8⇨ &bJump Boost II &7(10:00)'
+    - '&8⇨ &bSaturation I &7(10:00)'
 
 CLT_CHICKPEAS:
   name: 'Chickpeas'
@@ -2875,9 +2875,9 @@ CLT_CINNAMON_ROLL:
     - 'A sweet delight rolled up for fun.'
     - 'Eating it turns the world on it''s head!'
   stats:
-    - '&8⇨ &7Healing: &b4'
-    - '&8⇨ &7Effect 1: &bLevitation + 1'
-    - '&8⇨ &7Effect 2: &bSlow Falling + 1'
+    - '&8⇨ &7Healing: &b4 Hearts'
+    - '&8⇨ &bLevitation I &7(10:00)'
+    - '&8⇨ &bSlow Falling I &7(10:00)'
 
 CLT_CLOVE:
   name: 'Clove'
@@ -2893,7 +2893,7 @@ CLT_COMPRESSED_BISCUIT:
   description:
     - 'A little snack with a huge-er taste.'
   stats:
-    - '&8⇨ &7Effect 1: &bLaunches you into the air'
+    - '&8⇨ &7Launches you into the air'
 
 CLT_COOKED_BURGER_PATTY:
   name: 'Cooked Burger Patty'
@@ -3101,8 +3101,8 @@ CLT_EGG_SALAD_SANDWICH:
   description:
     - 'Smells a bit, but tastes amazing!'
   stats:
-    - '&8⇨ &7Healing: &b5 Hearts'
-    - '&8⇨ &7Effect 1: &bHaste + 2'
+    - '&8⇨ &7Healing: &b10 Hearts'
+    - '&8⇨ &bRegeneration II &7(10:00)'
 
 CLT_FENNEL:
   name: 'Fennel'
@@ -3754,8 +3754,8 @@ CLT_FRUIT_SALAD:
     - 'If you call it a salad, you can eat as much'
     - 'as you like, ''cause it''s healthy.'
   stats:
-    - '&8⇨ &7Healing: &b2 Hearts'
-    - '&8⇨ &7Effect 1: &bSpeed + 3'
+    - '&8⇨ &7Healing: &b6 Hearts'
+    - '&8⇨ &bSpeed III &7(10:00)'
 
 CLT_FUGU:
   name: 'Fugu'
@@ -3764,9 +3764,9 @@ CLT_FUGU:
   description:
     - 'Ready to roll the dice?'
   stats:
-    - '&8⇨ &7Healing: &b1 Hearts'
-    - '&8⇨ &7Effect 1: &bPower + 5'
-    - '&8⇨ &7Effect 2: &b33% Chance to just die!'
+    - '&8⇨ &7Healing: &b1 Heart'
+    - '&8⇨ &bStrength V &7(10:00)'
+    - '&8⇨ &733% Chance to just die!'
 
 CLT_GARDEN_CLOCHE:
   name: 'Garden Cloche'
@@ -3792,7 +3792,7 @@ CLT_GARLIC_BUTTER_MUSHROOMS:
     - 'May easily be the best food item on earth.'
   stats:
     - '&8⇨ &7Healing: &b2 Hearts'
-    - '&8⇨ &7Effect 1: &bGlowing + 1'
+    - '&8⇨ &bGlowing I &7(10:00)'
 
 CLT_GINGER:
   name: 'Ginger'
@@ -4384,8 +4384,8 @@ CLT_GRILLED_SALMON_SALAD:
     - 'Delightfully flaky and brilliantly seasoned.'
   stats:
     - '&8⇨ &7Healing: &b4 Hearts'
-    - '&8⇨ &7Effect 1: &bRegeneration + 1'
-    - '&8⇨ &7Effect 2: &bHealth Boost + 5'
+    - '&8⇨ &bRegeneration I &7(10:00)'
+    - '&8⇨ &bHealth Boost V &7(10:00)'
 
 CLT_GRILLED_SASSAFRAS:
   name: 'Grilled Sassafras'
@@ -5182,7 +5182,7 @@ CLT_KEY_LIME_PIE:
     - 'Simply the best!'
   stats:
     - '&8⇨ &7Healing: &b6 Hearts'
-    - '&8⇨ &7Effect 1: &bHaste + 4'
+    - '&8⇨ &bHaste IV &7(10:00)'
 
 CLT_KIWI:
   name: 'Kiwi'
@@ -5202,8 +5202,8 @@ CLT_LASAGNA:
     - 'Layers of awesomeness.'
   stats:
     - '&8⇨ &7Healing: &bFull'
-    - '&8⇨ &7Effect 1: &bRegeneration + 1'
-    - '&8⇨ &7Effect 2: &bDamage Reduction + 1'
+    - '&8⇨ &bRegeneration II &7(10:00)'
+    - '&8⇨ &bResistance II &7(10:00)'
 
 CLT_LAVENDER:
   name: 'Lavender'
@@ -5309,7 +5309,7 @@ CLT_LEMON_DROP:
   description:
     - 'A palette cleanser.'
   stats:
-    - '&8⇨ &7Effect 1: &bClears all effects and makes you hungry again.'
+    - '&8⇨ &7Clears all effects and makes you hungry again.'
 
 CLT_LETTUCE:
   name: 'Lettuce'
@@ -6022,10 +6022,10 @@ CLT_MEATLOAF:
     - 'Nothing like it! Let''s go.'
   stats:
     - '&8⇨ &7Healing: &bFull'
-    - '&8⇨ &7Effect 1: &bHealth Boost + 4'
-    - '&8⇨ &7Effect 2: &bDamage Reduction + 3'
-    - '&8⇨ &7Effect 3: &bHaste + 2'
-    - '&8⇨ &7Effect 4: &bSlowness + 2'
+    - '&8⇨ &bHealth Boost IV &7(10:00)'
+    - '&8⇨ &bResistance III &7(10:00)'
+    - '&8⇨ &bHaste II &7(10:00)'
+    - '&8⇨ &bSlowness II &7(10:00)'
 
 CLT_MINT:
   name: 'Mint'
@@ -6060,7 +6060,7 @@ CLT_OKRA:
   type:
     - '&7&oProduce'
   description:
-    - 'Grown alot in okra-homa... right, RIGHT?'
+    - 'Grown a lot in okra-homa... right, RIGHT?'
 
 CLT_ONION:
   name: 'Onion'
@@ -6083,7 +6083,7 @@ CLT_ORANGE_JUICE:
   description:
     - 'It really is the best way to start the day.'
   stats:
-    - '&8⇨ &7Effect 1: &bSpeed + 4'
+    - '&8⇨ &bSpeed IV &7(10:00)'
 
 CLT_OREGANO:
   name: 'Oregano'
@@ -6149,7 +6149,7 @@ CLT_PEANUT_BUTTER_JELLY_SANDWICH:
     - 'It really is the pinnacle of sandwich technology.'
   stats:
     - '&8⇨ &7Healing: &b5 Hearts'
-    - '&8⇨ &7Effect 1: &bPower + 3'
+    - '&8⇨ &bStrength III &7(10:00)'
 
 CLT_PEAR:
   name: 'Pear'
@@ -6174,7 +6174,7 @@ CLT_PECAN_PIE:
     - 'being totally judged.'
   stats:
     - '&8⇨ &7Healing: &b4 Hearts'
-    - '&8⇨ &7Effect 1: &bLevitation + 1'
+    - '&8⇨ &bLevitation I &7(10:00)'
 
 CLT_PEPPER:
   name: 'Black Pepper'
@@ -6225,10 +6225,10 @@ CLT_PIZZA_CHEESE:
   type:
     - '&7&oFood'
   description:
-    - 'Why anyone would order just cheese? I dont know.'
+    - 'Why anyone would order just cheese? I don''t know.'
   stats:
     - '&8⇨ &7Healing: &b4 Hearts'
-    - '&8⇨ &7Effect 1: &bSlowness + 1'
+    - '&8⇨ &bSlowness I &7(10:00)'
 
 CLT_PIZZA_MUSHROOM:
   name: 'Mushroom Pizza'
@@ -6238,8 +6238,8 @@ CLT_PIZZA_MUSHROOM:
     - 'A simple vegetarian pizza full of proteins.'
   stats:
     - '&8⇨ &7Healing: &b6 Hearts'
-    - '&8⇨ &7Effect 1: &bSlowness + 1'
-    - '&8⇨ &7Effect 1: &bHaste + 2'
+    - '&8⇨ &bSlowness I &7(10:00)'
+    - '&8⇨ &bHaste II &7(10:00)'
 
 CLT_PIZZA_PEPPERONI:
   name: 'Pepperoni Pizza'
@@ -6249,9 +6249,9 @@ CLT_PIZZA_PEPPERONI:
     - 'A New York classic full of flavour.'
   stats:
     - '&8⇨ &7Healing: &b6 Hearts'
-    - '&8⇨ &7Effect 1: &bSpeed + 1'
-    - '&8⇨ &7Effect 1: &bHaste + 1'
-    - '&8⇨ &7Effect 1: &bJump + 1'
+    - '&8⇨ &bSpeed I &7(10:00)'
+    - '&8⇨ &bHaste I &7(10:00)'
+    - '&8⇨ &bJump Boost I &7(10:00)'
 
 CLT_PLANT_AIR:
   name: 'Primal Air Plant'
@@ -6260,7 +6260,7 @@ CLT_PLANT_AIR:
   description:
     - 'A plant that quietly hums with'
     - 'the melody of the surrounding nature.'
-    - '&ePrimal plants dont produce items'
+    - '&ePrimal plants don''t produce items'
     - '&eand are just for breeding.'
 
 CLT_PLANT_AMETHYST:
@@ -6374,7 +6374,7 @@ CLT_PLANT_DARKNESS:
   description:
     - 'A plant that seethes in unbridled'
     - 'rage.'
-    - '&ePrimal plants dont produce items'
+    - '&ePrimal plants don''t produce items'
     - '&eand are just for breeding.'
 
 CLT_PLANT_DARK_FLORA:
@@ -6445,7 +6445,7 @@ CLT_PLANT_EARTH:
   description:
     - 'A plant that enriches the world'
     - 'surrounding it.'
-    - '&ePrimal plants dont produce items'
+    - '&ePrimal plants don''t produce items'
     - '&eand are just for breeding.'
 
 CLT_PLANT_ECHO:
@@ -6502,7 +6502,7 @@ CLT_PLANT_FIRE:
     - 'A plant that both provides the'
     - 'sources of destruction as well as'
     - 'rebirth.'
-    - '&ePrimal plants dont produce items'
+    - '&ePrimal plants don''t produce items'
     - '&eand are just for breeding.'
 
 CLT_PLANT_FISH:
@@ -6618,7 +6618,7 @@ CLT_PLANT_LIGHT:
   description:
     - 'A plant that exudes an aura'
     - 'of pure love.'
-    - '&ePrimal plants dont produce items'
+    - '&ePrimal plants don''t produce items'
     - '&eand are just for breeding.'
 
 CLT_PLANT_MAGMA:
@@ -6696,7 +6696,7 @@ CLT_PLANT_POWER:
     - '&7&oPlant'
   description:
     - 'A plant that positively exudes power.'
-    - '&ePrimal plants dont produce items'
+    - '&ePrimal plants don''t produce items'
     - '&eand are just for breeding.'
 
 CLT_PLANT_PURPUR:
@@ -6835,7 +6835,7 @@ CLT_PLANT_SPECTRUM:
     - '&7&oPlant'
   description:
     - 'A plant that slightly shifts it''s color.'
-    - '&ePrimal plants dont produce items'
+    - '&ePrimal plants don''t produce items'
     - '&eand are just for breeding.'
 
 CLT_PLANT_SPIDER:
@@ -6899,7 +6899,7 @@ CLT_PLANT_WATER:
   description:
     - 'A plant that nurtures and provides'
     - 'life to the surrounding area.'
-    - '&ePrimal plants dont produce items'
+    - '&ePrimal plants don''t produce items'
     - '&eand are just for breeding.'
 
 CLT_PLANT_WAXY:
@@ -6916,7 +6916,7 @@ CLT_PLANT_WEALTH:
     - '&7&oPlant'
   description:
     - 'A plant that just screams exuberant wealth.'
-    - '&ePrimal plants dont produce items'
+    - '&ePrimal plants don''t produce items'
     - '&eand are just for breeding.'
 
 CLT_PLANT_WITCH:
@@ -6986,7 +6986,7 @@ CLT_RAMEN_BEEF:
   description:
     - 'A not-so-healthy choice.'
   stats:
-    - '&8⇨ &7Effect 1: &bHealth Boost + 1'
+    - '&8⇨ &bHealth Boost I &7(10:00)'
 
 CLT_RAMEN_BEEF_HEARTY:
   name: 'Ramen (Beef) (Hearty)'
@@ -6996,8 +6996,8 @@ CLT_RAMEN_BEEF_HEARTY:
     - 'A healthy choice.'
   stats:
     - '&8⇨ &7Healing: &bFull'
-    - '&8⇨ &7Effect 1: &bHealth Boost + 2'
-    - '&8⇨ &7Effect 2: &bSpeed + 1'
+    - '&8⇨ &bHealth Boost II &7(10:00)'
+    - '&8⇨ &bSpeed I &7(10:00)'
 
 CLT_RAMEN_CHICKEN:
   name: 'Ramen (Chicken)'
@@ -7006,7 +7006,7 @@ CLT_RAMEN_CHICKEN:
   description:
     - 'A not-so-filling choice.'
   stats:
-    - '&8⇨ &7Effect 1: &bHealth Boost + 1'
+    - '&8⇨ &bHealth Boost I &7(10:00)'
 
 CLT_RAMEN_CHICKEN_HEARTY:
   name: 'Ramen (Chicken) (Hearty)'
@@ -7016,8 +7016,8 @@ CLT_RAMEN_CHICKEN_HEARTY:
     - 'A filling choice.'
   stats:
     - '&8⇨ &7Healing: &bFull'
-    - '&8⇨ &7Effect 1: &bHealth Boost + 2'
-    - '&8⇨ &7Effect 2: &bSpeed + 1'
+    - '&8⇨ &bHealth Boost II &7(10:00)'
+    - '&8⇨ &bSpeed I &7(10:00)'
 
 CLT_RAMEN_SEAFOOD:
   name: 'Ramen (Seafood)'
@@ -7026,7 +7026,7 @@ CLT_RAMEN_SEAFOOD:
   description:
     - 'A not-so-satisfying choice.'
   stats:
-    - '&8⇨ &7Effect 1: &bHealth Boost + 1'
+    - '&8⇨ &bHealth Boost I &7(10:00)'
 
 CLT_RAMEN_SEAFOOD_HEARTY:
   name: 'Ramen (Seafood) (Hearty)'
@@ -7036,8 +7036,8 @@ CLT_RAMEN_SEAFOOD_HEARTY:
     - 'A satisfying choice.'
   stats:
     - '&8⇨ &7Healing: &bFull'
-    - '&8⇨ &7Effect 1: &bHealth Boost + 2'
-    - '&8⇨ &7Effect 2: &bSpeed + 1'
+    - '&8⇨ &bHealth Boost II &7(10:00)'
+    - '&8⇨ &bSpeed I &7(10:00)'
 
 CLT_RAPESEED:
   name: 'Rapeseed'
@@ -7099,7 +7099,7 @@ CLT_SALMON_NIGIRI:
     - 'A delightful yet subtle flavour.'
   stats:
     - '&8⇨ &7Healing: &b2 Hearts'
-    - '&8⇨ &7Effect 1: &bRegen + 1'
+    - '&8⇨ &bRegeneration I &7(10:00)'
 
 CLT_SASSAFRAS:
   name: 'Sassafras'
@@ -7116,7 +7116,7 @@ CLT_SAUSAGE:
   description:
     - 'Bacon''s brother.'
   stats:
-    - '&8⇨ &7Healing: &b2'
+    - '&8⇨ &7Healing: &b1 Heart'
 
 CLT_SEED_PACK:
   name: 'Seed Pack'
@@ -7135,8 +7135,8 @@ CLT_SHAKSHUKA:
     - 'A heart warming dish with eggs for days.'
   stats:
     - '&8⇨ &7Healing: &b4 Hearts'
-    - '&8⇨ &7Effect 1: &bHero of the Village + 1'
-    - '&8⇨ &7Effect 2: &bLuck + 1'
+    - '&8⇨ &bHero of the Village I &7(10:00)'
+    - '&8⇨ &bLuck I &7(10:00)'
 
 CLT_SHALLOT:
   name: 'Shallot'
@@ -7153,7 +7153,7 @@ CLT_SHEPHERDS_PIE:
     - 'Warm, hearty and simply wonderful.'
   stats:
     - '&8⇨ &7Healing: &b10 Hearts'
-    - '&8⇨ &7Effect 1: &bRegen + 2'
+    - '&8⇨ &bRegeneration II &7(10:00)'
 
 CLT_SHISO:
   name: 'Shiso'
@@ -7804,8 +7804,8 @@ CLT_SOFT_BOILED_EGG:
   description:
     - 'Just a boiled egg, what''s more to say.'
   stats:
-    - '&8⇨ &7Healing: &b1'
-    - '&8⇨ &7Effect 1: &bCan sometimes call a chicken to your aid.'
+    - '&8⇨ &7Healing: &b1 Heart'
+    - '&8⇨ &7Can sometimes call a chicken to your aid.'
 
 CLT_SOYLENT:
   name: 'Soylent'
@@ -7814,8 +7814,8 @@ CLT_SOYLENT:
   description:
     - 'Everything the body needs!'
   stats:
-    - '&8⇨ &7Effect 1: &bBad Omen + 1'
-    - '&8⇨ &7Effect 2: &bWeakness + 4'
+    - '&8⇨ &bBad Omen I &7(10:00)'
+    - '&8⇨ &bWeakness IV &7(10:00)'
 
 CLT_SOY_BEANS:
   name: 'Soy Beans'
@@ -7840,8 +7840,8 @@ CLT_SPAGHETTI_AND_MEATBALLS:
   description:
     - 'Simple, classic and hearty.'
   stats:
-    - '&8⇨ &7Healing: &b4 Hearts'
-    - '&8⇨ &7Effect 1: &bBad Omen + 1'
+    - '&8⇨ &7Healing: &b1 Heart'
+    - '&8⇨ &bBad Omen I &7(10:00)'
 
 CLT_SPINACH:
   name: 'Spinach'
@@ -7878,7 +7878,7 @@ CLT_SUGARED_SKULL:
   description:
     - 'Is this even food...?'
   stats:
-    - '&8⇨ &7Effect 1: &bDarkness + 3'
+    - '&8⇨ &bDarkness III &7(10:00)'
 
 CLT_SWEETCORN:
   name: 'Sweetcorn'
@@ -7894,7 +7894,7 @@ CLT_SWEET_BEEHIVE:
   description:
     - 'Not sure what made you want to cook this!'
   stats:
-    - '&8⇨ &7Effect 1: &bSummons some bees!'
+    - '&8⇨ &7Summons some bees!'
 
 CLT_SWEET_POTATO:
   name: 'Sweet Potato'
@@ -7910,8 +7910,8 @@ CLT_TAQUITO:
   description:
     - 'Zim would be proud!'
   stats:
-    - '&8⇨ &7Healing: &b4'
-    - '&8⇨ &7Effect 1: &bSummons Gir to help (It''s an Iron Golem, relax).'
+    - '&8⇨ &7Healing: &b4 Hearts'
+    - '&8⇨ &7Summons Gir to help (It''s an Iron Golem, relax).'
 
 CLT_TARRAGON:
   name: 'Tarragon'
@@ -7928,8 +7928,8 @@ CLT_TATER_TOTS:
   description:
     - 'Little potato poppables.'
   stats:
-    - '&8⇨ &7Healing: &b1'
-    - '&8⇨ &7Effect 1: &bSpeed + 2'
+    - '&8⇨ &7Healing: &b0.5 Hearts'
+    - '&8⇨ &bSpeed II &7(10:00)'
 
 CLT_THYME:
   name: 'Thyme'
@@ -8020,7 +8020,7 @@ CLT_TREE_LEMON:
   type:
     - '&7&oSapling'
   description:
-    - 'Just looking at this tree taste sour.'
+    - 'Just looking at this tree tastes sour.'
   stats:
     - '&8⇨ &7Design By: &bJeff'
 
@@ -8038,7 +8038,7 @@ CLT_TREE_MANGO:
   type:
     - '&7&oSapling'
   description:
-    - 'Best when at it''s ripest.'
+    - 'Best when at its ripest.'
   stats:
     - '&8⇨ &7Design By: &bBWhite'
 
@@ -8123,5 +8123,5 @@ CLT_WITHER_ROSE_SALAD:
     - 'Teeming with power but with a harsh side-effect.'
   stats:
     - '&8⇨ &7Healing: &bFull'
-    - '&8⇨ &7Effect 1: &bHealth Boost + 20'
-    - '&8⇨ &7Effect 2: &bWither + 2'
+    - '&8⇨ &bWither II &7(10:00)'
+    - '&8⇨ &bHealth Boost XX &7(10:00)'
