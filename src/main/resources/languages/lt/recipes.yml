@@ -1,0 +1,87 @@
+cultivation:
+  bush_harvest:
+    name: Krūmų derlius
+    lore:
+    - Šį daiktą galima nuskinti nuo
+    - Cultivation krūmo
+  tree_harvest:
+    name: Medžių derlius
+    lore:
+    - Šį daiktą galima nuskinti nuo
+    - Cultivation medžio
+  trading_farmer:
+    name: Prekyba su kaimiečiais
+    lore:
+    - Šį daiktą galima nusipirkti iš
+    - kaimiečio ūkininko.
+  trading_fletcher:
+    name: Prekyba su kaimiečiais
+    lore:
+    - Šį daiktą galima nusipirkti iš
+    - kaimiečio strėlių meistro.
+  mob:
+    name: Padarų grobis
+    lore:
+    - Šis daiktas gali iškristi iš
+    - šių padarų.
+  plant_breeding:
+    name: Augalų veisimas
+    lore:
+    - Ši sėkla gaunama veisiant.
+    - Augalus veisi pastatydamas
+    - du augalus su oro bloku
+    - tarp jų.
+    - ''
+    - Veisimo žodyne gali
+    - sekti savo atradimus.
+    - ''
+    - 'Užuomina: juodos dalelės reiškia, kad'
+    - šie du augalai NEGALI veistis.
+  vanilla_block_drop:
+    name: Pasaulio grobis
+    lore:
+    - Iškrenta iš blokų, kai jie sudaužomi pasaulyje.
+  bucketing:
+    name: Pasaulio grobis
+    lore:
+    - Gaunama iš pasaulio naudojant kibirą.
+  chopped:
+    name: Kapojimas
+    lore:
+    - Tiesiog sukapok peiliu!
+  mashed:
+    name: Grūdimas
+    lore:
+    - Grūsk grūsk grūsk
+  blended:
+    name: Trynimas
+    lore:
+    - Gaminama įdedant daiktą į trintuvą.
+  sliced:
+    name: Pjaustymas
+    lore:
+    - Taip plonai ir subtiliai
+  ground:
+    name: Malimas
+    lore:
+    - Iki pat smulkumo
+  boiled:
+    name: Virimas
+    lore:
+    - Karšta karšta karšta!
+  fried:
+    name: Kepimas keptuvėje
+    lore:
+    - Traškus tobulumas.
+  grilled:
+    name: Grilinimas
+    lore:
+    - Sultinga ir švelnu.
+  finishing:
+    name: Užbaigimas
+    lore:
+    - Šiam daiktui pagaminti naudok virtuvės užbaigimo stalą.
+  baking:
+    name: Kepimas orkaitėje
+    lore:
+    - Šiam daiktui pagaminti naudok virtuvės orkaitės stalą.

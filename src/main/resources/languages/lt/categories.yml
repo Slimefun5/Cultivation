@@ -1,0 +1,13 @@
+cultivation:
+  main: Cultivation
+  hidden: Paslėpta
+  crafting: Gamybos daiktai
+  tools: Įrankiai
+  machines: Įrenginiai
+  plants: Augalai
+  bushes: Krūmai
+  trees: Medžiai
+  produce: Derlius
+  by-products: Šalutiniai produktai
+  foods: Maistas
+  plant_codex: Augalų kodeksas

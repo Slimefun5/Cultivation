@@ -1,0 +1,87 @@
+cultivation:
+  bush_harvest:
+    name: Berba s grma
+    lore:
+    - Ovaj se predmet može ubrati s
+    - Cultivation grma
+  tree_harvest:
+    name: Berba sa stabla
+    lore:
+    - Ovaj se predmet može ubrati sa
+    - Cultivation stabla
+  trading_farmer:
+    name: Trgovina sa seljanima
+    lore:
+    - Ovaj se predmet može kupiti od
+    - seljanina farmera.
+  trading_fletcher:
+    name: Trgovina sa seljanima
+    lore:
+    - Ovaj se predmet može kupiti od
+    - seljanina izrađivača strijela.
+  mob:
+    name: Plijen stvorenja
+    lore:
+    - Ovaj predmet može ispasti iz
+    - sljedećih stvorenja.
+  plant_breeding:
+    name: Križanje biljaka
+    lore:
+    - Ovo se sjeme pronalazi križanjem.
+    - Biljke križaš tako da postaviš
+    - dvije biljke sa zračnim blokom
+    - između njih.
+    - ''
+    - Rječnik križanja možeš koristiti
+    - za praćenje svojih otkrića.
+    - ''
+    - 'Savjet: crne čestice znače da se'
+    - te dvije biljke NE MOGU križati.
+  vanilla_block_drop:
+    name: Plijen iz svijeta
+    lore:
+    - Ispada iz blokova kad ih razbiješ u svijetu.
+  bucketing:
+    name: Plijen iz svijeta
+    lore:
+    - Dobiva se iz svijeta pomoću kante.
+  chopped:
+    name: Sjeckanje
+    lore:
+    - Samo nasjeckaj nožem!
+  mashed:
+    name: Gnječenje
+    lore:
+    - Gnječ gnječ gnječ
+  blended:
+    name: Miksanje
+    lore:
+    - Dobiva se stavljanjem predmeta u blender.
+  sliced:
+    name: Rezanje
+    lore:
+    - Tako tanko i nježno
+  ground:
+    name: Mljevenje
+    lore:
+    - Do najfinijeg stupnja
+  boiled:
+    name: Kuhanje
+    lore:
+    - Vruće vruće vruće!
+  fried:
+    name: Prženje
+    lore:
+    - Hrskavo savršenstvo.
+  grilled:
+    name: Grilanje
+    lore:
+    - Sočno i mekano.
+  finishing:
+    name: Završna obrada
+    lore:
+    - Za izradu ovog predmeta koristi kuhinjski pult za završnu obradu.
+  baking:
+    name: Pečenje
+    lore:
+    - Za izradu ovog predmeta koristi kuhinjski pult s pećnicom.

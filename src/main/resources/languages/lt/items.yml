@@ -1,0 +1,6674 @@
+CLT_APRICOT:
+  name: Abrikosas
+  type:
+  - '&7&oDerlius'
+  description:
+  - Iš jų galima pasidaryti Pokebolų.
+  - '...'
+  - Ką reiškia, kad tai visai kitas dalykas...?
+CLT_ARTICHOKE:
+  name: Artišokas
+  type:
+  - '&7&oDerlius'
+  description:
+  - Išplėšk jam ŠIRDĮ!
+CLT_ASPARAGUS:
+  name: Smidras
+  type:
+  - '&7&oDerlius'
+  description:
+  - Vėliau atsargiai eidamas į tualetą.
+CLT_AUBERGINE:
+  name: Baklažanas
+  type:
+  - '&7&oDerlius'
+  description:
+  - Ryškiai violetinis ir 100% NE kiaušinio formos.
+  - Tai kodėl anglai jį vadina kiaušinių augalu?
+CLT_AVOCADO:
+  name: Avokadas
+  type:
+  - '&7&oDerlius'
+  description:
+  - Apie ką svajoja hipsteriai.
+CLT_BACON_SANDWICH:
+  name: Sumuštinis su šonine
+  type:
+  - '&7&oMaistas'
+  description:
+  - Paprasta klasika!
+  stats:
+  - '&8⇨ &7Gydymas: &b2 širdelės'
+  - '&8⇨ &bJėga I &7(10:00)'
+  - '&8⇨ &bGreitis I &7(10:00)'
+CLT_BAGEL:
+  name: Beigelis
+  type:
+  - '&7&oMaistas'
+  description:
+  - Paskrudintas? ar...
+  stats:
+  - '&8⇨ &7Gydymas: &b2.5 širdelės'
+CLT_BAGEL_BITE:
+  name: Beigelio kąsnelis
+  type:
+  - '&7&oMaistas'
+  description:
+  - Valgyk picą bet kada!
+  stats:
+  - '&8⇨ &7Degina burną kiekvienu kąsniu!'
+CLT_BAGEL_CREAM_CHEESE:
+  name: Beigelis su kreminiu sūriu
+  type:
+  - '&7&oMaistas'
+  description:
+  - Toks skanus, kad tikriausiai norėsi dar vieno.
+  stats:
+  - '&8⇨ &7Gydymas: &b5 širdelės'
+  - '&8⇨ &bPapildoma sveikata I &7(10:00)'
+CLT_BANANA:
+  name: Bananas
+  type:
+  - '&7&oDerlius'
+  description:
+  - Man patinka jo išvaizda ir lupena!
+CLT_BASIL:
+  name: Bazilikas
+  type:
+  - '&7&oDerlius'
+  description:
+  - Saldus lapas su švelniu pipirišku poskoniu.
+CLT_BAY_LEAF:
+  name: Lauro lapas
+  type:
+  - '&7&oDerlius'
+  description:
+  - Stiprus aromatas, tinkantis daugybei patiekalų.
+CLT_BELL_PEPPER:
+  name: Paprika
+  type:
+  - '&7&oDerlius'
+  description:
+  - Skamba tikrai teisingai.
+CLT_BISCUIT:
+  name: Sausainis
+  type:
+  - '&7&oMaistas'
+  description:
+  - Mažas užkandis su didžiuliu skoniu.
+  stats: &id002
+  - '&8⇨ &7Iššauna tave į orą'
+CLT_BISCUIT_BASE:
+  name: Sausainių pagrindas
+  type:
+  - '&7&oDerlius'
+  description:
+  - Tai, kad dabar jis plokščias, nereiškia,
+  - kad galima jį valgyti žalią.
+CLT_BISCUIT_DOUGH:
+  name: Sausainių tešla
+  type:
+  - '&7&oDerlius'
+  description:
+  - 'Tiesiog primink sau: "Nevalgyk žalios."'
+CLT_BLACK_BEANS:
+  name: Juodosios pupelės
+  type:
+  - '&7&oDerlius'
+  description:
+  - Skanūs vegetariški baltymai.
+CLT_BLENDED_APPLE:
+  name: Trintas obuolys
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_APRICOT:
+  name: Trintas abrikosas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_ARTICHOKE:
+  name: Trintas artišokas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_ASPARAGUS:
+  name: Trintas smidras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_AUBERGINE:
+  name: Trintas baklažanas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_AVOCADO:
+  name: Trintas avokadas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_BANANA:
+  name: Trintas bananas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_BASIL:
+  name: Trintas bazilikas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_BAY_LEAF:
+  name: Trintas lauro lapas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_BEEF:
+  name: Trinta jautiena
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_BEETROOT:
+  name: Trintas burokėlis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_BELL_PEPPER:
+  name: Trinta paprika
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_BLACK_BEANS:
+  name: Trintos juodosios pupelės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_BREAD:
+  name: Trinta duona
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_BROCCOLI:
+  name: Trintas brokolis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_BROWN_MUSHROOM:
+  name: Trintas rudas grybas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_BRUSSELS_SPROUTS:
+  name: Trinti briuselio kopūstai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_CABBAGE:
+  name: Trintas kopūstas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_CARROT:
+  name: Trinta morka
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_CAULIFLOWER:
+  name: Trintas žiedinis kopūstas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_CAYENNE_PEPPER:
+  name: Trintas kajeno pipiras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_CELERIAC:
+  name: Trintas gumbinis salieras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_CELERY:
+  name: Trintas salieras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_CHERRY:
+  name: Trinta vyšnia
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_CHESTNUT:
+  name: Trintas kaštonas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_CHICKEN:
+  name: Trinta vištiena
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_CHICKPEAS:
+  name: Trinti avinžirniai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_CHICORY:
+  name: Trinta cikorija
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_CHILLY_PEPPER:
+  name: Trintas čili pipiras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_CHIVES:
+  name: Trinti laiškiniai česnakai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_CHORUS_FRUIT:
+  name: Trintas koruso vaisius
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_CILANTRO:
+  name: Trinta kalendra
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_CINNAMON:
+  name: Trintas cinamonas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_CLOVE:
+  name: Trintas gvazdikėlis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_COCOA_BEANS:
+  name: Trintos kakavos pupelės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_COD:
+  name: Trinta menkė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_COURGETTE:
+  name: Trinta cukinija
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_CUCUMBER:
+  name: Trintas agurkas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_CUMIN:
+  name: Trintas kuminas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_CURRY_LEAF:
+  name: Trintas kario lapas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_DILL:
+  name: Trinti krapai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_EGG:
+  name: Trintas kiaušinis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_ENCHANTED_GOLDEN_APPLE:
+  name: Trintas užkerėtas auksinis obuolys
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_FENNEL:
+  name: Trintas pankolis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_GARLIC:
+  name: Trintas česnakas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_GINGER:
+  name: Trintas imbieras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_GLOW_BERRIES:
+  name: Trintos švytinčios uogos
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_GOLDEN_APPLE:
+  name: Trintas auksinis obuolys
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_GOLDEN_CARROT:
+  name: Trinta auksinė morka
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_GRAPE:
+  name: Trinta vynuogė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_GREEN_APPLE:
+  name: Trintas žalias obuolys
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_GREEN_BEANS:
+  name: Trintos šparaginės pupelės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_GREEN_ONION:
+  name: Trintas laiškinis svogūnas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_HAZELNUT:
+  name: Trintas lazdyno riešutas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_HORSERADISH:
+  name: Trintas krienas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_JALAPENO:
+  name: Trintas jalapenjo pipiras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_JASMINE:
+  name: Trintas jazminas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_JUNIPER_BERRY:
+  name: Trintos kadagio uogos
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_KAFFIR_LIME:
+  name: Trintas kafrinio laimo lapas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_KALE:
+  name: Trintas lapinis kopūstas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_KELP:
+  name: Trinti rudadumbliai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_KIWI:
+  name: Trintas kivis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_LAVENDER:
+  name: Trinta levanda
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_LEEK:
+  name: Trintas poras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_LEMON:
+  name: Trinta citrina
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_LETTUCE:
+  name: Trintos salotos
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_LICORICE:
+  name: Trintas saldymedis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_LIME:
+  name: Trintas laimas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_MACE:
+  name: Trintas muskato žiedas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_MANGO:
+  name: Trintas mangas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_MARJORAM:
+  name: Trintas mairūnas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_MARROW:
+  name: Trintas kabačkas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_MELON:
+  name: Trintas arbūzas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_MINT:
+  name: Trinta mėta
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_MUSTARD_SEEDS:
+  name: Trintos garstyčių sėklos
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_MUTTON:
+  name: Trinta aviena
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_NETTLES:
+  name: Trintos dilgėlės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_OKRA:
+  name: Trinta okra
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_ONION:
+  name: Trintas svogūnas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_ORANGE:
+  name: Trintas apelsinas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_OREGANO:
+  name: Trintas raudonėlis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_PARSLEY:
+  name: Trintos petražolės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_PARSNIP:
+  name: Trintas pastarnokas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_PEA:
+  name: Trinti žirniai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_PEACH:
+  name: Trintas persikas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_PEANUT:
+  name: Trintas žemės riešutas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_PEAR:
+  name: Trinta kriaušė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_PECAN:
+  name: Trintas pekano riešutas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_PEPPER:
+  name: Trinti juodieji pipirai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_PEPPERONI:
+  name: Trinta peperoni dešra
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_PINEAPPLE:
+  name: Trintas ananasas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_PINTO_BEANS:
+  name: Trintos margosios pupelės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_PORKCHOP:
+  name: Trinta kiauliena
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_POTATO:
+  name: Trinta bulvė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_PUFFERFISH:
+  name: Trinta pūsliažuvė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_PUMPKIN:
+  name: Trintas moliūgas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_RABBIT:
+  name: Trinta triušiena
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_RADDISH:
+  name: Trintas ridikas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_RADICCHIO:
+  name: Trinta radikija
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_RAPESEED:
+  name: Trinti rapsai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_RED_MUSHROOM:
+  name: Trintas raudonas grybas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_RHUBARB:
+  name: Trintas rabarbaras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_RICE:
+  name: Trinti ryžiai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_ROSEMARY:
+  name: Trintas rozmarinas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_ROTTEN_FLESH:
+  name: Trinta supuvusi mėsa
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_RUNNER_BEANS:
+  name: Trintos daugiažiedės pupelės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_RUTABAGA:
+  name: Trintas griežtis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_SALMON:
+  name: Trinta lašiša
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_SASSAFRAS:
+  name: Trintas sasafras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_SHALLOT:
+  name: Trintas askaloninis česnakas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_SHISO:
+  name: Trinta perila
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_SOY_BEANS:
+  name: Trintos sojos pupelės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_SPINACH:
+  name: Trinti špinatai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_STAR_ANISE:
+  name: Trintas žvaigždanyžis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_STRAWBERRY:
+  name: Trinta braškė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_SUGAR:
+  name: Trintas cukrus
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_SWEETCORN:
+  name: Trinti cukriniai kukurūzai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_SWEET_BERRIES:
+  name: Trintos saldžiosios uogos
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_SWEET_POTATO:
+  name: Trinta saldžioji bulvė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_TARRAGON:
+  name: Trintas peletrūnas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_THYME:
+  name: Trintas čiobrelis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_TOMATO:
+  name: Trintas pomidoras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_TURMERIC:
+  name: Trinta ciberžolė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_TURNIP:
+  name: Trinta ropė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_VANILLA:
+  name: Trinta vanilė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_WASABI:
+  name: Trintas vasabis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLENDED_WHEAT:
+  name: Trinti kviečiai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BLUE_CANDY:
+  name: Mėlynas saldainis
+  type:
+  - '&7&oMaistas'
+  description:
+  - Nuostabiai saldus saldainis.
+  stats:
+  - '&8⇨ &7Iškviečia Alėjų'
+CLT_BOILED_APPLE:
+  name: Virtas obuolys
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_APRICOT:
+  name: Virtas abrikosas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_ARTICHOKE:
+  name: Virtas artišokas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_ASPARAGUS:
+  name: Virtas smidras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_AUBERGINE:
+  name: Virtas baklažanas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_AVOCADO:
+  name: Virtas avokadas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_BANANA:
+  name: Virtas bananas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_BASIL:
+  name: Virtas bazilikas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_BAY_LEAF:
+  name: Virtas lauro lapas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_BEEF:
+  name: Virta jautiena
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_BEETROOT:
+  name: Virtas burokėlis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_BELL_PEPPER:
+  name: Virta paprika
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_BLACK_BEANS:
+  name: Virtos juodosios pupelės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_BREAD:
+  name: Virta duona
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_BROCCOLI:
+  name: Virtas brokolis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_BROWN_MUSHROOM:
+  name: Virtas rudas grybas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_BRUSSELS_SPROUTS:
+  name: Virti briuselio kopūstai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_CABBAGE:
+  name: Virtas kopūstas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_CARROT:
+  name: Virta morka
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_CAULIFLOWER:
+  name: Virtas žiedinis kopūstas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_CAYENNE_PEPPER:
+  name: Virtas kajeno pipiras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_CELERIAC:
+  name: Virtas gumbinis salieras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_CELERY:
+  name: Virtas salieras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_CHERRY:
+  name: Virta vyšnia
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_CHESTNUT:
+  name: Virtas kaštonas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_CHICKEN:
+  name: Virta vištiena
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_CHICKPEAS:
+  name: Virti avinžirniai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_CHICORY:
+  name: Virta cikorija
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_CHILLY_PEPPER:
+  name: Virtas čili pipiras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_CHIVES:
+  name: Virti laiškiniai česnakai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_CHORUS_FRUIT:
+  name: Virtas koruso vaisius
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_CILANTRO:
+  name: Virta kalendra
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_CINNAMON:
+  name: Virtas cinamonas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_CLOVE:
+  name: Virtas gvazdikėlis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_COCOA_BEANS:
+  name: Virtos kakavos pupelės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_COD:
+  name: Virta menkė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_COURGETTE:
+  name: Virta cukinija
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_CUCUMBER:
+  name: Virtas agurkas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_CUMIN:
+  name: Virtas kuminas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_CURRY_LEAF:
+  name: Virtas kario lapas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_DILL:
+  name: Virti krapai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_EGG:
+  name: Virtas kiaušinis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_ENCHANTED_GOLDEN_APPLE:
+  name: Virtas užkerėtas auksinis obuolys
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_FENNEL:
+  name: Virtas pankolis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_GARLIC:
+  name: Virtas česnakas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_GINGER:
+  name: Virtas imbieras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_GLOW_BERRIES:
+  name: Virtos švytinčios uogos
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_GOLDEN_APPLE:
+  name: Virtas auksinis obuolys
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_GOLDEN_CARROT:
+  name: Virta auksinė morka
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_GRAPE:
+  name: Virta vynuogė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_GREEN_APPLE:
+  name: Virtas žalias obuolys
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_GREEN_BEANS:
+  name: Virtos šparaginės pupelės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_GREEN_ONION:
+  name: Virtas laiškinis svogūnas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_HAZELNUT:
+  name: Virtas lazdyno riešutas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_HORSERADISH:
+  name: Virtas krienas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_JALAPENO:
+  name: Virtas jalapenjo pipiras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_JASMINE:
+  name: Virtas jazminas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_JUNIPER_BERRY:
+  name: Virtos kadagio uogos
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_KAFFIR_LIME:
+  name: Virtas kafrinio laimo lapas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_KALE:
+  name: Virtas lapinis kopūstas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_KELP:
+  name: Virti rudadumbliai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_KIWI:
+  name: Virtas kivis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_LAVENDER:
+  name: Virta levanda
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_LEEK:
+  name: Virtas poras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_LEMON:
+  name: Virta citrina
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_LETTUCE:
+  name: Virtos salotos
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_LICORICE:
+  name: Virtas saldymedis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_LIME:
+  name: Virtas laimas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_MACE:
+  name: Virtas muskato žiedas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_MANGO:
+  name: Virtas mangas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_MARJORAM:
+  name: Virtas mairūnas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_MARROW:
+  name: Virtas kabačkas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_MELON:
+  name: Virtas arbūzas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_MINT:
+  name: Virta mėta
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_MUSTARD_SEEDS:
+  name: Virtos garstyčių sėklos
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_MUTTON:
+  name: Virta aviena
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_NETTLES:
+  name: Virtos dilgėlės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_OKRA:
+  name: Virta okra
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_ONION:
+  name: Virtas svogūnas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_ORANGE:
+  name: Virtas apelsinas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_OREGANO:
+  name: Virtas raudonėlis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_PARSLEY:
+  name: Virtos petražolės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_PARSNIP:
+  name: Virtas pastarnokas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_PEA:
+  name: Virti žirniai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_PEACH:
+  name: Virtas persikas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_PEANUT:
+  name: Virtas žemės riešutas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_PEAR:
+  name: Virta kriaušė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_PECAN:
+  name: Virtas pekano riešutas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_PEPPER:
+  name: Virti juodieji pipirai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_PEPPERONI:
+  name: Virta peperoni dešra
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_PINEAPPLE:
+  name: Virtas ananasas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_PINTO_BEANS:
+  name: Virtos margosios pupelės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_PORKCHOP:
+  name: Virta kiauliena
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_POTATO:
+  name: Virta bulvė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_PUFFERFISH:
+  name: Virta pūsliažuvė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_PUMPKIN:
+  name: Virtas moliūgas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_RABBIT:
+  name: Virta triušiena
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_RADDISH:
+  name: Virtas ridikas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_RADICCHIO:
+  name: Virta radikija
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_RAPESEED:
+  name: Virti rapsai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_RED_MUSHROOM:
+  name: Virtas raudonas grybas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_RHUBARB:
+  name: Virtas rabarbaras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_RICE:
+  name: Virti ryžiai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_ROSEMARY:
+  name: Virtas rozmarinas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_ROTTEN_FLESH:
+  name: Virta supuvusi mėsa
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_RUNNER_BEANS:
+  name: Virtos daugiažiedės pupelės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_RUTABAGA:
+  name: Virtas griežtis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_SALMON:
+  name: Virta lašiša
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_SASSAFRAS:
+  name: Virtas sasafras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_SHALLOT:
+  name: Virtas askaloninis česnakas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_SHISO:
+  name: Virta perila
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_SOY_BEANS:
+  name: Virtos sojos pupelės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_SPINACH:
+  name: Virti špinatai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_STAR_ANISE:
+  name: Virtas žvaigždanyžis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_STRAWBERRY:
+  name: Virta braškė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_SUGAR:
+  name: Virtas cukrus
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_SWEETCORN:
+  name: Virti cukriniai kukurūzai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_SWEET_BERRIES:
+  name: Virtos saldžiosios uogos
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_SWEET_POTATO:
+  name: Virta saldžioji bulvė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_TARRAGON:
+  name: Virtas peletrūnas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_THYME:
+  name: Virtas čiobrelis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_TOMATO:
+  name: Virtas pomidoras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_TURMERIC:
+  name: Virta ciberžolė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_TURNIP:
+  name: Virta ropė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_VANILLA:
+  name: Virta vanilė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_WASABI:
+  name: Virtas vasabis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOILED_WHEAT:
+  name: Virti kviečiai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_BOWL_OF_STEVE:
+  name: Dubenėlis... Steve?
+  type:
+  - '&7&oMaistas'
+  description:
+  - Kas per &%£$
+  stats:
+  - '&8⇨ &bKasimo nuovargis X &7(10:00)'
+  - '&8⇨ &bLėtumas VI &7(10:00)'
+  - '&8⇨ &bJėga X &7(10:00)'
+  - '&8⇨ &7Sumažina tavo sveikatą iki 1/2 širdelės'
+CLT_BROCCOLI:
+  name: Brokolis
+  type:
+  - '&7&oDerlius'
+  description:
+  - Ar tu milžinas, laikantis medį?
+  - Ne, tik mažytis medelis :)
+CLT_BRUSSELS_SPROUTS:
+  name: Briuselio kopūstai
+  type:
+  - '&7&oDerlius'
+  description:
+  - Dujinis malonumas.
+CLT_BUSH_ARTICHOKE:
+  name: Artišokų krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Prie šio krūmo net artistai šoka. Supratai?
+  - Ech. Kalambūrai sunkūs.
+CLT_BUSH_ASPARAGUS:
+  name: Smidrų krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Šis smidrų krūmas visada
+  - stiebiasi aukštyn!
+CLT_BUSH_AUBERGINE:
+  name: Baklažanų krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Atsisakau vadinti jį kiaušinių augalu. Tiesiog atsisakau.
+CLT_BUSH_AVOCADO:
+  name: Avokadų krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Šis krūmas specialiai išvestas taip, kad
+  - nenaudotų per daug vandens.
+CLT_BUSH_BASIL:
+  name: Baziliko krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Lengvabūdiškas krūmas, pilnas žaismingumo.
+CLT_BUSH_BAY_LEAF:
+  name: Lauro krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Šio krūmo kvapas sklinda kilometrus.
+CLT_BUSH_BELL_PEPPER:
+  name: Paprikų krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Atsargiai eidamas pro šalį, gali
+  - netyčia paskambinti varpeliu.
+CLT_BUSH_BLACK_BEANS:
+  name: Juodųjų pupelių krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - 'Šis krūmas švelniai tau šnabžda:'
+  - Tu nuostabi žmogiška pupelė.
+CLT_BUSH_BROCCOLI:
+  name: Brokolių krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Mažyčiai medeliai, kuriuos galima valgyti? Kas tai sugalvojo!?
+CLT_BUSH_BRUSSELS_SPROUTS:
+  name: Briuselio kopūstų krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Krūmas, kuris kartais išskiria kenksmingų
+  - dujų.
+CLT_BUSH_CABBAGE:
+  name: Kopūstų krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Krūmas, nešantis didžiulį
+  - emocinių kopūstų bagažą.
+CLT_BUSH_CAULIFLOWER:
+  name: Žiedinių kopūstų krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Krūmas, galintis užauginti mažus
+  - malonumo debesėlius.
+CLT_BUSH_CAYENNE_PEPPER:
+  name: Kajeno pipirų krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Krūmas su pipirišku charakteriu.
+CLT_BUSH_CELERIAC:
+  name: Gumbinių salierų krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Dar vienas šakniavaisis, augantis ant krūmo?
+  - SefiDumb™
+CLT_BUSH_CELERY:
+  name: Salierų krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Šis krūmas nereikalingas.
+  - Sefi nemėgsta salierų.
+CLT_BUSH_CHICKPEAS:
+  name: Avinžirnių krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Krūmas, išvestas sukryžminus avį
+  - su žirniu. MOKSLAS.
+CLT_BUSH_CHICORY:
+  name: Cikorijų krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Maniau, kad cikorija yra šaknis? Ar šis priedas
+  - išvis ką nors tyrinėja!?
+CLT_BUSH_CHILLI_PEPPER:
+  name: Čili pipirų krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Vien žiūrint į šį krūmą dega liežuvis.
+CLT_BUSH_CHIVES:
+  name: Laiškinių česnakų krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Krūmas, iš esmės auginantis mažiausią
+  - pasaulio svogūną.
+CLT_BUSH_CILANTRO:
+  name: Kalendrų krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Iš šio krūmo sklinda silpnas citrusų ir prieskonių kvapas.
+CLT_BUSH_CINNAMON:
+  name: Cinamono krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Nuostabiai kvapnus krūmas.
+CLT_BUSH_CLOVE:
+  name: Gvazdikėlių krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Krūmas, kuris man tiesiog primena Kalėdas.
+CLT_BUSH_COURGETTE:
+  name: Cukinijų krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Kodėl šis krūmas vis šaukia žodį
+  - Zucchini? Gal jis amerikietis?
+CLT_BUSH_CUCUMBER:
+  name: Agurkų krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Šis krūmas sukurtas vien tam, kad
+  - papuoštų tavo nuostabias vasaros salotas.
+CLT_BUSH_CUMIN:
+  name: Kumino krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Krūmas, skleidžiantis šiltą citrusų aromatą.
+CLT_BUSH_CURRY_LEAF:
+  name: Kario krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Geriausias paskrudintas be aliejaus.
+CLT_BUSH_DILL:
+  name: Krapų krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Šis krūmas auga daug greičiau nei kiti.
+CLT_BUSH_FENNEL:
+  name: Pankolių krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Kodėl šis krūmas atbaido vabzdžius!?
+CLT_BUSH_GARLIC:
+  name: Česnakų krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Šio krūmo kvapas iš burnos tiesiog baisiausias.
+CLT_BUSH_GINGER:
+  name: Imbiero krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Šis krūmas skanus išvirtas visas.
+CLT_BUSH_GRAPE:
+  name: Vynuogių krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Prinokusios, sultingos vynuogės, kurios pačios krenta
+  - nuo krūmo.
+CLT_BUSH_GREEN_BEANS:
+  name: Šparaginių pupelių krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Užpilk šį krūmą pomidorų padažu ir
+  - gausi keptų pupelių.
+CLT_BUSH_GREEN_ONION:
+  name: Laiškinių svogūnų krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Dar žinomi kaip svogūnų laiškai.
+  - Laiškiniai svogūnai paprastai būna
+  - švelnesnio skonio nei dauguma svogūnų.
+CLT_BUSH_HORSERADISH:
+  name: Krienų krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Vėlgi, kad tai auga ant krūmo, visiškai nelogiška.
+CLT_BUSH_JALAPENO:
+  name: Jalapenjo pipirų krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Vien laikant šį krūmą yra
+  - 1% tikimybė užsiliepsnoti.
+CLT_BUSH_JASMINE:
+  name: Jazmino krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Šio krūmo kvapas toks švelnus ir ramus.
+CLT_BUSH_JUNIPER_BERRY:
+  name: Kadagio krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Toks saldus ant krūmo, toks pipiriškas išdžiovintas.
+CLT_BUSH_KAFFIR_LIME:
+  name: Kafrinio laimo krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Krūmas, kurio lapai geidžiami labiau nei vaisiai.
+CLT_BUSH_KALE:
+  name: Lapinių kopūstų krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Pasodinęs šį krūmą jauti, kad viskas
+  - bus gerai. Na, bent jau lapai bus.
+CLT_BUSH_LAVENDER:
+  name: Levandų krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Šis krūmas skleidžia savo kvapą visur.
+CLT_BUSH_LEEK:
+  name: Porų krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Ar žinojai, kad poras tėra svogūnas,
+  - dėvintis korsetą? Tikra istorija.
+CLT_BUSH_LETTUCE:
+  name: Salotų krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Ar salotos išvis auga ant krūmų?
+  - 'Atskleisiu: ne, neauga.'
+CLT_BUSH_LICORICE:
+  name: Saldymedžio krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Fui
+CLT_BUSH_MACE:
+  name: Muskatmedžio krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Atrodo, šis krūmas atbaido užpuolikus?
+CLT_BUSH_MARJORAM:
+  name: Mairūno krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Didelis, medžiu kvepiantis krūmas.
+CLT_BUSH_MARROW:
+  name: Kabačkų krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Stebiuosi, kad šis krūmas išlaiko
+  - savo paties svorį.
+CLT_BUSH_MINT:
+  name: Mėtų krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Tiesiog geriausiai kvepiantis krūmas.
+CLT_BUSH_MUSTARD:
+  name: Garstyčių sėklų krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Kaip ugnis burnoje.
+CLT_BUSH_NETTLES:
+  name: Dilgėlių krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Atsargiai brisdamas per šį krūmą!
+CLT_BUSH_OKRA:
+  name: Okrų krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Išrinkta 1 daržove pagal
+  - Okros Winfrey daržovių klubą.
+CLT_BUSH_ONION:
+  name: Svogūnų krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Ar šis krūmas atrodo, lyg tuoj apsiverks?
+CLT_BUSH_OREGANO:
+  name: Raudonėlio krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Šis aštriai kvepiantis krūmas atbaido lankytojus.
+CLT_BUSH_PARSLEY:
+  name: Petražolių krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Mesk šį krūmą į lavą, tuoj pat :D
+CLT_BUSH_PARSNIP:
+  name: Pastarnokų krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Apsieik be tarpininko ir kepk
+  - tiesiai visą krūmą.
+CLT_BUSH_PEA:
+  name: Žirnių krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Man labiau patinka Q raidė
+CLT_BUSH_PEANUTS:
+  name: Žemės riešutų krūmas
+  type:
+  - '&7&oKrūmas'
+  description: &id001
+  - Tvirtos, kvapnios ir pilnos baltymų.
+CLT_BUSH_PEPPER:
+  name: Juodųjų pipirų krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Juodieji pipirai buvo svarbi
+  - prieskonių prekybos tarp Indijos ir Europos dalis
+  - jau graikų ir romėnų laikais.
+CLT_BUSH_PINTO_BEANS:
+  name: Margųjų pupelių krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Netrukus tikrai išvesime krūmą,
+  - ant kurio iškart augs buritai, tiesa?
+CLT_BUSH_RADDISH:
+  name: Ridikų krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Šis augalas ką tik atliko riedlentės triuką.
+  - Visiškai ridik...uliška.
+CLT_BUSH_RADICCHIO:
+  name: Radikijų krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Nori atrodyti prašmatniai? Dėk radikijos į bet kurį
+  - patiekalą, iš esmės tai kaip kopūstas, bet
+  - atrodysi rafinuotas.
+CLT_BUSH_RAPESEED:
+  name: Rapsų krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Šis krūmas išskiria kažkokią aliejingą medžiagą.
+CLT_BUSH_RHUBARB:
+  name: Rabarbarų krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Ar žinojai, kad rabarbaras yra daržovė?
+  - Maniau, kad tai toks plaktukas.
+CLT_BUSH_RICE:
+  name: Ryžių krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Svarbiausias kasdienis maistas.
+CLT_BUSH_ROSEMARY:
+  name: Rozmarino krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Krūmas, kurio kvapas primena sekmadienio pietus.
+CLT_BUSH_RUNNER_BEANS:
+  name: Daugiažiedžių pupelių krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Šis krūmas turi kojas o.o?
+CLT_BUSH_RUTABAGA:
+  name: Griežčių krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Griežtis. Tai griežtis.
+CLT_BUSH_SASSAFRAS:
+  name: Sasafro krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Šis krūmas mėgsta augti prie mažų
+  - vandens telkinių.
+CLT_BUSH_SHALLOT:
+  name: Askaloninių česnakų krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Šis krūmas sparčiai augina mielus svogūnėlius.
+  - Laimei, juos pjaustant nereikia verkti.
+CLT_BUSH_SHISO:
+  name: Perilų krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Mėgstu galvoti, kad šis krūmas yra meilės vaikas
+  - mėtų ir baziliko krūmų. Gaila, kad
+  - krūmų kryžminimas neegzistuoja!
+CLT_BUSH_SOY_BEANS:
+  name: Sojos pupelių krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Šis krūmas yra draugiškas malonumas. Su juo
+  - mano diena tampa sojaus... tai yra, saldi.
+CLT_BUSH_SPINACH:
+  name: Špinatų krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Šis krūmas yra geriausias jūreivio Papajaus draugas.
+CLT_BUSH_STAR_ANISE:
+  name: Žvaigždanyžio krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Iš šio krūmo sklinda toks savitas anyžių
+  - kvapas, kad net patikėti negali.
+CLT_BUSH_STRAWBERRY:
+  name: Braškių krūmas
+  type:
+  - '&7&oKrūmas'
+  description: *id001
+CLT_BUSH_SWEETCORN:
+  name: Cukrinių kukurūzų krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Šis krūmas tiesiog prašosi paverčiamas
+  - labirintu.
+CLT_BUSH_SWEET_POTATO:
+  name: Saldžiųjų bulvių krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Šis krūmas toks mielas. Girdėjau, kaip jis
+  - tave gyrė, kol tu neklausei.
+CLT_BUSH_TARRAGON:
+  name: Peletrūno krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Šis krūmas nemėgsta traukti per daug dėmesio.
+CLT_BUSH_THYME:
+  name: Čiobrelių krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Šiam krūmui vis pritrūksta... laiko... *kosti*
+CLT_BUSH_TOMATO:
+  name: Pomidorų krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Prinokęs ir paruoštas.
+CLT_BUSH_TURMERIC:
+  name: Ciberžolės krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Vos paėmus šį krūmą, į nosį
+  - trenkia prieskonių banga.
+CLT_BUSH_TURNIP:
+  name: Ropių krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Pasak Didžiosios Britanijos vyriausybės,
+  - šis krūmas išspręs visas mūsų problemas.
+CLT_BUSH_VANILLA:
+  name: Vanilės krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Šis krūmas natūraliai auga prie StarBucks kavinių.
+CLT_BUSH_WASABI:
+  name: Vasabio krūmas
+  type:
+  - '&7&oKrūmas'
+  description:
+  - Dar vienas šakniavaisis ant krūmo?
+  - Ech...
+CLT_CABBAGE:
+  name: Kopūstas
+  type:
+  - '&7&oDerlius'
+  description:
+  - Kopūstų bagažas.
+CLT_CAESAR_SALAD:
+  name: Cezario salotos
+  type:
+  - '&7&oMaistas'
+  description:
+  - Sveika klasika.
+  stats:
+  - '&8⇨ &7Gydymas: &b6 širdelės'
+  - '&8⇨ &bGreitis I &7(10:00)'
+  - '&8⇨ &bNematomumas I &7(10:00)'
+  - '&8⇨ &bLėtas kritimas I &7(10:00)'
+CLT_CAJUN_GARLIC_BUTTER_COD:
+  name: Menkė su kadžunišku česnakiniu sviestu
+  type:
+  - '&7&oMaistas'
+  description:
+  - Labai paprastas patiekalas, trykštantis skoniu.
+  stats:
+  - '&8⇨ &7Gydymas: &b4 širdelės'
+  - '&8⇨ &bAtgijimas II &7(10:00)'
+  - '&8⇨ &bGreitis I &7(10:00)'
+CLT_CAULIFLOWER:
+  name: Žiedinis kopūstas
+  type:
+  - '&7&oDerlius'
+  description:
+  - Nešiojamas debesis!
+CLT_CAYENNE_PEPPER:
+  name: Kajeno pipiras
+  type:
+  - '&7&oDerlius'
+  description:
+  - Švelniai aštrus skanėstas.
+CLT_CELERIAC:
+  name: Gumbinis salieras
+  type:
+  - '&7&oDerlius'
+  description:
+  - Sotus šakniavaisis, giliai įsišaknijęs (che) į
+  - daugybę tradicinių receptų.
+CLT_CELERY:
+  name: Salieras
+  type:
+  - '&7&oDerlius'
+  description:
+  - Tiesiog plaušinis vanduo. Įtikink
+  - mane, kad ne.
+CLT_CHEESE_BURGER:
+  name: Mėsainis
+  type:
+  - '&7&oMaistas'
+  description:
+  - Paprastas mėsainis su sūriu, bet niekas jo nepranoks!
+  stats:
+  - '&8⇨ &7Gydymas: &b4 širdelės'
+  - '&8⇨ &bAtgijimas III &7(10:00)'
+CLT_CHEESY_SCALLOPED_COURGETTE:
+  name: Cukinijų apkepas su sūriu
+  type:
+  - '&7&oMaistas'
+  description:
+  - Mažai angliavandenių turinti nuostabios klasikos versija.
+  stats:
+  - '&8⇨ &7Gydymas: &b2 širdelės'
+  - '&8⇨ &bNaktinis matymas I &7(10:00)'
+  - '&8⇨ &bNematomumas I &7(10:00)'
+CLT_CHERRY:
+  name: Vyšnia
+  type:
+  - '&7&oDerlius'
+  description:
+  - O, maniau, kad jos užauga jau glazūruotos, gaila!
+CLT_CHESTNUT:
+  name: Kaštonas
+  type:
+  - '&7&oDerlius'
+  description:
+  - Sukurtas tam, kad būtų tuoj pat iškeptas.
+CLT_CHICKEN_ALFREDO_MAC_AND_CHEESE:
+  name: Makaronai su sūriu ir vištiena Alfredo
+  type:
+  - '&7&oMaistas'
+  description:
+  - Prašmatnus įprastos klasikos variantas.
+  stats:
+  - '&8⇨ &7Gydymas: &b1 širdelė'
+  - '&8⇨ &bAtsparumas ugniai II &7(10:00)'
+  - '&8⇨ &bAtsparumas III &7(10:00)'
+CLT_CHICKEN_PASTA_BAKE:
+  name: Vištienos ir makaronų apkepas
+  type:
+  - '&7&oMaistas'
+  description:
+  - Kiekvieno studento kasdienybė.
+  stats:
+  - '&8⇨ &7Gydymas: &b5 širdelės'
+  - '&8⇨ &bNaktinis matymas I &7(10:00)'
+  - '&8⇨ &bKvėpavimas vandeniu I &7(10:00)'
+CLT_CHICKEN_POT_PIE:
+  name: Vištienos apkepas
+  type:
+  - '&7&oMaistas'
+  description:
+  - Šildantis patiekalas, primenantis namus.
+  stats:
+  - '&8⇨ &7Gydymas: &b10 širdelių'
+  - '&8⇨ &bŠoklumas II &7(10:00)'
+  - '&8⇨ &bPrisotinimas I &7(10:00)'
+CLT_CHICKPEAS:
+  name: Avinžirniai
+  type:
+  - '&7&oDerlius'
+  description:
+  - Juodaakiai žirniai moka uždainuoti, o avinžirniai gali tik pahumusuoti.
+CLT_CHICORY:
+  name: Cikorija
+  type:
+  - '&7&oDerlius'
+  description:
+  - Riešutų prieskonio, kartus šakniavaisis.
+CLT_CHILLY_PEPPER:
+  name: Čili pipiras
+  type:
+  - '&7&oDerlius'
+  description:
+  - Galiu suvalgyti visą pipirą neverkdamas.
+  - Na, pusę.
+  - NAAAAAA.... 1/4
+  - '...'
+  - Gerai, galiu jį paliesti liežuviu
+CLT_CHIVES:
+  name: Laiškiniai česnakai
+  type:
+  - '&7&oDerlius'
+  description:
+  - Saldi, svogūnų skonio žolelė.
+CLT_CHOPPED_APPLE:
+  name: Kapotas obuolys
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_APRICOT:
+  name: Kapotas abrikosas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_ARTICHOKE:
+  name: Kapotas artišokas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_ASPARAGUS:
+  name: Kapotas smidras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_AUBERGINE:
+  name: Kapotas baklažanas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_AVOCADO:
+  name: Kapotas avokadas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_BANANA:
+  name: Kapotas bananas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_BASIL:
+  name: Kapotas bazilikas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_BAY_LEAF:
+  name: Kapotas lauro lapas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_BEEF:
+  name: Kapota jautiena
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_BEETROOT:
+  name: Kapotas burokėlis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_BELL_PEPPER:
+  name: Kapota paprika
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_BLACK_BEANS:
+  name: Kapotos juodosios pupelės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_BREAD:
+  name: Kapota duona
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_BROCCOLI:
+  name: Kapotas brokolis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_BROWN_MUSHROOM:
+  name: Kapotas rudas grybas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_BRUSSELS_SPROUTS:
+  name: Kapoti briuselio kopūstai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_CABBAGE:
+  name: Kapotas kopūstas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_CARROT:
+  name: Kapota morka
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_CAULIFLOWER:
+  name: Kapotas žiedinis kopūstas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_CAYENNE_PEPPER:
+  name: Kapotas kajeno pipiras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_CELERIAC:
+  name: Kapotas gumbinis salieras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_CELERY:
+  name: Kapotas salieras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_CHERRY:
+  name: Kapota vyšnia
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_CHESTNUT:
+  name: Kapotas kaštonas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_CHICKEN:
+  name: Kapota vištiena
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_CHICKPEAS:
+  name: Kapoti avinžirniai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_CHICORY:
+  name: Kapota cikorija
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_CHILLY_PEPPER:
+  name: Kapotas čili pipiras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_CHIVES:
+  name: Kapoti laiškiniai česnakai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_CHORUS_FRUIT:
+  name: Kapotas koruso vaisius
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_CILANTRO:
+  name: Kapota kalendra
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_CINNAMON:
+  name: Kapotas cinamonas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_CLOVE:
+  name: Kapotas gvazdikėlis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_COCOA_BEANS:
+  name: Kapotos kakavos pupelės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_COD:
+  name: Kapota menkė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_COURGETTE:
+  name: Kapota cukinija
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_CUCUMBER:
+  name: Kapotas agurkas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_CUMIN:
+  name: Kapotas kuminas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_CURRY_LEAF:
+  name: Kapotas kario lapas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_DILL:
+  name: Kapoti krapai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_EGG:
+  name: Kapotas kiaušinis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_ENCHANTED_GOLDEN_APPLE:
+  name: Kapotas užkerėtas auksinis obuolys
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_FENNEL:
+  name: Kapotas pankolis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_GARLIC:
+  name: Kapotas česnakas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_GINGER:
+  name: Kapotas imbieras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_GLOW_BERRIES:
+  name: Kapotos švytinčios uogos
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_GOLDEN_APPLE:
+  name: Kapotas auksinis obuolys
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_GOLDEN_CARROT:
+  name: Kapota auksinė morka
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_GRAPE:
+  name: Kapota vynuogė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_GREEN_APPLE:
+  name: Kapotas žalias obuolys
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_GREEN_BEANS:
+  name: Kapotos šparaginės pupelės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_GREEN_ONION:
+  name: Kapotas laiškinis svogūnas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_HAZELNUT:
+  name: Kapotas lazdyno riešutas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_HORSERADISH:
+  name: Kapotas krienas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_JALAPENO:
+  name: Kapotas jalapenjo pipiras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_JASMINE:
+  name: Kapotas jazminas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_JUNIPER_BERRY:
+  name: Kapotos kadagio uogos
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_KAFFIR_LIME:
+  name: Kapotas kafrinio laimo lapas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_KALE:
+  name: Kapotas lapinis kopūstas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_KELP:
+  name: Kapoti rudadumbliai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_KIWI:
+  name: Kapotas kivis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_LAVENDER:
+  name: Kapota levanda
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_LEEK:
+  name: Kapotas poras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_LEMON:
+  name: Kapota citrina
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_LETTUCE:
+  name: Kapotos salotos
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_LICORICE:
+  name: Kapotas saldymedis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_LIME:
+  name: Kapotas laimas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_MACE:
+  name: Kapotas muskato žiedas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_MANGO:
+  name: Kapotas mangas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_MARJORAM:
+  name: Kapotas mairūnas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_MARROW:
+  name: Kapotas kabačkas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_MELON:
+  name: Kapotas arbūzas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_MINT:
+  name: Kapota mėta
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_MUSTARD_SEEDS:
+  name: Kapotos garstyčių sėklos
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_MUTTON:
+  name: Kapota aviena
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_NETTLES:
+  name: Kapotos dilgėlės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_OKRA:
+  name: Kapota okra
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_ONION:
+  name: Kapotas svogūnas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_ORANGE:
+  name: Kapotas apelsinas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_OREGANO:
+  name: Kapotas raudonėlis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_PARSLEY:
+  name: Kapotos petražolės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_PARSNIP:
+  name: Kapotas pastarnokas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_PEA:
+  name: Kapoti žirniai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_PEACH:
+  name: Kapotas persikas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_PEANUT:
+  name: Kapotas žemės riešutas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_PEAR:
+  name: Kapota kriaušė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_PECAN:
+  name: Kapotas pekano riešutas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_PEPPER:
+  name: Kapoti juodieji pipirai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_PEPPERONI:
+  name: Kapota peperoni dešra
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_PINEAPPLE:
+  name: Kapotas ananasas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_PINTO_BEANS:
+  name: Kapotos margosios pupelės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_PORKCHOP:
+  name: Kapota kiauliena
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_POTATO:
+  name: Kapota bulvė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_PUFFERFISH:
+  name: Kapota pūsliažuvė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_PUMPKIN:
+  name: Kapotas moliūgas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_RABBIT:
+  name: Kapota triušiena
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_RADDISH:
+  name: Kapotas ridikas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_RADICCHIO:
+  name: Kapota radikija
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_RAPESEED:
+  name: Kapoti rapsai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_RED_MUSHROOM:
+  name: Kapotas raudonas grybas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_RHUBARB:
+  name: Kapotas rabarbaras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_RICE:
+  name: Kapoti ryžiai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_ROSEMARY:
+  name: Kapotas rozmarinas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_ROTTEN_FLESH:
+  name: Kapota supuvusi mėsa
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_RUNNER_BEANS:
+  name: Kapotos daugiažiedės pupelės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_RUTABAGA:
+  name: Kapotas griežtis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_SALMON:
+  name: Kapota lašiša
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_SASSAFRAS:
+  name: Kapotas sasafras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_SHALLOT:
+  name: Kapotas askaloninis česnakas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_SHISO:
+  name: Kapota perila
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_SOY_BEANS:
+  name: Kapotos sojos pupelės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_SPINACH:
+  name: Kapoti špinatai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_STAR_ANISE:
+  name: Kapotas žvaigždanyžis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_STRAWBERRY:
+  name: Kapota braškė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_SUGAR:
+  name: Kapotas cukrus
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_SWEETCORN:
+  name: Kapoti cukriniai kukurūzai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_SWEET_BERRIES:
+  name: Kapotos saldžiosios uogos
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_SWEET_POTATO:
+  name: Kapota saldžioji bulvė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_TARRAGON:
+  name: Kapotas peletrūnas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_THYME:
+  name: Kapotas čiobrelis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_TOMATO:
+  name: Kapotas pomidoras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_TURMERIC:
+  name: Kapota ciberžolė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_TURNIP:
+  name: Kapota ropė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_VANILLA:
+  name: Kapota vanilė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_WASABI:
+  name: Kapotas vasabis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CHOPPED_WHEAT:
+  name: Kapoti kviečiai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_CILANTRO:
+  name: Kalendra
+  type:
+  - '&7&oDerlius'
+  description:
+  - Švelnus prieskonis su citrusų natomis.
+CLT_CINNAMON:
+  name: Cinamonas
+  type:
+  - '&7&oDerlius'
+  description:
+  - Puiku pakramtyti lazdelės pavidalu.
+CLT_CINNAMON_ROLL:
+  name: Cinamoninė bandelė
+  type:
+  - '&7&oMaistas'
+  description:
+  - Saldus malonumas, susuktas dėl smagumo.
+  - Jį suvalgius pasaulis apsiverčia aukštyn kojomis!
+  stats:
+  - '&8⇨ &7Gydymas: &b4 širdelės'
+  - '&8⇨ &bLevitacija I &7(10:00)'
+  - '&8⇨ &bLėtas kritimas I &7(10:00)'
+CLT_CLOVE:
+  name: Gvazdikėlis
+  type:
+  - '&7&oDerlius'
+  description:
+  - Labai šiltas ir intensyvus skonis.
+CLT_COMPRESSED_BISCUIT:
+  name: Suspaustas sausainis
+  type:
+  - '&7&oMaistas'
+  description:
+  - Mažas užkandis su dar didžiulesniu skoniu.
+  stats: *id002
+CLT_COOKED_BURGER_PATTY:
+  name: Iškeptas mėsainio paplotėlis
+  type:
+  - '&7&oDerlius'
+  description:
+  - Varvantis sultimis
+CLT_COUNTER_BLENDER:
+  name: Virtuvės stalas (trintuvas)
+  type:
+  - '&7&oĮrenginys'
+  description:
+  - Spustelėk šį bloką dešiniuoju, kad sutrintum derlių.
+  usage: &id003
+  - Patarimas! Pastatęs bloką, spustelėk shift + dešinįjį
+  - mygtuką, ir laikomi blokai
+  - pakeis virtuvės dizainą. Išbandyk!
+CLT_COUNTER_BOILING:
+  name: Virtuvės stalas (virimo puodas)
+  type:
+  - '&7&oĮrenginys'
+  description:
+  - Gali virti tam tikrus daiktus.
+  usage: *id003
+CLT_COUNTER_CHOPPING:
+  name: Virtuvės stalas (kapojimo lenta)
+  type:
+  - '&7&oĮrenginys'
+  description:
+  - Spustelėk šį bloką dešiniuoju, kad sukapotum derlių.
+  usage: *id003
+CLT_COUNTER_FINISHING:
+  name: Virtuvės stalas (užbaigimas)
+  type:
+  - '&7&oĮrenginys'
+  description:
+  - Naudojamas produktams ir šalutiniams produktams
+  - paversti kitais šalutiniais produktais ar patiekalais.
+  usage: *id003
+CLT_COUNTER_FRYING:
+  name: Virtuvės stalas (keptuvė)
+  type:
+  - '&7&oĮrenginys'
+  description:
+  - Gali kepti keptuvėje tam tikrą derlių.
+  usage: *id003
+CLT_COUNTER_GRILL:
+  name: Virtuvės stalas (grilis)
+  type:
+  - '&7&oĮrenginys'
+  description:
+  - Gali grilinti tam tikrą derlių.
+  usage: *id003
+CLT_COUNTER_GRINDER:
+  name: Virtuvės stalas (grūstuvė su piestele)
+  type:
+  - '&7&oĮrenginys'
+  description:
+  - Spustelėk šį bloką dešiniuoju, kad sumaltum derlių.
+  usage: *id003
+CLT_COUNTER_MASHER:
+  name: Virtuvės stalas (grūdimo dubuo)
+  type:
+  - '&7&oĮrenginys'
+  description:
+  - Spustelėk šį bloką dešiniuoju, kad sugrūstum derlių.
+  usage: *id003
+CLT_COUNTER_NOTHING:
+  name: Virtuvės stalas (tuščias)
+  type:
+  - '&7&oĮrenginys'
+  description:
+  - Tik dekoracijai!
+  usage: *id003
+CLT_COUNTER_OVEN:
+  name: Virtuvės stalas (orkaitė)
+  type:
+  - '&7&oĮrenginys'
+  description:
+  - Gali kepti orkaitėje tam tikrą derlių.
+  usage: *id003
+CLT_COUNTER_SLICING:
+  name: Virtuvės stalas (pjaustymo lenta)
+  type:
+  - '&7&oĮrenginys'
+  description:
+  - Spustelėk šį bloką dešiniuoju, kad supjaustytum derlių.
+  usage: *id003
+CLT_COURGETTE:
+  name: Cukinija
+  type:
+  - '&7&oDerlius'
+  description:
+  - 'Patarimas: sutarkuok į bet kokį makaronų padažą'
+  - gilesniam skoniui ir tekstūrai.
+CLT_CREAM_CHEESE:
+  name: Kreminis sūris
+  type:
+  - '&7&oDerlius'
+  description:
+  - Daugiau kreminis nei sūriškas.
+CLT_CROP_STICKS:
+  name: Augalų lazdelės
+  type:
+  - '&7&oĮrankis'
+  description:
+  - Augalų lazdeles reikia uždėti ant
+  - pasodintos sėklos, kad ji augtų.
+  - Pastačius antrą komplektą, augalai
+  - kryžminsis ir galės plisti ir (arba)
+  - veistis.
+CLT_CUCUMBER:
+  name: Agurkas
+  type:
+  - '&7&oDerlius'
+  description:
+  - Vanduo žaliame lukšte, įrodyk,
+  - kad klystu.
+CLT_CUMIN:
+  name: Kuminas
+  type:
+  - '&7&oDerlius'
+  description:
+  - Šiltas, citrusinis augalas.
+CLT_CURRY_LEAF:
+  name: Kario lapas
+  type:
+  - '&7&oDerlius'
+  description:
+  - Daugybės nuostabių patiekalų pagrindas.
+CLT_DILL:
+  name: Krapai
+  type:
+  - '&7&oDerlius'
+  description:
+  - Man skonis kaip žolės. Kodėl
+  - žmonės tai mėgsta?
+CLT_DOUGH:
+  name: Tešla
+  type:
+  - '&7&oDerlius'
+  description:
+  - Paprasčiausia tešla!
+CLT_EGG_SALAD:
+  name: Kiaušinių salotos
+  type:
+  - '&7&oDerlius'
+  description:
+  - Atidaryk tai traukinyje, jei drįsti!
+CLT_EGG_SALAD_SANDWICH:
+  name: Sumuštinis su kiaušinių salotomis
+  type:
+  - '&7&oMaistas'
+  description:
+  - Truputį kvepia, bet skonis nuostabus!
+  stats: &id006
+  - '&8⇨ &7Gydymas: &b10 širdelių'
+  - '&8⇨ &bAtgijimas II &7(10:00)'
+CLT_FENNEL:
+  name: Pankolis
+  type:
+  - '&7&oDerlius'
+  description:
+  - Kaip anyžių ir saldymedžio mišinys.
+CLT_FRIED_APPLE:
+  name: Keptas obuolys
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_APRICOT:
+  name: Keptas abrikosas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_ARTICHOKE:
+  name: Keptas artišokas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_ASPARAGUS:
+  name: Keptas smidras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_AUBERGINE:
+  name: Keptas baklažanas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_AVOCADO:
+  name: Keptas avokadas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_BANANA:
+  name: Keptas bananas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_BASIL:
+  name: Keptas bazilikas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_BAY_LEAF:
+  name: Keptas lauro lapas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_BEEF:
+  name: Kepta jautiena
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_BEETROOT:
+  name: Keptas burokėlis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_BELL_PEPPER:
+  name: Kepta paprika
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_BLACK_BEANS:
+  name: Keptos juodosios pupelės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_BREAD:
+  name: Kepta duona
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_BROCCOLI:
+  name: Keptas brokolis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_BROWN_MUSHROOM:
+  name: Keptas rudas grybas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_BRUSSELS_SPROUTS:
+  name: Kepti briuselio kopūstai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_CABBAGE:
+  name: Keptas kopūstas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_CARROT:
+  name: Kepta morka
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_CAULIFLOWER:
+  name: Keptas žiedinis kopūstas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_CAYENNE_PEPPER:
+  name: Keptas kajeno pipiras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_CELERIAC:
+  name: Keptas gumbinis salieras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_CELERY:
+  name: Keptas salieras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_CHERRY:
+  name: Kepta vyšnia
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_CHESTNUT:
+  name: Keptas kaštonas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_CHICKEN:
+  name: Kepta vištiena
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_CHICKPEAS:
+  name: Kepti avinžirniai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_CHICORY:
+  name: Kepta cikorija
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_CHILLY_PEPPER:
+  name: Keptas čili pipiras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_CHIVES:
+  name: Kepti laiškiniai česnakai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_CHORUS_FRUIT:
+  name: Keptas koruso vaisius
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_CILANTRO:
+  name: Kepta kalendra
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_CINNAMON:
+  name: Keptas cinamonas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_CLOVE:
+  name: Keptas gvazdikėlis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_COCOA_BEANS:
+  name: Keptos kakavos pupelės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_COD:
+  name: Kepta menkė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_COURGETTE:
+  name: Kepta cukinija
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_CUCUMBER:
+  name: Keptas agurkas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_CUMIN:
+  name: Keptas kuminas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_CURRY_LEAF:
+  name: Keptas kario lapas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_DILL:
+  name: Kepti krapai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_EGG:
+  name: Keptas kiaušinis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_ENCHANTED_GOLDEN_APPLE:
+  name: Keptas užkerėtas auksinis obuolys
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_FENNEL:
+  name: Keptas pankolis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_GARLIC:
+  name: Keptas česnakas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_GINGER:
+  name: Keptas imbieras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_GLOW_BERRIES:
+  name: Keptos švytinčios uogos
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_GOLDEN_APPLE:
+  name: Keptas auksinis obuolys
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_GOLDEN_CARROT:
+  name: Kepta auksinė morka
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_GRAPE:
+  name: Kepta vynuogė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_GREEN_APPLE:
+  name: Keptas žalias obuolys
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_GREEN_BEANS:
+  name: Keptos šparaginės pupelės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_GREEN_ONION:
+  name: Keptas laiškinis svogūnas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_HAZELNUT:
+  name: Keptas lazdyno riešutas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_HORSERADISH:
+  name: Keptas krienas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_JALAPENO:
+  name: Keptas jalapenjo pipiras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_JASMINE:
+  name: Keptas jazminas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_JUNIPER_BERRY:
+  name: Keptos kadagio uogos
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_KAFFIR_LIME:
+  name: Keptas kafrinio laimo lapas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_KALE:
+  name: Keptas lapinis kopūstas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_KELP:
+  name: Kepti rudadumbliai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_KIWI:
+  name: Keptas kivis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_LAVENDER:
+  name: Kepta levanda
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_LEEK:
+  name: Keptas poras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_LEMON:
+  name: Kepta citrina
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_LETTUCE:
+  name: Keptos salotos
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_LICORICE:
+  name: Keptas saldymedis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_LIME:
+  name: Keptas laimas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_MACE:
+  name: Keptas muskato žiedas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_MANGO:
+  name: Keptas mangas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_MARJORAM:
+  name: Keptas mairūnas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_MARROW:
+  name: Keptas kabačkas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_MELON:
+  name: Keptas arbūzas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_MINT:
+  name: Kepta mėta
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_MUSTARD_SEEDS:
+  name: Keptos garstyčių sėklos
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_MUTTON:
+  name: Kepta aviena
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_NETTLES:
+  name: Keptos dilgėlės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_OKRA:
+  name: Kepta okra
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_ONION:
+  name: Keptas svogūnas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_ORANGE:
+  name: Keptas apelsinas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_OREGANO:
+  name: Keptas raudonėlis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_PARSLEY:
+  name: Keptos petražolės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_PARSNIP:
+  name: Keptas pastarnokas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_PEA:
+  name: Kepti žirniai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_PEACH:
+  name: Keptas persikas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_PEANUT:
+  name: Keptas žemės riešutas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_PEAR:
+  name: Kepta kriaušė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_PECAN:
+  name: Keptas pekano riešutas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_PEPPER:
+  name: Kepti juodieji pipirai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_PEPPERONI:
+  name: Kepta peperoni dešra
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_PINEAPPLE:
+  name: Keptas ananasas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_PINTO_BEANS:
+  name: Keptos margosios pupelės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_PORKCHOP:
+  name: Kepta kiauliena
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_POTATO:
+  name: Kepta bulvė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_PUFFERFISH:
+  name: Kepta pūsliažuvė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_PUMPKIN:
+  name: Keptas moliūgas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_RABBIT:
+  name: Kepta triušiena
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_RADDISH:
+  name: Keptas ridikas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_RADICCHIO:
+  name: Kepta radikija
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_RAPESEED:
+  name: Kepti rapsai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_RED_MUSHROOM:
+  name: Keptas raudonas grybas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_RHUBARB:
+  name: Keptas rabarbaras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_RICE:
+  name: Kepti ryžiai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_ROSEMARY:
+  name: Keptas rozmarinas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_ROTTEN_FLESH:
+  name: Kepta supuvusi mėsa
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_RUNNER_BEANS:
+  name: Keptos daugiažiedės pupelės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_RUTABAGA:
+  name: Keptas griežtis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_SALMON:
+  name: Kepta lašiša
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_SASSAFRAS:
+  name: Keptas sasafras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_SHALLOT:
+  name: Keptas askaloninis česnakas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_SHISO:
+  name: Kepta perila
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_SOY_BEANS:
+  name: Keptos sojos pupelės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_SPINACH:
+  name: Kepti špinatai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_STAR_ANISE:
+  name: Keptas žvaigždanyžis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_STRAWBERRY:
+  name: Kepta braškė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_SUGAR:
+  name: Keptas cukrus
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_SWEETCORN:
+  name: Kepti cukriniai kukurūzai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_SWEET_BERRIES:
+  name: Keptos saldžiosios uogos
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_SWEET_POTATO:
+  name: Kepta saldžioji bulvė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_TARRAGON:
+  name: Keptas peletrūnas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_THYME:
+  name: Keptas čiobrelis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_TOMATO:
+  name: Keptas pomidoras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_TURMERIC:
+  name: Kepta ciberžolė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_TURNIP:
+  name: Kepta ropė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_VANILLA:
+  name: Kepta vanilė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_WASABI:
+  name: Keptas vasabis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRIED_WHEAT:
+  name: Kepti kviečiai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_FRUIT_SALAD:
+  name: Vaisių salotos
+  type:
+  - '&7&oMaistas'
+  description:
+  - Jei vadinsi tai salotomis, galėsi valgyti
+  - kiek tik nori, nes tai sveika.
+  stats:
+  - '&8⇨ &7Gydymas: &b6 širdelės'
+  - '&8⇨ &bGreitis III &7(10:00)'
+CLT_FUGU:
+  name: Fugu
+  type:
+  - '&7&oMaistas'
+  description:
+  - Pasiruošęs mesti kauliuką?
+  stats:
+  - '&8⇨ &7Gydymas: &b1 širdelė'
+  - '&8⇨ &bJėga V &7(10:00)'
+  - '&8⇨ &733% tikimybė tiesiog numirti!'
+CLT_GARDEN_CLOCHE:
+  name: Sodo gaubtas
+  type:
+  - '&7&oĮrenginys'
+  description:
+  - Automatiškai augina augalus savo viduje.
+  stats:
+  - '&8⇨ &7Energija per tiką: &b100'
+CLT_GARLIC:
+  name: Česnakas
+  type:
+  - '&7&oDerlius'
+  description:
+  - Greičiau, kol neatėjo vampyrai!
+CLT_GARLIC_BUTTER_MUSHROOMS:
+  name: Grybai su česnakiniu sviestu
+  type:
+  - '&7&oMaistas'
+  description:
+  - Galbūt geriausias maistas žemėje.
+  stats:
+  - '&8⇨ &7Gydymas: &b2 širdelės'
+  - '&8⇨ &bŠvytėjimas I &7(10:00)'
+CLT_GINGER:
+  name: Imbieras
+  type:
+  - '&7&oDerlius'
+  description:
+  - Kapotas imbieras verdančiame vandenyje išgydo visas ligas!
+CLT_GRAPE:
+  name: Vynuogė
+  type:
+  - '&7&oDerlius'
+  description:
+  - Kokios apvalainos!
+CLT_GRAPE_JELLY:
+  name: Vynuogių želė
+  type:
+  - '&7&oDerlius'
+  description: &id008
+  - Valgyti ją šaukštu yra nusikaltimas.
+CLT_GREEN_APPLE:
+  name: Žalias obuolys
+  type:
+  - '&7&oDerlius'
+  description:
+  - Raštelyje parašyta... Brangi mokytoja?
+CLT_GREEN_BEANS:
+  name: Šparaginės pupelės
+  type:
+  - '&7&oDerlius'
+  description:
+  - Kaip kūrybiškai pavadinta!
+CLT_GREEN_ONION:
+  name: Laiškinis svogūnas
+  type:
+  - '&7&oDerlius'
+  description:
+  - Puikiai tinka prie tako!
+CLT_GRILLED_APPLE:
+  name: Grilintas obuolys
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_APRICOT:
+  name: Grilintas abrikosas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_ARTICHOKE:
+  name: Grilintas artišokas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_ASPARAGUS:
+  name: Grilintas smidras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_AUBERGINE:
+  name: Grilintas baklažanas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_AVOCADO:
+  name: Grilintas avokadas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_BANANA:
+  name: Grilintas bananas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_BASIL:
+  name: Grilintas bazilikas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_BAY_LEAF:
+  name: Grilintas lauro lapas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_BEEF:
+  name: Grilinta jautiena
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_BEETROOT:
+  name: Grilintas burokėlis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_BELL_PEPPER:
+  name: Grilinta paprika
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_BLACK_BEANS:
+  name: Grilintos juodosios pupelės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_BREAD:
+  name: Grilinta duona
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_BROCCOLI:
+  name: Grilintas brokolis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_BROWN_MUSHROOM:
+  name: Grilintas rudas grybas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_BRUSSELS_SPROUTS:
+  name: Grilinti briuselio kopūstai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_CABBAGE:
+  name: Grilintas kopūstas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_CARROT:
+  name: Grilinta morka
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_CAULIFLOWER:
+  name: Grilintas žiedinis kopūstas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_CAYENNE_PEPPER:
+  name: Grilintas kajeno pipiras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_CELERIAC:
+  name: Grilintas gumbinis salieras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_CELERY:
+  name: Grilintas salieras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_CHERRY:
+  name: Grilinta vyšnia
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_CHESTNUT:
+  name: Grilintas kaštonas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_CHICKEN:
+  name: Grilinta vištiena
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_CHICKPEAS:
+  name: Grilinti avinžirniai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_CHICORY:
+  name: Grilinta cikorija
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_CHILLY_PEPPER:
+  name: Grilintas čili pipiras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_CHIVES:
+  name: Grilinti laiškiniai česnakai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_CHORUS_FRUIT:
+  name: Grilintas koruso vaisius
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_CILANTRO:
+  name: Grilinta kalendra
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_CINNAMON:
+  name: Grilintas cinamonas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_CLOVE:
+  name: Grilintas gvazdikėlis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_COCOA_BEANS:
+  name: Grilintos kakavos pupelės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_COD:
+  name: Grilinta menkė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_COURGETTE:
+  name: Grilinta cukinija
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_CUCUMBER:
+  name: Grilintas agurkas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_CUMIN:
+  name: Grilintas kuminas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_CURRY_LEAF:
+  name: Grilintas kario lapas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_DILL:
+  name: Grilinti krapai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_EGG:
+  name: Grilintas kiaušinis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_ENCHANTED_GOLDEN_APPLE:
+  name: Grilintas užkerėtas auksinis obuolys
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_FENNEL:
+  name: Grilintas pankolis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_GARLIC:
+  name: Grilintas česnakas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_GINGER:
+  name: Grilintas imbieras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_GLOW_BERRIES:
+  name: Grilintos švytinčios uogos
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_GOLDEN_APPLE:
+  name: Grilintas auksinis obuolys
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_GOLDEN_CARROT:
+  name: Grilinta auksinė morka
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_GRAPE:
+  name: Grilinta vynuogė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_GREEN_APPLE:
+  name: Grilintas žalias obuolys
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_GREEN_BEANS:
+  name: Grilintos šparaginės pupelės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_GREEN_ONION:
+  name: Grilintas laiškinis svogūnas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_HAZELNUT:
+  name: Grilintas lazdyno riešutas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_HORSERADISH:
+  name: Grilintas krienas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_JALAPENO:
+  name: Grilintas jalapenjo pipiras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_JASMINE:
+  name: Grilintas jazminas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_JUNIPER_BERRY:
+  name: Grilintos kadagio uogos
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_KAFFIR_LIME:
+  name: Grilintas kafrinio laimo lapas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_KALE:
+  name: Grilintas lapinis kopūstas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_KELP:
+  name: Grilinti rudadumbliai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_KIWI:
+  name: Grilintas kivis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_LAVENDER:
+  name: Grilinta levanda
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_LEEK:
+  name: Grilintas poras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_LEMON:
+  name: Grilinta citrina
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_LETTUCE:
+  name: Grilintos salotos
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_LICORICE:
+  name: Grilintas saldymedis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_LIME:
+  name: Grilintas laimas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_MACE:
+  name: Grilintas muskato žiedas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_MANGO:
+  name: Grilintas mangas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_MARJORAM:
+  name: Grilintas mairūnas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_MARROW:
+  name: Grilintas kabačkas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_MELON:
+  name: Grilintas arbūzas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_MINT:
+  name: Grilinta mėta
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_MUSTARD_SEEDS:
+  name: Grilintos garstyčių sėklos
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_MUTTON:
+  name: Grilinta aviena
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_NETTLES:
+  name: Grilintos dilgėlės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_OKRA:
+  name: Grilinta okra
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_ONION:
+  name: Grilintas svogūnas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_ORANGE:
+  name: Grilintas apelsinas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_OREGANO:
+  name: Grilintas raudonėlis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_PARSLEY:
+  name: Grilintos petražolės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_PARSNIP:
+  name: Grilintas pastarnokas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_PEA:
+  name: Grilinti žirniai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_PEACH:
+  name: Grilintas persikas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_PEANUT:
+  name: Grilintas žemės riešutas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_PEAR:
+  name: Grilinta kriaušė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_PECAN:
+  name: Grilintas pekano riešutas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_PEPPER:
+  name: Grilinti juodieji pipirai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_PEPPERONI:
+  name: Grilinta peperoni dešra
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_PINEAPPLE:
+  name: Grilintas ananasas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_PINTO_BEANS:
+  name: Grilintos margosios pupelės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_PORKCHOP:
+  name: Grilinta kiauliena
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_POTATO:
+  name: Grilinta bulvė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_PUFFERFISH:
+  name: Grilinta pūsliažuvė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_PUMPKIN:
+  name: Grilintas moliūgas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_RABBIT:
+  name: Grilinta triušiena
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_RADDISH:
+  name: Grilintas ridikas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_RADICCHIO:
+  name: Grilinta radikija
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_RAPESEED:
+  name: Grilinti rapsai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_RED_MUSHROOM:
+  name: Grilintas raudonas grybas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_RHUBARB:
+  name: Grilintas rabarbaras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_RICE:
+  name: Grilinti ryžiai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_ROSEMARY:
+  name: Grilintas rozmarinas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_ROTTEN_FLESH:
+  name: Grilinta supuvusi mėsa
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_RUNNER_BEANS:
+  name: Grilintos daugiažiedės pupelės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_RUTABAGA:
+  name: Grilintas griežtis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_SALMON:
+  name: Grilinta lašiša
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_SALMON_SALAD:
+  name: Grilintos lašišos salotos
+  type:
+  - '&7&oMaistas'
+  description:
+  - Nuostabiai trapus ir puikiai pagardintas.
+  stats:
+  - '&8⇨ &7Gydymas: &b4 širdelės'
+  - '&8⇨ &bAtgijimas I &7(10:00)'
+  - '&8⇨ &bPapildoma sveikata V &7(10:00)'
+CLT_GRILLED_SASSAFRAS:
+  name: Grilintas sasafras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_SHALLOT:
+  name: Grilintas askaloninis česnakas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_SHISO:
+  name: Grilinta perila
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_SOY_BEANS:
+  name: Grilintos sojos pupelės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_SPINACH:
+  name: Grilinti špinatai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_STAR_ANISE:
+  name: Grilintas žvaigždanyžis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_STRAWBERRY:
+  name: Grilinta braškė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_SUGAR:
+  name: Grilintas cukrus
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_SWEETCORN:
+  name: Grilinti cukriniai kukurūzai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_SWEET_BERRIES:
+  name: Grilintos saldžiosios uogos
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_SWEET_POTATO:
+  name: Grilinta saldžioji bulvė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_TARRAGON:
+  name: Grilintas peletrūnas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_THYME:
+  name: Grilintas čiobrelis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_TOMATO:
+  name: Grilintas pomidoras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_TURMERIC:
+  name: Grilinta ciberžolė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_TURNIP:
+  name: Grilinta ropė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_VANILLA:
+  name: Grilinta vanilė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_WASABI:
+  name: Grilintas vasabis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GRILLED_WHEAT:
+  name: Grilinti kviečiai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_APPLE:
+  name: Maltas obuolys
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_APRICOT:
+  name: Maltas abrikosas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_ARTICHOKE:
+  name: Maltas artišokas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_ASPARAGUS:
+  name: Maltas smidras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_AUBERGINE:
+  name: Maltas baklažanas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_AVOCADO:
+  name: Maltas avokadas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_BANANA:
+  name: Maltas bananas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_BASIL:
+  name: Maltas bazilikas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_BAY_LEAF:
+  name: Maltas lauro lapas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_BEEF:
+  name: Malta jautiena
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_BEETROOT:
+  name: Maltas burokėlis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_BELL_PEPPER:
+  name: Malta paprika
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_BLACK_BEANS:
+  name: Maltos juodosios pupelės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_BREAD:
+  name: Malta duona
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_BROCCOLI:
+  name: Maltas brokolis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_BROWN_MUSHROOM:
+  name: Maltas rudas grybas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_BRUSSELS_SPROUTS:
+  name: Malti briuselio kopūstai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_CABBAGE:
+  name: Maltas kopūstas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_CARROT:
+  name: Malta morka
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_CAULIFLOWER:
+  name: Maltas žiedinis kopūstas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_CAYENNE_PEPPER:
+  name: Maltas kajeno pipiras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_CELERIAC:
+  name: Maltas gumbinis salieras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_CELERY:
+  name: Maltas salieras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_CHERRY:
+  name: Malta vyšnia
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_CHESTNUT:
+  name: Maltas kaštonas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_CHICKEN:
+  name: Malta vištiena
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_CHICKPEAS:
+  name: Malti avinžirniai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_CHICORY:
+  name: Malta cikorija
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_CHILLY_PEPPER:
+  name: Maltas čili pipiras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_CHIVES:
+  name: Malti laiškiniai česnakai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_CHORUS_FRUIT:
+  name: Maltas koruso vaisius
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_CILANTRO:
+  name: Malta kalendra
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_CINNAMON:
+  name: Maltas cinamonas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_CLOVE:
+  name: Maltas gvazdikėlis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_COCOA_BEANS:
+  name: Maltos kakavos pupelės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_COD:
+  name: Malta menkė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_COURGETTE:
+  name: Malta cukinija
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_CUCUMBER:
+  name: Maltas agurkas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_CUMIN:
+  name: Maltas kuminas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_CURRY_LEAF:
+  name: Maltas kario lapas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_DILL:
+  name: Malti krapai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_EGG:
+  name: Maltas kiaušinis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_ENCHANTED_GOLDEN_APPLE:
+  name: Maltas užkerėtas auksinis obuolys
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_FENNEL:
+  name: Maltas pankolis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_GARLIC:
+  name: Maltas česnakas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_GINGER:
+  name: Maltas imbieras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_GLOW_BERRIES:
+  name: Maltos švytinčios uogos
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_GOLDEN_APPLE:
+  name: Maltas auksinis obuolys
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_GOLDEN_CARROT:
+  name: Malta auksinė morka
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_GRAPE:
+  name: Malta vynuogė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_GREEN_APPLE:
+  name: Maltas žalias obuolys
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_GREEN_BEANS:
+  name: Maltos šparaginės pupelės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_GREEN_ONION:
+  name: Maltas laiškinis svogūnas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_HAZELNUT:
+  name: Maltas lazdyno riešutas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_HORSERADISH:
+  name: Maltas krienas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_JALAPENO:
+  name: Maltas jalapenjo pipiras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_JASMINE:
+  name: Maltas jazminas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_JUNIPER_BERRY:
+  name: Maltos kadagio uogos
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_KAFFIR_LIME:
+  name: Maltas kafrinio laimo lapas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_KALE:
+  name: Maltas lapinis kopūstas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_KELP:
+  name: Malti rudadumbliai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_KIWI:
+  name: Maltas kivis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_LAVENDER:
+  name: Malta levanda
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_LEEK:
+  name: Maltas poras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_LEMON:
+  name: Malta citrina
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_LETTUCE:
+  name: Maltos salotos
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_LICORICE:
+  name: Maltas saldymedis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_LIME:
+  name: Maltas laimas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_MACE:
+  name: Maltas muskato žiedas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_MANGO:
+  name: Maltas mangas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_MARJORAM:
+  name: Maltas mairūnas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_MARROW:
+  name: Maltas kabačkas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_MELON:
+  name: Maltas arbūzas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_MINT:
+  name: Malta mėta
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_MUSTARD_SEEDS:
+  name: Maltos garstyčių sėklos
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_MUTTON:
+  name: Malta aviena
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_NETTLES:
+  name: Maltos dilgėlės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_OKRA:
+  name: Malta okra
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_ONION:
+  name: Maltas svogūnas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_ORANGE:
+  name: Maltas apelsinas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_OREGANO:
+  name: Maltas raudonėlis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_PARSLEY:
+  name: Maltos petražolės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_PARSNIP:
+  name: Maltas pastarnokas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_PEA:
+  name: Malti žirniai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_PEACH:
+  name: Maltas persikas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_PEANUT:
+  name: Maltas žemės riešutas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_PEAR:
+  name: Malta kriaušė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_PECAN:
+  name: Maltas pekano riešutas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_PEPPER:
+  name: Malti juodieji pipirai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_PEPPERONI:
+  name: Malta peperoni dešra
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_PINEAPPLE:
+  name: Maltas ananasas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_PINTO_BEANS:
+  name: Maltos margosios pupelės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_PORKCHOP:
+  name: Malta kiauliena
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_POTATO:
+  name: Malta bulvė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_PUFFERFISH:
+  name: Malta pūsliažuvė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_PUMPKIN:
+  name: Maltas moliūgas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_RABBIT:
+  name: Malta triušiena
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_RADDISH:
+  name: Maltas ridikas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_RADICCHIO:
+  name: Malta radikija
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_RAPESEED:
+  name: Malti rapsai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_RED_MUSHROOM:
+  name: Maltas raudonas grybas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_RHUBARB:
+  name: Maltas rabarbaras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_RICE:
+  name: Malti ryžiai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_ROSEMARY:
+  name: Maltas rozmarinas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_ROTTEN_FLESH:
+  name: Malta supuvusi mėsa
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_RUNNER_BEANS:
+  name: Maltos daugiažiedės pupelės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_RUTABAGA:
+  name: Maltas griežtis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_SALMON:
+  name: Malta lašiša
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_SASSAFRAS:
+  name: Maltas sasafras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_SHALLOT:
+  name: Maltas askaloninis česnakas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_SHISO:
+  name: Malta perila
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_SOY_BEANS:
+  name: Maltos sojos pupelės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_SPINACH:
+  name: Malti špinatai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_STAR_ANISE:
+  name: Maltas žvaigždanyžis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_STRAWBERRY:
+  name: Malta braškė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_SUGAR:
+  name: Maltas cukrus
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_SWEETCORN:
+  name: Malti cukriniai kukurūzai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_SWEET_BERRIES:
+  name: Maltos saldžiosios uogos
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_SWEET_POTATO:
+  name: Malta saldžioji bulvė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_TARRAGON:
+  name: Maltas peletrūnas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_THYME:
+  name: Maltas čiobrelis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_TOMATO:
+  name: Maltas pomidoras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_TURMERIC:
+  name: Malta ciberžolė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_TURNIP:
+  name: Malta ropė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_VANILLA:
+  name: Malta vanilė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_WASABI:
+  name: Maltas vasabis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_GROUND_WHEAT:
+  name: Malti kviečiai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_HAZELNUT:
+  name: Lazdyno riešutas
+  type:
+  - '&7&oDerlius'
+  description:
+  - Daryk ką nori, bet paversk tai
+  - kava man, tuoj pat!
+CLT_HORSERADISH:
+  name: Krienas
+  type:
+  - '&7&oDerlius'
+  description:
+  - $100, jei įkąsi tiesiai į jį.
+CLT_JALAPENO:
+  name: Jalapenjo pipiras
+  type:
+  - '&7&oDerlius'
+  description:
+  - KARŠTA KARŠTA KARŠTA.
+CLT_JASMINE:
+  name: Jazminas
+  type:
+  - '&7&oDerlius'
+  description:
+  - Iš jo išeina nuostabi arbata.
+CLT_JUNIPER_BERRY:
+  name: Kadagio uogos
+  type:
+  - '&7&oDerlius'
+  description:
+  - Išdžiovintos iki pipiriško tobulumo.
+CLT_KAFFIR_LIME:
+  name: Kafrinio laimo lapas
+  type:
+  - '&7&oDerlius'
+  description:
+  - Lapas su galingu gaivumu.
+CLT_KALE:
+  name: Lapinis kopūstas
+  type:
+  - '&7&oDerlius'
+  description:
+  - Gelbėkit, aš 2020-ųjų kokteilių hipsteris!
+CLT_KETCHUP:
+  name: Kečupas
+  type:
+  - '&7&oDerlius'
+  description:
+  - Tiesiog pomidorai kremine forma.
+CLT_KEY_LIME_PIE:
+  name: Laimų pyragas
+  type:
+  - '&7&oMaistas'
+  description:
+  - Tiesiog geriausias!
+  stats:
+  - '&8⇨ &7Gydymas: &b6 širdelės'
+  - '&8⇨ &bGreitas kasimas IV &7(10:00)'
+CLT_KIWI:
+  name: Kivis
+  type:
+  - '&7&oDerlius'
+  description:
+  - Įdėjau tai į priedą tik prispaustas.
+  - Kiviai yra blogis, ir kiekvienas, kas
+  - juos naudoja, automatiškai praranda
+  - 100 taškų.
+CLT_LASAGNA:
+  name: Lazanija
+  type:
+  - '&7&oMaistas'
+  description:
+  - Nuostabumo sluoksniai.
+  stats:
+  - '&8⇨ &7Gydymas: &bVisiškas'
+  - '&8⇨ &bAtgijimas II &7(10:00)'
+  - '&8⇨ &bAtsparumas II &7(10:00)'
+CLT_LAVENDER:
+  name: Levanda
+  type:
+  - '&7&oDerlius'
+  description:
+  - Kvapas, nuo kurio pamažu nugrimztu į miegą.
+CLT_LEAVES_TREE_APRICOT:
+  name: Abrikoso medžio lapai
+  type:
+  - '&7&oLapai'
+CLT_LEAVES_TREE_BANANA:
+  name: Banano medžio lapai
+  type:
+  - '&7&oLapai'
+CLT_LEAVES_TREE_CHERRY:
+  name: Vyšnios medžio lapai
+  type:
+  - '&7&oLapai'
+CLT_LEAVES_TREE_CHESTNUT:
+  name: Kaštono medžio lapai
+  type:
+  - '&7&oLapai'
+CLT_LEAVES_TREE_GREEN_APPLE:
+  name: Žaliojo obuolio medžio lapai
+  type:
+  - '&7&oLapai'
+CLT_LEAVES_TREE_HAZELNUT:
+  name: Lazdyno lapai
+  type:
+  - '&7&oLapai'
+CLT_LEAVES_TREE_KIWI:
+  name: Kivio medžio lapai
+  type:
+  - '&7&oLapai'
+CLT_LEAVES_TREE_LEMON:
+  name: Citrinos medžio lapai
+  type:
+  - '&7&oLapai'
+CLT_LEAVES_TREE_LIME:
+  name: Laimo medžio lapai
+  type:
+  - '&7&oLapai'
+CLT_LEAVES_TREE_MANGO:
+  name: Mango medžio lapai
+  type:
+  - '&7&oLapai'
+CLT_LEAVES_TREE_ORANGE:
+  name: Apelsino medžio lapai
+  type:
+  - '&7&oLapai'
+CLT_LEAVES_TREE_PEACH:
+  name: Persiko medžio lapai
+  type:
+  - '&7&oLapai'
+CLT_LEAVES_TREE_PEAR:
+  name: Kriaušės medžio lapai
+  type:
+  - '&7&oLapai'
+CLT_LEAVES_TREE_PECAN:
+  name: Pekano medžio lapai
+  type:
+  - '&7&oLapai'
+CLT_LEAVES_TREE_PINEAPPLE:
+  name: Ananaso medžio lapai
+  type:
+  - '&7&oLapai'
+CLT_LEEK:
+  name: Poras
+  type:
+  - '&7&oDerlius'
+  description:
+  - kažkodėl iš jo varva vanduo?
+  - Gal jis jau porą kartų prakiuro?
+CLT_LEMON:
+  name: Citrina
+  type:
+  - '&7&oDerlius'
+  description:
+  - Kodėl tokia rūgšti mina?
+CLT_LEMON_DROP:
+  name: Citrininis ledinukas
+  type:
+  - '&7&oMaistas'
+  description:
+  - Gomurio valiklis.
+  stats:
+  - '&8⇨ &7Panaikina visus efektus ir vėl sukelia alkį.'
+CLT_LETTUCE:
+  name: Salotos
+  type:
+  - '&7&oDerlius'
+  description:
+  - Plonos, vandeningos, bet skanios.
+CLT_LICORICE:
+  name: Saldymedis
+  type:
+  - '&7&oDerlius'
+  description:
+  - Bėk, bėk iš čia tuoj pat!
+CLT_LIME:
+  name: Laimas
+  type:
+  - '&7&oDerlius'
+  description:
+  - Kartą seniai seniai, laimų laikais, buvo skanus vaisius...
+CLT_MACE:
+  name: Muskato žiedas
+  type:
+  - '&7&oDerlius'
+  description:
+  - Naudojamas užpuolikams daužyti.
+  - '...'
+  - Ką reiškia, kad tai ne tas vėzdas?
+CLT_MANGO:
+  name: Mangas
+  type:
+  - '&7&oDerlius'
+  description:
+  - MAN GO... Man reikia eiti.
+  - Aprašymus rašyti sunku...
+CLT_MARJORAM:
+  name: Mairūnas
+  type:
+  - '&7&oDerlius'
+  description:
+  - Man dabar karštas metas, gal pakalbėkim vėliau?
+CLT_MARROW:
+  name: Kabačkas
+  type:
+  - '&7&oDerlius'
+  description:
+  - Ar žinojai, kad kabačkai slepiasi
+  - tavo kaulų čiulpuose?
+  - Jo, Sefi Protingas.
+CLT_MASHED_APPLE:
+  name: Sugrūstas obuolys
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_APRICOT:
+  name: Sugrūstas abrikosas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_ARTICHOKE:
+  name: Sugrūstas artišokas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_ASPARAGUS:
+  name: Sugrūstas smidras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_AUBERGINE:
+  name: Sugrūstas baklažanas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_AVOCADO:
+  name: Sugrūstas avokadas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_BANANA:
+  name: Sugrūstas bananas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_BASIL:
+  name: Sugrūstas bazilikas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_BAY_LEAF:
+  name: Sugrūstas lauro lapas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_BEEF:
+  name: Sugrūsta jautiena
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_BEETROOT:
+  name: Sugrūstas burokėlis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_BELL_PEPPER:
+  name: Sugrūsta paprika
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_BLACK_BEANS:
+  name: Sugrūstos juodosios pupelės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_BREAD:
+  name: Sugrūsta duona
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_BROCCOLI:
+  name: Sugrūstas brokolis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_BROWN_MUSHROOM:
+  name: Sugrūstas rudas grybas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_BRUSSELS_SPROUTS:
+  name: Sugrūsti briuselio kopūstai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_CABBAGE:
+  name: Sugrūstas kopūstas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_CARROT:
+  name: Sugrūsta morka
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_CAULIFLOWER:
+  name: Sugrūstas žiedinis kopūstas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_CAYENNE_PEPPER:
+  name: Sugrūstas kajeno pipiras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_CELERIAC:
+  name: Sugrūstas gumbinis salieras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_CELERY:
+  name: Sugrūstas salieras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_CHERRY:
+  name: Sugrūsta vyšnia
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_CHESTNUT:
+  name: Sugrūstas kaštonas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_CHICKEN:
+  name: Sugrūsta vištiena
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_CHICKPEAS:
+  name: Sugrūsti avinžirniai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_CHICORY:
+  name: Sugrūsta cikorija
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_CHILLY_PEPPER:
+  name: Sugrūstas čili pipiras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_CHIVES:
+  name: Sugrūsti laiškiniai česnakai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_CHORUS_FRUIT:
+  name: Sugrūstas koruso vaisius
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_CILANTRO:
+  name: Sugrūsta kalendra
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_CINNAMON:
+  name: Sugrūstas cinamonas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_CLOVE:
+  name: Sugrūstas gvazdikėlis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_COCOA_BEANS:
+  name: Sugrūstos kakavos pupelės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_COD:
+  name: Sugrūsta menkė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_COURGETTE:
+  name: Sugrūsta cukinija
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_CUCUMBER:
+  name: Sugrūstas agurkas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_CUMIN:
+  name: Sugrūstas kuminas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_CURRY_LEAF:
+  name: Sugrūstas kario lapas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_DILL:
+  name: Sugrūsti krapai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_EGG:
+  name: Sugrūstas kiaušinis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_ENCHANTED_GOLDEN_APPLE:
+  name: Sugrūstas užkerėtas auksinis obuolys
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_FENNEL:
+  name: Sugrūstas pankolis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_GARLIC:
+  name: Sugrūstas česnakas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_GINGER:
+  name: Sugrūstas imbieras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_GLOW_BERRIES:
+  name: Sugrūstos švytinčios uogos
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_GOLDEN_APPLE:
+  name: Sugrūstas auksinis obuolys
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_GOLDEN_CARROT:
+  name: Sugrūsta auksinė morka
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_GRAPE:
+  name: Sugrūsta vynuogė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_GREEN_APPLE:
+  name: Sugrūstas žalias obuolys
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_GREEN_BEANS:
+  name: Sugrūstos šparaginės pupelės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_GREEN_ONION:
+  name: Sugrūstas laiškinis svogūnas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_HAZELNUT:
+  name: Sugrūstas lazdyno riešutas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_HORSERADISH:
+  name: Sugrūstas krienas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_JALAPENO:
+  name: Sugrūstas jalapenjo pipiras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_JASMINE:
+  name: Sugrūstas jazminas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_JUNIPER_BERRY:
+  name: Sugrūstos kadagio uogos
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_KAFFIR_LIME:
+  name: Sugrūstas kafrinio laimo lapas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_KALE:
+  name: Sugrūstas lapinis kopūstas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_KELP:
+  name: Sugrūsti rudadumbliai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_KIWI:
+  name: Sugrūstas kivis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_LAVENDER:
+  name: Sugrūsta levanda
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_LEEK:
+  name: Sugrūstas poras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_LEMON:
+  name: Sugrūsta citrina
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_LETTUCE:
+  name: Sugrūstos salotos
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_LICORICE:
+  name: Sugrūstas saldymedis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_LIME:
+  name: Sugrūstas laimas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_MACE:
+  name: Sugrūstas muskato žiedas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_MANGO:
+  name: Sugrūstas mangas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_MARJORAM:
+  name: Sugrūstas mairūnas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_MARROW:
+  name: Sugrūstas kabačkas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_MELON:
+  name: Sugrūstas arbūzas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_MINT:
+  name: Sugrūsta mėta
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_MUSTARD_SEEDS:
+  name: Sugrūstos garstyčių sėklos
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_MUTTON:
+  name: Sugrūsta aviena
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_NETTLES:
+  name: Sugrūstos dilgėlės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_OKRA:
+  name: Sugrūsta okra
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_ONION:
+  name: Sugrūstas svogūnas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_ORANGE:
+  name: Sugrūstas apelsinas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_OREGANO:
+  name: Sugrūstas raudonėlis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_PARSLEY:
+  name: Sugrūstos petražolės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_PARSNIP:
+  name: Sugrūstas pastarnokas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_PEA:
+  name: Sugrūsti žirniai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_PEACH:
+  name: Sugrūstas persikas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_PEANUT:
+  name: Sugrūstas žemės riešutas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_PEAR:
+  name: Sugrūsta kriaušė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_PECAN:
+  name: Sugrūstas pekano riešutas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_PEPPER:
+  name: Sugrūsti juodieji pipirai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_PEPPERONI:
+  name: Sugrūsta peperoni dešra
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_PINEAPPLE:
+  name: Sugrūstas ananasas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_PINTO_BEANS:
+  name: Sugrūstos margosios pupelės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_PORKCHOP:
+  name: Sugrūsta kiauliena
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_POTATO:
+  name: Sugrūsta bulvė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_PUFFERFISH:
+  name: Sugrūsta pūsliažuvė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_PUMPKIN:
+  name: Sugrūstas moliūgas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_RABBIT:
+  name: Sugrūsta triušiena
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_RADDISH:
+  name: Sugrūstas ridikas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_RADICCHIO:
+  name: Sugrūsta radikija
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_RAPESEED:
+  name: Sugrūsti rapsai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_RED_MUSHROOM:
+  name: Sugrūstas raudonas grybas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_RHUBARB:
+  name: Sugrūstas rabarbaras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_RICE:
+  name: Sugrūsti ryžiai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_ROSEMARY:
+  name: Sugrūstas rozmarinas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_ROTTEN_FLESH:
+  name: Sugrūsta supuvusi mėsa
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_RUNNER_BEANS:
+  name: Sugrūstos daugiažiedės pupelės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_RUTABAGA:
+  name: Sugrūstas griežtis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_SALMON:
+  name: Sugrūsta lašiša
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_SASSAFRAS:
+  name: Sugrūstas sasafras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_SHALLOT:
+  name: Sugrūstas askaloninis česnakas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_SHISO:
+  name: Sugrūsta perila
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_SOY_BEANS:
+  name: Sugrūstos sojos pupelės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_SPINACH:
+  name: Sugrūsti špinatai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_STAR_ANISE:
+  name: Sugrūstas žvaigždanyžis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_STRAWBERRY:
+  name: Sugrūsta braškė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_SUGAR:
+  name: Sugrūstas cukrus
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_SWEETCORN:
+  name: Sugrūsti cukriniai kukurūzai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_SWEET_BERRIES:
+  name: Sugrūstos saldžiosios uogos
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_SWEET_POTATO:
+  name: Sugrūsta saldžioji bulvė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_TARRAGON:
+  name: Sugrūstas peletrūnas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_THYME:
+  name: Sugrūstas čiobrelis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_TOMATO:
+  name: Sugrūstas pomidoras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_TURMERIC:
+  name: Sugrūsta ciberžolė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_TURNIP:
+  name: Sugrūsta ropė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_VANILLA:
+  name: Sugrūsta vanilė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_WASABI:
+  name: Sugrūstas vasabis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MASHED_WHEAT:
+  name: Sugrūsti kviečiai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_MAYONNAISE:
+  name: Majonezas
+  type:
+  - '&7&oDerlius'
+  description:
+  - Šilkinis majonezas, tinkantis beveik prie visko.
+CLT_MEATBALLS:
+  name: Mėsos kukuliai
+  type:
+  - '&7&oDerlius'
+  description:
+  - Mėsos kamuoliukai, kas galėjo pagalvoti.
+CLT_MEATLOAF:
+  name: Mėsos kepalas
+  type:
+  - '&7&oMaistas'
+  description:
+  - Niekas jo neprilygsta! Pirmyn.
+  stats:
+  - '&8⇨ &7Gydymas: &bVisiškas'
+  - '&8⇨ &bPapildoma sveikata IV &7(10:00)'
+  - '&8⇨ &bAtsparumas III &7(10:00)'
+  - '&8⇨ &bGreitas kasimas II &7(10:00)'
+  - '&8⇨ &bLėtumas II &7(10:00)'
+CLT_MINT:
+  name: Mėta
+  type:
+  - '&7&oDerlius'
+  description:
+  - Kramt kramt kramt.
+CLT_MUSTARD:
+  name: Garstyčios
+  type:
+  - '&7&oDerlius'
+  description:
+  - Turi truputį aštrumo!
+CLT_MUSTARD_SEEDS:
+  name: Garstyčių sėklos
+  type:
+  - '&7&oDerlius'
+  description:
+  - Pakramtyk jas, jei drįsti!
+CLT_NETTLES:
+  name: Dilgėlės
+  type:
+  - '&7&oDerlius'
+  description:
+  - Prieš imdamas jas į rankas, užsimauk pirštines.
+CLT_OKRA:
+  name: Okra
+  type:
+  - '&7&oDerlius'
+  description:
+  - Daug auginama Okrahomoje... tiesa, TIESA?
+CLT_ONION:
+  name: Svogūnas
+  type:
+  - '&7&oDerlius'
+  description:
+  - Palauk, kodėl tu verki?
+CLT_ORANGE:
+  name: Apelsinas
+  type:
+  - '&7&oDerlius'
+  description:
+  - Ar jis neturėtų būti prisukamas?
+CLT_ORANGE_JUICE:
+  name: Apelsinų sultys
+  type:
+  - '&7&oMaistas'
+  description:
+  - Tai tikrai geriausias būdas pradėti dieną.
+  stats:
+  - '&8⇨ &bGreitis IV &7(10:00)'
+CLT_OREGANO:
+  name: Raudonėlis
+  type:
+  - '&7&oDerlius'
+  description:
+  - Klasikinė virtuvės spintelės žolelė.
+CLT_PARSLEY:
+  name: Petražolės
+  type:
+  - '&7&oDerlius'
+  description:
+  - Blogiausia. Žolelė. Kada nors.
+CLT_PARSNIP:
+  name: Pastarnokas
+  type:
+  - '&7&oDerlius'
+  description:
+  - Būtina tuoj pat iškepti.
+CLT_PASTA:
+  name: Makaronai
+  type:
+  - '&7&oDerlius'
+  description:
+  - Paprasti makaronai, paprasti, bet nuostabūs.
+CLT_PEA:
+  name: Žirniai
+  type:
+  - '&7&oDerlius'
+  description:
+  - Dažnai randami poromis ankštyje, bent jau taip girdėjau.
+CLT_PEACH:
+  name: Persikas
+  type:
+  - '&7&oDerlius'
+  description:
+  - Apie tą jaustuką nekalbame
+CLT_PEANUT:
+  name: Žemės riešutas
+  type:
+  - '&7&oDerlius'
+  description:
+  - Reese's, aš jau atvykstu!
+CLT_PEANUT_BUTTER:
+  name: Žemės riešutų sviestas
+  type:
+  - '&7&oDerlius'
+  description:
+  - Prilygsta nebent skystam auksui.
+CLT_PEANUT_BUTTER_JELLY_SANDWICH:
+  name: Sumuštinis su žemės riešutų sviestu ir uogiene
+  type:
+  - '&7&oMaistas'
+  description:
+  - Tai tikrai sumuštinių technologijų viršūnė.
+  stats:
+  - '&8⇨ &7Gydymas: &b5 širdelės'
+  - '&8⇨ &bJėga III &7(10:00)'
+CLT_PEAR:
+  name: Kriaušė
+  type:
+  - '&7&oDerlius'
+  description:
+  - Ar nesakytum, kad ji atrodo tiesiog kriaušeliškai tobula?
+CLT_PECAN:
+  name: Pekano riešutas
+  type:
+  - '&7&oDerlius'
+  description:
+  - Tiesiog prašosi paverčiamas pyragu.
+CLT_PECAN_PIE:
+  name: Pekano riešutų pyragas
+  type:
+  - '&7&oMaistas'
+  description:
+  - Vienintelis būdas valgyti gryną cukrų, kad
+  - tavęs niekas nesmerktų.
+  stats:
+  - '&8⇨ &7Gydymas: &b4 širdelės'
+  - '&8⇨ &bLevitacija I &7(10:00)'
+CLT_PEPPER:
+  name: Juodieji pipirai
+  type:
+  - '&7&oDerlius'
+  description:
+  - Aštresni už druską.
+CLT_PEPPERONI:
+  name: Peperoni dešra
+  type:
+  - '&7&oDerlius'
+  description:
+  - Galėčiau lengvai suvalgyti visą jos rąstą.
+CLT_PICO_DE_GALLO:
+  name: Pico de gallo
+  type:
+  - '&7&oDerlius'
+  description:
+  - Švelni salsa, pilna gryno skanumo.
+CLT_PIE_CRUST:
+  name: Pyrago pagrindas
+  type:
+  - '&7&oDerlius'
+  description:
+  - Jei būtų legalu tai valgyti vieną,
+  - tai būtų pagrindinis mano maistas.
+CLT_PINEAPPLE:
+  name: Ananasas
+  type:
+  - '&7&oDerlius'
+  description:
+  - Tai turi būti ant kiekvienos pasaulio picos.
+  - Nori dėl to pasipešti!?
+CLT_PINTO_BEANS:
+  name: Margosios pupelės
+  type:
+  - '&7&oDerlius'
+  description:
+  - Dzin! Buritų metas.
+CLT_PIZZA_CHEESE:
+  name: Sūrio pica
+  type:
+  - '&7&oMaistas'
+  description:
+  - Kodėl kas nors užsisakytų vien su sūriu? Nežinau.
+  stats:
+  - '&8⇨ &7Gydymas: &b4 širdelės'
+  - '&8⇨ &bLėtumas I &7(10:00)'
+CLT_PIZZA_MUSHROOM:
+  name: Grybų pica
+  type:
+  - '&7&oMaistas'
+  description:
+  - Paprasta vegetariška pica, pilna baltymų.
+  stats:
+  - '&8⇨ &7Gydymas: &b6 širdelės'
+  - '&8⇨ &bLėtumas I &7(10:00)'
+  - '&8⇨ &bGreitas kasimas II &7(10:00)'
+CLT_PIZZA_PEPPERONI:
+  name: Pica su peperoni
+  type:
+  - '&7&oMaistas'
+  description:
+  - Niujorko klasika, pilna skonio.
+  stats:
+  - '&8⇨ &7Gydymas: &b6 širdelės'
+  - '&8⇨ &bGreitis I &7(10:00)'
+  - '&8⇨ &bGreitas kasimas I &7(10:00)'
+  - '&8⇨ &bŠoklumas I &7(10:00)'
+CLT_PLANT_AIR:
+  name: Pirmapradžio oro augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Augalas, tyliai niūniuojantis
+  - aplinkinės gamtos melodiją.
+  - '&ePirmapradžiai augalai neduoda daiktų'
+  - '&eir skirti tik veisimui.'
+CLT_PLANT_AMETHYST:
+  name: Ametisto augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Šis augalas mėgsta klestėti giliose, tamsiose
+  - vietose.
+CLT_PLANT_ANALYSER:
+  name: Augalų analizatorius
+  type:
+  - '&7&oĮrankis'
+  description:
+  - Labai paprastas įrankis, leidžiantis
+  - pamatyti augančio augalo duomenis
+  usage:
+  - '&eDešinysis spustelėjimas&7: parodo augalo rūšį ir augimo duomenis.'
+  - '&eShift + dešinysis spustelėjimas&7: parodo augalo ar krūmo pavadinimą.'
+CLT_PLANT_BASALT:
+  name: Bazalto augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Labai nuobodus ir blankus augalas.
+CLT_PLANT_BEE:
+  name: Bitės augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Augalas su labai mažais, gležnais sparneliais.
+CLT_PLANT_BLACKSTONE:
+  name: Juodakmenio augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Augalas, kuris, kaip žinoma, sugeria šviesą.
+CLT_PLANT_BLAZE:
+  name: Liepsnos augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Augalas, apdegęs pakraščiuose.
+CLT_PLANT_CHICKEN:
+  name: Vištienos augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Sklando gandai, kad jei laikysi šią
+  - sėklą virš galvos ir šoksi iš
+  - aukštos vietos, sklandysi, o ne
+  - krisi.
+CLT_PLANT_CLAY:
+  name: Molio augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Šį augalą galima laisvai formuoti ir perlipdyti.
+  - Bet tai dar nereiškia, kad tai gera mintis,
+  - ar ne!
+CLT_PLANT_COAL:
+  name: Anglies augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Augalas, slepiantis tokį potencialą.
+CLT_PLANT_COBBLESTONE:
+  name: Akmens skaldos augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Šis augalas kietas kaip akmuo.
+CLT_PLANT_CONCRETE:
+  name: Betono augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Šiam augalui sunku augti, nes jis
+  - labai greitai sukietėja.
+CLT_PLANT_COW:
+  name: Karvės augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Jei pridėsi šią sėklą prie ausies
+  - ir labai įdėmiai klausysiesi, kartais
+  - išgirsi mūkimą.
+CLT_PLANT_CREEPER:
+  name: Kryperio augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Tsssssssssttt...
+CLT_PLANT_DARKNESS:
+  name: Pirmapradės tamsos augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Augalas, verdantis nevaldomu
+  - pykčiu.
+  - '&ePirmapradžiai augalai neduoda daiktų'
+  - '&eir skirti tik veisimui.'
+CLT_PLANT_DARK_FLORA:
+  name: Tamsiosios floros augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Šioje paprastoje sėkloje tūno tylus blogis.
+CLT_PLANT_DARK_GRASS:
+  name: Tamsiosios žolės augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Augalas, tikrai praradęs savo
+  - tapatybę.
+CLT_PLANT_DEEPSLATE:
+  name: Gilakmenio augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Gilus, skalūniškas, <čia įrašyk aprašymą>.
+CLT_PLANT_DIAMOND:
+  name: Deimanto augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Augalas, tiesiog alsuojantis turtais.
+CLT_PLANT_DIM_LIT:
+  name: Blankiai šviečiantis augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Iš šios sėklos sklinda labai blanki šviesa.
+CLT_PLANT_DIRT:
+  name: Žemės augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Paviršiuje purvinas, bet slepiantis
+  - pačios gyvybės statybinius blokus.
+CLT_PLANT_DROWNED:
+  name: Skenduolio augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Augalas, nuolat varvantis
+  - vandeniu.
+CLT_PLANT_DUSTY:
+  name: Dulkėtas augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Šiam augalui reikia ypatingos priežiūros, net
+  - menkiausias stipresnis vėjo gūsis gali jį
+  - suardyti.
+CLT_PLANT_EARTH:
+  name: Pirmapradės žemės augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Augalas, praturtinantis aplinkinį
+  - pasaulį.
+  - '&ePirmapradžiai augalai neduoda daiktų'
+  - '&eir skirti tik veisimui.'
+CLT_PLANT_ECHO:
+  name: Aido augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Šis augalas visada žino, kaip rasti
+  - kelią namo.
+CLT_PLANT_ELDER_GUARDIAN:
+  name: Didžiojo gelmių sargo augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Būdami prie šio augalo, žmonės
+  - tampa vangūs.
+CLT_PLANT_EMERALD:
+  name: Smaragdo augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Šio augalo savininkai turi nertis
+  - iš kailio, kad galėtų jį įpirkti.
+CLT_PLANT_ENDERMAN:
+  name: Endermeno augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Jei su šiuo augalu elgsiesi neatsargiai, jis
+  - gali atsitiktinai teleportuotis!
+CLT_PLANT_ENDER_DRAGON:
+  name: Enderio Drakonės augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Tikras bosas tarp augalų.
+CLT_PLANT_END_STONE:
+  name: Endakmenio augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Augalas, dūzgiantis tuštuma.
+CLT_PLANT_FIRE:
+  name: Pirmapradės ugnies augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Augalas, teikiantis ir
+  - sunaikinimo šaltinius, ir
+  - atgimimą.
+  - '&ePirmapradžiai augalai neduoda daiktų'
+  - '&eir skirti tik veisimui.'
+CLT_PLANT_FISH:
+  name: Žuvies augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Iš šios sėklos sklinda prinokęs kvapas.
+CLT_PLANT_FLOWER:
+  name: Žydintis augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Gražiai pateiktas gausybės ragas.
+CLT_PLANT_FROG:
+  name: Varlės augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Kva kva!
+CLT_PLANT_GHAST:
+  name: Ghasto augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Augalas, kuris, kaip žinoma,
+  - kartais šaudo ugnies kamuoliais.
+CLT_PLANT_GLASS:
+  name: Stiklo augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Tinkamu kampu galėtum
+  - prisiekti, kad matai kiaurai šį augalą.
+CLT_PLANT_GLAZED:
+  name: Glazūruotas augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Augalas, augantis įmantriu raštu.
+CLT_PLANT_GLOWING_VINE:
+  name: Švytinčio vijoklio augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Iš šios sėklos sklinda silpna šviesa.
+CLT_PLANT_GLOW_SQUID:
+  name: Švytinčio kalmaro augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Žėrintis augalas su silpnu švytėjimu.
+CLT_PLANT_GOAT:
+  name: Ožkos augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Netikėtai smurtingas augalas, mėgstantis
+  - šokinėti aplinkui.
+CLT_PLANT_GRASS:
+  name: Žolės augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Bręstanti gyvybė, besiveržianti
+  - iš žemės.
+CLT_PLANT_GRAVEL:
+  name: Žvyro augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Šis augalas tikrai nežino, kaip
+  - nesubyrėti į gabalus.
+CLT_PLANT_GUARDIAN:
+  name: Gelmių sargo augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Palietus šis augalas išleidžia
+  - spyglius.
+CLT_PLANT_IGNEOUS:
+  name: Magminis augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Šį augalą suformavo karštis ir
+  - slėgis. Nežiūrėk į mane taip! Visi
+  - šie augalų aprašymai visiškai logiški.
+CLT_PLANT_LAPIS:
+  name: Lazurito augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Augalas su silpna magiška aura.
+CLT_PLANT_LIGHT:
+  name: Pirmapradės šviesos augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Augalas, skleidžiantis
+  - grynos meilės aurą.
+  - '&ePirmapradžiai augalai neduoda daiktų'
+  - '&eir skirti tik veisimui.'
+CLT_PLANT_MAGMA:
+  name: Magmos augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Augalas toks karštas, kad degina savo
+  - aplinką.
+CLT_PLANT_MAGMA_CUBE:
+  name: Magmos kubo augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Kai niekas nežiūri, šis augalas
+  - mėgsta šokinėti aukštyn žemyn.
+CLT_PLANT_MOSS:
+  name: Samanų augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Šis augalas linkęs plisti nevaldomai.
+CLT_PLANT_MUD:
+  name: Purvo augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Augalas, beveik toks pat purvinas kaip
+  - žemė, iš kurios jis kyla.
+CLT_PLANT_MUSHROOM:
+  name: Grybų augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Jo, augalas, kuris augina grybus.
+  - Čia viskas visiškai normalu.
+CLT_PLANT_NETHERRACK:
+  name: Netherrako augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Tvirtas, ištvermingas augalas, galintis išgyventi
+  - daugelyje vietovių.
+CLT_PLANT_NETHER_QUARTZ:
+  name: Netherio kvarco augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Šio augalo spygliai tokie aštrūs, kad
+  - su juo sunku dirbti.
+CLT_PLANT_PHANTOM:
+  name: Fantomo augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Augalas su aukštai iškeltais lapais.
+CLT_PLANT_PIG:
+  name: Kiaulės augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Augalas, kuris kartais prunkščia.
+CLT_PLANT_POWER:
+  name: Pirmapradės galios augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Augalas, tiesiog spinduliuojantis galią.
+  - '&ePirmapradžiai augalai neduoda daiktų'
+  - '&eir skirti tik veisimui.'
+CLT_PLANT_PURPUR:
+  name: Purpuro augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Keistas augalas, atrodo daug lengvesnis
+  - nei dauguma.
+CLT_PLANT_RABBIT:
+  name: Triušio augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Vabzdžiai didžiuotųsi.
+CLT_PLANT_RAINBOW:
+  name: Vaivorykštės augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Gali būti, o gal ir nebūti, kad šio augalo
+  - gale laukia puodas aukso.
+CLT_PLANT_RAW_COPPER:
+  name: Neapdoroto vario augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Paliktas vienas, šis augalas kartais
+  - pritraukia žaibą.
+CLT_PLANT_RAW_GOLD:
+  name: Neapdoroto aukso augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Šį augalą dažnai pavagia piglinai,
+  - jei jie netoliese.
+CLT_PLANT_RAW_IRON:
+  name: Neapdorotos geležies augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Tvirtas augalas, atlaikantis daugumą
+  - aplinkų.
+CLT_PLANT_REDSTONE:
+  name: Redstono augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Augalas, kiaurai persmelktas galios.
+CLT_PLANT_RED_SAND:
+  name: Raudonojo smėlio augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Šis augalas kartais gali subyrėti
+  - nuo vieno prisilietimo, bet... raudoniau.
+CLT_PLANT_REINFORCED:
+  name: Sutvirtintas augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Augalas, galintis išsilaikyti
+  - nepaisant nieko.
+CLT_PLANT_SAND:
+  name: Smėlio augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Šis augalas kartais gali subyrėti
+  - nuo vieno prisilietimo.
+CLT_PLANT_SAPLING:
+  name: Sodinuko augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Šis augalas net neturi jokios prasmės...
+CLT_PLANT_SCRAPPY:
+  name: Skarmaluotas augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Šis augalas tikrai yra
+  - sodininkystės viršūnė.
+CLT_PLANT_SHEEP:
+  name: Avies augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Augalas su šiurkščia vilnone tekstūra.
+CLT_PLANT_SHULKER:
+  name: Šulkerio augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Augalas, kuris dažnai pakyla
+  - virš žemės.
+CLT_PLANT_SKELETON:
+  name: Skeleto augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Augalas, kuris barška siūbuodamas.
+CLT_PLANT_SLIME:
+  name: Gleiviaus augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Kodėl jis toks lipnus?
+CLT_PLANT_SOUL:
+  name: Sielos augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Augalas, kurio klyksmą girdi,
+  - kai aplink tylu.
+CLT_PLANT_SPECTRUM:
+  name: Pirmapradžio spektro augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Augalas, šiek tiek keičiantis savo spalvą.
+  - '&ePirmapradžiai augalai neduoda daiktų'
+  - '&eir skirti tik veisimui.'
+CLT_PLANT_SPIDER:
+  name: Voro augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Užmušk jį, užmušk TUOJ PAT!
+CLT_PLANT_SQUID:
+  name: Kalmaro augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Atsargiai, vos palietus šį augalą
+  - jis gali aptaškyti rašalu
+  - viską aplinkui.
+CLT_PLANT_STAINED:
+  name: Dažytas augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Šis augalas išskaido šviesą į tikrą
+  - spektrą ant aplinkinių daiktų.
+CLT_PLANT_TERRA:
+  name: Terros augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Kietas žemiškas augalas, skylantis nuo spaudimo.
+CLT_PLANT_TURTLE:
+  name: Vėžlio augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Sėkla, apgaubta kietu kaip akmuo lukštu.
+CLT_PLANT_VILLAGER:
+  name: Kaimiečio augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Jo, sutraukėme kaimiečio esmę
+  - į augalą. Matyt, jam labai skaudėjo.
+CLT_PLANT_VINE:
+  name: Vijoklio augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Augalas, kuris akimirksniu pats
+  - susipainioja.
+CLT_PLANT_WATER:
+  name: Pirmapradžio vandens augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Augalas, puoselėjantis ir teikiantis
+  - gyvybę aplinkai.
+  - '&ePirmapradžiai augalai neduoda daiktų'
+  - '&eir skirti tik veisimui.'
+CLT_PLANT_WAXY:
+  name: Vaškinis augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Šio augalo sakai virsta
+  - tobulos žvakės formos vašku.
+CLT_PLANT_WEALTH:
+  name: Pirmapradžio turto augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Augalas, tiesiog šaukiantis apie prabangius turtus.
+  - '&ePirmapradžiai augalai neduoda daiktų'
+  - '&eir skirti tik veisimui.'
+CLT_PLANT_WITCH:
+  name: Raganos augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Augalas, skambantis taip, lyg tyliai
+  - murmėtų burtažodžius.
+CLT_PLANT_WITHER:
+  name: Witherio augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Mirtinas augalas, su kuriuo reikia elgtis
+  - atsargiai.
+CLT_PLANT_WITHER_ROSE:
+  name: Witherio rožės augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Šis augalas kažkaip skleidžia aplink save
+  - pulsuojančią kenksmingą aurą.
+CLT_PLANT_WITHER_SKELETON:
+  name: Wither skeleto augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Augalas, garsėjantis kaip sunkiai pagaunamas ir ištvermingas.
+CLT_PLANT_WOOLLY:
+  name: Vilnonis augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Vilnonis augalas nuo šaknų iki žiedlapių!
+CLT_PLANT_ZOMBIE:
+  name: Zombio augalas
+  type:
+  - '&7&oAugalas'
+  description:
+  - Iš šio augalo varva... kažkas...
+CLT_RADDISH:
+  name: Ridikas
+  type:
+  - '&7&oDerlius'
+  description:
+  - Mažos šviežios, traškios saulės kišenėlės.
+CLT_RADICCHIO:
+  name: Radikija
+  type:
+  - '&7&oDerlius'
+  description:
+  - Visų šių aprašymų rašymas trunka taip ilgai.
+  - Tai radikijiškai beviltiška.
+CLT_RAMEN_BEEF:
+  name: Ramenas su jautiena
+  type:
+  - '&7&oMaistas'
+  description:
+  - Ne itin sveikas pasirinkimas.
+  stats: &id004
+  - '&8⇨ &bPapildoma sveikata I &7(10:00)'
+CLT_RAMEN_BEEF_HEARTY:
+  name: Sotus ramenas su jautiena
+  type:
+  - '&7&oMaistas'
+  description:
+  - Sveikas pasirinkimas.
+  stats: &id005
+  - '&8⇨ &7Gydymas: &bVisiškas'
+  - '&8⇨ &bPapildoma sveikata II &7(10:00)'
+  - '&8⇨ &bGreitis I &7(10:00)'
+CLT_RAMEN_CHICKEN:
+  name: Ramenas su vištiena
+  type:
+  - '&7&oMaistas'
+  description:
+  - Ne itin sotus pasirinkimas.
+  stats: *id004
+CLT_RAMEN_CHICKEN_HEARTY:
+  name: Sotus ramenas su vištiena
+  type:
+  - '&7&oMaistas'
+  description:
+  - Sotus pasirinkimas.
+  stats: *id005
+CLT_RAMEN_SEAFOOD:
+  name: Ramenas su jūros gėrybėmis
+  type:
+  - '&7&oMaistas'
+  description:
+  - Ne itin džiuginantis pasirinkimas.
+  stats: *id004
+CLT_RAMEN_SEAFOOD_HEARTY:
+  name: Sotus ramenas su jūros gėrybėmis
+  type:
+  - '&7&oMaistas'
+  description:
+  - Džiuginantis pasirinkimas.
+  stats: *id005
+CLT_RAPESEED:
+  name: Rapsai
+  type:
+  - '&7&oDerlius'
+  description:
+  - Dažnai naudojami aliejui gaminti.
+CLT_RECIPE_UNLOCK:
+  name: Cultivation žinių ritinys
+  type:
+  - '&7&oĮrankis'
+  description:
+  - Spustelėk dešiniuoju, kad išmoktum
+  - Cultivation veisimo receptą.
+CLT_RHUBARB:
+  name: Rabarbaras
+  type:
+  - '&7&oDerlius'
+  description:
+  - Tik nepamiršk pašalinti lapų!
+CLT_RICE:
+  name: Ryžiai
+  type:
+  - '&7&oDerlius'
+  description:
+  - Atmink, gyveni tik ryžį!
+CLT_ROSEMARY:
+  name: Rozmarinas
+  type:
+  - '&7&oDerlius'
+  description:
+  - Dažnai ilgisi čiobrelio.
+CLT_RUNNER_BEANS:
+  name: Daugiažiedės pupelės
+  type:
+  - '&7&oDerlius'
+  description:
+  - Visada bando pabėgti.
+CLT_RUTABAGA:
+  name: Griežtis
+  type:
+  - '&7&oDerlius'
+  description:
+  - Tikrai skauda nevadinti jos švediška rope.
+CLT_SALMON_NIGIRI:
+  name: Nigiris su lašiša
+  type:
+  - '&7&oMaistas'
+  description:
+  - Malonus, bet subtilus skonis.
+  stats:
+  - '&8⇨ &7Gydymas: &b2 širdelės'
+  - '&8⇨ &bAtgijimas I &7(10:00)'
+CLT_SASSAFRAS:
+  name: Sasafras
+  type:
+  - '&7&oDerlius'
+  description:
+  - Valgomas šakninis alus, rimtai, pagūglink
+  - jį, dabar perku jį nuolat.
+CLT_SAUSAGE:
+  name: Dešrelė
+  type:
+  - '&7&oMaistas'
+  description:
+  - Šoninės brolis.
+  stats: &id007
+  - '&8⇨ &7Gydymas: &b1 širdelė'
+CLT_SEED_PACK:
+  name: Sėklų pakelis
+  type:
+  - '&7&oĮrankis'
+  description:
+  - Spustelėk dešiniuoju, kad atidarytum šį pakelį.
+  stats:
+  - '&8⇨ &7Nustatyta: &bNiekas'
+CLT_SHAKSHUKA:
+  name: Šakšuka
+  type:
+  - '&7&oMaistas'
+  description:
+  - Širdį šildantis patiekalas su begale kiaušinių.
+  stats:
+  - '&8⇨ &7Gydymas: &b4 širdelės'
+  - '&8⇨ &bKaimo herojus I &7(10:00)'
+  - '&8⇨ &bSėkmė I &7(10:00)'
+CLT_SHALLOT:
+  name: Askaloninis česnakas
+  type:
+  - '&7&oDerlius'
+  description:
+  - Askaloninių česnakų niekada nebūna per daug.
+CLT_SHEPHERDS_PIE:
+  name: Piemens pyragas
+  type:
+  - '&7&oMaistas'
+  description:
+  - Šiltas, sotus ir tiesiog nuostabus.
+  stats: *id006
+CLT_SHISO:
+  name: Perila
+  type:
+  - '&7&oDerlius'
+  description:
+  - Mėta su meilės priedu.
+CLT_SLICED_APPLE:
+  name: Pjaustytas obuolys
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_APRICOT:
+  name: Pjaustytas abrikosas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_ARTICHOKE:
+  name: Pjaustytas artišokas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_ASPARAGUS:
+  name: Pjaustytas smidras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_AUBERGINE:
+  name: Pjaustytas baklažanas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_AVOCADO:
+  name: Pjaustytas avokadas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_BANANA:
+  name: Pjaustytas bananas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_BASIL:
+  name: Pjaustytas bazilikas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_BAY_LEAF:
+  name: Pjaustytas lauro lapas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_BEEF:
+  name: Pjaustyta jautiena
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_BEETROOT:
+  name: Pjaustytas burokėlis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_BELL_PEPPER:
+  name: Pjaustyta paprika
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_BLACK_BEANS:
+  name: Pjaustytos juodosios pupelės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_BREAD:
+  name: Pjaustyta duona
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_BROCCOLI:
+  name: Pjaustytas brokolis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_BROWN_MUSHROOM:
+  name: Pjaustytas rudas grybas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_BRUSSELS_SPROUTS:
+  name: Pjaustyti briuselio kopūstai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_CABBAGE:
+  name: Pjaustytas kopūstas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_CARROT:
+  name: Pjaustyta morka
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_CAULIFLOWER:
+  name: Pjaustytas žiedinis kopūstas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_CAYENNE_PEPPER:
+  name: Pjaustytas kajeno pipiras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_CELERIAC:
+  name: Pjaustytas gumbinis salieras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_CELERY:
+  name: Pjaustytas salieras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_CHERRY:
+  name: Pjaustyta vyšnia
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_CHESTNUT:
+  name: Pjaustytas kaštonas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_CHICKEN:
+  name: Pjaustyta vištiena
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_CHICKPEAS:
+  name: Pjaustyti avinžirniai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_CHICORY:
+  name: Pjaustyta cikorija
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_CHILLY_PEPPER:
+  name: Pjaustytas čili pipiras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_CHIVES:
+  name: Pjaustyti laiškiniai česnakai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_CHORUS_FRUIT:
+  name: Pjaustytas koruso vaisius
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_CILANTRO:
+  name: Pjaustyta kalendra
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_CINNAMON:
+  name: Pjaustytas cinamonas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_CLOVE:
+  name: Pjaustytas gvazdikėlis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_COCOA_BEANS:
+  name: Pjaustytos kakavos pupelės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_COD:
+  name: Pjaustyta menkė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_COURGETTE:
+  name: Pjaustyta cukinija
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_CUCUMBER:
+  name: Pjaustytas agurkas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_CUMIN:
+  name: Pjaustytas kuminas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_CURRY_LEAF:
+  name: Pjaustytas kario lapas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_DILL:
+  name: Pjaustyti krapai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_EGG:
+  name: Pjaustytas kiaušinis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_ENCHANTED_GOLDEN_APPLE:
+  name: Pjaustytas užkerėtas auksinis obuolys
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_FENNEL:
+  name: Pjaustytas pankolis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_GARLIC:
+  name: Pjaustytas česnakas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_GINGER:
+  name: Pjaustytas imbieras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_GLOW_BERRIES:
+  name: Pjaustytos švytinčios uogos
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_GOLDEN_APPLE:
+  name: Pjaustytas auksinis obuolys
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_GOLDEN_CARROT:
+  name: Pjaustyta auksinė morka
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_GRAPE:
+  name: Pjaustyta vynuogė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_GREEN_APPLE:
+  name: Pjaustytas žalias obuolys
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_GREEN_BEANS:
+  name: Pjaustytos šparaginės pupelės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_GREEN_ONION:
+  name: Pjaustytas laiškinis svogūnas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_HAZELNUT:
+  name: Pjaustytas lazdyno riešutas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_HORSERADISH:
+  name: Pjaustytas krienas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_JALAPENO:
+  name: Pjaustytas jalapenjo pipiras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_JASMINE:
+  name: Pjaustytas jazminas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_JUNIPER_BERRY:
+  name: Pjaustytos kadagio uogos
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_KAFFIR_LIME:
+  name: Pjaustytas kafrinio laimo lapas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_KALE:
+  name: Pjaustytas lapinis kopūstas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_KELP:
+  name: Pjaustyti rudadumbliai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_KIWI:
+  name: Pjaustytas kivis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_LAVENDER:
+  name: Pjaustyta levanda
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_LEEK:
+  name: Pjaustytas poras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_LEMON:
+  name: Pjaustyta citrina
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_LETTUCE:
+  name: Pjaustytos salotos
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_LICORICE:
+  name: Pjaustytas saldymedis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_LIME:
+  name: Pjaustytas laimas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_MACE:
+  name: Pjaustytas muskato žiedas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_MANGO:
+  name: Pjaustytas mangas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_MARJORAM:
+  name: Pjaustytas mairūnas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_MARROW:
+  name: Pjaustytas kabačkas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_MELON:
+  name: Pjaustytas arbūzas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_MINT:
+  name: Pjaustyta mėta
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_MUSTARD_SEEDS:
+  name: Pjaustytos garstyčių sėklos
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_MUTTON:
+  name: Pjaustyta aviena
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_NETTLES:
+  name: Pjaustytos dilgėlės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_OKRA:
+  name: Pjaustyta okra
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_ONION:
+  name: Pjaustytas svogūnas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_ORANGE:
+  name: Pjaustytas apelsinas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_OREGANO:
+  name: Pjaustytas raudonėlis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_PARSLEY:
+  name: Pjaustytos petražolės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_PARSNIP:
+  name: Pjaustytas pastarnokas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_PEA:
+  name: Pjaustyti žirniai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_PEACH:
+  name: Pjaustytas persikas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_PEANUT:
+  name: Pjaustytas žemės riešutas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_PEAR:
+  name: Pjaustyta kriaušė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_PECAN:
+  name: Pjaustytas pekano riešutas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_PEPPER:
+  name: Pjaustyti juodieji pipirai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_PEPPERONI:
+  name: Pjaustyta peperoni dešra
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_PINEAPPLE:
+  name: Pjaustytas ananasas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_PINTO_BEANS:
+  name: Pjaustytos margosios pupelės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_PORKCHOP:
+  name: Pjaustyta kiauliena
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_POTATO:
+  name: Pjaustyta bulvė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_PUFFERFISH:
+  name: Pjaustyta pūsliažuvė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_PUMPKIN:
+  name: Pjaustytas moliūgas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_RABBIT:
+  name: Pjaustyta triušiena
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_RADDISH:
+  name: Pjaustytas ridikas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_RADICCHIO:
+  name: Pjaustyta radikija
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_RAPESEED:
+  name: Pjaustyti rapsai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_RED_MUSHROOM:
+  name: Pjaustytas raudonas grybas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_RHUBARB:
+  name: Pjaustytas rabarbaras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_RICE:
+  name: Pjaustyti ryžiai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_ROSEMARY:
+  name: Pjaustytas rozmarinas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_ROTTEN_FLESH:
+  name: Pjaustyta supuvusi mėsa
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_RUNNER_BEANS:
+  name: Pjaustytos daugiažiedės pupelės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_RUTABAGA:
+  name: Pjaustytas griežtis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_SALMON:
+  name: Pjaustyta lašiša
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_SASSAFRAS:
+  name: Pjaustytas sasafras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_SHALLOT:
+  name: Pjaustytas askaloninis česnakas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_SHISO:
+  name: Pjaustyta perila
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_SOY_BEANS:
+  name: Pjaustytos sojos pupelės
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_SPINACH:
+  name: Pjaustyti špinatai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_STAR_ANISE:
+  name: Pjaustytas žvaigždanyžis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_STRAWBERRY:
+  name: Pjaustyta braškė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_SUGAR:
+  name: Pjaustytas cukrus
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_SWEETCORN:
+  name: Pjaustyti cukriniai kukurūzai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_SWEET_BERRIES:
+  name: Pjaustytos saldžiosios uogos
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_SWEET_POTATO:
+  name: Pjaustyta saldžioji bulvė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_TARRAGON:
+  name: Pjaustytas peletrūnas
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_THYME:
+  name: Pjaustytas čiobrelis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_TOMATO:
+  name: Pjaustytas pomidoras
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_TURMERIC:
+  name: Pjaustyta ciberžolė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_TURNIP:
+  name: Pjaustyta ropė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_VANILLA:
+  name: Pjaustyta vanilė
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_WASABI:
+  name: Pjaustytas vasabis
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SLICED_WHEAT:
+  name: Pjaustyti kviečiai
+  type:
+  - '&7&oŠalutinis produktas'
+CLT_SOFT_BOILED_EGG:
+  name: Minkštai virtas kiaušinis
+  type:
+  - '&7&oMaistas'
+  description:
+  - Tiesiog virtas kiaušinis, ką čia daugiau pasakysi.
+  stats:
+  - '&8⇨ &7Gydymas: &b1 širdelė'
+  - '&8⇨ &7Kartais gali pasikviesti vištą į pagalbą.'
+CLT_SOYLENT:
+  name: Soilentas
+  type:
+  - '&7&oMaistas'
+  description:
+  - Viskas, ko reikia kūnui!
+  stats:
+  - '&8⇨ &bBlogas ženklas I &7(10:00)'
+  - '&8⇨ &bSilpnumas IV &7(10:00)'
+CLT_SOY_BEANS:
+  name: Sojos pupelės
+  type:
+  - '&7&oDerlius'
+  description:
+  - Ir atėjo sojų pienas.
+CLT_SPAGHETTI:
+  name: Spagečiai
+  type:
+  - '&7&oMaistas'
+  description:
+  - Tik toliau siurbk.
+  stats: *id007
+CLT_SPAGHETTI_AND_MEATBALLS:
+  name: Spagečiai su mėsos kukuliais
+  type:
+  - '&7&oMaistas'
+  description:
+  - Paprasta, klasiška ir sotu.
+  stats:
+  - '&8⇨ &7Gydymas: &b1 širdelė'
+  - '&8⇨ &bBlogas ženklas I &7(10:00)'
+CLT_SPINACH:
+  name: Špinatai
+  type:
+  - '&7&oDerlius'
+  description:
+  - Suvytinti su meile.
+CLT_STAR_ANISE:
+  name: Žvaigždanyžis
+  type:
+  - '&7&oDerlius'
+  description:
+  - Vienas geriausių ir savičiausių skonių.
+CLT_STRAWBERRY:
+  name: Braškė
+  type:
+  - '&7&oDerlius'
+  description:
+  - Tik pridėk grietinėlės!
+CLT_STRAWBERRY_JELLY:
+  name: Braškių želė
+  type:
+  - '&7&oDerlius'
+  description: *id008
+CLT_SUGARED_SKULL:
+  name: Cukrinė kaukolė
+  type:
+  - '&7&oMaistas'
+  description:
+  - Ar tai išvis maistas...?
+  stats:
+  - '&8⇨ &bTamsuma III &7(10:00)'
+CLT_SWEETCORN:
+  name: Cukriniai kukurūzai
+  type:
+  - '&7&oDerlius'
+  description:
+  - Galbūt geriausia daržovė apylinkėse.
+CLT_SWEET_BEEHIVE:
+  name: Saldus avilys
+  type:
+  - '&7&oMaistas'
+  description:
+  - Nežinau, kas tave paskatino tai gaminti!
+  stats:
+  - '&8⇨ &7Iškviečia kelias bites!'
+CLT_SWEET_POTATO:
+  name: Saldžioji bulvė
+  type:
+  - '&7&oDerlius'
+  description:
+  - Niam niam niam.
+CLT_TAQUITO:
+  name: Takitas
+  type:
+  - '&7&oMaistas'
+  description:
+  - Zimas didžiuotųsi!
+  stats:
+  - '&8⇨ &7Gydymas: &b4 širdelės'
+  - '&8⇨ &7Iškviečia Gir į pagalbą (tai geležinis golemas, nusiramink).'
+CLT_TARRAGON:
+  name: Peletrūnas
+  type:
+  - '&7&oDerlius'
+  description:
+  - Aš tai dedu tiesiog ant visko.
+  - 'Atskleisiu: nesu geras virėjas.'
+CLT_TATER_TOTS:
+  name: Bulvių kroketai
+  type:
+  - '&7&oMaistas'
+  description:
+  - Maži bulvių kąsneliai.
+  stats:
+  - '&8⇨ &7Gydymas: &b0.5 širdelės'
+  - '&8⇨ &bGreitis II &7(10:00)'
+CLT_THYME:
+  name: Čiobrelis
+  type:
+  - '&7&oDerlius'
+  description:
+  - Dažnai pasiilgsta rozmarino.
+CLT_TOMATO:
+  name: Pomidoras
+  type:
+  - '&7&oDerlius'
+  description:
+  - Tiesiai nuo vynmedžio.... ėė... krūmo?
+CLT_TORTILLAS:
+  name: Tortilijos
+  type:
+  - '&7&oDerlius'
+  description:
+  - Kukurūzų miltų malonumai
+CLT_TREE_APRICOT:
+  name: Abrikoso medis
+  type:
+  - '&7&oSodinukas'
+  description:
+  - Viduje slypi vienintelis nevilties kauliukas.
+  stats: &id009
+  - '&8⇨ &7Dizainas: &bBWhite'
+CLT_TREE_BANANA:
+  name: Banano medis
+  type:
+  - '&7&oSodinukas'
+  description:
+  - Medis, auginantis pirštus, šiurpu!
+  stats:
+  - '&8⇨ &7Dizainas: &bSefiraat'
+CLT_TREE_CHERRY:
+  name: Vyšnios medis
+  type:
+  - '&7&oSodinukas'
+  description:
+  - Surišk mazgą!
+  stats:
+  - '&8⇨ &7Dizainas: &bReasonFoundDecoy'
+CLT_TREE_CHESTNUT:
+  name: Kaštono medis
+  type:
+  - '&7&oSodinukas'
+  description:
+  - Medis, aiškiai sukurtas tam, kad į jį laipiotum.
+  stats: &id010
+  - '&8⇨ &7Dizainas: &bABitOddish'
+CLT_TREE_GREEN_APPLE:
+  name: Žaliojo obuolio medis
+  type:
+  - '&7&oSodinukas'
+  description:
+  - Užaugina didelius, traškius žalius obuolius.
+  stats: *id009
+CLT_TREE_HAZELNUT:
+  name: Lazdynas
+  type:
+  - '&7&oSodinukas'
+  description:
+  - Šio medžio purtymas yra vaikystės pramoga.
+  stats: *id010
+CLT_TREE_KIWI:
+  name: Kivio medis
+  type:
+  - '&7&oSodinukas'
+  description:
+  - Naujosios Zelandijos medis? Ar teisingai supratau?
+  stats: *id010
+CLT_TREE_LEMON:
+  name: Citrinos medis
+  type:
+  - '&7&oSodinukas'
+  description:
+  - Vien žiūrint į šį medį jau rūgštu burnoje.
+  stats: &id011
+  - '&8⇨ &7Dizainas: &bJeff'
+CLT_TREE_LIME:
+  name: Laimo medis
+  type:
+  - '&7&oSodinukas'
+  description:
+  - Ar žinojai, kad laimai tėra citrinos, sulaikiusios kvėpavimą?
+  stats: *id010
+CLT_TREE_MANGO:
+  name: Mango medis
+  type:
+  - '&7&oSodinukas'
+  description:
+  - Geriausias, kai pats prinokęs.
+  stats: *id009
+CLT_TREE_ORANGE:
+  name: Apelsino medis
+  type:
+  - '&7&oSodinukas'
+  description:
+  - Maži saulės rutuliukai.
+  stats: *id011
+CLT_TREE_PEACH:
+  name: Persiko medis
+  type:
+  - '&7&oSodinukas'
+  description:
+  - Rodos, Džeimsas šito ieškojo?
+  stats: *id010
+CLT_TREE_PEAR:
+  name: Kriaušės medis
+  type:
+  - '&7&oSodinukas'
+  description:
+  - Kriaušių pora buvo suporuota, kad būtų po lygiai.
+  stats: *id009
+CLT_TREE_PECAN:
+  name: Pekano medis
+  type:
+  - '&7&oSodinukas'
+  description:
+  - Ar galime užauginti šį medį? Taip, pekan... galime!
+  stats: *id009
+CLT_TREE_PINEAPPLE:
+  name: Ananaso medis
+  type:
+  - '&7&oSodinukas'
+  description:
+  - KUR MANO PICA?
+  stats: *id010
+CLT_TURMERIC:
+  name: Ciberžolė
+  type:
+  - '&7&oDerlius'
+  description:
+  - Stiprus muskusinis aromatas, praturtinantis daugelį patiekalų.
+CLT_TURNIP:
+  name: Ropė
+  type:
+  - '&7&oDerlius'
+  description:
+  - Išspręs visas gyvenimo problemas.
+CLT_VANILLA:
+  name: Vanilė
+  type:
+  - '&7&oDerlius'
+  description:
+  - 'Instrukcija: panardink tiesiai į latę'
+CLT_WASABI:
+  name: Vasabis
+  type:
+  - '&7&oDerlius'
+  description:
+  - Gelbėkit... vasabis...
+CLT_WITHER_ROSE_SALAD:
+  name: Witherio rožių salotos
+  type:
+  - '&7&oMaistas'
+  description:
+  - Kupinas galios, bet su žiauriu šalutiniu poveikiu.
+  stats:
+  - '&8⇨ &7Gydymas: &bVisiškas'
+  - '&8⇨ &bNykumas II &7(10:00)'
+  - '&8⇨ &bPapildoma sveikata XX &7(10:00)'

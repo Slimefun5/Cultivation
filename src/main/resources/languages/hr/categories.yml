@@ -1,0 +1,13 @@
+cultivation:
+  main: Cultivation
+  hidden: Skriveno
+  crafting: Predmeti za izradu
+  tools: Alati
+  machines: Strojevi
+  plants: Biljke
+  bushes: Grmovi
+  trees: Stabla
+  produce: Plodine
+  by-products: Nusproizvodi
+  foods: Hrana
+  plant_codex: Kodeks biljaka

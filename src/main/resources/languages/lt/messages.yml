@@ -1,0 +1,65 @@
+lore:
+  seed-pack-set-to: Nustatyta
+  knowledge-script-unlocks: Atrakina
+  drop-level: Derliaus lygis
+  growth-speed: Augimo greitis
+  breed-strength: Veisimo stiprumas
+command:
+  no-permission: Neturi leidimo tai daryti.
+  invalid-subcommand: Nurodyk tinkamą subkomandą.
+  players-only: Šią komandą gali vykdyti tik žaidėjas.
+  hold-seed-pack: Tam turi laikyti sėklų pakelį.
+  pack-empty: Šis pakelis tuščias!
+  pack-contents: Turinys
+  pack-entry: Lygis %level%, greitis %speed%, stiprumas %strength%
+kitchen:
+  recipe-disabled: Šis receptas išjungtas.
+  no-recipe: Nėra tinkamo recepto.
+  not-enough-power: Nepakanka energijos.
+  input-empty: Įdėk daiktą į įvesties langelį.
+  cooked: Skanu!
+food:
+  eaten: Puiku! Esi visiškai sotus.
+  not-hungry: Dar nesi alkanas! Valgyti gali tik kartą per pusę dienos (10 minučių).
+  palate-cleansed: Jauti, kaip tavo gomurys apsivalo.
+  ouch: Ai!
+knowledge-script:
+  learned: 'Išmokai veisti augalą: %plant%.'
+seed-pack:
+  title: Sėklų pakelis
+  unstack-first: Pirmiausia išskirstyk sėklų pakelių krūvą.
+  not-a-seed: Daiktas turi būti Cultivation augalo sėkla.
+  empty-before-change: Prieš keisdamas pakelio augalą, jį ištuštink.
+  no-plant-set: Dar nenustatei augalo.
+  none-stored: Neturi šios sėklos su šiais lygiais.
+  set-here: Nustatyk sėklą čia
+  retrieve-here: Paimk čia
+  no-seed-set: Sėkla nenustatyta
+  no-seed-set-lore:
+  - Laikydamas sėklą, spustelėk
+  - piktogramą kairėje, kad nustatytum pakelį.
+  empty-set: Tuščias rinkinys
+  empty-set-lore:
+  - Neturi sėklų, atitinkančių
+  - šiuos lygius.
+  stored-seed: Saugomos sėklos rūšis
+  take-seed: Paimk sėklą iš pakelio
+  level: Lygis
+  speed: Greitis
+  strength: Stiprumas
+  left-click: Kairysis spustelėjimas
+  right-click: Dešinysis spustelėjimas
+  increase: 'Padidinti: %stat%'
+  decrease: 'Sumažinti: %stat%'
+  current: Dabartinis
+codex:
+  title: Augalų kodeksas
+  child: Augalas palikuonis
+  mother: Motininis augalas
+  father: Tėvinis augalas
+  growth-rate: Augimo sparta
+  not-discovered: Neatrasta
+  not-discovered-lore:
+  - Dar neatradai, kaip
+  - išveisti šį augalą!
+  discovery: Atradimas

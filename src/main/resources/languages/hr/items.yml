@@ -1,0 +1,6674 @@
+CLT_APRICOT:
+  name: Marelica
+  type:
+  - '&7&oPlodina'
+  description:
+  - Od ovoga se mogu napraviti Pokéballovi.
+  - '...'
+  - Kako to misliš, to je nešto drugo...?
+CLT_ARTICHOKE:
+  name: Artičoka
+  type:
+  - '&7&oPlodina'
+  description:
+  - Iščupaj joj SRCE!
+CLT_ASPARAGUS:
+  name: Šparoga
+  type:
+  - '&7&oPlodina'
+  description:
+  - Oprezno kasnije u kupaonici.
+CLT_AUBERGINE:
+  name: Patlidžan
+  type:
+  - '&7&oPlodina'
+  description:
+  - Jarko ljubičast i 100% NIJE u obliku jajeta.
+  - Englezi ga ipak zovu "biljka-jaje", zamisli?
+CLT_AVOCADO:
+  name: Avokado
+  type:
+  - '&7&oPlodina'
+  description:
+  - Ono o čemu hipsteri sanjaju.
+CLT_BACON_SANDWICH:
+  name: Sendvič sa slaninom
+  type:
+  - '&7&oHrana'
+  description:
+  - Jednostavna klasika!
+  stats:
+  - '&8⇨ &7Iscjeljenje: &b2 srca'
+  - '&8⇨ &bSnaga I &7(10:00)'
+  - '&8⇨ &bBrzina I &7(10:00)'
+CLT_BAGEL:
+  name: Bejgl
+  type:
+  - '&7&oHrana'
+  description:
+  - Prepečen? Ili...
+  stats:
+  - '&8⇨ &7Iscjeljenje: &b2.5 srca'
+CLT_BAGEL_BITE:
+  name: Mini bejgl
+  type:
+  - '&7&oHrana'
+  description:
+  - Jedi pizzu kad god poželiš!
+  stats:
+  - '&8⇨ &7Peče ti usta sa svakim zalogajem!'
+CLT_BAGEL_CREAM_CHEESE:
+  name: Bejgl s krem sirom
+  type:
+  - '&7&oHrana'
+  description:
+  - Toliko je dobro da ćeš vjerojatno htjeti još jedno.
+  stats:
+  - '&8⇨ &7Iscjeljenje: &b5 srca'
+  - '&8⇨ &bViše zdravlja I &7(10:00)'
+CLT_BANANA:
+  name: Banana
+  type:
+  - '&7&oPlodina'
+  description:
+  - Sviđa mi se kako izgleda, a još više kako se guli!
+CLT_BASIL:
+  name: Bosiljak
+  type:
+  - '&7&oPlodina'
+  description:
+  - Sladak list s blagim paprenim okusom na kraju.
+CLT_BAY_LEAF:
+  name: Lovorov list
+  type:
+  - '&7&oPlodina'
+  description:
+  - Snažna aroma s mnogo namjena.
+CLT_BELL_PEPPER:
+  name: Paprika
+  type:
+  - '&7&oPlodina'
+  description:
+  - Ovo stvarno zvoni istinom.
+CLT_BISCUIT:
+  name: Pogačica
+  type:
+  - '&7&oHrana'
+  description:
+  - Mali zalogaj s golemim okusom.
+  stats: &id002
+  - '&8⇨ &7Lansira te u zrak'
+CLT_BISCUIT_BASE:
+  name: Podloga od pogačica
+  type:
+  - '&7&oPlodina'
+  description:
+  - Samo zato što je sad spljošteno, ne znači
+  - da ga smiješ jesti sirovog.
+CLT_BISCUIT_DOUGH:
+  name: Tijesto za pogačice
+  type:
+  - '&7&oPlodina'
+  description:
+  - 'Samo se podsjeti: "Ne jedi ga sirovog."'
+CLT_BLACK_BEANS:
+  name: Crni grah
+  type:
+  - '&7&oPlodina'
+  description:
+  - Ukusne vegetarijanske bjelančevine.
+CLT_BLENDED_APPLE:
+  name: Izmiksana jabuka
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_APRICOT:
+  name: Izmiksana marelica
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_ARTICHOKE:
+  name: Izmiksana artičoka
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_ASPARAGUS:
+  name: Izmiksana šparoga
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_AUBERGINE:
+  name: Izmiksani patlidžan
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_AVOCADO:
+  name: Izmiksani avokado
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_BANANA:
+  name: Izmiksana banana
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_BASIL:
+  name: Izmiksani bosiljak
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_BAY_LEAF:
+  name: Izmiksani lovorov list
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_BEEF:
+  name: Izmiksana govedina
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_BEETROOT:
+  name: Izmiksana cikla
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_BELL_PEPPER:
+  name: Izmiksana paprika
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_BLACK_BEANS:
+  name: Izmiksani crni grah
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_BREAD:
+  name: Izmiksani kruh
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_BROCCOLI:
+  name: Izmiksana brokula
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_BROWN_MUSHROOM:
+  name: Izmiksana smeđa gljiva
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_BRUSSELS_SPROUTS:
+  name: Izmiksane prokulice
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_CABBAGE:
+  name: Izmiksani kupus
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_CARROT:
+  name: Izmiksana mrkva
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_CAULIFLOWER:
+  name: Izmiksana cvjetača
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_CAYENNE_PEPPER:
+  name: Izmiksani kajenski papar
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_CELERIAC:
+  name: Izmiksani celer korjenaš
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_CELERY:
+  name: Izmiksani celer
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_CHERRY:
+  name: Izmiksana trešnja
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_CHESTNUT:
+  name: Izmiksani kesten
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_CHICKEN:
+  name: Izmiksana piletina
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_CHICKPEAS:
+  name: Izmiksani slanutak
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_CHICORY:
+  name: Izmiksana cikorija
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_CHILLY_PEPPER:
+  name: Izmiksana čili papričica
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_CHIVES:
+  name: Izmiksani vlasac
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_CHORUS_FRUIT:
+  name: Izmiksano voće chorusa
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_CILANTRO:
+  name: Izmiksani korijandar
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_CINNAMON:
+  name: Izmiksani cimet
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_CLOVE:
+  name: Izmiksani klinčić
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_COCOA_BEANS:
+  name: Izmiksane sjemenke kakaa
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_COD:
+  name: Izmiksani bakalar
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_COURGETTE:
+  name: Izmiksana tikvica
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_CUCUMBER:
+  name: Izmiksani krastavac
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_CUMIN:
+  name: Izmiksani kumin
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_CURRY_LEAF:
+  name: Izmiksani list karija
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_DILL:
+  name: Izmiksani kopar
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_EGG:
+  name: Izmiksano jaje
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_ENCHANTED_GOLDEN_APPLE:
+  name: Izmiksana začarana zlatna jabuka
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_FENNEL:
+  name: Izmiksani komorač
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_GARLIC:
+  name: Izmiksani češnjak
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_GINGER:
+  name: Izmiksani đumbir
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_GLOW_BERRIES:
+  name: Izmiksane svjetleće bobice
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_GOLDEN_APPLE:
+  name: Izmiksana zlatna jabuka
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_GOLDEN_CARROT:
+  name: Izmiksana zlatna mrkva
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_GRAPE:
+  name: Izmiksano grožđe
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_GREEN_APPLE:
+  name: Izmiksana zelena jabuka
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_GREEN_BEANS:
+  name: Izmiksane mahune
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_GREEN_ONION:
+  name: Izmiksani mladi luk
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_HAZELNUT:
+  name: Izmiksani lješnjak
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_HORSERADISH:
+  name: Izmiksani hren
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_JALAPENO:
+  name: Izmiksani jalapeño
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_JASMINE:
+  name: Izmiksani jasmin
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_JUNIPER_BERRY:
+  name: Izmiksane bobice borovice
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_KAFFIR_LIME:
+  name: Izmiksani list kafir limete
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_KALE:
+  name: Izmiksani kovrčavi kelj
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_KELP:
+  name: Izmiksani kelp
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_KIWI:
+  name: Izmiksani kivi
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_LAVENDER:
+  name: Izmiksana lavanda
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_LEEK:
+  name: Izmiksani poriluk
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_LEMON:
+  name: Izmiksani limun
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_LETTUCE:
+  name: Izmiksana zelena salata
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_LICORICE:
+  name: Izmiksani sladić
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_LIME:
+  name: Izmiksana limeta
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_MACE:
+  name: Izmiksani muškatni cvijet
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_MANGO:
+  name: Izmiksani mango
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_MARJORAM:
+  name: Izmiksani mažuran
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_MARROW:
+  name: Izmiksana tikva
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_MELON:
+  name: Izmiksana lubenica
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_MINT:
+  name: Izmiksana metvica
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_MUSTARD_SEEDS:
+  name: Izmiksane sjemenke gorušice
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_MUTTON:
+  name: Izmiksana janjetina
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_NETTLES:
+  name: Izmiksane koprive
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_OKRA:
+  name: Izmiksana bamija
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_ONION:
+  name: Izmiksani luk
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_ORANGE:
+  name: Izmiksana naranča
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_OREGANO:
+  name: Izmiksani origano
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_PARSLEY:
+  name: Izmiksani peršin
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_PARSNIP:
+  name: Izmiksani pastrnjak
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_PEA:
+  name: Izmiksani grašak
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_PEACH:
+  name: Izmiksana breskva
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_PEANUT:
+  name: Izmiksani kikiriki
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_PEAR:
+  name: Izmiksana kruška
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_PECAN:
+  name: Izmiksani pekan orah
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_PEPPER:
+  name: Izmiksani crni papar
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_PEPPERONI:
+  name: Izmiksani pepperoni
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_PINEAPPLE:
+  name: Izmiksani ananas
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_PINTO_BEANS:
+  name: Izmiksani pinto grah
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_PORKCHOP:
+  name: Izmiksana svinjetina
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_POTATO:
+  name: Izmiksani krumpir
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_PUFFERFISH:
+  name: Izmiksana napuhača
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_PUMPKIN:
+  name: Izmiksana bundeva
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_RABBIT:
+  name: Izmiksani zec
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_RADDISH:
+  name: Izmiksana rotkvica
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_RADICCHIO:
+  name: Izmiksani radič
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_RAPESEED:
+  name: Izmiksana uljana repica
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_RED_MUSHROOM:
+  name: Izmiksana crvena gljiva
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_RHUBARB:
+  name: Izmiksana rabarbara
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_RICE:
+  name: Izmiksana riža
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_ROSEMARY:
+  name: Izmiksani ružmarin
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_ROTTEN_FLESH:
+  name: Izmiksano trulo meso
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_RUNNER_BEANS:
+  name: Izmiksani grah penjač
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_RUTABAGA:
+  name: Izmiksana korabica
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_SALMON:
+  name: Izmiksani losos
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_SASSAFRAS:
+  name: Izmiksani sasafras
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_SHALLOT:
+  name: Izmiksana ljutika
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_SHISO:
+  name: Izmiksani šiso
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_SOY_BEANS:
+  name: Izmiksana soja
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_SPINACH:
+  name: Izmiksani špinat
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_STAR_ANISE:
+  name: Izmiksani zvjezdasti anis
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_STRAWBERRY:
+  name: Izmiksana jagoda
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_SUGAR:
+  name: Izmiksani šećer
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_SWEETCORN:
+  name: Izmiksani kukuruz šećerac
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_SWEET_BERRIES:
+  name: Izmiksane slatke bobice
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_SWEET_POTATO:
+  name: Izmiksani slatki krumpir
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_TARRAGON:
+  name: Izmiksani estragon
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_THYME:
+  name: Izmiksani timijan
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_TOMATO:
+  name: Izmiksana rajčica
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_TURMERIC:
+  name: Izmiksana kurkuma
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_TURNIP:
+  name: Izmiksana repa
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_VANILLA:
+  name: Izmiksana vanilija
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_WASABI:
+  name: Izmiksani wasabi
+  type:
+  - '&7&oNusproizvod'
+CLT_BLENDED_WHEAT:
+  name: Izmiksana pšenica
+  type:
+  - '&7&oNusproizvod'
+CLT_BLUE_CANDY:
+  name: Plavi bombon
+  type:
+  - '&7&oHrana'
+  description:
+  - Divno sladak bombon.
+  stats:
+  - '&8⇨ &7Stvara Plavka'
+CLT_BOILED_APPLE:
+  name: Kuhana jabuka
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_APRICOT:
+  name: Kuhana marelica
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_ARTICHOKE:
+  name: Kuhana artičoka
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_ASPARAGUS:
+  name: Kuhana šparoga
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_AUBERGINE:
+  name: Kuhani patlidžan
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_AVOCADO:
+  name: Kuhani avokado
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_BANANA:
+  name: Kuhana banana
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_BASIL:
+  name: Kuhani bosiljak
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_BAY_LEAF:
+  name: Kuhani lovorov list
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_BEEF:
+  name: Kuhana govedina
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_BEETROOT:
+  name: Kuhana cikla
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_BELL_PEPPER:
+  name: Kuhana paprika
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_BLACK_BEANS:
+  name: Kuhani crni grah
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_BREAD:
+  name: Kuhani kruh
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_BROCCOLI:
+  name: Kuhana brokula
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_BROWN_MUSHROOM:
+  name: Kuhana smeđa gljiva
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_BRUSSELS_SPROUTS:
+  name: Kuhane prokulice
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_CABBAGE:
+  name: Kuhani kupus
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_CARROT:
+  name: Kuhana mrkva
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_CAULIFLOWER:
+  name: Kuhana cvjetača
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_CAYENNE_PEPPER:
+  name: Kuhani kajenski papar
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_CELERIAC:
+  name: Kuhani celer korjenaš
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_CELERY:
+  name: Kuhani celer
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_CHERRY:
+  name: Kuhana trešnja
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_CHESTNUT:
+  name: Kuhani kesten
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_CHICKEN:
+  name: Kuhana piletina
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_CHICKPEAS:
+  name: Kuhani slanutak
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_CHICORY:
+  name: Kuhana cikorija
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_CHILLY_PEPPER:
+  name: Kuhana čili papričica
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_CHIVES:
+  name: Kuhani vlasac
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_CHORUS_FRUIT:
+  name: Kuhano voće chorusa
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_CILANTRO:
+  name: Kuhani korijandar
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_CINNAMON:
+  name: Kuhani cimet
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_CLOVE:
+  name: Kuhani klinčić
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_COCOA_BEANS:
+  name: Kuhane sjemenke kakaa
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_COD:
+  name: Kuhani bakalar
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_COURGETTE:
+  name: Kuhana tikvica
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_CUCUMBER:
+  name: Kuhani krastavac
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_CUMIN:
+  name: Kuhani kumin
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_CURRY_LEAF:
+  name: Kuhani list karija
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_DILL:
+  name: Kuhani kopar
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_EGG:
+  name: Kuhano jaje
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_ENCHANTED_GOLDEN_APPLE:
+  name: Kuhana začarana zlatna jabuka
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_FENNEL:
+  name: Kuhani komorač
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_GARLIC:
+  name: Kuhani češnjak
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_GINGER:
+  name: Kuhani đumbir
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_GLOW_BERRIES:
+  name: Kuhane svjetleće bobice
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_GOLDEN_APPLE:
+  name: Kuhana zlatna jabuka
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_GOLDEN_CARROT:
+  name: Kuhana zlatna mrkva
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_GRAPE:
+  name: Kuhano grožđe
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_GREEN_APPLE:
+  name: Kuhana zelena jabuka
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_GREEN_BEANS:
+  name: Kuhane mahune
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_GREEN_ONION:
+  name: Kuhani mladi luk
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_HAZELNUT:
+  name: Kuhani lješnjak
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_HORSERADISH:
+  name: Kuhani hren
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_JALAPENO:
+  name: Kuhani jalapeño
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_JASMINE:
+  name: Kuhani jasmin
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_JUNIPER_BERRY:
+  name: Kuhane bobice borovice
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_KAFFIR_LIME:
+  name: Kuhani list kafir limete
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_KALE:
+  name: Kuhani kovrčavi kelj
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_KELP:
+  name: Kuhani kelp
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_KIWI:
+  name: Kuhani kivi
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_LAVENDER:
+  name: Kuhana lavanda
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_LEEK:
+  name: Kuhani poriluk
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_LEMON:
+  name: Kuhani limun
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_LETTUCE:
+  name: Kuhana zelena salata
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_LICORICE:
+  name: Kuhani sladić
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_LIME:
+  name: Kuhana limeta
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_MACE:
+  name: Kuhani muškatni cvijet
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_MANGO:
+  name: Kuhani mango
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_MARJORAM:
+  name: Kuhani mažuran
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_MARROW:
+  name: Kuhana tikva
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_MELON:
+  name: Kuhana lubenica
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_MINT:
+  name: Kuhana metvica
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_MUSTARD_SEEDS:
+  name: Kuhane sjemenke gorušice
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_MUTTON:
+  name: Kuhana janjetina
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_NETTLES:
+  name: Kuhane koprive
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_OKRA:
+  name: Kuhana bamija
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_ONION:
+  name: Kuhani luk
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_ORANGE:
+  name: Kuhana naranča
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_OREGANO:
+  name: Kuhani origano
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_PARSLEY:
+  name: Kuhani peršin
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_PARSNIP:
+  name: Kuhani pastrnjak
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_PEA:
+  name: Kuhani grašak
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_PEACH:
+  name: Kuhana breskva
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_PEANUT:
+  name: Kuhani kikiriki
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_PEAR:
+  name: Kuhana kruška
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_PECAN:
+  name: Kuhani pekan orah
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_PEPPER:
+  name: Kuhani crni papar
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_PEPPERONI:
+  name: Kuhani pepperoni
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_PINEAPPLE:
+  name: Kuhani ananas
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_PINTO_BEANS:
+  name: Kuhani pinto grah
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_PORKCHOP:
+  name: Kuhana svinjetina
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_POTATO:
+  name: Kuhani krumpir
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_PUFFERFISH:
+  name: Kuhana napuhača
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_PUMPKIN:
+  name: Kuhana bundeva
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_RABBIT:
+  name: Kuhani zec
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_RADDISH:
+  name: Kuhana rotkvica
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_RADICCHIO:
+  name: Kuhani radič
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_RAPESEED:
+  name: Kuhana uljana repica
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_RED_MUSHROOM:
+  name: Kuhana crvena gljiva
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_RHUBARB:
+  name: Kuhana rabarbara
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_RICE:
+  name: Kuhana riža
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_ROSEMARY:
+  name: Kuhani ružmarin
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_ROTTEN_FLESH:
+  name: Kuhano trulo meso
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_RUNNER_BEANS:
+  name: Kuhani grah penjač
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_RUTABAGA:
+  name: Kuhana korabica
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_SALMON:
+  name: Kuhani losos
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_SASSAFRAS:
+  name: Kuhani sasafras
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_SHALLOT:
+  name: Kuhana ljutika
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_SHISO:
+  name: Kuhani šiso
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_SOY_BEANS:
+  name: Kuhana soja
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_SPINACH:
+  name: Kuhani špinat
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_STAR_ANISE:
+  name: Kuhani zvjezdasti anis
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_STRAWBERRY:
+  name: Kuhana jagoda
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_SUGAR:
+  name: Kuhani šećer
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_SWEETCORN:
+  name: Kuhani kukuruz šećerac
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_SWEET_BERRIES:
+  name: Kuhane slatke bobice
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_SWEET_POTATO:
+  name: Kuhani slatki krumpir
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_TARRAGON:
+  name: Kuhani estragon
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_THYME:
+  name: Kuhani timijan
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_TOMATO:
+  name: Kuhana rajčica
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_TURMERIC:
+  name: Kuhana kurkuma
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_TURNIP:
+  name: Kuhana repa
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_VANILLA:
+  name: Kuhana vanilija
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_WASABI:
+  name: Kuhani wasabi
+  type:
+  - '&7&oNusproizvod'
+CLT_BOILED_WHEAT:
+  name: Kuhana pšenica
+  type:
+  - '&7&oNusproizvod'
+CLT_BOWL_OF_STEVE:
+  name: Zdjela... Stevea?
+  type:
+  - '&7&oHrana'
+  description:
+  - Koji je ovo &%£$
+  stats:
+  - '&8⇨ &bRudarski umor X &7(10:00)'
+  - '&8⇨ &bUsporenost VI &7(10:00)'
+  - '&8⇨ &bSnaga X &7(10:00)'
+  - '&8⇨ &7Spušta te na 1/2 srca'
+CLT_BROCCOLI:
+  name: Brokula
+  type:
+  - '&7&oPlodina'
+  description:
+  - Jesi li ti div koji drži stablo?
+  - Ma ne, samo malo stabalce :)
+CLT_BRUSSELS_SPROUTS:
+  name: Prokulice
+  type:
+  - '&7&oPlodina'
+  description:
+  - Plinovita poslastica.
+CLT_BUSH_ARTICHOKE:
+  name: Grm artičoke
+  type:
+  - '&7&oGrm'
+  description:
+  - Bosiljak znači kraljevska biljka, barem
+  - na grčkom. Uzdah. Igre riječi su teške.
+CLT_BUSH_ASPARAGUS:
+  name: Grm šparoge
+  type:
+  - '&7&oGrm'
+  description:
+  - Ovaj grm šparoga ima dobro držanje,
+  - uspravan kao stabljika!
+CLT_BUSH_AUBERGINE:
+  name: Grm patlidžana
+  type:
+  - '&7&oGrm'
+  description:
+  - Odbijam ga zvati modrim patlidžanom. Jednostavno odbijam.
+CLT_BUSH_AVOCADO:
+  name: Grm avokada
+  type:
+  - '&7&oGrm'
+  description:
+  - Ovaj grm uzgojen je posebno da ne
+  - troši previše vode.
+CLT_BUSH_BASIL:
+  name: Grm bosiljka
+  type:
+  - '&7&oGrm'
+  description:
+  - Vedar grm pun razigranih mušica.
+CLT_BUSH_BAY_LEAF:
+  name: Grm lovora
+  type:
+  - '&7&oGrm'
+  description:
+  - Miris ovog grma širi se kilometrima.
+CLT_BUSH_BELL_PEPPER:
+  name: Grm paprike
+  type:
+  - '&7&oGrm'
+  description:
+  - Oprezno kad prolaziš pokraj njega, mogao bi
+  - zazvoniti.
+CLT_BUSH_BLACK_BEANS:
+  name: Grm crnog graha
+  type:
+  - '&7&oGrm'
+  description:
+  - 'Ovaj ti grm nježno šapuće:'
+  - Ti si zrno po zrno divan čovjek.
+CLT_BUSH_BROCCOLI:
+  name: Grm brokule
+  type:
+  - '&7&oGrm'
+  description:
+  - Mala stabla koja se mogu jesti? Tko je to izmislio!?
+CLT_BUSH_BRUSSELS_SPROUTS:
+  name: Grm prokulica
+  type:
+  - '&7&oGrm'
+  description:
+  - Grm koji ponekad ispušta otrovne
+  - plinove.
+CLT_BUSH_CABBAGE:
+  name: Grm kupusa
+  type:
+  - '&7&oGrm'
+  description:
+  - Grm koji sa sobom nosi pozamašnu
+  - količinu emocionalnog kupusa.
+CLT_BUSH_CAULIFLOWER:
+  name: Grm cvjetače
+  type:
+  - '&7&oGrm'
+  description:
+  - Grm koji može stvarati male oblačiće
+  - užitka.
+CLT_BUSH_CAYENNE_PEPPER:
+  name: Grm kajenskog papra
+  type:
+  - '&7&oGrm'
+  description:
+  - Grm s paprenim stavom.
+CLT_BUSH_CELERIAC:
+  name: Grm celera korjenaša
+  type:
+  - '&7&oGrm'
+  description:
+  - Još jedan korijen koji raste na grmu?
+  - SefiGlupo™
+CLT_BUSH_CELERY:
+  name: Grm celera
+  type:
+  - '&7&oGrm'
+  description:
+  - Ovaj grm je suvišan.
+  - Sefi ne voli celer.
+CLT_BUSH_CHICKPEAS:
+  name: Grm slanutka
+  type:
+  - '&7&oGrm'
+  description:
+  - Grm nastao križanjem kokoši i
+  - zrna graška. ZNANOST.
+CLT_BUSH_CHICORY:
+  name: Grm cikorije
+  type:
+  - '&7&oGrm'
+  description:
+  - Mislio sam da je cikorija korijen? Je li ovaj dodatak
+  - uopće napravio svoje istraživanje!?
+CLT_BUSH_CHILLI_PEPPER:
+  name: Grm čili papričice
+  type:
+  - '&7&oGrm'
+  description:
+  - Samo gledanje u ovaj grm peče mi jezik.
+CLT_BUSH_CHIVES:
+  name: Grm vlasca
+  type:
+  - '&7&oGrm'
+  description:
+  - Grm koji daje ono što je, zapravo, najmanji
+  - luk na svijetu.
+CLT_BUSH_CILANTRO:
+  name: Grm korijandra
+  type:
+  - '&7&oGrm'
+  description:
+  - Iz ovog grma širi se blagi miris citrusa i začina.
+CLT_BUSH_CINNAMON:
+  name: Grm cimeta
+  type:
+  - '&7&oGrm'
+  description:
+  - Divno mirisan grm.
+CLT_BUSH_CLOVE:
+  name: Grm klinčića
+  type:
+  - '&7&oGrm'
+  description:
+  - Grm koji me jednostavno podsjeća na Božić.
+CLT_BUSH_COURGETTE:
+  name: Grm tikvice
+  type:
+  - '&7&oGrm'
+  description:
+  - Zašto ovaj grm stalno viče riječ
+  - Zucchini? Mora da je Amerikanac?
+CLT_BUSH_CUCUMBER:
+  name: Grm krastavca
+  type:
+  - '&7&oGrm'
+  description:
+  - Ovaj grm stvoren je isključivo za
+  - tvoje divne ljetne salate.
+CLT_BUSH_CUMIN:
+  name: Grm kumina
+  type:
+  - '&7&oGrm'
+  description:
+  - Grm koji ispušta topao miris citrusa.
+CLT_BUSH_CURRY_LEAF:
+  name: Grm karija
+  type:
+  - '&7&oGrm'
+  description:
+  - Najbolji kad se prži na suho.
+CLT_BUSH_DILL:
+  name: Grm kopra
+  type:
+  - '&7&oGrm'
+  description:
+  - Ovaj grm raste mnogo brže od ostalih.
+CLT_BUSH_FENNEL:
+  name: Grm komorača
+  type:
+  - '&7&oGrm'
+  description:
+  - Zašto ovaj grm tjera kukce!?
+CLT_BUSH_GARLIC:
+  name: Grm češnjaka
+  type:
+  - '&7&oGrm'
+  description:
+  - Ovaj grm ima jednostavno najgori dah.
+CLT_BUSH_GINGER:
+  name: Grm đumbira
+  type:
+  - '&7&oGrm'
+  description:
+  - Ovaj grm je fin kad se skuha cijeli.
+CLT_BUSH_GRAPE:
+  name: Grm grožđa
+  type:
+  - '&7&oGrm'
+  description:
+  - Zrelo i sočno grožđe koje samo
+  - pada s grma.
+CLT_BUSH_GREEN_BEANS:
+  name: Grm mahuna
+  type:
+  - '&7&oGrm'
+  description:
+  - Prelij ovaj grm umakom od rajčice i
+  - dobit ćeš zapečeni grah.
+CLT_BUSH_GREEN_ONION:
+  name: Grm mladog luka
+  type:
+  - '&7&oGrm'
+  description:
+  - Poznat i kao luk mladac.
+  - Mladi luk obično ima
+  - blaži okus od većine lukova.
+CLT_BUSH_HORSERADISH:
+  name: Grm hrena
+  type:
+  - '&7&oGrm'
+  description:
+  - Opet, da ovo raste na grmu jednostavno nema smisla.
+CLT_BUSH_JALAPENO:
+  name: Grm jalapeña
+  type:
+  - '&7&oGrm'
+  description:
+  - Samo držanje ovog grma daje ti
+  - 1% šanse da se zapališ.
+CLT_BUSH_JASMINE:
+  name: Grm jasmina
+  type:
+  - '&7&oGrm'
+  description:
+  - Miris ovog grma tako je mekan i blag.
+CLT_BUSH_JUNIPER_BERRY:
+  name: Grm borovice
+  type:
+  - '&7&oGrm'
+  description:
+  - Tako sladak na grmu, papren kad se osuši.
+CLT_BUSH_KAFFIR_LIME:
+  name: Grm kafir limete
+  type:
+  - '&7&oGrm'
+  description:
+  - Grm čije je lišće traženije od ploda.
+CLT_BUSH_KALE:
+  name: Grm kovrčavog kelja
+  type:
+  - '&7&oGrm'
+  description:
+  - Kad posadiš ovaj grm, imaš osjećaj
+  - da će sve biti u kelju... ovaj, u redu.
+CLT_BUSH_LAVENDER:
+  name: Grm lavande
+  type:
+  - '&7&oGrm'
+  description:
+  - Ovaj grm širi svoj miris posvuda.
+CLT_BUSH_LEEK:
+  name: Grm poriluka
+  type:
+  - '&7&oGrm'
+  description:
+  - Jesi li znao da je poriluk samo luk koji
+  - nosi korzet? Istinita priča.
+CLT_BUSH_LETTUCE:
+  name: Grm zelene salate
+  type:
+  - '&7&oGrm'
+  description:
+  - Raste li zelena salata uopće na grmu?
+  - 'Spoiler: Ne, ne raste.'
+CLT_BUSH_LICORICE:
+  name: Grm sladića
+  type:
+  - '&7&oGrm'
+  description:
+  - Fuj
+CLT_BUSH_MACE:
+  name: Grm muškatnog cvijeta
+  type:
+  - '&7&oGrm'
+  description:
+  - Čini se da ovaj grm tjera napadače?
+CLT_BUSH_MARJORAM:
+  name: Grm mažurana
+  type:
+  - '&7&oGrm'
+  description:
+  - Velik grm drvenastog mirisa.
+CLT_BUSH_MARROW:
+  name: Grm tikve
+  type:
+  - '&7&oGrm'
+  description:
+  - Iznenađen sam da ovaj grm može nositi
+  - vlastitu težinu.
+CLT_BUSH_MINT:
+  name: Grm metvice
+  type:
+  - '&7&oGrm'
+  description:
+  - Jednostavno grm s najljepšim mirisom.
+CLT_BUSH_MUSTARD:
+  name: Grm gorušice
+  type:
+  - '&7&oGrm'
+  description:
+  - Kao vatra u ustima.
+CLT_BUSH_NETTLES:
+  name: Grm kopriva
+  type:
+  - '&7&oGrm'
+  description:
+  - Pazi kad prolaziš kroz ovaj grm!
+CLT_BUSH_OKRA:
+  name: Grm bamije
+  type:
+  - '&7&oGrm'
+  description:
+  - Proglašeno povrćem broj 1 prema
+  - Klubu povrća Okre Winfrey.
+CLT_BUSH_ONION:
+  name: Grm luka
+  type:
+  - '&7&oGrm'
+  description:
+  - Izgleda li ti ovaj grm kao da plače?
+CLT_BUSH_OREGANO:
+  name: Grm origana
+  type:
+  - '&7&oGrm'
+  description:
+  - Ovaj grm oštrog mirisa tjera posjetitelje.
+CLT_BUSH_PARSLEY:
+  name: Grm peršina
+  type:
+  - '&7&oGrm'
+  description:
+  - Baci ovaj grm u lavu, odmah :D
+CLT_BUSH_PARSNIP:
+  name: Grm pastrnjaka
+  type:
+  - '&7&oGrm'
+  description:
+  - Preskoči posrednika i ispeci
+  - izravno grm.
+CLT_BUSH_PEA:
+  name: Grm graška
+  type:
+  - '&7&oGrm'
+  description:
+  - Grašak? Ja sam više za pasulj.
+CLT_BUSH_PEANUTS:
+  name: Grm kikirikija
+  type:
+  - '&7&oGrm'
+  description: &id001
+  - Čvrst, mirisan i pun bjelančevina.
+CLT_BUSH_PEPPER:
+  name: Grm crnog papra
+  type:
+  - '&7&oGrm'
+  description:
+  - Crni papar bio je važan dio
+  - trgovine začinima između Indije i Europe
+  - još od grčkih i rimskih vremena.
+CLT_BUSH_PINTO_BEANS:
+  name: Grm pinto graha
+  type:
+  - '&7&oGrm'
+  description:
+  - Neće proći dugo dok ne uzgojimo
+  - grm koji izravno daje burrito, zar ne?
+CLT_BUSH_RADDISH:
+  name: Grm rotkvice
+  type:
+  - '&7&oGrm'
+  description:
+  - Ova biljka upravo je izvela trik na skejtu.
+  - Totalno rad...ikalno. Rotkvica.
+CLT_BUSH_RADICCHIO:
+  name: Grm radiča
+  type:
+  - '&7&oGrm'
+  description:
+  - Želiš zvučati otmjeno? Stavi radič u bilo koje
+  - jelo, u biti je kao kupus, ali
+  - djeluješ profinjeno.
+CLT_BUSH_RAPESEED:
+  name: Grm uljane repice
+  type:
+  - '&7&oGrm'
+  description:
+  - Ovaj grm luči neku uljnu tvar.
+CLT_BUSH_RHUBARB:
+  name: Grm rabarbare
+  type:
+  - '&7&oGrm'
+  description:
+  - Jesi li znao da je rabarbara povrće?
+  - Mislio sam da je to vrsta čekića.
+CLT_BUSH_RICE:
+  name: Grm riže
+  type:
+  - '&7&oGrm'
+  description:
+  - Vrhunska osnovna namirnica.
+CLT_BUSH_ROSEMARY:
+  name: Grm ružmarina
+  type:
+  - '&7&oGrm'
+  description:
+  - Grm čiji miris podsjeća na nedjeljne ručkove.
+CLT_BUSH_RUNNER_BEANS:
+  name: Grm graha penjača
+  type:
+  - '&7&oGrm'
+  description:
+  - Ovaj grm ima noge o.o?
+CLT_BUSH_RUTABAGA:
+  name: Grm korabice
+  type:
+  - '&7&oGrm'
+  description:
+  - Švedska repa. To je švedska repa.
+CLT_BUSH_SASSAFRAS:
+  name: Grm sasafrasa
+  type:
+  - '&7&oGrm'
+  description:
+  - Ovaj grm voli da ga se posadi blizu malih
+  - vodenih površina.
+CLT_BUSH_SHALLOT:
+  name: Grm ljutike
+  type:
+  - '&7&oGrm'
+  description:
+  - Ovaj grm brzo daje divne male lukove.
+  - Srećom, ljutika nije ljuta na tebe.
+CLT_BUSH_SHISO:
+  name: Grm šisa
+  type:
+  - '&7&oGrm'
+  description:
+  - Volim misliti da je ovaj grm dijete ljubavi
+  - grma metvice i grma bosiljka. Šteta što
+  - križanje grmova nije stvarna stvar!
+CLT_BUSH_SOY_BEANS:
+  name: Grm soje
+  type:
+  - '&7&oGrm'
+  description:
+  - Ovaj grm je pravi prijatelj. Uz njega
+  - sam so-ja sretan.
+CLT_BUSH_SPINACH:
+  name: Grm špinata
+  type:
+  - '&7&oGrm'
+  description:
+  - Ovaj grm je Popajev najbolji prijatelj.
+CLT_BUSH_STAR_ANISE:
+  name: Grm zvjezdastog anisa
+  type:
+  - '&7&oGrm'
+  description:
+  - Iz ovog grma širi se miris toliko
+  - svojstven anisu da ne možeš vjerovati.
+CLT_BUSH_STRAWBERRY:
+  name: Grm jagode
+  type:
+  - '&7&oGrm'
+  description: *id001
+CLT_BUSH_SWEETCORN:
+  name: Grm kukuruza šećerca
+  type:
+  - '&7&oGrm'
+  description:
+  - Ovaj grm samo moli da ga se pretvori
+  - u labirint.
+CLT_BUSH_SWEET_POTATO:
+  name: Grm slatkog krumpira
+  type:
+  - '&7&oGrm'
+  description:
+  - Ovaj grm je tako sladak. Čuo sam ga kako
+  - te hvali dok nisi slušao.
+CLT_BUSH_TARRAGON:
+  name: Grm estragona
+  type:
+  - '&7&oGrm'
+  description:
+  - Ovaj grm ne voli privlačiti previše pažnje.
+CLT_BUSH_THYME:
+  name: Grm timijana
+  type:
+  - '&7&oGrm'
+  description:
+  - Ovaj grm nikad nema... timijana... ovaj, vremena... *kašalj*
+CLT_BUSH_TOMATO:
+  name: Grm rajčice
+  type:
+  - '&7&oGrm'
+  description:
+  - Zrelo i spremno.
+CLT_BUSH_TURMERIC:
+  name: Grm kurkume
+  type:
+  - '&7&oGrm'
+  description:
+  - Val začina udari ti u nos samo dok
+  - držiš ovaj grm.
+CLT_BUSH_TURNIP:
+  name: Grm repe
+  type:
+  - '&7&oGrm'
+  description:
+  - Prema britanskoj vladi
+  - ovaj grm riješit će sve naše probleme.
+CLT_BUSH_VANILLA:
+  name: Grm vanilije
+  type:
+  - '&7&oGrm'
+  description:
+  - Ovaj grm prirodno raste blizu Starbucksa.
+CLT_BUSH_WASABI:
+  name: Grm wasabija
+  type:
+  - '&7&oGrm'
+  description:
+  - Još jedan korijen koji raste na grmu?
+  - Uzdah...
+CLT_CABBAGE:
+  name: Kupus
+  type:
+  - '&7&oPlodina'
+  description:
+  - Prtljaga puna kupusa.
+CLT_CAESAR_SALAD:
+  name: Cezar salata
+  type:
+  - '&7&oHrana'
+  description:
+  - Zdrava klasika.
+  stats:
+  - '&8⇨ &7Iscjeljenje: &b6 srca'
+  - '&8⇨ &bBrzina I &7(10:00)'
+  - '&8⇨ &bNevidljivost I &7(10:00)'
+  - '&8⇨ &bPolagano padanje I &7(10:00)'
+CLT_CAJUN_GARLIC_BUTTER_COD:
+  name: Bakalar na cajun maslacu s češnjakom
+  type:
+  - '&7&oHrana'
+  description:
+  - Vrlo jednostavno jelo koje prašti od okusa.
+  stats:
+  - '&8⇨ &7Iscjeljenje: &b4 srca'
+  - '&8⇨ &bRegeneracija II &7(10:00)'
+  - '&8⇨ &bBrzina I &7(10:00)'
+CLT_CAULIFLOWER:
+  name: Cvjetača
+  type:
+  - '&7&oPlodina'
+  description:
+  - Prijenosni oblak!
+CLT_CAYENNE_PEPPER:
+  name: Kajenski papar
+  type:
+  - '&7&oPlodina'
+  description:
+  - Mekana začinjena poslastica.
+CLT_CELERIAC:
+  name: Celer korjenaš
+  type:
+  - '&7&oPlodina'
+  description:
+  - Srčan korijen, ukorijenjen (heh) u mnogim
+  - tradicionalnim receptima.
+CLT_CELERY:
+  name: Celer
+  type:
+  - '&7&oPlodina'
+  description:
+  - Doslovno samo končasta voda. Uvjeri
+  - me u suprotno.
+CLT_CHEESE_BURGER:
+  name: Burger
+  type:
+  - '&7&oHrana'
+  description:
+  - Običan cheeseburger, ali ništa ga ne nadmašuje!
+  stats:
+  - '&8⇨ &7Iscjeljenje: &b4 srca'
+  - '&8⇨ &bRegeneracija III &7(10:00)'
+CLT_CHEESY_SCALLOPED_COURGETTE:
+  name: Zapečene tikvice sa sirom
+  type:
+  - '&7&oHrana'
+  description:
+  - Verzija sjajne klasike s malo ugljikohidrata.
+  stats:
+  - '&8⇨ &7Iscjeljenje: &b2 srca'
+  - '&8⇨ &bNoćni vid I &7(10:00)'
+  - '&8⇨ &bNevidljivost I &7(10:00)'
+CLT_CHERRY:
+  name: Trešnja
+  type:
+  - '&7&oPlodina'
+  description:
+  - Oh, mislio sam da rastu već glazirane, šteta!
+CLT_CHESTNUT:
+  name: Kesten
+  type:
+  - '&7&oPlodina'
+  description:
+  - Stvoreno da se odmah ispeče.
+CLT_CHICKEN_ALFREDO_MAC_AND_CHEESE:
+  name: Makaroni sa sirom i piletinom Alfredo
+  type:
+  - '&7&oHrana'
+  description:
+  - Otmjena varijacija obične klasike.
+  stats:
+  - '&8⇨ &7Iscjeljenje: &b1 srce'
+  - '&8⇨ &bVatrootpornost II &7(10:00)'
+  - '&8⇨ &bOtpor III &7(10:00)'
+CLT_CHICKEN_PASTA_BAKE:
+  name: Zapečena tjestenina s piletinom
+  type:
+  - '&7&oHrana'
+  description:
+  - Osnovna studentska hrana.
+  stats:
+  - '&8⇨ &7Iscjeljenje: &b5 srca'
+  - '&8⇨ &bNoćni vid I &7(10:00)'
+  - '&8⇨ &bPodvodno disanje I &7(10:00)'
+CLT_CHICKEN_POT_PIE:
+  name: Pileća pita
+  type:
+  - '&7&oHrana'
+  description:
+  - Topao obrok koji grije dušu.
+  stats:
+  - '&8⇨ &7Iscjeljenje: &b10 srca'
+  - '&8⇨ &bPoletnost II &7(10:00)'
+  - '&8⇨ &bZasićenje I &7(10:00)'
+CLT_CHICKPEAS:
+  name: Slanutak
+  type:
+  - '&7&oPlodina'
+  description:
+  - Black Eyed Peas pjevaju cijele pjesme, a slanutak zna samo humus-pjevušiti.
+CLT_CHICORY:
+  name: Cikorija
+  type:
+  - '&7&oPlodina'
+  description:
+  - Orašast, gorak korijen.
+CLT_CHILLY_PEPPER:
+  name: Čili papričica
+  type:
+  - '&7&oPlodina'
+  description:
+  - Mogu pojesti cijelu papričicu bez plakanja.
+  - Dobro, pola.
+  - DOOOOBRO.... 1/4
+  - '...'
+  - Ok, mogu je dotaknuti jezikom
+CLT_CHIVES:
+  name: Vlasac
+  type:
+  - '&7&oPlodina'
+  description:
+  - Slatka začinska biljka okusa luka.
+CLT_CHOPPED_APPLE:
+  name: Nasjeckana jabuka
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_APRICOT:
+  name: Nasjeckana marelica
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_ARTICHOKE:
+  name: Nasjeckana artičoka
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_ASPARAGUS:
+  name: Nasjeckana šparoga
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_AUBERGINE:
+  name: Nasjeckani patlidžan
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_AVOCADO:
+  name: Nasjeckani avokado
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_BANANA:
+  name: Nasjeckana banana
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_BASIL:
+  name: Nasjeckani bosiljak
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_BAY_LEAF:
+  name: Nasjeckani lovorov list
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_BEEF:
+  name: Nasjeckana govedina
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_BEETROOT:
+  name: Nasjeckana cikla
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_BELL_PEPPER:
+  name: Nasjeckana paprika
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_BLACK_BEANS:
+  name: Nasjeckani crni grah
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_BREAD:
+  name: Nasjeckani kruh
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_BROCCOLI:
+  name: Nasjeckana brokula
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_BROWN_MUSHROOM:
+  name: Nasjeckana smeđa gljiva
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_BRUSSELS_SPROUTS:
+  name: Nasjeckane prokulice
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_CABBAGE:
+  name: Nasjeckani kupus
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_CARROT:
+  name: Nasjeckana mrkva
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_CAULIFLOWER:
+  name: Nasjeckana cvjetača
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_CAYENNE_PEPPER:
+  name: Nasjeckani kajenski papar
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_CELERIAC:
+  name: Nasjeckani celer korjenaš
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_CELERY:
+  name: Nasjeckani celer
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_CHERRY:
+  name: Nasjeckana trešnja
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_CHESTNUT:
+  name: Nasjeckani kesten
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_CHICKEN:
+  name: Nasjeckana piletina
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_CHICKPEAS:
+  name: Nasjeckani slanutak
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_CHICORY:
+  name: Nasjeckana cikorija
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_CHILLY_PEPPER:
+  name: Nasjeckana čili papričica
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_CHIVES:
+  name: Nasjeckani vlasac
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_CHORUS_FRUIT:
+  name: Nasjeckano voće chorusa
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_CILANTRO:
+  name: Nasjeckani korijandar
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_CINNAMON:
+  name: Nasjeckani cimet
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_CLOVE:
+  name: Nasjeckani klinčić
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_COCOA_BEANS:
+  name: Nasjeckane sjemenke kakaa
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_COD:
+  name: Nasjeckani bakalar
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_COURGETTE:
+  name: Nasjeckana tikvica
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_CUCUMBER:
+  name: Nasjeckani krastavac
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_CUMIN:
+  name: Nasjeckani kumin
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_CURRY_LEAF:
+  name: Nasjeckani list karija
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_DILL:
+  name: Nasjeckani kopar
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_EGG:
+  name: Nasjeckano jaje
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_ENCHANTED_GOLDEN_APPLE:
+  name: Nasjeckana začarana zlatna jabuka
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_FENNEL:
+  name: Nasjeckani komorač
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_GARLIC:
+  name: Nasjeckani češnjak
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_GINGER:
+  name: Nasjeckani đumbir
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_GLOW_BERRIES:
+  name: Nasjeckane svjetleće bobice
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_GOLDEN_APPLE:
+  name: Nasjeckana zlatna jabuka
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_GOLDEN_CARROT:
+  name: Nasjeckana zlatna mrkva
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_GRAPE:
+  name: Nasjeckano grožđe
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_GREEN_APPLE:
+  name: Nasjeckana zelena jabuka
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_GREEN_BEANS:
+  name: Nasjeckane mahune
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_GREEN_ONION:
+  name: Nasjeckani mladi luk
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_HAZELNUT:
+  name: Nasjeckani lješnjak
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_HORSERADISH:
+  name: Nasjeckani hren
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_JALAPENO:
+  name: Nasjeckani jalapeño
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_JASMINE:
+  name: Nasjeckani jasmin
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_JUNIPER_BERRY:
+  name: Nasjeckane bobice borovice
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_KAFFIR_LIME:
+  name: Nasjeckani list kafir limete
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_KALE:
+  name: Nasjeckani kovrčavi kelj
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_KELP:
+  name: Nasjeckani kelp
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_KIWI:
+  name: Nasjeckani kivi
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_LAVENDER:
+  name: Nasjeckana lavanda
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_LEEK:
+  name: Nasjeckani poriluk
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_LEMON:
+  name: Nasjeckani limun
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_LETTUCE:
+  name: Nasjeckana zelena salata
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_LICORICE:
+  name: Nasjeckani sladić
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_LIME:
+  name: Nasjeckana limeta
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_MACE:
+  name: Nasjeckani muškatni cvijet
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_MANGO:
+  name: Nasjeckani mango
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_MARJORAM:
+  name: Nasjeckani mažuran
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_MARROW:
+  name: Nasjeckana tikva
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_MELON:
+  name: Nasjeckana lubenica
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_MINT:
+  name: Nasjeckana metvica
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_MUSTARD_SEEDS:
+  name: Nasjeckane sjemenke gorušice
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_MUTTON:
+  name: Nasjeckana janjetina
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_NETTLES:
+  name: Nasjeckane koprive
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_OKRA:
+  name: Nasjeckana bamija
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_ONION:
+  name: Nasjeckani luk
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_ORANGE:
+  name: Nasjeckana naranča
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_OREGANO:
+  name: Nasjeckani origano
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_PARSLEY:
+  name: Nasjeckani peršin
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_PARSNIP:
+  name: Nasjeckani pastrnjak
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_PEA:
+  name: Nasjeckani grašak
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_PEACH:
+  name: Nasjeckana breskva
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_PEANUT:
+  name: Nasjeckani kikiriki
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_PEAR:
+  name: Nasjeckana kruška
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_PECAN:
+  name: Nasjeckani pekan orah
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_PEPPER:
+  name: Nasjeckani crni papar
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_PEPPERONI:
+  name: Nasjeckani pepperoni
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_PINEAPPLE:
+  name: Nasjeckani ananas
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_PINTO_BEANS:
+  name: Nasjeckani pinto grah
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_PORKCHOP:
+  name: Nasjeckana svinjetina
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_POTATO:
+  name: Nasjeckani krumpir
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_PUFFERFISH:
+  name: Nasjeckana napuhača
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_PUMPKIN:
+  name: Nasjeckana bundeva
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_RABBIT:
+  name: Nasjeckani zec
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_RADDISH:
+  name: Nasjeckana rotkvica
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_RADICCHIO:
+  name: Nasjeckani radič
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_RAPESEED:
+  name: Nasjeckana uljana repica
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_RED_MUSHROOM:
+  name: Nasjeckana crvena gljiva
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_RHUBARB:
+  name: Nasjeckana rabarbara
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_RICE:
+  name: Nasjeckana riža
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_ROSEMARY:
+  name: Nasjeckani ružmarin
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_ROTTEN_FLESH:
+  name: Nasjeckano trulo meso
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_RUNNER_BEANS:
+  name: Nasjeckani grah penjač
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_RUTABAGA:
+  name: Nasjeckana korabica
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_SALMON:
+  name: Nasjeckani losos
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_SASSAFRAS:
+  name: Nasjeckani sasafras
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_SHALLOT:
+  name: Nasjeckana ljutika
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_SHISO:
+  name: Nasjeckani šiso
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_SOY_BEANS:
+  name: Nasjeckana soja
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_SPINACH:
+  name: Nasjeckani špinat
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_STAR_ANISE:
+  name: Nasjeckani zvjezdasti anis
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_STRAWBERRY:
+  name: Nasjeckana jagoda
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_SUGAR:
+  name: Nasjeckani šećer
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_SWEETCORN:
+  name: Nasjeckani kukuruz šećerac
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_SWEET_BERRIES:
+  name: Nasjeckane slatke bobice
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_SWEET_POTATO:
+  name: Nasjeckani slatki krumpir
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_TARRAGON:
+  name: Nasjeckani estragon
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_THYME:
+  name: Nasjeckani timijan
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_TOMATO:
+  name: Nasjeckana rajčica
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_TURMERIC:
+  name: Nasjeckana kurkuma
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_TURNIP:
+  name: Nasjeckana repa
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_VANILLA:
+  name: Nasjeckana vanilija
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_WASABI:
+  name: Nasjeckani wasabi
+  type:
+  - '&7&oNusproizvod'
+CLT_CHOPPED_WHEAT:
+  name: Nasjeckana pšenica
+  type:
+  - '&7&oNusproizvod'
+CLT_CILANTRO:
+  name: Korijandar
+  type:
+  - '&7&oPlodina'
+  description:
+  - Blagi začin s notom citrusa.
+CLT_CINNAMON:
+  name: Cimet
+  type:
+  - '&7&oPlodina'
+  description:
+  - Odličan za žvakanje u obliku štapića.
+CLT_CINNAMON_ROLL:
+  name: Rolica s cimetom
+  type:
+  - '&7&oHrana'
+  description:
+  - Slatka poslastica smotana iz zabave.
+  - Kad je pojedeš, svijet se okrene naglavačke!
+  stats:
+  - '&8⇨ &7Iscjeljenje: &b4 srca'
+  - '&8⇨ &bLebdenje I &7(10:00)'
+  - '&8⇨ &bPolagano padanje I &7(10:00)'
+CLT_CLOVE:
+  name: Klinčić
+  type:
+  - '&7&oPlodina'
+  description:
+  - Vrlo topao i intenzivan okus.
+CLT_COMPRESSED_BISCUIT:
+  name: Prešana pogačica
+  type:
+  - '&7&oHrana'
+  description:
+  - Mali zalogaj s još golemijim okusom.
+  stats: *id002
+CLT_COOKED_BURGER_PATTY:
+  name: Pečena pljeskavica za burger
+  type:
+  - '&7&oPlodina'
+  description:
+  - Praktički kaplje
+CLT_COUNTER_BLENDER:
+  name: Kuhinjski pult (blender)
+  type:
+  - '&7&oStroj'
+  description:
+  - Desni klik na ovaj blok za miksanje plodina.
+  usage: &id003
+  - Savjet! Kad je postavljen, Shift + desni
+  - klik s blokom (ili blokovima) u ruci
+  - mijenja izgled kuhinje. Isprobaj!
+CLT_COUNTER_BOILING:
+  name: Kuhinjski pult (lonac za kuhanje)
+  type:
+  - '&7&oStroj'
+  description:
+  - Može kuhati određene predmete.
+  usage: *id003
+CLT_COUNTER_CHOPPING:
+  name: Kuhinjski pult (daska za sjeckanje)
+  type:
+  - '&7&oStroj'
+  description:
+  - Desni klik na ovaj blok za sjeckanje plodina.
+  usage: *id003
+CLT_COUNTER_FINISHING:
+  name: Kuhinjski pult (završna obrada)
+  type:
+  - '&7&oStroj'
+  description:
+  - Služi za izradu drugih nusproizvoda ili gotove
+  - hrane od proizvoda i nusproizvoda.
+  usage: *id003
+CLT_COUNTER_FRYING:
+  name: Kuhinjski pult (tava)
+  type:
+  - '&7&oStroj'
+  description:
+  - Može pržiti određene plodine.
+  usage: *id003
+CLT_COUNTER_GRILL:
+  name: Kuhinjski pult (roštilj)
+  type:
+  - '&7&oStroj'
+  description:
+  - Može grilati određene plodine.
+  usage: *id003
+CLT_COUNTER_GRINDER:
+  name: Kuhinjski pult (tučak i mužar)
+  type:
+  - '&7&oStroj'
+  description:
+  - Desni klik na ovaj blok za mljevenje plodina.
+  usage: *id003
+CLT_COUNTER_MASHER:
+  name: Kuhinjski pult (zdjela za gnječenje)
+  type:
+  - '&7&oStroj'
+  description:
+  - Desni klik na ovaj blok za gnječenje plodina.
+  usage: *id003
+CLT_COUNTER_NOTHING:
+  name: Kuhinjski pult (prazan)
+  type:
+  - '&7&oStroj'
+  description:
+  - Samo za ukras!
+  usage: *id003
+CLT_COUNTER_OVEN:
+  name: Kuhinjski pult (pećnica)
+  type:
+  - '&7&oStroj'
+  description:
+  - Može peći određene plodine.
+  usage: *id003
+CLT_COUNTER_SLICING:
+  name: Kuhinjski pult (daska za rezanje)
+  type:
+  - '&7&oStroj'
+  description:
+  - Desni klik na ovaj blok za rezanje plodina.
+  usage: *id003
+CLT_COURGETTE:
+  name: Tikvica
+  type:
+  - '&7&oPlodina'
+  description:
+  - 'Savjet: naribaj ovo u bilo koji umak za tjesteninu'
+  - za dubinu i teksturu.
+CLT_CREAM_CHEESE:
+  name: Krem sir
+  type:
+  - '&7&oPlodina'
+  description:
+  - Više kremasto nego sirasto.
+CLT_CROP_STICKS:
+  name: Štapovi za usjeve
+  type:
+  - '&7&oAlat'
+  description:
+  - Štapovi za usjeve moraju se staviti na
+  - posađeno sjeme kako bi raslo.
+  - Postavljanjem drugog para biljka se
+  - križa, pa se može širiti i/ili
+  - razmnožavati.
+CLT_CUCUMBER:
+  name: Krastavac
+  type:
+  - '&7&oPlodina'
+  description:
+  - Voda u zelenoj ljusci, dokaži
+  - mi suprotno.
+CLT_CUMIN:
+  name: Kumin
+  type:
+  - '&7&oPlodina'
+  description:
+  - Topla biljka citrusnog mirisa.
+CLT_CURRY_LEAF:
+  name: List karija
+  type:
+  - '&7&oPlodina'
+  description:
+  - Temelj mnogih divnih jela.
+CLT_DILL:
+  name: Kopar
+  type:
+  - '&7&oPlodina'
+  description:
+  - Meni ima okus po travi. Zašto
+  - ljudi ovo vole?
+CLT_DOUGH:
+  name: Tijesto
+  type:
+  - '&7&oPlodina'
+  description:
+  - Obično, staro dobro tijesto!
+CLT_EGG_SALAD:
+  name: Salata od jaja
+  type:
+  - '&7&oPlodina'
+  description:
+  - Otvori ovo u vlaku, ako se usudiš!
+CLT_EGG_SALAD_SANDWICH:
+  name: Sendvič sa salatom od jaja
+  type:
+  - '&7&oHrana'
+  description:
+  - Malo smrdi, ali okus je fantastičan!
+  stats: &id006
+  - '&8⇨ &7Iscjeljenje: &b10 srca'
+  - '&8⇨ &bRegeneracija II &7(10:00)'
+CLT_FENNEL:
+  name: Komorač
+  type:
+  - '&7&oPlodina'
+  description:
+  - Kao mješavina anisa i sladića.
+CLT_FRIED_APPLE:
+  name: Pržena jabuka
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_APRICOT:
+  name: Pržena marelica
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_ARTICHOKE:
+  name: Pržena artičoka
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_ASPARAGUS:
+  name: Pržena šparoga
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_AUBERGINE:
+  name: Prženi patlidžan
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_AVOCADO:
+  name: Prženi avokado
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_BANANA:
+  name: Pržena banana
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_BASIL:
+  name: Prženi bosiljak
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_BAY_LEAF:
+  name: Prženi lovorov list
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_BEEF:
+  name: Pržena govedina
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_BEETROOT:
+  name: Pržena cikla
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_BELL_PEPPER:
+  name: Pržena paprika
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_BLACK_BEANS:
+  name: Prženi crni grah
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_BREAD:
+  name: Prženi kruh
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_BROCCOLI:
+  name: Pržena brokula
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_BROWN_MUSHROOM:
+  name: Pržena smeđa gljiva
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_BRUSSELS_SPROUTS:
+  name: Pržene prokulice
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_CABBAGE:
+  name: Prženi kupus
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_CARROT:
+  name: Pržena mrkva
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_CAULIFLOWER:
+  name: Pržena cvjetača
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_CAYENNE_PEPPER:
+  name: Prženi kajenski papar
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_CELERIAC:
+  name: Prženi celer korjenaš
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_CELERY:
+  name: Prženi celer
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_CHERRY:
+  name: Pržena trešnja
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_CHESTNUT:
+  name: Prženi kesten
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_CHICKEN:
+  name: Pržena piletina
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_CHICKPEAS:
+  name: Prženi slanutak
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_CHICORY:
+  name: Pržena cikorija
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_CHILLY_PEPPER:
+  name: Pržena čili papričica
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_CHIVES:
+  name: Prženi vlasac
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_CHORUS_FRUIT:
+  name: Prženo voće chorusa
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_CILANTRO:
+  name: Prženi korijandar
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_CINNAMON:
+  name: Prženi cimet
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_CLOVE:
+  name: Prženi klinčić
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_COCOA_BEANS:
+  name: Pržene sjemenke kakaa
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_COD:
+  name: Prženi bakalar
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_COURGETTE:
+  name: Pržena tikvica
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_CUCUMBER:
+  name: Prženi krastavac
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_CUMIN:
+  name: Prženi kumin
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_CURRY_LEAF:
+  name: Prženi list karija
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_DILL:
+  name: Prženi kopar
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_EGG:
+  name: Prženo jaje
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_ENCHANTED_GOLDEN_APPLE:
+  name: Pržena začarana zlatna jabuka
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_FENNEL:
+  name: Prženi komorač
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_GARLIC:
+  name: Prženi češnjak
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_GINGER:
+  name: Prženi đumbir
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_GLOW_BERRIES:
+  name: Pržene svjetleće bobice
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_GOLDEN_APPLE:
+  name: Pržena zlatna jabuka
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_GOLDEN_CARROT:
+  name: Pržena zlatna mrkva
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_GRAPE:
+  name: Prženo grožđe
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_GREEN_APPLE:
+  name: Pržena zelena jabuka
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_GREEN_BEANS:
+  name: Pržene mahune
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_GREEN_ONION:
+  name: Prženi mladi luk
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_HAZELNUT:
+  name: Prženi lješnjak
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_HORSERADISH:
+  name: Prženi hren
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_JALAPENO:
+  name: Prženi jalapeño
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_JASMINE:
+  name: Prženi jasmin
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_JUNIPER_BERRY:
+  name: Pržene bobice borovice
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_KAFFIR_LIME:
+  name: Prženi list kafir limete
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_KALE:
+  name: Prženi kovrčavi kelj
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_KELP:
+  name: Prženi kelp
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_KIWI:
+  name: Prženi kivi
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_LAVENDER:
+  name: Pržena lavanda
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_LEEK:
+  name: Prženi poriluk
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_LEMON:
+  name: Prženi limun
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_LETTUCE:
+  name: Pržena zelena salata
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_LICORICE:
+  name: Prženi sladić
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_LIME:
+  name: Pržena limeta
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_MACE:
+  name: Prženi muškatni cvijet
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_MANGO:
+  name: Prženi mango
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_MARJORAM:
+  name: Prženi mažuran
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_MARROW:
+  name: Pržena tikva
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_MELON:
+  name: Pržena lubenica
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_MINT:
+  name: Pržena metvica
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_MUSTARD_SEEDS:
+  name: Pržene sjemenke gorušice
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_MUTTON:
+  name: Pržena janjetina
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_NETTLES:
+  name: Pržene koprive
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_OKRA:
+  name: Pržena bamija
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_ONION:
+  name: Prženi luk
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_ORANGE:
+  name: Pržena naranča
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_OREGANO:
+  name: Prženi origano
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_PARSLEY:
+  name: Prženi peršin
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_PARSNIP:
+  name: Prženi pastrnjak
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_PEA:
+  name: Prženi grašak
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_PEACH:
+  name: Pržena breskva
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_PEANUT:
+  name: Prženi kikiriki
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_PEAR:
+  name: Pržena kruška
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_PECAN:
+  name: Prženi pekan orah
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_PEPPER:
+  name: Prženi crni papar
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_PEPPERONI:
+  name: Prženi pepperoni
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_PINEAPPLE:
+  name: Prženi ananas
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_PINTO_BEANS:
+  name: Prženi pinto grah
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_PORKCHOP:
+  name: Pržena svinjetina
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_POTATO:
+  name: Prženi krumpir
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_PUFFERFISH:
+  name: Pržena napuhača
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_PUMPKIN:
+  name: Pržena bundeva
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_RABBIT:
+  name: Prženi zec
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_RADDISH:
+  name: Pržena rotkvica
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_RADICCHIO:
+  name: Prženi radič
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_RAPESEED:
+  name: Pržena uljana repica
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_RED_MUSHROOM:
+  name: Pržena crvena gljiva
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_RHUBARB:
+  name: Pržena rabarbara
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_RICE:
+  name: Pržena riža
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_ROSEMARY:
+  name: Prženi ružmarin
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_ROTTEN_FLESH:
+  name: Prženo trulo meso
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_RUNNER_BEANS:
+  name: Prženi grah penjač
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_RUTABAGA:
+  name: Pržena korabica
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_SALMON:
+  name: Prženi losos
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_SASSAFRAS:
+  name: Prženi sasafras
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_SHALLOT:
+  name: Pržena ljutika
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_SHISO:
+  name: Prženi šiso
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_SOY_BEANS:
+  name: Pržena soja
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_SPINACH:
+  name: Prženi špinat
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_STAR_ANISE:
+  name: Prženi zvjezdasti anis
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_STRAWBERRY:
+  name: Pržena jagoda
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_SUGAR:
+  name: Prženi šećer
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_SWEETCORN:
+  name: Prženi kukuruz šećerac
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_SWEET_BERRIES:
+  name: Pržene slatke bobice
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_SWEET_POTATO:
+  name: Prženi slatki krumpir
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_TARRAGON:
+  name: Prženi estragon
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_THYME:
+  name: Prženi timijan
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_TOMATO:
+  name: Pržena rajčica
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_TURMERIC:
+  name: Pržena kurkuma
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_TURNIP:
+  name: Pržena repa
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_VANILLA:
+  name: Pržena vanilija
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_WASABI:
+  name: Prženi wasabi
+  type:
+  - '&7&oNusproizvod'
+CLT_FRIED_WHEAT:
+  name: Pržena pšenica
+  type:
+  - '&7&oNusproizvod'
+CLT_FRUIT_SALAD:
+  name: Voćna salata
+  type:
+  - '&7&oHrana'
+  description:
+  - Ako to nazoveš salatom, možeš jesti koliko
+  - želiš, jer je zdravo.
+  stats:
+  - '&8⇨ &7Iscjeljenje: &b6 srca'
+  - '&8⇨ &bBrzina III &7(10:00)'
+CLT_FUGU:
+  name: Fugu
+  type:
+  - '&7&oHrana'
+  description:
+  - Spreman baciti kocku?
+  stats:
+  - '&8⇨ &7Iscjeljenje: &b1 srce'
+  - '&8⇨ &bSnaga V &7(10:00)'
+  - '&8⇨ &733% šanse da jednostavno umreš!'
+CLT_GARDEN_CLOCHE:
+  name: Vrtno zvono
+  type:
+  - '&7&oStroj'
+  description:
+  - Automatski uzgaja biljke u sebi.
+  stats:
+  - '&8⇨ &7Energija po tiku: &b100'
+CLT_GARLIC:
+  name: Češnjak
+  type:
+  - '&7&oPlodina'
+  description:
+  - Brzo, prije nego dođu vampiri!
+CLT_GARLIC_BUTTER_MUSHROOMS:
+  name: Gljive na maslacu s češnjakom
+  type:
+  - '&7&oHrana'
+  description:
+  - Možda najbolja hrana na svijetu.
+  stats:
+  - '&8⇨ &7Iscjeljenje: &b2 srca'
+  - '&8⇨ &bSjaj I &7(10:00)'
+CLT_GINGER:
+  name: Đumbir
+  type:
+  - '&7&oPlodina'
+  description:
+  - Nasjeckani đumbir u kipućoj vodi liječi sve boljke!
+CLT_GRAPE:
+  name: Grožđe
+  type:
+  - '&7&oPlodina'
+  description:
+  - Tako punašno!
+CLT_GRAPE_JELLY:
+  name: Žele od grožđa
+  type:
+  - '&7&oPlodina'
+  description: &id008
+  - Jesti ga žlicom je kazneno djelo.
+CLT_GREEN_APPLE:
+  name: Zelena jabuka
+  type:
+  - '&7&oPlodina'
+  description:
+  - Na cedulji piše... Dragi učitelju?
+CLT_GREEN_BEANS:
+  name: Mahune
+  type:
+  - '&7&oPlodina'
+  description:
+  - Kako kreativno nazvano!
+CLT_GREEN_ONION:
+  name: Mladi luk
+  type:
+  - '&7&oPlodina'
+  description:
+  - Odlično ide uz tacose!
+CLT_GRILLED_APPLE:
+  name: Grilana jabuka
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_APRICOT:
+  name: Grilana marelica
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_ARTICHOKE:
+  name: Grilana artičoka
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_ASPARAGUS:
+  name: Grilana šparoga
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_AUBERGINE:
+  name: Grilani patlidžan
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_AVOCADO:
+  name: Grilani avokado
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_BANANA:
+  name: Grilana banana
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_BASIL:
+  name: Grilani bosiljak
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_BAY_LEAF:
+  name: Grilani lovorov list
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_BEEF:
+  name: Grilana govedina
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_BEETROOT:
+  name: Grilana cikla
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_BELL_PEPPER:
+  name: Grilana paprika
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_BLACK_BEANS:
+  name: Grilani crni grah
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_BREAD:
+  name: Grilani kruh
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_BROCCOLI:
+  name: Grilana brokula
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_BROWN_MUSHROOM:
+  name: Grilana smeđa gljiva
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_BRUSSELS_SPROUTS:
+  name: Grilane prokulice
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_CABBAGE:
+  name: Grilani kupus
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_CARROT:
+  name: Grilana mrkva
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_CAULIFLOWER:
+  name: Grilana cvjetača
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_CAYENNE_PEPPER:
+  name: Grilani kajenski papar
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_CELERIAC:
+  name: Grilani celer korjenaš
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_CELERY:
+  name: Grilani celer
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_CHERRY:
+  name: Grilana trešnja
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_CHESTNUT:
+  name: Grilani kesten
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_CHICKEN:
+  name: Grilana piletina
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_CHICKPEAS:
+  name: Grilani slanutak
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_CHICORY:
+  name: Grilana cikorija
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_CHILLY_PEPPER:
+  name: Grilana čili papričica
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_CHIVES:
+  name: Grilani vlasac
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_CHORUS_FRUIT:
+  name: Grilano voće chorusa
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_CILANTRO:
+  name: Grilani korijandar
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_CINNAMON:
+  name: Grilani cimet
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_CLOVE:
+  name: Grilani klinčić
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_COCOA_BEANS:
+  name: Grilane sjemenke kakaa
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_COD:
+  name: Grilani bakalar
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_COURGETTE:
+  name: Grilana tikvica
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_CUCUMBER:
+  name: Grilani krastavac
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_CUMIN:
+  name: Grilani kumin
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_CURRY_LEAF:
+  name: Grilani list karija
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_DILL:
+  name: Grilani kopar
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_EGG:
+  name: Grilano jaje
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_ENCHANTED_GOLDEN_APPLE:
+  name: Grilana začarana zlatna jabuka
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_FENNEL:
+  name: Grilani komorač
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_GARLIC:
+  name: Grilani češnjak
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_GINGER:
+  name: Grilani đumbir
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_GLOW_BERRIES:
+  name: Grilane svjetleće bobice
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_GOLDEN_APPLE:
+  name: Grilana zlatna jabuka
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_GOLDEN_CARROT:
+  name: Grilana zlatna mrkva
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_GRAPE:
+  name: Grilano grožđe
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_GREEN_APPLE:
+  name: Grilana zelena jabuka
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_GREEN_BEANS:
+  name: Grilane mahune
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_GREEN_ONION:
+  name: Grilani mladi luk
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_HAZELNUT:
+  name: Grilani lješnjak
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_HORSERADISH:
+  name: Grilani hren
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_JALAPENO:
+  name: Grilani jalapeño
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_JASMINE:
+  name: Grilani jasmin
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_JUNIPER_BERRY:
+  name: Grilane bobice borovice
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_KAFFIR_LIME:
+  name: Grilani list kafir limete
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_KALE:
+  name: Grilani kovrčavi kelj
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_KELP:
+  name: Grilani kelp
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_KIWI:
+  name: Grilani kivi
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_LAVENDER:
+  name: Grilana lavanda
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_LEEK:
+  name: Grilani poriluk
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_LEMON:
+  name: Grilani limun
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_LETTUCE:
+  name: Grilana zelena salata
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_LICORICE:
+  name: Grilani sladić
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_LIME:
+  name: Grilana limeta
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_MACE:
+  name: Grilani muškatni cvijet
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_MANGO:
+  name: Grilani mango
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_MARJORAM:
+  name: Grilani mažuran
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_MARROW:
+  name: Grilana tikva
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_MELON:
+  name: Grilana lubenica
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_MINT:
+  name: Grilana metvica
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_MUSTARD_SEEDS:
+  name: Grilane sjemenke gorušice
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_MUTTON:
+  name: Grilana janjetina
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_NETTLES:
+  name: Grilane koprive
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_OKRA:
+  name: Grilana bamija
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_ONION:
+  name: Grilani luk
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_ORANGE:
+  name: Grilana naranča
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_OREGANO:
+  name: Grilani origano
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_PARSLEY:
+  name: Grilani peršin
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_PARSNIP:
+  name: Grilani pastrnjak
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_PEA:
+  name: Grilani grašak
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_PEACH:
+  name: Grilana breskva
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_PEANUT:
+  name: Grilani kikiriki
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_PEAR:
+  name: Grilana kruška
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_PECAN:
+  name: Grilani pekan orah
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_PEPPER:
+  name: Grilani crni papar
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_PEPPERONI:
+  name: Grilani pepperoni
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_PINEAPPLE:
+  name: Grilani ananas
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_PINTO_BEANS:
+  name: Grilani pinto grah
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_PORKCHOP:
+  name: Grilana svinjetina
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_POTATO:
+  name: Grilani krumpir
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_PUFFERFISH:
+  name: Grilana napuhača
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_PUMPKIN:
+  name: Grilana bundeva
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_RABBIT:
+  name: Grilani zec
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_RADDISH:
+  name: Grilana rotkvica
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_RADICCHIO:
+  name: Grilani radič
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_RAPESEED:
+  name: Grilana uljana repica
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_RED_MUSHROOM:
+  name: Grilana crvena gljiva
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_RHUBARB:
+  name: Grilana rabarbara
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_RICE:
+  name: Grilana riža
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_ROSEMARY:
+  name: Grilani ružmarin
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_ROTTEN_FLESH:
+  name: Grilano trulo meso
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_RUNNER_BEANS:
+  name: Grilani grah penjač
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_RUTABAGA:
+  name: Grilana korabica
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_SALMON:
+  name: Grilani losos
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_SALMON_SALAD:
+  name: Grilana salata od lososa
+  type:
+  - '&7&oHrana'
+  description:
+  - Divno lisnato i sjajno začinjeno.
+  stats:
+  - '&8⇨ &7Iscjeljenje: &b4 srca'
+  - '&8⇨ &bRegeneracija I &7(10:00)'
+  - '&8⇨ &bViše zdravlja V &7(10:00)'
+CLT_GRILLED_SASSAFRAS:
+  name: Grilani sasafras
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_SHALLOT:
+  name: Grilana ljutika
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_SHISO:
+  name: Grilani šiso
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_SOY_BEANS:
+  name: Grilana soja
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_SPINACH:
+  name: Grilani špinat
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_STAR_ANISE:
+  name: Grilani zvjezdasti anis
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_STRAWBERRY:
+  name: Grilana jagoda
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_SUGAR:
+  name: Grilani šećer
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_SWEETCORN:
+  name: Grilani kukuruz šećerac
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_SWEET_BERRIES:
+  name: Grilane slatke bobice
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_SWEET_POTATO:
+  name: Grilani slatki krumpir
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_TARRAGON:
+  name: Grilani estragon
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_THYME:
+  name: Grilani timijan
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_TOMATO:
+  name: Grilana rajčica
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_TURMERIC:
+  name: Grilana kurkuma
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_TURNIP:
+  name: Grilana repa
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_VANILLA:
+  name: Grilana vanilija
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_WASABI:
+  name: Grilani wasabi
+  type:
+  - '&7&oNusproizvod'
+CLT_GRILLED_WHEAT:
+  name: Grilana pšenica
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_APPLE:
+  name: Mljevena jabuka
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_APRICOT:
+  name: Mljevena marelica
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_ARTICHOKE:
+  name: Mljevena artičoka
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_ASPARAGUS:
+  name: Mljevena šparoga
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_AUBERGINE:
+  name: Mljeveni patlidžan
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_AVOCADO:
+  name: Mljeveni avokado
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_BANANA:
+  name: Mljevena banana
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_BASIL:
+  name: Mljeveni bosiljak
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_BAY_LEAF:
+  name: Mljeveni lovorov list
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_BEEF:
+  name: Mljevena govedina
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_BEETROOT:
+  name: Mljevena cikla
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_BELL_PEPPER:
+  name: Mljevena paprika
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_BLACK_BEANS:
+  name: Mljeveni crni grah
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_BREAD:
+  name: Mljeveni kruh
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_BROCCOLI:
+  name: Mljevena brokula
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_BROWN_MUSHROOM:
+  name: Mljevena smeđa gljiva
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_BRUSSELS_SPROUTS:
+  name: Mljevene prokulice
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_CABBAGE:
+  name: Mljeveni kupus
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_CARROT:
+  name: Mljevena mrkva
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_CAULIFLOWER:
+  name: Mljevena cvjetača
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_CAYENNE_PEPPER:
+  name: Mljeveni kajenski papar
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_CELERIAC:
+  name: Mljeveni celer korjenaš
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_CELERY:
+  name: Mljeveni celer
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_CHERRY:
+  name: Mljevena trešnja
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_CHESTNUT:
+  name: Mljeveni kesten
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_CHICKEN:
+  name: Mljevena piletina
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_CHICKPEAS:
+  name: Mljeveni slanutak
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_CHICORY:
+  name: Mljevena cikorija
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_CHILLY_PEPPER:
+  name: Mljevena čili papričica
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_CHIVES:
+  name: Mljeveni vlasac
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_CHORUS_FRUIT:
+  name: Mljeveno voće chorusa
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_CILANTRO:
+  name: Mljeveni korijandar
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_CINNAMON:
+  name: Mljeveni cimet
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_CLOVE:
+  name: Mljeveni klinčić
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_COCOA_BEANS:
+  name: Mljevene sjemenke kakaa
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_COD:
+  name: Mljeveni bakalar
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_COURGETTE:
+  name: Mljevena tikvica
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_CUCUMBER:
+  name: Mljeveni krastavac
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_CUMIN:
+  name: Mljeveni kumin
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_CURRY_LEAF:
+  name: Mljeveni list karija
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_DILL:
+  name: Mljeveni kopar
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_EGG:
+  name: Mljeveno jaje
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_ENCHANTED_GOLDEN_APPLE:
+  name: Mljevena začarana zlatna jabuka
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_FENNEL:
+  name: Mljeveni komorač
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_GARLIC:
+  name: Mljeveni češnjak
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_GINGER:
+  name: Mljeveni đumbir
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_GLOW_BERRIES:
+  name: Mljevene svjetleće bobice
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_GOLDEN_APPLE:
+  name: Mljevena zlatna jabuka
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_GOLDEN_CARROT:
+  name: Mljevena zlatna mrkva
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_GRAPE:
+  name: Mljeveno grožđe
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_GREEN_APPLE:
+  name: Mljevena zelena jabuka
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_GREEN_BEANS:
+  name: Mljevene mahune
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_GREEN_ONION:
+  name: Mljeveni mladi luk
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_HAZELNUT:
+  name: Mljeveni lješnjak
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_HORSERADISH:
+  name: Mljeveni hren
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_JALAPENO:
+  name: Mljeveni jalapeño
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_JASMINE:
+  name: Mljeveni jasmin
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_JUNIPER_BERRY:
+  name: Mljevene bobice borovice
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_KAFFIR_LIME:
+  name: Mljeveni list kafir limete
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_KALE:
+  name: Mljeveni kovrčavi kelj
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_KELP:
+  name: Mljeveni kelp
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_KIWI:
+  name: Mljeveni kivi
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_LAVENDER:
+  name: Mljevena lavanda
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_LEEK:
+  name: Mljeveni poriluk
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_LEMON:
+  name: Mljeveni limun
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_LETTUCE:
+  name: Mljevena zelena salata
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_LICORICE:
+  name: Mljeveni sladić
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_LIME:
+  name: Mljevena limeta
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_MACE:
+  name: Mljeveni muškatni cvijet
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_MANGO:
+  name: Mljeveni mango
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_MARJORAM:
+  name: Mljeveni mažuran
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_MARROW:
+  name: Mljevena tikva
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_MELON:
+  name: Mljevena lubenica
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_MINT:
+  name: Mljevena metvica
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_MUSTARD_SEEDS:
+  name: Mljevene sjemenke gorušice
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_MUTTON:
+  name: Mljevena janjetina
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_NETTLES:
+  name: Mljevene koprive
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_OKRA:
+  name: Mljevena bamija
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_ONION:
+  name: Mljeveni luk
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_ORANGE:
+  name: Mljevena naranča
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_OREGANO:
+  name: Mljeveni origano
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_PARSLEY:
+  name: Mljeveni peršin
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_PARSNIP:
+  name: Mljeveni pastrnjak
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_PEA:
+  name: Mljeveni grašak
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_PEACH:
+  name: Mljevena breskva
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_PEANUT:
+  name: Mljeveni kikiriki
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_PEAR:
+  name: Mljevena kruška
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_PECAN:
+  name: Mljeveni pekan orah
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_PEPPER:
+  name: Mljeveni crni papar
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_PEPPERONI:
+  name: Mljeveni pepperoni
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_PINEAPPLE:
+  name: Mljeveni ananas
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_PINTO_BEANS:
+  name: Mljeveni pinto grah
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_PORKCHOP:
+  name: Mljevena svinjetina
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_POTATO:
+  name: Mljeveni krumpir
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_PUFFERFISH:
+  name: Mljevena napuhača
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_PUMPKIN:
+  name: Mljevena bundeva
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_RABBIT:
+  name: Mljeveni zec
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_RADDISH:
+  name: Mljevena rotkvica
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_RADICCHIO:
+  name: Mljeveni radič
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_RAPESEED:
+  name: Mljevena uljana repica
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_RED_MUSHROOM:
+  name: Mljevena crvena gljiva
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_RHUBARB:
+  name: Mljevena rabarbara
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_RICE:
+  name: Mljevena riža
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_ROSEMARY:
+  name: Mljeveni ružmarin
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_ROTTEN_FLESH:
+  name: Mljeveno trulo meso
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_RUNNER_BEANS:
+  name: Mljeveni grah penjač
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_RUTABAGA:
+  name: Mljevena korabica
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_SALMON:
+  name: Mljeveni losos
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_SASSAFRAS:
+  name: Mljeveni sasafras
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_SHALLOT:
+  name: Mljevena ljutika
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_SHISO:
+  name: Mljeveni šiso
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_SOY_BEANS:
+  name: Mljevena soja
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_SPINACH:
+  name: Mljeveni špinat
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_STAR_ANISE:
+  name: Mljeveni zvjezdasti anis
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_STRAWBERRY:
+  name: Mljevena jagoda
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_SUGAR:
+  name: Mljeveni šećer
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_SWEETCORN:
+  name: Mljeveni kukuruz šećerac
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_SWEET_BERRIES:
+  name: Mljevene slatke bobice
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_SWEET_POTATO:
+  name: Mljeveni slatki krumpir
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_TARRAGON:
+  name: Mljeveni estragon
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_THYME:
+  name: Mljeveni timijan
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_TOMATO:
+  name: Mljevena rajčica
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_TURMERIC:
+  name: Mljevena kurkuma
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_TURNIP:
+  name: Mljevena repa
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_VANILLA:
+  name: Mljevena vanilija
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_WASABI:
+  name: Mljeveni wasabi
+  type:
+  - '&7&oNusproizvod'
+CLT_GROUND_WHEAT:
+  name: Mljevena pšenica
+  type:
+  - '&7&oNusproizvod'
+CLT_HAZELNUT:
+  name: Lješnjak
+  type:
+  - '&7&oPlodina'
+  description:
+  - Učini što god treba da ovo postane
+  - kava za mene, odmah!
+CLT_HORSERADISH:
+  name: Hren
+  type:
+  - '&7&oPlodina'
+  description:
+  - $100 ako zagrizeš ravno u njega.
+CLT_JALAPENO:
+  name: Jalapeño
+  type:
+  - '&7&oPlodina'
+  description:
+  - VRUĆE VRUĆE VRUĆE.
+CLT_JASMINE:
+  name: Jasmin
+  type:
+  - '&7&oPlodina'
+  description:
+  - Od njega je divan čaj.
+CLT_JUNIPER_BERRY:
+  name: Bobice borovice
+  type:
+  - '&7&oPlodina'
+  description:
+  - Osušen do paprenog savršenstva.
+CLT_KAFFIR_LIME:
+  name: List kafir limete
+  type:
+  - '&7&oPlodina'
+  description:
+  - List snažne svježine.
+CLT_KALE:
+  name: Kovrčavi kelj
+  type:
+  - '&7&oPlodina'
+  description:
+  - Upomoć, ja sam smoothie hipster iz 2020!
+CLT_KETCHUP:
+  name: Kečap
+  type:
+  - '&7&oPlodina'
+  description:
+  - Samo rajčice u kremastom obliku.
+CLT_KEY_LIME_PIE:
+  name: Pita od limete
+  type:
+  - '&7&oHrana'
+  description:
+  - Jednostavno najbolje!
+  stats:
+  - '&8⇨ &7Iscjeljenje: &b6 srca'
+  - '&8⇨ &bŽurba IV &7(10:00)'
+CLT_KIWI:
+  name: Kivi
+  type:
+  - '&7&oPlodina'
+  description:
+  - Ovo sam stavio u dodatak pod prisilom.
+  - Kiviji su zli i svatko tko
+  - ih koristi automatski gubi
+  - 100 bodova.
+CLT_LASAGNA:
+  name: Lazanje
+  type:
+  - '&7&oHrana'
+  description:
+  - Slojevi fantastičnosti.
+  stats:
+  - '&8⇨ &7Iscjeljenje: &bPotpuno'
+  - '&8⇨ &bRegeneracija II &7(10:00)'
+  - '&8⇨ &bOtpor II &7(10:00)'
+CLT_LAVENDER:
+  name: Lavanda
+  type:
+  - '&7&oPlodina'
+  description:
+  - Miris uz koji polako utonem u san.
+CLT_LEAVES_TREE_APRICOT:
+  name: Lišće marelice
+  type:
+  - '&7&oLišće'
+CLT_LEAVES_TREE_BANANA:
+  name: Lišće banane
+  type:
+  - '&7&oLišće'
+CLT_LEAVES_TREE_CHERRY:
+  name: Lišće trešnje
+  type:
+  - '&7&oLišće'
+CLT_LEAVES_TREE_CHESTNUT:
+  name: Lišće kestena
+  type:
+  - '&7&oLišće'
+CLT_LEAVES_TREE_GREEN_APPLE:
+  name: Lišće zelene jabuke
+  type:
+  - '&7&oLišće'
+CLT_LEAVES_TREE_HAZELNUT:
+  name: Lišće lješnjaka
+  type:
+  - '&7&oLišće'
+CLT_LEAVES_TREE_KIWI:
+  name: Lišće kivija
+  type:
+  - '&7&oLišće'
+CLT_LEAVES_TREE_LEMON:
+  name: Lišće limuna
+  type:
+  - '&7&oLišće'
+CLT_LEAVES_TREE_LIME:
+  name: Lišće limete
+  type:
+  - '&7&oLišće'
+CLT_LEAVES_TREE_MANGO:
+  name: Lišće manga
+  type:
+  - '&7&oLišće'
+CLT_LEAVES_TREE_ORANGE:
+  name: Lišće naranče
+  type:
+  - '&7&oLišće'
+CLT_LEAVES_TREE_PEACH:
+  name: Lišće breskve
+  type:
+  - '&7&oLišće'
+CLT_LEAVES_TREE_PEAR:
+  name: Lišće kruške
+  type:
+  - '&7&oLišće'
+CLT_LEAVES_TREE_PECAN:
+  name: Lišće pekan oraha
+  type:
+  - '&7&oLišće'
+CLT_LEAVES_TREE_PINEAPPLE:
+  name: Lišće ananasa
+  type:
+  - '&7&oLišće'
+CLT_LEEK:
+  name: Poriluk
+  type:
+  - '&7&oPlodina'
+  description:
+  - Iz nekog razloga s njega kaplje voda?
+  - Možda mu cure pore? Valjda zato poriluk.
+CLT_LEMON:
+  name: Limun
+  type:
+  - '&7&oPlodina'
+  description:
+  - Zašto tako kiselo lice?
+CLT_LEMON_DROP:
+  name: Limunov bombon
+  type:
+  - '&7&oHrana'
+  description:
+  - Za čišćenje nepca.
+  stats:
+  - '&8⇨ &7Uklanja sve učinke i ponovno te čini gladnim.'
+CLT_LETTUCE:
+  name: Zelena salata
+  type:
+  - '&7&oPlodina'
+  description:
+  - Tanko, vodenasto, a opet ukusno.
+CLT_LICORICE:
+  name: Sladić
+  type:
+  - '&7&oPlodina'
+  description:
+  - Bježi, bježi odmah!
+CLT_LIME:
+  name: Limeta
+  type:
+  - '&7&oPlodina'
+  description:
+  - Bilo jednom, u limeta davnih, jedno ukusno voće...
+CLT_MACE:
+  name: Muškatni cvijet
+  type:
+  - '&7&oPlodina'
+  description:
+  - Služi za prskanje u lice napadača.
+  - '...'
+  - Kako to misliš, to nije sprej za samoobranu?
+CLT_MANGO:
+  name: Mango
+  type:
+  - '&7&oPlodina'
+  description:
+  - MAN, GOtov sam.
+  - Pisati opise je teško...
+CLT_MARJORAM:
+  name: Mažuran
+  type:
+  - '&7&oPlodina'
+  description:
+  - Malo mi se kari... ovaj, žuri, možemo li kasnije?
+CLT_MARROW:
+  name: Tikva
+  type:
+  - '&7&oPlodina'
+  description:
+  - Jesi li znao da se srž tikve nalazi
+  - u tvojim kostima?
+  - Jep, Sefi Pametan.
+CLT_MASHED_APPLE:
+  name: Zgnječena jabuka
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_APRICOT:
+  name: Zgnječena marelica
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_ARTICHOKE:
+  name: Zgnječena artičoka
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_ASPARAGUS:
+  name: Zgnječena šparoga
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_AUBERGINE:
+  name: Zgnječeni patlidžan
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_AVOCADO:
+  name: Zgnječeni avokado
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_BANANA:
+  name: Zgnječena banana
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_BASIL:
+  name: Zgnječeni bosiljak
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_BAY_LEAF:
+  name: Zgnječeni lovorov list
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_BEEF:
+  name: Zgnječena govedina
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_BEETROOT:
+  name: Zgnječena cikla
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_BELL_PEPPER:
+  name: Zgnječena paprika
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_BLACK_BEANS:
+  name: Zgnječeni crni grah
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_BREAD:
+  name: Zgnječeni kruh
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_BROCCOLI:
+  name: Zgnječena brokula
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_BROWN_MUSHROOM:
+  name: Zgnječena smeđa gljiva
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_BRUSSELS_SPROUTS:
+  name: Zgnječene prokulice
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_CABBAGE:
+  name: Zgnječeni kupus
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_CARROT:
+  name: Zgnječena mrkva
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_CAULIFLOWER:
+  name: Zgnječena cvjetača
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_CAYENNE_PEPPER:
+  name: Zgnječeni kajenski papar
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_CELERIAC:
+  name: Zgnječeni celer korjenaš
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_CELERY:
+  name: Zgnječeni celer
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_CHERRY:
+  name: Zgnječena trešnja
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_CHESTNUT:
+  name: Zgnječeni kesten
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_CHICKEN:
+  name: Zgnječena piletina
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_CHICKPEAS:
+  name: Zgnječeni slanutak
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_CHICORY:
+  name: Zgnječena cikorija
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_CHILLY_PEPPER:
+  name: Zgnječena čili papričica
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_CHIVES:
+  name: Zgnječeni vlasac
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_CHORUS_FRUIT:
+  name: Zgnječeno voće chorusa
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_CILANTRO:
+  name: Zgnječeni korijandar
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_CINNAMON:
+  name: Zgnječeni cimet
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_CLOVE:
+  name: Zgnječeni klinčić
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_COCOA_BEANS:
+  name: Zgnječene sjemenke kakaa
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_COD:
+  name: Zgnječeni bakalar
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_COURGETTE:
+  name: Zgnječena tikvica
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_CUCUMBER:
+  name: Zgnječeni krastavac
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_CUMIN:
+  name: Zgnječeni kumin
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_CURRY_LEAF:
+  name: Zgnječeni list karija
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_DILL:
+  name: Zgnječeni kopar
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_EGG:
+  name: Zgnječeno jaje
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_ENCHANTED_GOLDEN_APPLE:
+  name: Zgnječena začarana zlatna jabuka
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_FENNEL:
+  name: Zgnječeni komorač
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_GARLIC:
+  name: Zgnječeni češnjak
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_GINGER:
+  name: Zgnječeni đumbir
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_GLOW_BERRIES:
+  name: Zgnječene svjetleće bobice
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_GOLDEN_APPLE:
+  name: Zgnječena zlatna jabuka
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_GOLDEN_CARROT:
+  name: Zgnječena zlatna mrkva
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_GRAPE:
+  name: Zgnječeno grožđe
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_GREEN_APPLE:
+  name: Zgnječena zelena jabuka
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_GREEN_BEANS:
+  name: Zgnječene mahune
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_GREEN_ONION:
+  name: Zgnječeni mladi luk
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_HAZELNUT:
+  name: Zgnječeni lješnjak
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_HORSERADISH:
+  name: Zgnječeni hren
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_JALAPENO:
+  name: Zgnječeni jalapeño
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_JASMINE:
+  name: Zgnječeni jasmin
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_JUNIPER_BERRY:
+  name: Zgnječene bobice borovice
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_KAFFIR_LIME:
+  name: Zgnječeni list kafir limete
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_KALE:
+  name: Zgnječeni kovrčavi kelj
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_KELP:
+  name: Zgnječeni kelp
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_KIWI:
+  name: Zgnječeni kivi
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_LAVENDER:
+  name: Zgnječena lavanda
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_LEEK:
+  name: Zgnječeni poriluk
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_LEMON:
+  name: Zgnječeni limun
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_LETTUCE:
+  name: Zgnječena zelena salata
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_LICORICE:
+  name: Zgnječeni sladić
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_LIME:
+  name: Zgnječena limeta
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_MACE:
+  name: Zgnječeni muškatni cvijet
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_MANGO:
+  name: Zgnječeni mango
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_MARJORAM:
+  name: Zgnječeni mažuran
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_MARROW:
+  name: Zgnječena tikva
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_MELON:
+  name: Zgnječena lubenica
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_MINT:
+  name: Zgnječena metvica
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_MUSTARD_SEEDS:
+  name: Zgnječene sjemenke gorušice
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_MUTTON:
+  name: Zgnječena janjetina
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_NETTLES:
+  name: Zgnječene koprive
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_OKRA:
+  name: Zgnječena bamija
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_ONION:
+  name: Zgnječeni luk
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_ORANGE:
+  name: Zgnječena naranča
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_OREGANO:
+  name: Zgnječeni origano
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_PARSLEY:
+  name: Zgnječeni peršin
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_PARSNIP:
+  name: Zgnječeni pastrnjak
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_PEA:
+  name: Zgnječeni grašak
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_PEACH:
+  name: Zgnječena breskva
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_PEANUT:
+  name: Zgnječeni kikiriki
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_PEAR:
+  name: Zgnječena kruška
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_PECAN:
+  name: Zgnječeni pekan orah
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_PEPPER:
+  name: Zgnječeni crni papar
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_PEPPERONI:
+  name: Zgnječeni pepperoni
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_PINEAPPLE:
+  name: Zgnječeni ananas
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_PINTO_BEANS:
+  name: Zgnječeni pinto grah
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_PORKCHOP:
+  name: Zgnječena svinjetina
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_POTATO:
+  name: Zgnječeni krumpir
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_PUFFERFISH:
+  name: Zgnječena napuhača
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_PUMPKIN:
+  name: Zgnječena bundeva
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_RABBIT:
+  name: Zgnječeni zec
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_RADDISH:
+  name: Zgnječena rotkvica
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_RADICCHIO:
+  name: Zgnječeni radič
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_RAPESEED:
+  name: Zgnječena uljana repica
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_RED_MUSHROOM:
+  name: Zgnječena crvena gljiva
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_RHUBARB:
+  name: Zgnječena rabarbara
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_RICE:
+  name: Zgnječena riža
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_ROSEMARY:
+  name: Zgnječeni ružmarin
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_ROTTEN_FLESH:
+  name: Zgnječeno trulo meso
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_RUNNER_BEANS:
+  name: Zgnječeni grah penjač
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_RUTABAGA:
+  name: Zgnječena korabica
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_SALMON:
+  name: Zgnječeni losos
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_SASSAFRAS:
+  name: Zgnječeni sasafras
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_SHALLOT:
+  name: Zgnječena ljutika
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_SHISO:
+  name: Zgnječeni šiso
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_SOY_BEANS:
+  name: Zgnječena soja
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_SPINACH:
+  name: Zgnječeni špinat
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_STAR_ANISE:
+  name: Zgnječeni zvjezdasti anis
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_STRAWBERRY:
+  name: Zgnječena jagoda
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_SUGAR:
+  name: Zgnječeni šećer
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_SWEETCORN:
+  name: Zgnječeni kukuruz šećerac
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_SWEET_BERRIES:
+  name: Zgnječene slatke bobice
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_SWEET_POTATO:
+  name: Zgnječeni slatki krumpir
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_TARRAGON:
+  name: Zgnječeni estragon
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_THYME:
+  name: Zgnječeni timijan
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_TOMATO:
+  name: Zgnječena rajčica
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_TURMERIC:
+  name: Zgnječena kurkuma
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_TURNIP:
+  name: Zgnječena repa
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_VANILLA:
+  name: Zgnječena vanilija
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_WASABI:
+  name: Zgnječeni wasabi
+  type:
+  - '&7&oNusproizvod'
+CLT_MASHED_WHEAT:
+  name: Zgnječena pšenica
+  type:
+  - '&7&oNusproizvod'
+CLT_MAYONNAISE:
+  name: Majoneza
+  type:
+  - '&7&oPlodina'
+  description:
+  - Svilenkasta majoneza koja ide uz gotovo sve.
+CLT_MEATBALLS:
+  name: Mesne okruglice
+  type:
+  - '&7&oPlodina'
+  description:
+  - Kuglice od mesa, tko bi rekao.
+CLT_MEATLOAF:
+  name: Mesna štruca
+  type:
+  - '&7&oHrana'
+  description:
+  - Nema ništa slično! Idemo.
+  stats:
+  - '&8⇨ &7Iscjeljenje: &bPotpuno'
+  - '&8⇨ &bViše zdravlja IV &7(10:00)'
+  - '&8⇨ &bOtpor III &7(10:00)'
+  - '&8⇨ &bŽurba II &7(10:00)'
+  - '&8⇨ &bUsporenost II &7(10:00)'
+CLT_MINT:
+  name: Metvica
+  type:
+  - '&7&oPlodina'
+  description:
+  - Žvak žvak žvak.
+CLT_MUSTARD:
+  name: Senf
+  type:
+  - '&7&oPlodina'
+  description:
+  - Ima malo žestine!
+CLT_MUSTARD_SEEDS:
+  name: Sjemenke senfa
+  type:
+  - '&7&oPlodina'
+  description:
+  - Prožvači ih, ako se usudiš!
+CLT_NETTLES:
+  name: Koprive
+  type:
+  - '&7&oPlodina'
+  description:
+  - Molim te, stavi rukavice prije nego ih uzmeš.
+CLT_OKRA:
+  name: Bamija
+  type:
+  - '&7&oPlodina'
+  description:
+  - Puno se uzgaja u Okra-homi... zar ne, ZAR NE?
+CLT_ONION:
+  name: Luk
+  type:
+  - '&7&oPlodina'
+  description:
+  - Čekaj, zašto plačeš?
+CLT_ORANGE:
+  name: Naranča
+  type:
+  - '&7&oPlodina'
+  description:
+  - Zar ovo ne bi trebalo biti na navijanje?
+CLT_ORANGE_JUICE:
+  name: Sok od naranče
+  type:
+  - '&7&oHrana'
+  description:
+  - Stvarno je najbolji način za početak dana.
+  stats:
+  - '&8⇨ &bBrzina IV &7(10:00)'
+CLT_OREGANO:
+  name: Origano
+  type:
+  - '&7&oPlodina'
+  description:
+  - Klasična začinska biljka iz svake smočnice.
+CLT_PARSLEY:
+  name: Peršin
+  type:
+  - '&7&oPlodina'
+  description:
+  - Najgora. Biljka. Ikad.
+CLT_PARSNIP:
+  name: Pastrnjak
+  type:
+  - '&7&oPlodina'
+  description:
+  - Odmah ga treba ispeći.
+CLT_PASTA:
+  name: Tjestenina
+  type:
+  - '&7&oPlodina'
+  description:
+  - Obična tjestenina, jednostavna, a divna.
+CLT_PEA:
+  name: Grašak
+  type:
+  - '&7&oPlodina'
+  description:
+  - Često dolaze u parovima u mahuni, barem tako čujem.
+CLT_PEACH:
+  name: Breskva
+  type:
+  - '&7&oPlodina'
+  description:
+  - O emojiju ne pričamo
+CLT_PEANUT:
+  name: Kikiriki
+  type:
+  - '&7&oPlodina'
+  description:
+  - Reese's, evo me!
+CLT_PEANUT_BUTTER:
+  name: Maslac od kikirikija
+  type:
+  - '&7&oPlodina'
+  description:
+  - Usporedivo samo s tekućim zlatom.
+CLT_PEANUT_BUTTER_JELLY_SANDWICH:
+  name: Sendvič s maslacem od kikirikija i želeom
+  type:
+  - '&7&oHrana'
+  description:
+  - To je stvarno vrhunac sendvič-tehnologije.
+  stats:
+  - '&8⇨ &7Iscjeljenje: &b5 srca'
+  - '&8⇨ &bSnaga III &7(10:00)'
+CLT_PEAR:
+  name: Kruška
+  type:
+  - '&7&oPlodina'
+  description:
+  - Ne bi li rekao da ovo izgleda kruš-kasno savršeno?
+CLT_PECAN:
+  name: Pekan orah
+  type:
+  - '&7&oPlodina'
+  description:
+  - Samo moli da od njega napraviš pitu.
+CLT_PECAN_PIE:
+  name: Pita od pekan oraha
+  type:
+  - '&7&oHrana'
+  description:
+  - Jedini način da jedeš čisti šećer a da te
+  - nitko ne osuđuje.
+  stats:
+  - '&8⇨ &7Iscjeljenje: &b4 srca'
+  - '&8⇨ &bLebdenje I &7(10:00)'
+CLT_PEPPER:
+  name: Crni papar
+  type:
+  - '&7&oPlodina'
+  description:
+  - Ljuće od soli.
+CLT_PEPPERONI:
+  name: Pepperoni
+  type:
+  - '&7&oPlodina'
+  description:
+  - Mogao bih pojesti cijelu ovakvu štrucu, lako.
+CLT_PICO_DE_GALLO:
+  name: Pico de gallo
+  type:
+  - '&7&oPlodina'
+  description:
+  - Blaga salsa puna čiste ukusnosti.
+CLT_PIE_CRUST:
+  name: Kora za pitu
+  type:
+  - '&7&oPlodina'
+  description:
+  - Da je legalno jesti ovo samo za sebe,
+  - bio bi mi glavni izvor hrane.
+CLT_PINEAPPLE:
+  name: Ananas
+  type:
+  - '&7&oPlodina'
+  description:
+  - Ovo pripada na svaku pizzu na svijetu.
+  - Hoćeš se svađati oko toga!?
+CLT_PINTO_BEANS:
+  name: Pinto grah
+  type:
+  - '&7&oPlodina'
+  description:
+  - Kaching! Vrijeme je za burrito.
+CLT_PIZZA_CHEESE:
+  name: Pizza sa sirom
+  type:
+  - '&7&oHrana'
+  description:
+  - Zašto bi itko naručio samo sir? Nemam pojma.
+  stats:
+  - '&8⇨ &7Iscjeljenje: &b4 srca'
+  - '&8⇨ &bUsporenost I &7(10:00)'
+CLT_PIZZA_MUSHROOM:
+  name: Pizza s gljivama
+  type:
+  - '&7&oHrana'
+  description:
+  - Jednostavna vegetarijanska pizza puna bjelančevina.
+  stats:
+  - '&8⇨ &7Iscjeljenje: &b6 srca'
+  - '&8⇨ &bUsporenost I &7(10:00)'
+  - '&8⇨ &bŽurba II &7(10:00)'
+CLT_PIZZA_PEPPERONI:
+  name: Pizza s pepperonijem
+  type:
+  - '&7&oHrana'
+  description:
+  - Njujorška klasika puna okusa.
+  stats:
+  - '&8⇨ &7Iscjeljenje: &b6 srca'
+  - '&8⇨ &bBrzina I &7(10:00)'
+  - '&8⇨ &bŽurba I &7(10:00)'
+  - '&8⇨ &bPoletnost I &7(10:00)'
+CLT_PLANT_AIR:
+  name: Biljka iskonskog zraka
+  type:
+  - '&7&oBiljka'
+  description:
+  - Biljka koja tiho pjevuši
+  - melodiju okolne prirode.
+  - '&eIskonske biljke ne daju predmete'
+  - '&ei služe samo za križanje.'
+CLT_PLANT_AMETHYST:
+  name: Biljka ametista
+  type:
+  - '&7&oBiljka'
+  description:
+  - Ova biljka voli bujati na dubokim, mračnim
+  - mjestima.
+CLT_PLANT_ANALYSER:
+  name: Analizator biljaka
+  type:
+  - '&7&oAlat'
+  description:
+  - Vrlo jednostavan alat koji ti pokazuje
+  - pojedinosti biljke koja raste
+  usage:
+  - '&eDesni klik&7: Otkriva vrstu i pojedinosti rasta biljke.'
+  - '&eShift + desni klik&7: Prikazuje ime biljke ili grma.'
+CLT_PLANT_BASALT:
+  name: Biljka bazalta
+  type:
+  - '&7&oBiljka'
+  description:
+  - Vrlo dosadna i bezlična biljka.
+CLT_PLANT_BEE:
+  name: Biljka pčele
+  type:
+  - '&7&oBiljka'
+  description:
+  - Biljka s vrlo malim, nježnim krilima.
+CLT_PLANT_BLACKSTONE:
+  name: Biljka crnog kamena
+  type:
+  - '&7&oBiljka'
+  description:
+  - Biljka za koju se zna da upija svjetlo.
+CLT_PLANT_BLAZE:
+  name: Biljka bljeska
+  type:
+  - '&7&oBiljka'
+  description:
+  - Biljka sprženih rubova.
+CLT_PLANT_CHICKEN:
+  name: Biljka kokoši
+  type:
+  - '&7&oBiljka'
+  description:
+  - Priča se da ćeš, ako držiš ovo
+  - sjeme iznad glave i skočiš s
+  - visokog mjesta, klizati umjesto
+  - da padneš.
+CLT_PLANT_CLAY:
+  name: Biljka gline
+  type:
+  - '&7&oBiljka'
+  description:
+  - Ova se biljka može slobodno oblikovati i preoblikovati.
+  - To ipak ne znači da je to
+  - dobra ideja!
+CLT_PLANT_COAL:
+  name: Biljka ugljena
+  type:
+  - '&7&oBiljka'
+  description:
+  - Biljka s takvim potencijalom.
+CLT_PLANT_COBBLESTONE:
+  name: Biljka kaldrme
+  type:
+  - '&7&oBiljka'
+  description:
+  - Ova je biljka tvrda kao kamen.
+CLT_PLANT_CONCRETE:
+  name: Biljka betona
+  type:
+  - '&7&oBiljka'
+  description:
+  - Ova biljka teško raste jer
+  - se tako brzo stvrdne.
+CLT_PLANT_COW:
+  name: Biljka krave
+  type:
+  - '&7&oBiljka'
+  description:
+  - Ako prisloniš ovo sjeme uz uho
+  - i vrlo pažljivo slušaš, čut ćeš
+  - povremeno mukanje.
+CLT_PLANT_CREEPER:
+  name: Biljka creepera
+  type:
+  - '&7&oBiljka'
+  description:
+  - Tsssssssssttt...
+CLT_PLANT_DARKNESS:
+  name: Biljka iskonske tame
+  type:
+  - '&7&oBiljka'
+  description:
+  - Biljka koja kipi od neobuzdanog
+  - bijesa.
+  - '&eIskonske biljke ne daju predmete'
+  - '&ei služe samo za križanje.'
+CLT_PLANT_DARK_FLORA:
+  name: Biljka tamne flore
+  type:
+  - '&7&oBiljka'
+  description:
+  - U ovom jednostavnom sjemenu skriva se tiho zlo.
+CLT_PLANT_DARK_GRASS:
+  name: Biljka tamne trave
+  type:
+  - '&7&oBiljka'
+  description:
+  - Biljka koja je stvarno izgubila svoj
+  - identitet.
+CLT_PLANT_DEEPSLATE:
+  name: Biljka škriljevca
+  type:
+  - '&7&oBiljka'
+  description:
+  - Duboka, škriljasta, <ovdje umetni opis>.
+CLT_PLANT_DIAMOND:
+  name: Biljka dijamanta
+  type:
+  - '&7&oBiljka'
+  description:
+  - Biljka koja samo priča o bogatstvu.
+CLT_PLANT_DIM_LIT:
+  name: Biljka prigušenog sjaja
+  type:
+  - '&7&oBiljka'
+  description:
+  - Iz ovog sjemena izlazi vrlo prigušeno svjetlo.
+CLT_PLANT_DIRT:
+  name: Biljka zemlje
+  type:
+  - '&7&oBiljka'
+  description:
+  - Prljava na površini, ali krije
+  - same temelje života.
+CLT_PLANT_DROWNED:
+  name: Biljka utopljenika
+  type:
+  - '&7&oBiljka'
+  description:
+  - Biljka koja je mokra do kože,
+  - cijelo vrijeme.
+CLT_PLANT_DUSTY:
+  name: Biljka prašine
+  type:
+  - '&7&oBiljka'
+  description:
+  - Ova biljka treba posebnu njegu, i najmanji
+  - jači povjetarac može biti dovoljan da se
+  - raspadne.
+CLT_PLANT_EARTH:
+  name: Biljka iskonske zemlje
+  type:
+  - '&7&oBiljka'
+  description:
+  - Biljka koja obogaćuje svijet
+  - oko sebe.
+  - '&eIskonske biljke ne daju predmete'
+  - '&ei služe samo za križanje.'
+CLT_PLANT_ECHO:
+  name: Biljka jeke
+  type:
+  - '&7&oBiljka'
+  description:
+  - Ova biljka uvijek zna pronaći
+  - put kući.
+CLT_PLANT_ELDER_GUARDIAN:
+  name: Biljka drevnog čuvara
+  type:
+  - '&7&oBiljka'
+  description:
+  - Blizina ove biljke čini ljude
+  - tromima.
+CLT_PLANT_EMERALD:
+  name: Biljka smaragda
+  type:
+  - '&7&oBiljka'
+  description:
+  - Vlasnici ove biljke moraju se dobro namučiti
+  - samo da si je mogu priuštiti.
+CLT_PLANT_ENDERMAN:
+  name: Biljka endermana
+  type:
+  - '&7&oBiljka'
+  description:
+  - Ako se s njom ne postupa pažljivo, ova biljka
+  - mogla bi se nasumično teleportirati!
+CLT_PLANT_ENDER_DRAGON:
+  name: Biljka Ender zmaja
+  type:
+  - '&7&oBiljka'
+  description:
+  - Pravi boss među biljkama.
+CLT_PLANT_END_STONE:
+  name: Biljka End kamena
+  type:
+  - '&7&oBiljka'
+  description:
+  - Biljka koja bruji prazninom.
+CLT_PLANT_FIRE:
+  name: Biljka iskonske vatre
+  type:
+  - '&7&oBiljka'
+  description:
+  - Biljka koja pruža i
+  - izvore uništenja i
+  - ponovnog rođenja.
+  - '&eIskonske biljke ne daju predmete'
+  - '&ei služe samo za križanje.'
+CLT_PLANT_FISH:
+  name: Biljka ribe
+  type:
+  - '&7&oBiljka'
+  description:
+  - Iz ovog sjemena širi se miris zrelosti.
+CLT_PLANT_FLOWER:
+  name: Cvjetajuća biljka
+  type:
+  - '&7&oBiljka'
+  description:
+  - Prekrasan rog obilja, lijepo poslužen.
+CLT_PLANT_FROG:
+  name: Biljka žabe
+  type:
+  - '&7&oBiljka'
+  description:
+  - Kreket!
+CLT_PLANT_GHAST:
+  name: Biljka ghasta
+  type:
+  - '&7&oBiljka'
+  description:
+  - Biljka za koju se zna da
+  - nasumično ispaljuje vatrene kugle.
+CLT_PLANT_GLASS:
+  name: Biljka stakla
+  type:
+  - '&7&oBiljka'
+  description:
+  - Iz pravog kuta mogao bi
+  - se zakleti da vidiš kroz ovu biljku.
+CLT_PLANT_GLAZED:
+  name: Biljka glazure
+  type:
+  - '&7&oBiljka'
+  description:
+  - Biljka koja raste u zamršenom uzorku.
+CLT_PLANT_GLOWING_VINE:
+  name: Biljka svjetleće loze
+  type:
+  - '&7&oBiljka'
+  description:
+  - Iz ovog sjemena izlazi blago svjetlo.
+CLT_PLANT_GLOW_SQUID:
+  name: Biljka svjetleće lignje
+  type:
+  - '&7&oBiljka'
+  description:
+  - Svjetlucava biljka s blagim sjajem.
+CLT_PLANT_GOAT:
+  name: Biljka koze
+  type:
+  - '&7&oBiljka'
+  description:
+  - Nasumično nasilna biljka koja voli
+  - skakutati okolo.
+CLT_PLANT_GRASS:
+  name: Biljka trave
+  type:
+  - '&7&oBiljka'
+  description:
+  - Bujajući život izvire
+  - iz tla.
+CLT_PLANT_GRAVEL:
+  name: Biljka šljunka
+  type:
+  - '&7&oBiljka'
+  description:
+  - Ova se biljka stvarno ne zna
+  - držati na okupu.
+CLT_PLANT_GUARDIAN:
+  name: Biljka čuvara
+  type:
+  - '&7&oBiljka'
+  description:
+  - Kad je dodirneš, ova biljka ispušta
+  - bodlje.
+CLT_PLANT_IGNEOUS:
+  name: Biljka magmatske stijene
+  type:
+  - '&7&oBiljka'
+  description:
+  - Ova je biljka nastala pod toplinom i
+  - pritiskom. Ne gledaj me tako! Svi
+  - ovi opisi biljaka imaju savršenog smisla.
+CLT_PLANT_LAPIS:
+  name: Biljka lazurita
+  type:
+  - '&7&oBiljka'
+  description:
+  - Biljka s blagom čarobnom aurom.
+CLT_PLANT_LIGHT:
+  name: Biljka iskonskog svjetla
+  type:
+  - '&7&oBiljka'
+  description:
+  - Biljka koja zrači aurom
+  - čiste ljubavi.
+  - '&eIskonske biljke ne daju predmete'
+  - '&ei služe samo za križanje.'
+CLT_PLANT_MAGMA:
+  name: Biljka magme
+  type:
+  - '&7&oBiljka'
+  description:
+  - Biljka toliko vruća da prži svoju
+  - okolinu.
+CLT_PLANT_MAGMA_CUBE:
+  name: Biljka magmara
+  type:
+  - '&7&oBiljka'
+  description:
+  - Kad je nitko ne gleda, ova biljka
+  - voli poskakivati gore-dolje.
+CLT_PLANT_MOSS:
+  name: Biljka mahovine
+  type:
+  - '&7&oBiljka'
+  description:
+  - Ova se biljka širi nekontrolirano.
+CLT_PLANT_MUD:
+  name: Biljka blata
+  type:
+  - '&7&oBiljka'
+  description:
+  - Biljka gotovo jednako prljava kao
+  - tlo iz kojeg raste.
+CLT_PLANT_MUSHROOM:
+  name: Biljka gljive
+  type:
+  - '&7&oBiljka'
+  description:
+  - Jep, biljka koja stvara gljive.
+  - Ovdje je sve potpuno normalno.
+CLT_PLANT_NETHERRACK:
+  name: Biljka netherracka
+  type:
+  - '&7&oBiljka'
+  description:
+  - Žilava, otporna biljka koja može preživjeti
+  - na većini mjesta.
+CLT_PLANT_NETHER_QUARTZ:
+  name: Biljka Nether kvarca
+  type:
+  - '&7&oBiljka'
+  description:
+  - Ova biljka ima trnje toliko oštro da
+  - je s njom teško raditi.
+CLT_PLANT_PHANTOM:
+  name: Biljka fantoma
+  type:
+  - '&7&oBiljka'
+  description:
+  - Biljka s uzvišenim listovima.
+CLT_PLANT_PIG:
+  name: Biljka svinje
+  type:
+  - '&7&oBiljka'
+  description:
+  - Biljka koja nasumično frkće.
+CLT_PLANT_POWER:
+  name: Biljka iskonske moći
+  type:
+  - '&7&oBiljka'
+  description:
+  - Biljka koja doslovno zrači moći.
+  - '&eIskonske biljke ne daju predmete'
+  - '&ei služe samo za križanje.'
+CLT_PLANT_PURPUR:
+  name: Biljka purpura
+  type:
+  - '&7&oBiljka'
+  description:
+  - Neobična biljka, čini se mnogo lakšom
+  - od većine.
+CLT_PLANT_RABBIT:
+  name: Biljka zeca
+  type:
+  - '&7&oBiljka'
+  description:
+  - Kukci bi bili ponosni.
+CLT_PLANT_RAINBOW:
+  name: Biljka duge
+  type:
+  - '&7&oBiljka'
+  description:
+  - Na kraju ove biljke možda ima, a možda
+  - i nema, ćupa zlata.
+CLT_PLANT_RAW_COPPER:
+  name: Biljka sirovog bakra
+  type:
+  - '&7&oBiljka'
+  description:
+  - Ako je ostaviš na miru, ova biljka ponekad
+  - privlači munje.
+CLT_PLANT_RAW_GOLD:
+  name: Biljka sirovog zlata
+  type:
+  - '&7&oBiljka'
+  description:
+  - Ovu biljku često kradu piglini
+  - ako su u blizini.
+CLT_PLANT_RAW_IRON:
+  name: Biljka sirovog željeza
+  type:
+  - '&7&oBiljka'
+  description:
+  - Čvrsta biljka koja podnosi većinu
+  - okruženja.
+CLT_PLANT_REDSTONE:
+  name: Biljka redstonea
+  type:
+  - '&7&oBiljka'
+  description:
+  - Biljka koja cijela kipi od moći.
+CLT_PLANT_RED_SAND:
+  name: Biljka crvenog pijeska
+  type:
+  - '&7&oBiljka'
+  description:
+  - Ova se biljka ponekad raspadne
+  - na jedan dodir, ali... crvenije.
+CLT_PLANT_REINFORCED:
+  name: Ojačana biljka
+  type:
+  - '&7&oBiljka'
+  description:
+  - Biljka koja se može održati uspravno
+  - kroz sve.
+CLT_PLANT_SAND:
+  name: Biljka pijeska
+  type:
+  - '&7&oBiljka'
+  description:
+  - Ova se biljka ponekad raspadne
+  - na jedan dodir.
+CLT_PLANT_SAPLING:
+  name: Biljka mladice
+  type:
+  - '&7&oBiljka'
+  description:
+  - Ova biljka čak nema ni smisla...
+CLT_PLANT_SCRAPPY:
+  name: Biljka krhotina
+  type:
+  - '&7&oBiljka'
+  description:
+  - Ova biljka stvarno je vrhunac
+  - hortikulture.
+CLT_PLANT_SHEEP:
+  name: Biljka ovce
+  type:
+  - '&7&oBiljka'
+  description:
+  - Biljka grube, vunaste teksture.
+CLT_PLANT_SHULKER:
+  name: Biljka shulkera
+  type:
+  - '&7&oBiljka'
+  description:
+  - Biljka koja često lebdi iznad
+  - tla.
+CLT_PLANT_SKELETON:
+  name: Biljka kostura
+  type:
+  - '&7&oBiljka'
+  description:
+  - Biljka koja zvecka dok se njiše.
+CLT_PLANT_SLIME:
+  name: Biljka ljigavca
+  type:
+  - '&7&oBiljka'
+  description:
+  - Zašto je tako ljepljiva?
+CLT_PLANT_SOUL:
+  name: Biljka duše
+  type:
+  - '&7&oBiljka'
+  description:
+  - Biljka koju se može čuti kako vrišti
+  - kad je tiho.
+CLT_PLANT_SPECTRUM:
+  name: Biljka iskonskog spektra
+  type:
+  - '&7&oBiljka'
+  description:
+  - Biljka koja lagano mijenja boju.
+  - '&eIskonske biljke ne daju predmete'
+  - '&ei služe samo za križanje.'
+CLT_PLANT_SPIDER:
+  name: Biljka pauka
+  type:
+  - '&7&oBiljka'
+  description:
+  - Ubij je, ubij je ODMAH!
+CLT_PLANT_SQUID:
+  name: Biljka lignje
+  type:
+  - '&7&oBiljka'
+  description:
+  - Oprezno, i sam dodir ove biljke
+  - može izazvati eksploziju tinte po
+  - cijelom mjestu.
+CLT_PLANT_STAINED:
+  name: Obojena biljka
+  type:
+  - '&7&oBiljka'
+  description:
+  - Ova biljka razlaže svjetlo u pravi
+  - spektar na obližnje predmete.
+CLT_PLANT_TERRA:
+  name: Biljka tla
+  type:
+  - '&7&oBiljka'
+  description:
+  - Tvrda, zemljana biljka koja puca pod pritiskom.
+CLT_PLANT_TURTLE:
+  name: Biljka kornjače
+  type:
+  - '&7&oBiljka'
+  description:
+  - Sjeme okruženo ljuskom tvrdom kao kamen.
+CLT_PLANT_VILLAGER:
+  name: Biljka seljanina
+  type:
+  - '&7&oBiljka'
+  description:
+  - Jep, saželi smo bit seljanina
+  - u biljku. Navodno je jako boljelo.
+CLT_PLANT_VINE:
+  name: Biljka loze
+  type:
+  - '&7&oBiljka'
+  description:
+  - Biljka koja se trenutno sama
+  - zapetlja.
+CLT_PLANT_WATER:
+  name: Biljka iskonske vode
+  type:
+  - '&7&oBiljka'
+  description:
+  - Biljka koja njeguje i daje
+  - život okolnom području.
+  - '&eIskonske biljke ne daju predmete'
+  - '&ei služe samo za križanje.'
+CLT_PLANT_WAXY:
+  name: Biljka voska
+  type:
+  - '&7&oBiljka'
+  description:
+  - Sok ove biljke stvrdne se u
+  - vosak savršen za svijeće.
+CLT_PLANT_WEALTH:
+  name: Biljka iskonskog bogatstva
+  type:
+  - '&7&oBiljka'
+  description:
+  - Biljka koja jednostavno vrišti raskošnim bogatstvom.
+  - '&eIskonske biljke ne daju predmete'
+  - '&ei služe samo za križanje.'
+CLT_PLANT_WITCH:
+  name: Biljka vještice
+  type:
+  - '&7&oBiljka'
+  description:
+  - Biljka koja zvuči kao da tiho
+  - mrmlja čarolije.
+CLT_PLANT_WITHER:
+  name: Biljka withera
+  type:
+  - '&7&oBiljka'
+  description:
+  - Smrtonosna biljka s kojom treba
+  - postupati pažljivo.
+CLT_PLANT_WITHER_ROSE:
+  name: Biljka wither ruže
+  type:
+  - '&7&oBiljka'
+  description:
+  - Ova biljka nekako oko sebe
+  - pulsira štetnom aurom.
+CLT_PLANT_WITHER_SKELETON:
+  name: Biljka wither kostura
+  type:
+  - '&7&oBiljka'
+  description:
+  - Biljka poznata kao neuhvatljiva i otporna.
+CLT_PLANT_WOOLLY:
+  name: Biljka vune
+  type:
+  - '&7&oBiljka'
+  description:
+  - Vunasta biljka, od korijena do latica!
+CLT_PLANT_ZOMBIE:
+  name: Biljka zombija
+  type:
+  - '&7&oBiljka'
+  description:
+  - Iz ove biljke kaplje... nešto...
+CLT_RADDISH:
+  name: Rotkvica
+  type:
+  - '&7&oPlodina'
+  description:
+  - Mali džepovi svježeg, hrskavog sunca.
+CLT_RADICCHIO:
+  name: Radič
+  type:
+  - '&7&oPlodina'
+  description:
+  - Pisanje svih ovih opisa traje tako dugo.
+  - To je baš radič-ulozno.
+CLT_RAMEN_BEEF:
+  name: Ramen s govedinom
+  type:
+  - '&7&oHrana'
+  description:
+  - Ne baš zdrav izbor.
+  stats: &id004
+  - '&8⇨ &bViše zdravlja I &7(10:00)'
+CLT_RAMEN_BEEF_HEARTY:
+  name: Obilni ramen s govedinom
+  type:
+  - '&7&oHrana'
+  description:
+  - Zdrav izbor.
+  stats: &id005
+  - '&8⇨ &7Iscjeljenje: &bPotpuno'
+  - '&8⇨ &bViše zdravlja II &7(10:00)'
+  - '&8⇨ &bBrzina I &7(10:00)'
+CLT_RAMEN_CHICKEN:
+  name: Ramen s piletinom
+  type:
+  - '&7&oHrana'
+  description:
+  - Ne baš zasitan izbor.
+  stats: *id004
+CLT_RAMEN_CHICKEN_HEARTY:
+  name: Obilni ramen s piletinom
+  type:
+  - '&7&oHrana'
+  description:
+  - Zasitan izbor.
+  stats: *id005
+CLT_RAMEN_SEAFOOD:
+  name: Ramen s plodovima mora
+  type:
+  - '&7&oHrana'
+  description:
+  - Ne baš zadovoljavajući izbor.
+  stats: *id004
+CLT_RAMEN_SEAFOOD_HEARTY:
+  name: Obilni ramen s plodovima mora
+  type:
+  - '&7&oHrana'
+  description:
+  - Zadovoljavajući izbor.
+  stats: *id005
+CLT_RAPESEED:
+  name: Uljana repica
+  type:
+  - '&7&oPlodina'
+  description:
+  - Često se koristi za dobivanje ulja.
+CLT_RECIPE_UNLOCK:
+  name: Cultivation svitak znanja
+  type:
+  - '&7&oAlat'
+  description:
+  - Desni klik da naučiš jedan Cultivation
+  - recept za križanje.
+CLT_RHUBARB:
+  name: Rabarbara
+  type:
+  - '&7&oPlodina'
+  description:
+  - Samo ne zaboravi ukloniti listove!
+CLT_RICE:
+  name: Riža
+  type:
+  - '&7&oPlodina'
+  description:
+  - Zapamti, samo jednom se živi... i riži!
+CLT_ROSEMARY:
+  name: Ružmarin
+  type:
+  - '&7&oPlodina'
+  description:
+  - Često ne stigne na timijan... ovaj, na vrijeme.
+CLT_RUNNER_BEANS:
+  name: Grah penjač
+  type:
+  - '&7&oPlodina'
+  description:
+  - Uvijek pokušava pobjeći.
+CLT_RUTABAGA:
+  name: Korabica
+  type:
+  - '&7&oPlodina'
+  description:
+  - Stvarno boli što ovo ne smijem zvati švedskom repom.
+CLT_SALMON_NIGIRI:
+  name: Nigiri s lososom
+  type:
+  - '&7&oHrana'
+  description:
+  - Divan, a suptilan okus.
+  stats:
+  - '&8⇨ &7Iscjeljenje: &b2 srca'
+  - '&8⇨ &bRegeneracija I &7(10:00)'
+CLT_SASSAFRAS:
+  name: Sasafras
+  type:
+  - '&7&oPlodina'
+  description:
+  - Jestivo korijensko pivo, ozbiljno, guglaj
+  - to, sad ga stalno kupujem.
+CLT_SAUSAGE:
+  name: Kobasica
+  type:
+  - '&7&oHrana'
+  description:
+  - Brat slanine.
+  stats: &id007
+  - '&8⇨ &7Iscjeljenje: &b1 srce'
+CLT_SEED_PACK:
+  name: Paket sjemenki
+  type:
+  - '&7&oAlat'
+  description:
+  - Desni klik da otvoriš ovaj paket.
+  stats:
+  - '&8⇨ &7Postavljeno na: &bNišta'
+CLT_SHAKSHUKA:
+  name: Šakšuka
+  type:
+  - '&7&oHrana'
+  description:
+  - Jelo koje grije srce, s jajima na sve strane.
+  stats:
+  - '&8⇨ &7Iscjeljenje: &b4 srca'
+  - '&8⇨ &bSeoski junak I &7(10:00)'
+  - '&8⇨ &bSreća I &7(10:00)'
+CLT_SHALLOT:
+  name: Ljutika
+  type:
+  - '&7&oPlodina'
+  description:
+  - Stvarno volim puno ljutike.
+CLT_SHEPHERDS_PIE:
+  name: Pastirska pita
+  type:
+  - '&7&oHrana'
+  description:
+  - Toplo, zasitno i jednostavno divno.
+  stats: *id006
+CLT_SHISO:
+  name: Šiso
+  type:
+  - '&7&oPlodina'
+  description:
+  - Metvica s prilogom ljubavi.
+CLT_SLICED_APPLE:
+  name: Narezana jabuka
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_APRICOT:
+  name: Narezana marelica
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_ARTICHOKE:
+  name: Narezana artičoka
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_ASPARAGUS:
+  name: Narezana šparoga
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_AUBERGINE:
+  name: Narezani patlidžan
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_AVOCADO:
+  name: Narezani avokado
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_BANANA:
+  name: Narezana banana
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_BASIL:
+  name: Narezani bosiljak
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_BAY_LEAF:
+  name: Narezani lovorov list
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_BEEF:
+  name: Narezana govedina
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_BEETROOT:
+  name: Narezana cikla
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_BELL_PEPPER:
+  name: Narezana paprika
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_BLACK_BEANS:
+  name: Narezani crni grah
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_BREAD:
+  name: Narezani kruh
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_BROCCOLI:
+  name: Narezana brokula
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_BROWN_MUSHROOM:
+  name: Narezana smeđa gljiva
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_BRUSSELS_SPROUTS:
+  name: Narezane prokulice
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_CABBAGE:
+  name: Narezani kupus
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_CARROT:
+  name: Narezana mrkva
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_CAULIFLOWER:
+  name: Narezana cvjetača
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_CAYENNE_PEPPER:
+  name: Narezani kajenski papar
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_CELERIAC:
+  name: Narezani celer korjenaš
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_CELERY:
+  name: Narezani celer
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_CHERRY:
+  name: Narezana trešnja
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_CHESTNUT:
+  name: Narezani kesten
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_CHICKEN:
+  name: Narezana piletina
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_CHICKPEAS:
+  name: Narezani slanutak
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_CHICORY:
+  name: Narezana cikorija
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_CHILLY_PEPPER:
+  name: Narezana čili papričica
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_CHIVES:
+  name: Narezani vlasac
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_CHORUS_FRUIT:
+  name: Narezano voće chorusa
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_CILANTRO:
+  name: Narezani korijandar
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_CINNAMON:
+  name: Narezani cimet
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_CLOVE:
+  name: Narezani klinčić
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_COCOA_BEANS:
+  name: Narezane sjemenke kakaa
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_COD:
+  name: Narezani bakalar
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_COURGETTE:
+  name: Narezana tikvica
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_CUCUMBER:
+  name: Narezani krastavac
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_CUMIN:
+  name: Narezani kumin
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_CURRY_LEAF:
+  name: Narezani list karija
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_DILL:
+  name: Narezani kopar
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_EGG:
+  name: Narezano jaje
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_ENCHANTED_GOLDEN_APPLE:
+  name: Narezana začarana zlatna jabuka
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_FENNEL:
+  name: Narezani komorač
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_GARLIC:
+  name: Narezani češnjak
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_GINGER:
+  name: Narezani đumbir
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_GLOW_BERRIES:
+  name: Narezane svjetleće bobice
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_GOLDEN_APPLE:
+  name: Narezana zlatna jabuka
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_GOLDEN_CARROT:
+  name: Narezana zlatna mrkva
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_GRAPE:
+  name: Narezano grožđe
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_GREEN_APPLE:
+  name: Narezana zelena jabuka
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_GREEN_BEANS:
+  name: Narezane mahune
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_GREEN_ONION:
+  name: Narezani mladi luk
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_HAZELNUT:
+  name: Narezani lješnjak
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_HORSERADISH:
+  name: Narezani hren
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_JALAPENO:
+  name: Narezani jalapeño
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_JASMINE:
+  name: Narezani jasmin
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_JUNIPER_BERRY:
+  name: Narezane bobice borovice
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_KAFFIR_LIME:
+  name: Narezani list kafir limete
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_KALE:
+  name: Narezani kovrčavi kelj
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_KELP:
+  name: Narezani kelp
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_KIWI:
+  name: Narezani kivi
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_LAVENDER:
+  name: Narezana lavanda
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_LEEK:
+  name: Narezani poriluk
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_LEMON:
+  name: Narezani limun
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_LETTUCE:
+  name: Narezana zelena salata
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_LICORICE:
+  name: Narezani sladić
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_LIME:
+  name: Narezana limeta
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_MACE:
+  name: Narezani muškatni cvijet
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_MANGO:
+  name: Narezani mango
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_MARJORAM:
+  name: Narezani mažuran
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_MARROW:
+  name: Narezana tikva
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_MELON:
+  name: Narezana lubenica
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_MINT:
+  name: Narezana metvica
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_MUSTARD_SEEDS:
+  name: Narezane sjemenke gorušice
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_MUTTON:
+  name: Narezana janjetina
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_NETTLES:
+  name: Narezane koprive
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_OKRA:
+  name: Narezana bamija
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_ONION:
+  name: Narezani luk
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_ORANGE:
+  name: Narezana naranča
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_OREGANO:
+  name: Narezani origano
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_PARSLEY:
+  name: Narezani peršin
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_PARSNIP:
+  name: Narezani pastrnjak
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_PEA:
+  name: Narezani grašak
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_PEACH:
+  name: Narezana breskva
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_PEANUT:
+  name: Narezani kikiriki
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_PEAR:
+  name: Narezana kruška
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_PECAN:
+  name: Narezani pekan orah
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_PEPPER:
+  name: Narezani crni papar
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_PEPPERONI:
+  name: Narezani pepperoni
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_PINEAPPLE:
+  name: Narezani ananas
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_PINTO_BEANS:
+  name: Narezani pinto grah
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_PORKCHOP:
+  name: Narezana svinjetina
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_POTATO:
+  name: Narezani krumpir
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_PUFFERFISH:
+  name: Narezana napuhača
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_PUMPKIN:
+  name: Narezana bundeva
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_RABBIT:
+  name: Narezani zec
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_RADDISH:
+  name: Narezana rotkvica
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_RADICCHIO:
+  name: Narezani radič
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_RAPESEED:
+  name: Narezana uljana repica
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_RED_MUSHROOM:
+  name: Narezana crvena gljiva
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_RHUBARB:
+  name: Narezana rabarbara
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_RICE:
+  name: Narezana riža
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_ROSEMARY:
+  name: Narezani ružmarin
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_ROTTEN_FLESH:
+  name: Narezano trulo meso
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_RUNNER_BEANS:
+  name: Narezani grah penjač
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_RUTABAGA:
+  name: Narezana korabica
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_SALMON:
+  name: Narezani losos
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_SASSAFRAS:
+  name: Narezani sasafras
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_SHALLOT:
+  name: Narezana ljutika
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_SHISO:
+  name: Narezani šiso
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_SOY_BEANS:
+  name: Narezana soja
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_SPINACH:
+  name: Narezani špinat
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_STAR_ANISE:
+  name: Narezani zvjezdasti anis
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_STRAWBERRY:
+  name: Narezana jagoda
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_SUGAR:
+  name: Narezani šećer
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_SWEETCORN:
+  name: Narezani kukuruz šećerac
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_SWEET_BERRIES:
+  name: Narezane slatke bobice
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_SWEET_POTATO:
+  name: Narezani slatki krumpir
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_TARRAGON:
+  name: Narezani estragon
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_THYME:
+  name: Narezani timijan
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_TOMATO:
+  name: Narezana rajčica
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_TURMERIC:
+  name: Narezana kurkuma
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_TURNIP:
+  name: Narezana repa
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_VANILLA:
+  name: Narezana vanilija
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_WASABI:
+  name: Narezani wasabi
+  type:
+  - '&7&oNusproizvod'
+CLT_SLICED_WHEAT:
+  name: Narezana pšenica
+  type:
+  - '&7&oNusproizvod'
+CLT_SOFT_BOILED_EGG:
+  name: Meko kuhano jaje
+  type:
+  - '&7&oHrana'
+  description:
+  - Samo kuhano jaje, što tu još reći.
+  stats:
+  - '&8⇨ &7Iscjeljenje: &b1 srce'
+  - '&8⇨ &7Ponekad ti u pomoć pozove kokoš.'
+CLT_SOYLENT:
+  name: Soylent
+  type:
+  - '&7&oHrana'
+  description:
+  - Sve što tijelu treba!
+  stats:
+  - '&8⇨ &bLoš znak I &7(10:00)'
+  - '&8⇨ &bSlabost IV &7(10:00)'
+CLT_SOY_BEANS:
+  name: Soja
+  type:
+  - '&7&oPlodina'
+  description:
+  - Sojino mlijeko dolazi.
+CLT_SPAGHETTI:
+  name: Špageti
+  type:
+  - '&7&oHrana'
+  description:
+  - Samo nastavi srkati.
+  stats: *id007
+CLT_SPAGHETTI_AND_MEATBALLS:
+  name: Špageti s mesnim okruglicama
+  type:
+  - '&7&oHrana'
+  description:
+  - Jednostavno, klasično i zasitno.
+  stats:
+  - '&8⇨ &7Iscjeljenje: &b1 srce'
+  - '&8⇨ &bLoš znak I &7(10:00)'
+CLT_SPINACH:
+  name: Špinat
+  type:
+  - '&7&oPlodina'
+  description:
+  - Uvenuo s ljubavlju.
+CLT_STAR_ANISE:
+  name: Zvjezdasti anis
+  type:
+  - '&7&oPlodina'
+  description:
+  - Jedan od najboljih i najjedinstvenijih okusa.
+CLT_STRAWBERRY:
+  name: Jagoda
+  type:
+  - '&7&oPlodina'
+  description:
+  - Samo dodaj vrhnje!
+CLT_STRAWBERRY_JELLY:
+  name: Žele od jagoda
+  type:
+  - '&7&oPlodina'
+  description: *id008
+CLT_SUGARED_SKULL:
+  name: Šećerna lubanja
+  type:
+  - '&7&oHrana'
+  description:
+  - Je li ovo uopće hrana...?
+  stats:
+  - '&8⇨ &bTama III &7(10:00)'
+CLT_SWEETCORN:
+  name: Kukuruz šećerac
+  type:
+  - '&7&oPlodina'
+  description:
+  - Možda najbolje povrće uopće.
+CLT_SWEET_BEEHIVE:
+  name: Slatka košnica
+  type:
+  - '&7&oHrana'
+  description:
+  - Ne znam što te natjeralo da ovo skuhaš!
+  stats:
+  - '&8⇨ &7Priziva nekoliko pčela!'
+CLT_SWEET_POTATO:
+  name: Slatki krumpir
+  type:
+  - '&7&oPlodina'
+  description:
+  - Njam njam njam.
+CLT_TAQUITO:
+  name: Taquito
+  type:
+  - '&7&oHrana'
+  description:
+  - Zim bi bio ponosan!
+  stats:
+  - '&8⇨ &7Iscjeljenje: &b4 srca'
+  - '&8⇨ &7Priziva Gira u pomoć (to je Željezni golem, opusti se).'
+CLT_TARRAGON:
+  name: Estragon
+  type:
+  - '&7&oPlodina'
+  description:
+  - Ovo stavljam doslovno na sve.
+  - 'Spoiler: Nisam dobar kuhar.'
+CLT_TATER_TOTS:
+  name: Krumpirići
+  type:
+  - '&7&oHrana'
+  description:
+  - Mali krumpirići za grickanje.
+  stats:
+  - '&8⇨ &7Iscjeljenje: &b0.5 srca'
+  - '&8⇨ &bBrzina II &7(10:00)'
+CLT_THYME:
+  name: Timijan
+  type:
+  - '&7&oPlodina'
+  description:
+  - Ružmarin, često propušten.
+CLT_TOMATO:
+  name: Rajčica
+  type:
+  - '&7&oPlodina'
+  description:
+  - Ravno s loze.... ovaj... grma?
+CLT_TORTILLAS:
+  name: Tortilje
+  type:
+  - '&7&oPlodina'
+  description:
+  - Poslastice od kukuruznog brašna
+CLT_TREE_APRICOT:
+  name: Stablo marelice
+  type:
+  - '&7&oMladica'
+  description:
+  - Unutra je jedna jedina koštica očaja.
+  stats: &id009
+  - '&8⇨ &7Dizajn: &bBWhite'
+CLT_TREE_BANANA:
+  name: Stablo banane
+  type:
+  - '&7&oMladica'
+  description:
+  - Stablo kojem rastu prsti, jezivo!
+  stats:
+  - '&8⇨ &7Dizajn: &bSefiraat'
+CLT_TREE_CHERRY:
+  name: Stablo trešnje
+  type:
+  - '&7&oMladica'
+  description:
+  - Veži čvor!
+  stats:
+  - '&8⇨ &7Dizajn: &bReasonFoundDecoy'
+CLT_TREE_CHESTNUT:
+  name: Stablo kestena
+  type:
+  - '&7&oMladica'
+  description:
+  - Stablo očito stvoreno za penjanje.
+  stats: &id010
+  - '&8⇨ &7Dizajn: &bABitOddish'
+CLT_TREE_GREEN_APPLE:
+  name: Stablo zelene jabuke
+  type:
+  - '&7&oMladica'
+  description:
+  - Daje velike, hrskave zelene jabuke.
+  stats: *id009
+CLT_TREE_HAZELNUT:
+  name: Stablo lješnjaka
+  type:
+  - '&7&oMladica'
+  description:
+  - Tresenje ovog stabla omiljena je dječja zabava.
+  stats: *id010
+CLT_TREE_KIWI:
+  name: Stablo kivija
+  type:
+  - '&7&oMladica'
+  description:
+  - Novozelandsko stablo? Jesam li dobro shvatio?
+  stats: *id010
+CLT_TREE_LEMON:
+  name: Stablo limuna
+  type:
+  - '&7&oMladica'
+  description:
+  - Već i pogled na ovo stablo ima kiseo okus.
+  stats: &id011
+  - '&8⇨ &7Dizajn: &bJeff'
+CLT_TREE_LIME:
+  name: Stablo limete
+  type:
+  - '&7&oMladica'
+  description:
+  - Jesi li znao da su limete samo limuni koji zadržavaju dah?
+  stats: *id010
+CLT_TREE_MANGO:
+  name: Stablo manga
+  type:
+  - '&7&oMladica'
+  description:
+  - Najbolje kad je najzrelije.
+  stats: *id009
+CLT_TREE_ORANGE:
+  name: Stablo naranče
+  type:
+  - '&7&oMladica'
+  description:
+  - Male kugle sunca.
+  stats: *id011
+CLT_TREE_PEACH:
+  name: Stablo breskve
+  type:
+  - '&7&oMladica'
+  description:
+  - James je tražio ovo, mislim?
+  stats: *id010
+CLT_TREE_PEAR:
+  name: Stablo kruške
+  type:
+  - '&7&oMladica'
+  description:
+  - Par krušaka spareno je u par radi pariteta.
+  stats: *id009
+CLT_TREE_PECAN:
+  name: Stablo pekan oraha
+  type:
+  - '&7&oMladica'
+  description:
+  - Možemo li uzgojiti ovo stablo? Pe-kan da možemo!
+  stats: *id009
+CLT_TREE_PINEAPPLE:
+  name: Stablo ananasa
+  type:
+  - '&7&oMladica'
+  description:
+  - GDJE JE MOJA PIZZA?
+  stats: *id010
+CLT_TURMERIC:
+  name: Kurkuma
+  type:
+  - '&7&oPlodina'
+  description:
+  - Snažna mošusna nota koja upotpunjuje mnoga jela.
+CLT_TURNIP:
+  name: Repa
+  type:
+  - '&7&oPlodina'
+  description:
+  - Riješit će sve životne probleme.
+CLT_VANILLA:
+  name: Vanilija
+  type:
+  - '&7&oPlodina'
+  description:
+  - 'Upute: umoči izravno u latte'
+CLT_WASABI:
+  name: Wasabi
+  type:
+  - '&7&oPlodina'
+  description:
+  - Upomoć... wasabi...
+CLT_WITHER_ROSE_SALAD:
+  name: Salata od wither ruže
+  type:
+  - '&7&oHrana'
+  description:
+  - Prepuno moći, ali s gadnom nuspojavom.
+  stats:
+  - '&8⇨ &7Iscjeljenje: &bPotpuno'
+  - '&8⇨ &bUvenuće II &7(10:00)'
+  - '&8⇨ &bViše zdravlja XX &7(10:00)'

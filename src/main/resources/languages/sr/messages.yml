@@ -1,0 +1,65 @@
+lore:
+  seed-pack-set-to: Подешено на
+  knowledge-script-unlocks: Откључава
+  drop-level: Ниво плена
+  growth-speed: Брзина раста
+  breed-strength: Снага укрштања
+command:
+  no-permission: Немаш дозволу да ово урадиш.
+  invalid-subcommand: Унеси исправну подкоманду.
+  players-only: Ову команду може да покрене само играч.
+  hold-seed-pack: За ово мораш да држиш паковање семена.
+  pack-empty: Ово паковање је празно!
+  pack-contents: Садржај
+  pack-entry: Ниво %level%, брзина %speed%, снага %strength%
+kitchen:
+  recipe-disabled: Овај рецепт је онемогућен.
+  no-recipe: Нема одговарајућег рецепта.
+  not-enough-power: Нема довољно енергије.
+  input-empty: Стави предмет у улазни слот.
+  cooked: Укусно!
+food:
+  eaten: Дивно! Потпуно си сит.
+  not-hungry: Још ниси гладан! Можеш да једеш само једном у пола дана (10 минута).
+  palate-cleansed: Осећаш како ти се непце чисти.
+  ouch: Јао!
+knowledge-script:
+  learned: 'Научио си да укршташ биљку: %plant%.'
+seed-pack:
+  title: Паковање семена
+  unstack-first: Прво мораш да раздвојиш своја паковања семена.
+  not-a-seed: Предмет мора бити семе Калтивејшн биљке.
+  empty-before-change: Мораш да испразниш паковање пре него што промениш биљку.
+  no-plant-set: Још ниси подесио биљку.
+  none-stored: Немаш ово семе на овим нивоима.
+  set-here: Подеси семе овде
+  retrieve-here: Узми овде
+  no-seed-set: Семе није подешено
+  no-seed-set-lore:
+  - Кликни на иконицу лево
+  - док држиш семе да подесиш паковање.
+  empty-set: Празан скуп
+  empty-set-lore:
+  - Немаш семена која одговарају
+  - овим нивоима.
+  stored-seed: Сачувана врста семена
+  take-seed: Узми семе из паковања
+  level: Ниво
+  speed: Брзина
+  strength: Снага
+  left-click: Леви клик
+  right-click: Десни клик
+  increase: Повећај %stat%
+  decrease: Смањи %stat%
+  current: Тренутно
+codex:
+  title: Кодекс биљака
+  child: Биљка потомак
+  mother: Биљка мајка
+  father: Биљка отац
+  growth-rate: Стопа раста
+  not-discovered: Није откривено
+  not-discovered-lore:
+  - Још ниси открио како
+  - да укрстиш ову биљку!
+  discovery: Откриће

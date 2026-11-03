@@ -1,0 +1,65 @@
+lore:
+  seed-pack-set-to: Postavljeno na
+  knowledge-script-unlocks: Otključava
+  drop-level: Razina uroda
+  growth-speed: Brzina rasta
+  breed-strength: Snaga križanja
+command:
+  no-permission: Nemaš dopuštenje za to.
+  invalid-subcommand: Unesi valjanu podnaredbu.
+  players-only: Ovu naredbu može pokrenuti samo igrač.
+  hold-seed-pack: Za ovo moraš držati paket sjemenki.
+  pack-empty: Ovaj paket je prazan!
+  pack-contents: Sadržaj
+  pack-entry: Razina %level%, brzina %speed%, snaga %strength%
+kitchen:
+  recipe-disabled: Ovaj recept je onemogućen.
+  no-recipe: Nema odgovarajućeg recepta.
+  not-enough-power: Nema dovoljno energije.
+  input-empty: Stavi predmet u ulazni utor.
+  cooked: Ukusno!
+food:
+  eaten: Divno! Potpuno si sit.
+  not-hungry: Još nisi gladan! Možeš jesti samo jednom u pola dana (10 minuta).
+  palate-cleansed: Osjećaš kako ti se nepce čisti.
+  ouch: Jao!
+knowledge-script:
+  learned: 'Naučio si križati: %plant%.'
+seed-pack:
+  title: Paket sjemenki
+  unstack-first: Prvo moraš razdvojiti složene pakete sjemenki.
+  not-a-seed: Predmet mora biti sjeme Cultivation biljke.
+  empty-before-change: Moraš isprazniti paket prije nego mu promijeniš biljku.
+  no-plant-set: Još nisi postavio biljku.
+  none-stored: Nemaš ovog sjemena na ovim razinama.
+  set-here: Postavi sjeme ovdje
+  retrieve-here: Uzmi ovdje
+  no-seed-set: Sjeme nije postavljeno
+  no-seed-set-lore:
+  - Klikni ikonu s lijeve strane
+  - držeći sjeme da postaviš paket.
+  empty-set: Prazan skup
+  empty-set-lore:
+  - Nemaš sjemenki koje odgovaraju
+  - ovim razinama.
+  stored-seed: Pohranjena vrsta sjemena
+  take-seed: Uzmi sjeme iz paketa
+  level: Razina
+  speed: Brzina
+  strength: Snaga
+  left-click: Lijevi klik
+  right-click: Desni klik
+  increase: 'Povećaj: %stat%'
+  decrease: 'Smanji: %stat%'
+  current: Trenutno
+codex:
+  title: Kodeks biljaka
+  child: Biljka potomak
+  mother: Majka biljka
+  father: Otac biljka
+  growth-rate: Stopa rasta
+  not-discovered: Nije otkriveno
+  not-discovered-lore:
+  - Još nisi otkrio kako
+  - križati ovu biljku!
+  discovery: Otkriće
