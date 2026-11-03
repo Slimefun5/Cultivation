@@ -1,0 +1,6674 @@
+CLT_APRICOT:
+  name: Aprikoosi
+  type:
+  - '&7&oSato'
+  description:
+  - Näistä voi tehdä Poképalloja.
+  - '...'
+  - Mitä tarkoitat, että se on eri asia...?
+CLT_ARTICHOKE:
+  name: Artisokka
+  type:
+  - '&7&oSato'
+  description:
+  - Revi sen SYDÄN irti!
+CLT_ASPARAGUS:
+  name: Parsa
+  type:
+  - '&7&oSato'
+  description:
+  - Varo, kun käyt myöhemmin vessassa.
+CLT_AUBERGINE:
+  name: Munakoiso
+  type:
+  - '&7&oSato'
+  description:
+  - Kirkkaan violetti ja 100% EI munan muotoinen.
+  - Sanotaanko sitä silti munakoisoksi, vai?
+CLT_AVOCADO:
+  name: Avokado
+  type:
+  - '&7&oSato'
+  description:
+  - Hipsterien unelma.
+CLT_BACON_SANDWICH:
+  name: Pekonivoileipä
+  type:
+  - '&7&oRuoka'
+  description:
+  - Yksinkertainen klassikko!
+  stats:
+  - '&8⇨ &7Parantaa: &b2 sydäntä'
+  - '&8⇨ &bVoimakkuus I &7(10:00)'
+  - '&8⇨ &bNopeus I &7(10:00)'
+CLT_BAGEL:
+  name: Bagel
+  type:
+  - '&7&oRuoka'
+  description:
+  - Paahdettu? vai...
+  stats:
+  - '&8⇨ &7Parantaa: &b2.5 sydäntä'
+CLT_BAGEL_BITE:
+  name: Minibagel
+  type:
+  - '&7&oRuoka'
+  description:
+  - Pizzaa milloin vain!
+  stats:
+  - '&8⇨ &7Polttaa suusi joka haukulla!'
+CLT_BAGEL_CREAM_CHEESE:
+  name: Tuorejuustobagel
+  type:
+  - '&7&oRuoka'
+  description:
+  - Niin hyvää, että haluat varmaan toisenkin.
+  stats:
+  - '&8⇨ &7Parantaa: &b5 sydäntä'
+  - '&8⇨ &bElinvoiman tehostus I &7(10:00)'
+CLT_BANANA:
+  name: Banaani
+  type:
+  - '&7&oSato'
+  description:
+  - Tästä minulla on hyvä kuori... siis kuva!
+CLT_BASIL:
+  name: Basilika
+  type:
+  - '&7&oSato'
+  description:
+  - Makea lehti, jossa on pehmeä pippurinen jälkimaku.
+CLT_BAY_LEAF:
+  name: Laakerinlehti
+  type:
+  - '&7&oSato'
+  description:
+  - Vahva mauste moneen käyttöön.
+CLT_BELL_PEPPER:
+  name: Paprika
+  type:
+  - '&7&oSato'
+  description:
+  - Tämä soittaa kelloja.
+CLT_BISCUIT:
+  name: Teeleipä
+  type:
+  - '&7&oRuoka'
+  description:
+  - Pieni naposteltava, valtava maku.
+  stats: &id002
+  - '&8⇨ &7Sinkoaa sinut ilmaan'
+CLT_BISCUIT_BASE:
+  name: Teeleipäpohja
+  type:
+  - '&7&oSato'
+  description:
+  - Vaikka se on nyt litteä, se ei tarkoita,
+  - että sen voi syödä raakana.
+CLT_BISCUIT_DOUGH:
+  name: Teeleipätaikina
+  type:
+  - '&7&oSato'
+  description:
+  - 'Muistuta vain itseäsi: "Älä syö sitä raakana."'
+CLT_BLACK_BEANS:
+  name: Mustat pavut
+  type:
+  - '&7&oSato'
+  description:
+  - Herkullinen kasvisproteiini.
+CLT_BLENDED_APPLE:
+  name: Soseutettu omena
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_APRICOT:
+  name: Soseutettu aprikoosi
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_ARTICHOKE:
+  name: Soseutettu artisokka
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_ASPARAGUS:
+  name: Soseutettu parsa
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_AUBERGINE:
+  name: Soseutettu munakoiso
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_AVOCADO:
+  name: Soseutettu avokado
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_BANANA:
+  name: Soseutettu banaani
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_BASIL:
+  name: Soseutettu basilika
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_BAY_LEAF:
+  name: Soseutettu laakerinlehti
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_BEEF:
+  name: Soseutettu naudanliha
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_BEETROOT:
+  name: Soseutettu punajuuri
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_BELL_PEPPER:
+  name: Soseutettu paprika
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_BLACK_BEANS:
+  name: Soseutetut mustat pavut
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_BREAD:
+  name: Soseutettu leipä
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_BROCCOLI:
+  name: Soseutettu parsakaali
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_BROWN_MUSHROOM:
+  name: Soseutettu ruskea sieni
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_BRUSSELS_SPROUTS:
+  name: Soseutetut ruusukaalit
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_CABBAGE:
+  name: Soseutettu kaali
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_CARROT:
+  name: Soseutettu porkkana
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_CAULIFLOWER:
+  name: Soseutettu kukkakaali
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_CAYENNE_PEPPER:
+  name: Soseutettu cayennepippuri
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_CELERIAC:
+  name: Soseutettu mukulaselleri
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_CELERY:
+  name: Soseutettu varsiselleri
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_CHERRY:
+  name: Soseutettu kirsikka
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_CHESTNUT:
+  name: Soseutettu kastanja
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_CHICKEN:
+  name: Soseutettu kana
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_CHICKPEAS:
+  name: Soseutetut kikherneet
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_CHICORY:
+  name: Soseutettu sikuri
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_CHILLY_PEPPER:
+  name: Soseutettu chilipippuri
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_CHIVES:
+  name: Soseutettu ruohosipuli
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_CHORUS_FRUIT:
+  name: Soseutettu chorus-hedelmä
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_CILANTRO:
+  name: Soseutettu korianteri
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_CINNAMON:
+  name: Soseutettu kaneli
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_CLOVE:
+  name: Soseutettu neilikka
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_COCOA_BEANS:
+  name: Soseutetut kaakaopavut
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_COD:
+  name: Soseutettu turska
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_COURGETTE:
+  name: Soseutettu kesäkurpitsa
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_CUCUMBER:
+  name: Soseutettu kurkku
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_CUMIN:
+  name: Soseutettu juustokumina
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_CURRY_LEAF:
+  name: Soseutettu currynlehti
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_DILL:
+  name: Soseutettu tilli
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_EGG:
+  name: Soseutettu kananmuna
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_ENCHANTED_GOLDEN_APPLE:
+  name: Soseutettu lumottu kultaomena
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_FENNEL:
+  name: Soseutettu fenkoli
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_GARLIC:
+  name: Soseutettu valkosipuli
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_GINGER:
+  name: Soseutettu inkivääri
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_GLOW_BERRIES:
+  name: Soseutetut hehkumarjat
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_GOLDEN_APPLE:
+  name: Soseutettu kultaomena
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_GOLDEN_CARROT:
+  name: Soseutettu kultaporkkana
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_GRAPE:
+  name: Soseutettu viinirypäle
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_GREEN_APPLE:
+  name: Soseutettu vihreä omena
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_GREEN_BEANS:
+  name: Soseutetut tarhapavut
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_GREEN_ONION:
+  name: Soseutettu kevätsipuli
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_HAZELNUT:
+  name: Soseutettu hasselpähkinä
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_HORSERADISH:
+  name: Soseutettu piparjuuri
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_JALAPENO:
+  name: Soseutettu jalapeno
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_JASMINE:
+  name: Soseutettu jasmiini
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_JUNIPER_BERRY:
+  name: Soseutetut katajanmarjat
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_KAFFIR_LIME:
+  name: Soseutettu kaffirlimetin lehti
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_KALE:
+  name: Soseutettu lehtikaali
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_KELP:
+  name: Soseutettu rakkolevä
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_KIWI:
+  name: Soseutettu kiivi
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_LAVENDER:
+  name: Soseutettu laventeli
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_LEEK:
+  name: Soseutettu purjo
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_LEMON:
+  name: Soseutettu sitruuna
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_LETTUCE:
+  name: Soseutettu lehtisalaatti
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_LICORICE:
+  name: Soseutettu lakritsi
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_LIME:
+  name: Soseutettu limetti
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_MACE:
+  name: Soseutettu muskottikukka
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_MANGO:
+  name: Soseutettu mango
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_MARJORAM:
+  name: Soseutettu meirami
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_MARROW:
+  name: Soseutettu avomaankurpitsa
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_MELON:
+  name: Soseutettu meloni
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_MINT:
+  name: Soseutettu minttu
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_MUSTARD_SEEDS:
+  name: Soseutetut sinapinsiemenet
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_MUTTON:
+  name: Soseutettu lampaanliha
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_NETTLES:
+  name: Soseutetut nokkoset
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_OKRA:
+  name: Soseutettu okra
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_ONION:
+  name: Soseutettu sipuli
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_ORANGE:
+  name: Soseutettu appelsiini
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_OREGANO:
+  name: Soseutettu oregano
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_PARSLEY:
+  name: Soseutettu persilja
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_PARSNIP:
+  name: Soseutettu palsternakka
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_PEA:
+  name: Soseutetut herneet
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_PEACH:
+  name: Soseutettu persikka
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_PEANUT:
+  name: Soseutettu maapähkinä
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_PEAR:
+  name: Soseutettu päärynä
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_PECAN:
+  name: Soseutettu pekaanipähkinä
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_PEPPER:
+  name: Soseutettu mustapippuri
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_PEPPERONI:
+  name: Soseutettu pepperoni
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_PINEAPPLE:
+  name: Soseutettu ananas
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_PINTO_BEANS:
+  name: Soseutetut pintopavut
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_PORKCHOP:
+  name: Soseutettu porsaankyljys
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_POTATO:
+  name: Soseutettu peruna
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_PUFFERFISH:
+  name: Soseutettu pallokala
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_PUMPKIN:
+  name: Soseutettu kurpitsa
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_RABBIT:
+  name: Soseutettu jänis
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_RADDISH:
+  name: Soseutettu retiisi
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_RADICCHIO:
+  name: Soseutettu radicchio
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_RAPESEED:
+  name: Soseutettu rapsi
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_RED_MUSHROOM:
+  name: Soseutettu kärpässieni
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_RHUBARB:
+  name: Soseutettu raparperi
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_RICE:
+  name: Soseutettu riisi
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_ROSEMARY:
+  name: Soseutettu rosmariini
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_ROTTEN_FLESH:
+  name: Soseutettu mädäntynyt liha
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_RUNNER_BEANS:
+  name: Soseutetut ruusupavut
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_RUTABAGA:
+  name: Soseutettu lanttu
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_SALMON:
+  name: Soseutettu lohi
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_SASSAFRAS:
+  name: Soseutettu sassafras
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_SHALLOT:
+  name: Soseutettu salottisipuli
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_SHISO:
+  name: Soseutettu shiso
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_SOY_BEANS:
+  name: Soseutetut soijapavut
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_SPINACH:
+  name: Soseutettu pinaatti
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_STAR_ANISE:
+  name: Soseutettu tähtianis
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_STRAWBERRY:
+  name: Soseutettu mansikka
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_SUGAR:
+  name: Soseutettu sokeri
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_SWEETCORN:
+  name: Soseutettu maissi
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_SWEET_BERRIES:
+  name: Soseutetut makeat marjat
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_SWEET_POTATO:
+  name: Soseutettu bataatti
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_TARRAGON:
+  name: Soseutettu rakuuna
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_THYME:
+  name: Soseutettu timjami
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_TOMATO:
+  name: Soseutettu tomaatti
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_TURMERIC:
+  name: Soseutettu kurkuma
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_TURNIP:
+  name: Soseutettu nauris
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_VANILLA:
+  name: Soseutettu vanilja
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_WASABI:
+  name: Soseutettu wasabi
+  type:
+  - '&7&oSivutuote'
+CLT_BLENDED_WHEAT:
+  name: Soseutettu vehnä
+  type:
+  - '&7&oSivutuote'
+CLT_BLUE_CANDY:
+  name: Sininen karkki
+  type:
+  - '&7&oRuoka'
+  description:
+  - Ihastuttavan makea karkki.
+  stats:
+  - '&8⇨ &7Kutsuu Apurin'
+CLT_BOILED_APPLE:
+  name: Keitetty omena
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_APRICOT:
+  name: Keitetty aprikoosi
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_ARTICHOKE:
+  name: Keitetty artisokka
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_ASPARAGUS:
+  name: Keitetty parsa
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_AUBERGINE:
+  name: Keitetty munakoiso
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_AVOCADO:
+  name: Keitetty avokado
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_BANANA:
+  name: Keitetty banaani
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_BASIL:
+  name: Keitetty basilika
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_BAY_LEAF:
+  name: Keitetty laakerinlehti
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_BEEF:
+  name: Keitetty naudanliha
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_BEETROOT:
+  name: Keitetty punajuuri
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_BELL_PEPPER:
+  name: Keitetty paprika
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_BLACK_BEANS:
+  name: Keitetyt mustat pavut
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_BREAD:
+  name: Keitetty leipä
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_BROCCOLI:
+  name: Keitetty parsakaali
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_BROWN_MUSHROOM:
+  name: Keitetty ruskea sieni
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_BRUSSELS_SPROUTS:
+  name: Keitetyt ruusukaalit
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_CABBAGE:
+  name: Keitetty kaali
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_CARROT:
+  name: Keitetty porkkana
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_CAULIFLOWER:
+  name: Keitetty kukkakaali
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_CAYENNE_PEPPER:
+  name: Keitetty cayennepippuri
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_CELERIAC:
+  name: Keitetty mukulaselleri
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_CELERY:
+  name: Keitetty varsiselleri
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_CHERRY:
+  name: Keitetty kirsikka
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_CHESTNUT:
+  name: Keitetty kastanja
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_CHICKEN:
+  name: Keitetty kana
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_CHICKPEAS:
+  name: Keitetyt kikherneet
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_CHICORY:
+  name: Keitetty sikuri
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_CHILLY_PEPPER:
+  name: Keitetty chilipippuri
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_CHIVES:
+  name: Keitetty ruohosipuli
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_CHORUS_FRUIT:
+  name: Keitetty chorus-hedelmä
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_CILANTRO:
+  name: Keitetty korianteri
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_CINNAMON:
+  name: Keitetty kaneli
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_CLOVE:
+  name: Keitetty neilikka
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_COCOA_BEANS:
+  name: Keitetyt kaakaopavut
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_COD:
+  name: Keitetty turska
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_COURGETTE:
+  name: Keitetty kesäkurpitsa
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_CUCUMBER:
+  name: Keitetty kurkku
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_CUMIN:
+  name: Keitetty juustokumina
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_CURRY_LEAF:
+  name: Keitetty currynlehti
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_DILL:
+  name: Keitetty tilli
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_EGG:
+  name: Keitetty kananmuna
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_ENCHANTED_GOLDEN_APPLE:
+  name: Keitetty lumottu kultaomena
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_FENNEL:
+  name: Keitetty fenkoli
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_GARLIC:
+  name: Keitetty valkosipuli
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_GINGER:
+  name: Keitetty inkivääri
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_GLOW_BERRIES:
+  name: Keitetyt hehkumarjat
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_GOLDEN_APPLE:
+  name: Keitetty kultaomena
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_GOLDEN_CARROT:
+  name: Keitetty kultaporkkana
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_GRAPE:
+  name: Keitetty viinirypäle
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_GREEN_APPLE:
+  name: Keitetty vihreä omena
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_GREEN_BEANS:
+  name: Keitetyt tarhapavut
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_GREEN_ONION:
+  name: Keitetty kevätsipuli
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_HAZELNUT:
+  name: Keitetty hasselpähkinä
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_HORSERADISH:
+  name: Keitetty piparjuuri
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_JALAPENO:
+  name: Keitetty jalapeno
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_JASMINE:
+  name: Keitetty jasmiini
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_JUNIPER_BERRY:
+  name: Keitetyt katajanmarjat
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_KAFFIR_LIME:
+  name: Keitetty kaffirlimetin lehti
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_KALE:
+  name: Keitetty lehtikaali
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_KELP:
+  name: Keitetty rakkolevä
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_KIWI:
+  name: Keitetty kiivi
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_LAVENDER:
+  name: Keitetty laventeli
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_LEEK:
+  name: Keitetty purjo
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_LEMON:
+  name: Keitetty sitruuna
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_LETTUCE:
+  name: Keitetty lehtisalaatti
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_LICORICE:
+  name: Keitetty lakritsi
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_LIME:
+  name: Keitetty limetti
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_MACE:
+  name: Keitetty muskottikukka
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_MANGO:
+  name: Keitetty mango
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_MARJORAM:
+  name: Keitetty meirami
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_MARROW:
+  name: Keitetty avomaankurpitsa
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_MELON:
+  name: Keitetty meloni
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_MINT:
+  name: Keitetty minttu
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_MUSTARD_SEEDS:
+  name: Keitetyt sinapinsiemenet
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_MUTTON:
+  name: Keitetty lampaanliha
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_NETTLES:
+  name: Keitetyt nokkoset
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_OKRA:
+  name: Keitetty okra
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_ONION:
+  name: Keitetty sipuli
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_ORANGE:
+  name: Keitetty appelsiini
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_OREGANO:
+  name: Keitetty oregano
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_PARSLEY:
+  name: Keitetty persilja
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_PARSNIP:
+  name: Keitetty palsternakka
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_PEA:
+  name: Keitetyt herneet
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_PEACH:
+  name: Keitetty persikka
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_PEANUT:
+  name: Keitetty maapähkinä
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_PEAR:
+  name: Keitetty päärynä
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_PECAN:
+  name: Keitetty pekaanipähkinä
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_PEPPER:
+  name: Keitetty mustapippuri
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_PEPPERONI:
+  name: Keitetty pepperoni
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_PINEAPPLE:
+  name: Keitetty ananas
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_PINTO_BEANS:
+  name: Keitetyt pintopavut
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_PORKCHOP:
+  name: Keitetty porsaankyljys
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_POTATO:
+  name: Keitetty peruna
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_PUFFERFISH:
+  name: Keitetty pallokala
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_PUMPKIN:
+  name: Keitetty kurpitsa
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_RABBIT:
+  name: Keitetty jänis
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_RADDISH:
+  name: Keitetty retiisi
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_RADICCHIO:
+  name: Keitetty radicchio
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_RAPESEED:
+  name: Keitetty rapsi
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_RED_MUSHROOM:
+  name: Keitetty kärpässieni
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_RHUBARB:
+  name: Keitetty raparperi
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_RICE:
+  name: Keitetty riisi
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_ROSEMARY:
+  name: Keitetty rosmariini
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_ROTTEN_FLESH:
+  name: Keitetty mädäntynyt liha
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_RUNNER_BEANS:
+  name: Keitetyt ruusupavut
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_RUTABAGA:
+  name: Keitetty lanttu
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_SALMON:
+  name: Keitetty lohi
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_SASSAFRAS:
+  name: Keitetty sassafras
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_SHALLOT:
+  name: Keitetty salottisipuli
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_SHISO:
+  name: Keitetty shiso
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_SOY_BEANS:
+  name: Keitetyt soijapavut
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_SPINACH:
+  name: Keitetty pinaatti
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_STAR_ANISE:
+  name: Keitetty tähtianis
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_STRAWBERRY:
+  name: Keitetty mansikka
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_SUGAR:
+  name: Keitetty sokeri
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_SWEETCORN:
+  name: Keitetty maissi
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_SWEET_BERRIES:
+  name: Keitetyt makeat marjat
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_SWEET_POTATO:
+  name: Keitetty bataatti
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_TARRAGON:
+  name: Keitetty rakuuna
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_THYME:
+  name: Keitetty timjami
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_TOMATO:
+  name: Keitetty tomaatti
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_TURMERIC:
+  name: Keitetty kurkuma
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_TURNIP:
+  name: Keitetty nauris
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_VANILLA:
+  name: Keitetty vanilja
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_WASABI:
+  name: Keitetty wasabi
+  type:
+  - '&7&oSivutuote'
+CLT_BOILED_WHEAT:
+  name: Keitetty vehnä
+  type:
+  - '&7&oSivutuote'
+CLT_BOWL_OF_STEVE:
+  name: Kulhollinen... Steveä?
+  type:
+  - '&7&oRuoka'
+  description:
+  - Mitä ihmettä &%£$
+  stats:
+  - '&8⇨ &bLouhintauupumus X &7(10:00)'
+  - '&8⇨ &bHitaus VI &7(10:00)'
+  - '&8⇨ &bVoimakkuus X &7(10:00)'
+  - '&8⇨ &7Pudottaa sinut 1/2 sydämeen'
+CLT_BROCCOLI:
+  name: Parsakaali
+  type:
+  - '&7&oSato'
+  description:
+  - Oletko jättiläinen, joka pitelee puuta?
+  - Ei, se on vain pikkuinen puu :)
+CLT_BRUSSELS_SPROUTS:
+  name: Ruusukaalit
+  type:
+  - '&7&oSato'
+  description:
+  - Kaasumainen herkku.
+CLT_BUSH_ARTICHOKE:
+  name: Artisokkapensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Paras pensas taiteilijan tukehduttamiseen,
+  - arti-sokka. Huoh. Sanaleikit on vaikeita.
+CLT_BUSH_ASPARAGUS:
+  name: Parsapensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Tämä parsapensas on varsinainen
+  - varsi-vaanija!
+CLT_BUSH_AUBERGINE:
+  name: Munakoisopensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Kieltäydyn käyttämästä sanaa munakoiso. Kieltäydyn vain.
+CLT_BUSH_AVOCADO:
+  name: Avokadopensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Tämä pensas on jalostettu nimenomaan niin, ettei
+  - se kuluta liikaa vettä.
+CLT_BUSH_BASIL:
+  name: Basilikapensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Kevytmielinen pensas täynnä oikkuja.
+CLT_BUSH_BAY_LEAF:
+  name: Laakeripensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Tämän pensaan tuoksu kantaa kilometrien päähän.
+CLT_BUSH_BELL_PEPPER:
+  name: Paprikapensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Varo kävellessäsi tämän ohi, saatat
+  - soittaa kelloa.
+CLT_BUSH_BLACK_BEANS:
+  name: Mustapapupensas
+  type:
+  - '&7&oPensas'
+  description:
+  - 'Tämä pensas kuiskaa sinulle hellästi:'
+  - Olet mahtava ihmispapu.
+CLT_BUSH_BROCCOLI:
+  name: Parsakaalipensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Pikkuisia puita, joita voi syödä? Kuka tämän keksi!?
+CLT_BUSH_BRUSSELS_SPROUTS:
+  name: Ruusukaalipensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Pensas, joka voi joskus tuottaa myrkyllistä
+  - kaasua.
+CLT_BUSH_CABBAGE:
+  name: Kaalipensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Pensas, jolla on mukanaan valtavasti
+  - tunnekaalitaakkaa.
+CLT_BUSH_CAULIFLOWER:
+  name: Kukkakaalipensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Pensas, joka pystyy tuottamaan pieniä
+  - ilon pilviä.
+CLT_BUSH_CAYENNE_PEPPER:
+  name: Cayennepippuripensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Pensas, jolla on pippurinen asenne.
+CLT_BUSH_CELERIAC:
+  name: Mukulaselleripensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Taas yksi juuri, joka kasvaa pensaassa?
+  - SefiTyhmä™
+CLT_BUSH_CELERY:
+  name: Varsiselleripensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Tämä pensas on tarpeeton.
+  - Sefi ei tykkää sellerista.
+CLT_BUSH_CHICKPEAS:
+  name: Kikhernepensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Pensas, joka on jalostettu risteyttämällä kana
+  - ja herne. TIEDETTÄ.
+CLT_BUSH_CHICORY:
+  name: Sikuripensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Luulin, että sikuri on juuri? Tekeekö tämä lisäosa
+  - edes taustatyönsä!?
+CLT_BUSH_CHILLI_PEPPER:
+  name: Chilipippuripensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Pelkkä tämän pensaan katsominen polttaa kieltäni.
+CLT_BUSH_CHIVES:
+  name: Ruohosipulipensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Pensas, joka tuottaa käytännössä maailman
+  - pienintä sipulia.
+CLT_BUSH_CILANTRO:
+  name: Korianteripensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Tästä pensaasta leijuu heikko sitruksen ja mausteen tuoksu.
+CLT_BUSH_CINNAMON:
+  name: Kanelipensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Ihastuttavan tuoksuva pensas.
+CLT_BUSH_CLOVE:
+  name: Neilikkapensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Pensas, joka tuo mieleen joulun.
+CLT_BUSH_COURGETTE:
+  name: Kesäkurpitsapensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Miksi tämä pensas huutaa koko ajan sanaa
+  - zucchini? Taitaa olla amerikkalainen?
+CLT_BUSH_CUCUMBER:
+  name: Kurkkupensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Tämä pensas on suunniteltu ainoastaan
+  - ihania kesäsalaattejasi varten.
+CLT_BUSH_CUMIN:
+  name: Juustokuminapensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Pensas, josta leviää lämmin sitruksinen tuoksu.
+CLT_BUSH_CURRY_LEAF:
+  name: Currypensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Parhaimmillaan kuivapaahdettuna.
+CLT_BUSH_DILL:
+  name: Tillipensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Tämä pensas kasvaa paljon muita nopeammin.
+CLT_BUSH_FENNEL:
+  name: Fenkolipensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Miksi tämä pensas karkottaa ötököitä!?
+CLT_BUSH_GARLIC:
+  name: Valkosipulipensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Tällä pensaalla on kerta kaikkiaan maailman pahin hengitys.
+CLT_BUSH_GINGER:
+  name: Inkivääripensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Tämä pensas on hyvää kokonaisena keitettynä.
+CLT_BUSH_GRAPE:
+  name: Viinirypälepensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Kypsiä ja meheviä rypäleitä, jotka melkein putoavat
+  - pensaasta itsestään.
+CLT_BUSH_GREEN_BEANS:
+  name: Tarhapapupensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Kaada tomaattikastiketta tämän pensaan päälle,
+  - niin saat uunipapuja.
+CLT_BUSH_GREEN_ONION:
+  name: Kevätsipulipensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Tunnetaan myös nimellä salaattisipuli.
+  - Kevätsipulin maku on yleensä
+  - miedompi kuin useimpien sipulien.
+CLT_BUSH_HORSERADISH:
+  name: Piparjuuripensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Taaskaan tämän kasvaminen pensaassa ei ole mitään järkeä.
+CLT_BUSH_JALAPENO:
+  name: Jalapenopensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Pelkkä tämän pensaan pitäminen antaa
+  - 1% mahdollisuuden syttyä tuleen.
+CLT_BUSH_JASMINE:
+  name: Jasmiinipensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Tämän pensaan tuoksu on niin pehmeä ja lempeä.
+CLT_BUSH_JUNIPER_BERRY:
+  name: Katajanmarjapensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Pensaassa niin makea, kuivattuna pippurinen.
+CLT_BUSH_KAFFIR_LIME:
+  name: Kaffirlimettipensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Pensas, jonka lehtiä halutaan enemmän kuin sen hedelmiä.
+CLT_BUSH_KALE:
+  name: Lehtikaalipensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Kun istutat tämän pensaan, tunnet,
+  - että kaikki on ihan kaali-hyvin.
+CLT_BUSH_LAVENDER:
+  name: Laventelipensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Tämä pensas levittää tuoksuaan kaikkialle.
+CLT_BUSH_LEEK:
+  name: Purjopensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Tiesitkö, että purjo on vain sipuli, jolla
+  - on korsetti? Tosi tarina.
+CLT_BUSH_LETTUCE:
+  name: Lehtisalaattipensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Kasvaako lehtisalaatti edes pensaissa?
+  - 'Juonipaljastus: Ei kasva.'
+CLT_BUSH_LICORICE:
+  name: Lakritsipensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Yäk
+CLT_BUSH_MACE:
+  name: Muskottikukkapensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Tämä pensas tuntuu torjuvan hyökkääjiä?
+CLT_BUSH_MARJORAM:
+  name: Meiramipensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Suuri, puiselta tuoksuva pensas.
+CLT_BUSH_MARROW:
+  name: Avomaankurpitsapensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Ihmettelen, että tämä pensas jaksaa kantaa
+  - oman painonsa.
+CLT_BUSH_MINT:
+  name: Minttupensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Kerta kaikkiaan parhaan tuoksuinen pensas.
+CLT_BUSH_MUSTARD:
+  name: Sinapinsiemenpensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Kuin tulta suussa.
+CLT_BUSH_NETTLES:
+  name: Nokkospensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Ole varovainen, kun kävelet tämän pensaan läpi!
+CLT_BUSH_OKRA:
+  name: Okrapensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Äänestetty ykkösvihannekseksi
+  - Okra Winfreyn vihannesklubissa.
+CLT_BUSH_ONION:
+  name: Sipulipensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Näyttääkö tämä pensas siltä, että se kyynelehtii?
+CLT_BUSH_OREGANO:
+  name: Oreganopensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Tämä pistävän tuoksuinen pensas karkottaa vieraat.
+CLT_BUSH_PARSLEY:
+  name: Persiljapensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Heitä tämä pensas laavaan, heti :D
+CLT_BUSH_PARSNIP:
+  name: Palsternakkapensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Ohita välikädet ja paahda pensas
+  - suoraan.
+CLT_BUSH_PEA:
+  name: Hernepensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Minä valitsen mieluummin Q:n
+CLT_BUSH_PEANUTS:
+  name: Maapähkinäpensas
+  type:
+  - '&7&oPensas'
+  description: &id001
+  - Kiinteä, tuoksuva ja täynnä proteiinia.
+CLT_BUSH_PEPPER:
+  name: Mustapippuripensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Mustapippuri oli tärkeä osa
+  - Intian ja Euroopan välistä maustekauppaa
+  - jo kreikkalaisten ja roomalaisten aikaan.
+CLT_BUSH_PINTO_BEANS:
+  name: Pintopapupensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Kohta onnistumme varmaan jalostamaan pensaan,
+  - joka kasvattaa suoraan burritoja, eikö?
+CLT_BUSH_RADDISH:
+  name: Retiisipensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Tämä kasvi teki juuri rullalautatempun.
+  - Totaalisen re...tiisi.
+CLT_BUSH_RADICCHIO:
+  name: Radicchiopensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Haluatko kuulostaa hienolta? Laita radicchiota mihin
+  - tahansa ateriaan, se on käytännössä kaalia, mutta
+  - saa sinut näyttämään sivistyneeltä.
+CLT_BUSH_RAPESEED:
+  name: Rapsipensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Tämä pensas tihkuu jotain öljyistä ainetta.
+CLT_BUSH_RHUBARB:
+  name: Raparperipensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Tiesitkö, että raparperi on vihannes?
+  - Luulin, että se on jokin vasaralaji.
+CLT_BUSH_RICE:
+  name: Riisipensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Perusruoista perimmäisin.
+CLT_BUSH_ROSEMARY:
+  name: Rosmariinipensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Pensas, jonka tuoksu muistuttaa sunnuntailounaista.
+CLT_BUSH_RUNNER_BEANS:
+  name: Ruusupapupensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Onko tällä pensaalla jalat o.o?
+CLT_BUSH_RUTABAGA:
+  name: Lanttupensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Kaalinauris. Se on kaalinauris.
+CLT_BUSH_SASSAFRAS:
+  name: Sassafraspensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Tämä pensas rakastaa kasvaa pienten vesistöjen
+  - lähellä.
+CLT_BUSH_SHALLOT:
+  name: Salottisipulipensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Tämä pensas tuottaa nopeasti ihania minisipuleita.
+  - Ei mitään salottisia aikeita, pelkkiä sipuleita.
+CLT_BUSH_SHISO:
+  name: Shisopensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Haluan ajatella, että tämä pensas on minttupensaan
+  - ja basilikapensaan lempilapsi. Harmi, että
+  - pensaiden jalostus ei ole oikea juttu!
+CLT_BUSH_SOY_BEANS:
+  name: Soijapapupensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Tämä pensas on ystävällinen ilo. Se tekee
+  - minut soija-iloiseksi.
+CLT_BUSH_SPINACH:
+  name: Pinaattipensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Tämä pensas on Kippari-Kallen paras ystävä.
+CLT_BUSH_STAR_ANISE:
+  name: Tähtianispensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Tästä pensaasta lähtee tuoksu, joka on niin
+  - anikselle ominainen, ettet usko sitä.
+CLT_BUSH_STRAWBERRY:
+  name: Mansikkapensas
+  type:
+  - '&7&oPensas'
+  description: *id001
+CLT_BUSH_SWEETCORN:
+  name: Maissipensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Tämä pensas suorastaan anoo, että siitä
+  - rakennetaan sokkelo.
+CLT_BUSH_SWEET_POTATO:
+  name: Bataattipensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Tämä pensas on vain niin suloinen. Kuulin sen
+  - kehuvan sinua, kun et kuunnellut.
+CLT_BUSH_TARRAGON:
+  name: Rakuunapensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Tämä pensas ei halua herättää liikaa huomiota.
+CLT_BUSH_THYME:
+  name: Timjamipensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Tältä pensaalta loppuu aina... timjami... siis aika... *köh*
+CLT_BUSH_TOMATO:
+  name: Tomaattipensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Kypsä ja valmis.
+CLT_BUSH_TURMERIC:
+  name: Kurkumapensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Mausteen tuulahdus osuu nenääsi jo pelkästään,
+  - kun pitelet tätä pensasta.
+CLT_BUSH_TURNIP:
+  name: Naurispensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Britannian hallituksen mukaan
+  - tämä pensas ratkaisee kaikki ongelmamme.
+CLT_BUSH_VANILLA:
+  name: Vaniljapensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Tämä pensas kasvaa luonnostaan StarBucksien lähellä.
+CLT_BUSH_WASABI:
+  name: Wasabipensas
+  type:
+  - '&7&oPensas'
+  description:
+  - Taas juuri, joka kasvaa pensaassa?
+  - Huoh...
+CLT_CABBAGE:
+  name: Kaali
+  type:
+  - '&7&oSato'
+  description:
+  - Kokonainen kaalikuorma.
+CLT_CAESAR_SALAD:
+  name: Caesarsalaatti
+  type:
+  - '&7&oRuoka'
+  description:
+  - Terveellinen klassikko.
+  stats:
+  - '&8⇨ &7Parantaa: &b6 sydäntä'
+  - '&8⇨ &bNopeus I &7(10:00)'
+  - '&8⇨ &bNäkymättömyys I &7(10:00)'
+  - '&8⇨ &bHidas putoaminen I &7(10:00)'
+CLT_CAJUN_GARLIC_BUTTER_COD:
+  name: Cajun-valkosipulivoiturska
+  type:
+  - '&7&oRuoka'
+  description:
+  - Hyvin yksinkertainen ruoka, joka pursuaa makua.
+  stats:
+  - '&8⇨ &7Parantaa: &b4 sydäntä'
+  - '&8⇨ &bElpyminen II &7(10:00)'
+  - '&8⇨ &bNopeus I &7(10:00)'
+CLT_CAULIFLOWER:
+  name: Kukkakaali
+  type:
+  - '&7&oSato'
+  description:
+  - Kannettava pilvi!
+CLT_CAYENNE_PEPPER:
+  name: Cayennepippuri
+  type:
+  - '&7&oSato'
+  description:
+  - Pehmeän tulinen herkku.
+CLT_CELERIAC:
+  name: Mukulaselleri
+  type:
+  - '&7&oSato'
+  description:
+  - Täyteläinen juures, jonka juuret (heh) ulottuvat
+  - moniin perinteisiin resepteihin.
+CLT_CELERY:
+  name: Varsiselleri
+  type:
+  - '&7&oSato'
+  description:
+  - Kirjaimellisesti vain säikeistä vettä. Todista
+  - muuta.
+CLT_CHEESE_BURGER:
+  name: Hampurilainen
+  type:
+  - '&7&oRuoka'
+  description:
+  - Yksinkertainen juustohampurilainen, mutta mikään ei voita sitä!
+  stats:
+  - '&8⇨ &7Parantaa: &b4 sydäntä'
+  - '&8⇨ &bElpyminen III &7(10:00)'
+CLT_CHEESY_SCALLOPED_COURGETTE:
+  name: Juustoinen kesäkurpitsagratiini
+  type:
+  - '&7&oRuoka'
+  description:
+  - Vähähiilihydraattinen versio upeasta klassikosta.
+  stats:
+  - '&8⇨ &7Parantaa: &b2 sydäntä'
+  - '&8⇨ &bHämäränäkö I &7(10:00)'
+  - '&8⇨ &bNäkymättömyys I &7(10:00)'
+CLT_CHERRY:
+  name: Kirsikka
+  type:
+  - '&7&oSato'
+  description:
+  - Ai, luulin että ne kasvavat valmiiksi kandeerattuina, harmi!
+CLT_CHESTNUT:
+  name: Kastanja
+  type:
+  - '&7&oSato'
+  description:
+  - Tehty paistettavaksi, välittömästi.
+CLT_CHICKEN_ALFREDO_MAC_AND_CHEESE:
+  name: Alfredo-kanamakaronijuusto
+  type:
+  - '&7&oRuoka'
+  description:
+  - Hienostunut twisti tavalliseen klassikkoon.
+  stats:
+  - '&8⇨ &7Parantaa: &b1 sydän'
+  - '&8⇨ &bTulenkestävyys II &7(10:00)'
+  - '&8⇨ &bVastustus III &7(10:00)'
+CLT_CHICKEN_PASTA_BAKE:
+  name: Kanapastavuoka
+  type:
+  - '&7&oRuoka'
+  description:
+  - Opiskelijan perusruoka.
+  stats:
+  - '&8⇨ &7Parantaa: &b5 sydäntä'
+  - '&8⇨ &bHämäränäkö I &7(10:00)'
+  - '&8⇨ &bVedenhengitys I &7(10:00)'
+CLT_CHICKEN_POT_PIE:
+  name: Kanapiiras
+  type:
+  - '&7&oRuoka'
+  description:
+  - Lämmittävä ateria, joka maistuu ihan kodilta.
+  stats:
+  - '&8⇨ &7Parantaa: &b10 sydäntä'
+  - '&8⇨ &bHyppytehostus II &7(10:00)'
+  - '&8⇨ &bKylläisyys I &7(10:00)'
+CLT_CHICKPEAS:
+  name: Kikherneet
+  type:
+  - '&7&oSato'
+  description:
+  - Black Eyed Peas osaa laulaa kappaleen, kikherneet osaavat vain hummuttaa.
+CLT_CHICORY:
+  name: Sikuri
+  type:
+  - '&7&oSato'
+  description:
+  - Pähkinäinen, kitkerä juuri.
+CLT_CHILLY_PEPPER:
+  name: Chilipippuri
+  type:
+  - '&7&oSato'
+  description:
+  - Pystyn syömään kokonaisen chilin itkemättä.
+  - No, puolikkaan.
+  - NOOOOOO.... 1/4
+  - '...'
+  - Okei, voin koskettaa yhtä kielelläni
+CLT_CHIVES:
+  name: Ruohosipuli
+  type:
+  - '&7&oSato'
+  description:
+  - Makea, sipulinmakuinen yrtti.
+CLT_CHOPPED_APPLE:
+  name: Pilkottu omena
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_APRICOT:
+  name: Pilkottu aprikoosi
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_ARTICHOKE:
+  name: Pilkottu artisokka
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_ASPARAGUS:
+  name: Pilkottu parsa
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_AUBERGINE:
+  name: Pilkottu munakoiso
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_AVOCADO:
+  name: Pilkottu avokado
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_BANANA:
+  name: Pilkottu banaani
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_BASIL:
+  name: Pilkottu basilika
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_BAY_LEAF:
+  name: Pilkottu laakerinlehti
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_BEEF:
+  name: Pilkottu naudanliha
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_BEETROOT:
+  name: Pilkottu punajuuri
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_BELL_PEPPER:
+  name: Pilkottu paprika
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_BLACK_BEANS:
+  name: Pilkotut mustat pavut
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_BREAD:
+  name: Pilkottu leipä
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_BROCCOLI:
+  name: Pilkottu parsakaali
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_BROWN_MUSHROOM:
+  name: Pilkottu ruskea sieni
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_BRUSSELS_SPROUTS:
+  name: Pilkotut ruusukaalit
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_CABBAGE:
+  name: Pilkottu kaali
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_CARROT:
+  name: Pilkottu porkkana
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_CAULIFLOWER:
+  name: Pilkottu kukkakaali
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_CAYENNE_PEPPER:
+  name: Pilkottu cayennepippuri
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_CELERIAC:
+  name: Pilkottu mukulaselleri
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_CELERY:
+  name: Pilkottu varsiselleri
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_CHERRY:
+  name: Pilkottu kirsikka
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_CHESTNUT:
+  name: Pilkottu kastanja
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_CHICKEN:
+  name: Pilkottu kana
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_CHICKPEAS:
+  name: Pilkotut kikherneet
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_CHICORY:
+  name: Pilkottu sikuri
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_CHILLY_PEPPER:
+  name: Pilkottu chilipippuri
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_CHIVES:
+  name: Pilkottu ruohosipuli
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_CHORUS_FRUIT:
+  name: Pilkottu chorus-hedelmä
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_CILANTRO:
+  name: Pilkottu korianteri
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_CINNAMON:
+  name: Pilkottu kaneli
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_CLOVE:
+  name: Pilkottu neilikka
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_COCOA_BEANS:
+  name: Pilkotut kaakaopavut
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_COD:
+  name: Pilkottu turska
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_COURGETTE:
+  name: Pilkottu kesäkurpitsa
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_CUCUMBER:
+  name: Pilkottu kurkku
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_CUMIN:
+  name: Pilkottu juustokumina
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_CURRY_LEAF:
+  name: Pilkottu currynlehti
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_DILL:
+  name: Pilkottu tilli
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_EGG:
+  name: Pilkottu kananmuna
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_ENCHANTED_GOLDEN_APPLE:
+  name: Pilkottu lumottu kultaomena
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_FENNEL:
+  name: Pilkottu fenkoli
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_GARLIC:
+  name: Pilkottu valkosipuli
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_GINGER:
+  name: Pilkottu inkivääri
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_GLOW_BERRIES:
+  name: Pilkotut hehkumarjat
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_GOLDEN_APPLE:
+  name: Pilkottu kultaomena
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_GOLDEN_CARROT:
+  name: Pilkottu kultaporkkana
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_GRAPE:
+  name: Pilkottu viinirypäle
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_GREEN_APPLE:
+  name: Pilkottu vihreä omena
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_GREEN_BEANS:
+  name: Pilkotut tarhapavut
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_GREEN_ONION:
+  name: Pilkottu kevätsipuli
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_HAZELNUT:
+  name: Pilkottu hasselpähkinä
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_HORSERADISH:
+  name: Pilkottu piparjuuri
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_JALAPENO:
+  name: Pilkottu jalapeno
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_JASMINE:
+  name: Pilkottu jasmiini
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_JUNIPER_BERRY:
+  name: Pilkotut katajanmarjat
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_KAFFIR_LIME:
+  name: Pilkottu kaffirlimetin lehti
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_KALE:
+  name: Pilkottu lehtikaali
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_KELP:
+  name: Pilkottu rakkolevä
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_KIWI:
+  name: Pilkottu kiivi
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_LAVENDER:
+  name: Pilkottu laventeli
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_LEEK:
+  name: Pilkottu purjo
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_LEMON:
+  name: Pilkottu sitruuna
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_LETTUCE:
+  name: Pilkottu lehtisalaatti
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_LICORICE:
+  name: Pilkottu lakritsi
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_LIME:
+  name: Pilkottu limetti
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_MACE:
+  name: Pilkottu muskottikukka
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_MANGO:
+  name: Pilkottu mango
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_MARJORAM:
+  name: Pilkottu meirami
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_MARROW:
+  name: Pilkottu avomaankurpitsa
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_MELON:
+  name: Pilkottu meloni
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_MINT:
+  name: Pilkottu minttu
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_MUSTARD_SEEDS:
+  name: Pilkotut sinapinsiemenet
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_MUTTON:
+  name: Pilkottu lampaanliha
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_NETTLES:
+  name: Pilkotut nokkoset
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_OKRA:
+  name: Pilkottu okra
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_ONION:
+  name: Pilkottu sipuli
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_ORANGE:
+  name: Pilkottu appelsiini
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_OREGANO:
+  name: Pilkottu oregano
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_PARSLEY:
+  name: Pilkottu persilja
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_PARSNIP:
+  name: Pilkottu palsternakka
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_PEA:
+  name: Pilkotut herneet
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_PEACH:
+  name: Pilkottu persikka
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_PEANUT:
+  name: Pilkottu maapähkinä
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_PEAR:
+  name: Pilkottu päärynä
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_PECAN:
+  name: Pilkottu pekaanipähkinä
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_PEPPER:
+  name: Pilkottu mustapippuri
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_PEPPERONI:
+  name: Pilkottu pepperoni
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_PINEAPPLE:
+  name: Pilkottu ananas
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_PINTO_BEANS:
+  name: Pilkotut pintopavut
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_PORKCHOP:
+  name: Pilkottu porsaankyljys
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_POTATO:
+  name: Pilkottu peruna
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_PUFFERFISH:
+  name: Pilkottu pallokala
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_PUMPKIN:
+  name: Pilkottu kurpitsa
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_RABBIT:
+  name: Pilkottu jänis
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_RADDISH:
+  name: Pilkottu retiisi
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_RADICCHIO:
+  name: Pilkottu radicchio
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_RAPESEED:
+  name: Pilkottu rapsi
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_RED_MUSHROOM:
+  name: Pilkottu kärpässieni
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_RHUBARB:
+  name: Pilkottu raparperi
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_RICE:
+  name: Pilkottu riisi
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_ROSEMARY:
+  name: Pilkottu rosmariini
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_ROTTEN_FLESH:
+  name: Pilkottu mädäntynyt liha
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_RUNNER_BEANS:
+  name: Pilkotut ruusupavut
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_RUTABAGA:
+  name: Pilkottu lanttu
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_SALMON:
+  name: Pilkottu lohi
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_SASSAFRAS:
+  name: Pilkottu sassafras
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_SHALLOT:
+  name: Pilkottu salottisipuli
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_SHISO:
+  name: Pilkottu shiso
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_SOY_BEANS:
+  name: Pilkotut soijapavut
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_SPINACH:
+  name: Pilkottu pinaatti
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_STAR_ANISE:
+  name: Pilkottu tähtianis
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_STRAWBERRY:
+  name: Pilkottu mansikka
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_SUGAR:
+  name: Pilkottu sokeri
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_SWEETCORN:
+  name: Pilkottu maissi
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_SWEET_BERRIES:
+  name: Pilkotut makeat marjat
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_SWEET_POTATO:
+  name: Pilkottu bataatti
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_TARRAGON:
+  name: Pilkottu rakuuna
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_THYME:
+  name: Pilkottu timjami
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_TOMATO:
+  name: Pilkottu tomaatti
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_TURMERIC:
+  name: Pilkottu kurkuma
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_TURNIP:
+  name: Pilkottu nauris
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_VANILLA:
+  name: Pilkottu vanilja
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_WASABI:
+  name: Pilkottu wasabi
+  type:
+  - '&7&oSivutuote'
+CLT_CHOPPED_WHEAT:
+  name: Pilkottu vehnä
+  type:
+  - '&7&oSivutuote'
+CLT_CILANTRO:
+  name: Korianteri
+  type:
+  - '&7&oSato'
+  description:
+  - Pehmeä mauste ripauksella sitrusta.
+CLT_CINNAMON:
+  name: Kaneli
+  type:
+  - '&7&oSato'
+  description:
+  - Mainiota pureskeltavaa tankomuodossaan.
+CLT_CINNAMON_ROLL:
+  name: Korvapuusti
+  type:
+  - '&7&oRuoka'
+  description:
+  - Makea herkku, kääritty rullalle huvin vuoksi.
+  - Sen syöminen kääntää maailman ylösalaisin!
+  stats:
+  - '&8⇨ &7Parantaa: &b4 sydäntä'
+  - '&8⇨ &bLevitaatio I &7(10:00)'
+  - '&8⇨ &bHidas putoaminen I &7(10:00)'
+CLT_CLOVE:
+  name: Neilikka
+  type:
+  - '&7&oSato'
+  description:
+  - Erittäin lämmin ja voimakas maku.
+CLT_COMPRESSED_BISCUIT:
+  name: Puristettu teeleipä
+  type:
+  - '&7&oRuoka'
+  description:
+  - Pieni naposteltava, vielä valtavampi maku.
+  stats: *id002
+CLT_COOKED_BURGER_PATTY:
+  name: Kypsä hampurilaispihvi
+  type:
+  - '&7&oSato'
+  description:
+  - Suorastaan tippuu
+CLT_COUNTER_BLENDER:
+  name: Keittiötaso (tehosekoitin)
+  type:
+  - '&7&oKone'
+  description:
+  - Napsauta tätä kuutiota oikealla soseuttaaksesi satoa.
+  usage: &id003
+  - Vinkki! Kun kuutio on asetettu, shift + oikea
+  - napsautus kädessäsi olevilla kuutioilla muuttaa
+  - keittiön ulkoasua. Kokeile!
+CLT_COUNTER_BOILING:
+  name: Keittiötaso (keittokattila)
+  type:
+  - '&7&oKone'
+  description:
+  - Voi keittää tiettyjä esineitä.
+  usage: *id003
+CLT_COUNTER_CHOPPING:
+  name: Keittiötaso (pilkkomislauta)
+  type:
+  - '&7&oKone'
+  description:
+  - Napsauta tätä kuutiota oikealla pilkkoaksesi satoa.
+  usage: *id003
+CLT_COUNTER_FINISHING:
+  name: Keittiötaso (viimeistely)
+  type:
+  - '&7&oKone'
+  description:
+  - Käytetään tuotteiden ja sivutuotteiden jalostamiseen
+  - muiksi sivutuotteiksi tai valmiiksi ruoiksi.
+  usage: *id003
+CLT_COUNTER_FRYING:
+  name: Keittiötaso (paistinpannu)
+  type:
+  - '&7&oKone'
+  description:
+  - Voi paistaa tiettyjä satotuotteita.
+  usage: *id003
+CLT_COUNTER_GRILL:
+  name: Keittiötaso (grilli)
+  type:
+  - '&7&oKone'
+  description:
+  - Voi grillata tiettyjä satotuotteita.
+  usage: *id003
+CLT_COUNTER_GRINDER:
+  name: Keittiötaso (huhmar ja survin)
+  type:
+  - '&7&oKone'
+  description:
+  - Napsauta tätä kuutiota oikealla jauhaaksesi satoa.
+  usage: *id003
+CLT_COUNTER_MASHER:
+  name: Keittiötaso (muussauskulho)
+  type:
+  - '&7&oKone'
+  description:
+  - Napsauta tätä kuutiota oikealla muussataksesi satoa.
+  usage: *id003
+CLT_COUNTER_NOTHING:
+  name: Keittiötaso (tyhjä)
+  type:
+  - '&7&oKone'
+  description:
+  - Pelkkää koristetta!
+  usage: *id003
+CLT_COUNTER_OVEN:
+  name: Keittiötaso (uuni)
+  type:
+  - '&7&oKone'
+  description:
+  - Voi paistaa uunissa tiettyjä satotuotteita.
+  usage: *id003
+CLT_COUNTER_SLICING:
+  name: Keittiötaso (viipalointilauta)
+  type:
+  - '&7&oKone'
+  description:
+  - Napsauta tätä kuutiota oikealla viipaloidaksesi satoa.
+  usage: *id003
+CLT_COURGETTE:
+  name: Kesäkurpitsa
+  type:
+  - '&7&oSato'
+  description:
+  - 'Vinkki: Raasta tätä mihin tahansa pastakastikkeeseen'
+  - tuomaan syvyyttä ja rakennetta.
+CLT_CREAM_CHEESE:
+  name: Tuorejuusto
+  type:
+  - '&7&oSato'
+  description:
+  - Enemmän kermainen kuin juustoinen.
+CLT_CROP_STICKS:
+  name: Viljelykepit
+  type:
+  - '&7&oTyökalu'
+  description:
+  - Viljelykepit on asetettava istutetun
+  - siemenen päälle, jotta se kasvaa.
+  - Toisen parin asettaminen ristiviljelee
+  - kasvin, jolloin se voi levitä ja/tai
+  - jalostua.
+CLT_CUCUMBER:
+  name: Kurkku
+  type:
+  - '&7&oSato'
+  description:
+  - Vettä vihreässä kuoressa, todista
+  - että olen väärässä.
+CLT_CUMIN:
+  name: Juustokumina
+  type:
+  - '&7&oSato'
+  description:
+  - Lämmin, sitruksinen kasvi.
+CLT_CURRY_LEAF:
+  name: Currynlehti
+  type:
+  - '&7&oSato'
+  description:
+  - Niin monen ihanan ruoan perusta.
+CLT_DILL:
+  name: Tilli
+  type:
+  - '&7&oSato'
+  description:
+  - Maistuu minusta vain ruoholta. Miksi
+  - ihmiset tykkäävät tästä?
+CLT_DOUGH:
+  name: Taikina
+  type:
+  - '&7&oSato'
+  description:
+  - Ihan tavallista taikinaa!
+CLT_EGG_SALAD:
+  name: Kananmunasalaatti
+  type:
+  - '&7&oSato'
+  description:
+  - Avaa tämä junassa, jos uskallat!
+CLT_EGG_SALAD_SANDWICH:
+  name: Kananmunasalaattivoileipä
+  type:
+  - '&7&oRuoka'
+  description:
+  - Haisee vähän, mutta maistuu upealta!
+  stats: &id006
+  - '&8⇨ &7Parantaa: &b10 sydäntä'
+  - '&8⇨ &bElpyminen II &7(10:00)'
+CLT_FENNEL:
+  name: Fenkoli
+  type:
+  - '&7&oSato'
+  description:
+  - Kuin aniksen ja lakritsin sekoitus.
+CLT_FRIED_APPLE:
+  name: Paistettu omena
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_APRICOT:
+  name: Paistettu aprikoosi
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_ARTICHOKE:
+  name: Paistettu artisokka
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_ASPARAGUS:
+  name: Paistettu parsa
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_AUBERGINE:
+  name: Paistettu munakoiso
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_AVOCADO:
+  name: Paistettu avokado
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_BANANA:
+  name: Paistettu banaani
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_BASIL:
+  name: Paistettu basilika
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_BAY_LEAF:
+  name: Paistettu laakerinlehti
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_BEEF:
+  name: Paistettu naudanliha
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_BEETROOT:
+  name: Paistettu punajuuri
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_BELL_PEPPER:
+  name: Paistettu paprika
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_BLACK_BEANS:
+  name: Paistetut mustat pavut
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_BREAD:
+  name: Paistettu leipä
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_BROCCOLI:
+  name: Paistettu parsakaali
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_BROWN_MUSHROOM:
+  name: Paistettu ruskea sieni
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_BRUSSELS_SPROUTS:
+  name: Paistetut ruusukaalit
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_CABBAGE:
+  name: Paistettu kaali
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_CARROT:
+  name: Paistettu porkkana
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_CAULIFLOWER:
+  name: Paistettu kukkakaali
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_CAYENNE_PEPPER:
+  name: Paistettu cayennepippuri
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_CELERIAC:
+  name: Paistettu mukulaselleri
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_CELERY:
+  name: Paistettu varsiselleri
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_CHERRY:
+  name: Paistettu kirsikka
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_CHESTNUT:
+  name: Paistettu kastanja
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_CHICKEN:
+  name: Paistettu kana
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_CHICKPEAS:
+  name: Paistetut kikherneet
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_CHICORY:
+  name: Paistettu sikuri
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_CHILLY_PEPPER:
+  name: Paistettu chilipippuri
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_CHIVES:
+  name: Paistettu ruohosipuli
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_CHORUS_FRUIT:
+  name: Paistettu chorus-hedelmä
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_CILANTRO:
+  name: Paistettu korianteri
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_CINNAMON:
+  name: Paistettu kaneli
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_CLOVE:
+  name: Paistettu neilikka
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_COCOA_BEANS:
+  name: Paistetut kaakaopavut
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_COD:
+  name: Paistettu turska
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_COURGETTE:
+  name: Paistettu kesäkurpitsa
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_CUCUMBER:
+  name: Paistettu kurkku
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_CUMIN:
+  name: Paistettu juustokumina
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_CURRY_LEAF:
+  name: Paistettu currynlehti
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_DILL:
+  name: Paistettu tilli
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_EGG:
+  name: Paistettu kananmuna
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_ENCHANTED_GOLDEN_APPLE:
+  name: Paistettu lumottu kultaomena
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_FENNEL:
+  name: Paistettu fenkoli
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_GARLIC:
+  name: Paistettu valkosipuli
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_GINGER:
+  name: Paistettu inkivääri
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_GLOW_BERRIES:
+  name: Paistetut hehkumarjat
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_GOLDEN_APPLE:
+  name: Paistettu kultaomena
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_GOLDEN_CARROT:
+  name: Paistettu kultaporkkana
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_GRAPE:
+  name: Paistettu viinirypäle
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_GREEN_APPLE:
+  name: Paistettu vihreä omena
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_GREEN_BEANS:
+  name: Paistetut tarhapavut
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_GREEN_ONION:
+  name: Paistettu kevätsipuli
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_HAZELNUT:
+  name: Paistettu hasselpähkinä
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_HORSERADISH:
+  name: Paistettu piparjuuri
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_JALAPENO:
+  name: Paistettu jalapeno
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_JASMINE:
+  name: Paistettu jasmiini
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_JUNIPER_BERRY:
+  name: Paistetut katajanmarjat
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_KAFFIR_LIME:
+  name: Paistettu kaffirlimetin lehti
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_KALE:
+  name: Paistettu lehtikaali
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_KELP:
+  name: Paistettu rakkolevä
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_KIWI:
+  name: Paistettu kiivi
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_LAVENDER:
+  name: Paistettu laventeli
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_LEEK:
+  name: Paistettu purjo
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_LEMON:
+  name: Paistettu sitruuna
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_LETTUCE:
+  name: Paistettu lehtisalaatti
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_LICORICE:
+  name: Paistettu lakritsi
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_LIME:
+  name: Paistettu limetti
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_MACE:
+  name: Paistettu muskottikukka
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_MANGO:
+  name: Paistettu mango
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_MARJORAM:
+  name: Paistettu meirami
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_MARROW:
+  name: Paistettu avomaankurpitsa
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_MELON:
+  name: Paistettu meloni
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_MINT:
+  name: Paistettu minttu
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_MUSTARD_SEEDS:
+  name: Paistetut sinapinsiemenet
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_MUTTON:
+  name: Paistettu lampaanliha
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_NETTLES:
+  name: Paistetut nokkoset
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_OKRA:
+  name: Paistettu okra
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_ONION:
+  name: Paistettu sipuli
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_ORANGE:
+  name: Paistettu appelsiini
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_OREGANO:
+  name: Paistettu oregano
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_PARSLEY:
+  name: Paistettu persilja
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_PARSNIP:
+  name: Paistettu palsternakka
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_PEA:
+  name: Paistetut herneet
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_PEACH:
+  name: Paistettu persikka
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_PEANUT:
+  name: Paistettu maapähkinä
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_PEAR:
+  name: Paistettu päärynä
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_PECAN:
+  name: Paistettu pekaanipähkinä
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_PEPPER:
+  name: Paistettu mustapippuri
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_PEPPERONI:
+  name: Paistettu pepperoni
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_PINEAPPLE:
+  name: Paistettu ananas
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_PINTO_BEANS:
+  name: Paistetut pintopavut
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_PORKCHOP:
+  name: Paistettu porsaankyljys
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_POTATO:
+  name: Paistettu peruna
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_PUFFERFISH:
+  name: Paistettu pallokala
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_PUMPKIN:
+  name: Paistettu kurpitsa
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_RABBIT:
+  name: Paistettu jänis
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_RADDISH:
+  name: Paistettu retiisi
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_RADICCHIO:
+  name: Paistettu radicchio
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_RAPESEED:
+  name: Paistettu rapsi
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_RED_MUSHROOM:
+  name: Paistettu kärpässieni
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_RHUBARB:
+  name: Paistettu raparperi
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_RICE:
+  name: Paistettu riisi
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_ROSEMARY:
+  name: Paistettu rosmariini
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_ROTTEN_FLESH:
+  name: Paistettu mädäntynyt liha
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_RUNNER_BEANS:
+  name: Paistetut ruusupavut
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_RUTABAGA:
+  name: Paistettu lanttu
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_SALMON:
+  name: Paistettu lohi
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_SASSAFRAS:
+  name: Paistettu sassafras
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_SHALLOT:
+  name: Paistettu salottisipuli
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_SHISO:
+  name: Paistettu shiso
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_SOY_BEANS:
+  name: Paistetut soijapavut
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_SPINACH:
+  name: Paistettu pinaatti
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_STAR_ANISE:
+  name: Paistettu tähtianis
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_STRAWBERRY:
+  name: Paistettu mansikka
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_SUGAR:
+  name: Paistettu sokeri
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_SWEETCORN:
+  name: Paistettu maissi
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_SWEET_BERRIES:
+  name: Paistetut makeat marjat
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_SWEET_POTATO:
+  name: Paistettu bataatti
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_TARRAGON:
+  name: Paistettu rakuuna
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_THYME:
+  name: Paistettu timjami
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_TOMATO:
+  name: Paistettu tomaatti
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_TURMERIC:
+  name: Paistettu kurkuma
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_TURNIP:
+  name: Paistettu nauris
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_VANILLA:
+  name: Paistettu vanilja
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_WASABI:
+  name: Paistettu wasabi
+  type:
+  - '&7&oSivutuote'
+CLT_FRIED_WHEAT:
+  name: Paistettu vehnä
+  type:
+  - '&7&oSivutuote'
+CLT_FRUIT_SALAD:
+  name: Hedelmäsalaatti
+  type:
+  - '&7&oRuoka'
+  description:
+  - Kun sitä kutsuu salaatiksi, sitä saa syödä niin paljon
+  - kuin haluaa, koska se on terveellistä.
+  stats:
+  - '&8⇨ &7Parantaa: &b6 sydäntä'
+  - '&8⇨ &bNopeus III &7(10:00)'
+CLT_FUGU:
+  name: Fugu
+  type:
+  - '&7&oRuoka'
+  description:
+  - Valmiina heittämään noppaa?
+  stats:
+  - '&8⇨ &7Parantaa: &b1 sydän'
+  - '&8⇨ &bVoimakkuus V &7(10:00)'
+  - '&8⇨ &733% mahdollisuus yksinkertaisesti kuolla!'
+CLT_GARDEN_CLOCHE:
+  name: Puutarhakupu
+  type:
+  - '&7&oKone'
+  description:
+  - Kasvattaa kasveja sisällään automaattisesti.
+  stats:
+  - '&8⇨ &7Energiaa tikissä: &b100'
+CLT_GARLIC:
+  name: Valkosipuli
+  type:
+  - '&7&oSato'
+  description:
+  - Nopeasti, ennen kuin vampyyrit tulevat!
+CLT_GARLIC_BUTTER_MUSHROOMS:
+  name: Valkosipulivoisienet
+  type:
+  - '&7&oRuoka'
+  description:
+  - Saattaa hyvin olla maailman paras ruoka.
+  stats:
+  - '&8⇨ &7Parantaa: &b2 sydäntä'
+  - '&8⇨ &bHehkuminen I &7(10:00)'
+CLT_GINGER:
+  name: Inkivääri
+  type:
+  - '&7&oSato'
+  description:
+  - Pilkottua inkivääriä kiehuvassa vedessä, parantaa kaikki vaivat!
+CLT_GRAPE:
+  name: Viinirypäle
+  type:
+  - '&7&oSato'
+  description:
+  - Niin pullea!
+CLT_GRAPE_JELLY:
+  name: Viinirypälehyytelö
+  type:
+  - '&7&oSato'
+  description: &id008
+  - Sen syöminen lusikalla on rikos.
+CLT_GREEN_APPLE:
+  name: Vihreä omena
+  type:
+  - '&7&oSato'
+  description:
+  - Lapussa lukee... Rakas opettaja?
+CLT_GREEN_BEANS:
+  name: Tarhapavut
+  type:
+  - '&7&oSato'
+  description:
+  - Kuinka luovasti nimetty!
+CLT_GREEN_ONION:
+  name: Kevätsipuli
+  type:
+  - '&7&oSato'
+  description:
+  - Sopii loistavasti tacoihin!
+CLT_GRILLED_APPLE:
+  name: Grillattu omena
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_APRICOT:
+  name: Grillattu aprikoosi
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_ARTICHOKE:
+  name: Grillattu artisokka
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_ASPARAGUS:
+  name: Grillattu parsa
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_AUBERGINE:
+  name: Grillattu munakoiso
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_AVOCADO:
+  name: Grillattu avokado
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_BANANA:
+  name: Grillattu banaani
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_BASIL:
+  name: Grillattu basilika
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_BAY_LEAF:
+  name: Grillattu laakerinlehti
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_BEEF:
+  name: Grillattu naudanliha
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_BEETROOT:
+  name: Grillattu punajuuri
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_BELL_PEPPER:
+  name: Grillattu paprika
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_BLACK_BEANS:
+  name: Grillatut mustat pavut
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_BREAD:
+  name: Grillattu leipä
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_BROCCOLI:
+  name: Grillattu parsakaali
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_BROWN_MUSHROOM:
+  name: Grillattu ruskea sieni
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_BRUSSELS_SPROUTS:
+  name: Grillatut ruusukaalit
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_CABBAGE:
+  name: Grillattu kaali
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_CARROT:
+  name: Grillattu porkkana
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_CAULIFLOWER:
+  name: Grillattu kukkakaali
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_CAYENNE_PEPPER:
+  name: Grillattu cayennepippuri
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_CELERIAC:
+  name: Grillattu mukulaselleri
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_CELERY:
+  name: Grillattu varsiselleri
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_CHERRY:
+  name: Grillattu kirsikka
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_CHESTNUT:
+  name: Grillattu kastanja
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_CHICKEN:
+  name: Grillattu kana
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_CHICKPEAS:
+  name: Grillatut kikherneet
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_CHICORY:
+  name: Grillattu sikuri
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_CHILLY_PEPPER:
+  name: Grillattu chilipippuri
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_CHIVES:
+  name: Grillattu ruohosipuli
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_CHORUS_FRUIT:
+  name: Grillattu chorus-hedelmä
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_CILANTRO:
+  name: Grillattu korianteri
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_CINNAMON:
+  name: Grillattu kaneli
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_CLOVE:
+  name: Grillattu neilikka
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_COCOA_BEANS:
+  name: Grillatut kaakaopavut
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_COD:
+  name: Grillattu turska
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_COURGETTE:
+  name: Grillattu kesäkurpitsa
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_CUCUMBER:
+  name: Grillattu kurkku
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_CUMIN:
+  name: Grillattu juustokumina
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_CURRY_LEAF:
+  name: Grillattu currynlehti
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_DILL:
+  name: Grillattu tilli
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_EGG:
+  name: Grillattu kananmuna
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_ENCHANTED_GOLDEN_APPLE:
+  name: Grillattu lumottu kultaomena
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_FENNEL:
+  name: Grillattu fenkoli
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_GARLIC:
+  name: Grillattu valkosipuli
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_GINGER:
+  name: Grillattu inkivääri
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_GLOW_BERRIES:
+  name: Grillatut hehkumarjat
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_GOLDEN_APPLE:
+  name: Grillattu kultaomena
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_GOLDEN_CARROT:
+  name: Grillattu kultaporkkana
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_GRAPE:
+  name: Grillattu viinirypäle
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_GREEN_APPLE:
+  name: Grillattu vihreä omena
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_GREEN_BEANS:
+  name: Grillatut tarhapavut
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_GREEN_ONION:
+  name: Grillattu kevätsipuli
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_HAZELNUT:
+  name: Grillattu hasselpähkinä
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_HORSERADISH:
+  name: Grillattu piparjuuri
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_JALAPENO:
+  name: Grillattu jalapeno
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_JASMINE:
+  name: Grillattu jasmiini
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_JUNIPER_BERRY:
+  name: Grillatut katajanmarjat
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_KAFFIR_LIME:
+  name: Grillattu kaffirlimetin lehti
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_KALE:
+  name: Grillattu lehtikaali
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_KELP:
+  name: Grillattu rakkolevä
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_KIWI:
+  name: Grillattu kiivi
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_LAVENDER:
+  name: Grillattu laventeli
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_LEEK:
+  name: Grillattu purjo
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_LEMON:
+  name: Grillattu sitruuna
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_LETTUCE:
+  name: Grillattu lehtisalaatti
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_LICORICE:
+  name: Grillattu lakritsi
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_LIME:
+  name: Grillattu limetti
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_MACE:
+  name: Grillattu muskottikukka
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_MANGO:
+  name: Grillattu mango
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_MARJORAM:
+  name: Grillattu meirami
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_MARROW:
+  name: Grillattu avomaankurpitsa
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_MELON:
+  name: Grillattu meloni
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_MINT:
+  name: Grillattu minttu
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_MUSTARD_SEEDS:
+  name: Grillatut sinapinsiemenet
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_MUTTON:
+  name: Grillattu lampaanliha
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_NETTLES:
+  name: Grillatut nokkoset
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_OKRA:
+  name: Grillattu okra
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_ONION:
+  name: Grillattu sipuli
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_ORANGE:
+  name: Grillattu appelsiini
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_OREGANO:
+  name: Grillattu oregano
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_PARSLEY:
+  name: Grillattu persilja
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_PARSNIP:
+  name: Grillattu palsternakka
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_PEA:
+  name: Grillatut herneet
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_PEACH:
+  name: Grillattu persikka
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_PEANUT:
+  name: Grillattu maapähkinä
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_PEAR:
+  name: Grillattu päärynä
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_PECAN:
+  name: Grillattu pekaanipähkinä
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_PEPPER:
+  name: Grillattu mustapippuri
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_PEPPERONI:
+  name: Grillattu pepperoni
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_PINEAPPLE:
+  name: Grillattu ananas
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_PINTO_BEANS:
+  name: Grillatut pintopavut
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_PORKCHOP:
+  name: Grillattu porsaankyljys
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_POTATO:
+  name: Grillattu peruna
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_PUFFERFISH:
+  name: Grillattu pallokala
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_PUMPKIN:
+  name: Grillattu kurpitsa
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_RABBIT:
+  name: Grillattu jänis
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_RADDISH:
+  name: Grillattu retiisi
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_RADICCHIO:
+  name: Grillattu radicchio
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_RAPESEED:
+  name: Grillattu rapsi
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_RED_MUSHROOM:
+  name: Grillattu kärpässieni
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_RHUBARB:
+  name: Grillattu raparperi
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_RICE:
+  name: Grillattu riisi
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_ROSEMARY:
+  name: Grillattu rosmariini
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_ROTTEN_FLESH:
+  name: Grillattu mädäntynyt liha
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_RUNNER_BEANS:
+  name: Grillatut ruusupavut
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_RUTABAGA:
+  name: Grillattu lanttu
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_SALMON:
+  name: Grillattu lohi
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_SALMON_SALAD:
+  name: Grillattu lohisalaatti
+  type:
+  - '&7&oRuoka'
+  description:
+  - Ihastuttavan murea ja loistavasti maustettu.
+  stats:
+  - '&8⇨ &7Parantaa: &b4 sydäntä'
+  - '&8⇨ &bElpyminen I &7(10:00)'
+  - '&8⇨ &bElinvoiman tehostus V &7(10:00)'
+CLT_GRILLED_SASSAFRAS:
+  name: Grillattu sassafras
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_SHALLOT:
+  name: Grillattu salottisipuli
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_SHISO:
+  name: Grillattu shiso
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_SOY_BEANS:
+  name: Grillatut soijapavut
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_SPINACH:
+  name: Grillattu pinaatti
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_STAR_ANISE:
+  name: Grillattu tähtianis
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_STRAWBERRY:
+  name: Grillattu mansikka
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_SUGAR:
+  name: Grillattu sokeri
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_SWEETCORN:
+  name: Grillattu maissi
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_SWEET_BERRIES:
+  name: Grillatut makeat marjat
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_SWEET_POTATO:
+  name: Grillattu bataatti
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_TARRAGON:
+  name: Grillattu rakuuna
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_THYME:
+  name: Grillattu timjami
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_TOMATO:
+  name: Grillattu tomaatti
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_TURMERIC:
+  name: Grillattu kurkuma
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_TURNIP:
+  name: Grillattu nauris
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_VANILLA:
+  name: Grillattu vanilja
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_WASABI:
+  name: Grillattu wasabi
+  type:
+  - '&7&oSivutuote'
+CLT_GRILLED_WHEAT:
+  name: Grillattu vehnä
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_APPLE:
+  name: Jauhettu omena
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_APRICOT:
+  name: Jauhettu aprikoosi
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_ARTICHOKE:
+  name: Jauhettu artisokka
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_ASPARAGUS:
+  name: Jauhettu parsa
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_AUBERGINE:
+  name: Jauhettu munakoiso
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_AVOCADO:
+  name: Jauhettu avokado
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_BANANA:
+  name: Jauhettu banaani
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_BASIL:
+  name: Jauhettu basilika
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_BAY_LEAF:
+  name: Jauhettu laakerinlehti
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_BEEF:
+  name: Jauhettu naudanliha
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_BEETROOT:
+  name: Jauhettu punajuuri
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_BELL_PEPPER:
+  name: Jauhettu paprika
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_BLACK_BEANS:
+  name: Jauhetut mustat pavut
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_BREAD:
+  name: Jauhettu leipä
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_BROCCOLI:
+  name: Jauhettu parsakaali
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_BROWN_MUSHROOM:
+  name: Jauhettu ruskea sieni
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_BRUSSELS_SPROUTS:
+  name: Jauhetut ruusukaalit
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_CABBAGE:
+  name: Jauhettu kaali
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_CARROT:
+  name: Jauhettu porkkana
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_CAULIFLOWER:
+  name: Jauhettu kukkakaali
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_CAYENNE_PEPPER:
+  name: Jauhettu cayennepippuri
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_CELERIAC:
+  name: Jauhettu mukulaselleri
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_CELERY:
+  name: Jauhettu varsiselleri
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_CHERRY:
+  name: Jauhettu kirsikka
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_CHESTNUT:
+  name: Jauhettu kastanja
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_CHICKEN:
+  name: Jauhettu kana
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_CHICKPEAS:
+  name: Jauhetut kikherneet
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_CHICORY:
+  name: Jauhettu sikuri
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_CHILLY_PEPPER:
+  name: Jauhettu chilipippuri
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_CHIVES:
+  name: Jauhettu ruohosipuli
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_CHORUS_FRUIT:
+  name: Jauhettu chorus-hedelmä
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_CILANTRO:
+  name: Jauhettu korianteri
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_CINNAMON:
+  name: Jauhettu kaneli
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_CLOVE:
+  name: Jauhettu neilikka
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_COCOA_BEANS:
+  name: Jauhetut kaakaopavut
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_COD:
+  name: Jauhettu turska
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_COURGETTE:
+  name: Jauhettu kesäkurpitsa
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_CUCUMBER:
+  name: Jauhettu kurkku
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_CUMIN:
+  name: Jauhettu juustokumina
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_CURRY_LEAF:
+  name: Jauhettu currynlehti
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_DILL:
+  name: Jauhettu tilli
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_EGG:
+  name: Jauhettu kananmuna
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_ENCHANTED_GOLDEN_APPLE:
+  name: Jauhettu lumottu kultaomena
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_FENNEL:
+  name: Jauhettu fenkoli
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_GARLIC:
+  name: Jauhettu valkosipuli
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_GINGER:
+  name: Jauhettu inkivääri
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_GLOW_BERRIES:
+  name: Jauhetut hehkumarjat
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_GOLDEN_APPLE:
+  name: Jauhettu kultaomena
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_GOLDEN_CARROT:
+  name: Jauhettu kultaporkkana
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_GRAPE:
+  name: Jauhettu viinirypäle
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_GREEN_APPLE:
+  name: Jauhettu vihreä omena
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_GREEN_BEANS:
+  name: Jauhetut tarhapavut
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_GREEN_ONION:
+  name: Jauhettu kevätsipuli
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_HAZELNUT:
+  name: Jauhettu hasselpähkinä
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_HORSERADISH:
+  name: Jauhettu piparjuuri
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_JALAPENO:
+  name: Jauhettu jalapeno
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_JASMINE:
+  name: Jauhettu jasmiini
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_JUNIPER_BERRY:
+  name: Jauhetut katajanmarjat
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_KAFFIR_LIME:
+  name: Jauhettu kaffirlimetin lehti
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_KALE:
+  name: Jauhettu lehtikaali
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_KELP:
+  name: Jauhettu rakkolevä
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_KIWI:
+  name: Jauhettu kiivi
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_LAVENDER:
+  name: Jauhettu laventeli
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_LEEK:
+  name: Jauhettu purjo
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_LEMON:
+  name: Jauhettu sitruuna
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_LETTUCE:
+  name: Jauhettu lehtisalaatti
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_LICORICE:
+  name: Jauhettu lakritsi
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_LIME:
+  name: Jauhettu limetti
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_MACE:
+  name: Jauhettu muskottikukka
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_MANGO:
+  name: Jauhettu mango
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_MARJORAM:
+  name: Jauhettu meirami
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_MARROW:
+  name: Jauhettu avomaankurpitsa
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_MELON:
+  name: Jauhettu meloni
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_MINT:
+  name: Jauhettu minttu
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_MUSTARD_SEEDS:
+  name: Jauhetut sinapinsiemenet
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_MUTTON:
+  name: Jauhettu lampaanliha
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_NETTLES:
+  name: Jauhetut nokkoset
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_OKRA:
+  name: Jauhettu okra
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_ONION:
+  name: Jauhettu sipuli
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_ORANGE:
+  name: Jauhettu appelsiini
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_OREGANO:
+  name: Jauhettu oregano
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_PARSLEY:
+  name: Jauhettu persilja
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_PARSNIP:
+  name: Jauhettu palsternakka
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_PEA:
+  name: Jauhetut herneet
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_PEACH:
+  name: Jauhettu persikka
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_PEANUT:
+  name: Jauhettu maapähkinä
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_PEAR:
+  name: Jauhettu päärynä
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_PECAN:
+  name: Jauhettu pekaanipähkinä
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_PEPPER:
+  name: Jauhettu mustapippuri
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_PEPPERONI:
+  name: Jauhettu pepperoni
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_PINEAPPLE:
+  name: Jauhettu ananas
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_PINTO_BEANS:
+  name: Jauhetut pintopavut
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_PORKCHOP:
+  name: Jauhettu porsaankyljys
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_POTATO:
+  name: Jauhettu peruna
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_PUFFERFISH:
+  name: Jauhettu pallokala
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_PUMPKIN:
+  name: Jauhettu kurpitsa
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_RABBIT:
+  name: Jauhettu jänis
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_RADDISH:
+  name: Jauhettu retiisi
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_RADICCHIO:
+  name: Jauhettu radicchio
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_RAPESEED:
+  name: Jauhettu rapsi
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_RED_MUSHROOM:
+  name: Jauhettu kärpässieni
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_RHUBARB:
+  name: Jauhettu raparperi
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_RICE:
+  name: Jauhettu riisi
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_ROSEMARY:
+  name: Jauhettu rosmariini
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_ROTTEN_FLESH:
+  name: Jauhettu mädäntynyt liha
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_RUNNER_BEANS:
+  name: Jauhetut ruusupavut
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_RUTABAGA:
+  name: Jauhettu lanttu
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_SALMON:
+  name: Jauhettu lohi
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_SASSAFRAS:
+  name: Jauhettu sassafras
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_SHALLOT:
+  name: Jauhettu salottisipuli
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_SHISO:
+  name: Jauhettu shiso
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_SOY_BEANS:
+  name: Jauhetut soijapavut
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_SPINACH:
+  name: Jauhettu pinaatti
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_STAR_ANISE:
+  name: Jauhettu tähtianis
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_STRAWBERRY:
+  name: Jauhettu mansikka
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_SUGAR:
+  name: Jauhettu sokeri
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_SWEETCORN:
+  name: Jauhettu maissi
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_SWEET_BERRIES:
+  name: Jauhetut makeat marjat
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_SWEET_POTATO:
+  name: Jauhettu bataatti
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_TARRAGON:
+  name: Jauhettu rakuuna
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_THYME:
+  name: Jauhettu timjami
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_TOMATO:
+  name: Jauhettu tomaatti
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_TURMERIC:
+  name: Jauhettu kurkuma
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_TURNIP:
+  name: Jauhettu nauris
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_VANILLA:
+  name: Jauhettu vanilja
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_WASABI:
+  name: Jauhettu wasabi
+  type:
+  - '&7&oSivutuote'
+CLT_GROUND_WHEAT:
+  name: Jauhettu vehnä
+  type:
+  - '&7&oSivutuote'
+CLT_HAZELNUT:
+  name: Hasselpähkinä
+  type:
+  - '&7&oSato'
+  description:
+  - Tee mitä ikinä tarvitsee, että tästä tulee
+  - minulle kahvia, heti!
+CLT_HORSERADISH:
+  name: Piparjuuri
+  type:
+  - '&7&oSato'
+  description:
+  - $100, jos puraiset siitä suoraan.
+CLT_JALAPENO:
+  name: Jalapeno
+  type:
+  - '&7&oSato'
+  description:
+  - KUUMAA KUUMAA KUUMAA.
+CLT_JASMINE:
+  name: Jasmiini
+  type:
+  - '&7&oSato'
+  description:
+  - Siitä tulee ihana tee.
+CLT_JUNIPER_BERRY:
+  name: Katajanmarjat
+  type:
+  - '&7&oSato'
+  description:
+  - Kuivattu pippuriseen täydellisyyteen.
+CLT_KAFFIR_LIME:
+  name: Kaffirlimetin lehti
+  type:
+  - '&7&oSato'
+  description:
+  - Lehti, jossa on mahtavaa potkua.
+CLT_KALE:
+  name: Lehtikaali
+  type:
+  - '&7&oSato'
+  description:
+  - Apua, olen vuoden 2020 smoothiehipsteri!
+CLT_KETCHUP:
+  name: Ketsuppi
+  type:
+  - '&7&oSato'
+  description:
+  - Pelkkiä tomaatteja kermaisessa muodossa.
+CLT_KEY_LIME_PIE:
+  name: Limettipiiras
+  type:
+  - '&7&oRuoka'
+  description:
+  - Yksinkertaisesti paras!
+  stats:
+  - '&8⇨ &7Parantaa: &b6 sydäntä'
+  - '&8⇨ &bKiire IV &7(10:00)'
+CLT_KIWI:
+  name: Kiivi
+  type:
+  - '&7&oSato'
+  description:
+  - Lisäsin tämän lisäosaan pakon edessä.
+  - Kiivit ovat pahoja, ja jokainen joka
+  - käyttää niitä menettää automaattisesti
+  - 100 pistettä.
+CLT_LASAGNA:
+  name: Lasagne
+  type:
+  - '&7&oRuoka'
+  description:
+  - Kerroksittain mahtavuutta.
+  stats:
+  - '&8⇨ &7Parantaa: &bTäysin'
+  - '&8⇨ &bElpyminen II &7(10:00)'
+  - '&8⇨ &bVastustus II &7(10:00)'
+CLT_LAVENDER:
+  name: Laventeli
+  type:
+  - '&7&oSato'
+  description:
+  - Tuoksu, joka saa minut vaipumaan hitaasti uneen.
+CLT_LEAVES_TREE_APRICOT:
+  name: Aprikoosipuun lehdet
+  type:
+  - '&7&oLehdet'
+CLT_LEAVES_TREE_BANANA:
+  name: Banaanipuun lehdet
+  type:
+  - '&7&oLehdet'
+CLT_LEAVES_TREE_CHERRY:
+  name: Kirsikkapuun lehdet
+  type:
+  - '&7&oLehdet'
+CLT_LEAVES_TREE_CHESTNUT:
+  name: Kastanjapuun lehdet
+  type:
+  - '&7&oLehdet'
+CLT_LEAVES_TREE_GREEN_APPLE:
+  name: Vihreän omenapuun lehdet
+  type:
+  - '&7&oLehdet'
+CLT_LEAVES_TREE_HAZELNUT:
+  name: Hasselpähkinäpuun lehdet
+  type:
+  - '&7&oLehdet'
+CLT_LEAVES_TREE_KIWI:
+  name: Kiivipuun lehdet
+  type:
+  - '&7&oLehdet'
+CLT_LEAVES_TREE_LEMON:
+  name: Sitruunapuun lehdet
+  type:
+  - '&7&oLehdet'
+CLT_LEAVES_TREE_LIME:
+  name: Limettipuun lehdet
+  type:
+  - '&7&oLehdet'
+CLT_LEAVES_TREE_MANGO:
+  name: Mangopuun lehdet
+  type:
+  - '&7&oLehdet'
+CLT_LEAVES_TREE_ORANGE:
+  name: Appelsiinipuun lehdet
+  type:
+  - '&7&oLehdet'
+CLT_LEAVES_TREE_PEACH:
+  name: Persikkapuun lehdet
+  type:
+  - '&7&oLehdet'
+CLT_LEAVES_TREE_PEAR:
+  name: Päärynäpuun lehdet
+  type:
+  - '&7&oLehdet'
+CLT_LEAVES_TREE_PECAN:
+  name: Pekaanipuun lehdet
+  type:
+  - '&7&oLehdet'
+CLT_LEAVES_TREE_PINEAPPLE:
+  name: Ananaspuun lehdet
+  type:
+  - '&7&oLehdet'
+CLT_LEEK:
+  name: Purjo
+  type:
+  - '&7&oSato'
+  description:
+  - jostain syystä siitä tippuu vettä?
+  - Ehkä siihen on tullut purjovuoto?
+CLT_LEMON:
+  name: Sitruuna
+  type:
+  - '&7&oSato'
+  description:
+  - Miksi noin hapan ilme?
+CLT_LEMON_DROP:
+  name: Sitruunakarkki
+  type:
+  - '&7&oRuoka'
+  description:
+  - Makuhermojen puhdistaja.
+  stats:
+  - '&8⇨ &7Poistaa kaikki tehosteet ja tekee sinut taas nälkäiseksi.'
+CLT_LETTUCE:
+  name: Lehtisalaatti
+  type:
+  - '&7&oSato'
+  description:
+  - Ohut, vetinen ja silti herkullinen.
+CLT_LICORICE:
+  name: Lakritsi
+  type:
+  - '&7&oSato'
+  description:
+  - Juokse, juokse karkuun nyt!
+CLT_LIME:
+  name: Limetti
+  type:
+  - '&7&oSato'
+  description:
+  - Olipa limetti kerran herkullinen hedelmä...
+CLT_MACE:
+  name: Muskottikukka
+  type:
+  - '&7&oSato'
+  description:
+  - Käytetään hyökkääjien kasvoille suihkuttamiseen.
+  - '...'
+  - Mitä tarkoitat, ettei se ole oikeanlaista suihketta?
+CLT_MANGO:
+  name: Mango
+  type:
+  - '&7&oSato'
+  description:
+  - MANGO, nyt on MENTÄVÄ.
+  - Tarinoiden kirjoittaminen on vaikeaa...
+CLT_MARJORAM:
+  name: Meirami
+  type:
+  - '&7&oSato'
+  description:
+  - Minulla on vähän currykiire, jutellaanko myöhemmin?
+CLT_MARROW:
+  name: Avomaankurpitsa
+  type:
+  - '&7&oSato'
+  description:
+  - Tiesitkö, että ytimiä löytyy
+  - luidesi sisältä?
+  - Jep, Sefi Fiksu.
+CLT_MASHED_APPLE:
+  name: Muussattu omena
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_APRICOT:
+  name: Muussattu aprikoosi
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_ARTICHOKE:
+  name: Muussattu artisokka
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_ASPARAGUS:
+  name: Muussattu parsa
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_AUBERGINE:
+  name: Muussattu munakoiso
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_AVOCADO:
+  name: Muussattu avokado
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_BANANA:
+  name: Muussattu banaani
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_BASIL:
+  name: Muussattu basilika
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_BAY_LEAF:
+  name: Muussattu laakerinlehti
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_BEEF:
+  name: Muussattu naudanliha
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_BEETROOT:
+  name: Muussattu punajuuri
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_BELL_PEPPER:
+  name: Muussattu paprika
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_BLACK_BEANS:
+  name: Muussatut mustat pavut
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_BREAD:
+  name: Muussattu leipä
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_BROCCOLI:
+  name: Muussattu parsakaali
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_BROWN_MUSHROOM:
+  name: Muussattu ruskea sieni
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_BRUSSELS_SPROUTS:
+  name: Muussatut ruusukaalit
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_CABBAGE:
+  name: Muussattu kaali
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_CARROT:
+  name: Muussattu porkkana
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_CAULIFLOWER:
+  name: Muussattu kukkakaali
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_CAYENNE_PEPPER:
+  name: Muussattu cayennepippuri
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_CELERIAC:
+  name: Muussattu mukulaselleri
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_CELERY:
+  name: Muussattu varsiselleri
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_CHERRY:
+  name: Muussattu kirsikka
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_CHESTNUT:
+  name: Muussattu kastanja
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_CHICKEN:
+  name: Muussattu kana
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_CHICKPEAS:
+  name: Muussatut kikherneet
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_CHICORY:
+  name: Muussattu sikuri
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_CHILLY_PEPPER:
+  name: Muussattu chilipippuri
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_CHIVES:
+  name: Muussattu ruohosipuli
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_CHORUS_FRUIT:
+  name: Muussattu chorus-hedelmä
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_CILANTRO:
+  name: Muussattu korianteri
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_CINNAMON:
+  name: Muussattu kaneli
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_CLOVE:
+  name: Muussattu neilikka
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_COCOA_BEANS:
+  name: Muussatut kaakaopavut
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_COD:
+  name: Muussattu turska
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_COURGETTE:
+  name: Muussattu kesäkurpitsa
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_CUCUMBER:
+  name: Muussattu kurkku
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_CUMIN:
+  name: Muussattu juustokumina
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_CURRY_LEAF:
+  name: Muussattu currynlehti
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_DILL:
+  name: Muussattu tilli
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_EGG:
+  name: Muussattu kananmuna
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_ENCHANTED_GOLDEN_APPLE:
+  name: Muussattu lumottu kultaomena
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_FENNEL:
+  name: Muussattu fenkoli
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_GARLIC:
+  name: Muussattu valkosipuli
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_GINGER:
+  name: Muussattu inkivääri
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_GLOW_BERRIES:
+  name: Muussatut hehkumarjat
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_GOLDEN_APPLE:
+  name: Muussattu kultaomena
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_GOLDEN_CARROT:
+  name: Muussattu kultaporkkana
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_GRAPE:
+  name: Muussattu viinirypäle
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_GREEN_APPLE:
+  name: Muussattu vihreä omena
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_GREEN_BEANS:
+  name: Muussatut tarhapavut
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_GREEN_ONION:
+  name: Muussattu kevätsipuli
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_HAZELNUT:
+  name: Muussattu hasselpähkinä
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_HORSERADISH:
+  name: Muussattu piparjuuri
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_JALAPENO:
+  name: Muussattu jalapeno
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_JASMINE:
+  name: Muussattu jasmiini
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_JUNIPER_BERRY:
+  name: Muussatut katajanmarjat
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_KAFFIR_LIME:
+  name: Muussattu kaffirlimetin lehti
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_KALE:
+  name: Muussattu lehtikaali
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_KELP:
+  name: Muussattu rakkolevä
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_KIWI:
+  name: Muussattu kiivi
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_LAVENDER:
+  name: Muussattu laventeli
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_LEEK:
+  name: Muussattu purjo
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_LEMON:
+  name: Muussattu sitruuna
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_LETTUCE:
+  name: Muussattu lehtisalaatti
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_LICORICE:
+  name: Muussattu lakritsi
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_LIME:
+  name: Muussattu limetti
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_MACE:
+  name: Muussattu muskottikukka
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_MANGO:
+  name: Muussattu mango
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_MARJORAM:
+  name: Muussattu meirami
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_MARROW:
+  name: Muussattu avomaankurpitsa
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_MELON:
+  name: Muussattu meloni
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_MINT:
+  name: Muussattu minttu
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_MUSTARD_SEEDS:
+  name: Muussatut sinapinsiemenet
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_MUTTON:
+  name: Muussattu lampaanliha
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_NETTLES:
+  name: Muussatut nokkoset
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_OKRA:
+  name: Muussattu okra
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_ONION:
+  name: Muussattu sipuli
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_ORANGE:
+  name: Muussattu appelsiini
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_OREGANO:
+  name: Muussattu oregano
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_PARSLEY:
+  name: Muussattu persilja
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_PARSNIP:
+  name: Muussattu palsternakka
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_PEA:
+  name: Muussatut herneet
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_PEACH:
+  name: Muussattu persikka
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_PEANUT:
+  name: Muussattu maapähkinä
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_PEAR:
+  name: Muussattu päärynä
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_PECAN:
+  name: Muussattu pekaanipähkinä
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_PEPPER:
+  name: Muussattu mustapippuri
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_PEPPERONI:
+  name: Muussattu pepperoni
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_PINEAPPLE:
+  name: Muussattu ananas
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_PINTO_BEANS:
+  name: Muussatut pintopavut
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_PORKCHOP:
+  name: Muussattu porsaankyljys
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_POTATO:
+  name: Muussattu peruna
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_PUFFERFISH:
+  name: Muussattu pallokala
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_PUMPKIN:
+  name: Muussattu kurpitsa
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_RABBIT:
+  name: Muussattu jänis
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_RADDISH:
+  name: Muussattu retiisi
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_RADICCHIO:
+  name: Muussattu radicchio
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_RAPESEED:
+  name: Muussattu rapsi
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_RED_MUSHROOM:
+  name: Muussattu kärpässieni
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_RHUBARB:
+  name: Muussattu raparperi
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_RICE:
+  name: Muussattu riisi
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_ROSEMARY:
+  name: Muussattu rosmariini
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_ROTTEN_FLESH:
+  name: Muussattu mädäntynyt liha
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_RUNNER_BEANS:
+  name: Muussatut ruusupavut
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_RUTABAGA:
+  name: Muussattu lanttu
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_SALMON:
+  name: Muussattu lohi
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_SASSAFRAS:
+  name: Muussattu sassafras
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_SHALLOT:
+  name: Muussattu salottisipuli
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_SHISO:
+  name: Muussattu shiso
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_SOY_BEANS:
+  name: Muussatut soijapavut
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_SPINACH:
+  name: Muussattu pinaatti
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_STAR_ANISE:
+  name: Muussattu tähtianis
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_STRAWBERRY:
+  name: Muussattu mansikka
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_SUGAR:
+  name: Muussattu sokeri
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_SWEETCORN:
+  name: Muussattu maissi
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_SWEET_BERRIES:
+  name: Muussatut makeat marjat
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_SWEET_POTATO:
+  name: Muussattu bataatti
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_TARRAGON:
+  name: Muussattu rakuuna
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_THYME:
+  name: Muussattu timjami
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_TOMATO:
+  name: Muussattu tomaatti
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_TURMERIC:
+  name: Muussattu kurkuma
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_TURNIP:
+  name: Muussattu nauris
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_VANILLA:
+  name: Muussattu vanilja
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_WASABI:
+  name: Muussattu wasabi
+  type:
+  - '&7&oSivutuote'
+CLT_MASHED_WHEAT:
+  name: Muussattu vehnä
+  type:
+  - '&7&oSivutuote'
+CLT_MAYONNAISE:
+  name: Majoneesi
+  type:
+  - '&7&oSato'
+  description:
+  - Silkinpehmeä majoneesi, joka sopii melkein mihin tahansa.
+CLT_MEATBALLS:
+  name: Lihapullat
+  type:
+  - '&7&oSato'
+  description:
+  - Lihasta tehtyjä palloja, kukapa olisi arvannut.
+CLT_MEATLOAF:
+  name: Lihamureke
+  type:
+  - '&7&oRuoka'
+  description:
+  - Ei mitään sen veroista! Mennään.
+  stats:
+  - '&8⇨ &7Parantaa: &bTäysin'
+  - '&8⇨ &bElinvoiman tehostus IV &7(10:00)'
+  - '&8⇨ &bVastustus III &7(10:00)'
+  - '&8⇨ &bKiire II &7(10:00)'
+  - '&8⇨ &bHitaus II &7(10:00)'
+CLT_MINT:
+  name: Minttu
+  type:
+  - '&7&oSato'
+  description:
+  - Mutus mutus mutus.
+CLT_MUSTARD:
+  name: Sinappi
+  type:
+  - '&7&oSato'
+  description:
+  - Siinä on pieni potku!
+CLT_MUSTARD_SEEDS:
+  name: Sinappisiemenet
+  type:
+  - '&7&oSato'
+  description:
+  - Pureskele niitä, jos uskallat!
+CLT_NETTLES:
+  name: Nokkoset
+  type:
+  - '&7&oSato'
+  description:
+  - Laita hanskat käteen ennen kuin pitelet näitä.
+CLT_OKRA:
+  name: Okra
+  type:
+  - '&7&oSato'
+  description:
+  - Kasvatetaan paljon Okra-homassa... eikö, EIKÖ?
+CLT_ONION:
+  name: Sipuli
+  type:
+  - '&7&oSato'
+  description:
+  - Hetkinen, miksi sinä itket?
+CLT_ORANGE:
+  name: Appelsiini
+  type:
+  - '&7&oSato'
+  description:
+  - Eikö tämän pitänyt olla kellopeli?
+CLT_ORANGE_JUICE:
+  name: Appelsiinimehu
+  type:
+  - '&7&oRuoka'
+  description:
+  - Se on todella paras tapa aloittaa päivä.
+  stats:
+  - '&8⇨ &bNopeus IV &7(10:00)'
+CLT_OREGANO:
+  name: Oregano
+  type:
+  - '&7&oSato'
+  description:
+  - Klassinen kaapin perusyrtti.
+CLT_PARSLEY:
+  name: Persilja
+  type:
+  - '&7&oSato'
+  description:
+  - Huonoin. Yrtti. Ikinä.
+CLT_PARSNIP:
+  name: Palsternakka
+  type:
+  - '&7&oSato'
+  description:
+  - Vaatii paahtamista välittömästi.
+CLT_PASTA:
+  name: Pasta
+  type:
+  - '&7&oSato'
+  description:
+  - Ihan tavallista pastaa, yksinkertaista mutta ihanaa.
+CLT_PEA:
+  name: Herneet
+  type:
+  - '&7&oSato'
+  description:
+  - Löytyy usein pareittain palon sisältä, niin olen kuullut.
+CLT_PEACH:
+  name: Persikka
+  type:
+  - '&7&oSato'
+  description:
+  - Emojista ei puhuta
+CLT_PEANUT:
+  name: Maapähkinä
+  type:
+  - '&7&oSato'
+  description:
+  - Reece's, täältä tullaan!
+CLT_PEANUT_BUTTER:
+  name: Maapähkinävoi
+  type:
+  - '&7&oSato'
+  description:
+  - Verrattavissa vain nestemäiseen kultaan.
+CLT_PEANUT_BUTTER_JELLY_SANDWICH:
+  name: Maapähkinävoi-hyytelövoileipä
+  type:
+  - '&7&oRuoka'
+  description:
+  - Se on todella voileipäteknologian huippu.
+  stats:
+  - '&8⇨ &7Parantaa: &b5 sydäntä'
+  - '&8⇨ &bVoimakkuus III &7(10:00)'
+CLT_PEAR:
+  name: Päärynä
+  type:
+  - '&7&oSato'
+  description:
+  - Eikö tämä näytäkin päärynäiseltä... siis täydelliseltä?
+CLT_PECAN:
+  name: Pekaanipähkinä
+  type:
+  - '&7&oSato'
+  description:
+  - Suorastaan anoo päästä piiraaksi.
+CLT_PECAN_PIE:
+  name: Pekaanipiiras
+  type:
+  - '&7&oRuoka'
+  description:
+  - Ainoa tapa syödä puhdasta sokeria ilman,
+  - että sinua tuomitaan täysin.
+  stats:
+  - '&8⇨ &7Parantaa: &b4 sydäntä'
+  - '&8⇨ &bLevitaatio I &7(10:00)'
+CLT_PEPPER:
+  name: Mustapippuri
+  type:
+  - '&7&oSato'
+  description:
+  - Tulisempi kuin suola.
+CLT_PEPPERONI:
+  name: Pepperoni
+  type:
+  - '&7&oSato'
+  description:
+  - Voisin syödä kokonaisen tangon tätä, helposti.
+CLT_PICO_DE_GALLO:
+  name: Pico de gallo
+  type:
+  - '&7&oSato'
+  description:
+  - Mieto salsa täynnä puhdasta herkullisuutta.
+CLT_PIE_CRUST:
+  name: Piirakkapohja
+  type:
+  - '&7&oSato'
+  description:
+  - Jos tämän syöminen sellaisenaan olisi laillista,
+  - se olisi pääravinnonlähteeni.
+CLT_PINEAPPLE:
+  name: Ananas
+  type:
+  - '&7&oSato'
+  description:
+  - Tämä kuuluu jokaiseen olemassa olevaan pizzaan.
+  - Haluatko tapella siitä!?
+CLT_PINTO_BEANS:
+  name: Pintopavut
+  type:
+  - '&7&oSato'
+  description:
+  - Kaching! On burriton aika.
+CLT_PIZZA_CHEESE:
+  name: Juustopizza
+  type:
+  - '&7&oRuoka'
+  description:
+  - Miksi kukaan tilaisi pelkkää juustoa? En tiedä.
+  stats:
+  - '&8⇨ &7Parantaa: &b4 sydäntä'
+  - '&8⇨ &bHitaus I &7(10:00)'
+CLT_PIZZA_MUSHROOM:
+  name: Sienipizza
+  type:
+  - '&7&oRuoka'
+  description:
+  - Yksinkertainen kasvispizza täynnä proteiineja.
+  stats:
+  - '&8⇨ &7Parantaa: &b6 sydäntä'
+  - '&8⇨ &bHitaus I &7(10:00)'
+  - '&8⇨ &bKiire II &7(10:00)'
+CLT_PIZZA_PEPPERONI:
+  name: Pepperonipizza
+  type:
+  - '&7&oRuoka'
+  description:
+  - New Yorkin klassikko täynnä makua.
+  stats:
+  - '&8⇨ &7Parantaa: &b6 sydäntä'
+  - '&8⇨ &bNopeus I &7(10:00)'
+  - '&8⇨ &bKiire I &7(10:00)'
+  - '&8⇨ &bHyppytehostus I &7(10:00)'
+CLT_PLANT_AIR:
+  name: Alkuilmakasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Kasvi, joka hyräilee hiljaa
+  - ympäröivän luonnon säveltä.
+  - '&eAlkukasvit eivät tuota esineitä'
+  - '&eja ovat vain jalostusta varten.'
+CLT_PLANT_AMETHYST:
+  name: Ametistikasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Tämä kasvi rakastaa kukoistaa syvissä, pimeissä
+  - paikoissa.
+CLT_PLANT_ANALYSER:
+  name: Kasvianalysaattori
+  type:
+  - '&7&oTyökalu'
+  description:
+  - Hyvin yksinkertainen työkalu, jolla
+  - näet kasvavan kasvin tiedot
+  usage:
+  - '&eOikea napsautus&7: Kertoo kasvin lajin ja kasvutiedot.'
+  - '&eShift + oikea napsautus&7: Näyttää kasvin tai pensaan nimen.'
+CLT_PLANT_BASALT:
+  name: Basalttikasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Hyvin tylsä ja mitäänsanomaton kasvi.
+CLT_PLANT_BEE:
+  name: Mehiläiskasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Kasvi, jolla on hyvin pienet ja hennot siivet.
+CLT_PLANT_BLACKSTONE:
+  name: Mustakivikasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Kasvi, jonka tiedetään imevän valoa.
+CLT_PLANT_BLAZE:
+  name: Roihukasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Kasvi, joka on kärventynyt reunoiltaan.
+CLT_PLANT_CHICKEN:
+  name: Kanakasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Huhujen mukaan, jos pidät tätä
+  - siementä pääsi yläpuolella ja hyppäät
+  - korkealta, liitelet sen sijaan, että
+  - putoaisit.
+CLT_PLANT_CLAY:
+  name: Savikasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Tätä kasvia voi muovata ja muotoilla vapaasti.
+  - Se ei silti tarkoita, että niin kannattaisi
+  - tehdä!
+CLT_PLANT_COAL:
+  name: Hiilikasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Kasvi, jossa on niin paljon potentiaalia.
+CLT_PLANT_COBBLESTONE:
+  name: Mukulakivikasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Tämä kasvi on kova kuin kivi.
+CLT_PLANT_CONCRETE:
+  name: Betonikasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Tämän kasvin on vaikea kasvaa, koska se
+  - kovettuu niin nopeasti.
+CLT_PLANT_COW:
+  name: Lehmäkasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Jos pidät tätä siementä korvallasi
+  - ja kuuntelet tarkasti, voit kuulla
+  - satunnaista ammumista.
+CLT_PLANT_CREEPER:
+  name: Creeper-kasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Tsssssssssttt...
+CLT_PLANT_DARKNESS:
+  name: Alkupimeyskasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Kasvi, joka kiehuu hillitöntä
+  - raivoa.
+  - '&eAlkukasvit eivät tuota esineitä'
+  - '&eja ovat vain jalostusta varten.'
+CLT_PLANT_DARK_FLORA:
+  name: Varjokasviston kasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Hiljainen pahuus asuu tämän yksinkertaisen siemenen sisällä.
+CLT_PLANT_DARK_GRASS:
+  name: Varjoruohokasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Kasvi, joka on todella hukannut
+  - identiteettinsä.
+CLT_PLANT_DEEPSLATE:
+  name: Pohjaliuskekivikasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Syvä, liuskeinen, <lisää tarina tähän>.
+CLT_PLANT_DIAMOND:
+  name: Timanttikasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Kasvi, joka suorastaan huokuu rikkauksia.
+CLT_PLANT_DIM_LIT:
+  name: Himmeä kasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Tämän siemenen sisältä hohtaa hyvin himmeä valo.
+CLT_PLANT_DIRT:
+  name: Multakasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Likainen pinnalta, mutta sisältää
+  - itse elämän rakennuspalikat.
+CLT_PLANT_DROWNED:
+  name: Hukkuneen kasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Kasvi, joka on läpimärkä
+  - koko ajan.
+CLT_PLANT_DUSTY:
+  name: Pölykasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Tämä kasvi tarvitsee erityistä hoitoa, pieninkin
+  - kova tuulenpuuska voi riittää hajottamaan
+  - sen.
+CLT_PLANT_EARTH:
+  name: Alkumaakasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Kasvi, joka rikastuttaa ympäröivää
+  - maailmaa.
+  - '&eAlkukasvit eivät tuota esineitä'
+  - '&eja ovat vain jalostusta varten.'
+CLT_PLANT_ECHO:
+  name: Kaikukasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Tämä kasvi löytää aina
+  - tiensä kotiin.
+CLT_PLANT_ELDER_GUARDIAN:
+  name: Vartijavanhinkasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Tämän kasvin lähellä oleminen tekee ihmisistä
+  - veltostuneita.
+CLT_PLANT_EMERALD:
+  name: Smaragdikasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Tämän kasvin omistajien on hypittävä
+  - renkaiden läpi, jotta heillä on siihen varaa.
+CLT_PLANT_ENDERMAN:
+  name: Enderman-kasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Jos tätä kasvia ei käsitellä varoen, se
+  - saattaa teleportata satunnaisesti!
+CLT_PLANT_ENDER_DRAGON:
+  name: Ender-lohikäärmekasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Todellinen pomo kasviksi.
+CLT_PLANT_END_STONE:
+  name: End-kivikasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Kasvi, joka humisee tyhjyyden kanssa.
+CLT_PLANT_FIRE:
+  name: Alkutulikasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Kasvi, joka tarjoaa sekä
+  - tuhon lähteet että
+  - uudestisyntymän.
+  - '&eAlkukasvit eivät tuota esineitä'
+  - '&eja ovat vain jalostusta varten.'
+CLT_PLANT_FISH:
+  name: Kalakasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Tästä siemenestä leijuu kypsä tuoksu.
+CLT_PLANT_FLOWER:
+  name: Kukkiva kasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Kaunis, hyvin aseteltu runsaudensarvi.
+CLT_PLANT_FROG:
+  name: Sammakkokasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Kvaak!
+CLT_PLANT_GHAST:
+  name: Ghast-kasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Kasvi, jonka tiedetään
+  - ampuvan satunnaisesti tulipalloja.
+CLT_PLANT_GLASS:
+  name: Lasikasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Oikeasta kulmasta voisit
+  - vannoa näkeväsi tämän kasvin läpi.
+CLT_PLANT_GLAZED:
+  name: Lasitettu kasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Kasvi, joka kasvaa monimutkaisen kuvion mukaan.
+CLT_PLANT_GLOWING_VINE:
+  name: Hehkuköynnöskasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Tämän siemenen sisältä hohtaa heikko valo.
+CLT_PLANT_GLOW_SQUID:
+  name: Hehkukalmarikasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Kimmeltävä kasvi, jolla on heikko hehku.
+CLT_PLANT_GOAT:
+  name: Vuohikasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Arvaamattoman väkivaltainen kasvi, joka rakastaa
+  - hyppiä ympäriinsä.
+CLT_PLANT_GRASS:
+  name: Ruohokasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Kukoistava elämä ponnistaa esiin
+  - maasta.
+CLT_PLANT_GRAVEL:
+  name: Sorakasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Tämä kasvi ei todellakaan osaa
+  - pitää itseään koossa.
+CLT_PLANT_GUARDIAN:
+  name: Vartijakasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Kosketettaessa tämä kasvi ampuu
+  - piikkejä.
+CLT_PLANT_IGNEOUS:
+  name: Vulkaaninen kasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Tämä kasvi on muodostunut kuumuudesta ja
+  - paineesta. Älä katso minua noin! Kaikki
+  - nämä kasvikuvaukset ovat täysin järkeviä.
+CLT_PLANT_LAPIS:
+  name: Lasuurikasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Kasvi, jolla on heikko maaginen aura.
+CLT_PLANT_LIGHT:
+  name: Alkuvalokasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Kasvi, joka huokuu puhtaan
+  - rakkauden auraa.
+  - '&eAlkukasvit eivät tuota esineitä'
+  - '&eja ovat vain jalostusta varten.'
+CLT_PLANT_MAGMA:
+  name: Magmakasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Kasvi, joka on niin kuuma, että se polttaa
+  - ympäristönsä.
+CLT_PLANT_MAGMA_CUBE:
+  name: Magmakuutiokasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Kun kukaan ei katso, tämä kasvi
+  - tykkää pomppia ylös ja alas.
+CLT_PLANT_MOSS:
+  name: Sammalkasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Tämä kasvi leviää yleensä hallitsemattomasti.
+CLT_PLANT_MUD:
+  name: Mutakasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Kasvi, joka on melkein yhtä likainen kuin
+  - maa, josta se on peräisin.
+CLT_PLANT_MUSHROOM:
+  name: Sienikasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Jep, kasvi, joka tekee sieniä.
+  - Täällä on kaikki ihan normaalisti.
+CLT_PLANT_NETHERRACK:
+  name: Netherrack-kasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Sitkeä ja kestävä kasvi, joka selviää
+  - useimmissa paikoissa.
+CLT_PLANT_NETHER_QUARTZ:
+  name: Nether-kvartsikasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Tällä kasvilla on niin terävät piikit, että
+  - sen kanssa on vaikea työskennellä.
+CLT_PLANT_PHANTOM:
+  name: Aavekasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Kasvi, jolla on ylevät lehdet.
+CLT_PLANT_PIG:
+  name: Sikakasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Kasvi, joka röhkii satunnaisesti.
+CLT_PLANT_POWER:
+  name: Alkuvoimakasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Kasvi, joka suorastaan huokuu voimaa.
+  - '&eAlkukasvit eivät tuota esineitä'
+  - '&eja ovat vain jalostusta varten.'
+CLT_PLANT_PURPUR:
+  name: Purpur-kasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Outo kasvi, tuntuu paljon kevyemmältä
+  - kuin useimmat.
+CLT_PLANT_RABBIT:
+  name: Jäniskasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Ötökät olisivat ylpeitä.
+CLT_PLANT_RAINBOW:
+  name: Sateenkaarikasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Tämän kasvin päässä saattaa olla tai
+  - olla olematta kultapata.
+CLT_PLANT_RAW_COPPER:
+  name: Kuparikasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Jos tämä kasvi jätetään rauhaan, se
+  - houkuttelee joskus salamoita.
+CLT_PLANT_RAW_GOLD:
+  name: Kultakasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Piglinit varastavat tätä kasvia usein,
+  - jos ne ovat lähellä.
+CLT_PLANT_RAW_IRON:
+  name: Rautakasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Tukeva kasvi, joka kestää useimmat
+  - ympäristöt.
+CLT_PLANT_REDSTONE:
+  name: Redstone-kasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Kasvi, joka on läpikotaisin täynnä voimaa.
+CLT_PLANT_RED_SAND:
+  name: Punahiekkakasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Tämä kasvi voi joskus murentua
+  - yhdestä kosketuksesta, mutta... punaisemmin.
+CLT_PLANT_REINFORCED:
+  name: Vahvistettu kasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Kasvi, joka pystyy pitämään itsensä pystyssä
+  - mitä tahansa tapahtuu.
+CLT_PLANT_SAND:
+  name: Hiekkakasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Tämä kasvi voi joskus murentua
+  - yhdestä kosketuksesta.
+CLT_PLANT_SAPLING:
+  name: Taimikasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Tässä kasvissa ei ole edes mitään järkeä...
+CLT_PLANT_SCRAPPY:
+  name: Romukasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Tämä kasvi on todellakin
+  - puutarhanhoidon huipentuma.
+CLT_PLANT_SHEEP:
+  name: Lammaskasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Kasvi, jolla on karhea villainen pinta.
+CLT_PLANT_SHULKER:
+  name: Shulker-kasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Kasvi, joka leijuu usein irti
+  - maasta.
+CLT_PLANT_SKELETON:
+  name: Luurankokasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Kasvi, joka kolisee huojuessaan.
+CLT_PLANT_SLIME:
+  name: Limakasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Miksi se on niin tahmea?
+CLT_PLANT_SOUL:
+  name: Sielukasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Kasvin voi kuulla kirkuvan,
+  - kun on hiljaista.
+CLT_PLANT_SPECTRUM:
+  name: Alkukirjokasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Kasvi, jonka väri vaihtelee hieman.
+  - '&eAlkukasvit eivät tuota esineitä'
+  - '&eja ovat vain jalostusta varten.'
+CLT_PLANT_SPIDER:
+  name: Hämähäkkikasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Tapa se, tapa se HETI!
+CLT_PLANT_SQUID:
+  name: Kalmarikasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Varo, pelkkä tämän kasvin koskettaminen
+  - voi saada sen räjäyttämään mustetta
+  - joka paikkaan.
+CLT_PLANT_STAINED:
+  name: Värjätty kasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Tämä kasvi hajottaa valon kokonaiseksi
+  - spektriksi lähellä oleville esineille.
+CLT_PLANT_TERRA:
+  name: Terrakasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Kova, maanläheinen kasvi, joka murtuu paineen alla.
+CLT_PLANT_TURTLE:
+  name: Kilpikonnakasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Siemen, jota ympäröi kivikova kuori.
+CLT_PLANT_VILLAGER:
+  name: Kyläläiskasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Jep, tiivistimme kyläläisen olemuksen
+  - kasviin. Ilmeisesti se sattui paljon.
+CLT_PLANT_VINE:
+  name: Köynnöskasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Kasvi, joka sotkee itsensä
+  - heti solmuun.
+CLT_PLANT_WATER:
+  name: Alkuvesikasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Kasvi, joka vaalii ympäristöään
+  - ja antaa sille elämää.
+  - '&eAlkukasvit eivät tuota esineitä'
+  - '&eja ovat vain jalostusta varten.'
+CLT_PLANT_WAXY:
+  name: Vahakasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Tämän kasvin mahla muodostaa
+  - täydellisen kynttilän muotoista vahaa.
+CLT_PLANT_WEALTH:
+  name: Alkurikkauskasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Kasvi, joka suorastaan huutaa yltäkylläistä vaurautta.
+  - '&eAlkukasvit eivät tuota esineitä'
+  - '&eja ovat vain jalostusta varten.'
+CLT_PLANT_WITCH:
+  name: Noitakasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Kasvi, joka kuulostaa siltä, kuin se
+  - mutisisi hiljaa loitsuja.
+CLT_PLANT_WITHER:
+  name: Wither-kasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Tappava kasvi, jota on käsiteltävä
+  - varoen.
+CLT_PLANT_WITHER_ROSE:
+  name: Wither-ruusukasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Tämä kasvi jotenkin sykkii vahingollista
+  - auraa ympärilleen.
+CLT_PLANT_WITHER_SKELETON:
+  name: Wither-luurankokasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Kasvi, joka tunnetaan vaikeasti tavoitettavana ja sitkeänä.
+CLT_PLANT_WOOLLY:
+  name: Villakasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Villainen kasvi juuresta terälehtiin asti!
+CLT_PLANT_ZOMBIE:
+  name: Zombikasvi
+  type:
+  - '&7&oKasvi'
+  description:
+  - Tästä kasvista tippuu... jotain...
+CLT_RADDISH:
+  name: Retiisi
+  type:
+  - '&7&oSato'
+  description:
+  - Pieniä taskuja raikasta, rapeaa auringonpaistetta.
+CLT_RADICCHIO:
+  name: Radicchio
+  type:
+  - '&7&oSato'
+  description:
+  - Kaiken tämän tarinan kirjoittaminen vie niin kauan.
+  - Ihan radicchiomaista.
+CLT_RAMEN_BEEF:
+  name: Naudanliharamen
+  type:
+  - '&7&oRuoka'
+  description:
+  - Ei-niin-terveellinen valinta.
+  stats: &id004
+  - '&8⇨ &bElinvoiman tehostus I &7(10:00)'
+CLT_RAMEN_BEEF_HEARTY:
+  name: Täyttävä naudanliharamen
+  type:
+  - '&7&oRuoka'
+  description:
+  - Terveellinen valinta.
+  stats: &id005
+  - '&8⇨ &7Parantaa: &bTäysin'
+  - '&8⇨ &bElinvoiman tehostus II &7(10:00)'
+  - '&8⇨ &bNopeus I &7(10:00)'
+CLT_RAMEN_CHICKEN:
+  name: Kanaramen
+  type:
+  - '&7&oRuoka'
+  description:
+  - Ei-niin-täyttävä valinta.
+  stats: *id004
+CLT_RAMEN_CHICKEN_HEARTY:
+  name: Täyttävä kanaramen
+  type:
+  - '&7&oRuoka'
+  description:
+  - Täyttävä valinta.
+  stats: *id005
+CLT_RAMEN_SEAFOOD:
+  name: Mereneläväramen
+  type:
+  - '&7&oRuoka'
+  description:
+  - Ei-niin-tyydyttävä valinta.
+  stats: *id004
+CLT_RAMEN_SEAFOOD_HEARTY:
+  name: Täyttävä mereneläväramen
+  type:
+  - '&7&oRuoka'
+  description:
+  - Tyydyttävä valinta.
+  stats: *id005
+CLT_RAPESEED:
+  name: Rapsi
+  type:
+  - '&7&oSato'
+  description:
+  - Käytetään usein öljyjen valmistukseen.
+CLT_RECIPE_UNLOCK:
+  name: Cultivation-tietokäärö
+  type:
+  - '&7&oTyökalu'
+  description:
+  - Napsauta oikealla oppiaksesi Cultivation-
+  - jalostusreseptin.
+CLT_RHUBARB:
+  name: Raparperi
+  type:
+  - '&7&oSato'
+  description:
+  - Muista vain poistaa lehdet!
+CLT_RICE:
+  name: Riisi
+  type:
+  - '&7&oSato'
+  description:
+  - Muista, elät vain riisin!
+CLT_ROSEMARY:
+  name: Rosmariini
+  type:
+  - '&7&oSato'
+  description:
+  - Ei koskaan ehdi timjamissa.
+CLT_RUNNER_BEANS:
+  name: Ruusupavut
+  type:
+  - '&7&oSato'
+  description:
+  - Yrittää aina karata.
+CLT_RUTABAGA:
+  name: Lanttu
+  type:
+  - '&7&oSato'
+  description:
+  - Oikeasti sattuu olla kutsumatta tätä kaalinauriiksi.
+CLT_SALMON_NIGIRI:
+  name: Lohinigiri
+  type:
+  - '&7&oRuoka'
+  description:
+  - Ihastuttava mutta hienovarainen maku.
+  stats:
+  - '&8⇨ &7Parantaa: &b2 sydäntä'
+  - '&8⇨ &bElpyminen I &7(10:00)'
+CLT_SASSAFRAS:
+  name: Sassafras
+  type:
+  - '&7&oSato'
+  description:
+  - Syötävää root beeriä, googlaa
+  - ihan oikeasti, ostan sitä nyt jatkuvasti.
+CLT_SAUSAGE:
+  name: Makkara
+  type:
+  - '&7&oRuoka'
+  description:
+  - Pekonin veli.
+  stats: &id007
+  - '&8⇨ &7Parantaa: &b1 sydän'
+CLT_SEED_PACK:
+  name: Siemenpussi
+  type:
+  - '&7&oTyökalu'
+  description:
+  - Napsauta oikealla avataksesi tämän pussin.
+  stats:
+  - '&8⇨ &7Asetettu: &bEi mitään'
+CLT_SHAKSHUKA:
+  name: Shakshuka
+  type:
+  - '&7&oRuoka'
+  description:
+  - Sydäntä lämmittävä ruoka, jossa on kananmunia loputtomiin.
+  stats:
+  - '&8⇨ &7Parantaa: &b4 sydäntä'
+  - '&8⇨ &bKylän sankari I &7(10:00)'
+  - '&8⇨ &bOnni I &7(10:00)'
+CLT_SHALLOT:
+  name: Salottisipuli
+  type:
+  - '&7&oSato'
+  description:
+  - Salottisipulia en koskaan salaa rakastavani.
+CLT_SHEPHERDS_PIE:
+  name: Paimenpiiras
+  type:
+  - '&7&oRuoka'
+  description:
+  - Lämmin, täyteläinen ja yksinkertaisesti ihana.
+  stats: *id006
+CLT_SHISO:
+  name: Shiso
+  type:
+  - '&7&oSato'
+  description:
+  - Minttua ja kyljessä rakkautta.
+CLT_SLICED_APPLE:
+  name: Viipaloitu omena
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_APRICOT:
+  name: Viipaloitu aprikoosi
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_ARTICHOKE:
+  name: Viipaloitu artisokka
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_ASPARAGUS:
+  name: Viipaloitu parsa
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_AUBERGINE:
+  name: Viipaloitu munakoiso
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_AVOCADO:
+  name: Viipaloitu avokado
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_BANANA:
+  name: Viipaloitu banaani
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_BASIL:
+  name: Viipaloitu basilika
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_BAY_LEAF:
+  name: Viipaloitu laakerinlehti
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_BEEF:
+  name: Viipaloitu naudanliha
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_BEETROOT:
+  name: Viipaloitu punajuuri
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_BELL_PEPPER:
+  name: Viipaloitu paprika
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_BLACK_BEANS:
+  name: Viipaloidut mustat pavut
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_BREAD:
+  name: Viipaloitu leipä
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_BROCCOLI:
+  name: Viipaloitu parsakaali
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_BROWN_MUSHROOM:
+  name: Viipaloitu ruskea sieni
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_BRUSSELS_SPROUTS:
+  name: Viipaloidut ruusukaalit
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_CABBAGE:
+  name: Viipaloitu kaali
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_CARROT:
+  name: Viipaloitu porkkana
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_CAULIFLOWER:
+  name: Viipaloitu kukkakaali
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_CAYENNE_PEPPER:
+  name: Viipaloitu cayennepippuri
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_CELERIAC:
+  name: Viipaloitu mukulaselleri
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_CELERY:
+  name: Viipaloitu varsiselleri
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_CHERRY:
+  name: Viipaloitu kirsikka
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_CHESTNUT:
+  name: Viipaloitu kastanja
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_CHICKEN:
+  name: Viipaloitu kana
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_CHICKPEAS:
+  name: Viipaloidut kikherneet
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_CHICORY:
+  name: Viipaloitu sikuri
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_CHILLY_PEPPER:
+  name: Viipaloitu chilipippuri
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_CHIVES:
+  name: Viipaloitu ruohosipuli
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_CHORUS_FRUIT:
+  name: Viipaloitu chorus-hedelmä
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_CILANTRO:
+  name: Viipaloitu korianteri
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_CINNAMON:
+  name: Viipaloitu kaneli
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_CLOVE:
+  name: Viipaloitu neilikka
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_COCOA_BEANS:
+  name: Viipaloidut kaakaopavut
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_COD:
+  name: Viipaloitu turska
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_COURGETTE:
+  name: Viipaloitu kesäkurpitsa
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_CUCUMBER:
+  name: Viipaloitu kurkku
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_CUMIN:
+  name: Viipaloitu juustokumina
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_CURRY_LEAF:
+  name: Viipaloitu currynlehti
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_DILL:
+  name: Viipaloitu tilli
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_EGG:
+  name: Viipaloitu kananmuna
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_ENCHANTED_GOLDEN_APPLE:
+  name: Viipaloitu lumottu kultaomena
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_FENNEL:
+  name: Viipaloitu fenkoli
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_GARLIC:
+  name: Viipaloitu valkosipuli
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_GINGER:
+  name: Viipaloitu inkivääri
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_GLOW_BERRIES:
+  name: Viipaloidut hehkumarjat
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_GOLDEN_APPLE:
+  name: Viipaloitu kultaomena
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_GOLDEN_CARROT:
+  name: Viipaloitu kultaporkkana
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_GRAPE:
+  name: Viipaloitu viinirypäle
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_GREEN_APPLE:
+  name: Viipaloitu vihreä omena
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_GREEN_BEANS:
+  name: Viipaloidut tarhapavut
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_GREEN_ONION:
+  name: Viipaloitu kevätsipuli
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_HAZELNUT:
+  name: Viipaloitu hasselpähkinä
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_HORSERADISH:
+  name: Viipaloitu piparjuuri
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_JALAPENO:
+  name: Viipaloitu jalapeno
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_JASMINE:
+  name: Viipaloitu jasmiini
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_JUNIPER_BERRY:
+  name: Viipaloidut katajanmarjat
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_KAFFIR_LIME:
+  name: Viipaloitu kaffirlimetin lehti
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_KALE:
+  name: Viipaloitu lehtikaali
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_KELP:
+  name: Viipaloitu rakkolevä
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_KIWI:
+  name: Viipaloitu kiivi
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_LAVENDER:
+  name: Viipaloitu laventeli
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_LEEK:
+  name: Viipaloitu purjo
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_LEMON:
+  name: Viipaloitu sitruuna
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_LETTUCE:
+  name: Viipaloitu lehtisalaatti
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_LICORICE:
+  name: Viipaloitu lakritsi
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_LIME:
+  name: Viipaloitu limetti
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_MACE:
+  name: Viipaloitu muskottikukka
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_MANGO:
+  name: Viipaloitu mango
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_MARJORAM:
+  name: Viipaloitu meirami
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_MARROW:
+  name: Viipaloitu avomaankurpitsa
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_MELON:
+  name: Viipaloitu meloni
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_MINT:
+  name: Viipaloitu minttu
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_MUSTARD_SEEDS:
+  name: Viipaloidut sinapinsiemenet
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_MUTTON:
+  name: Viipaloitu lampaanliha
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_NETTLES:
+  name: Viipaloidut nokkoset
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_OKRA:
+  name: Viipaloitu okra
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_ONION:
+  name: Viipaloitu sipuli
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_ORANGE:
+  name: Viipaloitu appelsiini
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_OREGANO:
+  name: Viipaloitu oregano
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_PARSLEY:
+  name: Viipaloitu persilja
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_PARSNIP:
+  name: Viipaloitu palsternakka
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_PEA:
+  name: Viipaloidut herneet
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_PEACH:
+  name: Viipaloitu persikka
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_PEANUT:
+  name: Viipaloitu maapähkinä
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_PEAR:
+  name: Viipaloitu päärynä
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_PECAN:
+  name: Viipaloitu pekaanipähkinä
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_PEPPER:
+  name: Viipaloitu mustapippuri
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_PEPPERONI:
+  name: Viipaloitu pepperoni
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_PINEAPPLE:
+  name: Viipaloitu ananas
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_PINTO_BEANS:
+  name: Viipaloidut pintopavut
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_PORKCHOP:
+  name: Viipaloitu porsaankyljys
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_POTATO:
+  name: Viipaloitu peruna
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_PUFFERFISH:
+  name: Viipaloitu pallokala
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_PUMPKIN:
+  name: Viipaloitu kurpitsa
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_RABBIT:
+  name: Viipaloitu jänis
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_RADDISH:
+  name: Viipaloitu retiisi
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_RADICCHIO:
+  name: Viipaloitu radicchio
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_RAPESEED:
+  name: Viipaloitu rapsi
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_RED_MUSHROOM:
+  name: Viipaloitu kärpässieni
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_RHUBARB:
+  name: Viipaloitu raparperi
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_RICE:
+  name: Viipaloitu riisi
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_ROSEMARY:
+  name: Viipaloitu rosmariini
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_ROTTEN_FLESH:
+  name: Viipaloitu mädäntynyt liha
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_RUNNER_BEANS:
+  name: Viipaloidut ruusupavut
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_RUTABAGA:
+  name: Viipaloitu lanttu
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_SALMON:
+  name: Viipaloitu lohi
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_SASSAFRAS:
+  name: Viipaloitu sassafras
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_SHALLOT:
+  name: Viipaloitu salottisipuli
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_SHISO:
+  name: Viipaloitu shiso
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_SOY_BEANS:
+  name: Viipaloidut soijapavut
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_SPINACH:
+  name: Viipaloitu pinaatti
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_STAR_ANISE:
+  name: Viipaloitu tähtianis
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_STRAWBERRY:
+  name: Viipaloitu mansikka
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_SUGAR:
+  name: Viipaloitu sokeri
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_SWEETCORN:
+  name: Viipaloitu maissi
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_SWEET_BERRIES:
+  name: Viipaloidut makeat marjat
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_SWEET_POTATO:
+  name: Viipaloitu bataatti
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_TARRAGON:
+  name: Viipaloitu rakuuna
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_THYME:
+  name: Viipaloitu timjami
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_TOMATO:
+  name: Viipaloitu tomaatti
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_TURMERIC:
+  name: Viipaloitu kurkuma
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_TURNIP:
+  name: Viipaloitu nauris
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_VANILLA:
+  name: Viipaloitu vanilja
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_WASABI:
+  name: Viipaloitu wasabi
+  type:
+  - '&7&oSivutuote'
+CLT_SLICED_WHEAT:
+  name: Viipaloitu vehnä
+  type:
+  - '&7&oSivutuote'
+CLT_SOFT_BOILED_EGG:
+  name: Pehmeäksi keitetty kananmuna
+  type:
+  - '&7&oRuoka'
+  description:
+  - Pelkkä keitetty kananmuna, mitä muuta voi sanoa.
+  stats:
+  - '&8⇨ &7Parantaa: &b1 sydän'
+  - '&8⇨ &7Voi joskus kutsua kanan avuksesi.'
+CLT_SOYLENT:
+  name: Soylent
+  type:
+  - '&7&oRuoka'
+  description:
+  - Kaikki, mitä keho tarvitsee!
+  stats:
+  - '&8⇨ &bPaha enne I &7(10:00)'
+  - '&8⇨ &bHeikkous IV &7(10:00)'
+CLT_SOY_BEANS:
+  name: Soijapavut
+  type:
+  - '&7&oSato'
+  description:
+  - Soijamaito saapuu.
+CLT_SPAGHETTI:
+  name: Spagetti
+  type:
+  - '&7&oRuoka'
+  description:
+  - Jatka vain hörppimistä.
+  stats: *id007
+CLT_SPAGHETTI_AND_MEATBALLS:
+  name: Spagetti ja lihapullat
+  type:
+  - '&7&oRuoka'
+  description:
+  - Yksinkertainen, klassinen ja täyttävä.
+  stats:
+  - '&8⇨ &7Parantaa: &b1 sydän'
+  - '&8⇨ &bPaha enne I &7(10:00)'
+CLT_SPINACH:
+  name: Pinaatti
+  type:
+  - '&7&oSato'
+  description:
+  - Nuutunut rakkaudella.
+CLT_STAR_ANISE:
+  name: Tähtianis
+  type:
+  - '&7&oSato'
+  description:
+  - Yksi parhaista ja ainutlaatuisimmista mauista.
+CLT_STRAWBERRY:
+  name: Mansikka
+  type:
+  - '&7&oSato'
+  description:
+  - Lisää vain kermaa!
+CLT_STRAWBERRY_JELLY:
+  name: Mansikkahyytelö
+  type:
+  - '&7&oSato'
+  description: *id008
+CLT_SUGARED_SKULL:
+  name: Sokerikallo
+  type:
+  - '&7&oRuoka'
+  description:
+  - Onko tämä edes ruokaa...?
+  stats:
+  - '&8⇨ &bPimeys III &7(10:00)'
+CLT_SWEETCORN:
+  name: Maissi
+  type:
+  - '&7&oSato'
+  description:
+  - Ehkä paras vihannes ikinä.
+CLT_SWEET_BEEHIVE:
+  name: Makea mehiläispesä
+  type:
+  - '&7&oRuoka'
+  description:
+  - En tiedä, mikä sai sinut haluamaan kokata tämän!
+  stats:
+  - '&8⇨ &7Kutsuu mehiläisiä!'
+CLT_SWEET_POTATO:
+  name: Bataatti
+  type:
+  - '&7&oSato'
+  description:
+  - Nam nam nam.
+CLT_TAQUITO:
+  name: Taquito
+  type:
+  - '&7&oRuoka'
+  description:
+  - Zim olisi ylpeä!
+  stats:
+  - '&8⇨ &7Parantaa: &b4 sydäntä'
+  - '&8⇨ &7Kutsuu Girin avuksi (se on rautagolemi, rauhoitu).'
+CLT_TARRAGON:
+  name: Rakuuna
+  type:
+  - '&7&oSato'
+  description:
+  - Laitan tätä kirjaimellisesti kaikkeen.
+  - 'Juonipaljastus: En ole hyvä kokki.'
+CLT_TATER_TOTS:
+  name: Perunakroketit
+  type:
+  - '&7&oRuoka'
+  description:
+  - Pieniä perunanapsuja.
+  stats:
+  - '&8⇨ &7Parantaa: &b0.5 sydäntä'
+  - '&8⇨ &bNopeus II &7(10:00)'
+CLT_THYME:
+  name: Timjami
+  type:
+  - '&7&oSato'
+  description:
+  - Rosmariinia on usein ikävä.
+CLT_TOMATO:
+  name: Tomaatti
+  type:
+  - '&7&oSato'
+  description:
+  - Suoraan köynnöksestä.... öh... pensaasta?
+CLT_TORTILLAS:
+  name: Tortillat
+  type:
+  - '&7&oSato'
+  description:
+  - Maissijauhoherkkuja
+CLT_TREE_APRICOT:
+  name: Aprikoosipuu
+  type:
+  - '&7&oTaimi'
+  description:
+  - Sisällä on yksinäinen epätoivon kivi.
+  stats: &id009
+  - '&8⇨ &7Suunnittelija: &bBWhite'
+CLT_TREE_BANANA:
+  name: Banaanipuu
+  type:
+  - '&7&oTaimi'
+  description:
+  - Puu, jolle kasvaa sormia, karmivaa!
+  stats:
+  - '&8⇨ &7Suunnittelija: &bSefiraat'
+CLT_TREE_CHERRY:
+  name: Kirsikkapuu
+  type:
+  - '&7&oTaimi'
+  description:
+  - Solmi solmu!
+  stats:
+  - '&8⇨ &7Suunnittelija: &bReasonFoundDecoy'
+CLT_TREE_CHESTNUT:
+  name: Kastanjapuu
+  type:
+  - '&7&oTaimi'
+  description:
+  - Puu, joka on selvästi tehty kiipeiltäväksi.
+  stats: &id010
+  - '&8⇨ &7Suunnittelija: &bABitOddish'
+CLT_TREE_GREEN_APPLE:
+  name: Vihreä omenapuu
+  type:
+  - '&7&oTaimi'
+  description:
+  - Kasvattaa suuria ja rapeita vihreitä omenoita.
+  stats: *id009
+CLT_TREE_HAZELNUT:
+  name: Hasselpähkinäpuu
+  type:
+  - '&7&oTaimi'
+  description:
+  - Tämän puun ravistelu on lapsuuden ajanviete.
+  stats: *id010
+CLT_TREE_KIWI:
+  name: Kiivipuu
+  type:
+  - '&7&oTaimi'
+  description:
+  - Uusiseelantilainen puu? Menikö oikein?
+  stats: *id010
+CLT_TREE_LEMON:
+  name: Sitruunapuu
+  type:
+  - '&7&oTaimi'
+  description:
+  - Pelkkä tämän puun katsominen maistuu happamalta.
+  stats: &id011
+  - '&8⇨ &7Suunnittelija: &bJeff'
+CLT_TREE_LIME:
+  name: Limettipuu
+  type:
+  - '&7&oTaimi'
+  description:
+  - Tiesitkö, että limetit ovat vain sitruunoita, jotka pidättävät henkeään?
+  stats: *id010
+CLT_TREE_MANGO:
+  name: Mangopuu
+  type:
+  - '&7&oTaimi'
+  description:
+  - Parhaimmillaan kypsimmillään.
+  stats: *id009
+CLT_TREE_ORANGE:
+  name: Appelsiinipuu
+  type:
+  - '&7&oTaimi'
+  description:
+  - Pieniä auringonpaisteen palloja.
+  stats: *id011
+CLT_TREE_PEACH:
+  name: Persikkapuu
+  type:
+  - '&7&oTaimi'
+  description:
+  - James etsi tätä, luulisin?
+  stats: *id010
+CLT_TREE_PEAR:
+  name: Päärynäpuu
+  type:
+  - '&7&oTaimi'
+  description:
+  - Pari päärynää parittiin pariteetin vuoksi.
+  stats: *id009
+CLT_TREE_PECAN:
+  name: Pekaanipuu
+  type:
+  - '&7&oTaimi'
+  description:
+  - Voimmeko kasvattaa tämän puun? Kyllä me pe-kaanimme!
+  stats: *id009
+CLT_TREE_PINEAPPLE:
+  name: Ananaspuu
+  type:
+  - '&7&oTaimi'
+  description:
+  - MISSÄ ON PIZZANI?
+  stats: *id010
+CLT_TURMERIC:
+  name: Kurkuma
+  type:
+  - '&7&oSato'
+  description:
+  - Vahva myskinen sävy, joka täyteläistää monia ruokia.
+CLT_TURNIP:
+  name: Nauris
+  type:
+  - '&7&oSato'
+  description:
+  - Ratkaisee kaikki elämän ongelmat.
+CLT_VANILLA:
+  name: Vanilja
+  type:
+  - '&7&oSato'
+  description:
+  - 'Ohjeet: Dippaa suoraan latteen'
+CLT_WASABI:
+  name: Wasabi
+  type:
+  - '&7&oSato'
+  description:
+  - Apua... wasabi...
+CLT_WITHER_ROSE_SALAD:
+  name: Wither-ruususalaatti
+  type:
+  - '&7&oRuoka'
+  description:
+  - Täynnä voimaa, mutta ankaralla sivuvaikutuksella.
+  stats:
+  - '&8⇨ &7Parantaa: &bTäysin'
+  - '&8⇨ &bKuihtuminen II &7(10:00)'
+  - '&8⇨ &bElinvoiman tehostus XX &7(10:00)'

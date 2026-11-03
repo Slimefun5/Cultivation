@@ -1,0 +1,65 @@
+lore:
+  seed-pack-set-to: Sat til
+  knowledge-script-unlocks: Låser op for
+  drop-level: Drop-niveau
+  growth-speed: Væksthastighed
+  breed-strength: Avlsstyrke
+command:
+  no-permission: Du har ikke tilladelse til at gøre dette.
+  invalid-subcommand: Angiv venligst en gyldig underkommando.
+  players-only: Denne kommando kan kun køres af en spiller.
+  hold-seed-pack: Du skal holde en frøpose for at gøre dette.
+  pack-empty: Denne pose er tom!
+  pack-contents: Indhold
+  pack-entry: Niveau %level%, hastighed %speed%, styrke %strength%
+kitchen:
+  recipe-disabled: Denne opskrift er deaktiveret.
+  no-recipe: Ingen passende opskrift.
+  not-enough-power: Ikke nok strøm.
+  input-empty: Læg en genstand i inputpladsen.
+  cooked: Lækkert!
+food:
+  eaten: Dejligt! Du er helt mæt.
+  not-hungry: Du er ikke sulten endnu! Du kan kun spise én gang hver halve dag (10 minutter).
+  palate-cleansed: Du mærker, hvordan din gane bliver renset.
+  ouch: Av!
+knowledge-script:
+  learned: Du har lært at avle %plant%.
+seed-pack:
+  title: Frøpose
+  unstack-first: Du skal dele dine frøposer op først.
+  not-a-seed: Genstanden skal være et Cultivation-plantefrø.
+  empty-before-change: Du skal tømme en pose, før du skifter dens plante.
+  no-plant-set: Du har ikke valgt en plante endnu.
+  none-stored: Du har ingen af dette frø på disse niveauer.
+  set-here: Vælg frø her
+  retrieve-here: Hent her
+  no-seed-set: Intet frø valgt
+  no-seed-set-lore:
+  - Klik på ikonet til venstre, mens du
+  - holder et frø, for at indstille posen.
+  empty-set: Tomt sæt
+  empty-set-lore:
+  - Du har ingen frø, der matcher
+  - disse niveauer.
+  stored-seed: Gemt frøtype
+  take-seed: Tag et frø fra posen
+  level: Niveau
+  speed: Hastighed
+  strength: Styrke
+  left-click: Venstreklik
+  right-click: Højreklik
+  increase: Øg %stat%
+  decrease: Sænk %stat%
+  current: Nuværende
+codex:
+  title: Plantekodeks
+  child: Afkomsplante
+  mother: Moderplante
+  father: Faderplante
+  growth-rate: Vækstrate
+  not-discovered: Ikke opdaget
+  not-discovered-lore:
+  - Du har endnu ikke opdaget, hvordan
+  - man avler denne plante!
+  discovery: Opdagelse

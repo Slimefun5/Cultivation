@@ -1,0 +1,65 @@
+lore:
+  seed-pack-set-to: Asetettu
+  knowledge-script-unlocks: Avaa
+  drop-level: Pudotustaso
+  growth-speed: Kasvunopeus
+  breed-strength: Jalostusvoima
+command:
+  no-permission: Sinulla ei ole oikeutta tehdä tätä.
+  invalid-subcommand: Anna kelvollinen alikomento.
+  players-only: Vain pelaaja voi suorittaa tämän komennon.
+  hold-seed-pack: Sinulla on oltava siemenpussi kädessäsi.
+  pack-empty: Tämä pussi on tyhjä!
+  pack-contents: Sisältö
+  pack-entry: Taso %level%, nopeus %speed%, voima %strength%
+kitchen:
+  recipe-disabled: Tämä resepti on poistettu käytöstä.
+  no-recipe: Ei sopivaa reseptiä.
+  not-enough-power: Ei tarpeeksi energiaa.
+  input-empty: Laita esine syöttöpaikkaan.
+  cooked: Herkullista!
+food:
+  eaten: Ihanaa! Olet nyt täynnä.
+  not-hungry: Et ole vielä nälkäinen! Voit syödä vain kerran puolessa päivässä (10 minuuttia).
+  palate-cleansed: Tunnet makuhermojesi puhdistuvan.
+  ouch: Auts!
+knowledge-script:
+  learned: Olet oppinut jalostamaan kasvin %plant%.
+seed-pack:
+  title: Siemenpussi
+  unstack-first: Sinun on ensin purettava siemenpussipinosi.
+  not-a-seed: Esineen on oltava Cultivation-kasvin siemen.
+  empty-before-change: Sinun on tyhjennettävä pussi ennen kuin vaihdat sen kasvia.
+  no-plant-set: Et ole vielä asettanut kasvia.
+  none-stored: Sinulla ei ole tätä siementä näillä tasoilla.
+  set-here: Aseta siemen tähän
+  retrieve-here: Nouda tästä
+  no-seed-set: Ei siementä
+  no-seed-set-lore:
+  - Napsauta vasemmalla olevaa kuvaketta
+  - siemen kädessä asettaaksesi pussin.
+  empty-set: Tyhjä valikoima
+  empty-set-lore:
+  - Sinulla ei ole siemeniä, jotka vastaavat
+  - näitä tasoja.
+  stored-seed: Tallennettu siemenlaji
+  take-seed: Ota siemen pussista
+  level: Taso
+  speed: Nopeus
+  strength: Voima
+  left-click: Vasen napsautus
+  right-click: Oikea napsautus
+  increase: 'Lisää: %stat%'
+  decrease: 'Vähennä: %stat%'
+  current: Nykyinen
+codex:
+  title: Kasvikoodeksi
+  child: Jälkeläiskasvi
+  mother: Emokasvi
+  father: Isäkasvi
+  growth-rate: Kasvuvauhti
+  not-discovered: Ei löydetty
+  not-discovered-lore:
+  - Et ole vielä keksinyt, miten
+  - tämä kasvi jalostetaan!
+  discovery: Löytö

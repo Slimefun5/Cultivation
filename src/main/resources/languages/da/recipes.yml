@@ -1,0 +1,87 @@
+cultivation:
+  bush_harvest:
+    name: Buskhøst
+    lore:
+    - Denne genstand kan høstes fra en
+    - Cultivation-busk
+  tree_harvest:
+    name: Træhøst
+    lore:
+    - Denne genstand kan høstes fra et
+    - Cultivation-træ
+  trading_farmer:
+    name: Handel med landsbyboere
+    lore:
+    - Denne genstand kan købes af en
+    - landmand i landsbyen.
+  trading_fletcher:
+    name: Handel med landsbyboere
+    lore:
+    - Denne genstand kan købes af en
+    - pilemager i landsbyen.
+  mob:
+    name: Mob-drop
+    lore:
+    - Denne genstand har en chance for at blive tabt af
+    - følgende mob(s).
+  plant_breeding:
+    name: Planteavl
+    lore:
+    - Dette frø findes gennem avl.
+    - Du avler planter ved at placere
+    - to planter med en luftblok
+    - imellem dem.
+    - ''
+    - Avlsordbogen kan bruges til at
+    - holde styr på dine opdagelser.
+    - ''
+    - 'Tip: Sorte partikler betyder, at de'
+    - to planter IKKE kan avle.
+  vanilla_block_drop:
+    name: Verdensdrop
+    lore:
+    - Falder fra blokke, når de ødelægges i verden.
+  bucketing:
+    name: Verdensdrop
+    lore:
+    - Fås fra verden ved brug af en spand.
+  chopped:
+    name: Hakket
+    lore:
+    - Hak den bare med en kniv!
+  mashed:
+    name: Moset
+    lore:
+    - Mos mos mos
+  blended:
+    name: Blendet
+    lore:
+    - Laves ved at putte en genstand i blenderen.
+  sliced:
+    name: Skiveskåret
+    lore:
+    - Så tynd og sart
+  ground:
+    name: Stødt
+    lore:
+    - Helt fint
+  boiled:
+    name: Kogt
+    lore:
+    - Varm varm varm!
+  fried:
+    name: Stegt
+    lore:
+    - Sprød perfektion.
+  grilled:
+    name: Grillet
+    lore:
+    - Saftig og mør.
+  finishing:
+    name: Anretning
+    lore:
+    - Brug køkkenets anretningsbord til at lave denne genstand.
+  baking:
+    name: Bagning
+    lore:
+    - Brug køkkenets ovnbord til at lave denne genstand.

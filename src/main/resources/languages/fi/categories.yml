@@ -1,0 +1,13 @@
+cultivation:
+  main: Cultivation
+  hidden: Piilotettu
+  crafting: Valmistusesineet
+  tools: Työkalut
+  machines: Koneet
+  plants: Kasvit
+  bushes: Pensaat
+  trees: Puut
+  produce: Sato
+  by-products: Sivutuotteet
+  foods: Ruoat
+  plant_codex: Kasvikoodeksi

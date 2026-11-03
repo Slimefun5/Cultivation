@@ -1,0 +1,6674 @@
+CLT_APRICOT:
+  name: Abrikos
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Man kan lave Pokéballs af dem her.
+  - '...'
+  - Hvad mener du med, at det er noget andet...?
+CLT_ARTICHOKE:
+  name: Artiskok
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Riv dens HJERTE ud!
+CLT_ASPARAGUS:
+  name: Asparges
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Pas på, når du skal på toilettet senere.
+CLT_AUBERGINE:
+  name: Aubergine
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Klar lilla og 100% IKKE ægformet.
+  - Så må den vel hedde en ægplante, ikke?
+CLT_AVOCADO:
+  name: Avocado
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Det, hipstere drømmer om.
+CLT_BACON_SANDWICH:
+  name: Baconsandwich
+  type:
+  - '&7&oMad'
+  description:
+  - En simpel klassiker!
+  stats:
+  - '&8⇨ &7Helbredelse: &b2 hjerter'
+  - '&8⇨ &bStyrke I &7(10:00)'
+  - '&8⇨ &bHastighed I &7(10:00)'
+CLT_BAGEL:
+  name: Bagel
+  type:
+  - '&7&oMad'
+  description:
+  - Ristet? eller...
+  stats:
+  - '&8⇨ &7Helbredelse: &b2.5 hjerter'
+CLT_BAGEL_BITE:
+  name: Bagelbid
+  type:
+  - '&7&oMad'
+  description:
+  - Spis pizza når som helst!
+  stats:
+  - '&8⇨ &7Brænder munden ved hver eneste bid!'
+CLT_BAGEL_CREAM_CHEESE:
+  name: Bagel med flødeost
+  type:
+  - '&7&oMad'
+  description:
+  - Den er så god, at du nok vil have en til.
+  stats:
+  - '&8⇨ &7Helbredelse: &b5 hjerter'
+  - '&8⇨ &bHelbredsboost I &7(10:00)'
+CLT_BANANA:
+  name: Banan
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Den har virkelig en skræl-ende god stil!
+CLT_BASIL:
+  name: Basilikum
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Et sødt blad med en blød, peberagtig eftersmag.
+CLT_BAY_LEAF:
+  name: Laurbærblad
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - En stærk aromat med mange anvendelser.
+CLT_BELL_PEPPER:
+  name: Peberfrugt
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Det ringer virkelig en klokke.
+CLT_BISCUIT:
+  name: Scone
+  type:
+  - '&7&oMad'
+  description:
+  - En lille snack med en kæmpe smag.
+  stats: &id002
+  - '&8⇨ &7Sender dig op i luften'
+CLT_BISCUIT_BASE:
+  name: Sconebund
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Bare fordi den er flad nu, betyder det ikke,
+  - at du kan spise den rå.
+CLT_BISCUIT_DOUGH:
+  name: Sconedej
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - 'Mind bare dig selv om: "Spis den ikke rå."'
+CLT_BLACK_BEANS:
+  name: Sorte bønner
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Et lækkert vegetarisk protein.
+CLT_BLENDED_APPLE:
+  name: Blendet æble
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_APRICOT:
+  name: Blendet abrikos
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_ARTICHOKE:
+  name: Blendet artiskok
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_ASPARAGUS:
+  name: Blendet asparges
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_AUBERGINE:
+  name: Blendet aubergine
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_AVOCADO:
+  name: Blendet avocado
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_BANANA:
+  name: Blendet banan
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_BASIL:
+  name: Blendet basilikum
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_BAY_LEAF:
+  name: Blendet laurbærblad
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_BEEF:
+  name: Blendet oksekød
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_BEETROOT:
+  name: Blendet rødbede
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_BELL_PEPPER:
+  name: Blendet peberfrugt
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_BLACK_BEANS:
+  name: Blendede sorte bønner
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_BREAD:
+  name: Blendet brød
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_BROCCOLI:
+  name: Blendet broccoli
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_BROWN_MUSHROOM:
+  name: Blendet brun svamp
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_BRUSSELS_SPROUTS:
+  name: Blendede rosenkål
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_CABBAGE:
+  name: Blendet kål
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_CARROT:
+  name: Blendet gulerod
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_CAULIFLOWER:
+  name: Blendet blomkål
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_CAYENNE_PEPPER:
+  name: Blendet cayennepeber
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_CELERIAC:
+  name: Blendet knoldselleri
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_CELERY:
+  name: Blendet bladselleri
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_CHERRY:
+  name: Blendet kirsebær
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_CHESTNUT:
+  name: Blendet kastanje
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_CHICKEN:
+  name: Blendet kylling
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_CHICKPEAS:
+  name: Blendede kikærter
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_CHICORY:
+  name: Blendet cikorie
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_CHILLY_PEPPER:
+  name: Blendet chilipeber
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_CHIVES:
+  name: Blendet purløg
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_CHORUS_FRUIT:
+  name: Blendet omkvædsfrugt
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_CILANTRO:
+  name: Blendet koriander
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_CINNAMON:
+  name: Blendet kanel
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_CLOVE:
+  name: Blendet kryddernellike
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_COCOA_BEANS:
+  name: Blendede kakaobønner
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_COD:
+  name: Blendet torsk
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_COURGETTE:
+  name: Blendet squash
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_CUCUMBER:
+  name: Blendet agurk
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_CUMIN:
+  name: Blendet spidskommen
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_CURRY_LEAF:
+  name: Blendet karryblad
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_DILL:
+  name: Blendet dild
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_EGG:
+  name: Blendet æg
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_ENCHANTED_GOLDEN_APPLE:
+  name: Blendet fortryllet gyldent æble
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_FENNEL:
+  name: Blendet fennikel
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_GARLIC:
+  name: Blendet hvidløg
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_GINGER:
+  name: Blendet ingefær
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_GLOW_BERRIES:
+  name: Blendede glødebær
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_GOLDEN_APPLE:
+  name: Blendet gyldent æble
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_GOLDEN_CARROT:
+  name: Blendet gylden gulerod
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_GRAPE:
+  name: Blendet drue
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_GREEN_APPLE:
+  name: Blendet grønt æble
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_GREEN_BEANS:
+  name: Blendede grønne bønner
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_GREEN_ONION:
+  name: Blendet forårsløg
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_HAZELNUT:
+  name: Blendet hasselnød
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_HORSERADISH:
+  name: Blendet peberrod
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_JALAPENO:
+  name: Blendet jalapeño
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_JASMINE:
+  name: Blendet jasmin
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_JUNIPER_BERRY:
+  name: Blendede enebær
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_KAFFIR_LIME:
+  name: Blendet kaffirlimeblad
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_KALE:
+  name: Blendet grønkål
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_KELP:
+  name: Blendet tang
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_KIWI:
+  name: Blendet kiwi
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_LAVENDER:
+  name: Blendet lavendel
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_LEEK:
+  name: Blendet porre
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_LEMON:
+  name: Blendet citron
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_LETTUCE:
+  name: Blendet salat
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_LICORICE:
+  name: Blendet lakrids
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_LIME:
+  name: Blendet lime
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_MACE:
+  name: Blendet muskatblomme
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_MANGO:
+  name: Blendet mango
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_MARJORAM:
+  name: Blendet merian
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_MARROW:
+  name: Blendet marvgræskar
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_MELON:
+  name: Blendet vandmelon
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_MINT:
+  name: Blendet mynte
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_MUSTARD_SEEDS:
+  name: Blendede sennepsfrø
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_MUTTON:
+  name: Blendet fårekød
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_NETTLES:
+  name: Blendede brændenælder
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_OKRA:
+  name: Blendet okra
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_ONION:
+  name: Blendet løg
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_ORANGE:
+  name: Blendet appelsin
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_OREGANO:
+  name: Blendet oregano
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_PARSLEY:
+  name: Blendet persille
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_PARSNIP:
+  name: Blendet pastinak
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_PEA:
+  name: Blendede ærter
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_PEACH:
+  name: Blendet fersken
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_PEANUT:
+  name: Blendet jordnød
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_PEAR:
+  name: Blendet pære
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_PECAN:
+  name: Blendet pekannød
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_PEPPER:
+  name: Blendet sort peber
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_PEPPERONI:
+  name: Blendet pepperoni
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_PINEAPPLE:
+  name: Blendet ananas
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_PINTO_BEANS:
+  name: Blendede pintobønner
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_PORKCHOP:
+  name: Blendet svinekotelet
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_POTATO:
+  name: Blendet kartoffel
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_PUFFERFISH:
+  name: Blendet kuglefisk
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_PUMPKIN:
+  name: Blendet græskar
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_RABBIT:
+  name: Blendet kanin
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_RADDISH:
+  name: Blendet radise
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_RADICCHIO:
+  name: Blendet radicchio
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_RAPESEED:
+  name: Blendet raps
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_RED_MUSHROOM:
+  name: Blendet rød svamp
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_RHUBARB:
+  name: Blendet rabarber
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_RICE:
+  name: Blendet ris
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_ROSEMARY:
+  name: Blendet rosmarin
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_ROTTEN_FLESH:
+  name: Blendet råddent kød
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_RUNNER_BEANS:
+  name: Blendede pralbønner
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_RUTABAGA:
+  name: Blendet kålroe
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_SALMON:
+  name: Blendet laks
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_SASSAFRAS:
+  name: Blendet sassafras
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_SHALLOT:
+  name: Blendet skalotteløg
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_SHISO:
+  name: Blendet shiso
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_SOY_BEANS:
+  name: Blendede sojabønner
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_SPINACH:
+  name: Blendet spinat
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_STAR_ANISE:
+  name: Blendet stjerneanis
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_STRAWBERRY:
+  name: Blendet jordbær
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_SUGAR:
+  name: Blendet sukker
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_SWEETCORN:
+  name: Blendet majs
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_SWEET_BERRIES:
+  name: Blendede søde bær
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_SWEET_POTATO:
+  name: Blendet sød kartoffel
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_TARRAGON:
+  name: Blendet estragon
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_THYME:
+  name: Blendet timian
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_TOMATO:
+  name: Blendet tomat
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_TURMERIC:
+  name: Blendet gurkemeje
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_TURNIP:
+  name: Blendet majroe
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_VANILLA:
+  name: Blendet vanilje
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_WASABI:
+  name: Blendet wasabi
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_WHEAT:
+  name: Blendet hvede
+  type:
+  - '&7&oBiprodukt'
+CLT_BLUE_CANDY:
+  name: Blåt slik
+  type:
+  - '&7&oMad'
+  description:
+  - Et dejligt sødt stykke slik.
+  stats:
+  - '&8⇨ &7Fremkalder en Hjælpeånd'
+CLT_BOILED_APPLE:
+  name: Kogt æble
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_APRICOT:
+  name: Kogt abrikos
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_ARTICHOKE:
+  name: Kogt artiskok
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_ASPARAGUS:
+  name: Kogt asparges
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_AUBERGINE:
+  name: Kogt aubergine
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_AVOCADO:
+  name: Kogt avocado
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_BANANA:
+  name: Kogt banan
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_BASIL:
+  name: Kogt basilikum
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_BAY_LEAF:
+  name: Kogt laurbærblad
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_BEEF:
+  name: Kogt oksekød
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_BEETROOT:
+  name: Kogt rødbede
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_BELL_PEPPER:
+  name: Kogt peberfrugt
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_BLACK_BEANS:
+  name: Kogte sorte bønner
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_BREAD:
+  name: Kogt brød
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_BROCCOLI:
+  name: Kogt broccoli
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_BROWN_MUSHROOM:
+  name: Kogt brun svamp
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_BRUSSELS_SPROUTS:
+  name: Kogte rosenkål
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_CABBAGE:
+  name: Kogt kål
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_CARROT:
+  name: Kogt gulerod
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_CAULIFLOWER:
+  name: Kogt blomkål
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_CAYENNE_PEPPER:
+  name: Kogt cayennepeber
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_CELERIAC:
+  name: Kogt knoldselleri
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_CELERY:
+  name: Kogt bladselleri
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_CHERRY:
+  name: Kogt kirsebær
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_CHESTNUT:
+  name: Kogt kastanje
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_CHICKEN:
+  name: Kogt kylling
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_CHICKPEAS:
+  name: Kogte kikærter
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_CHICORY:
+  name: Kogt cikorie
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_CHILLY_PEPPER:
+  name: Kogt chilipeber
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_CHIVES:
+  name: Kogt purløg
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_CHORUS_FRUIT:
+  name: Kogt omkvædsfrugt
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_CILANTRO:
+  name: Kogt koriander
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_CINNAMON:
+  name: Kogt kanel
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_CLOVE:
+  name: Kogt kryddernellike
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_COCOA_BEANS:
+  name: Kogte kakaobønner
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_COD:
+  name: Kogt torsk
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_COURGETTE:
+  name: Kogt squash
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_CUCUMBER:
+  name: Kogt agurk
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_CUMIN:
+  name: Kogt spidskommen
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_CURRY_LEAF:
+  name: Kogt karryblad
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_DILL:
+  name: Kogt dild
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_EGG:
+  name: Kogt æg
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_ENCHANTED_GOLDEN_APPLE:
+  name: Kogt fortryllet gyldent æble
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_FENNEL:
+  name: Kogt fennikel
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_GARLIC:
+  name: Kogt hvidløg
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_GINGER:
+  name: Kogt ingefær
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_GLOW_BERRIES:
+  name: Kogte glødebær
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_GOLDEN_APPLE:
+  name: Kogt gyldent æble
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_GOLDEN_CARROT:
+  name: Kogt gylden gulerod
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_GRAPE:
+  name: Kogt drue
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_GREEN_APPLE:
+  name: Kogt grønt æble
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_GREEN_BEANS:
+  name: Kogte grønne bønner
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_GREEN_ONION:
+  name: Kogt forårsløg
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_HAZELNUT:
+  name: Kogt hasselnød
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_HORSERADISH:
+  name: Kogt peberrod
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_JALAPENO:
+  name: Kogt jalapeño
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_JASMINE:
+  name: Kogt jasmin
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_JUNIPER_BERRY:
+  name: Kogte enebær
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_KAFFIR_LIME:
+  name: Kogt kaffirlimeblad
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_KALE:
+  name: Kogt grønkål
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_KELP:
+  name: Kogt tang
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_KIWI:
+  name: Kogt kiwi
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_LAVENDER:
+  name: Kogt lavendel
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_LEEK:
+  name: Kogt porre
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_LEMON:
+  name: Kogt citron
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_LETTUCE:
+  name: Kogt salat
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_LICORICE:
+  name: Kogt lakrids
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_LIME:
+  name: Kogt lime
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_MACE:
+  name: Kogt muskatblomme
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_MANGO:
+  name: Kogt mango
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_MARJORAM:
+  name: Kogt merian
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_MARROW:
+  name: Kogt marvgræskar
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_MELON:
+  name: Kogt vandmelon
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_MINT:
+  name: Kogt mynte
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_MUSTARD_SEEDS:
+  name: Kogte sennepsfrø
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_MUTTON:
+  name: Kogt fårekød
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_NETTLES:
+  name: Kogte brændenælder
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_OKRA:
+  name: Kogt okra
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_ONION:
+  name: Kogt løg
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_ORANGE:
+  name: Kogt appelsin
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_OREGANO:
+  name: Kogt oregano
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_PARSLEY:
+  name: Kogt persille
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_PARSNIP:
+  name: Kogt pastinak
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_PEA:
+  name: Kogte ærter
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_PEACH:
+  name: Kogt fersken
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_PEANUT:
+  name: Kogt jordnød
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_PEAR:
+  name: Kogt pære
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_PECAN:
+  name: Kogt pekannød
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_PEPPER:
+  name: Kogt sort peber
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_PEPPERONI:
+  name: Kogt pepperoni
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_PINEAPPLE:
+  name: Kogt ananas
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_PINTO_BEANS:
+  name: Kogte pintobønner
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_PORKCHOP:
+  name: Kogt svinekotelet
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_POTATO:
+  name: Kogt kartoffel
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_PUFFERFISH:
+  name: Kogt kuglefisk
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_PUMPKIN:
+  name: Kogt græskar
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_RABBIT:
+  name: Kogt kanin
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_RADDISH:
+  name: Kogt radise
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_RADICCHIO:
+  name: Kogt radicchio
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_RAPESEED:
+  name: Kogt raps
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_RED_MUSHROOM:
+  name: Kogt rød svamp
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_RHUBARB:
+  name: Kogt rabarber
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_RICE:
+  name: Kogt ris
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_ROSEMARY:
+  name: Kogt rosmarin
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_ROTTEN_FLESH:
+  name: Kogt råddent kød
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_RUNNER_BEANS:
+  name: Kogte pralbønner
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_RUTABAGA:
+  name: Kogt kålroe
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_SALMON:
+  name: Kogt laks
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_SASSAFRAS:
+  name: Kogt sassafras
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_SHALLOT:
+  name: Kogt skalotteløg
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_SHISO:
+  name: Kogt shiso
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_SOY_BEANS:
+  name: Kogte sojabønner
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_SPINACH:
+  name: Kogt spinat
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_STAR_ANISE:
+  name: Kogt stjerneanis
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_STRAWBERRY:
+  name: Kogt jordbær
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_SUGAR:
+  name: Kogt sukker
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_SWEETCORN:
+  name: Kogt majs
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_SWEET_BERRIES:
+  name: Kogte søde bær
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_SWEET_POTATO:
+  name: Kogt sød kartoffel
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_TARRAGON:
+  name: Kogt estragon
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_THYME:
+  name: Kogt timian
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_TOMATO:
+  name: Kogt tomat
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_TURMERIC:
+  name: Kogt gurkemeje
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_TURNIP:
+  name: Kogt majroe
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_VANILLA:
+  name: Kogt vanilje
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_WASABI:
+  name: Kogt wasabi
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_WHEAT:
+  name: Kogt hvede
+  type:
+  - '&7&oBiprodukt'
+CLT_BOWL_OF_STEVE:
+  name: Skål med... Steve?
+  type:
+  - '&7&oMad'
+  description:
+  - Hvad i alverden &%£$
+  stats:
+  - '&8⇨ &bMine træthed X &7(10:00)'
+  - '&8⇨ &bLangsomhed VI &7(10:00)'
+  - '&8⇨ &bStyrke X &7(10:00)'
+  - '&8⇨ &7Sænker dig til 1/2 hjerte'
+CLT_BROCCOLI:
+  name: Broccoli
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Er du en kæmpe, der holder et træ?
+  - Næh, bare et bitte lille træ :)
+CLT_BRUSSELS_SPROUTS:
+  name: Rosenkål
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - En gasfyldt fornøjelse.
+CLT_BUSH_ARTICHOKE:
+  name: Artiskokbusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Halvt artist, halvt kok, helt igennem busk.
+  - Suk. Ordspil er svære.
+CLT_BUSH_ASPARAGUS:
+  name: Aspargesbusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Denne aspargesbusk er rigtig god til
+  - at stilke folk!
+CLT_BUSH_AUBERGINE:
+  name: Auberginebusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Jeg nægter at sige ægplante. Det gør jeg bare.
+CLT_BUSH_AVOCADO:
+  name: Avocadobusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Denne busk er fremavlet specielt til ikke
+  - at bruge for meget vand.
+CLT_BUSH_BASIL:
+  name: Basilikumbusk
+  type:
+  - '&7&oBusk'
+  description:
+  - En letsindig busk fuld af finurligheder.
+CLT_BUSH_BAY_LEAF:
+  name: Laurbærbusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Duften af denne busk rækker milevidt.
+CLT_BUSH_BELL_PEPPER:
+  name: Peberfrugtbusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Pas på, når du går forbi, du kan komme
+  - til at ringe på klokken.
+CLT_BUSH_BLACK_BEANS:
+  name: Sortbønnebusk
+  type:
+  - '&7&oBusk'
+  description:
+  - 'Denne busk hvisker blidt til dig:'
+  - Du er et helt igennem bønnefantastisk menneske.
+CLT_BUSH_BROCCOLI:
+  name: Broccolibusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Små træer, man kan spise? Hvem har opfundet det!?
+CLT_BUSH_BRUSSELS_SPROUTS:
+  name: Rosenkålsbusk
+  type:
+  - '&7&oBusk'
+  description:
+  - En busk, der nogle gange kan udsende giftige
+  - gasser.
+CLT_BUSH_CABBAGE:
+  name: Kålbusk
+  type:
+  - '&7&oBusk'
+  description:
+  - En busk, der slæber rundt på en masse
+  - følelsesmæssig kål-bagage.
+CLT_BUSH_CAULIFLOWER:
+  name: Blomkålsbusk
+  type:
+  - '&7&oBusk'
+  description:
+  - En busk, der kan frembringe små skyer
+  - af fryd.
+CLT_BUSH_CAYENNE_PEPPER:
+  name: Cayennepeberbusk
+  type:
+  - '&7&oBusk'
+  description:
+  - En busk med en peberet attitude.
+CLT_BUSH_CELERIAC:
+  name: Knoldselleribusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Endnu en rod, der vokser på en busk?
+  - SefiDumb™
+CLT_BUSH_CELERY:
+  name: Bladselleribusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Denne busk er overflødig.
+  - Sefi kan ikke lide bladselleri.
+CLT_BUSH_CHICKPEAS:
+  name: Kikærtebusk
+  type:
+  - '&7&oBusk'
+  description:
+  - En busk lavet ved at krydse en kylling med
+  - en ært. VIDENSKAB.
+CLT_BUSH_CHICORY:
+  name: Cikoriebusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Jeg troede, cikorie var en rod? Har dette addon
+  - overhovedet lavet sin research!?
+CLT_BUSH_CHILLI_PEPPER:
+  name: Chilibusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Bare at kigge på denne busk brænder min tunge.
+CLT_BUSH_CHIVES:
+  name: Purløgsbusk
+  type:
+  - '&7&oBusk'
+  description:
+  - En busk, der i praksis producerer verdens
+  - mindste løg.
+CLT_BUSH_CILANTRO:
+  name: Korianderbusk
+  type:
+  - '&7&oBusk'
+  description:
+  - En svag duft af citrus og krydderi kommer fra denne busk.
+CLT_BUSH_CINNAMON:
+  name: Kanelbusk
+  type:
+  - '&7&oBusk'
+  description:
+  - En dejligt duftende busk.
+CLT_BUSH_CLOVE:
+  name: Kryddernellikebusk
+  type:
+  - '&7&oBusk'
+  description:
+  - En busk, der bare minder mig om jul.
+CLT_BUSH_COURGETTE:
+  name: Squashbusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Hvorfor råber denne busk hele tiden ordet
+  - Zucchini? Den må vel være amerikansk?
+CLT_BUSH_CUCUMBER:
+  name: Agurkebusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Denne busk blev udelukkende designet til
+  - dine dejlige sommersalater.
+CLT_BUSH_CUMIN:
+  name: Spidskommenbusk
+  type:
+  - '&7&oBusk'
+  description:
+  - En busk, der udsender en varm citrusduft.
+CLT_BUSH_CURRY_LEAF:
+  name: Karrybusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Bedst, når den er tørristet.
+CLT_BUSH_DILL:
+  name: Dildbusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Denne busk vokser meget hurtigere end andre.
+CLT_BUSH_FENNEL:
+  name: Fennikelbusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Hvorfor holder denne busk insekter væk!?
+CLT_BUSH_GARLIC:
+  name: Hvidløgsbusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Denne busk har simpelthen den værste ånde.
+CLT_BUSH_GINGER:
+  name: Ingefærbusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Denne busk er god, når den koges hel.
+CLT_BUSH_GRAPE:
+  name: Druebusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Modne, saftige druer, der nærmest falder
+  - af busken.
+CLT_BUSH_GREEN_BEANS:
+  name: Grønbønnebusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Hæld tomatsauce over denne busk for at lave
+  - baked beans.
+CLT_BUSH_GREEN_ONION:
+  name: Forårsløgsbusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Også kendt som pibeløg.
+  - Forårsløg har generelt en
+  - mildere smag end de fleste løg.
+CLT_BUSH_HORSERADISH:
+  name: Peberrodsbusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Igen, at den her vokser på en busk giver bare ingen mening.
+CLT_BUSH_JALAPENO:
+  name: Jalapeñobusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Bare at holde denne busk giver dig
+  - 1% chance for at gå i brand.
+CLT_BUSH_JASMINE:
+  name: Jasminbusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Duften fra denne busk er så blød og mild.
+CLT_BUSH_JUNIPER_BERRY:
+  name: Enebærbusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Så sød på busken, så peberet når den er tørret.
+CLT_BUSH_KAFFIR_LIME:
+  name: Kaffirlimebusk
+  type:
+  - '&7&oBusk'
+  description:
+  - En busk, hvis blade er mere eftertragtede end dens frugt.
+CLT_BUSH_KALE:
+  name: Grønkålsbusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Når du planter denne busk, får du en følelse
+  - af, at det hele nok skal gå kål-lossalt godt.
+CLT_BUSH_LAVENDER:
+  name: Lavendelbusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Denne busk spreder sin duft overalt.
+CLT_BUSH_LEEK:
+  name: Porrebusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Vidste du, at en porre bare er et løg, der
+  - går med korset? Sand historie.
+CLT_BUSH_LETTUCE:
+  name: Salatbusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Vokser salat overhovedet på buske?
+  - 'Spoiler: Nej, det gør den ikke.'
+CLT_BUSH_LICORICE:
+  name: Lakridsbusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Ad
+CLT_BUSH_MACE:
+  name: Muskatblommebusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Denne busk ser ud til at holde angribere væk?
+CLT_BUSH_MARJORAM:
+  name: Merianbusk
+  type:
+  - '&7&oBusk'
+  description:
+  - En stor busk med en træagtig duft.
+CLT_BUSH_MARROW:
+  name: Marvgræskarbusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Jeg er overrasket over, at denne busk kan bære
+  - sin egen vægt.
+CLT_BUSH_MINT:
+  name: Myntebusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Simpelthen den bedst duftende busk.
+CLT_BUSH_MUSTARD:
+  name: Sennepsfrøbusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Som ild i munden.
+CLT_BUSH_NETTLES:
+  name: Brændenældebusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Pas på, når du går gennem denne busk!
+CLT_BUSH_OKRA:
+  name: Okrabusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Kåret som grøntsag nummer 1 ifølge
+  - Okra Winfreys Grøntsagsklub.
+CLT_BUSH_ONION:
+  name: Løgbusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Ser denne busk ud, som om den får tårer i øjnene?
+CLT_BUSH_OREGANO:
+  name: Oreganobusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Denne skarpt duftende busk skræmmer gæster væk.
+CLT_BUSH_PARSLEY:
+  name: Persillebusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Smid denne busk i lava, nu :D
+CLT_BUSH_PARSNIP:
+  name: Pastinakbusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Spring mellemleddet over og rist busken
+  - direkte.
+CLT_BUSH_PEA:
+  name: Ærtebusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Jeg foretrækker Q'er
+CLT_BUSH_PEANUTS:
+  name: Jordnøddebusk
+  type:
+  - '&7&oBusk'
+  description: &id001
+  - Fast, duftende og fuld af protein.
+CLT_BUSH_PEPPER:
+  name: Sortpeberbusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Sort peber var en vigtig del af
+  - krydderihandlen mellem Indien og Europa
+  - allerede i græsk og romersk tid.
+CLT_BUSH_PINTO_BEANS:
+  name: Pintobønnebusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Der går nok ikke længe, før vi fremavler
+  - en busk, der giver burritoer direkte, vel?
+CLT_BUSH_RADDISH:
+  name: Radisebusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Denne plante har lige lavet et skateboardtrick.
+  - Helt Rad...ise.
+CLT_BUSH_RADICCHIO:
+  name: Radicchiobusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Vil du lyde fin? Kom radicchio i et hvilket
+  - som helst måltid, det er stort set som kål, men
+  - får dig til at virke kultiveret.
+CLT_BUSH_RAPESEED:
+  name: Rapsbusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Denne busk udskiller et olieagtigt stof.
+CLT_BUSH_RHUBARB:
+  name: Rabarberbusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Vidste du, at rabarber er en grøntsag?
+  - Jeg troede, det var en slags barbermaskine.
+CLT_BUSH_RICE:
+  name: Risbusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Den ultimative basisfødevare.
+CLT_BUSH_ROSEMARY:
+  name: Rosmarinbusk
+  type:
+  - '&7&oBusk'
+  description:
+  - En busk, hvis duft minder folk om søndagsfrokoster.
+CLT_BUSH_RUNNER_BEANS:
+  name: Pralbønnebusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Har denne busk fødder o.o?
+CLT_BUSH_RUTABAGA:
+  name: Kålroebusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Kålroe. Det ER en kålroe.
+CLT_BUSH_SASSAFRAS:
+  name: Sassafrasbusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Denne busk elsker at blive plantet nær små
+  - vandhuller.
+CLT_BUSH_SHALLOT:
+  name: Skalotteløgsbusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Denne busk laver hurtigt dejlige miniløg.
+  - Hvor mange skal du bruge? Skal-otte!
+CLT_BUSH_SHISO:
+  name: Shisobusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Jeg kan godt lide at tro, at denne busk er
+  - kærlighedsbarnet af en myntebusk og en
+  - basilikumbusk. Ærgerligt, at buskavl ikke findes!
+CLT_BUSH_SOY_BEANS:
+  name: Sojabønnebusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Denne busk er en venlig fornøjelse. Den gør
+  - mig soja glad.
+CLT_BUSH_SPINACH:
+  name: Spinatbusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Denne busk er Skipper Skræks bedste ven.
+CLT_BUSH_STAR_ANISE:
+  name: Stjerneanisbusk
+  type:
+  - '&7&oBusk'
+  description:
+  - En duft kommer fra denne busk, så unik
+  - for anis, at du slet ikke kan tro det.
+CLT_BUSH_STRAWBERRY:
+  name: Jordbærbusk
+  type:
+  - '&7&oBusk'
+  description: *id001
+CLT_BUSH_SWEETCORN:
+  name: Majsbusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Denne busk tigger bare om at blive bygget ind
+  - i en labyrint.
+CLT_BUSH_SWEET_POTATO:
+  name: Sødkartoffelbusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Denne busk er bare så sød. Jeg hørte den
+  - rose dig, mens du ikke lyttede efter.
+CLT_BUSH_TARRAGON:
+  name: Estragonbusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Denne busk kan ikke lide at tiltrække for meget opmærksomhed.
+CLT_BUSH_THYME:
+  name: Timianbusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Denne busk har aldrig tid... Timian... *host*
+CLT_BUSH_TOMATO:
+  name: Tomatbusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Moden og klar.
+CLT_BUSH_TURMERIC:
+  name: Gurkemejebusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Et pust af krydderi rammer din næse, bare
+  - du holder denne busk.
+CLT_BUSH_TURNIP:
+  name: Majroebusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Ifølge den britiske regering
+  - vil denne busk løse alle vores problemer.
+CLT_BUSH_VANILLA:
+  name: Vaniljebusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Denne busk vokser naturligt nær StarBucks-caféer.
+CLT_BUSH_WASABI:
+  name: Wasabibusk
+  type:
+  - '&7&oBusk'
+  description:
+  - Endnu en rod, der vokser på en busk?
+  - Suk...
+CLT_CABBAGE:
+  name: Kål
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Et helt kålhoved fuld af bagage.
+CLT_CAESAR_SALAD:
+  name: Cæsarsalat
+  type:
+  - '&7&oMad'
+  description:
+  - En sund klassiker.
+  stats:
+  - '&8⇨ &7Helbredelse: &b6 hjerter'
+  - '&8⇨ &bHastighed I &7(10:00)'
+  - '&8⇨ &bUsynlighed I &7(10:00)'
+  - '&8⇨ &bLangsom fald I &7(10:00)'
+CLT_CAJUN_GARLIC_BUTTER_COD:
+  name: Cajun-torsk med hvidløgssmør
+  type:
+  - '&7&oMad'
+  description:
+  - En meget simpel ret, der bugner af smag.
+  stats:
+  - '&8⇨ &7Helbredelse: &b4 hjerter'
+  - '&8⇨ &bRegenerering II &7(10:00)'
+  - '&8⇨ &bHastighed I &7(10:00)'
+CLT_CAULIFLOWER:
+  name: Blomkål
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - En sky, du kan tage med!
+CLT_CAYENNE_PEPPER:
+  name: Cayennepeber
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - En mild, krydret godbid.
+CLT_CELERIAC:
+  name: Knoldselleri
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - En solid rod, der er rodfæstet (heh) i mange
+  - traditionelle opskrifter.
+CLT_CELERY:
+  name: Bladselleri
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Bogstaveligt talt bare trævlet vand. Overbevis
+  - mig om det modsatte.
+CLT_CHEESE_BURGER:
+  name: Burger
+  type:
+  - '&7&oMad'
+  description:
+  - En simpel cheeseburger, men intet slår den!
+  stats:
+  - '&8⇨ &7Helbredelse: &b4 hjerter'
+  - '&8⇨ &bRegenerering III &7(10:00)'
+CLT_CHEESY_SCALLOPED_COURGETTE:
+  name: Squashgratin med ost
+  type:
+  - '&7&oMad'
+  description:
+  - En lavkulhydratudgave af en fantastisk klassiker.
+  stats:
+  - '&8⇨ &7Helbredelse: &b2 hjerter'
+  - '&8⇨ &bNattesyn I &7(10:00)'
+  - '&8⇨ &bUsynlighed I &7(10:00)'
+CLT_CHERRY:
+  name: Kirsebær
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Åh, jeg troede, de voksede glaserede. Øv!
+CLT_CHESTNUT:
+  name: Kastanje
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Designet til at blive bagt, med det samme.
+CLT_CHICKEN_ALFREDO_MAC_AND_CHEESE:
+  name: Mac and cheese med kylling Alfredo
+  type:
+  - '&7&oMad'
+  description:
+  - Et fornemt twist på en almindelig klassiker.
+  stats:
+  - '&8⇨ &7Helbredelse: &b1 hjerte'
+  - '&8⇨ &bIldmodstand II &7(10:00)'
+  - '&8⇨ &bModstand III &7(10:00)'
+CLT_CHICKEN_PASTA_BAKE:
+  name: Pastagratin med kylling
+  type:
+  - '&7&oMad'
+  description:
+  - En fast del af enhver students kost.
+  stats:
+  - '&8⇨ &7Helbredelse: &b5 hjerter'
+  - '&8⇨ &bNattesyn I &7(10:00)'
+  - '&8⇨ &bGæller I &7(10:00)'
+CLT_CHICKEN_POT_PIE:
+  name: Kyllingetærte
+  type:
+  - '&7&oMad'
+  description:
+  - Et varmende måltid, der virkelig rammer plet.
+  stats:
+  - '&8⇨ &7Helbredelse: &b10 hjerter'
+  - '&8⇨ &bSuperhop II &7(10:00)'
+  - '&8⇨ &bMæthed I &7(10:00)'
+CLT_CHICKPEAS:
+  name: Kikærter
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Black Eyed Peas kan synge en sang, kikærter kan kun hummus-nynne en.
+CLT_CHICORY:
+  name: Cikorie
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - En nøddeagtig, bitter rod.
+CLT_CHILLY_PEPPER:
+  name: Chilipeber
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Jeg kan spise en hel chili uden at græde.
+  - Okay, en halv.
+  - NÅÅÅÅ JAAA.... 1/4
+  - '...'
+  - Ok, jeg kan røre ved en med tungen
+CLT_CHIVES:
+  name: Purløg
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - En sød urt, der smager af løg.
+CLT_CHOPPED_APPLE:
+  name: Hakket æble
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_APRICOT:
+  name: Hakket abrikos
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_ARTICHOKE:
+  name: Hakket artiskok
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_ASPARAGUS:
+  name: Hakket asparges
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_AUBERGINE:
+  name: Hakket aubergine
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_AVOCADO:
+  name: Hakket avocado
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_BANANA:
+  name: Hakket banan
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_BASIL:
+  name: Hakket basilikum
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_BAY_LEAF:
+  name: Hakket laurbærblad
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_BEEF:
+  name: Hakket oksekød
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_BEETROOT:
+  name: Hakket rødbede
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_BELL_PEPPER:
+  name: Hakket peberfrugt
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_BLACK_BEANS:
+  name: Hakkede sorte bønner
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_BREAD:
+  name: Hakket brød
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_BROCCOLI:
+  name: Hakket broccoli
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_BROWN_MUSHROOM:
+  name: Hakket brun svamp
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_BRUSSELS_SPROUTS:
+  name: Hakkede rosenkål
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_CABBAGE:
+  name: Hakket kål
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_CARROT:
+  name: Hakket gulerod
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_CAULIFLOWER:
+  name: Hakket blomkål
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_CAYENNE_PEPPER:
+  name: Hakket cayennepeber
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_CELERIAC:
+  name: Hakket knoldselleri
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_CELERY:
+  name: Hakket bladselleri
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_CHERRY:
+  name: Hakket kirsebær
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_CHESTNUT:
+  name: Hakket kastanje
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_CHICKEN:
+  name: Hakket kylling
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_CHICKPEAS:
+  name: Hakkede kikærter
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_CHICORY:
+  name: Hakket cikorie
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_CHILLY_PEPPER:
+  name: Hakket chilipeber
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_CHIVES:
+  name: Hakket purløg
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_CHORUS_FRUIT:
+  name: Hakket omkvædsfrugt
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_CILANTRO:
+  name: Hakket koriander
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_CINNAMON:
+  name: Hakket kanel
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_CLOVE:
+  name: Hakket kryddernellike
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_COCOA_BEANS:
+  name: Hakkede kakaobønner
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_COD:
+  name: Hakket torsk
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_COURGETTE:
+  name: Hakket squash
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_CUCUMBER:
+  name: Hakket agurk
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_CUMIN:
+  name: Hakket spidskommen
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_CURRY_LEAF:
+  name: Hakket karryblad
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_DILL:
+  name: Hakket dild
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_EGG:
+  name: Hakket æg
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_ENCHANTED_GOLDEN_APPLE:
+  name: Hakket fortryllet gyldent æble
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_FENNEL:
+  name: Hakket fennikel
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_GARLIC:
+  name: Hakket hvidløg
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_GINGER:
+  name: Hakket ingefær
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_GLOW_BERRIES:
+  name: Hakkede glødebær
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_GOLDEN_APPLE:
+  name: Hakket gyldent æble
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_GOLDEN_CARROT:
+  name: Hakket gylden gulerod
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_GRAPE:
+  name: Hakket drue
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_GREEN_APPLE:
+  name: Hakket grønt æble
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_GREEN_BEANS:
+  name: Hakkede grønne bønner
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_GREEN_ONION:
+  name: Hakket forårsløg
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_HAZELNUT:
+  name: Hakket hasselnød
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_HORSERADISH:
+  name: Hakket peberrod
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_JALAPENO:
+  name: Hakket jalapeño
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_JASMINE:
+  name: Hakket jasmin
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_JUNIPER_BERRY:
+  name: Hakkede enebær
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_KAFFIR_LIME:
+  name: Hakket kaffirlimeblad
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_KALE:
+  name: Hakket grønkål
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_KELP:
+  name: Hakket tang
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_KIWI:
+  name: Hakket kiwi
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_LAVENDER:
+  name: Hakket lavendel
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_LEEK:
+  name: Hakket porre
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_LEMON:
+  name: Hakket citron
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_LETTUCE:
+  name: Hakket salat
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_LICORICE:
+  name: Hakket lakrids
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_LIME:
+  name: Hakket lime
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_MACE:
+  name: Hakket muskatblomme
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_MANGO:
+  name: Hakket mango
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_MARJORAM:
+  name: Hakket merian
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_MARROW:
+  name: Hakket marvgræskar
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_MELON:
+  name: Hakket vandmelon
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_MINT:
+  name: Hakket mynte
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_MUSTARD_SEEDS:
+  name: Hakkede sennepsfrø
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_MUTTON:
+  name: Hakket fårekød
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_NETTLES:
+  name: Hakkede brændenælder
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_OKRA:
+  name: Hakket okra
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_ONION:
+  name: Hakket løg
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_ORANGE:
+  name: Hakket appelsin
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_OREGANO:
+  name: Hakket oregano
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_PARSLEY:
+  name: Hakket persille
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_PARSNIP:
+  name: Hakket pastinak
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_PEA:
+  name: Hakkede ærter
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_PEACH:
+  name: Hakket fersken
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_PEANUT:
+  name: Hakket jordnød
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_PEAR:
+  name: Hakket pære
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_PECAN:
+  name: Hakket pekannød
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_PEPPER:
+  name: Hakket sort peber
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_PEPPERONI:
+  name: Hakket pepperoni
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_PINEAPPLE:
+  name: Hakket ananas
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_PINTO_BEANS:
+  name: Hakkede pintobønner
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_PORKCHOP:
+  name: Hakket svinekotelet
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_POTATO:
+  name: Hakket kartoffel
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_PUFFERFISH:
+  name: Hakket kuglefisk
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_PUMPKIN:
+  name: Hakket græskar
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_RABBIT:
+  name: Hakket kanin
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_RADDISH:
+  name: Hakket radise
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_RADICCHIO:
+  name: Hakket radicchio
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_RAPESEED:
+  name: Hakket raps
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_RED_MUSHROOM:
+  name: Hakket rød svamp
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_RHUBARB:
+  name: Hakket rabarber
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_RICE:
+  name: Hakket ris
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_ROSEMARY:
+  name: Hakket rosmarin
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_ROTTEN_FLESH:
+  name: Hakket råddent kød
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_RUNNER_BEANS:
+  name: Hakkede pralbønner
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_RUTABAGA:
+  name: Hakket kålroe
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_SALMON:
+  name: Hakket laks
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_SASSAFRAS:
+  name: Hakket sassafras
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_SHALLOT:
+  name: Hakket skalotteløg
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_SHISO:
+  name: Hakket shiso
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_SOY_BEANS:
+  name: Hakkede sojabønner
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_SPINACH:
+  name: Hakket spinat
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_STAR_ANISE:
+  name: Hakket stjerneanis
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_STRAWBERRY:
+  name: Hakket jordbær
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_SUGAR:
+  name: Hakket sukker
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_SWEETCORN:
+  name: Hakket majs
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_SWEET_BERRIES:
+  name: Hakkede søde bær
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_SWEET_POTATO:
+  name: Hakket sød kartoffel
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_TARRAGON:
+  name: Hakket estragon
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_THYME:
+  name: Hakket timian
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_TOMATO:
+  name: Hakket tomat
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_TURMERIC:
+  name: Hakket gurkemeje
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_TURNIP:
+  name: Hakket majroe
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_VANILLA:
+  name: Hakket vanilje
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_WASABI:
+  name: Hakket wasabi
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_WHEAT:
+  name: Hakket hvede
+  type:
+  - '&7&oBiprodukt'
+CLT_CILANTRO:
+  name: Koriander
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Et mildt krydderi med et strejf af citrus.
+CLT_CINNAMON:
+  name: Kanel
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Skøn at tygge på i stangform.
+CLT_CINNAMON_ROLL:
+  name: Kanelsnegl
+  type:
+  - '&7&oMad'
+  description:
+  - En sød fryd, rullet sammen for sjov.
+  - Når du spiser den, vender verden på hovedet!
+  stats:
+  - '&8⇨ &7Helbredelse: &b4 hjerter'
+  - '&8⇨ &bLevitation I &7(10:00)'
+  - '&8⇨ &bLangsom fald I &7(10:00)'
+CLT_CLOVE:
+  name: Kryddernellike
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - En super varm og intens smag.
+CLT_COMPRESSED_BISCUIT:
+  name: Komprimeret scone
+  type:
+  - '&7&oMad'
+  description:
+  - En lille snack med en endnu kæmpere smag.
+  stats: *id002
+CLT_COOKED_BURGER_PATTY:
+  name: Stegt burgerbøf
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Nærmest dryppende
+CLT_COUNTER_BLENDER:
+  name: Køkkenbord (blender)
+  type:
+  - '&7&oMaskine'
+  description:
+  - Højreklik på denne blok for at blende afgrøder.
+  usage: &id003
+  - Pro-tip! Når den er placeret, kan du shift +
+  - højreklikke, og de blokke, du holder, vil
+  - ændre køkkenets design. Prøv det!
+CLT_COUNTER_BOILING:
+  name: Køkkenbord (kogegryde)
+  type:
+  - '&7&oMaskine'
+  description:
+  - Kan koge visse ting.
+  usage: *id003
+CLT_COUNTER_CHOPPING:
+  name: Køkkenbord (hakkebræt)
+  type:
+  - '&7&oMaskine'
+  description:
+  - Højreklik på denne blok for at hakke afgrøder.
+  usage: *id003
+CLT_COUNTER_FINISHING:
+  name: Køkkenbord (anretning)
+  type:
+  - '&7&oMaskine'
+  description:
+  - Bruges til at lave produkter/biprodukter om til
+  - andre biprodukter eller færdige retter.
+  usage: *id003
+CLT_COUNTER_FRYING:
+  name: Køkkenbord (stegepande)
+  type:
+  - '&7&oMaskine'
+  description:
+  - Kan stege visse afgrøder.
+  usage: *id003
+CLT_COUNTER_GRILL:
+  name: Køkkenbord (grill)
+  type:
+  - '&7&oMaskine'
+  description:
+  - Kan grille visse afgrøder.
+  usage: *id003
+CLT_COUNTER_GRINDER:
+  name: Køkkenbord (morter og støder)
+  type:
+  - '&7&oMaskine'
+  description:
+  - Højreklik på denne blok for at støde afgrøder.
+  usage: *id003
+CLT_COUNTER_MASHER:
+  name: Køkkenbord (moseskål)
+  type:
+  - '&7&oMaskine'
+  description:
+  - Højreklik på denne blok for at mose afgrøder.
+  usage: *id003
+CLT_COUNTER_NOTHING:
+  name: Køkkenbord (tomt)
+  type:
+  - '&7&oMaskine'
+  description:
+  - Kun til pynt!
+  usage: *id003
+CLT_COUNTER_OVEN:
+  name: Køkkenbord (ovn)
+  type:
+  - '&7&oMaskine'
+  description:
+  - Kan bage visse afgrøder.
+  usage: *id003
+CLT_COUNTER_SLICING:
+  name: Køkkenbord (skærebræt)
+  type:
+  - '&7&oMaskine'
+  description:
+  - Højreklik på denne blok for at skære afgrøder i skiver.
+  usage: *id003
+CLT_COURGETTE:
+  name: Squash
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - 'Pro-tip: Riv den ud over en pastasauce'
+  - for dybde og tekstur.
+CLT_CREAM_CHEESE:
+  name: Flødeost
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Mere cremet end ostet.
+CLT_CROP_STICKS:
+  name: Afgrødepinde
+  type:
+  - '&7&oVærktøj'
+  description:
+  - Afgrødepinde skal sættes på et
+  - plantet frø, før det kan gro.
+  - Placerer du et sæt mere, krydses
+  - planten, så den kan sprede sig og/eller
+  - avle.
+CLT_CUCUMBER:
+  name: Agurk
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Vand i en grøn skal. Bevis, at jeg
+  - tager fejl.
+CLT_CUMIN:
+  name: Spidskommen
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - En varm plante med citrusnoter.
+CLT_CURRY_LEAF:
+  name: Karryblad
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Grundlaget for så mange skønne retter.
+CLT_DILL:
+  name: Dild
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Smager bare af græs, synes jeg. Hvorfor
+  - kan folk lide det her?
+CLT_DOUGH:
+  name: Dej
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Bare helt almindelig dej!
+CLT_EGG_SALAD:
+  name: Æggesalat
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Åbn den her i et tog, jeg tør dig!
+CLT_EGG_SALAD_SANDWICH:
+  name: Æggesalatsandwich
+  type:
+  - '&7&oMad'
+  description:
+  - Lugter lidt, men smager fantastisk!
+  stats: &id006
+  - '&8⇨ &7Helbredelse: &b10 hjerter'
+  - '&8⇨ &bRegenerering II &7(10:00)'
+CLT_FENNEL:
+  name: Fennikel
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Som en blanding af anis og lakrids.
+CLT_FRIED_APPLE:
+  name: Stegt æble
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_APRICOT:
+  name: Stegt abrikos
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_ARTICHOKE:
+  name: Stegt artiskok
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_ASPARAGUS:
+  name: Stegt asparges
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_AUBERGINE:
+  name: Stegt aubergine
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_AVOCADO:
+  name: Stegt avocado
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_BANANA:
+  name: Stegt banan
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_BASIL:
+  name: Stegt basilikum
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_BAY_LEAF:
+  name: Stegt laurbærblad
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_BEEF:
+  name: Stegt oksekød
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_BEETROOT:
+  name: Stegt rødbede
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_BELL_PEPPER:
+  name: Stegt peberfrugt
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_BLACK_BEANS:
+  name: Stegte sorte bønner
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_BREAD:
+  name: Stegt brød
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_BROCCOLI:
+  name: Stegt broccoli
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_BROWN_MUSHROOM:
+  name: Stegt brun svamp
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_BRUSSELS_SPROUTS:
+  name: Stegte rosenkål
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_CABBAGE:
+  name: Stegt kål
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_CARROT:
+  name: Stegt gulerod
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_CAULIFLOWER:
+  name: Stegt blomkål
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_CAYENNE_PEPPER:
+  name: Stegt cayennepeber
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_CELERIAC:
+  name: Stegt knoldselleri
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_CELERY:
+  name: Stegt bladselleri
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_CHERRY:
+  name: Stegt kirsebær
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_CHESTNUT:
+  name: Stegt kastanje
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_CHICKEN:
+  name: Stegt kylling
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_CHICKPEAS:
+  name: Stegte kikærter
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_CHICORY:
+  name: Stegt cikorie
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_CHILLY_PEPPER:
+  name: Stegt chilipeber
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_CHIVES:
+  name: Stegt purløg
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_CHORUS_FRUIT:
+  name: Stegt omkvædsfrugt
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_CILANTRO:
+  name: Stegt koriander
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_CINNAMON:
+  name: Stegt kanel
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_CLOVE:
+  name: Stegt kryddernellike
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_COCOA_BEANS:
+  name: Stegte kakaobønner
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_COD:
+  name: Stegt torsk
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_COURGETTE:
+  name: Stegt squash
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_CUCUMBER:
+  name: Stegt agurk
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_CUMIN:
+  name: Stegt spidskommen
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_CURRY_LEAF:
+  name: Stegt karryblad
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_DILL:
+  name: Stegt dild
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_EGG:
+  name: Stegt æg
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_ENCHANTED_GOLDEN_APPLE:
+  name: Stegt fortryllet gyldent æble
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_FENNEL:
+  name: Stegt fennikel
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_GARLIC:
+  name: Stegt hvidløg
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_GINGER:
+  name: Stegt ingefær
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_GLOW_BERRIES:
+  name: Stegte glødebær
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_GOLDEN_APPLE:
+  name: Stegt gyldent æble
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_GOLDEN_CARROT:
+  name: Stegt gylden gulerod
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_GRAPE:
+  name: Stegt drue
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_GREEN_APPLE:
+  name: Stegt grønt æble
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_GREEN_BEANS:
+  name: Stegte grønne bønner
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_GREEN_ONION:
+  name: Stegt forårsløg
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_HAZELNUT:
+  name: Stegt hasselnød
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_HORSERADISH:
+  name: Stegt peberrod
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_JALAPENO:
+  name: Stegt jalapeño
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_JASMINE:
+  name: Stegt jasmin
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_JUNIPER_BERRY:
+  name: Stegte enebær
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_KAFFIR_LIME:
+  name: Stegt kaffirlimeblad
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_KALE:
+  name: Stegt grønkål
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_KELP:
+  name: Stegt tang
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_KIWI:
+  name: Stegt kiwi
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_LAVENDER:
+  name: Stegt lavendel
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_LEEK:
+  name: Stegt porre
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_LEMON:
+  name: Stegt citron
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_LETTUCE:
+  name: Stegt salat
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_LICORICE:
+  name: Stegt lakrids
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_LIME:
+  name: Stegt lime
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_MACE:
+  name: Stegt muskatblomme
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_MANGO:
+  name: Stegt mango
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_MARJORAM:
+  name: Stegt merian
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_MARROW:
+  name: Stegt marvgræskar
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_MELON:
+  name: Stegt vandmelon
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_MINT:
+  name: Stegt mynte
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_MUSTARD_SEEDS:
+  name: Stegte sennepsfrø
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_MUTTON:
+  name: Stegt fårekød
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_NETTLES:
+  name: Stegte brændenælder
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_OKRA:
+  name: Stegt okra
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_ONION:
+  name: Stegt løg
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_ORANGE:
+  name: Stegt appelsin
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_OREGANO:
+  name: Stegt oregano
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_PARSLEY:
+  name: Stegt persille
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_PARSNIP:
+  name: Stegt pastinak
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_PEA:
+  name: Stegte ærter
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_PEACH:
+  name: Stegt fersken
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_PEANUT:
+  name: Stegt jordnød
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_PEAR:
+  name: Stegt pære
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_PECAN:
+  name: Stegt pekannød
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_PEPPER:
+  name: Stegt sort peber
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_PEPPERONI:
+  name: Stegt pepperoni
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_PINEAPPLE:
+  name: Stegt ananas
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_PINTO_BEANS:
+  name: Stegte pintobønner
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_PORKCHOP:
+  name: Stegt svinekotelet
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_POTATO:
+  name: Stegt kartoffel
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_PUFFERFISH:
+  name: Stegt kuglefisk
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_PUMPKIN:
+  name: Stegt græskar
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_RABBIT:
+  name: Stegt kanin
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_RADDISH:
+  name: Stegt radise
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_RADICCHIO:
+  name: Stegt radicchio
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_RAPESEED:
+  name: Stegt raps
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_RED_MUSHROOM:
+  name: Stegt rød svamp
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_RHUBARB:
+  name: Stegt rabarber
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_RICE:
+  name: Stegt ris
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_ROSEMARY:
+  name: Stegt rosmarin
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_ROTTEN_FLESH:
+  name: Stegt råddent kød
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_RUNNER_BEANS:
+  name: Stegte pralbønner
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_RUTABAGA:
+  name: Stegt kålroe
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_SALMON:
+  name: Stegt laks
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_SASSAFRAS:
+  name: Stegt sassafras
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_SHALLOT:
+  name: Stegt skalotteløg
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_SHISO:
+  name: Stegt shiso
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_SOY_BEANS:
+  name: Stegte sojabønner
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_SPINACH:
+  name: Stegt spinat
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_STAR_ANISE:
+  name: Stegt stjerneanis
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_STRAWBERRY:
+  name: Stegt jordbær
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_SUGAR:
+  name: Stegt sukker
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_SWEETCORN:
+  name: Stegt majs
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_SWEET_BERRIES:
+  name: Stegte søde bær
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_SWEET_POTATO:
+  name: Stegt sød kartoffel
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_TARRAGON:
+  name: Stegt estragon
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_THYME:
+  name: Stegt timian
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_TOMATO:
+  name: Stegt tomat
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_TURMERIC:
+  name: Stegt gurkemeje
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_TURNIP:
+  name: Stegt majroe
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_VANILLA:
+  name: Stegt vanilje
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_WASABI:
+  name: Stegt wasabi
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_WHEAT:
+  name: Stegt hvede
+  type:
+  - '&7&oBiprodukt'
+CLT_FRUIT_SALAD:
+  name: Frugtsalat
+  type:
+  - '&7&oMad'
+  description:
+  - Hvis du kalder det en salat, kan du spise så meget,
+  - du vil, for så er det jo sundt.
+  stats:
+  - '&8⇨ &7Helbredelse: &b6 hjerter'
+  - '&8⇨ &bHastighed III &7(10:00)'
+CLT_FUGU:
+  name: Fugu
+  type:
+  - '&7&oMad'
+  description:
+  - Klar til at slå med terningerne?
+  stats:
+  - '&8⇨ &7Helbredelse: &b1 hjerte'
+  - '&8⇨ &bStyrke V &7(10:00)'
+  - '&8⇨ &733% chance for bare at dø!'
+CLT_GARDEN_CLOCHE:
+  name: Haveklokke
+  type:
+  - '&7&oMaskine'
+  description:
+  - Dyrker automatisk planter indeni.
+  stats:
+  - '&8⇨ &7Strøm pr. tick: &b100'
+CLT_GARLIC:
+  name: Hvidløg
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Hurtigt, før vampyrerne kommer!
+CLT_GARLIC_BUTTER_MUSHROOMS:
+  name: Svampe i hvidløgssmør
+  type:
+  - '&7&oMad'
+  description:
+  - Kan nemt være den bedste mad på jorden.
+  stats:
+  - '&8⇨ &7Helbredelse: &b2 hjerter'
+  - '&8⇨ &bStrålende I &7(10:00)'
+CLT_GINGER:
+  name: Ingefær
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Hakket ingefær i kogende vand kurerer alle skavanker!
+CLT_GRAPE:
+  name: Drue
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Så buttet!
+CLT_GRAPE_JELLY:
+  name: Druegelé
+  type:
+  - '&7&oAfgrøde'
+  description: &id008
+  - At spise den med en ske er en strafbar handling.
+CLT_GREEN_APPLE:
+  name: Grønt æble
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - På sedlen står der... Kære lærer?
+CLT_GREEN_BEANS:
+  name: Grønne bønner
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Hvor er det dog kreativt navngivet!
+CLT_GREEN_ONION:
+  name: Forårsløg
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Passer perfekt på tacos!
+CLT_GRILLED_APPLE:
+  name: Grillet æble
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_APRICOT:
+  name: Grillet abrikos
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_ARTICHOKE:
+  name: Grillet artiskok
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_ASPARAGUS:
+  name: Grillet asparges
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_AUBERGINE:
+  name: Grillet aubergine
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_AVOCADO:
+  name: Grillet avocado
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_BANANA:
+  name: Grillet banan
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_BASIL:
+  name: Grillet basilikum
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_BAY_LEAF:
+  name: Grillet laurbærblad
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_BEEF:
+  name: Grillet oksekød
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_BEETROOT:
+  name: Grillet rødbede
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_BELL_PEPPER:
+  name: Grillet peberfrugt
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_BLACK_BEANS:
+  name: Grillede sorte bønner
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_BREAD:
+  name: Grillet brød
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_BROCCOLI:
+  name: Grillet broccoli
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_BROWN_MUSHROOM:
+  name: Grillet brun svamp
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_BRUSSELS_SPROUTS:
+  name: Grillede rosenkål
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_CABBAGE:
+  name: Grillet kål
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_CARROT:
+  name: Grillet gulerod
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_CAULIFLOWER:
+  name: Grillet blomkål
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_CAYENNE_PEPPER:
+  name: Grillet cayennepeber
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_CELERIAC:
+  name: Grillet knoldselleri
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_CELERY:
+  name: Grillet bladselleri
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_CHERRY:
+  name: Grillet kirsebær
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_CHESTNUT:
+  name: Grillet kastanje
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_CHICKEN:
+  name: Grillet kylling
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_CHICKPEAS:
+  name: Grillede kikærter
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_CHICORY:
+  name: Grillet cikorie
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_CHILLY_PEPPER:
+  name: Grillet chilipeber
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_CHIVES:
+  name: Grillet purløg
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_CHORUS_FRUIT:
+  name: Grillet omkvædsfrugt
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_CILANTRO:
+  name: Grillet koriander
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_CINNAMON:
+  name: Grillet kanel
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_CLOVE:
+  name: Grillet kryddernellike
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_COCOA_BEANS:
+  name: Grillede kakaobønner
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_COD:
+  name: Grillet torsk
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_COURGETTE:
+  name: Grillet squash
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_CUCUMBER:
+  name: Grillet agurk
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_CUMIN:
+  name: Grillet spidskommen
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_CURRY_LEAF:
+  name: Grillet karryblad
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_DILL:
+  name: Grillet dild
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_EGG:
+  name: Grillet æg
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_ENCHANTED_GOLDEN_APPLE:
+  name: Grillet fortryllet gyldent æble
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_FENNEL:
+  name: Grillet fennikel
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_GARLIC:
+  name: Grillet hvidløg
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_GINGER:
+  name: Grillet ingefær
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_GLOW_BERRIES:
+  name: Grillede glødebær
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_GOLDEN_APPLE:
+  name: Grillet gyldent æble
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_GOLDEN_CARROT:
+  name: Grillet gylden gulerod
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_GRAPE:
+  name: Grillet drue
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_GREEN_APPLE:
+  name: Grillet grønt æble
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_GREEN_BEANS:
+  name: Grillede grønne bønner
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_GREEN_ONION:
+  name: Grillet forårsløg
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_HAZELNUT:
+  name: Grillet hasselnød
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_HORSERADISH:
+  name: Grillet peberrod
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_JALAPENO:
+  name: Grillet jalapeño
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_JASMINE:
+  name: Grillet jasmin
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_JUNIPER_BERRY:
+  name: Grillede enebær
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_KAFFIR_LIME:
+  name: Grillet kaffirlimeblad
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_KALE:
+  name: Grillet grønkål
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_KELP:
+  name: Grillet tang
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_KIWI:
+  name: Grillet kiwi
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_LAVENDER:
+  name: Grillet lavendel
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_LEEK:
+  name: Grillet porre
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_LEMON:
+  name: Grillet citron
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_LETTUCE:
+  name: Grillet salat
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_LICORICE:
+  name: Grillet lakrids
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_LIME:
+  name: Grillet lime
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_MACE:
+  name: Grillet muskatblomme
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_MANGO:
+  name: Grillet mango
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_MARJORAM:
+  name: Grillet merian
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_MARROW:
+  name: Grillet marvgræskar
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_MELON:
+  name: Grillet vandmelon
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_MINT:
+  name: Grillet mynte
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_MUSTARD_SEEDS:
+  name: Grillede sennepsfrø
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_MUTTON:
+  name: Grillet fårekød
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_NETTLES:
+  name: Grillede brændenælder
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_OKRA:
+  name: Grillet okra
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_ONION:
+  name: Grillet løg
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_ORANGE:
+  name: Grillet appelsin
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_OREGANO:
+  name: Grillet oregano
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_PARSLEY:
+  name: Grillet persille
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_PARSNIP:
+  name: Grillet pastinak
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_PEA:
+  name: Grillede ærter
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_PEACH:
+  name: Grillet fersken
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_PEANUT:
+  name: Grillet jordnød
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_PEAR:
+  name: Grillet pære
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_PECAN:
+  name: Grillet pekannød
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_PEPPER:
+  name: Grillet sort peber
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_PEPPERONI:
+  name: Grillet pepperoni
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_PINEAPPLE:
+  name: Grillet ananas
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_PINTO_BEANS:
+  name: Grillede pintobønner
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_PORKCHOP:
+  name: Grillet svinekotelet
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_POTATO:
+  name: Grillet kartoffel
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_PUFFERFISH:
+  name: Grillet kuglefisk
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_PUMPKIN:
+  name: Grillet græskar
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_RABBIT:
+  name: Grillet kanin
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_RADDISH:
+  name: Grillet radise
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_RADICCHIO:
+  name: Grillet radicchio
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_RAPESEED:
+  name: Grillet raps
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_RED_MUSHROOM:
+  name: Grillet rød svamp
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_RHUBARB:
+  name: Grillet rabarber
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_RICE:
+  name: Grillet ris
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_ROSEMARY:
+  name: Grillet rosmarin
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_ROTTEN_FLESH:
+  name: Grillet råddent kød
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_RUNNER_BEANS:
+  name: Grillede pralbønner
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_RUTABAGA:
+  name: Grillet kålroe
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_SALMON:
+  name: Grillet laks
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_SALMON_SALAD:
+  name: Grillet laksesalat
+  type:
+  - '&7&oMad'
+  description:
+  - Dejligt mør og genialt krydret.
+  stats:
+  - '&8⇨ &7Helbredelse: &b4 hjerter'
+  - '&8⇨ &bRegenerering I &7(10:00)'
+  - '&8⇨ &bHelbredsboost V &7(10:00)'
+CLT_GRILLED_SASSAFRAS:
+  name: Grillet sassafras
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_SHALLOT:
+  name: Grillet skalotteløg
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_SHISO:
+  name: Grillet shiso
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_SOY_BEANS:
+  name: Grillede sojabønner
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_SPINACH:
+  name: Grillet spinat
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_STAR_ANISE:
+  name: Grillet stjerneanis
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_STRAWBERRY:
+  name: Grillet jordbær
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_SUGAR:
+  name: Grillet sukker
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_SWEETCORN:
+  name: Grillet majs
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_SWEET_BERRIES:
+  name: Grillede søde bær
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_SWEET_POTATO:
+  name: Grillet sød kartoffel
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_TARRAGON:
+  name: Grillet estragon
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_THYME:
+  name: Grillet timian
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_TOMATO:
+  name: Grillet tomat
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_TURMERIC:
+  name: Grillet gurkemeje
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_TURNIP:
+  name: Grillet majroe
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_VANILLA:
+  name: Grillet vanilje
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_WASABI:
+  name: Grillet wasabi
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_WHEAT:
+  name: Grillet hvede
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_APPLE:
+  name: Stødt æble
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_APRICOT:
+  name: Stødt abrikos
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_ARTICHOKE:
+  name: Stødt artiskok
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_ASPARAGUS:
+  name: Stødt asparges
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_AUBERGINE:
+  name: Stødt aubergine
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_AVOCADO:
+  name: Stødt avocado
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_BANANA:
+  name: Stødt banan
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_BASIL:
+  name: Stødt basilikum
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_BAY_LEAF:
+  name: Stødt laurbærblad
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_BEEF:
+  name: Stødt oksekød
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_BEETROOT:
+  name: Stødt rødbede
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_BELL_PEPPER:
+  name: Stødt peberfrugt
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_BLACK_BEANS:
+  name: Stødte sorte bønner
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_BREAD:
+  name: Stødt brød
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_BROCCOLI:
+  name: Stødt broccoli
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_BROWN_MUSHROOM:
+  name: Stødt brun svamp
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_BRUSSELS_SPROUTS:
+  name: Stødte rosenkål
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_CABBAGE:
+  name: Stødt kål
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_CARROT:
+  name: Stødt gulerod
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_CAULIFLOWER:
+  name: Stødt blomkål
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_CAYENNE_PEPPER:
+  name: Stødt cayennepeber
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_CELERIAC:
+  name: Stødt knoldselleri
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_CELERY:
+  name: Stødt bladselleri
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_CHERRY:
+  name: Stødt kirsebær
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_CHESTNUT:
+  name: Stødt kastanje
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_CHICKEN:
+  name: Stødt kylling
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_CHICKPEAS:
+  name: Stødte kikærter
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_CHICORY:
+  name: Stødt cikorie
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_CHILLY_PEPPER:
+  name: Stødt chilipeber
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_CHIVES:
+  name: Stødt purløg
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_CHORUS_FRUIT:
+  name: Stødt omkvædsfrugt
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_CILANTRO:
+  name: Stødt koriander
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_CINNAMON:
+  name: Stødt kanel
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_CLOVE:
+  name: Stødt kryddernellike
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_COCOA_BEANS:
+  name: Stødte kakaobønner
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_COD:
+  name: Stødt torsk
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_COURGETTE:
+  name: Stødt squash
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_CUCUMBER:
+  name: Stødt agurk
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_CUMIN:
+  name: Stødt spidskommen
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_CURRY_LEAF:
+  name: Stødt karryblad
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_DILL:
+  name: Stødt dild
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_EGG:
+  name: Stødt æg
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_ENCHANTED_GOLDEN_APPLE:
+  name: Stødt fortryllet gyldent æble
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_FENNEL:
+  name: Stødt fennikel
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_GARLIC:
+  name: Stødt hvidløg
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_GINGER:
+  name: Stødt ingefær
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_GLOW_BERRIES:
+  name: Stødte glødebær
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_GOLDEN_APPLE:
+  name: Stødt gyldent æble
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_GOLDEN_CARROT:
+  name: Stødt gylden gulerod
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_GRAPE:
+  name: Stødt drue
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_GREEN_APPLE:
+  name: Stødt grønt æble
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_GREEN_BEANS:
+  name: Stødte grønne bønner
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_GREEN_ONION:
+  name: Stødt forårsløg
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_HAZELNUT:
+  name: Stødt hasselnød
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_HORSERADISH:
+  name: Stødt peberrod
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_JALAPENO:
+  name: Stødt jalapeño
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_JASMINE:
+  name: Stødt jasmin
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_JUNIPER_BERRY:
+  name: Stødte enebær
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_KAFFIR_LIME:
+  name: Stødt kaffirlimeblad
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_KALE:
+  name: Stødt grønkål
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_KELP:
+  name: Stødt tang
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_KIWI:
+  name: Stødt kiwi
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_LAVENDER:
+  name: Stødt lavendel
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_LEEK:
+  name: Stødt porre
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_LEMON:
+  name: Stødt citron
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_LETTUCE:
+  name: Stødt salat
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_LICORICE:
+  name: Stødt lakrids
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_LIME:
+  name: Stødt lime
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_MACE:
+  name: Stødt muskatblomme
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_MANGO:
+  name: Stødt mango
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_MARJORAM:
+  name: Stødt merian
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_MARROW:
+  name: Stødt marvgræskar
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_MELON:
+  name: Stødt vandmelon
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_MINT:
+  name: Stødt mynte
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_MUSTARD_SEEDS:
+  name: Stødte sennepsfrø
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_MUTTON:
+  name: Stødt fårekød
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_NETTLES:
+  name: Stødte brændenælder
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_OKRA:
+  name: Stødt okra
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_ONION:
+  name: Stødt løg
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_ORANGE:
+  name: Stødt appelsin
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_OREGANO:
+  name: Stødt oregano
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_PARSLEY:
+  name: Stødt persille
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_PARSNIP:
+  name: Stødt pastinak
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_PEA:
+  name: Stødte ærter
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_PEACH:
+  name: Stødt fersken
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_PEANUT:
+  name: Stødt jordnød
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_PEAR:
+  name: Stødt pære
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_PECAN:
+  name: Stødt pekannød
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_PEPPER:
+  name: Stødt sort peber
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_PEPPERONI:
+  name: Stødt pepperoni
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_PINEAPPLE:
+  name: Stødt ananas
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_PINTO_BEANS:
+  name: Stødte pintobønner
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_PORKCHOP:
+  name: Stødt svinekotelet
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_POTATO:
+  name: Stødt kartoffel
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_PUFFERFISH:
+  name: Stødt kuglefisk
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_PUMPKIN:
+  name: Stødt græskar
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_RABBIT:
+  name: Stødt kanin
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_RADDISH:
+  name: Stødt radise
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_RADICCHIO:
+  name: Stødt radicchio
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_RAPESEED:
+  name: Stødt raps
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_RED_MUSHROOM:
+  name: Stødt rød svamp
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_RHUBARB:
+  name: Stødt rabarber
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_RICE:
+  name: Stødt ris
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_ROSEMARY:
+  name: Stødt rosmarin
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_ROTTEN_FLESH:
+  name: Stødt råddent kød
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_RUNNER_BEANS:
+  name: Stødte pralbønner
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_RUTABAGA:
+  name: Stødt kålroe
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_SALMON:
+  name: Stødt laks
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_SASSAFRAS:
+  name: Stødt sassafras
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_SHALLOT:
+  name: Stødt skalotteløg
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_SHISO:
+  name: Stødt shiso
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_SOY_BEANS:
+  name: Stødte sojabønner
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_SPINACH:
+  name: Stødt spinat
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_STAR_ANISE:
+  name: Stødt stjerneanis
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_STRAWBERRY:
+  name: Stødt jordbær
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_SUGAR:
+  name: Stødt sukker
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_SWEETCORN:
+  name: Stødt majs
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_SWEET_BERRIES:
+  name: Stødte søde bær
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_SWEET_POTATO:
+  name: Stødt sød kartoffel
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_TARRAGON:
+  name: Stødt estragon
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_THYME:
+  name: Stødt timian
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_TOMATO:
+  name: Stødt tomat
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_TURMERIC:
+  name: Stødt gurkemeje
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_TURNIP:
+  name: Stødt majroe
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_VANILLA:
+  name: Stødt vanilje
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_WASABI:
+  name: Stødt wasabi
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_WHEAT:
+  name: Stødt hvede
+  type:
+  - '&7&oBiprodukt'
+CLT_HAZELNUT:
+  name: Hasselnød
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Gør, hvad du skal, for at lave det her om til
+  - en kop kaffe til mig, nu!
+CLT_HORSERADISH:
+  name: Peberrod
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - $100, hvis du bider lige ned i den.
+CLT_JALAPENO:
+  name: Jalapeño
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - VARM VARM VARM.
+CLT_JASMINE:
+  name: Jasmin
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Giver en vidunderlig te.
+CLT_JUNIPER_BERRY:
+  name: Enebær
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Tørret til peberet perfektion.
+CLT_KAFFIR_LIME:
+  name: Kaffirlimeblad
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Et blad med en mægtig friskhed.
+CLT_KALE:
+  name: Grønkål
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Hjælp, jeg er en smoothie-hipster fra 2020!
+CLT_KETCHUP:
+  name: Ketchup
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Bare tomater i cremet form.
+CLT_KEY_LIME_PIE:
+  name: Limetærte
+  type:
+  - '&7&oMad'
+  description:
+  - Simpelthen den bedste!
+  stats:
+  - '&8⇨ &7Helbredelse: &b6 hjerter'
+  - '&8⇨ &bHaste IV &7(10:00)'
+CLT_KIWI:
+  name: Kiwi
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Jeg puttede den her i addonnet under tvang.
+  - Kiwier er onde, og enhver, der
+  - bruger dem, mister automatisk
+  - 100 point.
+CLT_LASAGNA:
+  name: Lasagne
+  type:
+  - '&7&oMad'
+  description:
+  - Lag på lag af fedhed.
+  stats:
+  - '&8⇨ &7Helbredelse: &bFuld'
+  - '&8⇨ &bRegenerering II &7(10:00)'
+  - '&8⇨ &bModstand II &7(10:00)'
+CLT_LAVENDER:
+  name: Lavendel
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - En duft, der kan få mig til langsomt at døse hen.
+CLT_LEAVES_TREE_APRICOT:
+  name: Abrikosløv
+  type:
+  - '&7&oLøv'
+CLT_LEAVES_TREE_BANANA:
+  name: Bananløv
+  type:
+  - '&7&oLøv'
+CLT_LEAVES_TREE_CHERRY:
+  name: Kirsebærløv
+  type:
+  - '&7&oLøv'
+CLT_LEAVES_TREE_CHESTNUT:
+  name: Kastanjeløv
+  type:
+  - '&7&oLøv'
+CLT_LEAVES_TREE_GREEN_APPLE:
+  name: Grønt æbleløv
+  type:
+  - '&7&oLøv'
+CLT_LEAVES_TREE_HAZELNUT:
+  name: Hasselnøddeløv
+  type:
+  - '&7&oLøv'
+CLT_LEAVES_TREE_KIWI:
+  name: Kiwiløv
+  type:
+  - '&7&oLøv'
+CLT_LEAVES_TREE_LEMON:
+  name: Citronløv
+  type:
+  - '&7&oLøv'
+CLT_LEAVES_TREE_LIME:
+  name: Limeløv
+  type:
+  - '&7&oLøv'
+CLT_LEAVES_TREE_MANGO:
+  name: Mangoløv
+  type:
+  - '&7&oLøv'
+CLT_LEAVES_TREE_ORANGE:
+  name: Appelsinløv
+  type:
+  - '&7&oLøv'
+CLT_LEAVES_TREE_PEACH:
+  name: Ferskenløv
+  type:
+  - '&7&oLøv'
+CLT_LEAVES_TREE_PEAR:
+  name: Pæreløv
+  type:
+  - '&7&oLøv'
+CLT_LEAVES_TREE_PECAN:
+  name: Pekanløv
+  type:
+  - '&7&oLøv'
+CLT_LEAVES_TREE_PINEAPPLE:
+  name: Ananasløv
+  type:
+  - '&7&oLøv'
+CLT_LEEK:
+  name: Porre
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - af en eller anden grund drypper den med vand?
+  - Måske er den porre-øs?
+CLT_LEMON:
+  name: Citron
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Hvorfor så sur?
+CLT_LEMON_DROP:
+  name: Citronbolsje
+  type:
+  - '&7&oMad'
+  description:
+  - En ganerenser.
+  stats:
+  - '&8⇨ &7Fjerner alle effekter og gør dig sulten igen.'
+CLT_LETTUCE:
+  name: Salat
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Tynd, vandig og alligevel lækker.
+CLT_LICORICE:
+  name: Lakrids
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Løb, løb væk nu!
+CLT_LIME:
+  name: Lime
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Der var engang en lime-lig lækker frugt...
+CLT_MACE:
+  name: Muskatblomme
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Bruges til at sprøjte i ansigtet på angribere.
+  - '...'
+  - Hvad mener du med, at det ikke er den rigtige slags kølle?
+CLT_MANGO:
+  name: Mango
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - MAN, jeg må AFSTED.
+  - Det er svært at skrive lore...
+CLT_MARJORAM:
+  name: Merian
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Jeg har lidt karry-travlt, kan vi snakke senere?
+CLT_MARROW:
+  name: Marvgræskar
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Vidste du, at man finder marv inde
+  - i sine knogler?
+  - Jep, Sefi Klog.
+CLT_MASHED_APPLE:
+  name: Moset æble
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_APRICOT:
+  name: Moset abrikos
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_ARTICHOKE:
+  name: Moset artiskok
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_ASPARAGUS:
+  name: Moset asparges
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_AUBERGINE:
+  name: Moset aubergine
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_AVOCADO:
+  name: Moset avocado
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_BANANA:
+  name: Moset banan
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_BASIL:
+  name: Moset basilikum
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_BAY_LEAF:
+  name: Moset laurbærblad
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_BEEF:
+  name: Moset oksekød
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_BEETROOT:
+  name: Moset rødbede
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_BELL_PEPPER:
+  name: Moset peberfrugt
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_BLACK_BEANS:
+  name: Mosede sorte bønner
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_BREAD:
+  name: Moset brød
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_BROCCOLI:
+  name: Moset broccoli
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_BROWN_MUSHROOM:
+  name: Moset brun svamp
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_BRUSSELS_SPROUTS:
+  name: Mosede rosenkål
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_CABBAGE:
+  name: Moset kål
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_CARROT:
+  name: Moset gulerod
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_CAULIFLOWER:
+  name: Moset blomkål
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_CAYENNE_PEPPER:
+  name: Moset cayennepeber
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_CELERIAC:
+  name: Moset knoldselleri
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_CELERY:
+  name: Moset bladselleri
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_CHERRY:
+  name: Moset kirsebær
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_CHESTNUT:
+  name: Moset kastanje
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_CHICKEN:
+  name: Moset kylling
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_CHICKPEAS:
+  name: Mosede kikærter
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_CHICORY:
+  name: Moset cikorie
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_CHILLY_PEPPER:
+  name: Moset chilipeber
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_CHIVES:
+  name: Moset purløg
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_CHORUS_FRUIT:
+  name: Moset omkvædsfrugt
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_CILANTRO:
+  name: Moset koriander
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_CINNAMON:
+  name: Moset kanel
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_CLOVE:
+  name: Moset kryddernellike
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_COCOA_BEANS:
+  name: Mosede kakaobønner
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_COD:
+  name: Moset torsk
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_COURGETTE:
+  name: Moset squash
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_CUCUMBER:
+  name: Moset agurk
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_CUMIN:
+  name: Moset spidskommen
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_CURRY_LEAF:
+  name: Moset karryblad
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_DILL:
+  name: Moset dild
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_EGG:
+  name: Moset æg
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_ENCHANTED_GOLDEN_APPLE:
+  name: Moset fortryllet gyldent æble
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_FENNEL:
+  name: Moset fennikel
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_GARLIC:
+  name: Moset hvidløg
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_GINGER:
+  name: Moset ingefær
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_GLOW_BERRIES:
+  name: Mosede glødebær
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_GOLDEN_APPLE:
+  name: Moset gyldent æble
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_GOLDEN_CARROT:
+  name: Moset gylden gulerod
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_GRAPE:
+  name: Moset drue
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_GREEN_APPLE:
+  name: Moset grønt æble
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_GREEN_BEANS:
+  name: Mosede grønne bønner
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_GREEN_ONION:
+  name: Moset forårsløg
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_HAZELNUT:
+  name: Moset hasselnød
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_HORSERADISH:
+  name: Moset peberrod
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_JALAPENO:
+  name: Moset jalapeño
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_JASMINE:
+  name: Moset jasmin
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_JUNIPER_BERRY:
+  name: Mosede enebær
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_KAFFIR_LIME:
+  name: Moset kaffirlimeblad
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_KALE:
+  name: Moset grønkål
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_KELP:
+  name: Moset tang
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_KIWI:
+  name: Moset kiwi
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_LAVENDER:
+  name: Moset lavendel
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_LEEK:
+  name: Moset porre
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_LEMON:
+  name: Moset citron
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_LETTUCE:
+  name: Moset salat
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_LICORICE:
+  name: Moset lakrids
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_LIME:
+  name: Moset lime
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_MACE:
+  name: Moset muskatblomme
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_MANGO:
+  name: Moset mango
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_MARJORAM:
+  name: Moset merian
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_MARROW:
+  name: Moset marvgræskar
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_MELON:
+  name: Moset vandmelon
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_MINT:
+  name: Moset mynte
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_MUSTARD_SEEDS:
+  name: Mosede sennepsfrø
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_MUTTON:
+  name: Moset fårekød
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_NETTLES:
+  name: Mosede brændenælder
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_OKRA:
+  name: Moset okra
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_ONION:
+  name: Moset løg
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_ORANGE:
+  name: Moset appelsin
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_OREGANO:
+  name: Moset oregano
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_PARSLEY:
+  name: Moset persille
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_PARSNIP:
+  name: Moset pastinak
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_PEA:
+  name: Mosede ærter
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_PEACH:
+  name: Moset fersken
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_PEANUT:
+  name: Moset jordnød
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_PEAR:
+  name: Moset pære
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_PECAN:
+  name: Moset pekannød
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_PEPPER:
+  name: Moset sort peber
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_PEPPERONI:
+  name: Moset pepperoni
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_PINEAPPLE:
+  name: Moset ananas
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_PINTO_BEANS:
+  name: Mosede pintobønner
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_PORKCHOP:
+  name: Moset svinekotelet
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_POTATO:
+  name: Moset kartoffel
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_PUFFERFISH:
+  name: Moset kuglefisk
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_PUMPKIN:
+  name: Moset græskar
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_RABBIT:
+  name: Moset kanin
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_RADDISH:
+  name: Moset radise
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_RADICCHIO:
+  name: Moset radicchio
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_RAPESEED:
+  name: Moset raps
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_RED_MUSHROOM:
+  name: Moset rød svamp
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_RHUBARB:
+  name: Moset rabarber
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_RICE:
+  name: Moset ris
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_ROSEMARY:
+  name: Moset rosmarin
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_ROTTEN_FLESH:
+  name: Moset råddent kød
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_RUNNER_BEANS:
+  name: Mosede pralbønner
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_RUTABAGA:
+  name: Moset kålroe
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_SALMON:
+  name: Moset laks
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_SASSAFRAS:
+  name: Moset sassafras
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_SHALLOT:
+  name: Moset skalotteløg
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_SHISO:
+  name: Moset shiso
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_SOY_BEANS:
+  name: Mosede sojabønner
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_SPINACH:
+  name: Moset spinat
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_STAR_ANISE:
+  name: Moset stjerneanis
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_STRAWBERRY:
+  name: Moset jordbær
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_SUGAR:
+  name: Moset sukker
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_SWEETCORN:
+  name: Moset majs
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_SWEET_BERRIES:
+  name: Mosede søde bær
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_SWEET_POTATO:
+  name: Moset sød kartoffel
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_TARRAGON:
+  name: Moset estragon
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_THYME:
+  name: Moset timian
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_TOMATO:
+  name: Moset tomat
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_TURMERIC:
+  name: Moset gurkemeje
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_TURNIP:
+  name: Moset majroe
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_VANILLA:
+  name: Moset vanilje
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_WASABI:
+  name: Moset wasabi
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_WHEAT:
+  name: Moset hvede
+  type:
+  - '&7&oBiprodukt'
+CLT_MAYONNAISE:
+  name: Mayonnaise
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - En silkeblød mayo, der passer til næsten alt.
+CLT_MEATBALLS:
+  name: Kødboller
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Kugler af kød, hvem skulle have troet det.
+CLT_MEATLOAF:
+  name: Farsbrød
+  type:
+  - '&7&oMad'
+  description:
+  - Der er intet som den! Kom så.
+  stats:
+  - '&8⇨ &7Helbredelse: &bFuld'
+  - '&8⇨ &bHelbredsboost IV &7(10:00)'
+  - '&8⇨ &bModstand III &7(10:00)'
+  - '&8⇨ &bHaste II &7(10:00)'
+  - '&8⇨ &bLangsomhed II &7(10:00)'
+CLT_MINT:
+  name: Mynte
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Tyg tyg tyg.
+CLT_MUSTARD:
+  name: Sennep
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Den har et lille spark!
+CLT_MUSTARD_SEEDS:
+  name: Sennepsfrø
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Tyg på dem, jeg tør dig!
+CLT_NETTLES:
+  name: Brændenælder
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Tag venligst handsker på, før du holder dem.
+CLT_OKRA:
+  name: Okra
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Dyrkes meget i Okra-homa... ikke, IKKE?
+CLT_ONION:
+  name: Løg
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Vent, hvorfor græder du?
+CLT_ORANGE:
+  name: Appelsin
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Skulle den her ikke være et urværk?
+CLT_ORANGE_JUICE:
+  name: Appelsinjuice
+  type:
+  - '&7&oMad'
+  description:
+  - Det er virkelig den bedste måde at starte dagen på.
+  stats:
+  - '&8⇨ &bHastighed IV &7(10:00)'
+CLT_OREGANO:
+  name: Oregano
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - En klassisk urt, der hører til i ethvert køkkenskab.
+CLT_PARSLEY:
+  name: Persille
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Værste. Urt. Nogensinde.
+CLT_PARSNIP:
+  name: Pastinak
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Skal ristes med det samme.
+CLT_PASTA:
+  name: Pasta
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Bare almindelig pasta, simpelt og alligevel vidunderligt.
+CLT_PEA:
+  name: Ærter
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Findes ofte parvis i en bælg, har jeg hørt.
+CLT_PEACH:
+  name: Fersken
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Vi taler ikke om den emoji
+CLT_PEANUT:
+  name: Jordnød
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Reese's, her kommer jeg!
+CLT_PEANUT_BUTTER:
+  name: Jordnøddesmør
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Kan kun sammenlignes med flydende guld.
+CLT_PEANUT_BUTTER_JELLY_SANDWICH:
+  name: Sandwich med jordnøddesmør og gelé
+  type:
+  - '&7&oMad'
+  description:
+  - Det er virkelig toppen af sandwichteknologien.
+  stats:
+  - '&8⇨ &7Helbredelse: &b5 hjerter'
+  - '&8⇨ &bStyrke III &7(10:00)'
+CLT_PEAR:
+  name: Pære
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Synes du ikke, den her ser pære-fekt ud?
+CLT_PECAN:
+  name: Pekannød
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Den tigger bare om at blive til en tærte.
+CLT_PECAN_PIE:
+  name: Pekannøddetærte
+  type:
+  - '&7&oMad'
+  description:
+  - Den eneste måde at spise rent sukker på uden
+  - at blive totalt dømt.
+  stats:
+  - '&8⇨ &7Helbredelse: &b4 hjerter'
+  - '&8⇨ &bLevitation I &7(10:00)'
+CLT_PEPPER:
+  name: Sort peber
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Mere krydret end salt.
+CLT_PEPPERONI:
+  name: Pepperoni
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Jeg kunne nemt spise en hel stamme af den her.
+CLT_PICO_DE_GALLO:
+  name: Pico de gallo
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - En mild salsa fuld af ren lækkerhed.
+CLT_PIE_CRUST:
+  name: Tærtebund
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Hvis det var lovligt at spise den her alene,
+  - ville det være min primære fødekilde.
+CLT_PINEAPPLE:
+  name: Ananas
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Den her hører hjemme på hver eneste pizza.
+  - Skal vi slås om det!?
+CLT_PINTO_BEANS:
+  name: Pintobønner
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Kaching! Det er burritotid.
+CLT_PIZZA_CHEESE:
+  name: Ostepizza
+  type:
+  - '&7&oMad'
+  description:
+  - Hvorfor nogen bestiller bare ost? Aner det ikke.
+  stats:
+  - '&8⇨ &7Helbredelse: &b4 hjerter'
+  - '&8⇨ &bLangsomhed I &7(10:00)'
+CLT_PIZZA_MUSHROOM:
+  name: Svampepizza
+  type:
+  - '&7&oMad'
+  description:
+  - En simpel vegetarpizza fuld af proteiner.
+  stats:
+  - '&8⇨ &7Helbredelse: &b6 hjerter'
+  - '&8⇨ &bLangsomhed I &7(10:00)'
+  - '&8⇨ &bHaste II &7(10:00)'
+CLT_PIZZA_PEPPERONI:
+  name: Pepperonipizza
+  type:
+  - '&7&oMad'
+  description:
+  - En New York-klassiker fuld af smag.
+  stats:
+  - '&8⇨ &7Helbredelse: &b6 hjerter'
+  - '&8⇨ &bHastighed I &7(10:00)'
+  - '&8⇨ &bHaste I &7(10:00)'
+  - '&8⇨ &bSuperhop I &7(10:00)'
+CLT_PLANT_AIR:
+  name: Urluftplante
+  type:
+  - '&7&oPlante'
+  description:
+  - En plante, der stille nynner med
+  - melodien fra naturen omkring den.
+  - '&eUrplanter giver ingen genstande'
+  - '&eog bruges kun til avl.'
+CLT_PLANT_AMETHYST:
+  name: Ametystplante
+  type:
+  - '&7&oPlante'
+  description:
+  - Denne plante elsker at trives på dybe, mørke
+  - steder.
+CLT_PLANT_ANALYSER:
+  name: Planteanalysator
+  type:
+  - '&7&oVærktøj'
+  description:
+  - Et meget simpelt værktøj, der lader
+  - dig se detaljerne om en voksende plante
+  usage:
+  - '&eHøjreklik&7: Viser dig en plantes art og vækstdetaljer.'
+  - '&eShift-højreklik&7: Viser navnet på en plante eller busk.'
+CLT_PLANT_BASALT:
+  name: Basaltplante
+  type:
+  - '&7&oPlante'
+  description:
+  - En meget kedelig og trist plante.
+CLT_PLANT_BEE:
+  name: Biplante
+  type:
+  - '&7&oPlante'
+  description:
+  - En plante med et meget lille, sart sæt vinger.
+CLT_PLANT_BLACKSTONE:
+  name: Sortstenplante
+  type:
+  - '&7&oPlante'
+  description:
+  - En plante, der er kendt for at opsuge lys.
+CLT_PLANT_BLAZE:
+  name: Blazeplante
+  type:
+  - '&7&oPlante'
+  description:
+  - En plante, der er svedet i kanterne.
+CLT_PLANT_CHICKEN:
+  name: Kyllingeplante
+  type:
+  - '&7&oPlante'
+  description:
+  - Rygtet siger, at hvis du holder dette
+  - frø over hovedet og hopper ned fra et
+  - højt sted, vil du svæve i stedet for
+  - at falde.
+CLT_PLANT_CLAY:
+  name: Lerplante
+  type:
+  - '&7&oPlante'
+  description:
+  - Denne plante kan formes og omformes frit.
+  - Det betyder dog ikke, at det er en god idé
+  - at gøre det!
+CLT_PLANT_COAL:
+  name: Kulplante
+  type:
+  - '&7&oPlante'
+  description:
+  - En plante med et enormt potentiale.
+CLT_PLANT_COBBLESTONE:
+  name: Brostensplante
+  type:
+  - '&7&oPlante'
+  description:
+  - Denne plante er hård som sten.
+CLT_PLANT_CONCRETE:
+  name: Betonplante
+  type:
+  - '&7&oPlante'
+  description:
+  - Denne plante har svært ved at gro, fordi
+  - den hærder så hurtigt.
+CLT_PLANT_COW:
+  name: Koplante
+  type:
+  - '&7&oPlante'
+  description:
+  - Hvis du holder dette frø op til øret
+  - og lytter meget nøje, kan du af og til
+  - høre et svagt brøl af muh.
+CLT_PLANT_CREEPER:
+  name: Creeperplante
+  type:
+  - '&7&oPlante'
+  description:
+  - Tsssssssssttt...
+CLT_PLANT_DARKNESS:
+  name: Urmørkeplante
+  type:
+  - '&7&oPlante'
+  description:
+  - En plante, der syder af tøjlesløst
+  - raseri.
+  - '&eUrplanter giver ingen genstande'
+  - '&eog bruges kun til avl.'
+CLT_PLANT_DARK_FLORA:
+  name: Mørkefloraplante
+  type:
+  - '&7&oPlante'
+  description:
+  - En tavs ondskab gemmer sig i dette simple frø.
+CLT_PLANT_DARK_GRASS:
+  name: Mørkegræsplante
+  type:
+  - '&7&oPlante'
+  description:
+  - En plante, der virkelig har mistet sin
+  - identitet.
+CLT_PLANT_DEEPSLATE:
+  name: Dybskiferplante
+  type:
+  - '&7&oPlante'
+  description:
+  - Dyb, skiferagtig, <indsæt lore her>.
+CLT_PLANT_DIAMOND:
+  name: Diamantplante
+  type:
+  - '&7&oPlante'
+  description:
+  - En plante, der bare emmer af rigdom.
+CLT_PLANT_DIM_LIT:
+  name: Tusmørkeplante
+  type:
+  - '&7&oPlante'
+  description:
+  - Et meget svagt lys stråler inde fra dette frø.
+CLT_PLANT_DIRT:
+  name: Jordplante
+  type:
+  - '&7&oPlante'
+  description:
+  - Beskidt på overfladen, men den rummer
+  - selve livets byggesten.
+CLT_PLANT_DROWNED:
+  name: Draugplante
+  type:
+  - '&7&oPlante'
+  description:
+  - En plante, der er drivvåd, hele
+  - tiden.
+CLT_PLANT_DUSTY:
+  name: Støvplante
+  type:
+  - '&7&oPlante'
+  description:
+  - Denne plante kræver særlig pleje, selv den mindste
+  - kraftige brise kan være nok til at få den til at
+  - falde fra hinanden.
+CLT_PLANT_EARTH:
+  name: Urjordplante
+  type:
+  - '&7&oPlante'
+  description:
+  - En plante, der beriger verden
+  - omkring sig.
+  - '&eUrplanter giver ingen genstande'
+  - '&eog bruges kun til avl.'
+CLT_PLANT_ECHO:
+  name: Ekkoplante
+  type:
+  - '&7&oPlante'
+  description:
+  - Denne plante ved altid, hvordan den finder
+  - vejen hjem.
+CLT_PLANT_ELDER_GUARDIAN:
+  name: Gammelbeskytterplante
+  type:
+  - '&7&oPlante'
+  description:
+  - Folk i nærheden af denne plante bliver
+  - sløve.
+CLT_PLANT_EMERALD:
+  name: Smaragdplante
+  type:
+  - '&7&oPlante'
+  description:
+  - Ejere af denne plante må springe gennem
+  - flere ringe bare for at have råd til den.
+CLT_PLANT_ENDERMAN:
+  name: Endermanplante
+  type:
+  - '&7&oPlante'
+  description:
+  - Hvis den ikke behandles varsomt, kan denne
+  - plante teleportere tilfældigt!
+CLT_PLANT_ENDER_DRAGON:
+  name: Ender-drageplante
+  type:
+  - '&7&oPlante'
+  description:
+  - En rigtig boss af en plante.
+CLT_PLANT_END_STONE:
+  name: End-stensplante
+  type:
+  - '&7&oPlante'
+  description:
+  - En plante, der summer af tomrummet.
+CLT_PLANT_FIRE:
+  name: Urildplante
+  type:
+  - '&7&oPlante'
+  description:
+  - En plante, der både giver kilden
+  - til ødelæggelse og til
+  - genfødsel.
+  - '&eUrplanter giver ingen genstande'
+  - '&eog bruges kun til avl.'
+CLT_PLANT_FISH:
+  name: Fiskeplante
+  type:
+  - '&7&oPlante'
+  description:
+  - En moden duft strømmer ud fra dette frø.
+CLT_PLANT_FLOWER:
+  name: Blomsterplante
+  type:
+  - '&7&oPlante'
+  description:
+  - Et smukt overflødighedshorn, flot anrettet.
+CLT_PLANT_FROG:
+  name: Frøplante
+  type:
+  - '&7&oPlante'
+  description:
+  - Kvæk!
+CLT_PLANT_GHAST:
+  name: Ghastplante
+  type:
+  - '&7&oPlante'
+  description:
+  - En plante, der er kendt for at
+  - skyde ildkugler helt tilfældigt.
+CLT_PLANT_GLASS:
+  name: Glasplante
+  type:
+  - '&7&oPlante'
+  description:
+  - Fra den rette vinkel kunne du
+  - sværge på, at du kan se gennem denne plante.
+CLT_PLANT_GLAZED:
+  name: Glasurplante
+  type:
+  - '&7&oPlante'
+  description:
+  - En plante, der vokser i et indviklet mønster.
+CLT_PLANT_GLOWING_VINE:
+  name: Gløderankeplante
+  type:
+  - '&7&oPlante'
+  description:
+  - Et svagt lys stråler inde fra dette frø.
+CLT_PLANT_GLOW_SQUID:
+  name: Glødesprutteplante
+  type:
+  - '&7&oPlante'
+  description:
+  - En glitrende plante med et svagt skær.
+CLT_PLANT_GOAT:
+  name: Gedeplante
+  type:
+  - '&7&oPlante'
+  description:
+  - En tilfældigt voldelig plante, der elsker
+  - at hoppe rundt.
+CLT_PLANT_GRASS:
+  name: Græsplante
+  type:
+  - '&7&oPlante'
+  description:
+  - Det spirende liv springer frem
+  - fra jorden.
+CLT_PLANT_GRAVEL:
+  name: Grusplante
+  type:
+  - '&7&oPlante'
+  description:
+  - Denne plante har virkelig svært ved
+  - at holde sig selv samlet.
+CLT_PLANT_GUARDIAN:
+  name: Beskytterplante
+  type:
+  - '&7&oPlante'
+  description:
+  - Når den røres, skyder denne plante
+  - pigge ud.
+CLT_PLANT_IGNEOUS:
+  name: Vulkanstenplante
+  type:
+  - '&7&oPlante'
+  description:
+  - Denne plante er formet af varme og
+  - tryk. Se ikke sådan på mig! Alle disse
+  - plantebeskrivelser giver fuldstændig mening.
+CLT_PLANT_LAPIS:
+  name: Lapisplante
+  type:
+  - '&7&oPlante'
+  description:
+  - En plante med en svag magisk aura.
+CLT_PLANT_LIGHT:
+  name: Urlysplante
+  type:
+  - '&7&oPlante'
+  description:
+  - En plante, der udstråler en aura
+  - af ren kærlighed.
+  - '&eUrplanter giver ingen genstande'
+  - '&eog bruges kun til avl.'
+CLT_PLANT_MAGMA:
+  name: Magmaplante
+  type:
+  - '&7&oPlante'
+  description:
+  - En plante, der er så varm, at den brænder
+  - sine omgivelser.
+CLT_PLANT_MAGMA_CUBE:
+  name: Magmakubeplante
+  type:
+  - '&7&oPlante'
+  description:
+  - Når ingen kigger, kan denne plante
+  - godt lide at hoppe op og ned.
+CLT_PLANT_MOSS:
+  name: Mosplante
+  type:
+  - '&7&oPlante'
+  description:
+  - Denne plante har en tendens til at sprede sig ukontrolleret.
+CLT_PLANT_MUD:
+  name: Mudderplante
+  type:
+  - '&7&oPlante'
+  description:
+  - En plante, der er næsten lige så beskidt som
+  - jorden, den kommer fra.
+CLT_PLANT_MUSHROOM:
+  name: Svampeplante
+  type:
+  - '&7&oPlante'
+  description:
+  - Jep, en plante, der laver svampe.
+  - Alt er helt normalt herovre.
+CLT_PLANT_NETHERRACK:
+  name: Netherrackplante
+  type:
+  - '&7&oPlante'
+  description:
+  - En sej, hårdfør plante, der kan overleve
+  - de fleste steder.
+CLT_PLANT_NETHER_QUARTZ:
+  name: Nether-kvartsplante
+  type:
+  - '&7&oPlante'
+  description:
+  - Denne plante har så skarpe torne, at
+  - den er svær at arbejde med.
+CLT_PLANT_PHANTOM:
+  name: Fantomplante
+  type:
+  - '&7&oPlante'
+  description:
+  - En plante med højtsvævende blade.
+CLT_PLANT_PIG:
+  name: Griseplante
+  type:
+  - '&7&oPlante'
+  description:
+  - En plante, der fnyser tilfældigt.
+CLT_PLANT_POWER:
+  name: Urkraftplante
+  type:
+  - '&7&oPlante'
+  description:
+  - En plante, der ligefrem udstråler kraft.
+  - '&eUrplanter giver ingen genstande'
+  - '&eog bruges kun til avl.'
+CLT_PLANT_PURPUR:
+  name: Purpurplante
+  type:
+  - '&7&oPlante'
+  description:
+  - En underlig plante, den virker langt lettere
+  - end de fleste.
+CLT_PLANT_RABBIT:
+  name: Kaninplante
+  type:
+  - '&7&oPlante'
+  description:
+  - Insekterne ville være stolte.
+CLT_PLANT_RAINBOW:
+  name: Regnbueplante
+  type:
+  - '&7&oPlante'
+  description:
+  - Der er måske, måske ikke, en krukke guld
+  - for enden af denne plante.
+CLT_PLANT_RAW_COPPER:
+  name: Råkobberplante
+  type:
+  - '&7&oPlante'
+  description:
+  - Hvis den lades alene, tiltrækker denne plante
+  - nogle gange lynet.
+CLT_PLANT_RAW_GOLD:
+  name: Råguldplante
+  type:
+  - '&7&oPlante'
+  description:
+  - Denne plante bliver tit stjålet af pigliner,
+  - hvis de er i nærheden.
+CLT_PLANT_RAW_IRON:
+  name: Råjernplante
+  type:
+  - '&7&oPlante'
+  description:
+  - En robust plante, der kan modstå de fleste
+  - miljøer.
+CLT_PLANT_REDSTONE:
+  name: Redstoneplante
+  type:
+  - '&7&oPlante'
+  description:
+  - En plante, der bugner af kraft hele vejen igennem.
+CLT_PLANT_RED_SAND:
+  name: Rødsandplante
+  type:
+  - '&7&oPlante'
+  description:
+  - Denne plante kan nogle gange smuldre ved
+  - en enkelt berøring, men... rødere.
+CLT_PLANT_REINFORCED:
+  name: Panserplante
+  type:
+  - '&7&oPlante'
+  description:
+  - En plante, der kan holde sig oprejst
+  - gennem hvad som helst.
+CLT_PLANT_SAND:
+  name: Sandplante
+  type:
+  - '&7&oPlante'
+  description:
+  - Denne plante kan nogle gange smuldre ved
+  - en enkelt berøring.
+CLT_PLANT_SAPLING:
+  name: Skudplante
+  type:
+  - '&7&oPlante'
+  description:
+  - Denne plante giver ikke engang mening...
+CLT_PLANT_SCRAPPY:
+  name: Skrotplante
+  type:
+  - '&7&oPlante'
+  description:
+  - Denne plante er virkelig toppen af
+  - havebrugskunsten.
+CLT_PLANT_SHEEP:
+  name: Fåreplante
+  type:
+  - '&7&oPlante'
+  description:
+  - En plante med en grov, uldet tekstur.
+CLT_PLANT_SHULKER:
+  name: Shulkerplante
+  type:
+  - '&7&oPlante'
+  description:
+  - En plante, der tit svæver op fra
+  - jorden.
+CLT_PLANT_SKELETON:
+  name: Skeletplante
+  type:
+  - '&7&oPlante'
+  description:
+  - En plante, der rasler, når den svajer.
+CLT_PLANT_SLIME:
+  name: Slimplante
+  type:
+  - '&7&oPlante'
+  description:
+  - Hvorfor er den så klistret?
+CLT_PLANT_SOUL:
+  name: Sjæleplante
+  type:
+  - '&7&oPlante'
+  description:
+  - En plante, man kan høre skrige,
+  - når der er stille.
+CLT_PLANT_SPECTRUM:
+  name: Urspektrumplante
+  type:
+  - '&7&oPlante'
+  description:
+  - En plante, der langsomt skifter farve.
+  - '&eUrplanter giver ingen genstande'
+  - '&eog bruges kun til avl.'
+CLT_PLANT_SPIDER:
+  name: Edderkoppeplante
+  type:
+  - '&7&oPlante'
+  description:
+  - Dræb den, dræb den NUUU!
+CLT_PLANT_SQUID:
+  name: Blæksprutteplante
+  type:
+  - '&7&oPlante'
+  description:
+  - Pas på, bare at røre ved denne plante
+  - kan få den til at eksplodere i blæk over
+  - det hele.
+CLT_PLANT_STAINED:
+  name: Farveplante
+  type:
+  - '&7&oPlante'
+  description:
+  - Denne plante spalter lys til et regulært
+  - spektrum på genstande i nærheden.
+CLT_PLANT_TERRA:
+  name: Terraplante
+  type:
+  - '&7&oPlante'
+  description:
+  - En hård, jordagtig plante, der knækker under pres.
+CLT_PLANT_TURTLE:
+  name: Skildpaddeplante
+  type:
+  - '&7&oPlante'
+  description:
+  - Et frø omgivet af en stenhård skal.
+CLT_PLANT_VILLAGER:
+  name: Landsbyboerplante
+  type:
+  - '&7&oPlante'
+  description:
+  - Jep, vi har kondenseret essensen af en landsbyboer
+  - til en plante. Det gjorde åbenbart meget ondt.
+CLT_PLANT_VINE:
+  name: Rankeplante
+  type:
+  - '&7&oPlante'
+  description:
+  - En plante, der straks vikler sig selv
+  - ind i sig selv.
+CLT_PLANT_WATER:
+  name: Urvandplante
+  type:
+  - '&7&oPlante'
+  description:
+  - En plante, der nærer og giver
+  - liv til området omkring den.
+  - '&eUrplanter giver ingen genstande'
+  - '&eog bruges kun til avl.'
+CLT_PLANT_WAXY:
+  name: Voksplante
+  type:
+  - '&7&oPlante'
+  description:
+  - Saften fra denne plante bliver til
+  - voks i perfekt lyseform.
+CLT_PLANT_WEALTH:
+  name: Urrigdomsplante
+  type:
+  - '&7&oPlante'
+  description:
+  - En plante, der bare skriger af overdådig rigdom.
+  - '&eUrplanter giver ingen genstande'
+  - '&eog bruges kun til avl.'
+CLT_PLANT_WITCH:
+  name: Hekseplante
+  type:
+  - '&7&oPlante'
+  description:
+  - En plante, der lyder, som om den stille
+  - mumler besværgelser.
+CLT_PLANT_WITHER:
+  name: Witherplante
+  type:
+  - '&7&oPlante'
+  description:
+  - En dødbringende plante, der skal behandles
+  - med omhu.
+CLT_PLANT_WITHER_ROSE:
+  name: Witherroseplante
+  type:
+  - '&7&oPlante'
+  description:
+  - Denne plante pulserer på en eller anden måde
+  - med en skadelig aura omkring sig.
+CLT_PLANT_WITHER_SKELETON:
+  name: Witherskeletplante
+  type:
+  - '&7&oPlante'
+  description:
+  - En plante, der er kendt for at være flygtig og hårdfør.
+CLT_PLANT_WOOLLY:
+  name: Uldplante
+  type:
+  - '&7&oPlante'
+  description:
+  - En uldet plante, fra rod til kronblade!
+CLT_PLANT_ZOMBIE:
+  name: Zombieplante
+  type:
+  - '&7&oPlante'
+  description:
+  - Denne plante drypper af... noget...
+CLT_RADDISH:
+  name: Radise
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Små lommer af frisk, sprødt solskin.
+CLT_RADICCHIO:
+  name: Radicchio
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Det tager så lang tid at skrive al den lore.
+  - Det er radicchio-løst.
+CLT_RAMEN_BEEF:
+  name: Ramen med oksekød
+  type:
+  - '&7&oMad'
+  description:
+  - Et knap så sundt valg.
+  stats: &id004
+  - '&8⇨ &bHelbredsboost I &7(10:00)'
+CLT_RAMEN_BEEF_HEARTY:
+  name: Mættende ramen med oksekød
+  type:
+  - '&7&oMad'
+  description:
+  - Et sundt valg.
+  stats: &id005
+  - '&8⇨ &7Helbredelse: &bFuld'
+  - '&8⇨ &bHelbredsboost II &7(10:00)'
+  - '&8⇨ &bHastighed I &7(10:00)'
+CLT_RAMEN_CHICKEN:
+  name: Ramen med kylling
+  type:
+  - '&7&oMad'
+  description:
+  - Et knap så mættende valg.
+  stats: *id004
+CLT_RAMEN_CHICKEN_HEARTY:
+  name: Mættende ramen med kylling
+  type:
+  - '&7&oMad'
+  description:
+  - Et mættende valg.
+  stats: *id005
+CLT_RAMEN_SEAFOOD:
+  name: Ramen med skaldyr
+  type:
+  - '&7&oMad'
+  description:
+  - Et knap så tilfredsstillende valg.
+  stats: *id004
+CLT_RAMEN_SEAFOOD_HEARTY:
+  name: Mættende ramen med skaldyr
+  type:
+  - '&7&oMad'
+  description:
+  - Et tilfredsstillende valg.
+  stats: *id005
+CLT_RAPESEED:
+  name: Raps
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Bruges tit til at lave olie.
+CLT_RECIPE_UNLOCK:
+  name: Cultivation-vidensskrift
+  type:
+  - '&7&oVærktøj'
+  description:
+  - Højreklik for at lære en Cultivation-
+  - avlsopskrift.
+CLT_RHUBARB:
+  name: Rabarber
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Husk bare at fjerne bladene!
+CLT_RICE:
+  name: Ris
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Husk, man lever kun ris!
+CLT_ROSEMARY:
+  name: Rosmarin
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Savner tit timian.
+CLT_RUNNER_BEANS:
+  name: Pralbønner
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Prøver altid at stikke af.
+CLT_RUTABAGA:
+  name: Kålroe
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Det gør helt ondt ikke at kalde den en kålroe.
+CLT_SALMON_NIGIRI:
+  name: Laksenigiri
+  type:
+  - '&7&oMad'
+  description:
+  - En dejlig, men diskret smag.
+  stats:
+  - '&8⇨ &7Helbredelse: &b2 hjerter'
+  - '&8⇨ &bRegenerering I &7(10:00)'
+CLT_SASSAFRAS:
+  name: Sassafras
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Spiselig root beer, seriøst, google
+  - det, jeg køber det konstant nu.
+CLT_SAUSAGE:
+  name: Pølse
+  type:
+  - '&7&oMad'
+  description:
+  - Bacons bror.
+  stats: &id007
+  - '&8⇨ &7Helbredelse: &b1 hjerte'
+CLT_SEED_PACK:
+  name: Frøpose
+  type:
+  - '&7&oVærktøj'
+  description:
+  - Højreklik for at åbne denne pose.
+  stats:
+  - '&8⇨ &7Sat til: &bIntet'
+CLT_SHAKSHUKA:
+  name: Shakshuka
+  type:
+  - '&7&oMad'
+  description:
+  - En hjertevarm ret med æg i massevis.
+  stats:
+  - '&8⇨ &7Helbredelse: &b4 hjerter'
+  - '&8⇨ &bLandsbyens helt I &7(10:00)'
+  - '&8⇨ &bHeld I &7(10:00)'
+CLT_SHALLOT:
+  name: Skalotteløg
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Jeg elsker skalotteløg, en hel skal-otte stykker.
+CLT_SHEPHERDS_PIE:
+  name: Hyrdetærte
+  type:
+  - '&7&oMad'
+  description:
+  - Varm, mættende og simpelthen vidunderlig.
+  stats: *id006
+CLT_SHISO:
+  name: Shiso
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Mynte med en side kærlighed.
+CLT_SLICED_APPLE:
+  name: Skiveskåret æble
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_APRICOT:
+  name: Skiveskåret abrikos
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_ARTICHOKE:
+  name: Skiveskåret artiskok
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_ASPARAGUS:
+  name: Skiveskåret asparges
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_AUBERGINE:
+  name: Skiveskåret aubergine
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_AVOCADO:
+  name: Skiveskåret avocado
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_BANANA:
+  name: Skiveskåret banan
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_BASIL:
+  name: Skiveskåret basilikum
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_BAY_LEAF:
+  name: Skiveskåret laurbærblad
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_BEEF:
+  name: Skiveskåret oksekød
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_BEETROOT:
+  name: Skiveskåret rødbede
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_BELL_PEPPER:
+  name: Skiveskåret peberfrugt
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_BLACK_BEANS:
+  name: Skiveskårne sorte bønner
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_BREAD:
+  name: Skiveskåret brød
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_BROCCOLI:
+  name: Skiveskåret broccoli
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_BROWN_MUSHROOM:
+  name: Skiveskåret brun svamp
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_BRUSSELS_SPROUTS:
+  name: Skiveskårne rosenkål
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_CABBAGE:
+  name: Skiveskåret kål
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_CARROT:
+  name: Skiveskåret gulerod
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_CAULIFLOWER:
+  name: Skiveskåret blomkål
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_CAYENNE_PEPPER:
+  name: Skiveskåret cayennepeber
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_CELERIAC:
+  name: Skiveskåret knoldselleri
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_CELERY:
+  name: Skiveskåret bladselleri
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_CHERRY:
+  name: Skiveskåret kirsebær
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_CHESTNUT:
+  name: Skiveskåret kastanje
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_CHICKEN:
+  name: Skiveskåret kylling
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_CHICKPEAS:
+  name: Skiveskårne kikærter
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_CHICORY:
+  name: Skiveskåret cikorie
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_CHILLY_PEPPER:
+  name: Skiveskåret chilipeber
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_CHIVES:
+  name: Skiveskåret purløg
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_CHORUS_FRUIT:
+  name: Skiveskåret omkvædsfrugt
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_CILANTRO:
+  name: Skiveskåret koriander
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_CINNAMON:
+  name: Skiveskåret kanel
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_CLOVE:
+  name: Skiveskåret kryddernellike
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_COCOA_BEANS:
+  name: Skiveskårne kakaobønner
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_COD:
+  name: Skiveskåret torsk
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_COURGETTE:
+  name: Skiveskåret squash
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_CUCUMBER:
+  name: Skiveskåret agurk
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_CUMIN:
+  name: Skiveskåret spidskommen
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_CURRY_LEAF:
+  name: Skiveskåret karryblad
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_DILL:
+  name: Skiveskåret dild
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_EGG:
+  name: Skiveskåret æg
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_ENCHANTED_GOLDEN_APPLE:
+  name: Skiveskåret fortryllet gyldent æble
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_FENNEL:
+  name: Skiveskåret fennikel
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_GARLIC:
+  name: Skiveskåret hvidløg
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_GINGER:
+  name: Skiveskåret ingefær
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_GLOW_BERRIES:
+  name: Skiveskårne glødebær
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_GOLDEN_APPLE:
+  name: Skiveskåret gyldent æble
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_GOLDEN_CARROT:
+  name: Skiveskåret gylden gulerod
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_GRAPE:
+  name: Skiveskåret drue
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_GREEN_APPLE:
+  name: Skiveskåret grønt æble
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_GREEN_BEANS:
+  name: Skiveskårne grønne bønner
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_GREEN_ONION:
+  name: Skiveskåret forårsløg
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_HAZELNUT:
+  name: Skiveskåret hasselnød
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_HORSERADISH:
+  name: Skiveskåret peberrod
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_JALAPENO:
+  name: Skiveskåret jalapeño
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_JASMINE:
+  name: Skiveskåret jasmin
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_JUNIPER_BERRY:
+  name: Skiveskårne enebær
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_KAFFIR_LIME:
+  name: Skiveskåret kaffirlimeblad
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_KALE:
+  name: Skiveskåret grønkål
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_KELP:
+  name: Skiveskåret tang
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_KIWI:
+  name: Skiveskåret kiwi
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_LAVENDER:
+  name: Skiveskåret lavendel
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_LEEK:
+  name: Skiveskåret porre
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_LEMON:
+  name: Skiveskåret citron
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_LETTUCE:
+  name: Skiveskåret salat
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_LICORICE:
+  name: Skiveskåret lakrids
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_LIME:
+  name: Skiveskåret lime
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_MACE:
+  name: Skiveskåret muskatblomme
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_MANGO:
+  name: Skiveskåret mango
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_MARJORAM:
+  name: Skiveskåret merian
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_MARROW:
+  name: Skiveskåret marvgræskar
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_MELON:
+  name: Skiveskåret vandmelon
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_MINT:
+  name: Skiveskåret mynte
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_MUSTARD_SEEDS:
+  name: Skiveskårne sennepsfrø
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_MUTTON:
+  name: Skiveskåret fårekød
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_NETTLES:
+  name: Skiveskårne brændenælder
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_OKRA:
+  name: Skiveskåret okra
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_ONION:
+  name: Skiveskåret løg
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_ORANGE:
+  name: Skiveskåret appelsin
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_OREGANO:
+  name: Skiveskåret oregano
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_PARSLEY:
+  name: Skiveskåret persille
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_PARSNIP:
+  name: Skiveskåret pastinak
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_PEA:
+  name: Skiveskårne ærter
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_PEACH:
+  name: Skiveskåret fersken
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_PEANUT:
+  name: Skiveskåret jordnød
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_PEAR:
+  name: Skiveskåret pære
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_PECAN:
+  name: Skiveskåret pekannød
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_PEPPER:
+  name: Skiveskåret sort peber
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_PEPPERONI:
+  name: Skiveskåret pepperoni
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_PINEAPPLE:
+  name: Skiveskåret ananas
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_PINTO_BEANS:
+  name: Skiveskårne pintobønner
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_PORKCHOP:
+  name: Skiveskåret svinekotelet
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_POTATO:
+  name: Skiveskåret kartoffel
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_PUFFERFISH:
+  name: Skiveskåret kuglefisk
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_PUMPKIN:
+  name: Skiveskåret græskar
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_RABBIT:
+  name: Skiveskåret kanin
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_RADDISH:
+  name: Skiveskåret radise
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_RADICCHIO:
+  name: Skiveskåret radicchio
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_RAPESEED:
+  name: Skiveskåret raps
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_RED_MUSHROOM:
+  name: Skiveskåret rød svamp
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_RHUBARB:
+  name: Skiveskåret rabarber
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_RICE:
+  name: Skiveskåret ris
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_ROSEMARY:
+  name: Skiveskåret rosmarin
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_ROTTEN_FLESH:
+  name: Skiveskåret råddent kød
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_RUNNER_BEANS:
+  name: Skiveskårne pralbønner
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_RUTABAGA:
+  name: Skiveskåret kålroe
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_SALMON:
+  name: Skiveskåret laks
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_SASSAFRAS:
+  name: Skiveskåret sassafras
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_SHALLOT:
+  name: Skiveskåret skalotteløg
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_SHISO:
+  name: Skiveskåret shiso
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_SOY_BEANS:
+  name: Skiveskårne sojabønner
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_SPINACH:
+  name: Skiveskåret spinat
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_STAR_ANISE:
+  name: Skiveskåret stjerneanis
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_STRAWBERRY:
+  name: Skiveskåret jordbær
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_SUGAR:
+  name: Skiveskåret sukker
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_SWEETCORN:
+  name: Skiveskåret majs
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_SWEET_BERRIES:
+  name: Skiveskårne søde bær
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_SWEET_POTATO:
+  name: Skiveskåret sød kartoffel
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_TARRAGON:
+  name: Skiveskåret estragon
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_THYME:
+  name: Skiveskåret timian
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_TOMATO:
+  name: Skiveskåret tomat
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_TURMERIC:
+  name: Skiveskåret gurkemeje
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_TURNIP:
+  name: Skiveskåret majroe
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_VANILLA:
+  name: Skiveskåret vanilje
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_WASABI:
+  name: Skiveskåret wasabi
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_WHEAT:
+  name: Skiveskåret hvede
+  type:
+  - '&7&oBiprodukt'
+CLT_SOFT_BOILED_EGG:
+  name: Blødkogt æg
+  type:
+  - '&7&oMad'
+  description:
+  - Bare et kogt æg, hvad mere er der at sige.
+  stats:
+  - '&8⇨ &7Helbredelse: &b1 hjerte'
+  - '&8⇨ &7Kan nogle gange tilkalde en kylling til hjælp.'
+CLT_SOYLENT:
+  name: Soylent
+  type:
+  - '&7&oMad'
+  description:
+  - Alt, hvad kroppen har brug for!
+  stats:
+  - '&8⇨ &bDårligt tegn I &7(10:00)'
+  - '&8⇨ &bSvaghed IV &7(10:00)'
+CLT_SOY_BEANS:
+  name: Sojabønner
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Sojamælken kommer.
+CLT_SPAGHETTI:
+  name: Spaghetti
+  type:
+  - '&7&oMad'
+  description:
+  - Bare bliv ved med at slubre.
+  stats: *id007
+CLT_SPAGHETTI_AND_MEATBALLS:
+  name: Spaghetti med kødboller
+  type:
+  - '&7&oMad'
+  description:
+  - Simpel, klassisk og mættende.
+  stats:
+  - '&8⇨ &7Helbredelse: &b1 hjerte'
+  - '&8⇨ &bDårligt tegn I &7(10:00)'
+CLT_SPINACH:
+  name: Spinat
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Visnet med kærlighed.
+CLT_STAR_ANISE:
+  name: Stjerneanis
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - En af de bedste og mest unikke smage.
+CLT_STRAWBERRY:
+  name: Jordbær
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Tilsæt bare fløde!
+CLT_STRAWBERRY_JELLY:
+  name: Jordbærgelé
+  type:
+  - '&7&oAfgrøde'
+  description: *id008
+CLT_SUGARED_SKULL:
+  name: Sukkerkranie
+  type:
+  - '&7&oMad'
+  description:
+  - Er det her overhovedet mad...?
+  stats:
+  - '&8⇨ &bMørke III &7(10:00)'
+CLT_SWEETCORN:
+  name: Majs
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Måske den bedste grøntsag, der findes.
+CLT_SWEET_BEEHIVE:
+  name: Sød bikube
+  type:
+  - '&7&oMad'
+  description:
+  - Ved ikke, hvad der fik dig til at ville lave det her!
+  stats:
+  - '&8⇨ &7Tilkalder nogle bier!'
+CLT_SWEET_POTATO:
+  name: Sød kartoffel
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Yam yam yam.
+CLT_TAQUITO:
+  name: Taquito
+  type:
+  - '&7&oMad'
+  description:
+  - Zim ville være stolt!
+  stats:
+  - '&8⇨ &7Helbredelse: &b4 hjerter'
+  - '&8⇨ &7Tilkalder Gir til hjælp (det er en jerngolem, rolig nu).'
+CLT_TARRAGON:
+  name: Estragon
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Jeg putter bogstaveligt talt det her på alt.
+  - 'Spoiler: Jeg er ikke nogen god kok.'
+CLT_TATER_TOTS:
+  name: Kartoffelkroketter
+  type:
+  - '&7&oMad'
+  description:
+  - Små kartoffelbidder til at poppe i munden.
+  stats:
+  - '&8⇨ &7Helbredelse: &b0.5 hjerter'
+  - '&8⇨ &bHastighed II &7(10:00)'
+CLT_THYME:
+  name: Timian
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Savnede tit rosmarin.
+CLT_TOMATO:
+  name: Tomat
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Lige fra vinstokken.... øh... busken?
+CLT_TORTILLAS:
+  name: Tortillas
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Lækkerier af majsmel
+CLT_TREE_APRICOT:
+  name: Abrikostræ
+  type:
+  - '&7&oKimplante'
+  description:
+  - Indeni er der en enkelt sten af fortvivlelse.
+  stats: &id009
+  - '&8⇨ &7Design af: &bBWhite'
+CLT_TREE_BANANA:
+  name: Banantræ
+  type:
+  - '&7&oKimplante'
+  description:
+  - Et træ, der får fingre, uhyggeligt!
+  stats:
+  - '&8⇨ &7Design af: &bSefiraat'
+CLT_TREE_CHERRY:
+  name: Kirsebærtræ
+  type:
+  - '&7&oKimplante'
+  description:
+  - Bind knuden!
+  stats:
+  - '&8⇨ &7Design af: &bReasonFoundDecoy'
+CLT_TREE_CHESTNUT:
+  name: Kastanjetræ
+  type:
+  - '&7&oKimplante'
+  description:
+  - Et træ, der tydeligvis er designet til at blive klatret i.
+  stats: &id010
+  - '&8⇨ &7Design af: &bABitOddish'
+CLT_TREE_GREEN_APPLE:
+  name: Grønt æbletræ
+  type:
+  - '&7&oKimplante'
+  description:
+  - Giver store, sprøde grønne æbler.
+  stats: *id009
+CLT_TREE_HAZELNUT:
+  name: Hasselnøddetræ
+  type:
+  - '&7&oKimplante'
+  description:
+  - At ryste dette træ er en klassisk barndomsleg.
+  stats: *id010
+CLT_TREE_KIWI:
+  name: Kiwitræ
+  type:
+  - '&7&oKimplante'
+  description:
+  - Et træ fra New Zealand? Har jeg forstået det rigtigt?
+  stats: *id010
+CLT_TREE_LEMON:
+  name: Citrontræ
+  type:
+  - '&7&oKimplante'
+  description:
+  - Bare at kigge på dette træ smager surt.
+  stats: &id011
+  - '&8⇨ &7Design af: &bJeff'
+CLT_TREE_LIME:
+  name: Limetræ
+  type:
+  - '&7&oKimplante'
+  description:
+  - Vidste du, at limefrugter bare er citroner, der holder vejret?
+  stats: *id010
+CLT_TREE_MANGO:
+  name: Mangotræ
+  type:
+  - '&7&oKimplante'
+  description:
+  - Bedst, når den er allermest moden.
+  stats: *id009
+CLT_TREE_ORANGE:
+  name: Appelsintræ
+  type:
+  - '&7&oKimplante'
+  description:
+  - Små kugler af solskin.
+  stats: *id011
+CLT_TREE_PEACH:
+  name: Ferskentræ
+  type:
+  - '&7&oKimplante'
+  description:
+  - James ledte efter den her, tror jeg?
+  stats: *id010
+CLT_TREE_PEAR:
+  name: Pæretræ
+  type:
+  - '&7&oKimplante'
+  description:
+  - Et par pærer blev parret for at passe pænt sammen.
+  stats: *id009
+CLT_TREE_PECAN:
+  name: Pekantræ
+  type:
+  - '&7&oKimplante'
+  description:
+  - Kan vi dyrke dette træ? Ja, vi pe-kan!
+  stats: *id009
+CLT_TREE_PINEAPPLE:
+  name: Ananastræ
+  type:
+  - '&7&oKimplante'
+  description:
+  - HVOR ER MIN PIZZA?
+  stats: *id010
+CLT_TURMERIC:
+  name: Gurkemeje
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - En stærk, moskusagtig tilstedeværelse, der fylder mange retter ud.
+CLT_TURNIP:
+  name: Majroe
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Løser alle livets problemer.
+CLT_VANILLA:
+  name: Vanilje
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - 'Brugsanvisning: Dyp direkte i en latte'
+CLT_WASABI:
+  name: Wasabi
+  type:
+  - '&7&oAfgrøde'
+  description:
+  - Hjælp... wasabi...
+CLT_WITHER_ROSE_SALAD:
+  name: Witherrosesalat
+  type:
+  - '&7&oMad'
+  description:
+  - Fuld af kraft, men med en barsk bivirkning.
+  stats:
+  - '&8⇨ &7Helbredelse: &bFuld'
+  - '&8⇨ &bWither II &7(10:00)'
+  - '&8⇨ &bHelbredsboost XX &7(10:00)'

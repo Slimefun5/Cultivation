@@ -1,0 +1,87 @@
+cultivation:
+  bush_harvest:
+    name: Sadonkorjuu pensaasta
+    lore:
+    - Tämän esineen voi korjata
+    - Cultivation-pensaasta
+  tree_harvest:
+    name: Sadonkorjuu puusta
+    lore:
+    - Tämän esineen voi korjata
+    - Cultivation-puusta
+  trading_farmer:
+    name: Kauppa kyläläisen kanssa
+    lore:
+    - Tämän esineen voi ostaa
+    - maanviljelijäkyläläiseltä.
+  trading_fletcher:
+    name: Kauppa kyläläisen kanssa
+    lore:
+    - Tämän esineen voi ostaa
+    - nuolentekijäkyläläiseltä.
+  mob:
+    name: Olennon pudotus
+    lore:
+    - Tämä esine voi pudota
+    - seuraavilta olennoilta.
+  plant_breeding:
+    name: Kasvinjalostus
+    lore:
+    - Tämä siemen löytyy jalostamalla.
+    - Kasveja jalostetaan asettamalla
+    - kaksi kasvia maahan niin, että niiden
+    - välissä on yksi ilmakuutio.
+    - ''
+    - Jalostussanakirjalla voit pitää
+    - kirjaa löydöistäsi.
+    - ''
+    - 'Vihje: Mustat partikkelit tarkoittavat,'
+    - että kasvit EIVÄT VOI jalostua.
+  vanilla_block_drop:
+    name: Maailmapudotus
+    lore:
+    - Putoaa kuutioista, kun ne rikotaan maailmassa.
+  bucketing:
+    name: Maailmapudotus
+    lore:
+    - Saadaan maailmasta ämpäriä käyttämällä.
+  chopped:
+    name: Pilkottu
+    lore:
+    - Pilko vain veitsellä!
+  mashed:
+    name: Muussattu
+    lore:
+    - Muussi muussi muussi
+  blended:
+    name: Soseutettu
+    lore:
+    - Tehdään laittamalla esine tehosekoittimeen.
+  sliced:
+    name: Viipaloitu
+    lore:
+    - Niin ohut ja hento
+  ground:
+    name: Jauhettu
+    lore:
+    - Hienoksi asti
+  boiled:
+    name: Keitetty
+    lore:
+    - Kuumaa kuumaa kuumaa!
+  fried:
+    name: Paistettu
+    lore:
+    - Rapeaa täydellisyyttä.
+  grilled:
+    name: Grillattu
+    lore:
+    - Mehevää ja mureaa.
+  finishing:
+    name: Viimeistely
+    lore:
+    - Valmista tämä esine keittiön viimeistelytasolla.
+  baking:
+    name: Leivonta
+    lore:
+    - Valmista tämä esine keittiön uunitasolla.

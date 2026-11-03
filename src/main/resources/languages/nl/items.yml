@@ -632,7 +632,7 @@ CLT_BLUE_CANDY:
   description:
   - Een heerlijk zoet snoepje.
   stats:
-  - '&8⇨ &7Roept een Allay op'
+  - '&8⇨ &7Roept een Helper op'
 CLT_BOILED_APPLE:
   name: Gekookte appel
   type:

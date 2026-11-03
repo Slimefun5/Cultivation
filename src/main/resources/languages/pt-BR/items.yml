@@ -632,7 +632,7 @@ CLT_BLUE_CANDY:
   description:
   - Um doce deliciosamente açucarado.
   stats:
-  - '&8⇨ &7Invoca um Allay'
+  - '&8⇨ &7Invoca um Sereno'
 CLT_BOILED_APPLE:
   name: Maçã Cozida
   type:

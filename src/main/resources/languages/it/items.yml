@@ -632,7 +632,7 @@ CLT_BLUE_CANDY:
   description:
   - Una caramella deliziosamente dolce.
   stats:
-  - '&8⇨ &7Evoca un allay'
+  - '&8⇨ &7Evoca un Alleviante'
 CLT_BOILED_APPLE:
   name: Mela bollita
   type:
