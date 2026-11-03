@@ -1,0 +1,65 @@
+lore:
+  seed-pack-set-to: Diatur ke
+  knowledge-script-unlocks: Membuka
+  drop-level: Tingkat Jatuhan
+  growth-speed: Kecepatan Tumbuh
+  breed-strength: Kekuatan Biak
+command:
+  no-permission: Kamu tidak punya izin untuk melakukan ini.
+  invalid-subcommand: Berikan subperintah yang valid.
+  players-only: Perintah ini hanya bisa dijalankan oleh pemain.
+  hold-seed-pack: Kamu harus memegang Paket Benih untuk ini.
+  pack-empty: Paket ini kosong!
+  pack-contents: Isi
+  pack-entry: Tingkat %level%, kecepatan %speed%, kekuatan %strength%
+kitchen:
+  recipe-disabled: Resep ini dinonaktifkan.
+  no-recipe: Tidak ada resep yang cocok.
+  not-enough-power: Daya tidak cukup.
+  input-empty: Masukkan item ke slot masukan.
+  cooked: Enak!
+food:
+  eaten: Mantap! Kamu sudah kenyang.
+  not-hungry: Kamu belum lapar! Kamu hanya bisa makan sekali setiap setengah hari (10 menit).
+  palate-cleansed: Kamu merasa lidahmu kembali segar.
+  ouch: Aduh!
+knowledge-script:
+  learned: Kamu telah mempelajari cara membiakkan %plant%.
+seed-pack:
+  title: Paket Benih
+  unstack-first: Kamu harus memisahkan tumpukan Paket Benih dulu.
+  not-a-seed: Item harus berupa benih tanaman Cultivation.
+  empty-before-change: Kamu harus mengosongkan paket sebelum mengganti tanamannya.
+  no-plant-set: Kamu belum mengatur tanaman.
+  none-stored: Kamu tidak punya benih ini pada tingkat tersebut.
+  set-here: Atur benih di sini
+  retrieve-here: Ambil di sini
+  no-seed-set: Belum Ada Benih
+  no-seed-set-lore:
+  - Klik ikon di sebelah kiri
+  - sambil memegang benih untuk mengatur paket.
+  empty-set: Set Kosong
+  empty-set-lore:
+  - Kamu tidak punya benih yang cocok
+  - dengan tingkat ini.
+  stored-seed: Jenis Benih Tersimpan
+  take-seed: Ambil benih dari paket
+  level: Tingkat
+  speed: Kecepatan
+  strength: Kekuatan
+  left-click: Klik Kiri
+  right-click: Klik Kanan
+  increase: Naikkan %stat%
+  decrease: Turunkan %stat%
+  current: Saat Ini
+codex:
+  title: Kodeks Tanaman
+  child: Tanaman anak
+  mother: Tanaman induk betina
+  father: Tanaman induk jantan
+  growth-rate: Laju Pertumbuhan
+  not-discovered: Belum Ditemukan
+  not-discovered-lore:
+  - Kamu belum menemukan cara
+  - membiakkan tanaman ini!
+  discovery: Penemuan

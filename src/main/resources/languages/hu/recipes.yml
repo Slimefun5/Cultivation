@@ -1,0 +1,87 @@
+cultivation:
+  bush_harvest:
+    name: Bokorszüret
+    lore:
+    - Ez a tárgy egy Cultivation-bokorról
+    - szüretelhető
+  tree_harvest:
+    name: Faszüret
+    lore:
+    - Ez a tárgy egy Cultivation-fáról
+    - szüretelhető
+  trading_farmer:
+    name: Kereskedés falusiakkal
+    lore:
+    - Ez a tárgy egy földműves
+    - falusitól vásárolható.
+  trading_fletcher:
+    name: Kereskedés falusiakkal
+    lore:
+    - Ez a tárgy egy íjkészítő
+    - falusitól vásárolható.
+  mob:
+    name: Lényzsákmány
+    lore:
+    - Ez a tárgy eséllyel leeshet a következő
+    - lény(ek)ből.
+  plant_breeding:
+    name: Növénynemesítés
+    lore:
+    - Ez a mag nemesítéssel szerezhető meg.
+    - Növényeket úgy nemesíthetsz, hogy
+    - két növényt leteszel, köztük egy
+    - levegőblokkal.
+    - ''
+    - A nemesítési szótárral nyomon
+    - követheted a felfedezéseidet.
+    - ''
+    - 'Tipp: A fekete részecskék azt jelentik,'
+    - hogy a két növény NEM keresztezhető.
+  vanilla_block_drop:
+    name: Világzsákmány
+    lore:
+    - Blokkokból esik ki, amikor kitöröd őket a világban.
+  bucketing:
+    name: Világzsákmány
+    lore:
+    - Vödör használatakor nyerhető ki a világból.
+  chopped:
+    name: Aprított
+    lore:
+    - Egyszerűen aprítsd fel egy késsel!
+  mashed:
+    name: Pépesített
+    lore:
+    - Pép, pép, pép
+  blended:
+    name: Turmixolt
+    lore:
+    - Úgy készül, hogy egy tárgyat a turmixgépbe teszel.
+  sliced:
+    name: Szeletelt
+    lore:
+    - Olyan vékony és finom
+  ground:
+    name: Őrölt
+    lore:
+    - Finomra őrölve
+  boiled:
+    name: Főtt
+    lore:
+    - Forró, forró, forró!
+  fried:
+    name: Sült
+    lore:
+    - Ropogós tökéletesség.
+  grilled:
+    name: Grillezett
+    lore:
+    - Szaftos és puha.
+  finishing:
+    name: Tálalás
+    lore:
+    - Ezt a tárgyat a konyha tálalópultján készítheted el.
+  baking:
+    name: Sütés
+    lore:
+    - Ezt a tárgyat a konyha sütőpultján készítheted el.

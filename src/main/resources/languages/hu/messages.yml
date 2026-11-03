@@ -1,0 +1,65 @@
+lore:
+  seed-pack-set-to: Beállítva
+  knowledge-script-unlocks: Feloldja
+  drop-level: Hozamszint
+  growth-speed: Növekedési sebesség
+  breed-strength: Nemesítési erő
+command:
+  no-permission: Nincs jogosultságod ehhez.
+  invalid-subcommand: Adj meg egy érvényes alparancsot.
+  players-only: Ezt a parancsot csak játékos futtathatja.
+  hold-seed-pack: Ehhez egy Vetőmagcsomagot kell tartanod a kezedben.
+  pack-empty: Ez a csomag üres!
+  pack-contents: Tartalom
+  pack-entry: 'Szint: %level%, sebesség: %speed%, erő: %strength%'
+kitchen:
+  recipe-disabled: Ez a recept le van tiltva.
+  no-recipe: Nincs egyező recept.
+  not-enough-power: Nincs elég energia.
+  input-empty: Tegyél egy tárgyat a bemeneti helyre.
+  cooked: Finom!
+food:
+  eaten: Remek! Teljesen jóllaktál.
+  not-hungry: Még nem vagy éhes! Csak félnaponta ehetsz egyszer (10 perc).
+  palate-cleansed: Érzed, ahogy megtisztul az ízlelésed.
+  ouch: Au!
+knowledge-script:
+  learned: 'Megtanultad, hogyan kell nemesíteni ezt: %plant%.'
+seed-pack:
+  title: Vetőmagcsomag
+  unstack-first: Előbb szedd szét a Vetőmagcsomagok halmát.
+  not-a-seed: A tárgynak Cultivation-növénymagnak kell lennie.
+  empty-before-change: Előbb ürítsd ki a csomagot, mielőtt megváltoztatod a növényét.
+  no-plant-set: Még nem állítottál be növényt.
+  none-stored: Ebből a magból nincs ilyen szintű.
+  set-here: Mag beállítása itt
+  retrieve-here: Kivétel itt
+  no-seed-set: Nincs beállított mag
+  no-seed-set-lore:
+  - Kattints a bal oldali ikonra
+  - egy maggal a kezedben a beállításhoz.
+  empty-set: Üres készlet
+  empty-set-lore:
+  - Nincs ezeknek a szinteknek
+  - megfelelő magod.
+  stored-seed: Tárolt magtípus
+  take-seed: Vegyél ki egy magot
+  level: Szint
+  speed: Sebesség
+  strength: Erő
+  left-click: Bal kattintás
+  right-click: Jobb kattintás
+  increase: '%stat% növelése'
+  decrease: '%stat% csökkentése'
+  current: Jelenlegi
+codex:
+  title: Növénykódex
+  child: Utódnövény
+  mother: Anyanövény
+  father: Apanövény
+  growth-rate: Növekedési ráta
+  not-discovered: Nincs felfedezve
+  not-discovered-lore:
+  - Még nem fedezted fel, hogyan
+  - kell nemesíteni ezt a növényt!
+  discovery: Felfedezés

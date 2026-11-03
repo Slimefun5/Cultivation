@@ -1,0 +1,13 @@
+cultivation:
+  main: Cultivation
+  hidden: Rejtett
+  crafting: Barkácsolási tárgyak
+  tools: Eszközök
+  machines: Gépek
+  plants: Növények
+  bushes: Bokrok
+  trees: Fák
+  produce: Termények
+  by-products: Melléktermékek
+  foods: Ételek
+  plant_codex: Növénykódex

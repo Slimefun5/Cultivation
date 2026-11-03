@@ -1,0 +1,13 @@
+cultivation:
+  main: Cultivation
+  hidden: Tersembunyi
+  crafting: Bahan Kerajinan
+  tools: Alat
+  machines: Mesin
+  plants: Tanaman
+  bushes: Semak
+  trees: Pohon
+  produce: Hasil Panen
+  by-products: Produk Sampingan
+  foods: Makanan
+  plant_codex: Kodeks Tanaman

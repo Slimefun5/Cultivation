@@ -1,0 +1,6674 @@
+CLT_APRICOT:
+  name: Sárgabarack
+  type:
+  - '&7&oTermény'
+  description:
+  - Ebből lehet Pokélabdát csinálni.
+  - '...'
+  - Hogyhogy az valami egészen más...?
+CLT_ARTICHOKE:
+  name: Articsóka
+  type:
+  - '&7&oTermény'
+  description:
+  - Tépd ki a SZÍVÉT!
+CLT_ASPARAGUS:
+  name: Spárga
+  type:
+  - '&7&oTermény'
+  description:
+  - Később óvatosan a mosdóban.
+CLT_AUBERGINE:
+  name: Padlizsán
+  type:
+  - '&7&oTermény'
+  description:
+  - Élénklila, és 100%-ig NEM tojás alakú.
+  - Mégis hívjuk tojásgyümölcsnek, nem?
+CLT_AVOCADO:
+  name: Avokádó
+  type:
+  - '&7&oTermény'
+  description:
+  - Erről álmodnak a hipszterek.
+CLT_BACON_SANDWICH:
+  name: Szalonnás szendvics
+  type:
+  - '&7&oÉtel'
+  description:
+  - Egyszerű klasszikus!
+  stats:
+  - '&8⇨ &7Gyógyulás: &b2 szív'
+  - '&8⇨ &bErő I &7(10:00)'
+  - '&8⇨ &bGyorsaság I &7(10:00)'
+CLT_BAGEL:
+  name: Bagel
+  type:
+  - '&7&oÉtel'
+  description:
+  - Pirított? Vagy...
+  stats:
+  - '&8⇨ &7Gyógyulás: &b2.5 szív'
+CLT_BAGEL_BITE:
+  name: Bagelfalat
+  type:
+  - '&7&oÉtel'
+  description:
+  - Pizza bármikor!
+  stats:
+  - '&8⇨ &7Minden falattal megégeti a szádat!'
+CLT_BAGEL_CREAM_CHEESE:
+  name: Krémsajtos bagel
+  type:
+  - '&7&oÉtel'
+  description:
+  - Olyan finom, hogy biztos kérsz még egyet.
+  stats:
+  - '&8⇨ &7Gyógyulás: &b5 szív'
+  - '&8⇨ &bÉleterősítés I &7(10:00)'
+CLT_BANANA:
+  name: Banán
+  type:
+  - '&7&oTermény'
+  description:
+  - Ez aztán héjas élmény!
+CLT_BASIL:
+  name: Bazsalikom
+  type:
+  - '&7&oTermény'
+  description:
+  - Édes levél, lágy, borsos utóízzel.
+CLT_BAY_LEAF:
+  name: Babérlevél
+  type:
+  - '&7&oTermény'
+  description:
+  - Erős fűszer, ezerféle felhasználással.
+CLT_BELL_PEPPER:
+  name: Kaliforniai paprika
+  type:
+  - '&7&oTermény'
+  description:
+  - Ez aztán csengő igazság.
+CLT_BISCUIT:
+  name: Keksz
+  type:
+  - '&7&oÉtel'
+  description:
+  - Kis nasi, hatalmas ízzel.
+  stats: &id002
+  - '&8⇨ &7A levegőbe repít'
+CLT_BISCUIT_BASE:
+  name: Kekszalap
+  type:
+  - '&7&oTermény'
+  description:
+  - Attól, hogy most lapos, még nem
+  - eheted meg nyersen.
+CLT_BISCUIT_DOUGH:
+  name: Kekszmassza
+  type:
+  - '&7&oTermény'
+  description:
+  - 'Ismételd magadban: "Nyersen nem eszem meg."'
+CLT_BLACK_BEANS:
+  name: Fekete bab
+  type:
+  - '&7&oTermény'
+  description:
+  - Finom vegetáriánus fehérjeforrás.
+CLT_BLENDED_APPLE:
+  name: Turmixolt alma
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_APRICOT:
+  name: Turmixolt sárgabarack
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_ARTICHOKE:
+  name: Turmixolt articsóka
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_ASPARAGUS:
+  name: Turmixolt spárga
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_AUBERGINE:
+  name: Turmixolt padlizsán
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_AVOCADO:
+  name: Turmixolt avokádó
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_BANANA:
+  name: Turmixolt banán
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_BASIL:
+  name: Turmixolt bazsalikom
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_BAY_LEAF:
+  name: Turmixolt babérlevél
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_BEEF:
+  name: Turmixolt marhahús
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_BEETROOT:
+  name: Turmixolt cékla
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_BELL_PEPPER:
+  name: Turmixolt kaliforniai paprika
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_BLACK_BEANS:
+  name: Turmixolt fekete bab
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_BREAD:
+  name: Turmixolt kenyér
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_BROCCOLI:
+  name: Turmixolt brokkoli
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_BROWN_MUSHROOM:
+  name: Turmixolt barna gomba
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_BRUSSELS_SPROUTS:
+  name: Turmixolt kelbimbó
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_CABBAGE:
+  name: Turmixolt káposzta
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_CARROT:
+  name: Turmixolt sárgarépa
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_CAULIFLOWER:
+  name: Turmixolt karfiol
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_CAYENNE_PEPPER:
+  name: Turmixolt kajenni bors
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_CELERIAC:
+  name: Turmixolt zellergumó
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_CELERY:
+  name: Turmixolt szárzeller
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_CHERRY:
+  name: Turmixolt cseresznye
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_CHESTNUT:
+  name: Turmixolt gesztenye
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_CHICKEN:
+  name: Turmixolt csirke
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_CHICKPEAS:
+  name: Turmixolt csicseriborsó
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_CHICORY:
+  name: Turmixolt cikória
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_CHILLY_PEPPER:
+  name: Turmixolt chilipaprika
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_CHIVES:
+  name: Turmixolt metélőhagyma
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_CHORUS_FRUIT:
+  name: Turmixolt refréngyümölcs
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_CILANTRO:
+  name: Turmixolt koriander
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_CINNAMON:
+  name: Turmixolt fahéj
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_CLOVE:
+  name: Turmixolt szegfűszeg
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_COCOA_BEANS:
+  name: Turmixolt kakaóbab
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_COD:
+  name: Turmixolt tőkehal
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_COURGETTE:
+  name: Turmixolt cukkini
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_CUCUMBER:
+  name: Turmixolt uborka
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_CUMIN:
+  name: Turmixolt kömény
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_CURRY_LEAF:
+  name: Turmixolt currylevél
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_DILL:
+  name: Turmixolt kapor
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_EGG:
+  name: Turmixolt tojás
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_ENCHANTED_GOLDEN_APPLE:
+  name: Turmixolt bűvös aranyalma
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_FENNEL:
+  name: Turmixolt édeskömény
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_GARLIC:
+  name: Turmixolt fokhagyma
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_GINGER:
+  name: Turmixolt gyömbér
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_GLOW_BERRIES:
+  name: Turmixolt fényszeder
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_GOLDEN_APPLE:
+  name: Turmixolt aranyalma
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_GOLDEN_CARROT:
+  name: Turmixolt aranyrépa
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_GRAPE:
+  name: Turmixolt szőlő
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_GREEN_APPLE:
+  name: Turmixolt zöldalma
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_GREEN_BEANS:
+  name: Turmixolt zöldbab
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_GREEN_ONION:
+  name: Turmixolt újhagyma
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_HAZELNUT:
+  name: Turmixolt mogyoró
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_HORSERADISH:
+  name: Turmixolt torma
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_JALAPENO:
+  name: Turmixolt jalapeño
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_JASMINE:
+  name: Turmixolt jázmin
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_JUNIPER_BERRY:
+  name: Turmixolt borókabogyók
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_KAFFIR_LIME:
+  name: Turmixolt kaffirlime-levél
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_KALE:
+  name: Turmixolt fodros kel
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_KELP:
+  name: Turmixolt hínár
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_KIWI:
+  name: Turmixolt kivi
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_LAVENDER:
+  name: Turmixolt levendula
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_LEEK:
+  name: Turmixolt póréhagyma
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_LEMON:
+  name: Turmixolt citrom
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_LETTUCE:
+  name: Turmixolt fejes saláta
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_LICORICE:
+  name: Turmixolt édesgyökér
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_LIME:
+  name: Turmixolt zöldcitrom
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_MACE:
+  name: Turmixolt szerecsendióvirág
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_MANGO:
+  name: Turmixolt mangó
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_MARJORAM:
+  name: Turmixolt majoránna
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_MARROW:
+  name: Turmixolt spárgatök
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_MELON:
+  name: Turmixolt dinnye
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_MINT:
+  name: Turmixolt menta
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_MUSTARD_SEEDS:
+  name: Turmixolt mustármagvak
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_MUTTON:
+  name: Turmixolt birkahús
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_NETTLES:
+  name: Turmixolt csalán
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_OKRA:
+  name: Turmixolt okra
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_ONION:
+  name: Turmixolt hagyma
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_ORANGE:
+  name: Turmixolt narancs
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_OREGANO:
+  name: Turmixolt oregánó
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_PARSLEY:
+  name: Turmixolt petrezselyem
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_PARSNIP:
+  name: Turmixolt paszternák
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_PEA:
+  name: Turmixolt borsó
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_PEACH:
+  name: Turmixolt őszibarack
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_PEANUT:
+  name: Turmixolt földimogyoró
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_PEAR:
+  name: Turmixolt körte
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_PECAN:
+  name: Turmixolt pekándió
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_PEPPER:
+  name: Turmixolt fekete bors
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_PEPPERONI:
+  name: Turmixolt pepperoni
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_PINEAPPLE:
+  name: Turmixolt ananász
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_PINTO_BEANS:
+  name: Turmixolt tarka bab
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_PORKCHOP:
+  name: Turmixolt disznóhús
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_POTATO:
+  name: Turmixolt burgonya
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_PUFFERFISH:
+  name: Turmixolt gömbhal
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_PUMPKIN:
+  name: Turmixolt tök
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_RABBIT:
+  name: Turmixolt nyúl
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_RADDISH:
+  name: Turmixolt retek
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_RADICCHIO:
+  name: Turmixolt radicchio
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_RAPESEED:
+  name: Turmixolt repce
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_RED_MUSHROOM:
+  name: Turmixolt piros gomba
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_RHUBARB:
+  name: Turmixolt rebarbara
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_RICE:
+  name: Turmixolt rizs
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_ROSEMARY:
+  name: Turmixolt rozmaring
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_ROTTEN_FLESH:
+  name: Turmixolt rohadt hús
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_RUNNER_BEANS:
+  name: Turmixolt futóbab
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_RUTABAGA:
+  name: Turmixolt karórépa
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_SALMON:
+  name: Turmixolt lazac
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_SASSAFRAS:
+  name: Turmixolt szasszafrász
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_SHALLOT:
+  name: Turmixolt salottahagyma
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_SHISO:
+  name: Turmixolt shiso
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_SOY_BEANS:
+  name: Turmixolt szójabab
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_SPINACH:
+  name: Turmixolt spenót
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_STAR_ANISE:
+  name: Turmixolt csillagánizs
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_STRAWBERRY:
+  name: Turmixolt eper
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_SUGAR:
+  name: Turmixolt cukor
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_SWEETCORN:
+  name: Turmixolt csemegekukorica
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_SWEET_BERRIES:
+  name: Turmixolt édes bogyók
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_SWEET_POTATO:
+  name: Turmixolt édes burgonya
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_TARRAGON:
+  name: Turmixolt tárkony
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_THYME:
+  name: Turmixolt kakukkfű
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_TOMATO:
+  name: Turmixolt paradicsom
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_TURMERIC:
+  name: Turmixolt kurkuma
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_TURNIP:
+  name: Turmixolt tarlórépa
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_VANILLA:
+  name: Turmixolt vanília
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_WASABI:
+  name: Turmixolt wasabi
+  type:
+  - '&7&oMelléktermék'
+CLT_BLENDED_WHEAT:
+  name: Turmixolt búza
+  type:
+  - '&7&oMelléktermék'
+CLT_BLUE_CANDY:
+  name: Kék cukorka
+  type:
+  - '&7&oÉtel'
+  description:
+  - Elragadóan édes cukorka.
+  stats:
+  - '&8⇨ &7Megidéz egy Nyugtancsot'
+CLT_BOILED_APPLE:
+  name: Főtt alma
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_APRICOT:
+  name: Főtt sárgabarack
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_ARTICHOKE:
+  name: Főtt articsóka
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_ASPARAGUS:
+  name: Főtt spárga
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_AUBERGINE:
+  name: Főtt padlizsán
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_AVOCADO:
+  name: Főtt avokádó
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_BANANA:
+  name: Főtt banán
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_BASIL:
+  name: Főtt bazsalikom
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_BAY_LEAF:
+  name: Főtt babérlevél
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_BEEF:
+  name: Főtt marhahús
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_BEETROOT:
+  name: Főtt cékla
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_BELL_PEPPER:
+  name: Főtt kaliforniai paprika
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_BLACK_BEANS:
+  name: Főtt fekete bab
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_BREAD:
+  name: Főtt kenyér
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_BROCCOLI:
+  name: Főtt brokkoli
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_BROWN_MUSHROOM:
+  name: Főtt barna gomba
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_BRUSSELS_SPROUTS:
+  name: Főtt kelbimbó
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_CABBAGE:
+  name: Főtt káposzta
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_CARROT:
+  name: Főtt sárgarépa
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_CAULIFLOWER:
+  name: Főtt karfiol
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_CAYENNE_PEPPER:
+  name: Főtt kajenni bors
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_CELERIAC:
+  name: Főtt zellergumó
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_CELERY:
+  name: Főtt szárzeller
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_CHERRY:
+  name: Főtt cseresznye
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_CHESTNUT:
+  name: Főtt gesztenye
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_CHICKEN:
+  name: Főtt csirke
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_CHICKPEAS:
+  name: Főtt csicseriborsó
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_CHICORY:
+  name: Főtt cikória
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_CHILLY_PEPPER:
+  name: Főtt chilipaprika
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_CHIVES:
+  name: Főtt metélőhagyma
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_CHORUS_FRUIT:
+  name: Főtt refréngyümölcs
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_CILANTRO:
+  name: Főtt koriander
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_CINNAMON:
+  name: Főtt fahéj
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_CLOVE:
+  name: Főtt szegfűszeg
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_COCOA_BEANS:
+  name: Főtt kakaóbab
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_COD:
+  name: Főtt tőkehal
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_COURGETTE:
+  name: Főtt cukkini
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_CUCUMBER:
+  name: Főtt uborka
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_CUMIN:
+  name: Főtt kömény
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_CURRY_LEAF:
+  name: Főtt currylevél
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_DILL:
+  name: Főtt kapor
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_EGG:
+  name: Főtt tojás
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_ENCHANTED_GOLDEN_APPLE:
+  name: Főtt bűvös aranyalma
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_FENNEL:
+  name: Főtt édeskömény
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_GARLIC:
+  name: Főtt fokhagyma
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_GINGER:
+  name: Főtt gyömbér
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_GLOW_BERRIES:
+  name: Főtt fényszeder
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_GOLDEN_APPLE:
+  name: Főtt aranyalma
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_GOLDEN_CARROT:
+  name: Főtt aranyrépa
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_GRAPE:
+  name: Főtt szőlő
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_GREEN_APPLE:
+  name: Főtt zöldalma
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_GREEN_BEANS:
+  name: Főtt zöldbab
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_GREEN_ONION:
+  name: Főtt újhagyma
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_HAZELNUT:
+  name: Főtt mogyoró
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_HORSERADISH:
+  name: Főtt torma
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_JALAPENO:
+  name: Főtt jalapeño
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_JASMINE:
+  name: Főtt jázmin
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_JUNIPER_BERRY:
+  name: Főtt borókabogyók
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_KAFFIR_LIME:
+  name: Főtt kaffirlime-levél
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_KALE:
+  name: Főtt fodros kel
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_KELP:
+  name: Főtt hínár
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_KIWI:
+  name: Főtt kivi
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_LAVENDER:
+  name: Főtt levendula
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_LEEK:
+  name: Főtt póréhagyma
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_LEMON:
+  name: Főtt citrom
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_LETTUCE:
+  name: Főtt fejes saláta
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_LICORICE:
+  name: Főtt édesgyökér
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_LIME:
+  name: Főtt zöldcitrom
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_MACE:
+  name: Főtt szerecsendióvirág
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_MANGO:
+  name: Főtt mangó
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_MARJORAM:
+  name: Főtt majoránna
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_MARROW:
+  name: Főtt spárgatök
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_MELON:
+  name: Főtt dinnye
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_MINT:
+  name: Főtt menta
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_MUSTARD_SEEDS:
+  name: Főtt mustármagvak
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_MUTTON:
+  name: Főtt birkahús
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_NETTLES:
+  name: Főtt csalán
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_OKRA:
+  name: Főtt okra
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_ONION:
+  name: Főtt hagyma
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_ORANGE:
+  name: Főtt narancs
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_OREGANO:
+  name: Főtt oregánó
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_PARSLEY:
+  name: Főtt petrezselyem
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_PARSNIP:
+  name: Főtt paszternák
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_PEA:
+  name: Főtt borsó
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_PEACH:
+  name: Főtt őszibarack
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_PEANUT:
+  name: Főtt földimogyoró
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_PEAR:
+  name: Főtt körte
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_PECAN:
+  name: Főtt pekándió
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_PEPPER:
+  name: Főtt fekete bors
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_PEPPERONI:
+  name: Főtt pepperoni
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_PINEAPPLE:
+  name: Főtt ananász
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_PINTO_BEANS:
+  name: Főtt tarka bab
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_PORKCHOP:
+  name: Főtt disznóhús
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_POTATO:
+  name: Főtt burgonya
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_PUFFERFISH:
+  name: Főtt gömbhal
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_PUMPKIN:
+  name: Főtt tök
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_RABBIT:
+  name: Főtt nyúl
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_RADDISH:
+  name: Főtt retek
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_RADICCHIO:
+  name: Főtt radicchio
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_RAPESEED:
+  name: Főtt repce
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_RED_MUSHROOM:
+  name: Főtt piros gomba
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_RHUBARB:
+  name: Főtt rebarbara
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_RICE:
+  name: Főtt rizs
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_ROSEMARY:
+  name: Főtt rozmaring
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_ROTTEN_FLESH:
+  name: Főtt rohadt hús
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_RUNNER_BEANS:
+  name: Főtt futóbab
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_RUTABAGA:
+  name: Főtt karórépa
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_SALMON:
+  name: Főtt lazac
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_SASSAFRAS:
+  name: Főtt szasszafrász
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_SHALLOT:
+  name: Főtt salottahagyma
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_SHISO:
+  name: Főtt shiso
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_SOY_BEANS:
+  name: Főtt szójabab
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_SPINACH:
+  name: Főtt spenót
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_STAR_ANISE:
+  name: Főtt csillagánizs
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_STRAWBERRY:
+  name: Főtt eper
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_SUGAR:
+  name: Főtt cukor
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_SWEETCORN:
+  name: Főtt csemegekukorica
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_SWEET_BERRIES:
+  name: Főtt édes bogyók
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_SWEET_POTATO:
+  name: Főtt édes burgonya
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_TARRAGON:
+  name: Főtt tárkony
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_THYME:
+  name: Főtt kakukkfű
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_TOMATO:
+  name: Főtt paradicsom
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_TURMERIC:
+  name: Főtt kurkuma
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_TURNIP:
+  name: Főtt tarlórépa
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_VANILLA:
+  name: Főtt vanília
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_WASABI:
+  name: Főtt wasabi
+  type:
+  - '&7&oMelléktermék'
+CLT_BOILED_WHEAT:
+  name: Főtt búza
+  type:
+  - '&7&oMelléktermék'
+CLT_BOWL_OF_STEVE:
+  name: Egy tál... Steve?
+  type:
+  - '&7&oÉtel'
+  description:
+  - Mi a &%£$ ez?
+  stats:
+  - '&8⇨ &bFáradtság X &7(10:00)'
+  - '&8⇨ &bLassúság VI &7(10:00)'
+  - '&8⇨ &bErő X &7(10:00)'
+  - '&8⇨ &71/2 szívre csökkent'
+CLT_BROCCOLI:
+  name: Brokkoli
+  type:
+  - '&7&oTermény'
+  description:
+  - Óriás vagy, aki egy fát tart?
+  - Á, ez csak egy pici fa :)
+CLT_BRUSSELS_SPROUTS:
+  name: Kelbimbó
+  type:
+  - '&7&oTermény'
+  description:
+  - Gázos gyönyörűség.
+CLT_BUSH_ARTICHOKE:
+  name: Articsókabokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Messze a legjobb bokor, hogy megfojts vele
+  - egy művészt. Ajj. Nehéz ez a szóvicc.
+CLT_BUSH_ASPARAGUS:
+  name: Spárgabokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Ez a spárgabokor jó sokat
+  - spárgázik!
+CLT_BUSH_AUBERGINE:
+  name: Padlizsánbokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Nem vagyok hajlandó tojásgyümölcsnek hívni. És kész.
+CLT_BUSH_AVOCADO:
+  name: Avokádóbokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Ezt a bokrot kifejezetten arra nemesítették, hogy
+  - ne fogyasszon túl sok vizet.
+CLT_BUSH_BASIL:
+  name: Bazsalikombokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Könnyed, szeszélyes kis bokor.
+CLT_BUSH_BAY_LEAF:
+  name: Babérbokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Ennek a bokornak az illata mérföldekre elszáll.
+CLT_BUSH_BELL_PEPPER:
+  name: Paprikabokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Óvatosan sétálj el mellette, még
+  - megkongatod a harangot.
+CLT_BUSH_BLACK_BEANS:
+  name: Feketebab-bokor
+  type:
+  - '&7&oBokor'
+  description:
+  - 'Ez a bokor halkan azt súgja neked:'
+  - Nagyszerű babszem vagy.
+CLT_BUSH_BROCCOLI:
+  name: Brokkolibokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Ehető apró fák? Ki találta ezt ki!?
+CLT_BUSH_BRUSSELS_SPROUTS:
+  name: Kelbimbóbokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Bokor, amely néha mérges
+  - gázt bocsát ki.
+CLT_BUSH_CABBAGE:
+  name: Káposztabokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Bokor, amely egy halom érzelmi
+  - káposztával érkezik.
+CLT_BUSH_CAULIFLOWER:
+  name: Karfiolbokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Bokor, amely gyönyörűséges kis
+  - felhőcskéket terem.
+CLT_BUSH_CAYENNE_PEPPER:
+  name: Kajennibors-bokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Borsos természetű bokor.
+CLT_BUSH_CELERIAC:
+  name: Zellergumó-bokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Már megint egy bokron növő gyökér?
+  - SefiDumb™
+CLT_BUSH_CELERY:
+  name: Szárzellerbokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Ez a bokor felesleges.
+  - Sefi nem szereti a zellert.
+CLT_BUSH_CHICKPEAS:
+  name: Csicseriborsó-bokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Bokor, amit egy csirke és egy borsó
+  - keresztezésével hoztak létre. TUDOMÁNY.
+CLT_BUSH_CHICORY:
+  name: Cikóriabokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Azt hittem, a cikória gyökér? Ez a bővítmény
+  - egyáltalán utánanéz a dolgoknak!?
+CLT_BUSH_CHILLI_PEPPER:
+  name: Chilipaprika-bokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Már a látványától ég a nyelvem.
+CLT_BUSH_CHIVES:
+  name: Metélőhagyma-bokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Bokor, amely gyakorlatilag a világ
+  - legkisebb hagymáját termi.
+CLT_BUSH_CILANTRO:
+  name: Korianderbokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Halvány citrus- és fűszerillat árad ebből a bokorból.
+CLT_BUSH_CINNAMON:
+  name: Fahéjbokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Elragadóan illatos bokor.
+CLT_BUSH_CLOVE:
+  name: Szegfűszeg-bokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Bokor, ami egyszerűen a karácsonyt juttatja eszembe.
+CLT_BUSH_COURGETTE:
+  name: Cukkinibokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Miért kiabálja folyton ez a bokor, hogy
+  - Zucchini? Biztos amerikai, nem?
+CLT_BUSH_CUCUMBER:
+  name: Uborkabokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Ezt a bokrot kizárólag a te csodás nyári
+  - salátáid kedvéért tervezték.
+CLT_BUSH_CUMIN:
+  name: Köménybokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Bokor, amely meleg citrusillatot áraszt.
+CLT_BUSH_CURRY_LEAF:
+  name: Currybokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Szárazon pirítva a legjobb.
+CLT_BUSH_DILL:
+  name: Kaporbokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Ez a bokor sokkal gyorsabban nő a többinél.
+CLT_BUSH_FENNEL:
+  name: Édeskömény-bokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Miért riasztja el ez a bokor a bogarakat!?
+CLT_BUSH_GARLIC:
+  name: Fokhagymabokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Ennek a bokornak egyszerűen borzalmas a lehelete.
+CLT_BUSH_GINGER:
+  name: Gyömbérbokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Ez a bokor egészben megfőzve jó.
+CLT_BUSH_GRAPE:
+  name: Szőlőbokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Érett, lédús szőlőszemek, amelyek szinte
+  - maguktól hullanak le a bokorról.
+CLT_BUSH_GREEN_BEANS:
+  name: Zöldbabbokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Önts paradicsomszószt erre a bokorra, és
+  - kész is a sült bab.
+CLT_BUSH_GREEN_ONION:
+  name: Újhagymabokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Zöldhagymának is hívják.
+  - Az újhagyma általában jóval
+  - enyhébb ízű a legtöbb hagymánál.
+CLT_BUSH_HORSERADISH:
+  name: Tormabokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Megint mondom, ennek bokron nőni semmi értelme.
+CLT_BUSH_JALAPENO:
+  name: Jalapeño-bokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Ha csak a kezedben tartod, 1%
+  - eséllyel lángra lobbansz.
+CLT_BUSH_JASMINE:
+  name: Jázminbokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Ennek a bokornak olyan lágy és bársonyos az illata.
+CLT_BUSH_JUNIPER_BERRY:
+  name: Borókabokor
+  type:
+  - '&7&oBokor'
+  description:
+  - A bokron édes, szárítva borsos.
+CLT_BUSH_KAFFIR_LIME:
+  name: Kaffirlime-bokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Bokor, amelynek a levele keresettebb, mint a termése.
+CLT_BUSH_KALE:
+  name: Fodroskel-bokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Amikor elülteted, az az érzésed támad, hogy
+  - minden kel-lemes lesz.
+CLT_BUSH_LAVENDER:
+  name: Levendulabokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Ez a bokor mindenhová szétárasztja az illatát.
+CLT_BUSH_LEEK:
+  name: Póréhagyma-bokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Tudtad, hogy a póréhagyma csak egy hagyma,
+  - ami fűzőt visel? Igaz történet.
+CLT_BUSH_LETTUCE:
+  name: Fejessaláta-bokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Egyáltalán nő bokron a saláta?
+  - 'Spoiler: Nem, nem nő.'
+CLT_BUSH_LICORICE:
+  name: Édesgyökér-bokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Fúj
+CLT_BUSH_MACE:
+  name: Szerecsendióvirág-bokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Ez a bokor mintha elriasztaná a támadókat?
+CLT_BUSH_MARJORAM:
+  name: Majoránnabokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Nagy, fás illatú bokor.
+CLT_BUSH_MARROW:
+  name: Spárgatökbokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Meglep, hogy ez a bokor elbírja a saját
+  - súlyát.
+CLT_BUSH_MINT:
+  name: Mentabokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Egyszerűen a legjobb illatú bokor.
+CLT_BUSH_MUSTARD:
+  name: Mustármag-bokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Mint a tűz a szádban.
+CLT_BUSH_NETTLES:
+  name: Csalánbokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Vigyázz, ha átsétálsz ezen a bokron!
+CLT_BUSH_OKRA:
+  name: Okrabokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Az első számú zöldség az Okra Winfrey-féle
+  - Zöldségklub szavazása szerint.
+CLT_BUSH_ONION:
+  name: Hagymabokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Nem úgy néz ki ez a bokor, mintha könnyezne?
+CLT_BUSH_OREGANO:
+  name: Oregánóbokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Ez a szúrós szagú bokor elriasztja a látogatókat.
+CLT_BUSH_PARSLEY:
+  name: Petrezselyem-bokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Dobd ezt a bokrot a lávába, most :D
+CLT_BUSH_PARSNIP:
+  name: Paszternákbokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Hagyd ki a közvetítőt, és süsd meg
+  - egyből a bokrot.
+CLT_BUSH_PEA:
+  name: Borsóbokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Én a Q-t jobban szeretem
+CLT_BUSH_PEANUTS:
+  name: Földimogyoró-bokor
+  type:
+  - '&7&oBokor'
+  description: &id001
+  - Tömör, illatos és tele fehérjével.
+CLT_BUSH_PEPPER:
+  name: Feketebors-bokor
+  type:
+  - '&7&oBokor'
+  description:
+  - A fekete bors már a görög és római időkben
+  - fontos része volt az India és Európa
+  - közötti fűszerkereskedelemnek.
+CLT_BUSH_PINTO_BEANS:
+  name: Tarkababbokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Már nem tart sokáig, és sikerül kinemesíteni
+  - egy egyenesen burritót termő bokrot, ugye?
+CLT_BUSH_RADDISH:
+  name: Retekbokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Ez a növény most mutatott be egy gördeszkás trükköt.
+  - Na ez retek menő.
+CLT_BUSH_RADICCHIO:
+  name: Radicchio-bokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Szeretnél előkelőnek tűnni? Tegyél radicchiót
+  - bármelyik ételbe, olyan, mint a káposzta, csak
+  - kifinomultnak tűnsz tőle.
+CLT_BUSH_RAPESEED:
+  name: Repcebokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Ez a bokor valami olajos anyagot izzad.
+CLT_BUSH_RHUBARB:
+  name: Rebarbarabokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Tudtad, hogy a rebarbara zöldség?
+  - Én azt hittem, valami barbár fegyver.
+CLT_BUSH_RICE:
+  name: Rizsbokor
+  type:
+  - '&7&oBokor'
+  description:
+  - A tökéletes alapétel.
+CLT_BUSH_ROSEMARY:
+  name: Rozmaringbokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Bokor, amelynek az illata a vasárnapi ebédeket idézi.
+CLT_BUSH_RUNNER_BEANS:
+  name: Futóbabbokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Ennek a bokornak lába van o.o?
+CLT_BUSH_RUTABAGA:
+  name: Karórépabokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Karórépa. Ez egy karórépa.
+CLT_BUSH_SASSAFRAS:
+  name: Szasszafrászbokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Ez a bokor szeret kisebb vizek közelében
+  - nőni.
+CLT_BUSH_SHALLOT:
+  name: Salottahagyma-bokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Ez a bokor szaporán termi a kedves kis hagymákat.
+  - Szerencsére salottát sem kell hozzá rendelni.
+CLT_BUSH_SHISO:
+  name: Shiso-bokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Szerintem ez a bokor egy mentabokor és egy
+  - bazsalikombokor szerelemgyereke. Kár, hogy
+  - bokrokat nem lehet keresztezni!
+CLT_BUSH_SOY_BEANS:
+  name: Szójababbokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Ez a bokor barátságos gyönyörűség. Tőle
+  - szója-tán boldog vagyok.
+CLT_BUSH_SPINACH:
+  name: Spenótbokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Ez a bokor Popeye legjobb barátja.
+CLT_BUSH_STAR_ANISE:
+  name: Csillagánizs-bokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Ebből a bokorból olyan egyedi ánizsillat árad,
+  - hogy el sem hiszed.
+CLT_BUSH_STRAWBERRY:
+  name: Eperbokor
+  type:
+  - '&7&oBokor'
+  description: *id001
+CLT_BUSH_SWEETCORN:
+  name: Csemegekukorica-bokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Ez a bokor egyenesen könyörög, hogy
+  - labirintust építsenek belőle.
+CLT_BUSH_SWEET_POTATO:
+  name: Édesburgonya-bokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Ez a bokor annyira édes. Hallottam, ahogy
+  - bókolt neked, amíg nem figyeltél.
+CLT_BUSH_TARRAGON:
+  name: Tárkonybokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Ez a bokor nem szeret túl nagy feltűnést kelteni.
+CLT_BUSH_THYME:
+  name: Kakukkfűbokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Ennek a bokornak sosincs elég... kakukk... ideje... *khm*
+CLT_BUSH_TOMATO:
+  name: Paradicsombokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Érett és kész.
+CLT_BUSH_TURMERIC:
+  name: Kurkumabokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Fűszeres illat csapja meg az orrod, már ha
+  - csak a kezedben tartod ezt a bokrot.
+CLT_BUSH_TURNIP:
+  name: Tarlórépabokor
+  type:
+  - '&7&oBokor'
+  description:
+  - A brit kormány szerint ez a bokor
+  - minden problémánkat megoldja.
+CLT_BUSH_VANILLA:
+  name: Vaníliabokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Ez a bokor őshonosan a StarBucks kávézók közelében nő.
+CLT_BUSH_WASABI:
+  name: Wasabibokor
+  type:
+  - '&7&oBokor'
+  description:
+  - Már megint egy bokron növő gyökér?
+  - Ajj...
+CLT_CABBAGE:
+  name: Káposzta
+  type:
+  - '&7&oTermény'
+  description:
+  - Egy káposztányi poggyász.
+CLT_CAESAR_SALAD:
+  name: Cézársaláta
+  type:
+  - '&7&oÉtel'
+  description:
+  - Egészséges klasszikus.
+  stats:
+  - '&8⇨ &7Gyógyulás: &b6 szív'
+  - '&8⇨ &bGyorsaság I &7(10:00)'
+  - '&8⇨ &bLáthatatlanság I &7(10:00)'
+  - '&8⇨ &bLassú zuhanás I &7(10:00)'
+CLT_CAJUN_GARLIC_BUTTER_COD:
+  name: Cajun fokhagymás vajas tőkehal
+  type:
+  - '&7&oÉtel'
+  description:
+  - Nagyon egyszerű étel, tele ízekkel.
+  stats:
+  - '&8⇨ &7Gyógyulás: &b4 szív'
+  - '&8⇨ &bRegeneráció II &7(10:00)'
+  - '&8⇨ &bGyorsaság I &7(10:00)'
+CLT_CAULIFLOWER:
+  name: Karfiol
+  type:
+  - '&7&oTermény'
+  description:
+  - Hordozható felhő!
+CLT_CAYENNE_PEPPER:
+  name: Kajenni bors
+  type:
+  - '&7&oTermény'
+  description:
+  - Lágyan fűszeres csemege.
+CLT_CELERIAC:
+  name: Zellergumó
+  type:
+  - '&7&oTermény'
+  description:
+  - Kiadós gyökér, amely sok hagyományos receptben
+  - gyökeret vert (hehe).
+CLT_CELERY:
+  name: Szárzeller
+  type:
+  - '&7&oTermény'
+  description:
+  - Szó szerint csak szálas víz. Győzz meg
+  - az ellenkezőjéről.
+CLT_CHEESE_BURGER:
+  name: Hamburger
+  type:
+  - '&7&oÉtel'
+  description:
+  - Egyszerű sajtburger, de semmi sem veri!
+  stats:
+  - '&8⇨ &7Gyógyulás: &b4 szív'
+  - '&8⇨ &bRegeneráció III &7(10:00)'
+CLT_CHEESY_SCALLOPED_COURGETTE:
+  name: Sajtos rakott cukkini
+  type:
+  - '&7&oÉtel'
+  description:
+  - Egy csodás klasszikus szénhidrátszegény változata.
+  stats:
+  - '&8⇨ &7Gyógyulás: &b2 szív'
+  - '&8⇨ &bÉjjellátás I &7(10:00)'
+  - '&8⇨ &bLáthatatlanság I &7(10:00)'
+CLT_CHERRY:
+  name: Cseresznye
+  type:
+  - '&7&oTermény'
+  description:
+  - Ó, azt hittem, eleve kandírozva nőnek, kár!
+CLT_CHESTNUT:
+  name: Gesztenye
+  type:
+  - '&7&oTermény'
+  description:
+  - Arra tervezték, hogy azonnal megsüssék.
+CLT_CHICKEN_ALFREDO_MAC_AND_CHEESE:
+  name: Csirkés Alfredo sajtos makaróni
+  type:
+  - '&7&oÉtel'
+  description:
+  - Elegáns csavar egy közismert klasszikuson.
+  stats:
+  - '&8⇨ &7Gyógyulás: &b1 szív'
+  - '&8⇨ &bTűzállóság II &7(10:00)'
+  - '&8⇨ &bEllenállás III &7(10:00)'
+CLT_CHICKEN_PASTA_BAKE:
+  name: Csirkés rakott tészta
+  type:
+  - '&7&oÉtel'
+  description:
+  - A diákok alapétele.
+  stats:
+  - '&8⇨ &7Gyógyulás: &b5 szív'
+  - '&8⇨ &bÉjjellátás I &7(10:00)'
+  - '&8⇨ &bVízlégzés I &7(10:00)'
+CLT_CHICKEN_POT_PIE:
+  name: Csirkés rakott pite
+  type:
+  - '&7&oÉtel'
+  description:
+  - Melengető étel, amitől otthon érzed magad.
+  stats:
+  - '&8⇨ &7Gyógyulás: &b10 szív'
+  - '&8⇨ &bMagasugrás II &7(10:00)'
+  - '&8⇨ &bTelítettség I &7(10:00)'
+CLT_CHICKPEAS:
+  name: Csicseriborsó
+  type:
+  - '&7&oTermény'
+  description:
+  - A fekete szemű bab dalra fakad, a csicseriborsó csak hummuszog.
+CLT_CHICORY:
+  name: Cikória
+  type:
+  - '&7&oTermény'
+  description:
+  - Diós, kesernyés gyökér.
+CLT_CHILLY_PEPPER:
+  name: Chilipaprika
+  type:
+  - '&7&oTermény'
+  description:
+  - Meg tudok enni egy egész paprikát sírás nélkül.
+  - Jó, felét.
+  - HÁÁÁT.... 1/4-ét
+  - '...'
+  - Oké, a nyelvemhez tudom érinteni
+CLT_CHIVES:
+  name: Metélőhagyma
+  type:
+  - '&7&oTermény'
+  description:
+  - Édes, hagymaízű fűszernövény.
+CLT_CHOPPED_APPLE:
+  name: Aprított alma
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_APRICOT:
+  name: Aprított sárgabarack
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_ARTICHOKE:
+  name: Aprított articsóka
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_ASPARAGUS:
+  name: Aprított spárga
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_AUBERGINE:
+  name: Aprított padlizsán
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_AVOCADO:
+  name: Aprított avokádó
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_BANANA:
+  name: Aprított banán
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_BASIL:
+  name: Aprított bazsalikom
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_BAY_LEAF:
+  name: Aprított babérlevél
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_BEEF:
+  name: Aprított marhahús
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_BEETROOT:
+  name: Aprított cékla
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_BELL_PEPPER:
+  name: Aprított kaliforniai paprika
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_BLACK_BEANS:
+  name: Aprított fekete bab
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_BREAD:
+  name: Aprított kenyér
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_BROCCOLI:
+  name: Aprított brokkoli
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_BROWN_MUSHROOM:
+  name: Aprított barna gomba
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_BRUSSELS_SPROUTS:
+  name: Aprított kelbimbó
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_CABBAGE:
+  name: Aprított káposzta
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_CARROT:
+  name: Aprított sárgarépa
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_CAULIFLOWER:
+  name: Aprított karfiol
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_CAYENNE_PEPPER:
+  name: Aprított kajenni bors
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_CELERIAC:
+  name: Aprított zellergumó
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_CELERY:
+  name: Aprított szárzeller
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_CHERRY:
+  name: Aprított cseresznye
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_CHESTNUT:
+  name: Aprított gesztenye
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_CHICKEN:
+  name: Aprított csirke
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_CHICKPEAS:
+  name: Aprított csicseriborsó
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_CHICORY:
+  name: Aprított cikória
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_CHILLY_PEPPER:
+  name: Aprított chilipaprika
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_CHIVES:
+  name: Aprított metélőhagyma
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_CHORUS_FRUIT:
+  name: Aprított refréngyümölcs
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_CILANTRO:
+  name: Aprított koriander
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_CINNAMON:
+  name: Aprított fahéj
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_CLOVE:
+  name: Aprított szegfűszeg
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_COCOA_BEANS:
+  name: Aprított kakaóbab
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_COD:
+  name: Aprított tőkehal
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_COURGETTE:
+  name: Aprított cukkini
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_CUCUMBER:
+  name: Aprított uborka
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_CUMIN:
+  name: Aprított kömény
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_CURRY_LEAF:
+  name: Aprított currylevél
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_DILL:
+  name: Aprított kapor
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_EGG:
+  name: Aprított tojás
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_ENCHANTED_GOLDEN_APPLE:
+  name: Aprított bűvös aranyalma
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_FENNEL:
+  name: Aprított édeskömény
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_GARLIC:
+  name: Aprított fokhagyma
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_GINGER:
+  name: Aprított gyömbér
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_GLOW_BERRIES:
+  name: Aprított fényszeder
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_GOLDEN_APPLE:
+  name: Aprított aranyalma
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_GOLDEN_CARROT:
+  name: Aprított aranyrépa
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_GRAPE:
+  name: Aprított szőlő
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_GREEN_APPLE:
+  name: Aprított zöldalma
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_GREEN_BEANS:
+  name: Aprított zöldbab
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_GREEN_ONION:
+  name: Aprított újhagyma
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_HAZELNUT:
+  name: Aprított mogyoró
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_HORSERADISH:
+  name: Aprított torma
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_JALAPENO:
+  name: Aprított jalapeño
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_JASMINE:
+  name: Aprított jázmin
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_JUNIPER_BERRY:
+  name: Aprított borókabogyók
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_KAFFIR_LIME:
+  name: Aprított kaffirlime-levél
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_KALE:
+  name: Aprított fodros kel
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_KELP:
+  name: Aprított hínár
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_KIWI:
+  name: Aprított kivi
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_LAVENDER:
+  name: Aprított levendula
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_LEEK:
+  name: Aprított póréhagyma
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_LEMON:
+  name: Aprított citrom
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_LETTUCE:
+  name: Aprított fejes saláta
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_LICORICE:
+  name: Aprított édesgyökér
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_LIME:
+  name: Aprított zöldcitrom
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_MACE:
+  name: Aprított szerecsendióvirág
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_MANGO:
+  name: Aprított mangó
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_MARJORAM:
+  name: Aprított majoránna
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_MARROW:
+  name: Aprított spárgatök
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_MELON:
+  name: Aprított dinnye
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_MINT:
+  name: Aprított menta
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_MUSTARD_SEEDS:
+  name: Aprított mustármagvak
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_MUTTON:
+  name: Aprított birkahús
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_NETTLES:
+  name: Aprított csalán
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_OKRA:
+  name: Aprított okra
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_ONION:
+  name: Aprított hagyma
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_ORANGE:
+  name: Aprított narancs
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_OREGANO:
+  name: Aprított oregánó
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_PARSLEY:
+  name: Aprított petrezselyem
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_PARSNIP:
+  name: Aprított paszternák
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_PEA:
+  name: Aprított borsó
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_PEACH:
+  name: Aprított őszibarack
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_PEANUT:
+  name: Aprított földimogyoró
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_PEAR:
+  name: Aprított körte
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_PECAN:
+  name: Aprított pekándió
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_PEPPER:
+  name: Aprított fekete bors
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_PEPPERONI:
+  name: Aprított pepperoni
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_PINEAPPLE:
+  name: Aprított ananász
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_PINTO_BEANS:
+  name: Aprított tarka bab
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_PORKCHOP:
+  name: Aprított disznóhús
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_POTATO:
+  name: Aprított burgonya
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_PUFFERFISH:
+  name: Aprított gömbhal
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_PUMPKIN:
+  name: Aprított tök
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_RABBIT:
+  name: Aprított nyúl
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_RADDISH:
+  name: Aprított retek
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_RADICCHIO:
+  name: Aprított radicchio
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_RAPESEED:
+  name: Aprított repce
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_RED_MUSHROOM:
+  name: Aprított piros gomba
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_RHUBARB:
+  name: Aprított rebarbara
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_RICE:
+  name: Aprított rizs
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_ROSEMARY:
+  name: Aprított rozmaring
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_ROTTEN_FLESH:
+  name: Aprított rohadt hús
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_RUNNER_BEANS:
+  name: Aprított futóbab
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_RUTABAGA:
+  name: Aprított karórépa
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_SALMON:
+  name: Aprított lazac
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_SASSAFRAS:
+  name: Aprított szasszafrász
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_SHALLOT:
+  name: Aprított salottahagyma
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_SHISO:
+  name: Aprított shiso
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_SOY_BEANS:
+  name: Aprított szójabab
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_SPINACH:
+  name: Aprított spenót
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_STAR_ANISE:
+  name: Aprított csillagánizs
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_STRAWBERRY:
+  name: Aprított eper
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_SUGAR:
+  name: Aprított cukor
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_SWEETCORN:
+  name: Aprított csemegekukorica
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_SWEET_BERRIES:
+  name: Aprított édes bogyók
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_SWEET_POTATO:
+  name: Aprított édes burgonya
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_TARRAGON:
+  name: Aprított tárkony
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_THYME:
+  name: Aprított kakukkfű
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_TOMATO:
+  name: Aprított paradicsom
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_TURMERIC:
+  name: Aprított kurkuma
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_TURNIP:
+  name: Aprított tarlórépa
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_VANILLA:
+  name: Aprított vanília
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_WASABI:
+  name: Aprított wasabi
+  type:
+  - '&7&oMelléktermék'
+CLT_CHOPPED_WHEAT:
+  name: Aprított búza
+  type:
+  - '&7&oMelléktermék'
+CLT_CILANTRO:
+  name: Koriander
+  type:
+  - '&7&oTermény'
+  description:
+  - Lágy fűszer egy csipetnyi citrussal.
+CLT_CINNAMON:
+  name: Fahéj
+  type:
+  - '&7&oTermény'
+  description:
+  - Rúd formájában remek rágcsálni.
+CLT_CINNAMON_ROLL:
+  name: Fahéjas csiga
+  type:
+  - '&7&oÉtel'
+  description:
+  - Édes gyönyörűség, a móka kedvéért feltekerve.
+  - Ha megeszed, a feje tetejére áll a világ!
+  stats:
+  - '&8⇨ &7Gyógyulás: &b4 szív'
+  - '&8⇨ &bLebegés I &7(10:00)'
+  - '&8⇨ &bLassú zuhanás I &7(10:00)'
+CLT_CLOVE:
+  name: Szegfűszeg
+  type:
+  - '&7&oTermény'
+  description:
+  - Szuper meleg és intenzív íz.
+CLT_COMPRESSED_BISCUIT:
+  name: Préselt keksz
+  type:
+  - '&7&oÉtel'
+  description:
+  - Kis nasi, még hatalmasabb ízzel.
+  stats: *id002
+CLT_COOKED_BURGER_PATTY:
+  name: Sült hamburgerhús
+  type:
+  - '&7&oTermény'
+  description:
+  - Szinte csöpög
+CLT_COUNTER_BLENDER:
+  name: Konyhapult (turmixgép)
+  type:
+  - '&7&oGép'
+  description:
+  - Kattints jobb gombbal erre a blokkra a termény turmixolásához.
+  usage: &id003
+  - Profi tipp! Lehelyezés után Shift + jobb
+  - kattintással a kezedben tartott blokk(ok)
+  - megváltoztatják a konyha kinézetét. Próbáld ki!
+CLT_COUNTER_BOILING:
+  name: Konyhapult (főzőedény)
+  type:
+  - '&7&oGép'
+  description:
+  - Bizonyos tárgyakat meg tud főzni.
+  usage: *id003
+CLT_COUNTER_CHOPPING:
+  name: Konyhapult (vágódeszka)
+  type:
+  - '&7&oGép'
+  description:
+  - Kattints jobb gombbal erre a blokkra a termény aprításához.
+  usage: *id003
+CLT_COUNTER_FINISHING:
+  name: Konyhapult (tálalás)
+  type:
+  - '&7&oGép'
+  description:
+  - Termékekből és melléktermékekből készít
+  - további melléktermékeket vagy kész ételeket.
+  usage: *id003
+CLT_COUNTER_FRYING:
+  name: Konyhapult (serpenyő)
+  type:
+  - '&7&oGép'
+  description:
+  - Bizonyos terményeket meg tud sütni.
+  usage: *id003
+CLT_COUNTER_GRILL:
+  name: Konyhapult (grill)
+  type:
+  - '&7&oGép'
+  description:
+  - Bizonyos terményeket meg tud grillezni.
+  usage: *id003
+CLT_COUNTER_GRINDER:
+  name: Konyhapult (mozsár és mozsártörő)
+  type:
+  - '&7&oGép'
+  description:
+  - Kattints jobb gombbal erre a blokkra a termény őrléséhez.
+  usage: *id003
+CLT_COUNTER_MASHER:
+  name: Konyhapult (pépesítőtál)
+  type:
+  - '&7&oGép'
+  description:
+  - Kattints jobb gombbal erre a blokkra a termény pépesítéséhez.
+  usage: *id003
+CLT_COUNTER_NOTHING:
+  name: Konyhapult (üres)
+  type:
+  - '&7&oGép'
+  description:
+  - Csak dekoráció!
+  usage: *id003
+CLT_COUNTER_OVEN:
+  name: Konyhapult (sütő)
+  type:
+  - '&7&oGép'
+  description:
+  - Bizonyos terményeket ki tud sütni.
+  usage: *id003
+CLT_COUNTER_SLICING:
+  name: Konyhapult (szeletelődeszka)
+  type:
+  - '&7&oGép'
+  description:
+  - Kattints jobb gombbal erre a blokkra a termény szeleteléséhez.
+  usage: *id003
+CLT_COURGETTE:
+  name: Cukkini
+  type:
+  - '&7&oTermény'
+  description:
+  - 'Profi tipp: Reszeld bármilyen tésztaszószba'
+  - a mélyebb ízért és textúráért.
+CLT_CREAM_CHEESE:
+  name: Krémsajt
+  type:
+  - '&7&oTermény'
+  description:
+  - Inkább krémes, mint sajtos.
+CLT_CROP_STICKS:
+  name: Terménykarók
+  type:
+  - '&7&oEszköz'
+  description:
+  - A terménykarókat egy lehelyezett
+  - magra kell rakni, hogy nőni tudjon.
+  - Egy második készlet lehelyezése keresztezi
+  - a növényt, így az terjedhet és/vagy
+  - szaporodhat.
+CLT_CUCUMBER:
+  name: Uborka
+  type:
+  - '&7&oTermény'
+  description:
+  - Víz zöld héjban, bizonyítsd be,
+  - hogy tévedek.
+CLT_CUMIN:
+  name: Kömény
+  type:
+  - '&7&oTermény'
+  description:
+  - Meleg, citrusos növény.
+CLT_CURRY_LEAF:
+  name: Currylevél
+  type:
+  - '&7&oTermény'
+  description:
+  - Megannyi csodás étel alapja.
+CLT_DILL:
+  name: Kapor
+  type:
+  - '&7&oTermény'
+  description:
+  - Nekem csak fűíze van. Miért
+  - szeretik ezt az emberek?
+CLT_DOUGH:
+  name: Nyers tészta
+  type:
+  - '&7&oTermény'
+  description:
+  - Csak egy sima tészta!
+CLT_EGG_SALAD:
+  name: Tojássaláta
+  type:
+  - '&7&oTermény'
+  description:
+  - Bontsd ki ezt a vonaton, ha mered!
+CLT_EGG_SALAD_SANDWICH:
+  name: Tojássalátás szendvics
+  type:
+  - '&7&oÉtel'
+  description:
+  - Kicsit szaglik, de az íze fantasztikus!
+  stats: &id006
+  - '&8⇨ &7Gyógyulás: &b10 szív'
+  - '&8⇨ &bRegeneráció II &7(10:00)'
+CLT_FENNEL:
+  name: Édeskömény
+  type:
+  - '&7&oTermény'
+  description:
+  - Mint az ánizs és az édesgyökér keveréke.
+CLT_FRIED_APPLE:
+  name: Sült alma
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_APRICOT:
+  name: Sült sárgabarack
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_ARTICHOKE:
+  name: Sült articsóka
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_ASPARAGUS:
+  name: Sült spárga
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_AUBERGINE:
+  name: Sült padlizsán
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_AVOCADO:
+  name: Sült avokádó
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_BANANA:
+  name: Sült banán
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_BASIL:
+  name: Sült bazsalikom
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_BAY_LEAF:
+  name: Sült babérlevél
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_BEEF:
+  name: Sült marhahús
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_BEETROOT:
+  name: Sült cékla
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_BELL_PEPPER:
+  name: Sült kaliforniai paprika
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_BLACK_BEANS:
+  name: Sült fekete bab
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_BREAD:
+  name: Sült kenyér
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_BROCCOLI:
+  name: Sült brokkoli
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_BROWN_MUSHROOM:
+  name: Sült barna gomba
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_BRUSSELS_SPROUTS:
+  name: Sült kelbimbó
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_CABBAGE:
+  name: Sült káposzta
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_CARROT:
+  name: Sült sárgarépa
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_CAULIFLOWER:
+  name: Sült karfiol
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_CAYENNE_PEPPER:
+  name: Sült kajenni bors
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_CELERIAC:
+  name: Sült zellergumó
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_CELERY:
+  name: Sült szárzeller
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_CHERRY:
+  name: Sült cseresznye
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_CHESTNUT:
+  name: Sült gesztenye
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_CHICKEN:
+  name: Sült csirke
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_CHICKPEAS:
+  name: Sült csicseriborsó
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_CHICORY:
+  name: Sült cikória
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_CHILLY_PEPPER:
+  name: Sült chilipaprika
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_CHIVES:
+  name: Sült metélőhagyma
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_CHORUS_FRUIT:
+  name: Sült refréngyümölcs
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_CILANTRO:
+  name: Sült koriander
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_CINNAMON:
+  name: Sült fahéj
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_CLOVE:
+  name: Sült szegfűszeg
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_COCOA_BEANS:
+  name: Sült kakaóbab
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_COD:
+  name: Sült tőkehal
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_COURGETTE:
+  name: Sült cukkini
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_CUCUMBER:
+  name: Sült uborka
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_CUMIN:
+  name: Sült kömény
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_CURRY_LEAF:
+  name: Sült currylevél
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_DILL:
+  name: Sült kapor
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_EGG:
+  name: Sült tojás
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_ENCHANTED_GOLDEN_APPLE:
+  name: Sült bűvös aranyalma
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_FENNEL:
+  name: Sült édeskömény
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_GARLIC:
+  name: Sült fokhagyma
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_GINGER:
+  name: Sült gyömbér
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_GLOW_BERRIES:
+  name: Sült fényszeder
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_GOLDEN_APPLE:
+  name: Sült aranyalma
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_GOLDEN_CARROT:
+  name: Sült aranyrépa
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_GRAPE:
+  name: Sült szőlő
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_GREEN_APPLE:
+  name: Sült zöldalma
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_GREEN_BEANS:
+  name: Sült zöldbab
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_GREEN_ONION:
+  name: Sült újhagyma
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_HAZELNUT:
+  name: Sült mogyoró
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_HORSERADISH:
+  name: Sült torma
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_JALAPENO:
+  name: Sült jalapeño
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_JASMINE:
+  name: Sült jázmin
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_JUNIPER_BERRY:
+  name: Sült borókabogyók
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_KAFFIR_LIME:
+  name: Sült kaffirlime-levél
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_KALE:
+  name: Sült fodros kel
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_KELP:
+  name: Sült hínár
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_KIWI:
+  name: Sült kivi
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_LAVENDER:
+  name: Sült levendula
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_LEEK:
+  name: Sült póréhagyma
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_LEMON:
+  name: Sült citrom
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_LETTUCE:
+  name: Sült fejes saláta
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_LICORICE:
+  name: Sült édesgyökér
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_LIME:
+  name: Sült zöldcitrom
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_MACE:
+  name: Sült szerecsendióvirág
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_MANGO:
+  name: Sült mangó
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_MARJORAM:
+  name: Sült majoránna
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_MARROW:
+  name: Sült spárgatök
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_MELON:
+  name: Sült dinnye
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_MINT:
+  name: Sült menta
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_MUSTARD_SEEDS:
+  name: Sült mustármagvak
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_MUTTON:
+  name: Sült birkahús
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_NETTLES:
+  name: Sült csalán
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_OKRA:
+  name: Sült okra
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_ONION:
+  name: Sült hagyma
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_ORANGE:
+  name: Sült narancs
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_OREGANO:
+  name: Sült oregánó
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_PARSLEY:
+  name: Sült petrezselyem
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_PARSNIP:
+  name: Sült paszternák
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_PEA:
+  name: Sült borsó
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_PEACH:
+  name: Sült őszibarack
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_PEANUT:
+  name: Sült földimogyoró
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_PEAR:
+  name: Sült körte
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_PECAN:
+  name: Sült pekándió
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_PEPPER:
+  name: Sült fekete bors
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_PEPPERONI:
+  name: Sült pepperoni
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_PINEAPPLE:
+  name: Sült ananász
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_PINTO_BEANS:
+  name: Sült tarka bab
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_PORKCHOP:
+  name: Sült disznóhús
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_POTATO:
+  name: Sült burgonya
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_PUFFERFISH:
+  name: Sült gömbhal
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_PUMPKIN:
+  name: Sült tök
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_RABBIT:
+  name: Sült nyúl
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_RADDISH:
+  name: Sült retek
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_RADICCHIO:
+  name: Sült radicchio
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_RAPESEED:
+  name: Sült repce
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_RED_MUSHROOM:
+  name: Sült piros gomba
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_RHUBARB:
+  name: Sült rebarbara
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_RICE:
+  name: Sült rizs
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_ROSEMARY:
+  name: Sült rozmaring
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_ROTTEN_FLESH:
+  name: Sült rohadt hús
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_RUNNER_BEANS:
+  name: Sült futóbab
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_RUTABAGA:
+  name: Sült karórépa
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_SALMON:
+  name: Sült lazac
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_SASSAFRAS:
+  name: Sült szasszafrász
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_SHALLOT:
+  name: Sült salottahagyma
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_SHISO:
+  name: Sült shiso
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_SOY_BEANS:
+  name: Sült szójabab
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_SPINACH:
+  name: Sült spenót
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_STAR_ANISE:
+  name: Sült csillagánizs
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_STRAWBERRY:
+  name: Sült eper
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_SUGAR:
+  name: Sült cukor
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_SWEETCORN:
+  name: Sült csemegekukorica
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_SWEET_BERRIES:
+  name: Sült édes bogyók
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_SWEET_POTATO:
+  name: Sült édes burgonya
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_TARRAGON:
+  name: Sült tárkony
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_THYME:
+  name: Sült kakukkfű
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_TOMATO:
+  name: Sült paradicsom
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_TURMERIC:
+  name: Sült kurkuma
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_TURNIP:
+  name: Sült tarlórépa
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_VANILLA:
+  name: Sült vanília
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_WASABI:
+  name: Sült wasabi
+  type:
+  - '&7&oMelléktermék'
+CLT_FRIED_WHEAT:
+  name: Sült búza
+  type:
+  - '&7&oMelléktermék'
+CLT_FRUIT_SALAD:
+  name: Gyümölcssaláta
+  type:
+  - '&7&oÉtel'
+  description:
+  - Ha salátának hívod, annyit ehetsz belőle,
+  - amennyit csak akarsz, mert egészséges.
+  stats:
+  - '&8⇨ &7Gyógyulás: &b6 szív'
+  - '&8⇨ &bGyorsaság III &7(10:00)'
+CLT_FUGU:
+  name: Fugu
+  type:
+  - '&7&oÉtel'
+  description:
+  - Készen állsz kockáztatni?
+  stats:
+  - '&8⇨ &7Gyógyulás: &b1 szív'
+  - '&8⇨ &bErő V &7(10:00)'
+  - '&8⇨ &733% esély, hogy simán meghalsz!'
+CLT_GARDEN_CLOCHE:
+  name: Kerti búra
+  type:
+  - '&7&oGép'
+  description:
+  - Automatikusan növényeket nevel magában.
+  stats:
+  - '&8⇨ &7Energia tickenként: &b100'
+CLT_GARLIC:
+  name: Fokhagyma
+  type:
+  - '&7&oTermény'
+  description:
+  - Gyorsan, mielőtt jönnek a vámpírok!
+CLT_GARLIC_BUTTER_MUSHROOMS:
+  name: Fokhagymás vajas gomba
+  type:
+  - '&7&oÉtel'
+  description:
+  - Könnyen lehet, hogy ez a legjobb étel a földön.
+  stats:
+  - '&8⇨ &7Gyógyulás: &b2 szív'
+  - '&8⇨ &bFénylés I &7(10:00)'
+CLT_GINGER:
+  name: Gyömbér
+  type:
+  - '&7&oTermény'
+  description:
+  - Aprított gyömbér forró vízben, minden bajra jó!
+CLT_GRAPE:
+  name: Szőlő
+  type:
+  - '&7&oTermény'
+  description:
+  - Milyen pufók!
+CLT_GRAPE_JELLY:
+  name: Szőlőzselé
+  type:
+  - '&7&oTermény'
+  description: &id008
+  - Kanállal enni bűncselekmény.
+CLT_GREEN_APPLE:
+  name: Zöldalma
+  type:
+  - '&7&oTermény'
+  description:
+  - A cetlin ez áll... Kedves Tanárnő?
+CLT_GREEN_BEANS:
+  name: Zöldbab
+  type:
+  - '&7&oTermény'
+  description:
+  - Milyen kreatív név!
+CLT_GREEN_ONION:
+  name: Újhagyma
+  type:
+  - '&7&oTermény'
+  description:
+  - Remekül illik a tacóhoz!
+CLT_GRILLED_APPLE:
+  name: Grillezett alma
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_APRICOT:
+  name: Grillezett sárgabarack
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_ARTICHOKE:
+  name: Grillezett articsóka
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_ASPARAGUS:
+  name: Grillezett spárga
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_AUBERGINE:
+  name: Grillezett padlizsán
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_AVOCADO:
+  name: Grillezett avokádó
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_BANANA:
+  name: Grillezett banán
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_BASIL:
+  name: Grillezett bazsalikom
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_BAY_LEAF:
+  name: Grillezett babérlevél
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_BEEF:
+  name: Grillezett marhahús
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_BEETROOT:
+  name: Grillezett cékla
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_BELL_PEPPER:
+  name: Grillezett kaliforniai paprika
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_BLACK_BEANS:
+  name: Grillezett fekete bab
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_BREAD:
+  name: Grillezett kenyér
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_BROCCOLI:
+  name: Grillezett brokkoli
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_BROWN_MUSHROOM:
+  name: Grillezett barna gomba
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_BRUSSELS_SPROUTS:
+  name: Grillezett kelbimbó
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_CABBAGE:
+  name: Grillezett káposzta
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_CARROT:
+  name: Grillezett sárgarépa
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_CAULIFLOWER:
+  name: Grillezett karfiol
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_CAYENNE_PEPPER:
+  name: Grillezett kajenni bors
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_CELERIAC:
+  name: Grillezett zellergumó
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_CELERY:
+  name: Grillezett szárzeller
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_CHERRY:
+  name: Grillezett cseresznye
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_CHESTNUT:
+  name: Grillezett gesztenye
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_CHICKEN:
+  name: Grillezett csirke
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_CHICKPEAS:
+  name: Grillezett csicseriborsó
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_CHICORY:
+  name: Grillezett cikória
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_CHILLY_PEPPER:
+  name: Grillezett chilipaprika
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_CHIVES:
+  name: Grillezett metélőhagyma
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_CHORUS_FRUIT:
+  name: Grillezett refréngyümölcs
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_CILANTRO:
+  name: Grillezett koriander
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_CINNAMON:
+  name: Grillezett fahéj
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_CLOVE:
+  name: Grillezett szegfűszeg
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_COCOA_BEANS:
+  name: Grillezett kakaóbab
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_COD:
+  name: Grillezett tőkehal
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_COURGETTE:
+  name: Grillezett cukkini
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_CUCUMBER:
+  name: Grillezett uborka
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_CUMIN:
+  name: Grillezett kömény
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_CURRY_LEAF:
+  name: Grillezett currylevél
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_DILL:
+  name: Grillezett kapor
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_EGG:
+  name: Grillezett tojás
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_ENCHANTED_GOLDEN_APPLE:
+  name: Grillezett bűvös aranyalma
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_FENNEL:
+  name: Grillezett édeskömény
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_GARLIC:
+  name: Grillezett fokhagyma
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_GINGER:
+  name: Grillezett gyömbér
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_GLOW_BERRIES:
+  name: Grillezett fényszeder
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_GOLDEN_APPLE:
+  name: Grillezett aranyalma
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_GOLDEN_CARROT:
+  name: Grillezett aranyrépa
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_GRAPE:
+  name: Grillezett szőlő
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_GREEN_APPLE:
+  name: Grillezett zöldalma
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_GREEN_BEANS:
+  name: Grillezett zöldbab
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_GREEN_ONION:
+  name: Grillezett újhagyma
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_HAZELNUT:
+  name: Grillezett mogyoró
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_HORSERADISH:
+  name: Grillezett torma
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_JALAPENO:
+  name: Grillezett jalapeño
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_JASMINE:
+  name: Grillezett jázmin
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_JUNIPER_BERRY:
+  name: Grillezett borókabogyók
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_KAFFIR_LIME:
+  name: Grillezett kaffirlime-levél
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_KALE:
+  name: Grillezett fodros kel
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_KELP:
+  name: Grillezett hínár
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_KIWI:
+  name: Grillezett kivi
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_LAVENDER:
+  name: Grillezett levendula
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_LEEK:
+  name: Grillezett póréhagyma
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_LEMON:
+  name: Grillezett citrom
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_LETTUCE:
+  name: Grillezett fejes saláta
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_LICORICE:
+  name: Grillezett édesgyökér
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_LIME:
+  name: Grillezett zöldcitrom
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_MACE:
+  name: Grillezett szerecsendióvirág
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_MANGO:
+  name: Grillezett mangó
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_MARJORAM:
+  name: Grillezett majoránna
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_MARROW:
+  name: Grillezett spárgatök
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_MELON:
+  name: Grillezett dinnye
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_MINT:
+  name: Grillezett menta
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_MUSTARD_SEEDS:
+  name: Grillezett mustármagvak
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_MUTTON:
+  name: Grillezett birkahús
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_NETTLES:
+  name: Grillezett csalán
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_OKRA:
+  name: Grillezett okra
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_ONION:
+  name: Grillezett hagyma
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_ORANGE:
+  name: Grillezett narancs
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_OREGANO:
+  name: Grillezett oregánó
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_PARSLEY:
+  name: Grillezett petrezselyem
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_PARSNIP:
+  name: Grillezett paszternák
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_PEA:
+  name: Grillezett borsó
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_PEACH:
+  name: Grillezett őszibarack
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_PEANUT:
+  name: Grillezett földimogyoró
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_PEAR:
+  name: Grillezett körte
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_PECAN:
+  name: Grillezett pekándió
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_PEPPER:
+  name: Grillezett fekete bors
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_PEPPERONI:
+  name: Grillezett pepperoni
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_PINEAPPLE:
+  name: Grillezett ananász
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_PINTO_BEANS:
+  name: Grillezett tarka bab
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_PORKCHOP:
+  name: Grillezett disznóhús
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_POTATO:
+  name: Grillezett burgonya
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_PUFFERFISH:
+  name: Grillezett gömbhal
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_PUMPKIN:
+  name: Grillezett tök
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_RABBIT:
+  name: Grillezett nyúl
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_RADDISH:
+  name: Grillezett retek
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_RADICCHIO:
+  name: Grillezett radicchio
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_RAPESEED:
+  name: Grillezett repce
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_RED_MUSHROOM:
+  name: Grillezett piros gomba
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_RHUBARB:
+  name: Grillezett rebarbara
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_RICE:
+  name: Grillezett rizs
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_ROSEMARY:
+  name: Grillezett rozmaring
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_ROTTEN_FLESH:
+  name: Grillezett rohadt hús
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_RUNNER_BEANS:
+  name: Grillezett futóbab
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_RUTABAGA:
+  name: Grillezett karórépa
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_SALMON:
+  name: Grillezett lazac
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_SALMON_SALAD:
+  name: Grillezett lazacsaláta
+  type:
+  - '&7&oÉtel'
+  description:
+  - Elragadóan omlós és zseniálisan fűszerezett.
+  stats:
+  - '&8⇨ &7Gyógyulás: &b4 szív'
+  - '&8⇨ &bRegeneráció I &7(10:00)'
+  - '&8⇨ &bÉleterősítés V &7(10:00)'
+CLT_GRILLED_SASSAFRAS:
+  name: Grillezett szasszafrász
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_SHALLOT:
+  name: Grillezett salottahagyma
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_SHISO:
+  name: Grillezett shiso
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_SOY_BEANS:
+  name: Grillezett szójabab
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_SPINACH:
+  name: Grillezett spenót
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_STAR_ANISE:
+  name: Grillezett csillagánizs
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_STRAWBERRY:
+  name: Grillezett eper
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_SUGAR:
+  name: Grillezett cukor
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_SWEETCORN:
+  name: Grillezett csemegekukorica
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_SWEET_BERRIES:
+  name: Grillezett édes bogyók
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_SWEET_POTATO:
+  name: Grillezett édes burgonya
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_TARRAGON:
+  name: Grillezett tárkony
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_THYME:
+  name: Grillezett kakukkfű
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_TOMATO:
+  name: Grillezett paradicsom
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_TURMERIC:
+  name: Grillezett kurkuma
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_TURNIP:
+  name: Grillezett tarlórépa
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_VANILLA:
+  name: Grillezett vanília
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_WASABI:
+  name: Grillezett wasabi
+  type:
+  - '&7&oMelléktermék'
+CLT_GRILLED_WHEAT:
+  name: Grillezett búza
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_APPLE:
+  name: Őrölt alma
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_APRICOT:
+  name: Őrölt sárgabarack
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_ARTICHOKE:
+  name: Őrölt articsóka
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_ASPARAGUS:
+  name: Őrölt spárga
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_AUBERGINE:
+  name: Őrölt padlizsán
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_AVOCADO:
+  name: Őrölt avokádó
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_BANANA:
+  name: Őrölt banán
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_BASIL:
+  name: Őrölt bazsalikom
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_BAY_LEAF:
+  name: Őrölt babérlevél
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_BEEF:
+  name: Őrölt marhahús
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_BEETROOT:
+  name: Őrölt cékla
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_BELL_PEPPER:
+  name: Őrölt kaliforniai paprika
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_BLACK_BEANS:
+  name: Őrölt fekete bab
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_BREAD:
+  name: Őrölt kenyér
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_BROCCOLI:
+  name: Őrölt brokkoli
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_BROWN_MUSHROOM:
+  name: Őrölt barna gomba
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_BRUSSELS_SPROUTS:
+  name: Őrölt kelbimbó
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_CABBAGE:
+  name: Őrölt káposzta
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_CARROT:
+  name: Őrölt sárgarépa
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_CAULIFLOWER:
+  name: Őrölt karfiol
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_CAYENNE_PEPPER:
+  name: Őrölt kajenni bors
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_CELERIAC:
+  name: Őrölt zellergumó
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_CELERY:
+  name: Őrölt szárzeller
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_CHERRY:
+  name: Őrölt cseresznye
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_CHESTNUT:
+  name: Őrölt gesztenye
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_CHICKEN:
+  name: Őrölt csirke
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_CHICKPEAS:
+  name: Őrölt csicseriborsó
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_CHICORY:
+  name: Őrölt cikória
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_CHILLY_PEPPER:
+  name: Őrölt chilipaprika
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_CHIVES:
+  name: Őrölt metélőhagyma
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_CHORUS_FRUIT:
+  name: Őrölt refréngyümölcs
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_CILANTRO:
+  name: Őrölt koriander
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_CINNAMON:
+  name: Őrölt fahéj
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_CLOVE:
+  name: Őrölt szegfűszeg
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_COCOA_BEANS:
+  name: Őrölt kakaóbab
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_COD:
+  name: Őrölt tőkehal
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_COURGETTE:
+  name: Őrölt cukkini
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_CUCUMBER:
+  name: Őrölt uborka
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_CUMIN:
+  name: Őrölt kömény
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_CURRY_LEAF:
+  name: Őrölt currylevél
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_DILL:
+  name: Őrölt kapor
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_EGG:
+  name: Őrölt tojás
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_ENCHANTED_GOLDEN_APPLE:
+  name: Őrölt bűvös aranyalma
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_FENNEL:
+  name: Őrölt édeskömény
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_GARLIC:
+  name: Őrölt fokhagyma
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_GINGER:
+  name: Őrölt gyömbér
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_GLOW_BERRIES:
+  name: Őrölt fényszeder
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_GOLDEN_APPLE:
+  name: Őrölt aranyalma
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_GOLDEN_CARROT:
+  name: Őrölt aranyrépa
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_GRAPE:
+  name: Őrölt szőlő
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_GREEN_APPLE:
+  name: Őrölt zöldalma
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_GREEN_BEANS:
+  name: Őrölt zöldbab
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_GREEN_ONION:
+  name: Őrölt újhagyma
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_HAZELNUT:
+  name: Őrölt mogyoró
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_HORSERADISH:
+  name: Őrölt torma
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_JALAPENO:
+  name: Őrölt jalapeño
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_JASMINE:
+  name: Őrölt jázmin
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_JUNIPER_BERRY:
+  name: Őrölt borókabogyók
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_KAFFIR_LIME:
+  name: Őrölt kaffirlime-levél
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_KALE:
+  name: Őrölt fodros kel
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_KELP:
+  name: Őrölt hínár
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_KIWI:
+  name: Őrölt kivi
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_LAVENDER:
+  name: Őrölt levendula
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_LEEK:
+  name: Őrölt póréhagyma
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_LEMON:
+  name: Őrölt citrom
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_LETTUCE:
+  name: Őrölt fejes saláta
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_LICORICE:
+  name: Őrölt édesgyökér
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_LIME:
+  name: Őrölt zöldcitrom
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_MACE:
+  name: Őrölt szerecsendióvirág
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_MANGO:
+  name: Őrölt mangó
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_MARJORAM:
+  name: Őrölt majoránna
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_MARROW:
+  name: Őrölt spárgatök
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_MELON:
+  name: Őrölt dinnye
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_MINT:
+  name: Őrölt menta
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_MUSTARD_SEEDS:
+  name: Őrölt mustármagvak
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_MUTTON:
+  name: Őrölt birkahús
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_NETTLES:
+  name: Őrölt csalán
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_OKRA:
+  name: Őrölt okra
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_ONION:
+  name: Őrölt hagyma
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_ORANGE:
+  name: Őrölt narancs
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_OREGANO:
+  name: Őrölt oregánó
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_PARSLEY:
+  name: Őrölt petrezselyem
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_PARSNIP:
+  name: Őrölt paszternák
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_PEA:
+  name: Őrölt borsó
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_PEACH:
+  name: Őrölt őszibarack
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_PEANUT:
+  name: Őrölt földimogyoró
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_PEAR:
+  name: Őrölt körte
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_PECAN:
+  name: Őrölt pekándió
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_PEPPER:
+  name: Őrölt fekete bors
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_PEPPERONI:
+  name: Őrölt pepperoni
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_PINEAPPLE:
+  name: Őrölt ananász
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_PINTO_BEANS:
+  name: Őrölt tarka bab
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_PORKCHOP:
+  name: Őrölt disznóhús
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_POTATO:
+  name: Őrölt burgonya
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_PUFFERFISH:
+  name: Őrölt gömbhal
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_PUMPKIN:
+  name: Őrölt tök
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_RABBIT:
+  name: Őrölt nyúl
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_RADDISH:
+  name: Őrölt retek
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_RADICCHIO:
+  name: Őrölt radicchio
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_RAPESEED:
+  name: Őrölt repce
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_RED_MUSHROOM:
+  name: Őrölt piros gomba
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_RHUBARB:
+  name: Őrölt rebarbara
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_RICE:
+  name: Őrölt rizs
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_ROSEMARY:
+  name: Őrölt rozmaring
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_ROTTEN_FLESH:
+  name: Őrölt rohadt hús
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_RUNNER_BEANS:
+  name: Őrölt futóbab
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_RUTABAGA:
+  name: Őrölt karórépa
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_SALMON:
+  name: Őrölt lazac
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_SASSAFRAS:
+  name: Őrölt szasszafrász
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_SHALLOT:
+  name: Őrölt salottahagyma
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_SHISO:
+  name: Őrölt shiso
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_SOY_BEANS:
+  name: Őrölt szójabab
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_SPINACH:
+  name: Őrölt spenót
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_STAR_ANISE:
+  name: Őrölt csillagánizs
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_STRAWBERRY:
+  name: Őrölt eper
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_SUGAR:
+  name: Őrölt cukor
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_SWEETCORN:
+  name: Őrölt csemegekukorica
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_SWEET_BERRIES:
+  name: Őrölt édes bogyók
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_SWEET_POTATO:
+  name: Őrölt édes burgonya
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_TARRAGON:
+  name: Őrölt tárkony
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_THYME:
+  name: Őrölt kakukkfű
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_TOMATO:
+  name: Őrölt paradicsom
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_TURMERIC:
+  name: Őrölt kurkuma
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_TURNIP:
+  name: Őrölt tarlórépa
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_VANILLA:
+  name: Őrölt vanília
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_WASABI:
+  name: Őrölt wasabi
+  type:
+  - '&7&oMelléktermék'
+CLT_GROUND_WHEAT:
+  name: Őrölt búza
+  type:
+  - '&7&oMelléktermék'
+CLT_HAZELNUT:
+  name: Mogyoró
+  type:
+  - '&7&oTermény'
+  description:
+  - Tégy meg bármit, de csinálj ebből
+  - nekem egy kávét, most azonnal!
+CLT_HORSERADISH:
+  name: Torma
+  type:
+  - '&7&oTermény'
+  description:
+  - $100, ha egyből beleharapsz.
+CLT_JALAPENO:
+  name: Jalapeño
+  type:
+  - '&7&oTermény'
+  description:
+  - CSÍPŐS CSÍPŐS CSÍPŐS.
+CLT_JASMINE:
+  name: Jázmin
+  type:
+  - '&7&oTermény'
+  description:
+  - Csodás tea készül belőle.
+CLT_JUNIPER_BERRY:
+  name: Borókabogyók
+  type:
+  - '&7&oTermény'
+  description:
+  - Borsos tökéletességre szárítva.
+CLT_KAFFIR_LIME:
+  name: Kaffirlime-levél
+  type:
+  - '&7&oTermény'
+  description:
+  - Levél hatalmas zamattal.
+CLT_KALE:
+  name: Fodros kel
+  type:
+  - '&7&oTermény'
+  description:
+  - Segítség, 2020-as smoothie-hipszter vagyok!
+CLT_KETCHUP:
+  name: Ketchup
+  type:
+  - '&7&oTermény'
+  description:
+  - Csak paradicsom krémes formában.
+CLT_KEY_LIME_PIE:
+  name: Zöldcitromos pite
+  type:
+  - '&7&oÉtel'
+  description:
+  - Egyszerűen a legjobb!
+  stats:
+  - '&8⇨ &7Gyógyulás: &b6 szív'
+  - '&8⇨ &bSietség IV &7(10:00)'
+CLT_KIWI:
+  name: Kivi
+  type:
+  - '&7&oTermény'
+  description:
+  - Kényszer hatására tettem be ezt a bővítménybe.
+  - A kivi gonosz, és aki csak
+  - használja, automatikusan elveszít
+  - 100 pontot.
+CLT_LASAGNA:
+  name: Lasagne
+  type:
+  - '&7&oÉtel'
+  description:
+  - Rétegnyi csodálatosság.
+  stats:
+  - '&8⇨ &7Gyógyulás: &bTeljes'
+  - '&8⇨ &bRegeneráció II &7(10:00)'
+  - '&8⇨ &bEllenállás II &7(10:00)'
+CLT_LAVENDER:
+  name: Levendula
+  type:
+  - '&7&oTermény'
+  description:
+  - Illat, amitől lassan álomba merülök.
+CLT_LEAVES_TREE_APRICOT:
+  name: Sárgabarackfa levelei
+  type:
+  - '&7&oLevelek'
+CLT_LEAVES_TREE_BANANA:
+  name: Banánfa levelei
+  type:
+  - '&7&oLevelek'
+CLT_LEAVES_TREE_CHERRY:
+  name: Cseresznyefa levelei
+  type:
+  - '&7&oLevelek'
+CLT_LEAVES_TREE_CHESTNUT:
+  name: Gesztenyefa levelei
+  type:
+  - '&7&oLevelek'
+CLT_LEAVES_TREE_GREEN_APPLE:
+  name: Zöldalmafa levelei
+  type:
+  - '&7&oLevelek'
+CLT_LEAVES_TREE_HAZELNUT:
+  name: Mogyorófa levelei
+  type:
+  - '&7&oLevelek'
+CLT_LEAVES_TREE_KIWI:
+  name: Kivifa levelei
+  type:
+  - '&7&oLevelek'
+CLT_LEAVES_TREE_LEMON:
+  name: Citromfa levelei
+  type:
+  - '&7&oLevelek'
+CLT_LEAVES_TREE_LIME:
+  name: Zöldcitromfa levelei
+  type:
+  - '&7&oLevelek'
+CLT_LEAVES_TREE_MANGO:
+  name: Mangófa levelei
+  type:
+  - '&7&oLevelek'
+CLT_LEAVES_TREE_ORANGE:
+  name: Narancsfa levelei
+  type:
+  - '&7&oLevelek'
+CLT_LEAVES_TREE_PEACH:
+  name: Őszibarackfa levelei
+  type:
+  - '&7&oLevelek'
+CLT_LEAVES_TREE_PEAR:
+  name: Körtefa levelei
+  type:
+  - '&7&oLevelek'
+CLT_LEAVES_TREE_PECAN:
+  name: Pekándiófa levelei
+  type:
+  - '&7&oLevelek'
+CLT_LEAVES_TREE_PINEAPPLE:
+  name: Ananászfa levelei
+  type:
+  - '&7&oLevelek'
+CLT_LEEK:
+  name: Póréhagyma
+  type:
+  - '&7&oTermény'
+  description:
+  - Valamiért csöpög róla a víz?
+  - Talán póré-szabadult egy cső?
+CLT_LEMON:
+  name: Citrom
+  type:
+  - '&7&oTermény'
+  description:
+  - Miért ilyen savanyú a képed?
+CLT_LEMON_DROP:
+  name: Citromcukorka
+  type:
+  - '&7&oÉtel'
+  description:
+  - Ízlelőbimbó-tisztító.
+  stats:
+  - '&8⇨ &7Minden hatást megszüntet, és újra megéhezel.'
+CLT_LETTUCE:
+  name: Fejes saláta
+  type:
+  - '&7&oTermény'
+  description:
+  - Vékony, vizes, mégis finom.
+CLT_LICORICE:
+  name: Édesgyökér
+  type:
+  - '&7&oTermény'
+  description:
+  - Fuss, fuss el most!
+CLT_LIME:
+  name: Zöldcitrom
+  type:
+  - '&7&oTermény'
+  description:
+  - Egyszer volt, hol nem volt, volt egyszer egy finom zöldcitrom...
+CLT_MACE:
+  name: Szerecsendióvirág
+  type:
+  - '&7&oTermény'
+  description:
+  - Támadók arcába szokták fújni.
+  - '...'
+  - Hogyhogy ez nem az a fajta buzogány?
+CLT_MANGO:
+  name: Mangó
+  type:
+  - '&7&oTermény'
+  description:
+  - MENNI kell, MAN.
+  - Nehéz ez a leírásírás...
+CLT_MARJORAM:
+  name: Majoránna
+  type:
+  - '&7&oTermény'
+  description:
+  - Most nagyon curry-zok, beszélhetnénk később?
+CLT_MARROW:
+  name: Spárgatök
+  type:
+  - '&7&oTermény'
+  description:
+  - Tudtad, hogy a velő
+  - a csontjaidban található?
+  - Bizony, Sefi Okosz.
+CLT_MASHED_APPLE:
+  name: Pépesített alma
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_APRICOT:
+  name: Pépesített sárgabarack
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_ARTICHOKE:
+  name: Pépesített articsóka
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_ASPARAGUS:
+  name: Pépesített spárga
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_AUBERGINE:
+  name: Pépesített padlizsán
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_AVOCADO:
+  name: Pépesített avokádó
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_BANANA:
+  name: Pépesített banán
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_BASIL:
+  name: Pépesített bazsalikom
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_BAY_LEAF:
+  name: Pépesített babérlevél
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_BEEF:
+  name: Pépesített marhahús
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_BEETROOT:
+  name: Pépesített cékla
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_BELL_PEPPER:
+  name: Pépesített kaliforniai paprika
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_BLACK_BEANS:
+  name: Pépesített fekete bab
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_BREAD:
+  name: Pépesített kenyér
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_BROCCOLI:
+  name: Pépesített brokkoli
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_BROWN_MUSHROOM:
+  name: Pépesített barna gomba
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_BRUSSELS_SPROUTS:
+  name: Pépesített kelbimbó
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_CABBAGE:
+  name: Pépesített káposzta
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_CARROT:
+  name: Pépesített sárgarépa
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_CAULIFLOWER:
+  name: Pépesített karfiol
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_CAYENNE_PEPPER:
+  name: Pépesített kajenni bors
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_CELERIAC:
+  name: Pépesített zellergumó
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_CELERY:
+  name: Pépesített szárzeller
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_CHERRY:
+  name: Pépesített cseresznye
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_CHESTNUT:
+  name: Pépesített gesztenye
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_CHICKEN:
+  name: Pépesített csirke
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_CHICKPEAS:
+  name: Pépesített csicseriborsó
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_CHICORY:
+  name: Pépesített cikória
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_CHILLY_PEPPER:
+  name: Pépesített chilipaprika
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_CHIVES:
+  name: Pépesített metélőhagyma
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_CHORUS_FRUIT:
+  name: Pépesített refréngyümölcs
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_CILANTRO:
+  name: Pépesített koriander
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_CINNAMON:
+  name: Pépesített fahéj
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_CLOVE:
+  name: Pépesített szegfűszeg
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_COCOA_BEANS:
+  name: Pépesített kakaóbab
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_COD:
+  name: Pépesített tőkehal
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_COURGETTE:
+  name: Pépesített cukkini
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_CUCUMBER:
+  name: Pépesített uborka
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_CUMIN:
+  name: Pépesített kömény
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_CURRY_LEAF:
+  name: Pépesített currylevél
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_DILL:
+  name: Pépesített kapor
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_EGG:
+  name: Pépesített tojás
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_ENCHANTED_GOLDEN_APPLE:
+  name: Pépesített bűvös aranyalma
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_FENNEL:
+  name: Pépesített édeskömény
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_GARLIC:
+  name: Pépesített fokhagyma
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_GINGER:
+  name: Pépesített gyömbér
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_GLOW_BERRIES:
+  name: Pépesített fényszeder
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_GOLDEN_APPLE:
+  name: Pépesített aranyalma
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_GOLDEN_CARROT:
+  name: Pépesített aranyrépa
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_GRAPE:
+  name: Pépesített szőlő
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_GREEN_APPLE:
+  name: Pépesített zöldalma
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_GREEN_BEANS:
+  name: Pépesített zöldbab
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_GREEN_ONION:
+  name: Pépesített újhagyma
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_HAZELNUT:
+  name: Pépesített mogyoró
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_HORSERADISH:
+  name: Pépesített torma
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_JALAPENO:
+  name: Pépesített jalapeño
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_JASMINE:
+  name: Pépesített jázmin
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_JUNIPER_BERRY:
+  name: Pépesített borókabogyók
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_KAFFIR_LIME:
+  name: Pépesített kaffirlime-levél
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_KALE:
+  name: Pépesített fodros kel
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_KELP:
+  name: Pépesített hínár
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_KIWI:
+  name: Pépesített kivi
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_LAVENDER:
+  name: Pépesített levendula
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_LEEK:
+  name: Pépesített póréhagyma
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_LEMON:
+  name: Pépesített citrom
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_LETTUCE:
+  name: Pépesített fejes saláta
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_LICORICE:
+  name: Pépesített édesgyökér
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_LIME:
+  name: Pépesített zöldcitrom
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_MACE:
+  name: Pépesített szerecsendióvirág
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_MANGO:
+  name: Pépesített mangó
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_MARJORAM:
+  name: Pépesített majoránna
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_MARROW:
+  name: Pépesített spárgatök
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_MELON:
+  name: Pépesített dinnye
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_MINT:
+  name: Pépesített menta
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_MUSTARD_SEEDS:
+  name: Pépesített mustármagvak
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_MUTTON:
+  name: Pépesített birkahús
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_NETTLES:
+  name: Pépesített csalán
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_OKRA:
+  name: Pépesített okra
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_ONION:
+  name: Pépesített hagyma
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_ORANGE:
+  name: Pépesített narancs
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_OREGANO:
+  name: Pépesített oregánó
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_PARSLEY:
+  name: Pépesített petrezselyem
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_PARSNIP:
+  name: Pépesített paszternák
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_PEA:
+  name: Pépesített borsó
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_PEACH:
+  name: Pépesített őszibarack
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_PEANUT:
+  name: Pépesített földimogyoró
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_PEAR:
+  name: Pépesített körte
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_PECAN:
+  name: Pépesített pekándió
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_PEPPER:
+  name: Pépesített fekete bors
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_PEPPERONI:
+  name: Pépesített pepperoni
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_PINEAPPLE:
+  name: Pépesített ananász
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_PINTO_BEANS:
+  name: Pépesített tarka bab
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_PORKCHOP:
+  name: Pépesített disznóhús
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_POTATO:
+  name: Pépesített burgonya
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_PUFFERFISH:
+  name: Pépesített gömbhal
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_PUMPKIN:
+  name: Pépesített tök
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_RABBIT:
+  name: Pépesített nyúl
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_RADDISH:
+  name: Pépesített retek
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_RADICCHIO:
+  name: Pépesített radicchio
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_RAPESEED:
+  name: Pépesített repce
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_RED_MUSHROOM:
+  name: Pépesített piros gomba
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_RHUBARB:
+  name: Pépesített rebarbara
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_RICE:
+  name: Pépesített rizs
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_ROSEMARY:
+  name: Pépesített rozmaring
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_ROTTEN_FLESH:
+  name: Pépesített rohadt hús
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_RUNNER_BEANS:
+  name: Pépesített futóbab
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_RUTABAGA:
+  name: Pépesített karórépa
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_SALMON:
+  name: Pépesített lazac
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_SASSAFRAS:
+  name: Pépesített szasszafrász
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_SHALLOT:
+  name: Pépesített salottahagyma
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_SHISO:
+  name: Pépesített shiso
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_SOY_BEANS:
+  name: Pépesített szójabab
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_SPINACH:
+  name: Pépesített spenót
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_STAR_ANISE:
+  name: Pépesített csillagánizs
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_STRAWBERRY:
+  name: Pépesített eper
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_SUGAR:
+  name: Pépesített cukor
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_SWEETCORN:
+  name: Pépesített csemegekukorica
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_SWEET_BERRIES:
+  name: Pépesített édes bogyók
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_SWEET_POTATO:
+  name: Pépesített édes burgonya
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_TARRAGON:
+  name: Pépesített tárkony
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_THYME:
+  name: Pépesített kakukkfű
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_TOMATO:
+  name: Pépesített paradicsom
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_TURMERIC:
+  name: Pépesített kurkuma
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_TURNIP:
+  name: Pépesített tarlórépa
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_VANILLA:
+  name: Pépesített vanília
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_WASABI:
+  name: Pépesített wasabi
+  type:
+  - '&7&oMelléktermék'
+CLT_MASHED_WHEAT:
+  name: Pépesített búza
+  type:
+  - '&7&oMelléktermék'
+CLT_MAYONNAISE:
+  name: Majonéz
+  type:
+  - '&7&oTermény'
+  description:
+  - Selymesen sima majonéz, ami szinte bármihez illik.
+CLT_MEATBALLS:
+  name: Húsgombóc
+  type:
+  - '&7&oTermény'
+  description:
+  - Húsból gombóc, ki gondolta volna.
+CLT_MEATLOAF:
+  name: Vagdalt
+  type:
+  - '&7&oÉtel'
+  description:
+  - Nincs hozzá fogható! Gyerünk.
+  stats:
+  - '&8⇨ &7Gyógyulás: &bTeljes'
+  - '&8⇨ &bÉleterősítés IV &7(10:00)'
+  - '&8⇨ &bEllenállás III &7(10:00)'
+  - '&8⇨ &bSietség II &7(10:00)'
+  - '&8⇨ &bLassúság II &7(10:00)'
+CLT_MINT:
+  name: Menta
+  type:
+  - '&7&oTermény'
+  description:
+  - Rág, rág, rág.
+CLT_MUSTARD:
+  name: Mustár
+  type:
+  - '&7&oTermény'
+  description:
+  - Van benne egy kis csavar!
+CLT_MUSTARD_SEEDS:
+  name: Mustármag
+  type:
+  - '&7&oTermény'
+  description:
+  - Rágd meg őket, ha mered!
+CLT_NETTLES:
+  name: Csalán
+  type:
+  - '&7&oTermény'
+  description:
+  - Kérlek, vegyél fel kesztyűt, mielőtt megfogod.
+CLT_OKRA:
+  name: Okra
+  type:
+  - '&7&oTermény'
+  description:
+  - Okra-homában rengeteg terem... ugye, UGYE?
+CLT_ONION:
+  name: Hagyma
+  type:
+  - '&7&oTermény'
+  description:
+  - Várj, miért sírsz?
+CLT_ORANGE:
+  name: Narancs
+  type:
+  - '&7&oTermény'
+  description:
+  - Ennek nem óraműnek kéne lennie?
+CLT_ORANGE_JUICE:
+  name: Narancslé
+  type:
+  - '&7&oÉtel'
+  description:
+  - Tényleg ez a legjobb módja a nap kezdésének.
+  stats:
+  - '&8⇨ &bGyorsaság IV &7(10:00)'
+CLT_OREGANO:
+  name: Oregánó
+  type:
+  - '&7&oTermény'
+  description:
+  - Klasszikus fűszernövény, minden kamrában ott van.
+CLT_PARSLEY:
+  name: Petrezselyem
+  type:
+  - '&7&oTermény'
+  description:
+  - A. Legrosszabb. Fűszernövény. Valaha.
+CLT_PARSNIP:
+  name: Paszternák
+  type:
+  - '&7&oTermény'
+  description:
+  - Azonnali pirítást igényel.
+CLT_PASTA:
+  name: Tészta
+  type:
+  - '&7&oTermény'
+  description:
+  - Csak sima tészta, egyszerű, mégis csodás.
+CLT_PEA:
+  name: Borsó
+  type:
+  - '&7&oTermény'
+  description:
+  - Állítólag gyakran párban található egy hüvelyben.
+CLT_PEACH:
+  name: Őszibarack
+  type:
+  - '&7&oTermény'
+  description:
+  - Az emojiról nem beszélünk
+CLT_PEANUT:
+  name: Földimogyoró
+  type:
+  - '&7&oTermény'
+  description:
+  - Reese's, jövök!
+CLT_PEANUT_BUTTER:
+  name: Mogyoróvaj
+  type:
+  - '&7&oTermény'
+  description:
+  - Csak a folyékony aranyhoz fogható.
+CLT_PEANUT_BUTTER_JELLY_SANDWICH:
+  name: Mogyoróvajas-zselés szendvics
+  type:
+  - '&7&oÉtel'
+  description:
+  - Ez tényleg a szendvicstechnológia csúcsa.
+  stats:
+  - '&8⇨ &7Gyógyulás: &b5 szív'
+  - '&8⇨ &bErő III &7(10:00)'
+CLT_PEAR:
+  name: Körte
+  type:
+  - '&7&oTermény'
+  description:
+  - Nem mondanád, hogy ez körte-kéletes?
+CLT_PECAN:
+  name: Pekándió
+  type:
+  - '&7&oTermény'
+  description:
+  - Egyenesen könyörög, hogy pite legyen belőle.
+CLT_PECAN_PIE:
+  name: Pekándiós pite
+  type:
+  - '&7&oÉtel'
+  description:
+  - Az egyetlen mód, hogy tiszta cukrot egyél
+  - anélkül, hogy teljesen elítélnének.
+  stats:
+  - '&8⇨ &7Gyógyulás: &b4 szív'
+  - '&8⇨ &bLebegés I &7(10:00)'
+CLT_PEPPER:
+  name: Fekete bors
+  type:
+  - '&7&oTermény'
+  description:
+  - Fűszeresebb a sónál.
+CLT_PEPPERONI:
+  name: Pepperoni
+  type:
+  - '&7&oTermény'
+  description:
+  - Egy egész rúddal megennék belőle, simán.
+CLT_PICO_DE_GALLO:
+  name: Pico de gallo
+  type:
+  - '&7&oTermény'
+  description:
+  - Enyhe salsa, tele tiszta finomsággal.
+CLT_PIE_CRUST:
+  name: Pitealap
+  type:
+  - '&7&oTermény'
+  description:
+  - Ha legális lenne magában megenni,
+  - ez lenne a fő táplálékom.
+CLT_PINEAPPLE:
+  name: Ananász
+  type:
+  - '&7&oTermény'
+  description:
+  - Ennek minden létező pizzán ott a helye.
+  - Vitába szállsz velem!?
+CLT_PINTO_BEANS:
+  name: Tarka bab
+  type:
+  - '&7&oTermény'
+  description:
+  - Csing-csing! Itt a burrito ideje.
+CLT_PIZZA_CHEESE:
+  name: Sajtos pizza
+  type:
+  - '&7&oÉtel'
+  description:
+  - Miért rendelne bárki csak sajtosat? Nem tudom.
+  stats:
+  - '&8⇨ &7Gyógyulás: &b4 szív'
+  - '&8⇨ &bLassúság I &7(10:00)'
+CLT_PIZZA_MUSHROOM:
+  name: Gombás pizza
+  type:
+  - '&7&oÉtel'
+  description:
+  - Egyszerű vegetáriánus pizza, tele fehérjével.
+  stats:
+  - '&8⇨ &7Gyógyulás: &b6 szív'
+  - '&8⇨ &bLassúság I &7(10:00)'
+  - '&8⇨ &bSietség II &7(10:00)'
+CLT_PIZZA_PEPPERONI:
+  name: Pepperonis pizza
+  type:
+  - '&7&oÉtel'
+  description:
+  - New York-i klasszikus, tele ízzel.
+  stats:
+  - '&8⇨ &7Gyógyulás: &b6 szív'
+  - '&8⇨ &bGyorsaság I &7(10:00)'
+  - '&8⇨ &bSietség I &7(10:00)'
+  - '&8⇨ &bMagasugrás I &7(10:00)'
+CLT_PLANT_AIR:
+  name: Őslevegő-növény
+  type:
+  - '&7&oNövény'
+  description:
+  - Növény, amely halkan dúdolja
+  - a környező természet dallamát.
+  - '&eAz ősnövények nem teremnek tárgyakat,'
+  - '&ecsak nemesítésre valók.'
+CLT_PLANT_AMETHYST:
+  name: Ametisztnövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Ez a növény mély, sötét helyeken
+  - virul a legjobban.
+CLT_PLANT_ANALYSER:
+  name: Növényelemző
+  type:
+  - '&7&oEszköz'
+  description:
+  - Nagyon egyszerű eszköz, amellyel
+  - megnézheted egy növekvő növény adatait
+  usage:
+  - '&eJobb kattintás&7: Megmutatja egy növény faját és növekedési adatait.'
+  - '&eShift + jobb kattintás&7: Kiírja egy növény vagy bokor nevét.'
+CLT_PLANT_BASALT:
+  name: Bazaltnövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Nagyon unalmas, egyhangú növény.
+CLT_PLANT_BEE:
+  name: Méhnövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Növény egy pár nagyon kicsi, törékeny szárnnyal.
+CLT_PLANT_BLACKSTONE:
+  name: Feketekőnövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Növény, amelyről tudni, hogy elnyeli a fényt.
+CLT_PLANT_BLAZE:
+  name: Őrlángnövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Növény, amelynek megperzselődtek a szélei.
+CLT_PLANT_CHICKEN:
+  name: Csirkenövény
+  type:
+  - '&7&oNövény'
+  description:
+  - A szóbeszéd szerint, ha a fejed fölé
+  - tartod ezt a magot, és leugrasz egy
+  - magas helyről, siklani fogsz, nem
+  - zuhanni.
+CLT_PLANT_CLAY:
+  name: Agyagnövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Ez a növény szabadon formázható és alakítható.
+  - Ettől még nem feltétlenül jó ötlet,
+  - úgyhogy vigyázz!
+CLT_PLANT_COAL:
+  name: Szénnövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Növény, amelyben hatalmas lehetőség rejlik.
+CLT_PLANT_COBBLESTONE:
+  name: Zúzottkőnövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Ez a növény kemény, mint a kő.
+CLT_PLANT_CONCRETE:
+  name: Betonnövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Ez a növény nehezen nő, mert
+  - olyan gyorsan megkeményedik.
+CLT_PLANT_COW:
+  name: Tehénnövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Ha a füledhez tartod ezt a magot,
+  - és nagyon figyelmesen hallgatod, néha
+  - bőgést hallasz.
+CLT_PLANT_CREEPER:
+  name: Creepernövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Tsssssssssttt...
+CLT_PLANT_DARKNESS:
+  name: Őssötétség-növény
+  type:
+  - '&7&oNövény'
+  description:
+  - Növény, amely féktelen dühtől
+  - forrong.
+  - '&eAz ősnövények nem teremnek tárgyakat,'
+  - '&ecsak nemesítésre valók.'
+CLT_PLANT_DARK_FLORA:
+  name: Sötétflóra-növény
+  type:
+  - '&7&oNövény'
+  description:
+  - Csendes gonosz lapul ebben az egyszerű magban.
+CLT_PLANT_DARK_GRASS:
+  name: Sötétfű-növény
+  type:
+  - '&7&oNövény'
+  description:
+  - Növény, amely teljesen elvesztette
+  - az identitását.
+CLT_PLANT_DEEPSLATE:
+  name: Mélypalanövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Mély, palás, <ide jön a leírás>.
+CLT_PLANT_DIAMOND:
+  name: Gyémántnövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Növény, amely egyszerűen gazdagságot sugall.
+CLT_PLANT_DIM_LIT:
+  name: Halványan derengő növény
+  type:
+  - '&7&oNövény'
+  description:
+  - Nagyon halvány fény árad ebből a magból.
+CLT_PLANT_DIRT:
+  name: Földnövény
+  type:
+  - '&7&oNövény'
+  description:
+  - A felszínen koszos, de magában hordja
+  - magának az életnek az építőköveit.
+CLT_PLANT_DROWNED:
+  name: Vízbefúlt-növény
+  type:
+  - '&7&oNövény'
+  description:
+  - Növény, amely csuromvizes, mindig,
+  - állandóan.
+CLT_PLANT_DUSTY:
+  name: Poros növény
+  type:
+  - '&7&oNövény'
+  description:
+  - Ez a növény különleges gondozást igényel, már a
+  - legenyhébb erős szellő is elég lehet, hogy
+  - szétessen.
+CLT_PLANT_EARTH:
+  name: Ősföldnövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Növény, amely gazdagítja az őt
+  - körülvevő világot.
+  - '&eAz ősnövények nem teremnek tárgyakat,'
+  - '&ecsak nemesítésre valók.'
+CLT_PLANT_ECHO:
+  name: Visszhangnövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Ez a növény mindig tudja, hogyan
+  - találjon haza.
+CLT_PLANT_ELDER_GUARDIAN:
+  name: Vénőrszem-növény
+  type:
+  - '&7&oNövény'
+  description:
+  - Ennek a növénynek a közelében az emberek
+  - lomhává válnak.
+CLT_PLANT_EMERALD:
+  name: Smaragdnövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Ennek a növénynek a gazdái a fejük tetejére
+  - állnak, csak hogy megengedhessék maguknak.
+CLT_PLANT_ENDERMAN:
+  name: Endermannövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Ha nem bánnak vele óvatosan, ez a növény
+  - véletlenszerűen teleportálhat!
+CLT_PLANT_ENDER_DRAGON:
+  name: Endersárkány-növény
+  type:
+  - '&7&oNövény'
+  description:
+  - Igazi főellenség a növények között.
+CLT_PLANT_END_STONE:
+  name: Endkőnövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Növény, amely az ürességgel együtt zümmög.
+CLT_PLANT_FIRE:
+  name: Őstűznövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Növény, amely egyszerre adja a
+  - pusztulás és az újjászületés
+  - forrását.
+  - '&eAz ősnövények nem teremnek tárgyakat,'
+  - '&ecsak nemesítésre valók.'
+CLT_PLANT_FISH:
+  name: Halnövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Érett illat árad ebből a magból.
+CLT_PLANT_FLOWER:
+  name: Virágzó növény
+  type:
+  - '&7&oNövény'
+  description:
+  - Gyönyörű bőségszaru, szépen tálalva.
+CLT_PLANT_FROG:
+  name: Békanövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Brekk!
+CLT_PLANT_GHAST:
+  name: Ghastnövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Növény, amelyről tudni, hogy
+  - véletlenszerűen tűzgolyókat lő.
+CLT_PLANT_GLASS:
+  name: Üvegnövény
+  type:
+  - '&7&oNövény'
+  description:
+  - A megfelelő szögből megesküdnél,
+  - hogy át lehet látni ezen a növényen.
+CLT_PLANT_GLAZED:
+  name: Mázas növény
+  type:
+  - '&7&oNövény'
+  description:
+  - Növény, amely bonyolult mintázattal nő.
+CLT_PLANT_GLOWING_VINE:
+  name: Fénylőinda-növény
+  type:
+  - '&7&oNövény'
+  description:
+  - Halvány fény árad ebből a magból.
+CLT_PLANT_GLOW_SQUID:
+  name: Fénylőtintahal-növény
+  type:
+  - '&7&oNövény'
+  description:
+  - Csillogó növény, halvány ragyogással.
+CLT_PLANT_GOAT:
+  name: Kecskenövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Kiszámíthatatlanul erőszakos növény, amely
+  - imád ugrálni.
+CLT_PLANT_GRASS:
+  name: Fűnövény
+  type:
+  - '&7&oNövény'
+  description:
+  - A sarjadó élet kitör
+  - a földből.
+CLT_PLANT_GRAVEL:
+  name: Sódernövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Ez a növény tényleg nem tudja, hogyan
+  - tartsa egyben magát.
+CLT_PLANT_GUARDIAN:
+  name: Őrszemnövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Ha megérintik, ez a növény
+  - tüskéket enged ki.
+CLT_PLANT_IGNEOUS:
+  name: Vulkáni növény
+  type:
+  - '&7&oNövény'
+  description:
+  - Ezt a növényt a hő és a nyomás formálta.
+  - Ne nézz így rám! Ezeknek a növényleírásoknak
+  - mind teljesen van értelme.
+CLT_PLANT_LAPIS:
+  name: Lazuritnövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Növény halvány mágikus aurával.
+CLT_PLANT_LIGHT:
+  name: Ősfénynövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Növény, amely a tiszta szeretet
+  - auráját árasztja.
+  - '&eAz ősnövények nem teremnek tárgyakat,'
+  - '&ecsak nemesítésre valók.'
+CLT_PLANT_MAGMA:
+  name: Magmanövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Növény, amely olyan forró, hogy megégeti
+  - a környezetét.
+CLT_PLANT_MAGMA_CUBE:
+  name: Magmakocka-növény
+  type:
+  - '&7&oNövény'
+  description:
+  - Amikor senki sem figyeli, ez a növény
+  - szeret fel-le pattogni.
+CLT_PLANT_MOSS:
+  name: Mohanövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Ez a növény hajlamos fékezhetetlenül terjedni.
+CLT_PLANT_MUD:
+  name: Iszapnövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Növény, amely majdnem olyan koszos, mint
+  - a föld, amelyből származik.
+CLT_PLANT_MUSHROOM:
+  name: Gombanövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Igen, egy növény, amely gombát terem.
+  - Itt minden teljesen normális.
+CLT_PLANT_NETHERRACK:
+  name: Netherrack-növény
+  type:
+  - '&7&oNövény'
+  description:
+  - Szívós, edzett növény, amely a legtöbb
+  - helyen megél.
+CLT_PLANT_NETHER_QUARTZ:
+  name: Netherkvarcnövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Ennek a növénynek olyan éles tüskéi vannak,
+  - hogy nehéz vele dolgozni.
+CLT_PLANT_PHANTOM:
+  name: Fantomnövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Növény magasztos levelekkel.
+CLT_PLANT_PIG:
+  name: Malacnövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Növény, amely véletlenszerűen röfög.
+CLT_PLANT_POWER:
+  name: Őserőnövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Növény, amelyből egyenesen árad az erő.
+  - '&eAz ősnövények nem teremnek tárgyakat,'
+  - '&ecsak nemesítésre valók.'
+CLT_PLANT_PURPUR:
+  name: Purpurnövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Furcsa növény, sokkal könnyebbnek tűnik
+  - a legtöbbnél.
+CLT_PLANT_RABBIT:
+  name: Nyúlnövény
+  type:
+  - '&7&oNövény'
+  description:
+  - A bogarak büszkék lennének.
+CLT_PLANT_RAINBOW:
+  name: Szivárványnövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Lehet, hogy ennek a növénynek a végén
+  - egy fazék arany vár, de lehet, hogy nem.
+CLT_PLANT_RAW_COPPER:
+  name: Nyersréznövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Ha magára hagyják, ez a növény néha
+  - magához vonzza a villámot.
+CLT_PLANT_RAW_GOLD:
+  name: Nyersaranynövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Ezt a növényt gyakran ellopják a piglinek,
+  - ha a közelben vannak.
+CLT_PLANT_RAW_IRON:
+  name: Nyersvasnövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Strapabíró növény, amely a legtöbb
+  - környezetet kibírja.
+CLT_PLANT_REDSTONE:
+  name: Redstone-növény
+  type:
+  - '&7&oNövény'
+  description:
+  - Növény, amely tetőtől talpig erőtől duzzad.
+CLT_PLANT_RED_SAND:
+  name: Vöröshomok-növény
+  type:
+  - '&7&oNövény'
+  description:
+  - Ez a növény néha egyetlen érintésre
+  - szétmorzsolódik, csak... vörösebben.
+CLT_PLANT_REINFORCED:
+  name: Megerősített növény
+  type:
+  - '&7&oNövény'
+  description:
+  - Növény, amely bármin keresztül képes
+  - megtartani magát.
+CLT_PLANT_SAND:
+  name: Homoknövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Ez a növény néha egyetlen érintésre
+  - szétmorzsolódik.
+CLT_PLANT_SAPLING:
+  name: Csemetenövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Ennek a növénynek még értelme sincs...
+CLT_PLANT_SCRAPPY:
+  name: Rongyos növény
+  type:
+  - '&7&oNövény'
+  description:
+  - Ez a növény tényleg a kertészet
+  - csúcsa.
+CLT_PLANT_SHEEP:
+  name: Birkanövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Növény durva, gyapjas tapintással.
+CLT_PLANT_SHULKER:
+  name: Shulkernövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Növény, amely gyakran a föld
+  - fölött lebeg.
+CLT_PLANT_SKELETON:
+  name: Csontváznövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Növény, amely zörög, ahogy hajladozik.
+CLT_PLANT_SLIME:
+  name: Nyálkanövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Miért ilyen ragacsos?
+CLT_PLANT_SOUL:
+  name: Léleknövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Növény, amelyet hallani sikoltozni,
+  - amikor csend van.
+CLT_PLANT_SPECTRUM:
+  name: Ősszínkép-növény
+  type:
+  - '&7&oNövény'
+  description:
+  - Növény, amely enyhén változtatja a színét.
+  - '&eAz ősnövények nem teremnek tárgyakat,'
+  - '&ecsak nemesítésre valók.'
+CLT_PLANT_SPIDER:
+  name: Póknövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Öld meg, öld meg MOST!
+CLT_PLANT_SQUID:
+  name: Tintahalnövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Vigyázz, ha csak megérinted ezt a növényt,
+  - könnyen tintát fröcsköl szét
+  - mindenfelé.
+CLT_PLANT_STAINED:
+  name: Festett növény
+  type:
+  - '&7&oNövény'
+  description:
+  - Ez a növény valóságos színképre bontja
+  - a fényt a közeli tárgyakon.
+CLT_PLANT_TERRA:
+  name: Terranövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Kemény, földes növény, amely nyomás alatt megreped.
+CLT_PLANT_TURTLE:
+  name: Teknősnövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Mag, amelyet kőkemény héj vesz körül.
+CLT_PLANT_VILLAGER:
+  name: Falusi növény
+  type:
+  - '&7&oNövény'
+  description:
+  - Igen, egy falusi esszenciáját sűrítettük
+  - egy növénybe. Állítólag nagyon fájt.
+CLT_PLANT_VINE:
+  name: Indanövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Növény, amely azonnal összegabalyítja
+  - magát.
+CLT_PLANT_WATER:
+  name: Ősvíznövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Növény, amely táplálja és élettel
+  - tölti meg a környékét.
+  - '&eAz ősnövények nem teremnek tárgyakat,'
+  - '&ecsak nemesítésre valók.'
+CLT_PLANT_WAXY:
+  name: Viaszos növény
+  type:
+  - '&7&oNövény'
+  description:
+  - Ennek a növénynek a nedve tökéletes
+  - gyertya alakú viasszá dermed.
+CLT_PLANT_WEALTH:
+  name: Őskincsnövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Növény, amely egyenesen harsogja a dúsgazdagságot.
+  - '&eAz ősnövények nem teremnek tárgyakat,'
+  - '&ecsak nemesítésre valók.'
+CLT_PLANT_WITCH:
+  name: Boszorkánynövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Növény, amely úgy hangzik, mintha halkan
+  - varázsigéket mormolna.
+CLT_PLANT_WITHER:
+  name: Withernövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Halálos növény, amellyel óvatosan
+  - kell bánni.
+CLT_PLANT_WITHER_ROSE:
+  name: Witherrózsa-növény
+  type:
+  - '&7&oNövény'
+  description:
+  - Ez a növény valahogy ártalmas aurát
+  - lüktet maga körül.
+CLT_PLANT_WITHER_SKELETON:
+  name: Withercsontváz-növény
+  type:
+  - '&7&oNövény'
+  description:
+  - Növény, amelyről tudni, hogy rejtőzködő és szívós.
+CLT_PLANT_WOOLLY:
+  name: Gyapjas növény
+  type:
+  - '&7&oNövény'
+  description:
+  - Gyapjas növény, gyökerétől a szirmaiig!
+CLT_PLANT_ZOMBIE:
+  name: Zombinövény
+  type:
+  - '&7&oNövény'
+  description:
+  - Ebből a növényből csöpög... valami...
+CLT_RADDISH:
+  name: Retek
+  type:
+  - '&7&oTermény'
+  description:
+  - Friss, ropogós napsütés apró zsebekben.
+CLT_RADICCHIO:
+  name: Radicchio
+  type:
+  - '&7&oTermény'
+  description:
+  - Ezt a sok leírást megírni olyan sokáig tart.
+  - Már a radicchio-t is unom.
+CLT_RAMEN_BEEF:
+  name: Marhahúsos rámen
+  type:
+  - '&7&oÉtel'
+  description:
+  - Nem túl egészséges választás.
+  stats: &id004
+  - '&8⇨ &bÉleterősítés I &7(10:00)'
+CLT_RAMEN_BEEF_HEARTY:
+  name: Laktató marhahúsos rámen
+  type:
+  - '&7&oÉtel'
+  description:
+  - Egészséges választás.
+  stats: &id005
+  - '&8⇨ &7Gyógyulás: &bTeljes'
+  - '&8⇨ &bÉleterősítés II &7(10:00)'
+  - '&8⇨ &bGyorsaság I &7(10:00)'
+CLT_RAMEN_CHICKEN:
+  name: Csirkés rámen
+  type:
+  - '&7&oÉtel'
+  description:
+  - Nem túl laktató választás.
+  stats: *id004
+CLT_RAMEN_CHICKEN_HEARTY:
+  name: Laktató csirkés rámen
+  type:
+  - '&7&oÉtel'
+  description:
+  - Laktató választás.
+  stats: *id005
+CLT_RAMEN_SEAFOOD:
+  name: Tenger gyümölcsei rámen
+  type:
+  - '&7&oÉtel'
+  description:
+  - Nem túl kielégítő választás.
+  stats: *id004
+CLT_RAMEN_SEAFOOD_HEARTY:
+  name: Laktató tenger gyümölcsei rámen
+  type:
+  - '&7&oÉtel'
+  description:
+  - Kielégítő választás.
+  stats: *id005
+CLT_RAPESEED:
+  name: Repce
+  type:
+  - '&7&oTermény'
+  description:
+  - Gyakran olajok készítésére használják.
+CLT_RECIPE_UNLOCK:
+  name: Cultivation tudástekercs
+  type:
+  - '&7&oEszköz'
+  description:
+  - Jobb kattintással megtanulhatsz egy Cultivation
+  - nemesítési receptet.
+CLT_RHUBARB:
+  name: Rebarbara
+  type:
+  - '&7&oTermény'
+  description:
+  - Csak ne felejtsd el leszedni a leveleit!
+CLT_RICE:
+  name: Rizs
+  type:
+  - '&7&oTermény'
+  description:
+  - Ne feledd, csak egyszer rizsel az ember!
+CLT_ROSEMARY:
+  name: Rozmaring
+  type:
+  - '&7&oTermény'
+  description:
+  - Gyakran kifut a kakukk-időből.
+CLT_RUNNER_BEANS:
+  name: Futóbab
+  type:
+  - '&7&oTermény'
+  description:
+  - Mindig el akar szökni.
+CLT_RUTABAGA:
+  name: Karórépa
+  type:
+  - '&7&oTermény'
+  description:
+  - Szinte fáj, hogy nem svéd répának hívhatom.
+CLT_SALMON_NIGIRI:
+  name: Lazacos nigiri
+  type:
+  - '&7&oÉtel'
+  description:
+  - Elragadó, mégis finom íz.
+  stats:
+  - '&8⇨ &7Gyógyulás: &b2 szív'
+  - '&8⇨ &bRegeneráció I &7(10:00)'
+CLT_SASSAFRAS:
+  name: Szasszafrász
+  type:
+  - '&7&oTermény'
+  description:
+  - Ehető gyökérsör, komolyan, keress rá
+  - a neten, most már folyton ezt veszem.
+CLT_SAUSAGE:
+  name: Kolbász
+  type:
+  - '&7&oÉtel'
+  description:
+  - A szalonna testvére.
+  stats: &id007
+  - '&8⇨ &7Gyógyulás: &b1 szív'
+CLT_SEED_PACK:
+  name: Vetőmagcsomag
+  type:
+  - '&7&oEszköz'
+  description:
+  - Jobb kattintással kinyithatod ezt a csomagot.
+  stats:
+  - '&8⇨ &7Beállítva: &bSemmi'
+CLT_SHAKSHUKA:
+  name: Shakshuka
+  type:
+  - '&7&oÉtel'
+  description:
+  - Szívmelengető étel, tojásból nincs hiány.
+  stats:
+  - '&8⇨ &7Gyógyulás: &b4 szív'
+  - '&8⇨ &bA falu hőse I &7(10:00)'
+  - '&8⇨ &bSzerencse I &7(10:00)'
+CLT_SHALLOT:
+  name: Salottahagyma
+  type:
+  - '&7&oTermény'
+  description:
+  - Salottából sosem elég, salottát mindenhova!
+CLT_SHEPHERDS_PIE:
+  name: Pásztorpite
+  type:
+  - '&7&oÉtel'
+  description:
+  - Meleg, kiadós és egyszerűen csodás.
+  stats: *id006
+CLT_SHISO:
+  name: Shiso
+  type:
+  - '&7&oTermény'
+  description:
+  - Menta, egy adag szeretettel.
+CLT_SLICED_APPLE:
+  name: Szeletelt alma
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_APRICOT:
+  name: Szeletelt sárgabarack
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_ARTICHOKE:
+  name: Szeletelt articsóka
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_ASPARAGUS:
+  name: Szeletelt spárga
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_AUBERGINE:
+  name: Szeletelt padlizsán
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_AVOCADO:
+  name: Szeletelt avokádó
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_BANANA:
+  name: Szeletelt banán
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_BASIL:
+  name: Szeletelt bazsalikom
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_BAY_LEAF:
+  name: Szeletelt babérlevél
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_BEEF:
+  name: Szeletelt marhahús
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_BEETROOT:
+  name: Szeletelt cékla
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_BELL_PEPPER:
+  name: Szeletelt kaliforniai paprika
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_BLACK_BEANS:
+  name: Szeletelt fekete bab
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_BREAD:
+  name: Szeletelt kenyér
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_BROCCOLI:
+  name: Szeletelt brokkoli
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_BROWN_MUSHROOM:
+  name: Szeletelt barna gomba
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_BRUSSELS_SPROUTS:
+  name: Szeletelt kelbimbó
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_CABBAGE:
+  name: Szeletelt káposzta
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_CARROT:
+  name: Szeletelt sárgarépa
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_CAULIFLOWER:
+  name: Szeletelt karfiol
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_CAYENNE_PEPPER:
+  name: Szeletelt kajenni bors
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_CELERIAC:
+  name: Szeletelt zellergumó
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_CELERY:
+  name: Szeletelt szárzeller
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_CHERRY:
+  name: Szeletelt cseresznye
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_CHESTNUT:
+  name: Szeletelt gesztenye
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_CHICKEN:
+  name: Szeletelt csirke
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_CHICKPEAS:
+  name: Szeletelt csicseriborsó
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_CHICORY:
+  name: Szeletelt cikória
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_CHILLY_PEPPER:
+  name: Szeletelt chilipaprika
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_CHIVES:
+  name: Szeletelt metélőhagyma
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_CHORUS_FRUIT:
+  name: Szeletelt refréngyümölcs
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_CILANTRO:
+  name: Szeletelt koriander
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_CINNAMON:
+  name: Szeletelt fahéj
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_CLOVE:
+  name: Szeletelt szegfűszeg
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_COCOA_BEANS:
+  name: Szeletelt kakaóbab
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_COD:
+  name: Szeletelt tőkehal
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_COURGETTE:
+  name: Szeletelt cukkini
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_CUCUMBER:
+  name: Szeletelt uborka
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_CUMIN:
+  name: Szeletelt kömény
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_CURRY_LEAF:
+  name: Szeletelt currylevél
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_DILL:
+  name: Szeletelt kapor
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_EGG:
+  name: Szeletelt tojás
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_ENCHANTED_GOLDEN_APPLE:
+  name: Szeletelt bűvös aranyalma
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_FENNEL:
+  name: Szeletelt édeskömény
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_GARLIC:
+  name: Szeletelt fokhagyma
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_GINGER:
+  name: Szeletelt gyömbér
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_GLOW_BERRIES:
+  name: Szeletelt fényszeder
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_GOLDEN_APPLE:
+  name: Szeletelt aranyalma
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_GOLDEN_CARROT:
+  name: Szeletelt aranyrépa
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_GRAPE:
+  name: Szeletelt szőlő
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_GREEN_APPLE:
+  name: Szeletelt zöldalma
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_GREEN_BEANS:
+  name: Szeletelt zöldbab
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_GREEN_ONION:
+  name: Szeletelt újhagyma
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_HAZELNUT:
+  name: Szeletelt mogyoró
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_HORSERADISH:
+  name: Szeletelt torma
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_JALAPENO:
+  name: Szeletelt jalapeño
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_JASMINE:
+  name: Szeletelt jázmin
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_JUNIPER_BERRY:
+  name: Szeletelt borókabogyók
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_KAFFIR_LIME:
+  name: Szeletelt kaffirlime-levél
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_KALE:
+  name: Szeletelt fodros kel
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_KELP:
+  name: Szeletelt hínár
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_KIWI:
+  name: Szeletelt kivi
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_LAVENDER:
+  name: Szeletelt levendula
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_LEEK:
+  name: Szeletelt póréhagyma
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_LEMON:
+  name: Szeletelt citrom
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_LETTUCE:
+  name: Szeletelt fejes saláta
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_LICORICE:
+  name: Szeletelt édesgyökér
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_LIME:
+  name: Szeletelt zöldcitrom
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_MACE:
+  name: Szeletelt szerecsendióvirág
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_MANGO:
+  name: Szeletelt mangó
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_MARJORAM:
+  name: Szeletelt majoránna
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_MARROW:
+  name: Szeletelt spárgatök
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_MELON:
+  name: Szeletelt dinnye
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_MINT:
+  name: Szeletelt menta
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_MUSTARD_SEEDS:
+  name: Szeletelt mustármagvak
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_MUTTON:
+  name: Szeletelt birkahús
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_NETTLES:
+  name: Szeletelt csalán
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_OKRA:
+  name: Szeletelt okra
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_ONION:
+  name: Szeletelt hagyma
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_ORANGE:
+  name: Szeletelt narancs
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_OREGANO:
+  name: Szeletelt oregánó
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_PARSLEY:
+  name: Szeletelt petrezselyem
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_PARSNIP:
+  name: Szeletelt paszternák
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_PEA:
+  name: Szeletelt borsó
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_PEACH:
+  name: Szeletelt őszibarack
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_PEANUT:
+  name: Szeletelt földimogyoró
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_PEAR:
+  name: Szeletelt körte
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_PECAN:
+  name: Szeletelt pekándió
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_PEPPER:
+  name: Szeletelt fekete bors
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_PEPPERONI:
+  name: Szeletelt pepperoni
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_PINEAPPLE:
+  name: Szeletelt ananász
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_PINTO_BEANS:
+  name: Szeletelt tarka bab
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_PORKCHOP:
+  name: Szeletelt disznóhús
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_POTATO:
+  name: Szeletelt burgonya
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_PUFFERFISH:
+  name: Szeletelt gömbhal
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_PUMPKIN:
+  name: Szeletelt tök
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_RABBIT:
+  name: Szeletelt nyúl
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_RADDISH:
+  name: Szeletelt retek
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_RADICCHIO:
+  name: Szeletelt radicchio
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_RAPESEED:
+  name: Szeletelt repce
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_RED_MUSHROOM:
+  name: Szeletelt piros gomba
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_RHUBARB:
+  name: Szeletelt rebarbara
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_RICE:
+  name: Szeletelt rizs
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_ROSEMARY:
+  name: Szeletelt rozmaring
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_ROTTEN_FLESH:
+  name: Szeletelt rohadt hús
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_RUNNER_BEANS:
+  name: Szeletelt futóbab
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_RUTABAGA:
+  name: Szeletelt karórépa
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_SALMON:
+  name: Szeletelt lazac
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_SASSAFRAS:
+  name: Szeletelt szasszafrász
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_SHALLOT:
+  name: Szeletelt salottahagyma
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_SHISO:
+  name: Szeletelt shiso
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_SOY_BEANS:
+  name: Szeletelt szójabab
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_SPINACH:
+  name: Szeletelt spenót
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_STAR_ANISE:
+  name: Szeletelt csillagánizs
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_STRAWBERRY:
+  name: Szeletelt eper
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_SUGAR:
+  name: Szeletelt cukor
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_SWEETCORN:
+  name: Szeletelt csemegekukorica
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_SWEET_BERRIES:
+  name: Szeletelt édes bogyók
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_SWEET_POTATO:
+  name: Szeletelt édes burgonya
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_TARRAGON:
+  name: Szeletelt tárkony
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_THYME:
+  name: Szeletelt kakukkfű
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_TOMATO:
+  name: Szeletelt paradicsom
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_TURMERIC:
+  name: Szeletelt kurkuma
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_TURNIP:
+  name: Szeletelt tarlórépa
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_VANILLA:
+  name: Szeletelt vanília
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_WASABI:
+  name: Szeletelt wasabi
+  type:
+  - '&7&oMelléktermék'
+CLT_SLICED_WHEAT:
+  name: Szeletelt búza
+  type:
+  - '&7&oMelléktermék'
+CLT_SOFT_BOILED_EGG:
+  name: Lágy tojás
+  type:
+  - '&7&oÉtel'
+  description:
+  - Csak egy főtt tojás, mit lehet még mondani.
+  stats:
+  - '&8⇨ &7Gyógyulás: &b1 szív'
+  - '&8⇨ &7Néha egy csirkét hív a segítségedre.'
+CLT_SOYLENT:
+  name: Soylent
+  type:
+  - '&7&oÉtel'
+  description:
+  - Minden, amire a testnek szüksége van!
+  stats:
+  - '&8⇨ &bRossz ómen I &7(10:00)'
+  - '&8⇨ &bGyengeség IV &7(10:00)'
+CLT_SOY_BEANS:
+  name: Szójabab
+  type:
+  - '&7&oTermény'
+  description:
+  - Eljő a szójatej.
+CLT_SPAGHETTI:
+  name: Spagetti
+  type:
+  - '&7&oÉtel'
+  description:
+  - Csak szürcsölj tovább.
+  stats: *id007
+CLT_SPAGHETTI_AND_MEATBALLS:
+  name: Spagetti húsgombóccal
+  type:
+  - '&7&oÉtel'
+  description:
+  - Egyszerű, klasszikus és kiadós.
+  stats:
+  - '&8⇨ &7Gyógyulás: &b1 szív'
+  - '&8⇨ &bRossz ómen I &7(10:00)'
+CLT_SPINACH:
+  name: Spenót
+  type:
+  - '&7&oTermény'
+  description:
+  - Szeretettel fonnyasztva.
+CLT_STAR_ANISE:
+  name: Csillagánizs
+  type:
+  - '&7&oTermény'
+  description:
+  - Az egyik legjobb és legegyedibb íz.
+CLT_STRAWBERRY:
+  name: Eper
+  type:
+  - '&7&oTermény'
+  description:
+  - Csak adj hozzá tejszínt!
+CLT_STRAWBERRY_JELLY:
+  name: Eperzselé
+  type:
+  - '&7&oTermény'
+  description: *id008
+CLT_SUGARED_SKULL:
+  name: Cukorkoponya
+  type:
+  - '&7&oÉtel'
+  description:
+  - Ez egyáltalán étel...?
+  stats:
+  - '&8⇨ &bSötétség III &7(10:00)'
+CLT_SWEETCORN:
+  name: Csemegekukorica
+  type:
+  - '&7&oTermény'
+  description:
+  - Talán a legjobb zöldség a környéken.
+CLT_SWEET_BEEHIVE:
+  name: Édes méhkas
+  type:
+  - '&7&oÉtel'
+  description:
+  - Nem tudom, mi vett rá, hogy ezt megfőzd!
+  stats:
+  - '&8⇨ &7Megidéz néhány méhet!'
+CLT_SWEET_POTATO:
+  name: Édes burgonya
+  type:
+  - '&7&oTermény'
+  description:
+  - Jam jam jam.
+CLT_TAQUITO:
+  name: Taquito
+  type:
+  - '&7&oÉtel'
+  description:
+  - Zim büszke lenne!
+  stats:
+  - '&8⇨ &7Gyógyulás: &b4 szív'
+  - '&8⇨ &7Megidézi Girt segíteni (ez egy Vasgólem, nyugi).'
+CLT_TARRAGON:
+  name: Tárkony
+  type:
+  - '&7&oTermény'
+  description:
+  - Szó szerint mindenre ezt teszem.
+  - 'Spoiler: Nem vagyok jó szakács.'
+CLT_TATER_TOTS:
+  name: Burgonyafalatkák
+  type:
+  - '&7&oÉtel'
+  description:
+  - Apró, bekapható krumplifalatok.
+  stats:
+  - '&8⇨ &7Gyógyulás: &b0.5 szív'
+  - '&8⇨ &bGyorsaság II &7(10:00)'
+CLT_THYME:
+  name: Kakukkfű
+  type:
+  - '&7&oTermény'
+  description:
+  - Gyakran hiányolt rozmaring.
+CLT_TOMATO:
+  name: Paradicsom
+  type:
+  - '&7&oTermény'
+  description:
+  - Egyenesen a tőkéről.... izé... bokorról?
+CLT_TORTILLAS:
+  name: Tortilla
+  type:
+  - '&7&oTermény'
+  description:
+  - Kukoricalisztes gyönyörűségek
+CLT_TREE_APRICOT:
+  name: Sárgabarackfa
+  type:
+  - '&7&oCsemete'
+  description:
+  - Belül egyetlen kétségbeesés-mag lapul.
+  stats: &id009
+  - '&8⇨ &7Tervezte: &bBWhite'
+CLT_TREE_BANANA:
+  name: Banánfa
+  type:
+  - '&7&oCsemete'
+  description:
+  - Ujjakat növesztő fa, hátborzongató!
+  stats:
+  - '&8⇨ &7Tervezte: &bSefiraat'
+CLT_TREE_CHERRY:
+  name: Cseresznyefa
+  type:
+  - '&7&oCsemete'
+  description:
+  - Kösd össze!
+  stats:
+  - '&8⇨ &7Tervezte: &bReasonFoundDecoy'
+CLT_TREE_CHESTNUT:
+  name: Gesztenyefa
+  type:
+  - '&7&oCsemete'
+  description:
+  - Ezt a fát egyértelműen mászásra tervezték.
+  stats: &id010
+  - '&8⇨ &7Tervezte: &bABitOddish'
+CLT_TREE_GREEN_APPLE:
+  name: Zöldalmafa
+  type:
+  - '&7&oCsemete'
+  description:
+  - Nagy, ropogós zöldalmákat terem.
+  stats: *id009
+CLT_TREE_HAZELNUT:
+  name: Mogyorófa
+  type:
+  - '&7&oCsemete'
+  description:
+  - Ennek a fának a rázogatása gyerekkori időtöltés.
+  stats: *id010
+CLT_TREE_KIWI:
+  name: Kivifa
+  type:
+  - '&7&oCsemete'
+  description:
+  - Új-zélandi fa? Jól mondom?
+  stats: *id010
+CLT_TREE_LEMON:
+  name: Citromfa
+  type:
+  - '&7&oCsemete'
+  description:
+  - Már ha csak ránézek erre a fára, savanyú ízt érzek.
+  stats: &id011
+  - '&8⇨ &7Tervezte: &bJeff'
+CLT_TREE_LIME:
+  name: Zöldcitromfa
+  type:
+  - '&7&oCsemete'
+  description:
+  - Tudtad, hogy a zöldcitrom csak egy citrom, ami visszatartja a lélegzetét?
+  stats: *id010
+CLT_TREE_MANGO:
+  name: Mangófa
+  type:
+  - '&7&oCsemete'
+  description:
+  - Legjobb, amikor a legérettebb.
+  stats: *id009
+CLT_TREE_ORANGE:
+  name: Narancsfa
+  type:
+  - '&7&oCsemete'
+  description:
+  - A napfény kis gömbjei.
+  stats: *id011
+CLT_TREE_PEACH:
+  name: Őszibarackfa
+  type:
+  - '&7&oCsemete'
+  description:
+  - Azt hiszem, James ezt kereste?
+  stats: *id010
+CLT_TREE_PEAR:
+  name: Körtefa
+  type:
+  - '&7&oCsemete'
+  description:
+  - Két körte körbe-körbe kerget kört.
+  stats: *id009
+CLT_TREE_PECAN:
+  name: Pekándiófa
+  type:
+  - '&7&oCsemete'
+  description:
+  - Termeszthetjük ezt a fát? Pekán, hogy igen!
+  stats: *id009
+CLT_TREE_PINEAPPLE:
+  name: Ananászfa
+  type:
+  - '&7&oCsemete'
+  description:
+  - HOL A PIZZÁM?
+  stats: *id010
+CLT_TURMERIC:
+  name: Kurkuma
+  type:
+  - '&7&oTermény'
+  description:
+  - Erős, pézsmás jelenlét, amely sok ételt kiteljesít.
+CLT_TURNIP:
+  name: Tarlórépa
+  type:
+  - '&7&oTermény'
+  description:
+  - Az élet összes problémáját megoldja.
+CLT_VANILLA:
+  name: Vanília
+  type:
+  - '&7&oTermény'
+  description:
+  - 'Használati utasítás: Mártsd egyenesen egy lattéba'
+CLT_WASABI:
+  name: Wasabi
+  type:
+  - '&7&oTermény'
+  description:
+  - Segítség... wasabi...
+CLT_WITHER_ROSE_SALAD:
+  name: Witherrózsa-saláta
+  type:
+  - '&7&oÉtel'
+  description:
+  - Duzzad az erőtől, de kemény mellékhatással.
+  stats:
+  - '&8⇨ &7Gyógyulás: &bTeljes'
+  - '&8⇨ &bSorvadás II &7(10:00)'
+  - '&8⇨ &bÉleterősítés XX &7(10:00)'

@@ -1,0 +1,87 @@
+cultivation:
+  bush_harvest:
+    name: Panen Semak
+    lore:
+    - Item ini bisa dipanen dari
+    - Semak Cultivation
+  tree_harvest:
+    name: Panen Pohon
+    lore:
+    - Item ini bisa dipanen dari
+    - Pohon Cultivation
+  trading_farmer:
+    name: Berdagang dengan Penduduk
+    lore:
+    - Item ini bisa dibeli dari
+    - penduduk petani.
+  trading_fletcher:
+    name: Berdagang dengan Penduduk
+    lore:
+    - Item ini bisa dibeli dari
+    - penduduk pembuat panah.
+  mob:
+    name: Jatuhan Mob
+    lore:
+    - Item ini berpeluang jatuh dari
+    - mob berikut.
+  plant_breeding:
+    name: Pembiakan Tanaman
+    lore:
+    - Benih ini ditemukan lewat pembiakan.
+    - Kamu membiakkan tanaman dengan meletakkan
+    - dua tanaman dengan satu blok udara
+    - di antaranya.
+    - ''
+    - Kamus pembiakan bisa dipakai
+    - untuk mencatat penemuanmu.
+    - ''
+    - 'Petunjuk: Partikel hitam berarti kedua'
+    - tanaman itu TIDAK BISA dibiakkan.
+  vanilla_block_drop:
+    name: Jatuhan Dunia
+    lore:
+    - Jatuh dari blok saat dihancurkan di dunia.
+  bucketing:
+    name: Jatuhan Dunia
+    lore:
+    - Didapat dari dunia dengan memakai ember.
+  chopped:
+    name: Cincang
+    lore:
+    - Tinggal cincang pakai pisau!
+  mashed:
+    name: Tumbuk
+    lore:
+    - Tumbuk Tumbuk Tumbuk
+  blended:
+    name: Blender
+    lore:
+    - Dibuat dengan memasukkan item ke dalam blender.
+  sliced:
+    name: Iris
+    lore:
+    - Begitu tipis dan halus
+  ground:
+    name: Ulek
+    lore:
+    - Sampai halus sekali
+  boiled:
+    name: Rebus
+    lore:
+    - Panas panas panas!
+  fried:
+    name: Goreng
+    lore:
+    - Renyah Sempurna.
+  grilled:
+    name: Bakar
+    lore:
+    - Juicy dan Empuk.
+  finishing:
+    name: Penyelesaian
+    lore:
+    - Gunakan meja penyelesaian di dapur untuk membuat item ini.
+  baking:
+    name: Memanggang
+    lore:
+    - Gunakan meja oven di dapur untuk membuat item ini.

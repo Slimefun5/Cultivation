@@ -1,0 +1,13 @@
+cultivation:
+  main: Cultivation
+  hidden: Skjult
+  crafting: Håndverksgjenstander
+  tools: Verktøy
+  machines: Maskiner
+  plants: Planter
+  bushes: Busker
+  trees: Trær
+  produce: Avlinger
+  by-products: Biprodukter
+  foods: Mat
+  plant_codex: Plantekodeks

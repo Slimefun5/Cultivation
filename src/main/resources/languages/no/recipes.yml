@@ -1,0 +1,87 @@
+cultivation:
+  bush_harvest:
+    name: Buskhøsting
+    lore:
+    - Denne gjenstanden kan høstes fra en
+    - Cultivation-busk
+  tree_harvest:
+    name: Trehøsting
+    lore:
+    - Denne gjenstanden kan høstes fra et
+    - Cultivation-tre
+  trading_farmer:
+    name: Handel med bygdinger
+    lore:
+    - Denne gjenstanden kan kjøpes fra en
+    - bonde-bygding.
+  trading_fletcher:
+    name: Handel med bygdinger
+    lore:
+    - Denne gjenstanden kan kjøpes fra en
+    - pilmaker-bygding.
+  mob:
+    name: Skapningsbytte
+    lore:
+    - Denne gjenstanden kan bli sluppet av
+    - følgende skapning(er).
+  plant_breeding:
+    name: Planteavl
+    lore:
+    - Dette frøet finner du gjennom avl.
+    - Du avler planter ved å plassere
+    - to planter med en luftblokk
+    - mellom seg.
+    - ''
+    - Avlsordboken kan brukes til
+    - å holde styr på oppdagelsene dine.
+    - ''
+    - 'Hint: Svarte partikler betyr at de'
+    - to plantene IKKE kan avles.
+  vanilla_block_drop:
+    name: Funnet i verden
+    lore:
+    - Slippes fra blokker når de knuses i verden.
+  bucketing:
+    name: Funnet i verden
+    lore:
+    - Hentes fra verden med en bøtte.
+  chopped:
+    name: Hakket
+    lore:
+    - Bare hakk med en kniv!
+  mashed:
+    name: Moset
+    lore:
+    - Mos mos mos
+  blended:
+    name: Mikset
+    lore:
+    - Lages ved å putte en gjenstand i blenderen.
+  sliced:
+    name: Skivet
+    lore:
+    - Så tynn og skjør
+  ground:
+    name: Malt
+    lore:
+    - Finmalt til perfeksjon
+  boiled:
+    name: Kokt
+    lore:
+    - Varmt varmt varmt!
+  fried:
+    name: Stekt
+    lore:
+    - Sprø perfeksjon.
+  grilled:
+    name: Grillet
+    lore:
+    - Saftig og mør.
+  finishing:
+    name: Ferdigstilling
+    lore:
+    - Bruk kjøkkenets ferdigstillingsbenk for å lage denne gjenstanden.
+  baking:
+    name: Baking
+    lore:
+    - Bruk kjøkkenets ovnsbenk for å lage denne gjenstanden.

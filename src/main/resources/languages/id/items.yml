@@ -1,0 +1,6674 @@
+CLT_APRICOT:
+  name: Aprikot
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Kamu bisa membuat Pokéball dari ini.
+  - '...'
+  - Maksudnya itu benda yang beda...?
+CLT_ARTICHOKE:
+  name: Artisok
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Cabut HATINYA!
+CLT_ASPARAGUS:
+  name: Asparagus
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Hati-hati nanti waktu ke kamar mandi.
+CLT_AUBERGINE:
+  name: Terung
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Ungu cerah dan 100% TIDAK berbentuk telur.
+  - Lebih baik sebut saja terung, kan?
+CLT_AVOCADO:
+  name: Alpukat
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Impian para anak senja.
+CLT_BACON_SANDWICH:
+  name: Roti Lapis Bacon
+  type:
+  - '&7&oMakanan'
+  description:
+  - Klasik yang sederhana!
+  stats:
+  - '&8⇨ &7Penyembuhan: &b2 Hati'
+  - '&8⇨ &bKekuatan I &7(10:00)'
+  - '&8⇨ &bKecepatan I &7(10:00)'
+CLT_BAGEL:
+  name: Roti Bagel
+  type:
+  - '&7&oMakanan'
+  description:
+  - Dipanggang? atau...
+  stats:
+  - '&8⇨ &7Penyembuhan: &b2.5 Hati'
+CLT_BAGEL_BITE:
+  name: Roti Bagel Mini
+  type:
+  - '&7&oMakanan'
+  description:
+  - Makan piza kapan saja!
+  stats:
+  - '&8⇨ &7Membakar mulutmu di setiap gigitan!'
+CLT_BAGEL_CREAM_CHEESE:
+  name: Roti Bagel Keju Krim
+  type:
+  - '&7&oMakanan'
+  description:
+  - Saking enaknya, kamu pasti mau nambah.
+  stats:
+  - '&8⇨ &7Penyembuhan: &b5 Hati'
+  - '&8⇨ &bKesehatan Tambahan I &7(10:00)'
+CLT_BANANA:
+  name: Pisang
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Kulitnya bikin aku jatuh hati, eh, jatuh kulit!
+CLT_BASIL:
+  name: Kemangi
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Daun manis dengan sisa rasa lada yang lembut.
+CLT_BAY_LEAF:
+  name: Daun Salam
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Aromatik kuat dengan banyak kegunaan.
+CLT_BELL_PEPPER:
+  name: Paprika
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Benar-benar berdering di hati.
+CLT_BISCUIT:
+  name: Biskuit
+  type:
+  - '&7&oMakanan'
+  description:
+  - Camilan kecil dengan rasa yang besar.
+  stats: &id002
+  - '&8⇨ &7Melontarkanmu ke udara'
+CLT_BISCUIT_BASE:
+  name: Dasar Biskuit
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Walaupun sekarang sudah pipih, bukan berarti
+  - kamu boleh memakannya mentah.
+CLT_BISCUIT_DOUGH:
+  name: Adonan Biskuit
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - 'Ingatkan dirimu sendiri: "Jangan dimakan mentah."'
+CLT_BLACK_BEANS:
+  name: Kacang Hitam
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Protein vegetarian yang lezat.
+CLT_BLENDED_APPLE:
+  name: Apel Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_APRICOT:
+  name: Aprikot Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_ARTICHOKE:
+  name: Artisok Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_ASPARAGUS:
+  name: Asparagus Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_AUBERGINE:
+  name: Terung Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_AVOCADO:
+  name: Alpukat Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_BANANA:
+  name: Pisang Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_BASIL:
+  name: Kemangi Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_BAY_LEAF:
+  name: Daun Salam Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_BEEF:
+  name: Daging Sapi Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_BEETROOT:
+  name: Bit Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_BELL_PEPPER:
+  name: Paprika Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_BLACK_BEANS:
+  name: Kacang Hitam Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_BREAD:
+  name: Roti Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_BROCCOLI:
+  name: Brokoli Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_BROWN_MUSHROOM:
+  name: Jamur Cokelat Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_BRUSSELS_SPROUTS:
+  name: Kubis Brussel Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_CABBAGE:
+  name: Kubis Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_CARROT:
+  name: Wortel Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_CAULIFLOWER:
+  name: Kembang Kol Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_CAYENNE_PEPPER:
+  name: Cabai Cayenne Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_CELERIAC:
+  name: Seledri Umbi Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_CELERY:
+  name: Seledri Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_CHERRY:
+  name: Ceri Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_CHESTNUT:
+  name: Kastanye Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_CHICKEN:
+  name: Ayam Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_CHICKPEAS:
+  name: Kacang Arab Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_CHICORY:
+  name: Sikori Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_CHILLY_PEPPER:
+  name: Cabai Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_CHIVES:
+  name: Kucai Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_CHORUS_FRUIT:
+  name: Buah Korus Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_CILANTRO:
+  name: Daun Ketumbar Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_CINNAMON:
+  name: Kayu Manis Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_CLOVE:
+  name: Cengkih Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_COCOA_BEANS:
+  name: Biji Kakao Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_COD:
+  name: Kod Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_COURGETTE:
+  name: Zukini Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_CUCUMBER:
+  name: Mentimun Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_CUMIN:
+  name: Jintan Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_CURRY_LEAF:
+  name: Daun Kari Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_DILL:
+  name: Adas Sowa Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_EGG:
+  name: Telur Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_ENCHANTED_GOLDEN_APPLE:
+  name: Apel Emas Terpesona Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_FENNEL:
+  name: Adas Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_GARLIC:
+  name: Bawang Putih Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_GINGER:
+  name: Jahe Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_GLOW_BERRIES:
+  name: Buni Sinar Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_GOLDEN_APPLE:
+  name: Apel Emas Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_GOLDEN_CARROT:
+  name: Wortel Emas Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_GRAPE:
+  name: Anggur Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_GREEN_APPLE:
+  name: Apel Hijau Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_GREEN_BEANS:
+  name: Buncis Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_GREEN_ONION:
+  name: Daun Bawang Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_HAZELNUT:
+  name: Hazelnut Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_HORSERADISH:
+  name: Lobak Pedas Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_JALAPENO:
+  name: Jalapeno Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_JASMINE:
+  name: Melati Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_JUNIPER_BERRY:
+  name: Buah Juniper Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_KAFFIR_LIME:
+  name: Daun Jeruk Purut Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_KALE:
+  name: Kale Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_KELP:
+  name: Kelp Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_KIWI:
+  name: Kiwi Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_LAVENDER:
+  name: Lavender Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_LEEK:
+  name: Bawang Prei Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_LEMON:
+  name: Lemon Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_LETTUCE:
+  name: Selada Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_LICORICE:
+  name: Akar Manis Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_LIME:
+  name: Jeruk Nipis Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_MACE:
+  name: Fuli Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_MANGO:
+  name: Mangga Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_MARJORAM:
+  name: Marjoram Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_MARROW:
+  name: Labu Sumsum Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_MELON:
+  name: Semangka Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_MINT:
+  name: Daun Mint Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_MUSTARD_SEEDS:
+  name: Biji Mustar Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_MUTTON:
+  name: Daging Domba Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_NETTLES:
+  name: Jelatang Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_OKRA:
+  name: Okra Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_ONION:
+  name: Bawang Bombai Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_ORANGE:
+  name: Jeruk Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_OREGANO:
+  name: Oregano Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_PARSLEY:
+  name: Peterseli Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_PARSNIP:
+  name: Parsnip Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_PEA:
+  name: Kacang Polong Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_PEACH:
+  name: Persik Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_PEANUT:
+  name: Kacang Tanah Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_PEAR:
+  name: Pir Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_PECAN:
+  name: Pekan Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_PEPPER:
+  name: Lada Hitam Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_PEPPERONI:
+  name: Pepperoni Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_PINEAPPLE:
+  name: Nanas Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_PINTO_BEANS:
+  name: Kacang Pinto Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_PORKCHOP:
+  name: Daging Babi Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_POTATO:
+  name: Kentang Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_PUFFERFISH:
+  name: Ikan Buntal Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_PUMPKIN:
+  name: Labu Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_RABBIT:
+  name: Kelinci Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_RADDISH:
+  name: Lobak Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_RADICCHIO:
+  name: Radicchio Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_RAPESEED:
+  name: Kanola Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_RED_MUSHROOM:
+  name: Jamur Merah Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_RHUBARB:
+  name: Rhubarb Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_RICE:
+  name: Beras Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_ROSEMARY:
+  name: Rosemary Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_ROTTEN_FLESH:
+  name: Daging Busuk Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_RUNNER_BEANS:
+  name: Kacang Runner Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_RUTABAGA:
+  name: Rutabaga Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_SALMON:
+  name: Salmon Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_SASSAFRAS:
+  name: Sassafras Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_SHALLOT:
+  name: Bawang Merah Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_SHISO:
+  name: Shiso Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_SOY_BEANS:
+  name: Kedelai Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_SPINACH:
+  name: Bayam Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_STAR_ANISE:
+  name: Bunga Lawang Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_STRAWBERRY:
+  name: Stroberi Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_SUGAR:
+  name: Gula Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_SWEETCORN:
+  name: Jagung Manis Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_SWEET_BERRIES:
+  name: Beri Manis Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_SWEET_POTATO:
+  name: Ubi Jalar Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_TARRAGON:
+  name: Tarragon Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_THYME:
+  name: Timi Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_TOMATO:
+  name: Tomat Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_TURMERIC:
+  name: Kunyit Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_TURNIP:
+  name: Lobak Turnip Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_VANILLA:
+  name: Vanili Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_WASABI:
+  name: Wasabi Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLENDED_WHEAT:
+  name: Gandum Blender
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BLUE_CANDY:
+  name: Permen Biru
+  type:
+  - '&7&oMakanan'
+  description:
+  - Permen manis yang menggemaskan.
+  stats:
+  - '&8⇨ &7Memunculkan seekor Andaru'
+CLT_BOILED_APPLE:
+  name: Apel Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_APRICOT:
+  name: Aprikot Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_ARTICHOKE:
+  name: Artisok Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_ASPARAGUS:
+  name: Asparagus Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_AUBERGINE:
+  name: Terung Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_AVOCADO:
+  name: Alpukat Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_BANANA:
+  name: Pisang Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_BASIL:
+  name: Kemangi Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_BAY_LEAF:
+  name: Daun Salam Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_BEEF:
+  name: Daging Sapi Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_BEETROOT:
+  name: Bit Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_BELL_PEPPER:
+  name: Paprika Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_BLACK_BEANS:
+  name: Kacang Hitam Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_BREAD:
+  name: Roti Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_BROCCOLI:
+  name: Brokoli Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_BROWN_MUSHROOM:
+  name: Jamur Cokelat Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_BRUSSELS_SPROUTS:
+  name: Kubis Brussel Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_CABBAGE:
+  name: Kubis Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_CARROT:
+  name: Wortel Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_CAULIFLOWER:
+  name: Kembang Kol Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_CAYENNE_PEPPER:
+  name: Cabai Cayenne Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_CELERIAC:
+  name: Seledri Umbi Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_CELERY:
+  name: Seledri Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_CHERRY:
+  name: Ceri Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_CHESTNUT:
+  name: Kastanye Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_CHICKEN:
+  name: Ayam Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_CHICKPEAS:
+  name: Kacang Arab Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_CHICORY:
+  name: Sikori Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_CHILLY_PEPPER:
+  name: Cabai Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_CHIVES:
+  name: Kucai Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_CHORUS_FRUIT:
+  name: Buah Korus Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_CILANTRO:
+  name: Daun Ketumbar Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_CINNAMON:
+  name: Kayu Manis Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_CLOVE:
+  name: Cengkih Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_COCOA_BEANS:
+  name: Biji Kakao Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_COD:
+  name: Kod Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_COURGETTE:
+  name: Zukini Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_CUCUMBER:
+  name: Mentimun Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_CUMIN:
+  name: Jintan Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_CURRY_LEAF:
+  name: Daun Kari Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_DILL:
+  name: Adas Sowa Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_EGG:
+  name: Telur Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_ENCHANTED_GOLDEN_APPLE:
+  name: Apel Emas Terpesona Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_FENNEL:
+  name: Adas Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_GARLIC:
+  name: Bawang Putih Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_GINGER:
+  name: Jahe Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_GLOW_BERRIES:
+  name: Buni Sinar Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_GOLDEN_APPLE:
+  name: Apel Emas Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_GOLDEN_CARROT:
+  name: Wortel Emas Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_GRAPE:
+  name: Anggur Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_GREEN_APPLE:
+  name: Apel Hijau Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_GREEN_BEANS:
+  name: Buncis Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_GREEN_ONION:
+  name: Daun Bawang Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_HAZELNUT:
+  name: Hazelnut Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_HORSERADISH:
+  name: Lobak Pedas Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_JALAPENO:
+  name: Jalapeno Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_JASMINE:
+  name: Melati Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_JUNIPER_BERRY:
+  name: Buah Juniper Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_KAFFIR_LIME:
+  name: Daun Jeruk Purut Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_KALE:
+  name: Kale Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_KELP:
+  name: Kelp Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_KIWI:
+  name: Kiwi Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_LAVENDER:
+  name: Lavender Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_LEEK:
+  name: Bawang Prei Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_LEMON:
+  name: Lemon Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_LETTUCE:
+  name: Selada Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_LICORICE:
+  name: Akar Manis Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_LIME:
+  name: Jeruk Nipis Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_MACE:
+  name: Fuli Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_MANGO:
+  name: Mangga Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_MARJORAM:
+  name: Marjoram Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_MARROW:
+  name: Labu Sumsum Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_MELON:
+  name: Semangka Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_MINT:
+  name: Daun Mint Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_MUSTARD_SEEDS:
+  name: Biji Mustar Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_MUTTON:
+  name: Daging Domba Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_NETTLES:
+  name: Jelatang Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_OKRA:
+  name: Okra Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_ONION:
+  name: Bawang Bombai Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_ORANGE:
+  name: Jeruk Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_OREGANO:
+  name: Oregano Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_PARSLEY:
+  name: Peterseli Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_PARSNIP:
+  name: Parsnip Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_PEA:
+  name: Kacang Polong Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_PEACH:
+  name: Persik Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_PEANUT:
+  name: Kacang Tanah Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_PEAR:
+  name: Pir Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_PECAN:
+  name: Pekan Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_PEPPER:
+  name: Lada Hitam Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_PEPPERONI:
+  name: Pepperoni Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_PINEAPPLE:
+  name: Nanas Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_PINTO_BEANS:
+  name: Kacang Pinto Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_PORKCHOP:
+  name: Daging Babi Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_POTATO:
+  name: Kentang Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_PUFFERFISH:
+  name: Ikan Buntal Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_PUMPKIN:
+  name: Labu Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_RABBIT:
+  name: Kelinci Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_RADDISH:
+  name: Lobak Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_RADICCHIO:
+  name: Radicchio Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_RAPESEED:
+  name: Kanola Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_RED_MUSHROOM:
+  name: Jamur Merah Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_RHUBARB:
+  name: Rhubarb Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_RICE:
+  name: Beras Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_ROSEMARY:
+  name: Rosemary Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_ROTTEN_FLESH:
+  name: Daging Busuk Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_RUNNER_BEANS:
+  name: Kacang Runner Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_RUTABAGA:
+  name: Rutabaga Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_SALMON:
+  name: Salmon Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_SASSAFRAS:
+  name: Sassafras Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_SHALLOT:
+  name: Bawang Merah Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_SHISO:
+  name: Shiso Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_SOY_BEANS:
+  name: Kedelai Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_SPINACH:
+  name: Bayam Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_STAR_ANISE:
+  name: Bunga Lawang Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_STRAWBERRY:
+  name: Stroberi Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_SUGAR:
+  name: Gula Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_SWEETCORN:
+  name: Jagung Manis Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_SWEET_BERRIES:
+  name: Beri Manis Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_SWEET_POTATO:
+  name: Ubi Jalar Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_TARRAGON:
+  name: Tarragon Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_THYME:
+  name: Timi Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_TOMATO:
+  name: Tomat Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_TURMERIC:
+  name: Kunyit Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_TURNIP:
+  name: Lobak Turnip Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_VANILLA:
+  name: Vanili Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_WASABI:
+  name: Wasabi Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOILED_WHEAT:
+  name: Gandum Rebus
+  type:
+  - '&7&oProduk Sampingan'
+CLT_BOWL_OF_STEVE:
+  name: Semangkuk... Steve?
+  type:
+  - '&7&oMakanan'
+  description:
+  - Apa-apaan &%£$ ini
+  stats:
+  - '&8⇨ &bKelelahan Menambang X &7(10:00)'
+  - '&8⇨ &bKelambatan VI &7(10:00)'
+  - '&8⇨ &bKekuatan X &7(10:00)'
+  - '&8⇨ &7Menyisakanmu 1/2 hati'
+CLT_BROCCOLI:
+  name: Brokoli
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Apa kamu raksasa yang memegang pohon?
+  - Bukan, cuma pohon mungil :)
+CLT_BRUSSELS_SPROUTS:
+  name: Kubis Brussel
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Kenikmatan yang penuh gas.
+CLT_BUSH_ARTICHOKE:
+  name: Semak Artisok
+  type:
+  - '&7&oSemak'
+  description:
+  - Semak terbaik untuk mencekik seorang
+  - seniman. Huft. Bikin plesetan itu susah.
+CLT_BUSH_ASPARAGUS:
+  name: Semak Asparagus
+  type:
+  - '&7&oSemak'
+  description:
+  - Semak asparagus ini jago menguntit,
+  - batangnya ada di mana-mana!
+CLT_BUSH_AUBERGINE:
+  name: Semak Terung
+  type:
+  - '&7&oSemak'
+  description:
+  - Aku menolak memakai kata "eggplant". Pokoknya menolak.
+CLT_BUSH_AVOCADO:
+  name: Semak Alpukat
+  type:
+  - '&7&oSemak'
+  description:
+  - Semak ini sengaja dikembangbiakkan supaya tidak
+  - boros air.
+CLT_BUSH_BASIL:
+  name: Semak Kemangi
+  type:
+  - '&7&oSemak'
+  description:
+  - Semak riang yang penuh khayalan.
+CLT_BUSH_BAY_LEAF:
+  name: Semak Daun Salam
+  type:
+  - '&7&oSemak'
+  description:
+  - Bau semak ini tercium sampai berkilo-kilometer.
+CLT_BUSH_BELL_PEPPER:
+  name: Semak Paprika
+  type:
+  - '&7&oSemak'
+  description:
+  - Hati-hati lewat sini, nanti kamu
+  - membunyikan loncengnya.
+CLT_BUSH_BLACK_BEANS:
+  name: Semak Kacang Hitam
+  type:
+  - '&7&oSemak'
+  description:
+  - 'Semak ini berbisik lembut padamu:'
+  - Kamu manusia yang kacang-gumkan.
+CLT_BUSH_BROCCOLI:
+  name: Semak Brokoli
+  type:
+  - '&7&oSemak'
+  description:
+  - Pohon mungil yang bisa dimakan? Siapa yang menciptakan ini!?
+CLT_BUSH_BRUSSELS_SPROUTS:
+  name: Semak Kubis Brussel
+  type:
+  - '&7&oSemak'
+  description:
+  - Semak yang kadang-kadang mengeluarkan gas
+  - beracun.
+CLT_BUSH_CABBAGE:
+  name: Semak Kubis
+  type:
+  - '&7&oSemak'
+  description:
+  - Semak yang datang bersama segudang
+  - beban kubis-ional.
+CLT_BUSH_CAULIFLOWER:
+  name: Semak Kembang Kol
+  type:
+  - '&7&oSemak'
+  description:
+  - Semak yang mampu menghasilkan awan-awan kecil
+  - kebahagiaan.
+CLT_BUSH_CAYENNE_PEPPER:
+  name: Semak Cabai Cayenne
+  type:
+  - '&7&oSemak'
+  description:
+  - Semak dengan sikap yang pedas.
+CLT_BUSH_CELERIAC:
+  name: Semak Seledri Umbi
+  type:
+  - '&7&oSemak'
+  description:
+  - Lagi-lagi umbi yang tumbuh dari semak?
+  - SefiBodoh™
+CLT_BUSH_CELERY:
+  name: Semak Seledri
+  type:
+  - '&7&oSemak'
+  description:
+  - Semak ini tidak berguna.
+  - Sefi tidak suka Seledri.
+CLT_BUSH_CHICKPEAS:
+  name: Semak Kacang Arab
+  type:
+  - '&7&oSemak'
+  description:
+  - Semak hasil kawin silang ayam dengan
+  - kacang polong. SAINS.
+CLT_BUSH_CHICORY:
+  name: Semak Sikori
+  type:
+  - '&7&oSemak'
+  description:
+  - Bukannya sikori itu akar? Addon ini
+  - riset dulu nggak sih!?
+CLT_BUSH_CHILLI_PEPPER:
+  name: Semak Cabai
+  type:
+  - '&7&oSemak'
+  description:
+  - Melihat semak ini saja sudah membakar lidahku.
+CLT_BUSH_CHIVES:
+  name: Semak Kucai
+  type:
+  - '&7&oSemak'
+  description:
+  - Semak yang pada dasarnya menghasilkan bawang
+  - terkecil di dunia.
+CLT_BUSH_CILANTRO:
+  name: Semak Daun Ketumbar
+  type:
+  - '&7&oSemak'
+  description:
+  - Aroma jeruk dan rempah samar tercium dari semak ini.
+CLT_BUSH_CINNAMON:
+  name: Semak Kayu Manis
+  type:
+  - '&7&oSemak'
+  description:
+  - Semak yang harumnya menyenangkan.
+CLT_BUSH_CLOVE:
+  name: Semak Cengkih
+  type:
+  - '&7&oSemak'
+  description:
+  - Semak yang selalu mengingatkanku pada Natal.
+CLT_BUSH_COURGETTE:
+  name: Semak Zukini
+  type:
+  - '&7&oSemak'
+  description:
+  - Kenapa semak ini terus meneriakkan kata
+  - Zucchini? Mungkin dia orang Amerika?
+CLT_BUSH_CUCUMBER:
+  name: Semak Mentimun
+  type:
+  - '&7&oSemak'
+  description:
+  - Semak ini dirancang semata-mata untuk
+  - salad musim panasmu yang indah.
+CLT_BUSH_CUMIN:
+  name: Semak Jintan
+  type:
+  - '&7&oSemak'
+  description:
+  - Semak yang menebarkan aroma jeruk yang hangat.
+CLT_BUSH_CURRY_LEAF:
+  name: Semak Daun Kari
+  type:
+  - '&7&oSemak'
+  description:
+  - Paling enak kalau disangrai.
+CLT_BUSH_DILL:
+  name: Semak Adas Sowa
+  type:
+  - '&7&oSemak'
+  description:
+  - Semak ini tumbuh jauh lebih cepat dari yang lain.
+CLT_BUSH_FENNEL:
+  name: Semak Adas
+  type:
+  - '&7&oSemak'
+  description:
+  - Kenapa semak ini mengusir serangga!?
+CLT_BUSH_GARLIC:
+  name: Semak Bawang Putih
+  type:
+  - '&7&oSemak'
+  description:
+  - Napas semak ini benar-benar paling bau.
+CLT_BUSH_GINGER:
+  name: Semak Jahe
+  type:
+  - '&7&oSemak'
+  description:
+  - Semak ini enak kalau direbus utuh.
+CLT_BUSH_GRAPE:
+  name: Semak Anggur
+  type:
+  - '&7&oSemak'
+  description:
+  - Anggur matang dan berair yang hampir berjatuhan
+  - sendiri dari semaknya.
+CLT_BUSH_GREEN_BEANS:
+  name: Semak Buncis
+  type:
+  - '&7&oSemak'
+  description:
+  - Siram saus tomat ke semak ini untuk
+  - membuat kacang panggang.
+CLT_BUSH_GREEN_ONION:
+  name: Semak Daun Bawang
+  type:
+  - '&7&oSemak'
+  description:
+  - Juga dikenal sebagai Bawang Daun.
+  - Daun Bawang umumnya punya rasa
+  - lebih lembut daripada kebanyakan bawang.
+CLT_BUSH_HORSERADISH:
+  name: Semak Lobak Pedas
+  type:
+  - '&7&oSemak'
+  description:
+  - Sekali lagi, tumbuh di semak itu sama sekali tidak masuk akal.
+CLT_BUSH_JALAPENO:
+  name: Semak Jalapeno
+  type:
+  - '&7&oSemak'
+  description:
+  - Memegang semak ini saja memberimu
+  - peluang 1% untuk terbakar.
+CLT_BUSH_JASMINE:
+  name: Semak Melati
+  type:
+  - '&7&oSemak'
+  description:
+  - Aroma semak ini begitu lembut dan menenangkan.
+CLT_BUSH_JUNIPER_BERRY:
+  name: Semak Juniper
+  type:
+  - '&7&oSemak'
+  description:
+  - Manis di semak, pedas saat dikeringkan.
+CLT_BUSH_KAFFIR_LIME:
+  name: Semak Jeruk Purut
+  type:
+  - '&7&oSemak'
+  description:
+  - Semak yang daunnya lebih dicari daripada buahnya.
+CLT_BUSH_KALE:
+  name: Semak Kale
+  type:
+  - '&7&oSemak'
+  description:
+  - Saat menanam semak ini, kamu merasa
+  - semuanya akan baik-baik kale.
+CLT_BUSH_LAVENDER:
+  name: Semak Lavender
+  type:
+  - '&7&oSemak'
+  description:
+  - Semak ini menebarkan baunya ke mana-mana.
+CLT_BUSH_LEEK:
+  name: Semak Bawang Prei
+  type:
+  - '&7&oSemak'
+  description:
+  - Tahukah kamu, bawang prei itu cuma bawang yang
+  - memakai korset? Kisah nyata.
+CLT_BUSH_LETTUCE:
+  name: Semak Selada
+  type:
+  - '&7&oSemak'
+  description:
+  - Memangnya selada tumbuh di semak?
+  - 'Bocoran: Tidak.'
+CLT_BUSH_LICORICE:
+  name: Semak Akar Manis
+  type:
+  - '&7&oSemak'
+  description:
+  - Jijik
+CLT_BUSH_MACE:
+  name: Semak Fuli
+  type:
+  - '&7&oSemak'
+  description:
+  - Semak ini sepertinya mengusir penyerang?
+CLT_BUSH_MARJORAM:
+  name: Semak Marjoram
+  type:
+  - '&7&oSemak'
+  description:
+  - Semak besar beraroma kayu.
+CLT_BUSH_MARROW:
+  name: Semak Labu Sumsum
+  type:
+  - '&7&oSemak'
+  description:
+  - Aku heran semak ini kuat menahan
+  - beratnya sendiri.
+CLT_BUSH_MINT:
+  name: Semak Mint
+  type:
+  - '&7&oSemak'
+  description:
+  - Pokoknya semak paling harum.
+CLT_BUSH_MUSTARD:
+  name: Semak Biji Mustar
+  type:
+  - '&7&oSemak'
+  description:
+  - Seperti api di dalam mulut.
+CLT_BUSH_NETTLES:
+  name: Semak Jelatang
+  type:
+  - '&7&oSemak'
+  description:
+  - Hati-hati waktu berjalan menembus semak ini!
+CLT_BUSH_OKRA:
+  name: Semak Okra
+  type:
+  - '&7&oSemak'
+  description:
+  - Terpilih sebagai sayuran nomor 1 menurut
+  - Klub Sayur Okra Winfrey.
+CLT_BUSH_ONION:
+  name: Semak Bawang Bombai
+  type:
+  - '&7&oSemak'
+  description:
+  - Apa semak ini kelihatan mau menangis?
+CLT_BUSH_OREGANO:
+  name: Semak Oregano
+  type:
+  - '&7&oSemak'
+  description:
+  - Semak berbau menyengat ini mengusir tamu.
+CLT_BUSH_PARSLEY:
+  name: Semak Peterseli
+  type:
+  - '&7&oSemak'
+  description:
+  - Lempar semak ini ke lava, sekarang :D
+CLT_BUSH_PARSNIP:
+  name: Semak Parsnip
+  type:
+  - '&7&oSemak'
+  description:
+  - Lewati saja perantaranya dan panggang
+  - semaknya langsung.
+CLT_BUSH_PEA:
+  name: Semak Kacang Polong
+  type:
+  - '&7&oSemak'
+  description:
+  - Aku lebih suka huruf Q
+CLT_BUSH_PEANUTS:
+  name: Semak Kacang Tanah
+  type:
+  - '&7&oSemak'
+  description: &id001
+  - Padat, harum, dan kaya protein.
+CLT_BUSH_PEPPER:
+  name: Semak Lada Hitam
+  type:
+  - '&7&oSemak'
+  description:
+  - Lada Hitam adalah bagian penting dari
+  - perdagangan rempah antara India dan Eropa
+  - sejak zaman Yunani dan Romawi.
+CLT_BUSH_PINTO_BEANS:
+  name: Semak Kacang Pinto
+  type:
+  - '&7&oSemak'
+  description:
+  - Tak lama lagi kita pasti berhasil membiakkan
+  - semak yang langsung berbuah burrito, kan?
+CLT_BUSH_RADDISH:
+  name: Semak Lobak
+  type:
+  - '&7&oSemak'
+  description:
+  - Tanaman ini baru saja melakukan trik skateboard.
+  - Keren ba-LOBAK!
+CLT_BUSH_RADICCHIO:
+  name: Semak Radicchio
+  type:
+  - '&7&oSemak'
+  description:
+  - Mau terdengar mewah? Masukkan Radicchio ke
+  - masakan apa saja, pada dasarnya mirip kubis tapi
+  - membuatmu terlihat berkelas.
+CLT_BUSH_RAPESEED:
+  name: Semak Kanola
+  type:
+  - '&7&oSemak'
+  description:
+  - Semak ini mengeluarkan zat berminyak.
+CLT_BUSH_RHUBARB:
+  name: Semak Rhubarb
+  type:
+  - '&7&oSemak'
+  description:
+  - Tahukah kamu rhubarb itu sayuran?
+  - Kukira itu sejenis palu.
+CLT_BUSH_RICE:
+  name: Semak Padi
+  type:
+  - '&7&oSemak'
+  description:
+  - Makanan pokok terhebat.
+CLT_BUSH_ROSEMARY:
+  name: Semak Rosemary
+  type:
+  - '&7&oSemak'
+  description:
+  - Semak yang baunya mengingatkan orang pada makan siang hari Minggu.
+CLT_BUSH_RUNNER_BEANS:
+  name: Semak Kacang Runner
+  type:
+  - '&7&oSemak'
+  description:
+  - Semak ini punya kaki o.o?
+CLT_BUSH_RUTABAGA:
+  name: Semak Rutabaga
+  type:
+  - '&7&oSemak'
+  description:
+  - Swede. Ini swede.
+CLT_BUSH_SASSAFRAS:
+  name: Semak Sassafras
+  type:
+  - '&7&oSemak'
+  description:
+  - Semak ini senang ditanam di dekat genangan
+  - air kecil.
+CLT_BUSH_SHALLOT:
+  name: Semak Bawang Merah
+  type:
+  - '&7&oSemak'
+  description:
+  - Semak ini cepat menghasilkan bawang mini yang manis.
+  - Untung kamu tidak perlu menangis bawang.
+CLT_BUSH_SHISO:
+  name: Semak Shiso
+  type:
+  - '&7&oSemak'
+  description:
+  - Aku suka membayangkan semak ini anak cinta
+  - semak mint dan semak kemangi. Sayang sekali
+  - mengawinkan semak itu tidak ada!
+CLT_BUSH_SOY_BEANS:
+  name: Semak Kedelai
+  type:
+  - '&7&oSemak'
+  description:
+  - Semak ini menyenangkan dan ramah. Membuatku
+  - kedelai-rasa bahagia.
+CLT_BUSH_SPINACH:
+  name: Semak Bayam
+  type:
+  - '&7&oSemak'
+  description:
+  - Semak ini sahabat terbaik Popeye.
+CLT_BUSH_STAR_ANISE:
+  name: Semak Bunga Lawang
+  type:
+  - '&7&oSemak'
+  description:
+  - Semak ini mengeluarkan aroma adas yang begitu
+  - khas, kamu tidak akan percaya.
+CLT_BUSH_STRAWBERRY:
+  name: Semak Stroberi
+  type:
+  - '&7&oSemak'
+  description: *id001
+CLT_BUSH_SWEETCORN:
+  name: Semak Jagung Manis
+  type:
+  - '&7&oSemak'
+  description:
+  - Semak ini benar-benar minta dijadikan
+  - labirin.
+CLT_BUSH_SWEET_POTATO:
+  name: Semak Ubi Jalar
+  type:
+  - '&7&oSemak'
+  description:
+  - Semak ini manis sekali. Kudengar dia
+  - memujimu waktu kamu sedang tidak mendengarkan.
+CLT_BUSH_TARRAGON:
+  name: Semak Tarragon
+  type:
+  - '&7&oSemak'
+  description:
+  - Semak ini tidak suka terlalu menarik perhatian.
+CLT_BUSH_THYME:
+  name: Semak Timi
+  type:
+  - '&7&oSemak'
+  description:
+  - Semak ini selalu kehabisan... waktu... Timi... *uhuk*
+CLT_BUSH_TOMATO:
+  name: Semak Tomat
+  type:
+  - '&7&oSemak'
+  description:
+  - Matang dan siap.
+CLT_BUSH_TURMERIC:
+  name: Semak Kunyit
+  type:
+  - '&7&oSemak'
+  description:
+  - Aroma rempah langsung menusuk hidungmu hanya
+  - dengan memegang semak ini.
+CLT_BUSH_TURNIP:
+  name: Semak Lobak Turnip
+  type:
+  - '&7&oSemak'
+  description:
+  - Menurut Pemerintah Inggris, semak ini
+  - akan menyelesaikan semua masalah kita.
+CLT_BUSH_VANILLA:
+  name: Semak Vanili
+  type:
+  - '&7&oSemak'
+  description:
+  - Semak ini tumbuh liar di dekat gerai StarBucks.
+CLT_BUSH_WASABI:
+  name: Semak Wasabi
+  type:
+  - '&7&oSemak'
+  description:
+  - Lagi-lagi umbi yang tumbuh dari semak?
+  - Huft...
+CLT_CABBAGE:
+  name: Kubis
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Sekarung kubis yang berlagak.
+CLT_CAESAR_SALAD:
+  name: Salad Caesar
+  type:
+  - '&7&oMakanan'
+  description:
+  - Klasik yang sehat.
+  stats:
+  - '&8⇨ &7Penyembuhan: &b6 Hati'
+  - '&8⇨ &bKecepatan I &7(10:00)'
+  - '&8⇨ &bHalimunan I &7(10:00)'
+  - '&8⇨ &bTumbang Lambat I &7(10:00)'
+CLT_CAJUN_GARLIC_BUTTER_COD:
+  name: Ikan Kod Mentega Bawang Putih Cajun
+  type:
+  - '&7&oMakanan'
+  description:
+  - Hidangan sederhana yang meledak dengan rasa.
+  stats:
+  - '&8⇨ &7Penyembuhan: &b4 Hati'
+  - '&8⇨ &bRegenerasi II &7(10:00)'
+  - '&8⇨ &bKecepatan I &7(10:00)'
+CLT_CAULIFLOWER:
+  name: Kembang Kol
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Awan yang bisa dibawa-bawa!
+CLT_CAYENNE_PEPPER:
+  name: Cabai Cayenne
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Camilan pedas yang lembut.
+CLT_CELERIAC:
+  name: Seledri Umbi
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Umbi mengenyangkan yang berakar (hehe) di banyak
+  - resep tradisional.
+CLT_CELERY:
+  name: Seledri
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Pada dasarnya cuma air berserat. Coba
+  - yakinkan aku sebaliknya.
+CLT_CHEESE_BURGER:
+  name: Burger
+  type:
+  - '&7&oMakanan'
+  description:
+  - Burger keju sederhana, tapi tak ada yang mengalahkannya!
+  stats:
+  - '&8⇨ &7Penyembuhan: &b4 Hati'
+  - '&8⇨ &bRegenerasi III &7(10:00)'
+CLT_CHEESY_SCALLOPED_COURGETTE:
+  name: Zukini Panggang Keju
+  type:
+  - '&7&oMakanan'
+  description:
+  - Versi rendah karbo dari sebuah klasik yang luar biasa.
+  stats:
+  - '&8⇨ &7Penyembuhan: &b2 Hati'
+  - '&8⇨ &bPenglihatan Gelap I &7(10:00)'
+  - '&8⇨ &bHalimunan I &7(10:00)'
+CLT_CHERRY:
+  name: Ceri
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Oh, kukira mereka tumbuh sudah bergula, sayang sekali!
+CLT_CHESTNUT:
+  name: Kastanye
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Dirancang untuk langsung dipanggang.
+CLT_CHICKEN_ALFREDO_MAC_AND_CHEESE:
+  name: Makaroni Keju Ayam Alfredo
+  type:
+  - '&7&oMakanan'
+  description:
+  - Sentuhan mewah pada klasik yang biasa.
+  stats:
+  - '&8⇨ &7Penyembuhan: &b1 Hati'
+  - '&8⇨ &bTahan Api II &7(10:00)'
+  - '&8⇨ &bKetahanan III &7(10:00)'
+CLT_CHICKEN_PASTA_BAKE:
+  name: Pasta Panggang Ayam
+  type:
+  - '&7&oMakanan'
+  description:
+  - Makanan wajib anak kos.
+  stats:
+  - '&8⇨ &7Penyembuhan: &b5 Hati'
+  - '&8⇨ &bPenglihatan Gelap I &7(10:00)'
+  - '&8⇨ &bPernapasan Air I &7(10:00)'
+CLT_CHICKEN_POT_PIE:
+  name: Pai Ayam
+  type:
+  - '&7&oMakanan'
+  description:
+  - Hidangan hangat yang terasa seperti di rumah.
+  stats:
+  - '&8⇨ &7Penyembuhan: &b10 Hati'
+  - '&8⇨ &bPendorong Lompat II &7(10:00)'
+  - '&8⇨ &bKejenuhan I &7(10:00)'
+CLT_CHICKPEAS:
+  name: Kacang Arab
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Black Eyed Peas bisa menyanyikan lagu, kacang arab cuma bisa bersenandung hummus.
+CLT_CHICORY:
+  name: Sikori
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Umbi yang gurih dan pahit.
+CLT_CHILLY_PEPPER:
+  name: Cabai
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Aku bisa makan satu cabai utuh tanpa menangis.
+  - Yah, setengah.
+  - YAAAAH.... 1/4
+  - '...'
+  - Oke, aku bisa menempelkannya di lidahku
+CLT_CHIVES:
+  name: Kucai
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Herba manis yang rasanya seperti bawang.
+CLT_CHOPPED_APPLE:
+  name: Apel Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_APRICOT:
+  name: Aprikot Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_ARTICHOKE:
+  name: Artisok Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_ASPARAGUS:
+  name: Asparagus Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_AUBERGINE:
+  name: Terung Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_AVOCADO:
+  name: Alpukat Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_BANANA:
+  name: Pisang Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_BASIL:
+  name: Kemangi Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_BAY_LEAF:
+  name: Daun Salam Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_BEEF:
+  name: Daging Sapi Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_BEETROOT:
+  name: Bit Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_BELL_PEPPER:
+  name: Paprika Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_BLACK_BEANS:
+  name: Kacang Hitam Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_BREAD:
+  name: Roti Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_BROCCOLI:
+  name: Brokoli Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_BROWN_MUSHROOM:
+  name: Jamur Cokelat Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_BRUSSELS_SPROUTS:
+  name: Kubis Brussel Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_CABBAGE:
+  name: Kubis Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_CARROT:
+  name: Wortel Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_CAULIFLOWER:
+  name: Kembang Kol Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_CAYENNE_PEPPER:
+  name: Cabai Cayenne Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_CELERIAC:
+  name: Seledri Umbi Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_CELERY:
+  name: Seledri Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_CHERRY:
+  name: Ceri Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_CHESTNUT:
+  name: Kastanye Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_CHICKEN:
+  name: Ayam Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_CHICKPEAS:
+  name: Kacang Arab Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_CHICORY:
+  name: Sikori Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_CHILLY_PEPPER:
+  name: Cabai Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_CHIVES:
+  name: Kucai Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_CHORUS_FRUIT:
+  name: Buah Korus Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_CILANTRO:
+  name: Daun Ketumbar Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_CINNAMON:
+  name: Kayu Manis Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_CLOVE:
+  name: Cengkih Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_COCOA_BEANS:
+  name: Biji Kakao Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_COD:
+  name: Kod Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_COURGETTE:
+  name: Zukini Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_CUCUMBER:
+  name: Mentimun Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_CUMIN:
+  name: Jintan Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_CURRY_LEAF:
+  name: Daun Kari Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_DILL:
+  name: Adas Sowa Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_EGG:
+  name: Telur Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_ENCHANTED_GOLDEN_APPLE:
+  name: Apel Emas Terpesona Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_FENNEL:
+  name: Adas Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_GARLIC:
+  name: Bawang Putih Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_GINGER:
+  name: Jahe Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_GLOW_BERRIES:
+  name: Buni Sinar Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_GOLDEN_APPLE:
+  name: Apel Emas Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_GOLDEN_CARROT:
+  name: Wortel Emas Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_GRAPE:
+  name: Anggur Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_GREEN_APPLE:
+  name: Apel Hijau Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_GREEN_BEANS:
+  name: Buncis Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_GREEN_ONION:
+  name: Daun Bawang Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_HAZELNUT:
+  name: Hazelnut Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_HORSERADISH:
+  name: Lobak Pedas Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_JALAPENO:
+  name: Jalapeno Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_JASMINE:
+  name: Melati Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_JUNIPER_BERRY:
+  name: Buah Juniper Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_KAFFIR_LIME:
+  name: Daun Jeruk Purut Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_KALE:
+  name: Kale Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_KELP:
+  name: Kelp Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_KIWI:
+  name: Kiwi Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_LAVENDER:
+  name: Lavender Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_LEEK:
+  name: Bawang Prei Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_LEMON:
+  name: Lemon Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_LETTUCE:
+  name: Selada Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_LICORICE:
+  name: Akar Manis Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_LIME:
+  name: Jeruk Nipis Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_MACE:
+  name: Fuli Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_MANGO:
+  name: Mangga Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_MARJORAM:
+  name: Marjoram Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_MARROW:
+  name: Labu Sumsum Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_MELON:
+  name: Semangka Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_MINT:
+  name: Daun Mint Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_MUSTARD_SEEDS:
+  name: Biji Mustar Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_MUTTON:
+  name: Daging Domba Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_NETTLES:
+  name: Jelatang Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_OKRA:
+  name: Okra Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_ONION:
+  name: Bawang Bombai Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_ORANGE:
+  name: Jeruk Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_OREGANO:
+  name: Oregano Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_PARSLEY:
+  name: Peterseli Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_PARSNIP:
+  name: Parsnip Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_PEA:
+  name: Kacang Polong Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_PEACH:
+  name: Persik Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_PEANUT:
+  name: Kacang Tanah Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_PEAR:
+  name: Pir Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_PECAN:
+  name: Pekan Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_PEPPER:
+  name: Lada Hitam Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_PEPPERONI:
+  name: Pepperoni Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_PINEAPPLE:
+  name: Nanas Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_PINTO_BEANS:
+  name: Kacang Pinto Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_PORKCHOP:
+  name: Daging Babi Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_POTATO:
+  name: Kentang Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_PUFFERFISH:
+  name: Ikan Buntal Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_PUMPKIN:
+  name: Labu Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_RABBIT:
+  name: Kelinci Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_RADDISH:
+  name: Lobak Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_RADICCHIO:
+  name: Radicchio Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_RAPESEED:
+  name: Kanola Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_RED_MUSHROOM:
+  name: Jamur Merah Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_RHUBARB:
+  name: Rhubarb Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_RICE:
+  name: Beras Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_ROSEMARY:
+  name: Rosemary Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_ROTTEN_FLESH:
+  name: Daging Busuk Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_RUNNER_BEANS:
+  name: Kacang Runner Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_RUTABAGA:
+  name: Rutabaga Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_SALMON:
+  name: Salmon Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_SASSAFRAS:
+  name: Sassafras Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_SHALLOT:
+  name: Bawang Merah Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_SHISO:
+  name: Shiso Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_SOY_BEANS:
+  name: Kedelai Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_SPINACH:
+  name: Bayam Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_STAR_ANISE:
+  name: Bunga Lawang Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_STRAWBERRY:
+  name: Stroberi Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_SUGAR:
+  name: Gula Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_SWEETCORN:
+  name: Jagung Manis Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_SWEET_BERRIES:
+  name: Beri Manis Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_SWEET_POTATO:
+  name: Ubi Jalar Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_TARRAGON:
+  name: Tarragon Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_THYME:
+  name: Timi Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_TOMATO:
+  name: Tomat Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_TURMERIC:
+  name: Kunyit Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_TURNIP:
+  name: Lobak Turnip Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_VANILLA:
+  name: Vanili Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_WASABI:
+  name: Wasabi Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CHOPPED_WHEAT:
+  name: Gandum Cincang
+  type:
+  - '&7&oProduk Sampingan'
+CLT_CILANTRO:
+  name: Daun Ketumbar
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Rempah lembut dengan sentuhan jeruk.
+CLT_CINNAMON:
+  name: Kayu Manis
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Enak dikunyah dalam bentuk batangnya.
+CLT_CINNAMON_ROLL:
+  name: Roti Gulung Kayu Manis
+  type:
+  - '&7&oMakanan'
+  description:
+  - Kenikmatan manis yang digulung untuk bersenang-senang.
+  - Memakannya membuat dunia jungkir balik!
+  stats:
+  - '&8⇨ &7Penyembuhan: &b4 Hati'
+  - '&8⇨ &bMelayang I &7(10:00)'
+  - '&8⇨ &bTumbang Lambat I &7(10:00)'
+CLT_CLOVE:
+  name: Cengkih
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Rasa yang sangat hangat dan kuat.
+CLT_COMPRESSED_BISCUIT:
+  name: Biskuit Padat
+  type:
+  - '&7&oMakanan'
+  description:
+  - Camilan kecil dengan rasa yang lebih besar lagi.
+  stats: *id002
+CLT_COOKED_BURGER_PATTY:
+  name: Patty Burger Matang
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Sampai menetes-netes
+CLT_COUNTER_BLENDER:
+  name: Meja Dapur (Blender)
+  type:
+  - '&7&oMesin'
+  description:
+  - Klik kanan blok ini untuk memblender hasil panen.
+  usage: &id003
+  - Tips Pro! Setelah dipasang, kamu bisa shift + klik
+  - kanan dan blok yang sedang kamu pegang akan
+  - mengubah desain dapur. Coba saja!
+CLT_COUNTER_BOILING:
+  name: Meja Dapur (Panci Rebus)
+  type:
+  - '&7&oMesin'
+  description:
+  - Bisa merebus item tertentu.
+  usage: *id003
+CLT_COUNTER_CHOPPING:
+  name: Meja Dapur (Talenan Cincang)
+  type:
+  - '&7&oMesin'
+  description:
+  - Klik kanan blok ini untuk mencincang hasil panen.
+  usage: *id003
+CLT_COUNTER_FINISHING:
+  name: Meja Dapur (Penyelesaian)
+  type:
+  - '&7&oMesin'
+  description:
+  - Dipakai untuk mengolah produk/produk sampingan menjadi
+  - produk sampingan lain atau makanan jadi.
+  usage: *id003
+CLT_COUNTER_FRYING:
+  name: Meja Dapur (Wajan)
+  type:
+  - '&7&oMesin'
+  description:
+  - Bisa menggoreng hasil panen tertentu.
+  usage: *id003
+CLT_COUNTER_GRILL:
+  name: Meja Dapur (Panggangan)
+  type:
+  - '&7&oMesin'
+  description:
+  - Bisa membakar hasil panen tertentu.
+  usage: *id003
+CLT_COUNTER_GRINDER:
+  name: Meja Dapur (Cobek dan Ulekan)
+  type:
+  - '&7&oMesin'
+  description:
+  - Klik kanan blok ini untuk mengulek hasil panen.
+  usage: *id003
+CLT_COUNTER_MASHER:
+  name: Meja Dapur (Mangkuk Penumbuk)
+  type:
+  - '&7&oMesin'
+  description:
+  - Klik kanan blok ini untuk menumbuk hasil panen.
+  usage: *id003
+CLT_COUNTER_NOTHING:
+  name: Meja Dapur (Kosong)
+  type:
+  - '&7&oMesin'
+  description:
+  - Cuma untuk hiasan!
+  usage: *id003
+CLT_COUNTER_OVEN:
+  name: Meja Dapur (Oven)
+  type:
+  - '&7&oMesin'
+  description:
+  - Bisa memanggang hasil panen tertentu di oven.
+  usage: *id003
+CLT_COUNTER_SLICING:
+  name: Meja Dapur (Talenan Iris)
+  type:
+  - '&7&oMesin'
+  description:
+  - Klik kanan blok ini untuk mengiris hasil panen.
+  usage: *id003
+CLT_COURGETTE:
+  name: Zukini
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - 'Tips Pro: Parut ini ke saus pasta apa pun'
+  - untuk rasa yang dalam dan tekstur.
+CLT_CREAM_CHEESE:
+  name: Keju Krim
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Lebih krimi daripada keju.
+CLT_CROP_STICKS:
+  name: Tongkat Tanaman
+  type:
+  - '&7&oAlat'
+  description:
+  - Tongkat Tanaman harus dipasang pada
+  - benih yang sudah ditanam agar bisa tumbuh.
+  - Memasang set kedua akan menyilangkan
+  - tanaman sehingga bisa menyebar dan/atau
+  - berkembang biak.
+CLT_CUCUMBER:
+  name: Mentimun
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Air dalam kulit hijau, buktikan kalau
+  - aku salah.
+CLT_CUMIN:
+  name: Jintan
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Tanaman hangat beraroma jeruk.
+CLT_CURRY_LEAF:
+  name: Daun Kari
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Dasar dari begitu banyak makanan lezat.
+CLT_DILL:
+  name: Adas Sowa
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Rasanya cuma seperti rumput buatku. Kenapa
+  - orang suka ini?
+CLT_DOUGH:
+  name: Adonan
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Cuma adonan biasa!
+CLT_EGG_SALAD:
+  name: Salad Telur
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Buka ini di kereta, berani nggak?
+CLT_EGG_SALAD_SANDWICH:
+  name: Roti Lapis Salad Telur
+  type:
+  - '&7&oMakanan'
+  description:
+  - Agak bau, tapi rasanya luar biasa!
+  stats: &id006
+  - '&8⇨ &7Penyembuhan: &b10 Hati'
+  - '&8⇨ &bRegenerasi II &7(10:00)'
+CLT_FENNEL:
+  name: Adas
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Seperti campuran Adas Manis dan Akar Manis.
+CLT_FRIED_APPLE:
+  name: Apel Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_APRICOT:
+  name: Aprikot Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_ARTICHOKE:
+  name: Artisok Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_ASPARAGUS:
+  name: Asparagus Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_AUBERGINE:
+  name: Terung Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_AVOCADO:
+  name: Alpukat Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_BANANA:
+  name: Pisang Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_BASIL:
+  name: Kemangi Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_BAY_LEAF:
+  name: Daun Salam Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_BEEF:
+  name: Daging Sapi Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_BEETROOT:
+  name: Bit Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_BELL_PEPPER:
+  name: Paprika Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_BLACK_BEANS:
+  name: Kacang Hitam Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_BREAD:
+  name: Roti Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_BROCCOLI:
+  name: Brokoli Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_BROWN_MUSHROOM:
+  name: Jamur Cokelat Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_BRUSSELS_SPROUTS:
+  name: Kubis Brussel Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_CABBAGE:
+  name: Kubis Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_CARROT:
+  name: Wortel Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_CAULIFLOWER:
+  name: Kembang Kol Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_CAYENNE_PEPPER:
+  name: Cabai Cayenne Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_CELERIAC:
+  name: Seledri Umbi Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_CELERY:
+  name: Seledri Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_CHERRY:
+  name: Ceri Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_CHESTNUT:
+  name: Kastanye Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_CHICKEN:
+  name: Ayam Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_CHICKPEAS:
+  name: Kacang Arab Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_CHICORY:
+  name: Sikori Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_CHILLY_PEPPER:
+  name: Cabai Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_CHIVES:
+  name: Kucai Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_CHORUS_FRUIT:
+  name: Buah Korus Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_CILANTRO:
+  name: Daun Ketumbar Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_CINNAMON:
+  name: Kayu Manis Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_CLOVE:
+  name: Cengkih Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_COCOA_BEANS:
+  name: Biji Kakao Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_COD:
+  name: Kod Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_COURGETTE:
+  name: Zukini Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_CUCUMBER:
+  name: Mentimun Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_CUMIN:
+  name: Jintan Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_CURRY_LEAF:
+  name: Daun Kari Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_DILL:
+  name: Adas Sowa Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_EGG:
+  name: Telur Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_ENCHANTED_GOLDEN_APPLE:
+  name: Apel Emas Terpesona Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_FENNEL:
+  name: Adas Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_GARLIC:
+  name: Bawang Putih Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_GINGER:
+  name: Jahe Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_GLOW_BERRIES:
+  name: Buni Sinar Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_GOLDEN_APPLE:
+  name: Apel Emas Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_GOLDEN_CARROT:
+  name: Wortel Emas Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_GRAPE:
+  name: Anggur Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_GREEN_APPLE:
+  name: Apel Hijau Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_GREEN_BEANS:
+  name: Buncis Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_GREEN_ONION:
+  name: Daun Bawang Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_HAZELNUT:
+  name: Hazelnut Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_HORSERADISH:
+  name: Lobak Pedas Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_JALAPENO:
+  name: Jalapeno Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_JASMINE:
+  name: Melati Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_JUNIPER_BERRY:
+  name: Buah Juniper Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_KAFFIR_LIME:
+  name: Daun Jeruk Purut Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_KALE:
+  name: Kale Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_KELP:
+  name: Kelp Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_KIWI:
+  name: Kiwi Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_LAVENDER:
+  name: Lavender Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_LEEK:
+  name: Bawang Prei Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_LEMON:
+  name: Lemon Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_LETTUCE:
+  name: Selada Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_LICORICE:
+  name: Akar Manis Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_LIME:
+  name: Jeruk Nipis Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_MACE:
+  name: Fuli Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_MANGO:
+  name: Mangga Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_MARJORAM:
+  name: Marjoram Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_MARROW:
+  name: Labu Sumsum Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_MELON:
+  name: Semangka Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_MINT:
+  name: Daun Mint Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_MUSTARD_SEEDS:
+  name: Biji Mustar Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_MUTTON:
+  name: Daging Domba Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_NETTLES:
+  name: Jelatang Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_OKRA:
+  name: Okra Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_ONION:
+  name: Bawang Bombai Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_ORANGE:
+  name: Jeruk Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_OREGANO:
+  name: Oregano Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_PARSLEY:
+  name: Peterseli Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_PARSNIP:
+  name: Parsnip Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_PEA:
+  name: Kacang Polong Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_PEACH:
+  name: Persik Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_PEANUT:
+  name: Kacang Tanah Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_PEAR:
+  name: Pir Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_PECAN:
+  name: Pekan Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_PEPPER:
+  name: Lada Hitam Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_PEPPERONI:
+  name: Pepperoni Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_PINEAPPLE:
+  name: Nanas Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_PINTO_BEANS:
+  name: Kacang Pinto Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_PORKCHOP:
+  name: Daging Babi Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_POTATO:
+  name: Kentang Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_PUFFERFISH:
+  name: Ikan Buntal Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_PUMPKIN:
+  name: Labu Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_RABBIT:
+  name: Kelinci Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_RADDISH:
+  name: Lobak Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_RADICCHIO:
+  name: Radicchio Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_RAPESEED:
+  name: Kanola Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_RED_MUSHROOM:
+  name: Jamur Merah Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_RHUBARB:
+  name: Rhubarb Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_RICE:
+  name: Beras Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_ROSEMARY:
+  name: Rosemary Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_ROTTEN_FLESH:
+  name: Daging Busuk Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_RUNNER_BEANS:
+  name: Kacang Runner Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_RUTABAGA:
+  name: Rutabaga Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_SALMON:
+  name: Salmon Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_SASSAFRAS:
+  name: Sassafras Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_SHALLOT:
+  name: Bawang Merah Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_SHISO:
+  name: Shiso Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_SOY_BEANS:
+  name: Kedelai Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_SPINACH:
+  name: Bayam Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_STAR_ANISE:
+  name: Bunga Lawang Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_STRAWBERRY:
+  name: Stroberi Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_SUGAR:
+  name: Gula Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_SWEETCORN:
+  name: Jagung Manis Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_SWEET_BERRIES:
+  name: Beri Manis Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_SWEET_POTATO:
+  name: Ubi Jalar Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_TARRAGON:
+  name: Tarragon Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_THYME:
+  name: Timi Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_TOMATO:
+  name: Tomat Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_TURMERIC:
+  name: Kunyit Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_TURNIP:
+  name: Lobak Turnip Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_VANILLA:
+  name: Vanili Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_WASABI:
+  name: Wasabi Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRIED_WHEAT:
+  name: Gandum Goreng
+  type:
+  - '&7&oProduk Sampingan'
+CLT_FRUIT_SALAD:
+  name: Salad Buah
+  type:
+  - '&7&oMakanan'
+  description:
+  - Kalau kamu sebut ini salad, kamu boleh makan sebanyak
+  - yang kamu mau, soalnya sehat.
+  stats:
+  - '&8⇨ &7Penyembuhan: &b6 Hati'
+  - '&8⇨ &bKecepatan III &7(10:00)'
+CLT_FUGU:
+  name: Fugu
+  type:
+  - '&7&oMakanan'
+  description:
+  - Siap mengadu nasib?
+  stats:
+  - '&8⇨ &7Penyembuhan: &b1 Hati'
+  - '&8⇨ &bKekuatan V &7(10:00)'
+  - '&8⇨ &7Peluang 33% untuk langsung mati!'
+CLT_GARDEN_CLOCHE:
+  name: Sungkup Kebun
+  type:
+  - '&7&oMesin'
+  description:
+  - Menumbuhkan tanaman di dalamnya secara otomatis.
+  stats:
+  - '&8⇨ &7Daya per Tick: &b100'
+CLT_GARLIC:
+  name: Bawang Putih
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Cepat, sebelum vampirnya datang!
+CLT_GARLIC_BUTTER_MUSHROOMS:
+  name: Jamur Mentega Bawang Putih
+  type:
+  - '&7&oMakanan'
+  description:
+  - Bisa jadi makanan terbaik di muka bumi.
+  stats:
+  - '&8⇨ &7Penyembuhan: &b2 Hati'
+  - '&8⇨ &bBersinar I &7(10:00)'
+CLT_GINGER:
+  name: Jahe
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Jahe cincang dalam air mendidih, menyembuhkan segala penyakit!
+CLT_GRAPE:
+  name: Anggur
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Montok sekali!
+CLT_GRAPE_JELLY:
+  name: Selai Anggur
+  type:
+  - '&7&oHasil Panen'
+  description: &id008
+  - Memakannya pakai sendok adalah tindak pidana.
+CLT_GREEN_APPLE:
+  name: Apel Hijau
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Catatannya bilang... Kepada Bapak/Ibu Guru?
+CLT_GREEN_BEANS:
+  name: Buncis
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Namanya kreatif sekali!
+CLT_GREEN_ONION:
+  name: Daun Bawang
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Cocok sekali di taco!
+CLT_GRILLED_APPLE:
+  name: Apel Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_APRICOT:
+  name: Aprikot Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_ARTICHOKE:
+  name: Artisok Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_ASPARAGUS:
+  name: Asparagus Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_AUBERGINE:
+  name: Terung Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_AVOCADO:
+  name: Alpukat Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_BANANA:
+  name: Pisang Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_BASIL:
+  name: Kemangi Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_BAY_LEAF:
+  name: Daun Salam Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_BEEF:
+  name: Daging Sapi Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_BEETROOT:
+  name: Bit Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_BELL_PEPPER:
+  name: Paprika Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_BLACK_BEANS:
+  name: Kacang Hitam Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_BREAD:
+  name: Roti Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_BROCCOLI:
+  name: Brokoli Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_BROWN_MUSHROOM:
+  name: Jamur Cokelat Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_BRUSSELS_SPROUTS:
+  name: Kubis Brussel Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_CABBAGE:
+  name: Kubis Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_CARROT:
+  name: Wortel Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_CAULIFLOWER:
+  name: Kembang Kol Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_CAYENNE_PEPPER:
+  name: Cabai Cayenne Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_CELERIAC:
+  name: Seledri Umbi Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_CELERY:
+  name: Seledri Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_CHERRY:
+  name: Ceri Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_CHESTNUT:
+  name: Kastanye Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_CHICKEN:
+  name: Ayam Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_CHICKPEAS:
+  name: Kacang Arab Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_CHICORY:
+  name: Sikori Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_CHILLY_PEPPER:
+  name: Cabai Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_CHIVES:
+  name: Kucai Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_CHORUS_FRUIT:
+  name: Buah Korus Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_CILANTRO:
+  name: Daun Ketumbar Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_CINNAMON:
+  name: Kayu Manis Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_CLOVE:
+  name: Cengkih Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_COCOA_BEANS:
+  name: Biji Kakao Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_COD:
+  name: Kod Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_COURGETTE:
+  name: Zukini Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_CUCUMBER:
+  name: Mentimun Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_CUMIN:
+  name: Jintan Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_CURRY_LEAF:
+  name: Daun Kari Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_DILL:
+  name: Adas Sowa Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_EGG:
+  name: Telur Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_ENCHANTED_GOLDEN_APPLE:
+  name: Apel Emas Terpesona Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_FENNEL:
+  name: Adas Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_GARLIC:
+  name: Bawang Putih Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_GINGER:
+  name: Jahe Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_GLOW_BERRIES:
+  name: Buni Sinar Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_GOLDEN_APPLE:
+  name: Apel Emas Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_GOLDEN_CARROT:
+  name: Wortel Emas Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_GRAPE:
+  name: Anggur Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_GREEN_APPLE:
+  name: Apel Hijau Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_GREEN_BEANS:
+  name: Buncis Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_GREEN_ONION:
+  name: Daun Bawang Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_HAZELNUT:
+  name: Hazelnut Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_HORSERADISH:
+  name: Lobak Pedas Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_JALAPENO:
+  name: Jalapeno Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_JASMINE:
+  name: Melati Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_JUNIPER_BERRY:
+  name: Buah Juniper Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_KAFFIR_LIME:
+  name: Daun Jeruk Purut Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_KALE:
+  name: Kale Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_KELP:
+  name: Kelp Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_KIWI:
+  name: Kiwi Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_LAVENDER:
+  name: Lavender Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_LEEK:
+  name: Bawang Prei Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_LEMON:
+  name: Lemon Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_LETTUCE:
+  name: Selada Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_LICORICE:
+  name: Akar Manis Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_LIME:
+  name: Jeruk Nipis Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_MACE:
+  name: Fuli Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_MANGO:
+  name: Mangga Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_MARJORAM:
+  name: Marjoram Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_MARROW:
+  name: Labu Sumsum Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_MELON:
+  name: Semangka Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_MINT:
+  name: Daun Mint Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_MUSTARD_SEEDS:
+  name: Biji Mustar Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_MUTTON:
+  name: Daging Domba Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_NETTLES:
+  name: Jelatang Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_OKRA:
+  name: Okra Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_ONION:
+  name: Bawang Bombai Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_ORANGE:
+  name: Jeruk Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_OREGANO:
+  name: Oregano Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_PARSLEY:
+  name: Peterseli Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_PARSNIP:
+  name: Parsnip Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_PEA:
+  name: Kacang Polong Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_PEACH:
+  name: Persik Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_PEANUT:
+  name: Kacang Tanah Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_PEAR:
+  name: Pir Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_PECAN:
+  name: Pekan Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_PEPPER:
+  name: Lada Hitam Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_PEPPERONI:
+  name: Pepperoni Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_PINEAPPLE:
+  name: Nanas Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_PINTO_BEANS:
+  name: Kacang Pinto Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_PORKCHOP:
+  name: Daging Babi Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_POTATO:
+  name: Kentang Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_PUFFERFISH:
+  name: Ikan Buntal Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_PUMPKIN:
+  name: Labu Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_RABBIT:
+  name: Kelinci Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_RADDISH:
+  name: Lobak Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_RADICCHIO:
+  name: Radicchio Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_RAPESEED:
+  name: Kanola Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_RED_MUSHROOM:
+  name: Jamur Merah Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_RHUBARB:
+  name: Rhubarb Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_RICE:
+  name: Beras Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_ROSEMARY:
+  name: Rosemary Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_ROTTEN_FLESH:
+  name: Daging Busuk Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_RUNNER_BEANS:
+  name: Kacang Runner Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_RUTABAGA:
+  name: Rutabaga Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_SALMON:
+  name: Salmon Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_SALMON_SALAD:
+  name: Salad Salmon Bakar
+  type:
+  - '&7&oMakanan'
+  description:
+  - Renyah berlapis dan dibumbui dengan sempurna.
+  stats:
+  - '&8⇨ &7Penyembuhan: &b4 Hati'
+  - '&8⇨ &bRegenerasi I &7(10:00)'
+  - '&8⇨ &bKesehatan Tambahan V &7(10:00)'
+CLT_GRILLED_SASSAFRAS:
+  name: Sassafras Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_SHALLOT:
+  name: Bawang Merah Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_SHISO:
+  name: Shiso Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_SOY_BEANS:
+  name: Kedelai Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_SPINACH:
+  name: Bayam Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_STAR_ANISE:
+  name: Bunga Lawang Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_STRAWBERRY:
+  name: Stroberi Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_SUGAR:
+  name: Gula Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_SWEETCORN:
+  name: Jagung Manis Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_SWEET_BERRIES:
+  name: Beri Manis Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_SWEET_POTATO:
+  name: Ubi Jalar Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_TARRAGON:
+  name: Tarragon Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_THYME:
+  name: Timi Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_TOMATO:
+  name: Tomat Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_TURMERIC:
+  name: Kunyit Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_TURNIP:
+  name: Lobak Turnip Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_VANILLA:
+  name: Vanili Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_WASABI:
+  name: Wasabi Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GRILLED_WHEAT:
+  name: Gandum Bakar
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_APPLE:
+  name: Apel Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_APRICOT:
+  name: Aprikot Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_ARTICHOKE:
+  name: Artisok Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_ASPARAGUS:
+  name: Asparagus Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_AUBERGINE:
+  name: Terung Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_AVOCADO:
+  name: Alpukat Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_BANANA:
+  name: Pisang Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_BASIL:
+  name: Kemangi Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_BAY_LEAF:
+  name: Daun Salam Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_BEEF:
+  name: Daging Sapi Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_BEETROOT:
+  name: Bit Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_BELL_PEPPER:
+  name: Paprika Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_BLACK_BEANS:
+  name: Kacang Hitam Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_BREAD:
+  name: Roti Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_BROCCOLI:
+  name: Brokoli Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_BROWN_MUSHROOM:
+  name: Jamur Cokelat Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_BRUSSELS_SPROUTS:
+  name: Kubis Brussel Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_CABBAGE:
+  name: Kubis Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_CARROT:
+  name: Wortel Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_CAULIFLOWER:
+  name: Kembang Kol Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_CAYENNE_PEPPER:
+  name: Cabai Cayenne Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_CELERIAC:
+  name: Seledri Umbi Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_CELERY:
+  name: Seledri Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_CHERRY:
+  name: Ceri Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_CHESTNUT:
+  name: Kastanye Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_CHICKEN:
+  name: Ayam Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_CHICKPEAS:
+  name: Kacang Arab Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_CHICORY:
+  name: Sikori Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_CHILLY_PEPPER:
+  name: Cabai Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_CHIVES:
+  name: Kucai Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_CHORUS_FRUIT:
+  name: Buah Korus Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_CILANTRO:
+  name: Daun Ketumbar Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_CINNAMON:
+  name: Kayu Manis Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_CLOVE:
+  name: Cengkih Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_COCOA_BEANS:
+  name: Biji Kakao Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_COD:
+  name: Kod Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_COURGETTE:
+  name: Zukini Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_CUCUMBER:
+  name: Mentimun Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_CUMIN:
+  name: Jintan Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_CURRY_LEAF:
+  name: Daun Kari Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_DILL:
+  name: Adas Sowa Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_EGG:
+  name: Telur Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_ENCHANTED_GOLDEN_APPLE:
+  name: Apel Emas Terpesona Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_FENNEL:
+  name: Adas Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_GARLIC:
+  name: Bawang Putih Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_GINGER:
+  name: Jahe Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_GLOW_BERRIES:
+  name: Buni Sinar Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_GOLDEN_APPLE:
+  name: Apel Emas Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_GOLDEN_CARROT:
+  name: Wortel Emas Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_GRAPE:
+  name: Anggur Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_GREEN_APPLE:
+  name: Apel Hijau Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_GREEN_BEANS:
+  name: Buncis Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_GREEN_ONION:
+  name: Daun Bawang Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_HAZELNUT:
+  name: Hazelnut Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_HORSERADISH:
+  name: Lobak Pedas Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_JALAPENO:
+  name: Jalapeno Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_JASMINE:
+  name: Melati Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_JUNIPER_BERRY:
+  name: Buah Juniper Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_KAFFIR_LIME:
+  name: Daun Jeruk Purut Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_KALE:
+  name: Kale Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_KELP:
+  name: Kelp Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_KIWI:
+  name: Kiwi Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_LAVENDER:
+  name: Lavender Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_LEEK:
+  name: Bawang Prei Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_LEMON:
+  name: Lemon Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_LETTUCE:
+  name: Selada Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_LICORICE:
+  name: Akar Manis Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_LIME:
+  name: Jeruk Nipis Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_MACE:
+  name: Fuli Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_MANGO:
+  name: Mangga Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_MARJORAM:
+  name: Marjoram Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_MARROW:
+  name: Labu Sumsum Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_MELON:
+  name: Semangka Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_MINT:
+  name: Daun Mint Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_MUSTARD_SEEDS:
+  name: Biji Mustar Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_MUTTON:
+  name: Daging Domba Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_NETTLES:
+  name: Jelatang Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_OKRA:
+  name: Okra Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_ONION:
+  name: Bawang Bombai Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_ORANGE:
+  name: Jeruk Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_OREGANO:
+  name: Oregano Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_PARSLEY:
+  name: Peterseli Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_PARSNIP:
+  name: Parsnip Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_PEA:
+  name: Kacang Polong Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_PEACH:
+  name: Persik Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_PEANUT:
+  name: Kacang Tanah Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_PEAR:
+  name: Pir Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_PECAN:
+  name: Pekan Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_PEPPER:
+  name: Lada Hitam Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_PEPPERONI:
+  name: Pepperoni Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_PINEAPPLE:
+  name: Nanas Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_PINTO_BEANS:
+  name: Kacang Pinto Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_PORKCHOP:
+  name: Daging Babi Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_POTATO:
+  name: Kentang Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_PUFFERFISH:
+  name: Ikan Buntal Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_PUMPKIN:
+  name: Labu Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_RABBIT:
+  name: Kelinci Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_RADDISH:
+  name: Lobak Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_RADICCHIO:
+  name: Radicchio Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_RAPESEED:
+  name: Kanola Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_RED_MUSHROOM:
+  name: Jamur Merah Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_RHUBARB:
+  name: Rhubarb Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_RICE:
+  name: Beras Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_ROSEMARY:
+  name: Rosemary Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_ROTTEN_FLESH:
+  name: Daging Busuk Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_RUNNER_BEANS:
+  name: Kacang Runner Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_RUTABAGA:
+  name: Rutabaga Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_SALMON:
+  name: Salmon Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_SASSAFRAS:
+  name: Sassafras Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_SHALLOT:
+  name: Bawang Merah Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_SHISO:
+  name: Shiso Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_SOY_BEANS:
+  name: Kedelai Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_SPINACH:
+  name: Bayam Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_STAR_ANISE:
+  name: Bunga Lawang Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_STRAWBERRY:
+  name: Stroberi Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_SUGAR:
+  name: Gula Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_SWEETCORN:
+  name: Jagung Manis Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_SWEET_BERRIES:
+  name: Beri Manis Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_SWEET_POTATO:
+  name: Ubi Jalar Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_TARRAGON:
+  name: Tarragon Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_THYME:
+  name: Timi Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_TOMATO:
+  name: Tomat Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_TURMERIC:
+  name: Kunyit Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_TURNIP:
+  name: Lobak Turnip Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_VANILLA:
+  name: Vanili Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_WASABI:
+  name: Wasabi Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_GROUND_WHEAT:
+  name: Gandum Ulek
+  type:
+  - '&7&oProduk Sampingan'
+CLT_HAZELNUT:
+  name: Hazelnut
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Lakukan apa saja untuk mengubah ini jadi
+  - kopi untukku, sekarang!
+CLT_HORSERADISH:
+  name: Lobak Pedas
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - $100 kalau kamu berani langsung menggigitnya.
+CLT_JALAPENO:
+  name: Jalapeno
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - PANAS PANAS PANAS.
+CLT_JASMINE:
+  name: Melati
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Jadi teh yang nikmat.
+CLT_JUNIPER_BERRY:
+  name: Buah Juniper
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Dikeringkan sampai pedasnya sempurna.
+CLT_KAFFIR_LIME:
+  name: Daun Jeruk Purut
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Daun dengan kesegaran yang dahsyat.
+CLT_KALE:
+  name: Kale
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Tolong, aku hipster smoothie tahun 2020!
+CLT_KETCHUP:
+  name: Saus Tomat
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Cuma tomat dalam bentuk krim.
+CLT_KEY_LIME_PIE:
+  name: Pai Jeruk Nipis
+  type:
+  - '&7&oMakanan'
+  description:
+  - Pokoknya yang terbaik!
+  stats:
+  - '&8⇨ &7Penyembuhan: &b6 Hati'
+  - '&8⇨ &bBergegas IV &7(10:00)'
+CLT_KIWI:
+  name: Kiwi
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Aku memasukkan ini ke addon karena dipaksa.
+  - Kiwi itu jahat dan siapa pun yang
+  - memakainya otomatis kehilangan
+  - 100 poin.
+CLT_LASAGNA:
+  name: Lasagna
+  type:
+  - '&7&oMakanan'
+  description:
+  - Berlapis-lapis kehebatan.
+  stats:
+  - '&8⇨ &7Penyembuhan: &bPenuh'
+  - '&8⇨ &bRegenerasi II &7(10:00)'
+  - '&8⇨ &bKetahanan II &7(10:00)'
+CLT_LAVENDER:
+  name: Lavender
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Aroma yang bisa membuatku perlahan terlelap.
+CLT_LEAVES_TREE_APRICOT:
+  name: Daun Pohon Aprikot
+  type:
+  - '&7&oDaun'
+CLT_LEAVES_TREE_BANANA:
+  name: Daun Pohon Pisang
+  type:
+  - '&7&oDaun'
+CLT_LEAVES_TREE_CHERRY:
+  name: Daun Pohon Ceri
+  type:
+  - '&7&oDaun'
+CLT_LEAVES_TREE_CHESTNUT:
+  name: Daun Pohon Kastanye
+  type:
+  - '&7&oDaun'
+CLT_LEAVES_TREE_GREEN_APPLE:
+  name: Daun Pohon Apel Hijau
+  type:
+  - '&7&oDaun'
+CLT_LEAVES_TREE_HAZELNUT:
+  name: Daun Pohon Hazelnut
+  type:
+  - '&7&oDaun'
+CLT_LEAVES_TREE_KIWI:
+  name: Daun Pohon Kiwi
+  type:
+  - '&7&oDaun'
+CLT_LEAVES_TREE_LEMON:
+  name: Daun Pohon Lemon
+  type:
+  - '&7&oDaun'
+CLT_LEAVES_TREE_LIME:
+  name: Daun Pohon Jeruk Nipis
+  type:
+  - '&7&oDaun'
+CLT_LEAVES_TREE_MANGO:
+  name: Daun Pohon Mangga
+  type:
+  - '&7&oDaun'
+CLT_LEAVES_TREE_ORANGE:
+  name: Daun Pohon Jeruk
+  type:
+  - '&7&oDaun'
+CLT_LEAVES_TREE_PEACH:
+  name: Daun Pohon Persik
+  type:
+  - '&7&oDaun'
+CLT_LEAVES_TREE_PEAR:
+  name: Daun Pohon Pir
+  type:
+  - '&7&oDaun'
+CLT_LEAVES_TREE_PECAN:
+  name: Daun Pohon Pekan
+  type:
+  - '&7&oDaun'
+CLT_LEAVES_TREE_PINEAPPLE:
+  name: Daun Pohon Nanas
+  type:
+  - '&7&oDaun'
+CLT_LEEK:
+  name: Bawang Prei
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - entah kenapa ini meneteskan air?
+  - Mungkin bawang preinya bocor... prei-hatin?
+CLT_LEMON:
+  name: Lemon
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Kenapa mukanya asam begitu?
+CLT_LEMON_DROP:
+  name: Permen Lemon
+  type:
+  - '&7&oMakanan'
+  description:
+  - Penyegar lidah.
+  stats:
+  - '&8⇨ &7Menghapus semua efek dan membuatmu lapar lagi.'
+CLT_LETTUCE:
+  name: Selada
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Tipis, encer, tapi tetap lezat.
+CLT_LICORICE:
+  name: Akar Manis
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Lari, lari sekarang juga!
+CLT_LIME:
+  name: Jeruk Nipis
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Pada zaman dahulu kala, eh, kala-nipis, ada buah yang lezat...
+CLT_MACE:
+  name: Fuli
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Dipakai untuk disemprotkan ke wajah penyerang.
+  - '...'
+  - Maksudnya itu bukan jenis fuli yang benar?
+CLT_MANGO:
+  name: Mangga
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - WADUH, aku harus PERGI, mangga duluan.
+  - Menulis lore itu susah...
+CLT_MARJORAM:
+  name: Marjoram
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Aku lagi buru-buru kari waktu, bisa ngobrol nanti?
+CLT_MARROW:
+  name: Labu Sumsum
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Tahukah kamu labu sumsum ada di dalam
+  - tulangmu?
+  - Yap, Sefi Pintar.
+CLT_MASHED_APPLE:
+  name: Apel Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_APRICOT:
+  name: Aprikot Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_ARTICHOKE:
+  name: Artisok Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_ASPARAGUS:
+  name: Asparagus Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_AUBERGINE:
+  name: Terung Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_AVOCADO:
+  name: Alpukat Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_BANANA:
+  name: Pisang Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_BASIL:
+  name: Kemangi Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_BAY_LEAF:
+  name: Daun Salam Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_BEEF:
+  name: Daging Sapi Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_BEETROOT:
+  name: Bit Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_BELL_PEPPER:
+  name: Paprika Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_BLACK_BEANS:
+  name: Kacang Hitam Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_BREAD:
+  name: Roti Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_BROCCOLI:
+  name: Brokoli Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_BROWN_MUSHROOM:
+  name: Jamur Cokelat Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_BRUSSELS_SPROUTS:
+  name: Kubis Brussel Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_CABBAGE:
+  name: Kubis Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_CARROT:
+  name: Wortel Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_CAULIFLOWER:
+  name: Kembang Kol Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_CAYENNE_PEPPER:
+  name: Cabai Cayenne Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_CELERIAC:
+  name: Seledri Umbi Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_CELERY:
+  name: Seledri Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_CHERRY:
+  name: Ceri Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_CHESTNUT:
+  name: Kastanye Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_CHICKEN:
+  name: Ayam Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_CHICKPEAS:
+  name: Kacang Arab Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_CHICORY:
+  name: Sikori Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_CHILLY_PEPPER:
+  name: Cabai Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_CHIVES:
+  name: Kucai Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_CHORUS_FRUIT:
+  name: Buah Korus Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_CILANTRO:
+  name: Daun Ketumbar Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_CINNAMON:
+  name: Kayu Manis Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_CLOVE:
+  name: Cengkih Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_COCOA_BEANS:
+  name: Biji Kakao Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_COD:
+  name: Kod Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_COURGETTE:
+  name: Zukini Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_CUCUMBER:
+  name: Mentimun Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_CUMIN:
+  name: Jintan Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_CURRY_LEAF:
+  name: Daun Kari Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_DILL:
+  name: Adas Sowa Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_EGG:
+  name: Telur Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_ENCHANTED_GOLDEN_APPLE:
+  name: Apel Emas Terpesona Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_FENNEL:
+  name: Adas Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_GARLIC:
+  name: Bawang Putih Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_GINGER:
+  name: Jahe Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_GLOW_BERRIES:
+  name: Buni Sinar Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_GOLDEN_APPLE:
+  name: Apel Emas Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_GOLDEN_CARROT:
+  name: Wortel Emas Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_GRAPE:
+  name: Anggur Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_GREEN_APPLE:
+  name: Apel Hijau Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_GREEN_BEANS:
+  name: Buncis Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_GREEN_ONION:
+  name: Daun Bawang Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_HAZELNUT:
+  name: Hazelnut Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_HORSERADISH:
+  name: Lobak Pedas Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_JALAPENO:
+  name: Jalapeno Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_JASMINE:
+  name: Melati Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_JUNIPER_BERRY:
+  name: Buah Juniper Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_KAFFIR_LIME:
+  name: Daun Jeruk Purut Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_KALE:
+  name: Kale Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_KELP:
+  name: Kelp Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_KIWI:
+  name: Kiwi Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_LAVENDER:
+  name: Lavender Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_LEEK:
+  name: Bawang Prei Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_LEMON:
+  name: Lemon Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_LETTUCE:
+  name: Selada Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_LICORICE:
+  name: Akar Manis Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_LIME:
+  name: Jeruk Nipis Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_MACE:
+  name: Fuli Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_MANGO:
+  name: Mangga Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_MARJORAM:
+  name: Marjoram Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_MARROW:
+  name: Labu Sumsum Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_MELON:
+  name: Semangka Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_MINT:
+  name: Daun Mint Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_MUSTARD_SEEDS:
+  name: Biji Mustar Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_MUTTON:
+  name: Daging Domba Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_NETTLES:
+  name: Jelatang Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_OKRA:
+  name: Okra Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_ONION:
+  name: Bawang Bombai Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_ORANGE:
+  name: Jeruk Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_OREGANO:
+  name: Oregano Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_PARSLEY:
+  name: Peterseli Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_PARSNIP:
+  name: Parsnip Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_PEA:
+  name: Kacang Polong Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_PEACH:
+  name: Persik Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_PEANUT:
+  name: Kacang Tanah Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_PEAR:
+  name: Pir Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_PECAN:
+  name: Pekan Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_PEPPER:
+  name: Lada Hitam Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_PEPPERONI:
+  name: Pepperoni Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_PINEAPPLE:
+  name: Nanas Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_PINTO_BEANS:
+  name: Kacang Pinto Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_PORKCHOP:
+  name: Daging Babi Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_POTATO:
+  name: Kentang Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_PUFFERFISH:
+  name: Ikan Buntal Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_PUMPKIN:
+  name: Labu Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_RABBIT:
+  name: Kelinci Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_RADDISH:
+  name: Lobak Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_RADICCHIO:
+  name: Radicchio Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_RAPESEED:
+  name: Kanola Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_RED_MUSHROOM:
+  name: Jamur Merah Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_RHUBARB:
+  name: Rhubarb Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_RICE:
+  name: Beras Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_ROSEMARY:
+  name: Rosemary Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_ROTTEN_FLESH:
+  name: Daging Busuk Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_RUNNER_BEANS:
+  name: Kacang Runner Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_RUTABAGA:
+  name: Rutabaga Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_SALMON:
+  name: Salmon Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_SASSAFRAS:
+  name: Sassafras Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_SHALLOT:
+  name: Bawang Merah Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_SHISO:
+  name: Shiso Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_SOY_BEANS:
+  name: Kedelai Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_SPINACH:
+  name: Bayam Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_STAR_ANISE:
+  name: Bunga Lawang Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_STRAWBERRY:
+  name: Stroberi Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_SUGAR:
+  name: Gula Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_SWEETCORN:
+  name: Jagung Manis Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_SWEET_BERRIES:
+  name: Beri Manis Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_SWEET_POTATO:
+  name: Ubi Jalar Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_TARRAGON:
+  name: Tarragon Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_THYME:
+  name: Timi Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_TOMATO:
+  name: Tomat Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_TURMERIC:
+  name: Kunyit Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_TURNIP:
+  name: Lobak Turnip Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_VANILLA:
+  name: Vanili Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_WASABI:
+  name: Wasabi Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MASHED_WHEAT:
+  name: Gandum Tumbuk
+  type:
+  - '&7&oProduk Sampingan'
+CLT_MAYONNAISE:
+  name: Mayones
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Mayones lembut nan halus yang cocok dengan hampir apa saja.
+CLT_MEATBALLS:
+  name: Bola Daging
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Bola dari daging, siapa sangka.
+CLT_MEATLOAF:
+  name: Rolade Daging
+  type:
+  - '&7&oMakanan'
+  description:
+  - Tak ada duanya! Ayo berangkat.
+  stats:
+  - '&8⇨ &7Penyembuhan: &bPenuh'
+  - '&8⇨ &bKesehatan Tambahan IV &7(10:00)'
+  - '&8⇨ &bKetahanan III &7(10:00)'
+  - '&8⇨ &bBergegas II &7(10:00)'
+  - '&8⇨ &bKelambatan II &7(10:00)'
+CLT_MINT:
+  name: Daun Mint
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Kunyah kunyah kunyah.
+CLT_MUSTARD:
+  name: Mustar
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Ada sedikit tendangannya!
+CLT_MUSTARD_SEEDS:
+  name: Benih Mustar
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Kunyah itu, berani nggak?
+CLT_NETTLES:
+  name: Jelatang
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Tolong pakai sarung tangan sebelum memegang ini.
+CLT_OKRA:
+  name: Okra
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Banyak ditanam di Okra-homa... benar kan, BENAR KAN?
+CLT_ONION:
+  name: Bawang Bombai
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Tunggu, kenapa kamu menangis?
+CLT_ORANGE:
+  name: Jeruk
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Bukannya ini harusnya jam weker, jeruk-jam?
+CLT_ORANGE_JUICE:
+  name: Jus Jeruk
+  type:
+  - '&7&oMakanan'
+  description:
+  - Ini benar-benar cara terbaik untuk memulai hari.
+  stats:
+  - '&8⇨ &bKecepatan IV &7(10:00)'
+CLT_OREGANO:
+  name: Oregano
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Herba klasik penghuni lemari dapur.
+CLT_PARSLEY:
+  name: Peterseli
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Herba. Terburuk. Sepanjang. Masa.
+CLT_PARSNIP:
+  name: Parsnip
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Harus segera dipanggang.
+CLT_PASTA:
+  name: Pasta
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Pasta biasa, sederhana tapi luar biasa.
+CLT_PEA:
+  name: Kacang Polong
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Katanya sih sering ditemukan berpasangan di dalam polong.
+CLT_PEACH:
+  name: Persik
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Kita tidak membahas Emoji itu
+CLT_PEANUT:
+  name: Kacang Tanah
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Reece's, aku datang!
+CLT_PEANUT_BUTTER:
+  name: Selai Kacang
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Hanya bisa disamakan dengan emas cair.
+CLT_PEANUT_BUTTER_JELLY_SANDWICH:
+  name: Roti Lapis Selai Kacang dan Jeli
+  type:
+  - '&7&oMakanan'
+  description:
+  - Ini benar-benar puncak teknologi roti lapis.
+  stats:
+  - '&8⇨ &7Penyembuhan: &b5 Hati'
+  - '&8⇨ &bKekuatan III &7(10:00)'
+CLT_PEAR:
+  name: Pir
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Bukankah ini kelihatan pir-fek?
+CLT_PECAN:
+  name: Pekan
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Sudah minta-minta dijadikan pai.
+CLT_PECAN_PIE:
+  name: Pai Pekan
+  type:
+  - '&7&oMakanan'
+  description:
+  - Satu-satunya cara makan gula murni tanpa
+  - dihakimi habis-habisan.
+  stats:
+  - '&8⇨ &7Penyembuhan: &b4 Hati'
+  - '&8⇨ &bMelayang I &7(10:00)'
+CLT_PEPPER:
+  name: Lada Hitam
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Lebih pedas daripada garam.
+CLT_PEPPERONI:
+  name: Pepperoni
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Aku bisa menghabiskan satu gelondong penuh, gampang.
+CLT_PICO_DE_GALLO:
+  name: Pico de Gallo
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Salsa ringan yang penuh kelezatan murni.
+CLT_PIE_CRUST:
+  name: Kulit Pai
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Kalau boleh memakan ini begitu saja,
+  - ini pasti jadi makanan pokokku.
+CLT_PINEAPPLE:
+  name: Nanas
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Ini wajib ada di setiap piza di dunia.
+  - Mau berantem!?
+CLT_PINTO_BEANS:
+  name: Kacang Pinto
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Kaching! Waktunya burrito.
+CLT_PIZZA_CHEESE:
+  name: Piza Keju
+  type:
+  - '&7&oMakanan'
+  description:
+  - Kenapa ada orang yang pesan cuma keju? Entahlah.
+  stats:
+  - '&8⇨ &7Penyembuhan: &b4 Hati'
+  - '&8⇨ &bKelambatan I &7(10:00)'
+CLT_PIZZA_MUSHROOM:
+  name: Piza Jamur
+  type:
+  - '&7&oMakanan'
+  description:
+  - Piza vegetarian sederhana yang kaya protein.
+  stats:
+  - '&8⇨ &7Penyembuhan: &b6 Hati'
+  - '&8⇨ &bKelambatan I &7(10:00)'
+  - '&8⇨ &bBergegas II &7(10:00)'
+CLT_PIZZA_PEPPERONI:
+  name: Piza Pepperoni
+  type:
+  - '&7&oMakanan'
+  description:
+  - Klasik khas New York yang kaya rasa.
+  stats:
+  - '&8⇨ &7Penyembuhan: &b6 Hati'
+  - '&8⇨ &bKecepatan I &7(10:00)'
+  - '&8⇨ &bBergegas I &7(10:00)'
+  - '&8⇨ &bPendorong Lompat I &7(10:00)'
+CLT_PLANT_AIR:
+  name: Tanaman Udara Purba
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman yang bersenandung pelan mengikuti
+  - melodi alam di sekitarnya.
+  - '&eTanaman purba tidak menghasilkan item'
+  - '&edan hanya untuk pembiakan.'
+CLT_PLANT_AMETHYST:
+  name: Tanaman Kecubung
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman ini senang tumbuh subur di tempat yang
+  - dalam dan gelap.
+CLT_PLANT_ANALYSER:
+  name: Penganalisis Tanaman
+  type:
+  - '&7&oAlat'
+  description:
+  - Alat sangat sederhana yang memungkinkan
+  - kamu melihat detail tanaman yang sedang tumbuh
+  usage:
+  - '&eKlik Kanan&7: Memberi tahu spesies dan detail pertumbuhan tanaman.'
+  - '&eShift Klik Kanan&7: Menampilkan nama tanaman atau semak.'
+CLT_PLANT_BASALT:
+  name: Tanaman Basal
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman yang sangat membosankan dan biasa saja.
+CLT_PLANT_BEE:
+  name: Tanaman Lebah
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman dengan sepasang sayap yang sangat kecil dan rapuh.
+CLT_PLANT_BLACKSTONE:
+  name: Tanaman Batu Hitam
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman yang dikenal suka menyerap cahaya.
+CLT_PLANT_BLAZE:
+  name: Tanaman Kemamang
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman yang hangus di bagian pinggirnya.
+CLT_PLANT_CHICKEN:
+  name: Tanaman Ayam
+  type:
+  - '&7&oTanaman'
+  description:
+  - Konon kalau kamu memegang benih ini
+  - di atas kepala dan melompat dari
+  - tempat tinggi, kamu akan melayang, bukannya
+  - jatuh.
+CLT_PLANT_CLAY:
+  name: Tanaman Tanah Liat
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman ini bisa dibentuk dan diubah bentuknya sesuka hati.
+  - Tapi bukan berarti itu ide yang bagus,
+  - lho!
+CLT_PLANT_COAL:
+  name: Tanaman Batu Bara
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman yang menyimpan potensi besar.
+CLT_PLANT_COBBLESTONE:
+  name: Tanaman Batu Kasar
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman ini keras seperti batu.
+CLT_PLANT_CONCRETE:
+  name: Tanaman Beton
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman ini susah tumbuh karena
+  - cepat sekali mengeras.
+CLT_PLANT_COW:
+  name: Tanaman Sapi
+  type:
+  - '&7&oTanaman'
+  description:
+  - Kalau kamu dekatkan benih ini ke telinga
+  - dan mendengarkan baik-baik, kadang terdengar
+  - suara melenguh.
+CLT_PLANT_CREEPER:
+  name: Tanaman Creeper
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tsssssssssttt...
+CLT_PLANT_DARKNESS:
+  name: Tanaman Kegelapan Purba
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman yang mendidih dalam amarah
+  - yang tak terkendali.
+  - '&eTanaman purba tidak menghasilkan item'
+  - '&edan hanya untuk pembiakan.'
+CLT_PLANT_DARK_FLORA:
+  name: Tanaman Flora Gelap
+  type:
+  - '&7&oTanaman'
+  description:
+  - Kejahatan yang sunyi bersemayam di dalam benih sederhana ini.
+CLT_PLANT_DARK_GRASS:
+  name: Tanaman Rumput Gelap
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman yang benar-benar kehilangan
+  - jati dirinya.
+CLT_PLANT_DEEPSLATE:
+  name: Tanaman Batu Sabak
+  type:
+  - '&7&oTanaman'
+  description:
+  - Dalam, bersabak, <masukkan lore di sini>.
+CLT_PLANT_DIAMOND:
+  name: Tanaman Berlian
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman yang memancarkan kekayaan.
+CLT_PLANT_DIM_LIT:
+  name: Tanaman Redup
+  type:
+  - '&7&oTanaman'
+  description:
+  - Cahaya yang sangat redup memancar dari dalam benih ini.
+CLT_PLANT_DIRT:
+  name: Tanaman Tanah
+  type:
+  - '&7&oTanaman'
+  description:
+  - Kotor di permukaan, tapi menyimpan
+  - bahan dasar kehidupan itu sendiri.
+CLT_PLANT_DROWNED:
+  name: Tanaman Hanyutan
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman yang basah kuyup, setiap
+  - saat.
+CLT_PLANT_DUSTY:
+  name: Tanaman Berdebu
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman ini butuh perawatan khusus, angin
+  - kencang sedikit saja bisa membuatnya
+  - hancur berantakan.
+CLT_PLANT_EARTH:
+  name: Tanaman Bumi Purba
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman yang memperkaya dunia
+  - di sekitarnya.
+  - '&eTanaman purba tidak menghasilkan item'
+  - '&edan hanya untuk pembiakan.'
+CLT_PLANT_ECHO:
+  name: Tanaman Gema
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman ini selalu tahu cara menemukan
+  - jalan pulang.
+CLT_PLANT_ELDER_GUARDIAN:
+  name: Tanaman Tetua Penjaga
+  type:
+  - '&7&oTanaman'
+  description:
+  - Berada di dekat tanaman ini membuat orang
+  - jadi lamban.
+CLT_PLANT_EMERALD:
+  name: Tanaman Zamrud
+  type:
+  - '&7&oTanaman'
+  description:
+  - Pemilik tanaman ini harus jungkir balik
+  - hanya untuk bisa membelinya.
+CLT_PLANT_ENDERMAN:
+  name: Tanaman Enderman
+  type:
+  - '&7&oTanaman'
+  description:
+  - Kalau tidak dirawat hati-hati, tanaman ini
+  - bisa berteleportasi sembarangan!
+CLT_PLANT_ENDER_DRAGON:
+  name: Tanaman Naga Ender
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman yang benar-benar seorang bos.
+CLT_PLANT_END_STONE:
+  name: Tanaman Batu End
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman yang bersenandung bersama kehampaan.
+CLT_PLANT_FIRE:
+  name: Tanaman Api Purba
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman yang menyediakan sumber
+  - kehancuran sekaligus
+  - kelahiran kembali.
+  - '&eTanaman purba tidak menghasilkan item'
+  - '&edan hanya untuk pembiakan.'
+CLT_PLANT_FISH:
+  name: Tanaman Ikan
+  type:
+  - '&7&oTanaman'
+  description:
+  - Aroma matang menguar dari benih ini.
+CLT_PLANT_FLOWER:
+  name: Tanaman Berbunga
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tumpah ruah kelimpahan yang tersaji indah.
+CLT_PLANT_FROG:
+  name: Tanaman Katak
+  type:
+  - '&7&oTanaman'
+  description:
+  - Kwok kwok!
+CLT_PLANT_GHAST:
+  name: Tanaman Ghast
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman yang dikenal suka
+  - menembakkan bola api sembarangan.
+CLT_PLANT_GLASS:
+  name: Tanaman Kaca
+  type:
+  - '&7&oTanaman'
+  description:
+  - Dari sudut yang tepat, kamu berani
+  - sumpah bisa melihat tembus tanaman ini.
+CLT_PLANT_GLAZED:
+  name: Tanaman Berglasir
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman yang tumbuh dengan pola yang rumit.
+CLT_PLANT_GLOWING_VINE:
+  name: Tanaman Sulur Bercahaya
+  type:
+  - '&7&oTanaman'
+  description:
+  - Cahaya samar memancar dari dalam benih ini.
+CLT_PLANT_GLOW_SQUID:
+  name: Tanaman Cumi-Cumi Sinar
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman berkilauan dengan cahaya samar.
+CLT_PLANT_GOAT:
+  name: Tanaman Kambing
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman yang kadang beringas dan suka
+  - melompat-lompat.
+CLT_PLANT_GRASS:
+  name: Tanaman Rumput
+  type:
+  - '&7&oTanaman'
+  description:
+  - Kehidupan yang bersemi menyeruak keluar
+  - dari dalam tanah.
+CLT_PLANT_GRAVEL:
+  name: Tanaman Kerikil
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman ini benar-benar tidak tahu cara
+  - menjaga dirinya tetap utuh.
+CLT_PLANT_GUARDIAN:
+  name: Tanaman Penjaga
+  type:
+  - '&7&oTanaman'
+  description:
+  - Saat disentuh, tanaman ini melepaskan
+  - duri.
+CLT_PLANT_IGNEOUS:
+  name: Tanaman Vulkanik
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman ini terbentuk oleh panas dan
+  - tekanan. Jangan menatapku begitu! Semua
+  - deskripsi tanaman ini masuk akal kok.
+CLT_PLANT_LAPIS:
+  name: Tanaman Lapis
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman dengan aura sihir yang samar.
+CLT_PLANT_LIGHT:
+  name: Tanaman Cahaya Purba
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman yang memancarkan aura
+  - cinta murni.
+  - '&eTanaman purba tidak menghasilkan item'
+  - '&edan hanya untuk pembiakan.'
+CLT_PLANT_MAGMA:
+  name: Tanaman Magma
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman yang begitu panas sampai membakar
+  - sekelilingnya.
+CLT_PLANT_MAGMA_CUBE:
+  name: Tanaman Kubus Magma
+  type:
+  - '&7&oTanaman'
+  description:
+  - Saat tidak diperhatikan, tanaman ini
+  - suka memantul naik turun.
+CLT_PLANT_MOSS:
+  name: Tanaman Lumut
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman ini cenderung menyebar tak terkendali.
+CLT_PLANT_MUD:
+  name: Tanaman Lumpur
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman yang hampir sekotor
+  - tanah tempat asalnya.
+CLT_PLANT_MUSHROOM:
+  name: Tanaman Jamur
+  type:
+  - '&7&oTanaman'
+  description:
+  - Yap, tanaman yang menghasilkan jamur.
+  - Semuanya benar-benar normal di sini.
+CLT_PLANT_NETHERRACK:
+  name: Tanaman Netherrack
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman tangguh yang mampu bertahan
+  - di kebanyakan tempat.
+CLT_PLANT_NETHER_QUARTZ:
+  name: Tanaman Kuarsa Nether
+  type:
+  - '&7&oTanaman'
+  description:
+  - Duri tanaman ini begitu tajam sampai
+  - susah untuk diolah.
+CLT_PLANT_PHANTOM:
+  name: Tanaman Angan-Angan
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman dengan daun yang menjulang tinggi.
+CLT_PLANT_PIG:
+  name: Tanaman Babi
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman yang mendengus sembarangan.
+CLT_PLANT_POWER:
+  name: Tanaman Kekuatan Purba
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman yang benar-benar memancarkan kekuatan.
+  - '&eTanaman purba tidak menghasilkan item'
+  - '&edan hanya untuk pembiakan.'
+CLT_PLANT_PURPUR:
+  name: Tanaman Purpur
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman aneh, terasa jauh lebih ringan
+  - daripada kebanyakan.
+CLT_PLANT_RABBIT:
+  name: Tanaman Kelinci
+  type:
+  - '&7&oTanaman'
+  description:
+  - Serangga pasti bangga.
+CLT_PLANT_RAINBOW:
+  name: Tanaman Pelangi
+  type:
+  - '&7&oTanaman'
+  description:
+  - Mungkin ada, mungkin juga tidak, sepanci emas
+  - di ujung tanaman ini.
+CLT_PLANT_RAW_COPPER:
+  name: Tanaman Tembaga
+  type:
+  - '&7&oTanaman'
+  description:
+  - Kalau dibiarkan, tanaman ini kadang
+  - menarik petir.
+CLT_PLANT_RAW_GOLD:
+  name: Tanaman Emas
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman ini sering dicuri piglin
+  - kalau ada di dekatnya.
+CLT_PLANT_RAW_IRON:
+  name: Tanaman Besi
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman kokoh yang tahan di hampir
+  - semua lingkungan.
+CLT_PLANT_REDSTONE:
+  name: Tanaman Redstone
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman yang meluap dengan kekuatan di sekujur tubuhnya.
+CLT_PLANT_RED_SAND:
+  name: Tanaman Pasir Merah
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman ini kadang hancur berantakan
+  - hanya dengan satu sentuhan, tapi... lebih merah.
+CLT_PLANT_REINFORCED:
+  name: Tanaman Diperkuat
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman yang mampu tetap tegak
+  - menghadapi apa pun.
+CLT_PLANT_SAND:
+  name: Tanaman Pasir
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman ini kadang hancur berantakan
+  - hanya dengan satu sentuhan.
+CLT_PLANT_SAPLING:
+  name: Tanaman Bibit
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman ini bahkan tidak masuk akal...
+CLT_PLANT_SCRAPPY:
+  name: Tanaman Rongsok
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman ini benar-benar puncak
+  - ilmu hortikultura.
+CLT_PLANT_SHEEP:
+  name: Tanaman Domba
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman dengan tekstur berbulu yang kasar.
+CLT_PLANT_SHULKER:
+  name: Tanaman Shulker
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman yang sering melayang dari
+  - atas tanah.
+CLT_PLANT_SKELETON:
+  name: Tanaman Bengkarak
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman yang bergemeretak saat bergoyang.
+CLT_PLANT_SLIME:
+  name: Tanaman Geladir
+  type:
+  - '&7&oTanaman'
+  description:
+  - Kenapa lengket sekali?
+CLT_PLANT_SOUL:
+  name: Tanaman Jiwa
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman yang terdengar menjerit
+  - saat suasana hening.
+CLT_PLANT_SPECTRUM:
+  name: Tanaman Spektrum Purba
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman yang warnanya sedikit berubah-ubah.
+  - '&eTanaman purba tidak menghasilkan item'
+  - '&edan hanya untuk pembiakan.'
+CLT_PLANT_SPIDER:
+  name: Tanaman Laba-Laba
+  type:
+  - '&7&oTanaman'
+  description:
+  - Bunuh, bunuh SEKARANG!
+CLT_PLANT_SQUID:
+  name: Tanaman Cumi-Cumi
+  type:
+  - '&7&oTanaman'
+  description:
+  - Hati-hati, menyentuh tanaman ini saja
+  - bisa membuat tinta meledak ke
+  - mana-mana.
+CLT_PLANT_STAINED:
+  name: Tanaman Berwarna
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman ini memecah cahaya menjadi spektrum
+  - sejati ke benda-benda di sekitarnya.
+CLT_PLANT_TERRA:
+  name: Tanaman Terra
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman keras bernuansa tanah yang retak di bawah tekanan.
+CLT_PLANT_TURTLE:
+  name: Tanaman Penyu
+  type:
+  - '&7&oTanaman'
+  description:
+  - Benih yang dibungkus cangkang sekeras batu.
+CLT_PLANT_VILLAGER:
+  name: Tanaman Penduduk
+  type:
+  - '&7&oTanaman'
+  description:
+  - Yap, kami memadatkan sari pati seorang penduduk
+  - menjadi tanaman. Katanya sih sakit sekali.
+CLT_PLANT_VINE:
+  name: Tanaman Sulur
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman yang langsung membelit dirinya
+  - sendiri.
+CLT_PLANT_WATER:
+  name: Tanaman Air Purba
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman yang merawat dan memberi
+  - kehidupan bagi daerah sekitarnya.
+  - '&eTanaman purba tidak menghasilkan item'
+  - '&edan hanya untuk pembiakan.'
+CLT_PLANT_WAXY:
+  name: Tanaman Berlilin
+  type:
+  - '&7&oTanaman'
+  description:
+  - Getah tanaman ini membentuk lilin
+  - yang bentuknya sempurna seperti lilin batang.
+CLT_PLANT_WEALTH:
+  name: Tanaman Kekayaan Purba
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman yang meneriakkan kekayaan melimpah.
+  - '&eTanaman purba tidak menghasilkan item'
+  - '&edan hanya untuk pembiakan.'
+CLT_PLANT_WITCH:
+  name: Tanaman Penyihir
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman yang terdengar seperti sedang
+  - menggumamkan mantra pelan-pelan.
+CLT_PLANT_WITHER:
+  name: Tanaman Wither
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman mematikan yang harus ditangani
+  - dengan hati-hati.
+CLT_PLANT_WITHER_ROSE:
+  name: Tanaman Mawar Wither
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman ini, entah bagaimana, memancarkan
+  - aura berbahaya di sekelilingnya.
+CLT_PLANT_WITHER_SKELETON:
+  name: Tanaman Bengkarak Wither
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman yang dikenal sulit ditemukan dan tangguh.
+CLT_PLANT_WOOLLY:
+  name: Tanaman Berbulu
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman berbulu, dari akar sampai kelopak!
+CLT_PLANT_ZOMBIE:
+  name: Tanaman Zombi
+  type:
+  - '&7&oTanaman'
+  description:
+  - Tanaman ini meneteskan... sesuatu...
+CLT_RADDISH:
+  name: Lobak
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Kantong-kantong kecil sinar matahari yang segar dan renyah.
+CLT_RADICCHIO:
+  name: Radicchio
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Menulis semua lore ini makan waktu lama sekali.
+  - Rasanya radicchio-pek.
+CLT_RAMEN_BEEF:
+  name: Ramen Daging Sapi
+  type:
+  - '&7&oMakanan'
+  description:
+  - Pilihan yang kurang sehat.
+  stats: &id004
+  - '&8⇨ &bKesehatan Tambahan I &7(10:00)'
+CLT_RAMEN_BEEF_HEARTY:
+  name: Ramen Daging Sapi Komplet
+  type:
+  - '&7&oMakanan'
+  description:
+  - Pilihan yang sehat.
+  stats: &id005
+  - '&8⇨ &7Penyembuhan: &bPenuh'
+  - '&8⇨ &bKesehatan Tambahan II &7(10:00)'
+  - '&8⇨ &bKecepatan I &7(10:00)'
+CLT_RAMEN_CHICKEN:
+  name: Ramen Ayam
+  type:
+  - '&7&oMakanan'
+  description:
+  - Pilihan yang kurang mengenyangkan.
+  stats: *id004
+CLT_RAMEN_CHICKEN_HEARTY:
+  name: Ramen Ayam Komplet
+  type:
+  - '&7&oMakanan'
+  description:
+  - Pilihan yang mengenyangkan.
+  stats: *id005
+CLT_RAMEN_SEAFOOD:
+  name: Ramen Hidangan Laut
+  type:
+  - '&7&oMakanan'
+  description:
+  - Pilihan yang kurang memuaskan.
+  stats: *id004
+CLT_RAMEN_SEAFOOD_HEARTY:
+  name: Ramen Hidangan Laut Komplet
+  type:
+  - '&7&oMakanan'
+  description:
+  - Pilihan yang memuaskan.
+  stats: *id005
+CLT_RAPESEED:
+  name: Kanola
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Sering dipakai untuk membuat minyak.
+CLT_RECIPE_UNLOCK:
+  name: Naskah Pengetahuan Cultivation
+  type:
+  - '&7&oAlat'
+  description:
+  - Klik kanan untuk mempelajari resep pembiakan
+  - Cultivation.
+CLT_RHUBARB:
+  name: Rhubarb
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Pastikan daunnya dibuang dulu!
+CLT_RICE:
+  name: Beras
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Ingat, hidup cuma sekali, makan nasi!
+CLT_ROSEMARY:
+  name: Rosemary
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Sering kehabisan waktu, eh, timi.
+CLT_RUNNER_BEANS:
+  name: Kacang Runner
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Selalu berusaha kabur.
+CLT_RUTABAGA:
+  name: Rutabaga
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Sakit rasanya tidak menyebut ini swede.
+CLT_SALMON_NIGIRI:
+  name: Nigiri Salmon
+  type:
+  - '&7&oMakanan'
+  description:
+  - Rasa yang menyenangkan namun halus.
+  stats:
+  - '&8⇨ &7Penyembuhan: &b2 Hati'
+  - '&8⇨ &bRegenerasi I &7(10:00)'
+CLT_SASSAFRAS:
+  name: Sassafras
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Root Beer yang bisa dimakan, serius, cari saja
+  - di Google, sekarang aku membelinya terus.
+CLT_SAUSAGE:
+  name: Sosis
+  type:
+  - '&7&oMakanan'
+  description:
+  - Saudaranya Bacon.
+  stats: &id007
+  - '&8⇨ &7Penyembuhan: &b1 Hati'
+CLT_SEED_PACK:
+  name: Paket Benih
+  type:
+  - '&7&oAlat'
+  description:
+  - Klik kanan untuk membuka paket ini.
+  stats:
+  - '&8⇨ &7Diatur ke: &bTidak Ada'
+CLT_SHAKSHUKA:
+  name: Shakshuka
+  type:
+  - '&7&oMakanan'
+  description:
+  - Hidangan yang menghangatkan hati dengan telur berlimpah.
+  stats:
+  - '&8⇨ &7Penyembuhan: &b4 Hati'
+  - '&8⇨ &bPahlawan Desa I &7(10:00)'
+  - '&8⇨ &bKeberuntungan I &7(10:00)'
+CLT_SHALLOT:
+  name: Bawang Merah
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Aku suka bawang merah, merah merona.
+CLT_SHEPHERDS_PIE:
+  name: Pai Gembala
+  type:
+  - '&7&oMakanan'
+  description:
+  - Hangat, mengenyangkan, dan luar biasa.
+  stats: *id006
+CLT_SHISO:
+  name: Shiso
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Mint dengan sedikit cinta.
+CLT_SLICED_APPLE:
+  name: Apel Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_APRICOT:
+  name: Aprikot Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_ARTICHOKE:
+  name: Artisok Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_ASPARAGUS:
+  name: Asparagus Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_AUBERGINE:
+  name: Terung Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_AVOCADO:
+  name: Alpukat Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_BANANA:
+  name: Pisang Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_BASIL:
+  name: Kemangi Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_BAY_LEAF:
+  name: Daun Salam Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_BEEF:
+  name: Daging Sapi Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_BEETROOT:
+  name: Bit Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_BELL_PEPPER:
+  name: Paprika Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_BLACK_BEANS:
+  name: Kacang Hitam Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_BREAD:
+  name: Roti Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_BROCCOLI:
+  name: Brokoli Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_BROWN_MUSHROOM:
+  name: Jamur Cokelat Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_BRUSSELS_SPROUTS:
+  name: Kubis Brussel Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_CABBAGE:
+  name: Kubis Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_CARROT:
+  name: Wortel Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_CAULIFLOWER:
+  name: Kembang Kol Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_CAYENNE_PEPPER:
+  name: Cabai Cayenne Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_CELERIAC:
+  name: Seledri Umbi Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_CELERY:
+  name: Seledri Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_CHERRY:
+  name: Ceri Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_CHESTNUT:
+  name: Kastanye Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_CHICKEN:
+  name: Ayam Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_CHICKPEAS:
+  name: Kacang Arab Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_CHICORY:
+  name: Sikori Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_CHILLY_PEPPER:
+  name: Cabai Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_CHIVES:
+  name: Kucai Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_CHORUS_FRUIT:
+  name: Buah Korus Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_CILANTRO:
+  name: Daun Ketumbar Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_CINNAMON:
+  name: Kayu Manis Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_CLOVE:
+  name: Cengkih Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_COCOA_BEANS:
+  name: Biji Kakao Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_COD:
+  name: Kod Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_COURGETTE:
+  name: Zukini Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_CUCUMBER:
+  name: Mentimun Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_CUMIN:
+  name: Jintan Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_CURRY_LEAF:
+  name: Daun Kari Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_DILL:
+  name: Adas Sowa Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_EGG:
+  name: Telur Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_ENCHANTED_GOLDEN_APPLE:
+  name: Apel Emas Terpesona Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_FENNEL:
+  name: Adas Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_GARLIC:
+  name: Bawang Putih Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_GINGER:
+  name: Jahe Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_GLOW_BERRIES:
+  name: Buni Sinar Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_GOLDEN_APPLE:
+  name: Apel Emas Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_GOLDEN_CARROT:
+  name: Wortel Emas Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_GRAPE:
+  name: Anggur Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_GREEN_APPLE:
+  name: Apel Hijau Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_GREEN_BEANS:
+  name: Buncis Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_GREEN_ONION:
+  name: Daun Bawang Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_HAZELNUT:
+  name: Hazelnut Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_HORSERADISH:
+  name: Lobak Pedas Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_JALAPENO:
+  name: Jalapeno Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_JASMINE:
+  name: Melati Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_JUNIPER_BERRY:
+  name: Buah Juniper Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_KAFFIR_LIME:
+  name: Daun Jeruk Purut Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_KALE:
+  name: Kale Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_KELP:
+  name: Kelp Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_KIWI:
+  name: Kiwi Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_LAVENDER:
+  name: Lavender Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_LEEK:
+  name: Bawang Prei Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_LEMON:
+  name: Lemon Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_LETTUCE:
+  name: Selada Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_LICORICE:
+  name: Akar Manis Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_LIME:
+  name: Jeruk Nipis Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_MACE:
+  name: Fuli Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_MANGO:
+  name: Mangga Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_MARJORAM:
+  name: Marjoram Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_MARROW:
+  name: Labu Sumsum Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_MELON:
+  name: Semangka Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_MINT:
+  name: Daun Mint Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_MUSTARD_SEEDS:
+  name: Biji Mustar Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_MUTTON:
+  name: Daging Domba Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_NETTLES:
+  name: Jelatang Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_OKRA:
+  name: Okra Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_ONION:
+  name: Bawang Bombai Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_ORANGE:
+  name: Jeruk Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_OREGANO:
+  name: Oregano Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_PARSLEY:
+  name: Peterseli Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_PARSNIP:
+  name: Parsnip Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_PEA:
+  name: Kacang Polong Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_PEACH:
+  name: Persik Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_PEANUT:
+  name: Kacang Tanah Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_PEAR:
+  name: Pir Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_PECAN:
+  name: Pekan Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_PEPPER:
+  name: Lada Hitam Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_PEPPERONI:
+  name: Pepperoni Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_PINEAPPLE:
+  name: Nanas Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_PINTO_BEANS:
+  name: Kacang Pinto Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_PORKCHOP:
+  name: Daging Babi Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_POTATO:
+  name: Kentang Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_PUFFERFISH:
+  name: Ikan Buntal Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_PUMPKIN:
+  name: Labu Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_RABBIT:
+  name: Kelinci Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_RADDISH:
+  name: Lobak Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_RADICCHIO:
+  name: Radicchio Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_RAPESEED:
+  name: Kanola Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_RED_MUSHROOM:
+  name: Jamur Merah Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_RHUBARB:
+  name: Rhubarb Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_RICE:
+  name: Beras Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_ROSEMARY:
+  name: Rosemary Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_ROTTEN_FLESH:
+  name: Daging Busuk Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_RUNNER_BEANS:
+  name: Kacang Runner Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_RUTABAGA:
+  name: Rutabaga Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_SALMON:
+  name: Salmon Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_SASSAFRAS:
+  name: Sassafras Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_SHALLOT:
+  name: Bawang Merah Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_SHISO:
+  name: Shiso Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_SOY_BEANS:
+  name: Kedelai Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_SPINACH:
+  name: Bayam Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_STAR_ANISE:
+  name: Bunga Lawang Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_STRAWBERRY:
+  name: Stroberi Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_SUGAR:
+  name: Gula Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_SWEETCORN:
+  name: Jagung Manis Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_SWEET_BERRIES:
+  name: Beri Manis Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_SWEET_POTATO:
+  name: Ubi Jalar Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_TARRAGON:
+  name: Tarragon Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_THYME:
+  name: Timi Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_TOMATO:
+  name: Tomat Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_TURMERIC:
+  name: Kunyit Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_TURNIP:
+  name: Lobak Turnip Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_VANILLA:
+  name: Vanili Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_WASABI:
+  name: Wasabi Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SLICED_WHEAT:
+  name: Gandum Iris
+  type:
+  - '&7&oProduk Sampingan'
+CLT_SOFT_BOILED_EGG:
+  name: Telur Setengah Matang
+  type:
+  - '&7&oMakanan'
+  description:
+  - Cuma telur rebus, mau bilang apa lagi.
+  stats:
+  - '&8⇨ &7Penyembuhan: &b1 Hati'
+  - '&8⇨ &7Kadang bisa memanggil ayam untuk menolongmu.'
+CLT_SOYLENT:
+  name: Soylent
+  type:
+  - '&7&oMakanan'
+  description:
+  - Semua yang dibutuhkan tubuh!
+  stats:
+  - '&8⇨ &bPertanda Buruk I &7(10:00)'
+  - '&8⇨ &bKelemahan IV &7(10:00)'
+CLT_SOY_BEANS:
+  name: Kedelai
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Susu kedelai pun tiba.
+CLT_SPAGHETTI:
+  name: Spageti
+  type:
+  - '&7&oMakanan'
+  description:
+  - Terus saja diseruput.
+  stats: *id007
+CLT_SPAGHETTI_AND_MEATBALLS:
+  name: Spageti dan Bola Daging
+  type:
+  - '&7&oMakanan'
+  description:
+  - Sederhana, klasik, dan mengenyangkan.
+  stats:
+  - '&8⇨ &7Penyembuhan: &b1 Hati'
+  - '&8⇨ &bPertanda Buruk I &7(10:00)'
+CLT_SPINACH:
+  name: Bayam
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Dilayukan dengan cinta.
+CLT_STAR_ANISE:
+  name: Bunga Lawang
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Salah satu rasa terbaik dan paling unik.
+CLT_STRAWBERRY:
+  name: Stroberi
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Tinggal tambahkan krim!
+CLT_STRAWBERRY_JELLY:
+  name: Selai Stroberi
+  type:
+  - '&7&oHasil Panen'
+  description: *id008
+CLT_SUGARED_SKULL:
+  name: Tengkorak Gula
+  type:
+  - '&7&oMakanan'
+  description:
+  - Ini makanan bukan sih...?
+  stats:
+  - '&8⇨ &bKegelapan III &7(10:00)'
+CLT_SWEETCORN:
+  name: Jagung Manis
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Mungkin sayuran terbaik yang ada.
+CLT_SWEET_BEEHIVE:
+  name: Sarang Lebah Manis
+  type:
+  - '&7&oMakanan'
+  description:
+  - Entah apa yang membuatmu ingin memasak ini!
+  stats:
+  - '&8⇨ &7Memanggil beberapa lebah!'
+CLT_SWEET_POTATO:
+  name: Ubi Jalar
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Nyam nyam ubi.
+CLT_TAQUITO:
+  name: Taquito
+  type:
+  - '&7&oMakanan'
+  description:
+  - Zim pasti bangga!
+  stats:
+  - '&8⇨ &7Penyembuhan: &b4 Hati'
+  - '&8⇨ &7Memanggil Gir untuk membantu (Itu Golem Besi, tenang saja).'
+CLT_TARRAGON:
+  name: Tarragon
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Aku benar-benar menaruh ini di apa saja.
+  - 'Bocoran: Aku bukan koki yang hebat.'
+CLT_TATER_TOTS:
+  name: Kroket Kentang Mini
+  type:
+  - '&7&oMakanan'
+  description:
+  - Kentang mungil sekali hap.
+  stats:
+  - '&8⇨ &7Penyembuhan: &b0.5 Hati'
+  - '&8⇨ &bKecepatan II &7(10:00)'
+CLT_THYME:
+  name: Timi
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Sering merindukan rosemary.
+CLT_TOMATO:
+  name: Tomat
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Langsung dari sulurnya.... eh... semaknya?
+CLT_TORTILLAS:
+  name: Tortila
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Kelezatan dari tepung jagung
+CLT_TREE_APRICOT:
+  name: Pohon Aprikot
+  type:
+  - '&7&oBibit'
+  description:
+  - Di dalamnya ada satu biji keputusasaan.
+  stats: &id009
+  - '&8⇨ &7Desain Oleh: &bBWhite'
+CLT_TREE_BANANA:
+  name: Pohon Pisang
+  type:
+  - '&7&oBibit'
+  description:
+  - Pohon yang menumbuhkan jari, seram!
+  stats:
+  - '&8⇨ &7Desain Oleh: &bSefiraat'
+CLT_TREE_CHERRY:
+  name: Pohon Ceri
+  type:
+  - '&7&oBibit'
+  description:
+  - Ikat simpulnya!
+  stats:
+  - '&8⇨ &7Desain Oleh: &bReasonFoundDecoy'
+CLT_TREE_CHESTNUT:
+  name: Pohon Kastanye
+  type:
+  - '&7&oBibit'
+  description:
+  - Pohon yang jelas dirancang untuk dipanjat.
+  stats: &id010
+  - '&8⇨ &7Desain Oleh: &bABitOddish'
+CLT_TREE_GREEN_APPLE:
+  name: Pohon Apel Hijau
+  type:
+  - '&7&oBibit'
+  description:
+  - Menghasilkan apel hijau yang besar dan renyah.
+  stats: *id009
+CLT_TREE_HAZELNUT:
+  name: Pohon Hazelnut
+  type:
+  - '&7&oBibit'
+  description:
+  - Mengguncang pohon ini adalah hobi masa kecil.
+  stats: *id010
+CLT_TREE_KIWI:
+  name: Pohon Kiwi
+  type:
+  - '&7&oBibit'
+  description:
+  - Pohon Selandia Baru? Benar begitu, kan?
+  stats: *id010
+CLT_TREE_LEMON:
+  name: Pohon Lemon
+  type:
+  - '&7&oBibit'
+  description:
+  - Melihat pohon ini saja sudah terasa asam.
+  stats: &id011
+  - '&8⇨ &7Desain Oleh: &bJeff'
+CLT_TREE_LIME:
+  name: Pohon Jeruk Nipis
+  type:
+  - '&7&oBibit'
+  description:
+  - Tahukah kamu, Jeruk Nipis itu cuma Lemon yang sedang menahan napas?
+  stats: *id010
+CLT_TREE_MANGO:
+  name: Pohon Mangga
+  type:
+  - '&7&oBibit'
+  description:
+  - Paling enak saat sedang matang-matangnya.
+  stats: *id009
+CLT_TREE_ORANGE:
+  name: Pohon Jeruk
+  type:
+  - '&7&oBibit'
+  description:
+  - Bola-bola kecil sinar matahari.
+  stats: *id011
+CLT_TREE_PEACH:
+  name: Pohon Persik
+  type:
+  - '&7&oBibit'
+  description:
+  - James sedang mencari ini, kurasa?
+  stats: *id010
+CLT_TREE_PEAR:
+  name: Pohon Pir
+  type:
+  - '&7&oBibit'
+  description:
+  - Sepasang Pir dipasang-pasangkan supaya pas.
+  stats: *id009
+CLT_TREE_PECAN:
+  name: Pohon Pekan
+  type:
+  - '&7&oBibit'
+  description:
+  - Bisakah kita menanam pohon ini? Bisa, pe-kan!
+  stats: *id009
+CLT_TREE_PINEAPPLE:
+  name: Pohon Nanas
+  type:
+  - '&7&oBibit'
+  description:
+  - MANA PIZAKU?
+  stats: *id010
+CLT_TURMERIC:
+  name: Kunyit
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Aroma musky yang kuat untuk melengkapi banyak hidangan.
+CLT_TURNIP:
+  name: Lobak Turnip
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Akan menyelesaikan semua masalah hidup.
+CLT_VANILLA:
+  name: Vanili
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - 'Petunjuk: Celupkan langsung ke dalam Latte'
+CLT_WASABI:
+  name: Wasabi
+  type:
+  - '&7&oHasil Panen'
+  description:
+  - Tolong... wasabi... wasa-bisa mati aku...
+CLT_WITHER_ROSE_SALAD:
+  name: Salad Mawar Wither
+  type:
+  - '&7&oMakanan'
+  description:
+  - Penuh kekuatan, tapi dengan efek samping yang kejam.
+  stats:
+  - '&8⇨ &7Penyembuhan: &bPenuh'
+  - '&8⇨ &bKelayuan II &7(10:00)'
+  - '&8⇨ &bKesehatan Tambahan XX &7(10:00)'
