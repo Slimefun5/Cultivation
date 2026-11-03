@@ -1,0 +1,87 @@
+cultivation:
+  bush_harvest:
+    name: Pag-ani sa Palumpong
+    lore:
+    - Maaaring anihin ang item na ito mula sa
+    - Palumpong ng Cultivation
+  tree_harvest:
+    name: Pag-ani sa Puno
+    lore:
+    - Maaaring anihin ang item na ito mula sa
+    - Puno ng Cultivation
+  trading_farmer:
+    name: Pakikipagkalakal sa Taganayon
+    lore:
+    - Mabibili ang item na ito mula sa
+    - Taganayong magsasaka.
+  trading_fletcher:
+    name: Pakikipagkalakal sa Taganayon
+    lore:
+    - Mabibili ang item na ito mula sa
+    - Taganayong gumagawa ng palaso.
+  mob:
+    name: Hulog ng Mob
+    lore:
+    - May tsansang mahulog ang item na ito mula sa
+    - mga sumusunod na mob.
+  plant_breeding:
+    name: Pagpapalahi ng Halaman
+    lore:
+    - Nakukuha ang binhing ito sa pagpapalahi.
+    - Napapalahi mo ang mga halaman sa paglalagay
+    - ng dalawang halaman na may isang air block
+    - sa pagitan nila.
+    - ''
+    - Magagamit ang diksiyonaryo ng pagpapalahi
+    - para subaybayan ang iyong mga natuklasan.
+    - ''
+    - 'Paalala: Kapag itim ang mga particle, ang'
+    - dalawang halaman ay HINDI mapapalahi.
+  vanilla_block_drop:
+    name: Hulog sa Mundo
+    lore:
+    - Nahuhulog mula sa mga block kapag sinira sa mundo.
+  bucketing:
+    name: Hulog sa Mundo
+    lore:
+    - Nakukuha mula sa mundo gamit ang timba.
+  chopped:
+    name: Tinadtad
+    lore:
+    - Tadtarin lang gamit ang kutsilyo!
+  mashed:
+    name: Dinurog
+    lore:
+    - Durog Durog Durog
+  blended:
+    name: Giniling
+    lore:
+    - Ginagawa sa paglalagay ng item sa blender.
+  sliced:
+    name: Hiniwa
+    lore:
+    - Napakanipis at napakaselan
+  ground:
+    name: Dinikdik
+    lore:
+    - Hanggang maging pinong-pino
+  boiled:
+    name: Nilaga
+    lore:
+    - Mainit mainit mainit!
+  fried:
+    name: Prinito
+    lore:
+    - Malutong na Perpekto.
+  grilled:
+    name: Inihaw
+    lore:
+    - Makatas at Malambot.
+  finishing:
+    name: Pagtatapos
+    lore:
+    - Gamitin ang mesang pantapos ng kusina para gawin ang item na ito.
+  baking:
+    name: Paghurno
+    lore:
+    - Gamitin ang mesang may hurno ng kusina para gawin ang item na ito.

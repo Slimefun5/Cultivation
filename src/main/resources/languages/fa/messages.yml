@@ -1,0 +1,65 @@
+lore:
+  seed-pack-set-to: تنظیم روی
+  knowledge-script-unlocks: باز می‌کند
+  drop-level: سطح محصول
+  growth-speed: سرعت رشد
+  breed-strength: قدرت پرورش
+command:
+  no-permission: تو اجازه انجام این کار را نداری.
+  invalid-subcommand: لطفاً یک زیرفرمان معتبر وارد کن.
+  players-only: این فرمان فقط توسط بازیکن قابل اجراست.
+  hold-seed-pack: برای این کار باید یک بسته بذر در دست داشته باشی.
+  pack-empty: این بسته خالی است!
+  pack-contents: محتویات
+  pack-entry: سطح %level%، سرعت %speed%، قدرت %strength%
+kitchen:
+  recipe-disabled: این دستور غیرفعال است.
+  no-recipe: دستور منطبقی وجود ندارد.
+  not-enough-power: انرژی کافی نیست.
+  input-empty: یک آیتم در خانه ورودی بگذار.
+  cooked: خوشمزه!
+food:
+  eaten: عالی! کاملاً سیر شدی.
+  not-hungry: هنوز گرسنه نیستی! فقط هر نصف روز (10 دقیقه) یک بار می‌توانی غذا بخوری.
+  palate-cleansed: حس می‌کنی ذائقه‌ات پاک می‌شود.
+  ouch: آخ!
+knowledge-script:
+  learned: یاد گرفتی چطور %plant% را پرورش دهی.
+seed-pack:
+  title: بسته بذر
+  unstack-first: اول باید بسته‌های بذرت را از حالت دسته خارج کنی.
+  not-a-seed: آیتم باید بذر یک گیاه کالتیویشن باشد.
+  empty-before-change: قبل از تغییر گیاه یک بسته، باید آن را خالی کنی.
+  no-plant-set: هنوز گیاهی تنظیم نکرده‌ای.
+  none-stored: هیچ بذری از این نوع در این سطح‌ها نداری.
+  set-here: بذر را اینجا تنظیم کن
+  retrieve-here: اینجا برداشت کن
+  no-seed-set: بذری تنظیم نشده
+  no-seed-set-lore:
+  - در حالی که بذری در دست داری، روی نماد
+  - سمت چپ کلیک کن تا بسته تنظیم شود.
+  empty-set: مجموعه خالی
+  empty-set-lore:
+  - هیچ بذری منطبق با
+  - این سطح‌ها نداری.
+  stored-seed: نوع بذر ذخیره‌شده
+  take-seed: یک بذر از بسته بردار
+  level: سطح
+  speed: سرعت
+  strength: قدرت
+  left-click: چپ‌کلیک
+  right-click: راست‌کلیک
+  increase: افزایش %stat%
+  decrease: کاهش %stat%
+  current: فعلی
+codex:
+  title: دانشنامه گیاه
+  child: گیاه فرزند
+  mother: گیاه مادر
+  father: گیاه پدر
+  growth-rate: نرخ رشد
+  not-discovered: کشف‌نشده
+  not-discovered-lore:
+  - هنوز کشف نکرده‌ای که چطور
+  - این گیاه را پرورش دهی!
+  discovery: کشف

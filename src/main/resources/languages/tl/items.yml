@@ -1,0 +1,6674 @@
+CLT_APRICOT:
+  name: Aprikot
+  type:
+  - '&7&oAni'
+  description:
+  - Makakagawa ka ng Pokéball mula rito.
+  - '...'
+  - Anong ibig mong sabihin, iba pala iyon...?
+CLT_ARTICHOKE:
+  name: Alkatsopas
+  type:
+  - '&7&oAni'
+  description:
+  - Bunutin mo ang PUSO nito!
+CLT_ASPARAGUS:
+  name: Asparagus
+  type:
+  - '&7&oAni'
+  description:
+  - Mag-ingat sa susunod mong pagpunta sa banyo.
+CLT_AUBERGINE:
+  name: Talong
+  type:
+  - '&7&oAni'
+  description:
+  - Matingkad na lila at 100% HINDI hugis-itlog.
+  - Pero eggplant pa rin ang tawag dito sa Ingles, di ba?
+CLT_AVOCADO:
+  name: Abukado
+  type:
+  - '&7&oAni'
+  description:
+  - Ang pinapangarap ng mga hipster.
+CLT_BACON_SANDWICH:
+  name: Sanwits ng Bacon
+  type:
+  - '&7&oPagkain'
+  description:
+  - Isang simpleng klasiko!
+  stats:
+  - '&8⇨ &7Paggaling: &b2 Puso'
+  - '&8⇨ &bKalakasan I &7(10:00)'
+  - '&8⇨ &bKabilisan I &7(10:00)'
+CLT_BAGEL:
+  name: Bagel
+  type:
+  - '&7&oPagkain'
+  description:
+  - Tinusta? O baka naman...
+  stats:
+  - '&8⇨ &7Paggaling: &b2.5 Puso'
+CLT_BAGEL_BITE:
+  name: Munting Bagel
+  type:
+  - '&7&oPagkain'
+  description:
+  - Kumain ng pizza kahit kailan!
+  stats:
+  - '&8⇨ &7Pinapaso ang bibig mo sa bawat kagat!'
+CLT_BAGEL_CREAM_CHEESE:
+  name: Bagel na may Kremang Keso
+  type:
+  - '&7&oPagkain'
+  description:
+  - Sa sobrang sarap, siguradong hihingi ka pa ng isa.
+  stats:
+  - '&8⇨ &7Paggaling: &b5 Puso'
+  - '&8⇨ &bHusay ng Lusog I &7(10:00)'
+CLT_BANANA:
+  name: Saging
+  type:
+  - '&7&oAni'
+  description:
+  - Bilib ako sa itsura nito, pati sa balat!
+CLT_BASIL:
+  name: Balanoy
+  type:
+  - '&7&oAni'
+  description:
+  - Matamis na dahon na may banayad na anghang sa dulo.
+CLT_BAY_LEAF:
+  name: Dahon ng Laurel
+  type:
+  - '&7&oAni'
+  description:
+  - Matapang na pampabango na maraming gamit.
+CLT_BELL_PEPPER:
+  name: Atsal
+  type:
+  - '&7&oAni'
+  description:
+  - Parang kampana, tunog na tunog ang katotohanan!
+CLT_BISCUIT:
+  name: Biskwit
+  type:
+  - '&7&oPagkain'
+  description:
+  - Maliit na meryenda na may napakalaking sarap.
+  stats: &id002
+  - '&8⇨ &7Inihahagis ka paitaas sa ere'
+CLT_BISCUIT_BASE:
+  name: Sapin ng Biskwit
+  type:
+  - '&7&oAni'
+  description:
+  - Porke't lapad na ito, hindi ibig sabihin
+  - na puwede mo na itong kainin nang hilaw.
+CLT_BISCUIT_DOUGH:
+  name: Masa ng Biskwit
+  type:
+  - '&7&oAni'
+  description:
+  - 'Paalalahanan mo lang ang sarili mo: "Huwag kainin nang hilaw."'
+CLT_BLACK_BEANS:
+  name: Itim na Bitsuwelas
+  type:
+  - '&7&oAni'
+  description:
+  - Masarap na protinang pang-vegetarian.
+CLT_BLENDED_APPLE:
+  name: Giniling na Mansanas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_APRICOT:
+  name: Giniling na Aprikot
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_ARTICHOKE:
+  name: Giniling na Alkatsopas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_ASPARAGUS:
+  name: Giniling na Asparagus
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_AUBERGINE:
+  name: Giniling na Talong
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_AVOCADO:
+  name: Giniling na Abukado
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_BANANA:
+  name: Giniling na Saging
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_BASIL:
+  name: Giniling na Balanoy
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_BAY_LEAF:
+  name: Giniling na Dahon ng Laurel
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_BEEF:
+  name: Giniling na Karneng Baka
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_BEETROOT:
+  name: Giniling na Remolatsa
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_BELL_PEPPER:
+  name: Giniling na Atsal
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_BLACK_BEANS:
+  name: Giniling na Itim na Bitsuwelas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_BREAD:
+  name: Giniling na Tinapay
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_BROCCOLI:
+  name: Giniling na Brokoli
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_BROWN_MUSHROOM:
+  name: Giniling na Kayumangging Kabute
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_BRUSSELS_SPROUTS:
+  name: Giniling na Repolyong Brussels
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_CABBAGE:
+  name: Giniling na Repolyo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_CARROT:
+  name: Giniling na Karot
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_CAULIFLOWER:
+  name: Giniling na Koliplor
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_CAYENNE_PEPPER:
+  name: Giniling na Siling Cayenne
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_CELERIAC:
+  name: Giniling na Kintsay-ugat
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_CELERY:
+  name: Giniling na Kintsay
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_CHERRY:
+  name: Giniling na Seresa
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_CHESTNUT:
+  name: Giniling na Kastanyas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_CHICKEN:
+  name: Giniling na Manok
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_CHICKPEAS:
+  name: Giniling na Garbansos
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_CHICORY:
+  name: Giniling na Tsikorya
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_CHILLY_PEPPER:
+  name: Giniling na Sili
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_CHIVES:
+  name: Giniling na Kutsay
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_CHORUS_FRUIT:
+  name: Giniling na Korong-bunga
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_CILANTRO:
+  name: Giniling na Kulantro
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_CINNAMON:
+  name: Giniling na Kanela
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_CLOVE:
+  name: Giniling na Klabo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_COCOA_BEANS:
+  name: Giniling na Kakaw
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_COD:
+  name: Giniling na Bakalaw
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_COURGETTE:
+  name: Giniling na Sukini
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_CUCUMBER:
+  name: Giniling na Pipino
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_CUMIN:
+  name: Giniling na Komino
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_CURRY_LEAF:
+  name: Giniling na Dahon ng Kari
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_DILL:
+  name: Giniling na Eneldo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_EGG:
+  name: Giniling na Itlog
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_ENCHANTED_GOLDEN_APPLE:
+  name: Giniling na Masalamangkang Mansanas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_FENNEL:
+  name: Giniling na Haras
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_GARLIC:
+  name: Giniling na Bawang
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_GINGER:
+  name: Giniling na Luya
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_GLOW_BERRIES:
+  name: Giniling na Bungansinag
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_GOLDEN_APPLE:
+  name: Giniling na Gintong Mansanas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_GOLDEN_CARROT:
+  name: Giniling na Gintong Karot
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_GRAPE:
+  name: Giniling na Ubas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_GREEN_APPLE:
+  name: Giniling na Berdeng Mansanas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_GREEN_BEANS:
+  name: Giniling na Bitsuwelas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_GREEN_ONION:
+  name: Giniling na Dahon ng Sibuyas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_HAZELNUT:
+  name: Giniling na Abelyana
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_HORSERADISH:
+  name: Giniling na Labanos-kabayo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_JALAPENO:
+  name: Giniling na Siling Jalapeño
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_JASMINE:
+  name: Giniling na Sampagita
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_JUNIPER_BERRY:
+  name: Giniling na Bunga ng Junipero
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_KAFFIR_LIME:
+  name: Giniling na Dahon ng Kabuyaw
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_KALE:
+  name: Giniling na Kale
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_KELP:
+  name: Giniling na Kelp
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_KIWI:
+  name: Giniling na Kiwi
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_LAVENDER:
+  name: Giniling na Lavanda
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_LEEK:
+  name: Giniling na Liki
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_LEMON:
+  name: Giniling na Limon
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_LETTUCE:
+  name: Giniling na Litsugas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_LICORICE:
+  name: Giniling na Regalis
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_LIME:
+  name: Giniling na Dayap
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_MACE:
+  name: Giniling na Masis
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_MANGO:
+  name: Giniling na Mangga
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_MARJORAM:
+  name: Giniling na Mayorana
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_MARROW:
+  name: Giniling na Upo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_MELON:
+  name: Giniling na Pakwan
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_MINT:
+  name: Giniling na Yerba Buena
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_MUSTARD_SEEDS:
+  name: Giniling na Buto ng Mustasa
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_MUTTON:
+  name: Giniling na Karne ng Tupa
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_NETTLES:
+  name: Giniling na Lipa
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_OKRA:
+  name: Giniling na Okra
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_ONION:
+  name: Giniling na Sibuyas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_ORANGE:
+  name: Giniling na Dalandan
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_OREGANO:
+  name: Giniling na Oregano
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_PARSLEY:
+  name: Giniling na Perehil
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_PARSNIP:
+  name: Giniling na Pastinaka
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_PEA:
+  name: Giniling na Gisantes
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_PEACH:
+  name: Giniling na Melokoton
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_PEANUT:
+  name: Giniling na Mani
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_PEAR:
+  name: Giniling na Peras
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_PECAN:
+  name: Giniling na Pekan
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_PEPPER:
+  name: Giniling na Paminta
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_PEPPERONI:
+  name: Giniling na Pepperoni
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_PINEAPPLE:
+  name: Giniling na Pinya
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_PINTO_BEANS:
+  name: Giniling na Bitsuwelas na Pinto
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_PORKCHOP:
+  name: Giniling na Porkchop
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_POTATO:
+  name: Giniling na Patatas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_PUFFERFISH:
+  name: Giniling na Buteteng-laot
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_PUMPKIN:
+  name: Giniling na Kalabasa
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_RABBIT:
+  name: Giniling na Kuneho
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_RADDISH:
+  name: Giniling na Labanos
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_RADICCHIO:
+  name: Giniling na Pulang Tsikorya
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_RAPESEED:
+  name: Giniling na Kanola
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_RED_MUSHROOM:
+  name: Giniling na Pulang Kabute
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_RHUBARB:
+  name: Giniling na Ruibarbo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_RICE:
+  name: Giniling na Bigas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_ROSEMARY:
+  name: Giniling na Romero
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_ROTTEN_FLESH:
+  name: Giniling na Bulok na Laman
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_RUNNER_BEANS:
+  name: Giniling na Sitaw
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_RUTABAGA:
+  name: Giniling na Rutabaga
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_SALMON:
+  name: Giniling na Salmon
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_SASSAFRAS:
+  name: Giniling na Sasapras
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_SHALLOT:
+  name: Giniling na Sibuyas Tagalog
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_SHISO:
+  name: Giniling na Shiso
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_SOY_BEANS:
+  name: Giniling na Utaw
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_SPINACH:
+  name: Giniling na Espinaka
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_STAR_ANISE:
+  name: Giniling na Sanke
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_STRAWBERRY:
+  name: Giniling na Strawberry
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_SUGAR:
+  name: Giniling na Asukal
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_SWEETCORN:
+  name: Giniling na Mais
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_SWEET_BERRIES:
+  name: Giniling na Bungantamis
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_SWEET_POTATO:
+  name: Giniling na Kamote
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_TARRAGON:
+  name: Giniling na Taragon
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_THYME:
+  name: Giniling na Tomilyo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_TOMATO:
+  name: Giniling na Kamatis
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_TURMERIC:
+  name: Giniling na Luyang Dilaw
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_TURNIP:
+  name: Giniling na Singkamas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_VANILLA:
+  name: Giniling na Banilya
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_WASABI:
+  name: Giniling na Wasabi
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLENDED_WHEAT:
+  name: Giniling na Trigo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BLUE_CANDY:
+  name: Asul na Kendi
+  type:
+  - '&7&oPagkain'
+  description:
+  - Isang kendi na nakatutuwa sa tamis.
+  stats:
+  - '&8⇨ &7Nagpapalabas ng isang Alalay'
+CLT_BOILED_APPLE:
+  name: Nilagang Mansanas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_APRICOT:
+  name: Nilagang Aprikot
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_ARTICHOKE:
+  name: Nilagang Alkatsopas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_ASPARAGUS:
+  name: Nilagang Asparagus
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_AUBERGINE:
+  name: Nilagang Talong
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_AVOCADO:
+  name: Nilagang Abukado
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_BANANA:
+  name: Nilagang Saging
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_BASIL:
+  name: Nilagang Balanoy
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_BAY_LEAF:
+  name: Nilagang Dahon ng Laurel
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_BEEF:
+  name: Nilagang Karneng Baka
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_BEETROOT:
+  name: Nilagang Remolatsa
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_BELL_PEPPER:
+  name: Nilagang Atsal
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_BLACK_BEANS:
+  name: Nilagang Itim na Bitsuwelas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_BREAD:
+  name: Nilagang Tinapay
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_BROCCOLI:
+  name: Nilagang Brokoli
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_BROWN_MUSHROOM:
+  name: Nilagang Kayumangging Kabute
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_BRUSSELS_SPROUTS:
+  name: Nilagang Repolyong Brussels
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_CABBAGE:
+  name: Nilagang Repolyo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_CARROT:
+  name: Nilagang Karot
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_CAULIFLOWER:
+  name: Nilagang Koliplor
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_CAYENNE_PEPPER:
+  name: Nilagang Siling Cayenne
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_CELERIAC:
+  name: Nilagang Kintsay-ugat
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_CELERY:
+  name: Nilagang Kintsay
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_CHERRY:
+  name: Nilagang Seresa
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_CHESTNUT:
+  name: Nilagang Kastanyas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_CHICKEN:
+  name: Nilagang Manok
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_CHICKPEAS:
+  name: Nilagang Garbansos
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_CHICORY:
+  name: Nilagang Tsikorya
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_CHILLY_PEPPER:
+  name: Nilagang Sili
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_CHIVES:
+  name: Nilagang Kutsay
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_CHORUS_FRUIT:
+  name: Nilagang Korong-bunga
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_CILANTRO:
+  name: Nilagang Kulantro
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_CINNAMON:
+  name: Nilagang Kanela
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_CLOVE:
+  name: Nilagang Klabo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_COCOA_BEANS:
+  name: Nilagang Kakaw
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_COD:
+  name: Nilagang Bakalaw
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_COURGETTE:
+  name: Nilagang Sukini
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_CUCUMBER:
+  name: Nilagang Pipino
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_CUMIN:
+  name: Nilagang Komino
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_CURRY_LEAF:
+  name: Nilagang Dahon ng Kari
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_DILL:
+  name: Nilagang Eneldo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_EGG:
+  name: Nilagang Itlog
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_ENCHANTED_GOLDEN_APPLE:
+  name: Nilagang Masalamangkang Mansanas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_FENNEL:
+  name: Nilagang Haras
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_GARLIC:
+  name: Nilagang Bawang
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_GINGER:
+  name: Nilagang Luya
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_GLOW_BERRIES:
+  name: Nilagang Bungansinag
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_GOLDEN_APPLE:
+  name: Nilagang Gintong Mansanas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_GOLDEN_CARROT:
+  name: Nilagang Gintong Karot
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_GRAPE:
+  name: Nilagang Ubas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_GREEN_APPLE:
+  name: Nilagang Berdeng Mansanas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_GREEN_BEANS:
+  name: Nilagang Bitsuwelas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_GREEN_ONION:
+  name: Nilagang Dahon ng Sibuyas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_HAZELNUT:
+  name: Nilagang Abelyana
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_HORSERADISH:
+  name: Nilagang Labanos-kabayo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_JALAPENO:
+  name: Nilagang Siling Jalapeño
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_JASMINE:
+  name: Nilagang Sampagita
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_JUNIPER_BERRY:
+  name: Nilagang Bunga ng Junipero
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_KAFFIR_LIME:
+  name: Nilagang Dahon ng Kabuyaw
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_KALE:
+  name: Nilagang Kale
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_KELP:
+  name: Nilagang Kelp
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_KIWI:
+  name: Nilagang Kiwi
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_LAVENDER:
+  name: Nilagang Lavanda
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_LEEK:
+  name: Nilagang Liki
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_LEMON:
+  name: Nilagang Limon
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_LETTUCE:
+  name: Nilagang Litsugas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_LICORICE:
+  name: Nilagang Regalis
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_LIME:
+  name: Nilagang Dayap
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_MACE:
+  name: Nilagang Masis
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_MANGO:
+  name: Nilagang Mangga
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_MARJORAM:
+  name: Nilagang Mayorana
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_MARROW:
+  name: Nilagang Upo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_MELON:
+  name: Nilagang Pakwan
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_MINT:
+  name: Nilagang Yerba Buena
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_MUSTARD_SEEDS:
+  name: Nilagang Buto ng Mustasa
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_MUTTON:
+  name: Nilagang Karne ng Tupa
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_NETTLES:
+  name: Nilagang Lipa
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_OKRA:
+  name: Nilagang Okra
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_ONION:
+  name: Nilagang Sibuyas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_ORANGE:
+  name: Nilagang Dalandan
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_OREGANO:
+  name: Nilagang Oregano
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_PARSLEY:
+  name: Nilagang Perehil
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_PARSNIP:
+  name: Nilagang Pastinaka
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_PEA:
+  name: Nilagang Gisantes
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_PEACH:
+  name: Nilagang Melokoton
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_PEANUT:
+  name: Nilagang Mani
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_PEAR:
+  name: Nilagang Peras
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_PECAN:
+  name: Nilagang Pekan
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_PEPPER:
+  name: Nilagang Paminta
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_PEPPERONI:
+  name: Nilagang Pepperoni
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_PINEAPPLE:
+  name: Nilagang Pinya
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_PINTO_BEANS:
+  name: Nilagang Bitsuwelas na Pinto
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_PORKCHOP:
+  name: Nilagang Porkchop
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_POTATO:
+  name: Nilagang Patatas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_PUFFERFISH:
+  name: Nilagang Buteteng-laot
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_PUMPKIN:
+  name: Nilagang Kalabasa
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_RABBIT:
+  name: Nilagang Kuneho
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_RADDISH:
+  name: Nilagang Labanos
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_RADICCHIO:
+  name: Nilagang Pulang Tsikorya
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_RAPESEED:
+  name: Nilagang Kanola
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_RED_MUSHROOM:
+  name: Nilagang Pulang Kabute
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_RHUBARB:
+  name: Nilagang Ruibarbo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_RICE:
+  name: Nilagang Bigas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_ROSEMARY:
+  name: Nilagang Romero
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_ROTTEN_FLESH:
+  name: Nilagang Bulok na Laman
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_RUNNER_BEANS:
+  name: Nilagang Sitaw
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_RUTABAGA:
+  name: Nilagang Rutabaga
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_SALMON:
+  name: Nilagang Salmon
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_SASSAFRAS:
+  name: Nilagang Sasapras
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_SHALLOT:
+  name: Nilagang Sibuyas Tagalog
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_SHISO:
+  name: Nilagang Shiso
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_SOY_BEANS:
+  name: Nilagang Utaw
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_SPINACH:
+  name: Nilagang Espinaka
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_STAR_ANISE:
+  name: Nilagang Sanke
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_STRAWBERRY:
+  name: Nilagang Strawberry
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_SUGAR:
+  name: Nilagang Asukal
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_SWEETCORN:
+  name: Nilagang Mais
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_SWEET_BERRIES:
+  name: Nilagang Bungantamis
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_SWEET_POTATO:
+  name: Nilagang Kamote
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_TARRAGON:
+  name: Nilagang Taragon
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_THYME:
+  name: Nilagang Tomilyo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_TOMATO:
+  name: Nilagang Kamatis
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_TURMERIC:
+  name: Nilagang Luyang Dilaw
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_TURNIP:
+  name: Nilagang Singkamas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_VANILLA:
+  name: Nilagang Banilya
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_WASABI:
+  name: Nilagang Wasabi
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOILED_WHEAT:
+  name: Nilagang Trigo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_BOWL_OF_STEVE:
+  name: Mangkok ng... Steve?
+  type:
+  - '&7&oPagkain'
+  description:
+  - Ano ba talaga 'to, &%£$
+  stats:
+  - '&8⇨ &bPagpapagod X &7(10:00)'
+  - '&8⇨ &bKabagalan VI &7(10:00)'
+  - '&8⇨ &bKalakasan X &7(10:00)'
+  - '&8⇨ &7Ibinababa ka sa 1/2 puso'
+CLT_BROCCOLI:
+  name: Brokoli
+  type:
+  - '&7&oAni'
+  description:
+  - Higante ka bang may hawak na puno?
+  - Hindi, maliit na puno lang ito :)
+CLT_BRUSSELS_SPROUTS:
+  name: Repolyong Brussels
+  type:
+  - '&7&oAni'
+  description:
+  - Isang masarap na pampa-utot.
+CLT_BUSH_ARTICHOKE:
+  name: Palumpong na Alkatsopas
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Pinakamainam na palumpong para sakalin ang isang
+  - artista. Hay. Mahirap talaga mag-pun.
+CLT_BUSH_ASPARAGUS:
+  name: Palumpong na Asparagus
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Ang asparagus na ito ay mahusay na
+  - maniniktik, tangkay sa tangkay!
+CLT_BUSH_AUBERGINE:
+  name: Palumpong na Talong
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Ayokong gamitin ang salitang eggplant. Basta ayoko.
+CLT_BUSH_AVOCADO:
+  name: Palumpong na Abukado
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Ang palumpong na ito ay sadyang pinalahi para hindi
+  - gumamit ng sobrang tubig.
+CLT_BUSH_BASIL:
+  name: Palumpong na Balanoy
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Isang masayahing palumpong na puno ng kapilyuhan.
+CLT_BUSH_BAY_LEAF:
+  name: Palumpong na Laurel
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Umaabot nang ilang milya ang amoy ng palumpong na ito.
+CLT_BUSH_BELL_PEPPER:
+  name: Palumpong na Atsal
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Mag-ingat sa pagdaan dito, baka mapatunog
+  - mo ang kampana.
+CLT_BUSH_BLACK_BEANS:
+  name: Palumpong na Itim na Bitsuwelas
+  type:
+  - '&7&oPalumpong'
+  description:
+  - 'Bumubulong sa iyo ang palumpong na ito:'
+  - Isa kang dakilang tao... este, bitsuwelas.
+CLT_BUSH_BROCCOLI:
+  name: Palumpong na Brokoli
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Maliliit na punong puwedeng kainin? Sino ang nag-imbento nito!?
+CLT_BUSH_BRUSSELS_SPROUTS:
+  name: Palumpong na Repolyong Brussels
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Isang palumpong na minsan ay naglalabas ng
+  - mabahong hangin.
+CLT_BUSH_CABBAGE:
+  name: Palumpong na Repolyo
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Isang palumpong na may bitbit na mabigat na
+  - emosyonal na repolyo.
+CLT_BUSH_CAULIFLOWER:
+  name: Palumpong na Koliplor
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Isang palumpong na kayang gumawa ng maliliit na ulap
+  - ng ligaya.
+CLT_BUSH_CAYENNE_PEPPER:
+  name: Palumpong na Siling Cayenne
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Isang palumpong na maanghang ang ugali.
+CLT_BUSH_CELERIAC:
+  name: Palumpong na Kintsay-ugat
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Isa na namang ugat na tumutubo sa palumpong?
+  - SefiDumb™
+CLT_BUSH_CELERY:
+  name: Palumpong na Kintsay
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Walang silbi ang palumpong na ito.
+  - Ayaw ni Sefi sa Kintsay.
+CLT_BUSH_CHICKPEAS:
+  name: Palumpong na Garbansos
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Isang palumpong na nilikha sa pagpapalahi ng manok at
+  - gisantes. AGHAM.
+CLT_BUSH_CHICORY:
+  name: Palumpong na Tsikorya
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Akala ko ugat ang tsikorya? Nagsaliksik ba talaga
+  - ang addon na ito!?
+CLT_BUSH_CHILLI_PEPPER:
+  name: Palumpong na Sili
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Tingnan ko pa lang ang palumpong na ito, napapaso na ang dila ko.
+CLT_BUSH_CHIVES:
+  name: Palumpong na Kutsay
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Isang palumpong na namumunga ng, sa madaling salita, pinakamaliit na
+  - sibuyas sa buong mundo.
+CLT_BUSH_CILANTRO:
+  name: Palumpong na Kulantro
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Bahagyang amoy-sitrus at pampalasa ang nagmumula sa palumpong na ito.
+CLT_BUSH_CINNAMON:
+  name: Palumpong na Kanela
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Isang palumpong na nakatutuwa sa bango.
+CLT_BUSH_CLOVE:
+  name: Palumpong na Klabo
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Isang palumpong na nagpapaalala sa akin ng Pasko.
+CLT_BUSH_COURGETTE:
+  name: Palumpong na Sukini
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Bakit paulit-ulit na sinisigaw ng palumpong na ito ang
+  - salitang Zucchini? Siguro Amerikano siya?
+CLT_BUSH_CUCUMBER:
+  name: Palumpong na Pipino
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Ang palumpong na ito ay ginawa para lamang
+  - sa masasarap mong ensalada tuwing tag-init.
+CLT_BUSH_CUMIN:
+  name: Palumpong na Komino
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Isang palumpong na naglalabas ng mainit na amoy-sitrus.
+CLT_BUSH_CURRY_LEAF:
+  name: Palumpong na Kari
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Pinakamasarap kapag binusa nang walang mantika.
+CLT_BUSH_DILL:
+  name: Palumpong na Eneldo
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Mas mabilis tumubo ang palumpong na ito kaysa sa iba.
+CLT_BUSH_FENNEL:
+  name: Palumpong na Haras
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Bakit tinataboy ng palumpong na ito ang mga insekto!?
+CLT_BUSH_GARLIC:
+  name: Palumpong na Bawang
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Ang palumpong na ito ang may pinakamabahong hininga.
+CLT_BUSH_GINGER:
+  name: Palumpong na Luya
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Masarap ang palumpong na ito kapag nilaga nang buo.
+CLT_BUSH_GRAPE:
+  name: Palumpong na Ubas
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Hinog at makatas na ubas na halos kusang nahuhulog
+  - mula sa palumpong.
+CLT_BUSH_GREEN_BEANS:
+  name: Palumpong na Bitsuwelas
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Buhusan ng sarsa ng kamatis ang palumpong na ito para
+  - makagawa ng pork and beans, walang pork.
+CLT_BUSH_GREEN_ONION:
+  name: Palumpong na Dahon ng Sibuyas
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Kilala rin bilang Scallion o Sibuyas na Mura.
+  - Karaniwang mas banayad ang lasa ng Dahon ng
+  - Sibuyas kaysa sa karamihan ng sibuyas.
+CLT_BUSH_HORSERADISH:
+  name: Palumpong na Labanos-kabayo
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Muli, walang saysay talaga na tumutubo ito sa palumpong.
+CLT_BUSH_JALAPENO:
+  name: Palumpong na Siling Jalapeño
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Hawakan mo lang ang palumpong na ito, may
+  - 1% tsansang magliyab ka.
+CLT_BUSH_JASMINE:
+  name: Palumpong na Sampagita
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Napakalambot at napakahinahon ng bango ng palumpong na ito.
+CLT_BUSH_JUNIPER_BERRY:
+  name: Palumpong na Junipero
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Matamis habang nasa palumpong, maanghang kapag tuyo na.
+CLT_BUSH_KAFFIR_LIME:
+  name: Palumpong na Kabuyaw
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Isang palumpong na mas hinahanap ang dahon kaysa sa bunga nito.
+CLT_BUSH_KALE:
+  name: Palumpong na Kale
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Kapag itinanim mo ang palumpong na ito, pakiramdam mo
+  - ay magiging kale-ma lang ang lahat.
+CLT_BUSH_LAVENDER:
+  name: Palumpong na Lavanda
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Ikinakalat ng palumpong na ito ang bango nito kahit saan.
+CLT_BUSH_LEEK:
+  name: Palumpong na Liki
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Alam mo bang ang liki ay sibuyas lang na
+  - naka-korset? Totoong kuwento.
+CLT_BUSH_LETTUCE:
+  name: Palumpong na Litsugas
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Tumutubo ba talaga ang litsugas sa palumpong?
+  - 'Sagot: Hindi, hindi talaga.'
+CLT_BUSH_LICORICE:
+  name: Palumpong na Regalis
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Kadiri
+CLT_BUSH_MACE:
+  name: Palumpong na Masis
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Parang tinataboy ng palumpong na ito ang mga umaatake?
+CLT_BUSH_MARJORAM:
+  name: Palumpong na Mayorana
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Isang malaking palumpong na amoy-kahoy.
+CLT_BUSH_MARROW:
+  name: Palumpong na Upo
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Nagulat ako na kaya ng palumpong na ito ang
+  - sarili nitong bigat.
+CLT_BUSH_MINT:
+  name: Palumpong na Yerba Buena
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Ang palumpong na may pinakamabangong amoy, walang duda.
+CLT_BUSH_MUSTARD:
+  name: Palumpong na Butong Mustasa
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Parang apoy sa loob ng bibig mo.
+CLT_BUSH_NETTLES:
+  name: Palumpong na Lipa
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Mag-ingat sa pagdaan sa palumpong na ito!
+CLT_BUSH_OKRA:
+  name: Palumpong na Okra
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Itinanghal na Numero 1 na gulay ayon sa
+  - Gulay Club ni Okra Winfrey.
+CLT_BUSH_ONION:
+  name: Palumpong na Sibuyas
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Parang naiiyak ba ang palumpong na ito?
+CLT_BUSH_OREGANO:
+  name: Palumpong na Oregano
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Tinataboy ng masangsang na palumpong na ito ang mga bisita.
+CLT_BUSH_PARSLEY:
+  name: Palumpong na Perehil
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Itapon mo na sa lava ang palumpong na ito, ngayon na :D
+CLT_BUSH_PARSNIP:
+  name: Palumpong na Pastinaka
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Laktawan na ang tagapamagitan at ihawin na
+  - mismo ang palumpong.
+CLT_BUSH_PEA:
+  name: Palumpong na Gisantes
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Mas gusto ko ang Q kaysa P
+CLT_BUSH_PEANUTS:
+  name: Palumpong na Mani
+  type:
+  - '&7&oPalumpong'
+  description: &id001
+  - Siksik, mabango at puno ng protina.
+CLT_BUSH_PEPPER:
+  name: Palumpong na Paminta
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Mahalagang bahagi ang Paminta ng
+  - kalakalan ng pampalasa sa pagitan ng India at Europa
+  - mula pa noong panahon ng mga Griyego at Romano.
+CLT_BUSH_PINTO_BEANS:
+  name: Palumpong na Bitsuwelas na Pinto
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Hindi na magtatagal at makapagpapalahi na tayo
+  - ng palumpong na direktang namumunga ng burrito, di ba?
+CLT_BUSH_RADDISH:
+  name: Palumpong na Labanos
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Kagagawa lang ng halamang ito ng skateboard trick.
+  - Talagang Rad...ish. Labanos, gets mo?
+CLT_BUSH_RADICCHIO:
+  name: Palumpong na Pulang Tsikorya
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Gusto mong magmukhang sosyal? Ilagay ang Pulang Tsikorya
+  - sa kahit anong ulam, para lang itong repolyo pero
+  - magmumukha kang pino.
+CLT_BUSH_RAPESEED:
+  name: Palumpong na Kanola
+  type:
+  - '&7&oPalumpong'
+  description:
+  - May lumalabas na malangis na bagay sa palumpong na ito.
+CLT_BUSH_RHUBARB:
+  name: Palumpong na Ruibarbo
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Alam mo bang gulay ang ruibarbo?
+  - Akala ko isang uri iyon ng martilyo.
+CLT_BUSH_RICE:
+  name: Palumpong na Palay
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Ang hari ng pangunahing pagkain. Walang kanin, walang kain!
+CLT_BUSH_ROSEMARY:
+  name: Palumpong na Romero
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Isang palumpong na ang amoy ay nagpapaalala ng tanghalian tuwing Linggo.
+CLT_BUSH_RUNNER_BEANS:
+  name: Palumpong na Sitaw
+  type:
+  - '&7&oPalumpong'
+  description:
+  - May paa ba ang palumpong na ito o.o?
+CLT_BUSH_RUTABAGA:
+  name: Palumpong na Rutabaga
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Swede. Swede iyan.
+CLT_BUSH_SASSAFRAS:
+  name: Palumpong na Sasapras
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Gustong-gusto ng palumpong na ito na itanim malapit sa maliliit na
+  - anyong-tubig.
+CLT_BUSH_SHALLOT:
+  name: Palumpong na Sibuyas Tagalog
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Mabilis mamunga ng magagandang maliliit na sibuyas ang palumpong na ito.
+  - Buti na lang, hindi mo kailangan ng marami.
+CLT_BUSH_SHISO:
+  name: Palumpong na Shiso
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Gusto kong isipin na anak sa pag-ibig ang palumpong na ito
+  - ng palumpong ng yerba buena at ng balanoy. Sayang,
+  - walang pagpapalahi ng palumpong!
+CLT_BUSH_SOY_BEANS:
+  name: Palumpong na Utaw
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Isang palumpong na nakatutuwang kaibigan. Ako ay
+  - soy-ang saya!
+CLT_BUSH_SPINACH:
+  name: Palumpong na Espinaka
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Matalik na kaibigan ni Popeye ang palumpong na ito.
+CLT_BUSH_STAR_ANISE:
+  name: Palumpong na Sanke
+  type:
+  - '&7&oPalumpong'
+  description:
+  - May amoy na nagmumula sa palumpong na ito na napakatangi
+  - sa anis, hindi ka makapaniwala.
+CLT_BUSH_STRAWBERRY:
+  name: Palumpong na Strawberry
+  type:
+  - '&7&oPalumpong'
+  description: *id001
+CLT_BUSH_SWEETCORN:
+  name: Palumpong na Mais
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Sumisigaw ang palumpong na ito na gawin siyang
+  - isang laberinto.
+CLT_BUSH_SWEET_POTATO:
+  name: Palumpong na Kamote
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Napakatamis ng palumpong na ito. Narinig ko itong
+  - pumupuri sa iyo habang hindi ka nakikinig.
+CLT_BUSH_TARRAGON:
+  name: Palumpong na Taragon
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Ayaw ng palumpong na ito na makakuha ng sobrang atensiyon.
+CLT_BUSH_THYME:
+  name: Palumpong na Tomilyo
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Laging kinakapos sa oras... este, sa Tomilyo... ang palumpong na ito. *ubo*
+CLT_BUSH_TOMATO:
+  name: Palumpong na Kamatis
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Hinog at handa na.
+CLT_BUSH_TURMERIC:
+  name: Palumpong na Luyang Dilaw
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Hawakan mo pa lang ang palumpong na ito,
+  - sinasampal na ng anghang ang ilong mo.
+CLT_BUSH_TURNIP:
+  name: Palumpong na Singkamas
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Ayon sa Gobyerno ng Britanya,
+  - lulutasin ng palumpong na ito ang lahat ng problema natin.
+CLT_BUSH_VANILLA:
+  name: Palumpong na Banilya
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Likas na tumutubo ang palumpong na ito malapit sa mga StarBucks.
+CLT_BUSH_WASABI:
+  name: Palumpong na Wasabi
+  type:
+  - '&7&oPalumpong'
+  description:
+  - Isa na namang ugat na tumutubo sa palumpong?
+  - Hay...
+CLT_CABBAGE:
+  name: Repolyo
+  type:
+  - '&7&oAni'
+  description:
+  - Isang bagaheng puno ng repolyo.
+CLT_CAESAR_SALAD:
+  name: Ensaladang Caesar
+  type:
+  - '&7&oPagkain'
+  description:
+  - Isang masustansiyang klasiko.
+  stats:
+  - '&8⇨ &7Paggaling: &b6 Puso'
+  - '&8⇨ &bKabilisan I &7(10:00)'
+  - '&8⇨ &bPaglaho I &7(10:00)'
+  - '&8⇨ &bMarahang Hulog I &7(10:00)'
+CLT_CAJUN_GARLIC_BUTTER_COD:
+  name: Bakalaw sa Cajun na Mantikilya at Bawang
+  type:
+  - '&7&oPagkain'
+  description:
+  - Napakasimpleng ulam na sumasabog sa lasa.
+  stats:
+  - '&8⇨ &7Paggaling: &b4 Puso'
+  - '&8⇨ &bLunas II &7(10:00)'
+  - '&8⇨ &bKabilisan I &7(10:00)'
+CLT_CAULIFLOWER:
+  name: Koliplor
+  type:
+  - '&7&oAni'
+  description:
+  - Isang ulap na madadala mo kahit saan!
+CLT_CAYENNE_PEPPER:
+  name: Siling Cayenne
+  type:
+  - '&7&oAni'
+  description:
+  - Malambot at maanghang na meryenda.
+CLT_CELERIAC:
+  name: Kintsay-ugat
+  type:
+  - '&7&oAni'
+  description:
+  - Isang matibay na ugat na nakaugat (heh) sa maraming
+  - tradisyonal na resipe.
+CLT_CELERY:
+  name: Kintsay
+  type:
+  - '&7&oAni'
+  description:
+  - Literal na mahiblang tubig lang ito. Kumbinsihin
+  - mo akong hindi.
+CLT_CHEESE_BURGER:
+  name: Burger
+  type:
+  - '&7&oPagkain'
+  description:
+  - Simpleng cheeseburger, pero walang tatalo rito!
+  stats:
+  - '&8⇨ &7Paggaling: &b4 Puso'
+  - '&8⇨ &bLunas III &7(10:00)'
+CLT_CHEESY_SCALLOPED_COURGETTE:
+  name: Sukining Inihurno sa Keso
+  type:
+  - '&7&oPagkain'
+  description:
+  - Bersiyong mababa sa carbs ng isang kamangha-manghang klasiko.
+  stats:
+  - '&8⇨ &7Paggaling: &b2 Puso'
+  - '&8⇨ &bMatang-pusa I &7(10:00)'
+  - '&8⇨ &bPaglaho I &7(10:00)'
+CLT_CHERRY:
+  name: Seresa
+  type:
+  - '&7&oAni'
+  description:
+  - Ay, akala ko tumutubo silang naka-glacé na, sayang!
+CLT_CHESTNUT:
+  name: Kastanyas
+  type:
+  - '&7&oAni'
+  description:
+  - Ginawa para ihurno, kaagad.
+CLT_CHICKEN_ALFREDO_MAC_AND_CHEESE:
+  name: Macaroni at Keso na may Manok Alfredo
+  type:
+  - '&7&oPagkain'
+  description:
+  - Sosyal na bersiyon ng karaniwang klasiko.
+  stats:
+  - '&8⇨ &7Paggaling: &b1 Puso'
+  - '&8⇨ &bKatatagan sa Apoy II &7(10:00)'
+  - '&8⇨ &bResistensiya III &7(10:00)'
+CLT_CHICKEN_PASTA_BAKE:
+  name: Inihurnong Pasta na may Manok
+  type:
+  - '&7&oPagkain'
+  description:
+  - Ang laging kinakain ng bawat estudyante.
+  stats:
+  - '&8⇨ &7Paggaling: &b5 Puso'
+  - '&8⇨ &bMatang-pusa I &7(10:00)'
+  - '&8⇨ &bPaghinga sa Tubig I &7(10:00)'
+CLT_CHICKEN_POT_PIE:
+  name: Pay ng Manok sa Palayok
+  type:
+  - '&7&oPagkain'
+  description:
+  - Mainit na pagkaing tumatagos hanggang puso.
+  stats:
+  - '&8⇨ &7Paggaling: &b10 Puso'
+  - '&8⇨ &bHusay ng Talon II &7(10:00)'
+  - '&8⇨ &bKatigmakan I &7(10:00)'
+CLT_CHICKPEAS:
+  name: Garbansos
+  type:
+  - '&7&oAni'
+  description:
+  - Kayang kumanta ng Black Eyed Peas, pero ang garbansos, hummus lang ang kaya.
+CLT_CHICORY:
+  name: Tsikorya
+  type:
+  - '&7&oAni'
+  description:
+  - Malinamnam at mapait na ugat.
+CLT_CHILLY_PEPPER:
+  name: Sili
+  type:
+  - '&7&oAni'
+  description:
+  - Kaya kong kumain ng buong sili nang hindi umiiyak.
+  - Sige, kalahati.
+  - HMMMMM.... 1/4
+  - '...'
+  - Sige na nga, kaya ko lang itong idikit sa dila ko
+CLT_CHIVES:
+  name: Kutsay
+  type:
+  - '&7&oAni'
+  description:
+  - Isang matamis na damong-gamot na lasang sibuyas.
+CLT_CHOPPED_APPLE:
+  name: Tinadtad na Mansanas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_APRICOT:
+  name: Tinadtad na Aprikot
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_ARTICHOKE:
+  name: Tinadtad na Alkatsopas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_ASPARAGUS:
+  name: Tinadtad na Asparagus
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_AUBERGINE:
+  name: Tinadtad na Talong
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_AVOCADO:
+  name: Tinadtad na Abukado
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_BANANA:
+  name: Tinadtad na Saging
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_BASIL:
+  name: Tinadtad na Balanoy
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_BAY_LEAF:
+  name: Tinadtad na Dahon ng Laurel
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_BEEF:
+  name: Tinadtad na Karneng Baka
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_BEETROOT:
+  name: Tinadtad na Remolatsa
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_BELL_PEPPER:
+  name: Tinadtad na Atsal
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_BLACK_BEANS:
+  name: Tinadtad na Itim na Bitsuwelas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_BREAD:
+  name: Tinadtad na Tinapay
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_BROCCOLI:
+  name: Tinadtad na Brokoli
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_BROWN_MUSHROOM:
+  name: Tinadtad na Kayumangging Kabute
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_BRUSSELS_SPROUTS:
+  name: Tinadtad na Repolyong Brussels
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_CABBAGE:
+  name: Tinadtad na Repolyo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_CARROT:
+  name: Tinadtad na Karot
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_CAULIFLOWER:
+  name: Tinadtad na Koliplor
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_CAYENNE_PEPPER:
+  name: Tinadtad na Siling Cayenne
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_CELERIAC:
+  name: Tinadtad na Kintsay-ugat
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_CELERY:
+  name: Tinadtad na Kintsay
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_CHERRY:
+  name: Tinadtad na Seresa
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_CHESTNUT:
+  name: Tinadtad na Kastanyas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_CHICKEN:
+  name: Tinadtad na Manok
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_CHICKPEAS:
+  name: Tinadtad na Garbansos
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_CHICORY:
+  name: Tinadtad na Tsikorya
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_CHILLY_PEPPER:
+  name: Tinadtad na Sili
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_CHIVES:
+  name: Tinadtad na Kutsay
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_CHORUS_FRUIT:
+  name: Tinadtad na Korong-bunga
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_CILANTRO:
+  name: Tinadtad na Kulantro
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_CINNAMON:
+  name: Tinadtad na Kanela
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_CLOVE:
+  name: Tinadtad na Klabo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_COCOA_BEANS:
+  name: Tinadtad na Kakaw
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_COD:
+  name: Tinadtad na Bakalaw
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_COURGETTE:
+  name: Tinadtad na Sukini
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_CUCUMBER:
+  name: Tinadtad na Pipino
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_CUMIN:
+  name: Tinadtad na Komino
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_CURRY_LEAF:
+  name: Tinadtad na Dahon ng Kari
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_DILL:
+  name: Tinadtad na Eneldo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_EGG:
+  name: Tinadtad na Itlog
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_ENCHANTED_GOLDEN_APPLE:
+  name: Tinadtad na Masalamangkang Mansanas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_FENNEL:
+  name: Tinadtad na Haras
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_GARLIC:
+  name: Tinadtad na Bawang
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_GINGER:
+  name: Tinadtad na Luya
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_GLOW_BERRIES:
+  name: Tinadtad na Bungansinag
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_GOLDEN_APPLE:
+  name: Tinadtad na Gintong Mansanas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_GOLDEN_CARROT:
+  name: Tinadtad na Gintong Karot
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_GRAPE:
+  name: Tinadtad na Ubas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_GREEN_APPLE:
+  name: Tinadtad na Berdeng Mansanas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_GREEN_BEANS:
+  name: Tinadtad na Bitsuwelas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_GREEN_ONION:
+  name: Tinadtad na Dahon ng Sibuyas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_HAZELNUT:
+  name: Tinadtad na Abelyana
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_HORSERADISH:
+  name: Tinadtad na Labanos-kabayo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_JALAPENO:
+  name: Tinadtad na Siling Jalapeño
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_JASMINE:
+  name: Tinadtad na Sampagita
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_JUNIPER_BERRY:
+  name: Tinadtad na Bunga ng Junipero
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_KAFFIR_LIME:
+  name: Tinadtad na Dahon ng Kabuyaw
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_KALE:
+  name: Tinadtad na Kale
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_KELP:
+  name: Tinadtad na Kelp
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_KIWI:
+  name: Tinadtad na Kiwi
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_LAVENDER:
+  name: Tinadtad na Lavanda
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_LEEK:
+  name: Tinadtad na Liki
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_LEMON:
+  name: Tinadtad na Limon
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_LETTUCE:
+  name: Tinadtad na Litsugas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_LICORICE:
+  name: Tinadtad na Regalis
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_LIME:
+  name: Tinadtad na Dayap
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_MACE:
+  name: Tinadtad na Masis
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_MANGO:
+  name: Tinadtad na Mangga
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_MARJORAM:
+  name: Tinadtad na Mayorana
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_MARROW:
+  name: Tinadtad na Upo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_MELON:
+  name: Tinadtad na Pakwan
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_MINT:
+  name: Tinadtad na Yerba Buena
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_MUSTARD_SEEDS:
+  name: Tinadtad na Buto ng Mustasa
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_MUTTON:
+  name: Tinadtad na Karne ng Tupa
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_NETTLES:
+  name: Tinadtad na Lipa
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_OKRA:
+  name: Tinadtad na Okra
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_ONION:
+  name: Tinadtad na Sibuyas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_ORANGE:
+  name: Tinadtad na Dalandan
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_OREGANO:
+  name: Tinadtad na Oregano
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_PARSLEY:
+  name: Tinadtad na Perehil
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_PARSNIP:
+  name: Tinadtad na Pastinaka
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_PEA:
+  name: Tinadtad na Gisantes
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_PEACH:
+  name: Tinadtad na Melokoton
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_PEANUT:
+  name: Tinadtad na Mani
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_PEAR:
+  name: Tinadtad na Peras
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_PECAN:
+  name: Tinadtad na Pekan
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_PEPPER:
+  name: Tinadtad na Paminta
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_PEPPERONI:
+  name: Tinadtad na Pepperoni
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_PINEAPPLE:
+  name: Tinadtad na Pinya
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_PINTO_BEANS:
+  name: Tinadtad na Bitsuwelas na Pinto
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_PORKCHOP:
+  name: Tinadtad na Porkchop
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_POTATO:
+  name: Tinadtad na Patatas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_PUFFERFISH:
+  name: Tinadtad na Buteteng-laot
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_PUMPKIN:
+  name: Tinadtad na Kalabasa
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_RABBIT:
+  name: Tinadtad na Kuneho
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_RADDISH:
+  name: Tinadtad na Labanos
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_RADICCHIO:
+  name: Tinadtad na Pulang Tsikorya
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_RAPESEED:
+  name: Tinadtad na Kanola
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_RED_MUSHROOM:
+  name: Tinadtad na Pulang Kabute
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_RHUBARB:
+  name: Tinadtad na Ruibarbo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_RICE:
+  name: Tinadtad na Bigas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_ROSEMARY:
+  name: Tinadtad na Romero
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_ROTTEN_FLESH:
+  name: Tinadtad na Bulok na Laman
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_RUNNER_BEANS:
+  name: Tinadtad na Sitaw
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_RUTABAGA:
+  name: Tinadtad na Rutabaga
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_SALMON:
+  name: Tinadtad na Salmon
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_SASSAFRAS:
+  name: Tinadtad na Sasapras
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_SHALLOT:
+  name: Tinadtad na Sibuyas Tagalog
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_SHISO:
+  name: Tinadtad na Shiso
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_SOY_BEANS:
+  name: Tinadtad na Utaw
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_SPINACH:
+  name: Tinadtad na Espinaka
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_STAR_ANISE:
+  name: Tinadtad na Sanke
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_STRAWBERRY:
+  name: Tinadtad na Strawberry
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_SUGAR:
+  name: Tinadtad na Asukal
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_SWEETCORN:
+  name: Tinadtad na Mais
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_SWEET_BERRIES:
+  name: Tinadtad na Bungantamis
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_SWEET_POTATO:
+  name: Tinadtad na Kamote
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_TARRAGON:
+  name: Tinadtad na Taragon
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_THYME:
+  name: Tinadtad na Tomilyo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_TOMATO:
+  name: Tinadtad na Kamatis
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_TURMERIC:
+  name: Tinadtad na Luyang Dilaw
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_TURNIP:
+  name: Tinadtad na Singkamas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_VANILLA:
+  name: Tinadtad na Banilya
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_WASABI:
+  name: Tinadtad na Wasabi
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CHOPPED_WHEAT:
+  name: Tinadtad na Trigo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_CILANTRO:
+  name: Kulantro
+  type:
+  - '&7&oAni'
+  description:
+  - Banayad na pampalasa na may kaunting sitrus.
+CLT_CINNAMON:
+  name: Kanela
+  type:
+  - '&7&oAni'
+  description:
+  - Masarap nguyain habang nasa anyong patpat pa.
+CLT_CINNAMON_ROLL:
+  name: Rolyong Kanela
+  type:
+  - '&7&oPagkain'
+  description:
+  - Isang matamis na sarap na binilot para sa saya.
+  - Kapag kinain, mababaligtad ang mundo mo!
+  stats:
+  - '&8⇨ &7Paggaling: &b4 Puso'
+  - '&8⇨ &bPaglutang I &7(10:00)'
+  - '&8⇨ &bMarahang Hulog I &7(10:00)'
+CLT_CLOVE:
+  name: Klabo
+  type:
+  - '&7&oAni'
+  description:
+  - Napakainit at napakatinding lasa.
+CLT_COMPRESSED_BISCUIT:
+  name: Siksik na Biskwit
+  type:
+  - '&7&oPagkain'
+  description:
+  - Maliit na meryenda na may mas napakalaki pang sarap.
+  stats: *id002
+CLT_COOKED_BURGER_PATTY:
+  name: Lutong Patty ng Burger
+  type:
+  - '&7&oAni'
+  description:
+  - Tumutulo pa
+CLT_COUNTER_BLENDER:
+  name: Mesa ng Kusina (Blender)
+  type:
+  - '&7&oMakina'
+  description:
+  - I-right click ang block na ito para gilingin ang ani.
+  usage: &id003
+  - Tip! Kapag nailagay na, puwede kang mag-shift + right
+  - click at ang block na hawak mo ay magpapalit
+  - ng disenyo ng kusina. Subukan mo!
+CLT_COUNTER_BOILING:
+  name: Mesa ng Kusina (Kalderong Pampakulo)
+  type:
+  - '&7&oMakina'
+  description:
+  - Kayang magpakulo ng ilang item.
+  usage: *id003
+CLT_COUNTER_CHOPPING:
+  name: Mesa ng Kusina (Sangkalan)
+  type:
+  - '&7&oMakina'
+  description:
+  - I-right click ang block na ito para tadtarin ang ani.
+  usage: *id003
+CLT_COUNTER_FINISHING:
+  name: Mesa ng Kusina (Pagtatapos)
+  type:
+  - '&7&oMakina'
+  description:
+  - Ginagamit para gawing ibang labis na produkto o
+  - tapos na pagkain ang mga produkto at labis na produkto.
+  usage: *id003
+CLT_COUNTER_FRYING:
+  name: Mesa ng Kusina (Kawali)
+  type:
+  - '&7&oMakina'
+  description:
+  - Kayang magprito ng ilang ani.
+  usage: *id003
+CLT_COUNTER_GRILL:
+  name: Mesa ng Kusina (Ihawan)
+  type:
+  - '&7&oMakina'
+  description:
+  - Kayang mag-ihaw ng ilang ani.
+  usage: *id003
+CLT_COUNTER_GRINDER:
+  name: Mesa ng Kusina (Dikdikan at Pandikdik)
+  type:
+  - '&7&oMakina'
+  description:
+  - I-right click ang block na ito para dikdikin ang ani.
+  usage: *id003
+CLT_COUNTER_MASHER:
+  name: Mesa ng Kusina (Mangkok na Pandurog)
+  type:
+  - '&7&oMakina'
+  description:
+  - I-right click ang block na ito para durugin ang ani.
+  usage: *id003
+CLT_COUNTER_NOTHING:
+  name: Mesa ng Kusina (Walang Laman)
+  type:
+  - '&7&oMakina'
+  description:
+  - Pandekorasyon lang!
+  usage: *id003
+CLT_COUNTER_OVEN:
+  name: Mesa ng Kusina (Hurno)
+  type:
+  - '&7&oMakina'
+  description:
+  - Kayang maghurno ng ilang ani.
+  usage: *id003
+CLT_COUNTER_SLICING:
+  name: Mesa ng Kusina (Tabla ng Paghiwa)
+  type:
+  - '&7&oMakina'
+  description:
+  - I-right click ang block na ito para hiwain ang ani.
+  usage: *id003
+CLT_COURGETTE:
+  name: Sukini
+  type:
+  - '&7&oAni'
+  description:
+  - 'Tip: Kudkurin ito sa kahit anong sarsa ng pasta'
+  - para sa lalim at tekstura.
+CLT_CREAM_CHEESE:
+  name: Kremang Keso
+  type:
+  - '&7&oAni'
+  description:
+  - Mas kremoso kaysa makeso.
+CLT_CROP_STICKS:
+  name: Patpat ng Pananim
+  type:
+  - '&7&oKasangkapan'
+  description:
+  - Kailangang ilagay ang patpat ng pananim sa
+  - nakatanim na binhi para ito tumubo.
+  - Kapag naglagay ng ikalawang set, magka-cross-crop
+  - ang halaman kaya ito makakakalat at/o
+  - makakapagpalahi.
+CLT_CUCUMBER:
+  name: Pipino
+  type:
+  - '&7&oAni'
+  description:
+  - Tubig sa berdeng balat, patunayan mong
+  - mali ako.
+CLT_CUMIN:
+  name: Komino
+  type:
+  - '&7&oAni'
+  description:
+  - Isang mainit na halamang amoy-sitrus.
+CLT_CURRY_LEAF:
+  name: Dahon ng Kari
+  type:
+  - '&7&oAni'
+  description:
+  - Ang pundasyon ng napakaraming masasarap na pagkain.
+CLT_DILL:
+  name: Eneldo
+  type:
+  - '&7&oAni'
+  description:
+  - Parang damo lang ang lasa nito para sa akin. Bakit
+  - ito gusto ng mga tao?
+CLT_DOUGH:
+  name: Masa
+  type:
+  - '&7&oAni'
+  description:
+  - Simpleng masa lang!
+CLT_EGG_SALAD:
+  name: Ensaladang Itlog
+  type:
+  - '&7&oAni'
+  description:
+  - Buksan mo ito sa loob ng tren, sige nga!
+CLT_EGG_SALAD_SANDWICH:
+  name: Sanwits na Ensaladang Itlog
+  type:
+  - '&7&oPagkain'
+  description:
+  - Medyo mabaho, pero ang sarap!
+  stats: &id006
+  - '&8⇨ &7Paggaling: &b10 Puso'
+  - '&8⇨ &bLunas II &7(10:00)'
+CLT_FENNEL:
+  name: Haras
+  type:
+  - '&7&oAni'
+  description:
+  - Parang halo ng Anis at Regalis.
+CLT_FRIED_APPLE:
+  name: Piniritong Mansanas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_APRICOT:
+  name: Piniritong Aprikot
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_ARTICHOKE:
+  name: Piniritong Alkatsopas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_ASPARAGUS:
+  name: Piniritong Asparagus
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_AUBERGINE:
+  name: Piniritong Talong
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_AVOCADO:
+  name: Piniritong Abukado
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_BANANA:
+  name: Piniritong Saging
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_BASIL:
+  name: Piniritong Balanoy
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_BAY_LEAF:
+  name: Piniritong Dahon ng Laurel
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_BEEF:
+  name: Piniritong Karneng Baka
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_BEETROOT:
+  name: Piniritong Remolatsa
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_BELL_PEPPER:
+  name: Piniritong Atsal
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_BLACK_BEANS:
+  name: Piniritong Itim na Bitsuwelas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_BREAD:
+  name: Piniritong Tinapay
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_BROCCOLI:
+  name: Piniritong Brokoli
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_BROWN_MUSHROOM:
+  name: Piniritong Kayumangging Kabute
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_BRUSSELS_SPROUTS:
+  name: Piniritong Repolyong Brussels
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_CABBAGE:
+  name: Piniritong Repolyo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_CARROT:
+  name: Piniritong Karot
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_CAULIFLOWER:
+  name: Piniritong Koliplor
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_CAYENNE_PEPPER:
+  name: Piniritong Siling Cayenne
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_CELERIAC:
+  name: Piniritong Kintsay-ugat
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_CELERY:
+  name: Piniritong Kintsay
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_CHERRY:
+  name: Piniritong Seresa
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_CHESTNUT:
+  name: Piniritong Kastanyas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_CHICKEN:
+  name: Piniritong Manok
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_CHICKPEAS:
+  name: Piniritong Garbansos
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_CHICORY:
+  name: Piniritong Tsikorya
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_CHILLY_PEPPER:
+  name: Piniritong Sili
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_CHIVES:
+  name: Piniritong Kutsay
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_CHORUS_FRUIT:
+  name: Piniritong Korong-bunga
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_CILANTRO:
+  name: Piniritong Kulantro
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_CINNAMON:
+  name: Piniritong Kanela
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_CLOVE:
+  name: Piniritong Klabo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_COCOA_BEANS:
+  name: Piniritong Kakaw
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_COD:
+  name: Piniritong Bakalaw
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_COURGETTE:
+  name: Piniritong Sukini
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_CUCUMBER:
+  name: Piniritong Pipino
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_CUMIN:
+  name: Piniritong Komino
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_CURRY_LEAF:
+  name: Piniritong Dahon ng Kari
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_DILL:
+  name: Piniritong Eneldo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_EGG:
+  name: Piniritong Itlog
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_ENCHANTED_GOLDEN_APPLE:
+  name: Piniritong Masalamangkang Mansanas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_FENNEL:
+  name: Piniritong Haras
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_GARLIC:
+  name: Piniritong Bawang
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_GINGER:
+  name: Piniritong Luya
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_GLOW_BERRIES:
+  name: Piniritong Bungansinag
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_GOLDEN_APPLE:
+  name: Piniritong Gintong Mansanas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_GOLDEN_CARROT:
+  name: Piniritong Gintong Karot
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_GRAPE:
+  name: Piniritong Ubas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_GREEN_APPLE:
+  name: Piniritong Berdeng Mansanas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_GREEN_BEANS:
+  name: Piniritong Bitsuwelas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_GREEN_ONION:
+  name: Piniritong Dahon ng Sibuyas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_HAZELNUT:
+  name: Piniritong Abelyana
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_HORSERADISH:
+  name: Piniritong Labanos-kabayo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_JALAPENO:
+  name: Piniritong Siling Jalapeño
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_JASMINE:
+  name: Piniritong Sampagita
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_JUNIPER_BERRY:
+  name: Piniritong Bunga ng Junipero
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_KAFFIR_LIME:
+  name: Piniritong Dahon ng Kabuyaw
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_KALE:
+  name: Piniritong Kale
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_KELP:
+  name: Piniritong Kelp
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_KIWI:
+  name: Piniritong Kiwi
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_LAVENDER:
+  name: Piniritong Lavanda
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_LEEK:
+  name: Piniritong Liki
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_LEMON:
+  name: Piniritong Limon
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_LETTUCE:
+  name: Piniritong Litsugas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_LICORICE:
+  name: Piniritong Regalis
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_LIME:
+  name: Piniritong Dayap
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_MACE:
+  name: Piniritong Masis
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_MANGO:
+  name: Piniritong Mangga
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_MARJORAM:
+  name: Piniritong Mayorana
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_MARROW:
+  name: Piniritong Upo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_MELON:
+  name: Piniritong Pakwan
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_MINT:
+  name: Piniritong Yerba Buena
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_MUSTARD_SEEDS:
+  name: Piniritong Buto ng Mustasa
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_MUTTON:
+  name: Piniritong Karne ng Tupa
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_NETTLES:
+  name: Piniritong Lipa
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_OKRA:
+  name: Piniritong Okra
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_ONION:
+  name: Piniritong Sibuyas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_ORANGE:
+  name: Piniritong Dalandan
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_OREGANO:
+  name: Piniritong Oregano
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_PARSLEY:
+  name: Piniritong Perehil
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_PARSNIP:
+  name: Piniritong Pastinaka
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_PEA:
+  name: Piniritong Gisantes
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_PEACH:
+  name: Piniritong Melokoton
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_PEANUT:
+  name: Piniritong Mani
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_PEAR:
+  name: Piniritong Peras
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_PECAN:
+  name: Piniritong Pekan
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_PEPPER:
+  name: Piniritong Paminta
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_PEPPERONI:
+  name: Piniritong Pepperoni
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_PINEAPPLE:
+  name: Piniritong Pinya
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_PINTO_BEANS:
+  name: Piniritong Bitsuwelas na Pinto
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_PORKCHOP:
+  name: Piniritong Porkchop
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_POTATO:
+  name: Piniritong Patatas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_PUFFERFISH:
+  name: Piniritong Buteteng-laot
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_PUMPKIN:
+  name: Piniritong Kalabasa
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_RABBIT:
+  name: Piniritong Kuneho
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_RADDISH:
+  name: Piniritong Labanos
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_RADICCHIO:
+  name: Piniritong Pulang Tsikorya
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_RAPESEED:
+  name: Piniritong Kanola
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_RED_MUSHROOM:
+  name: Piniritong Pulang Kabute
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_RHUBARB:
+  name: Piniritong Ruibarbo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_RICE:
+  name: Piniritong Bigas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_ROSEMARY:
+  name: Piniritong Romero
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_ROTTEN_FLESH:
+  name: Piniritong Bulok na Laman
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_RUNNER_BEANS:
+  name: Piniritong Sitaw
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_RUTABAGA:
+  name: Piniritong Rutabaga
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_SALMON:
+  name: Piniritong Salmon
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_SASSAFRAS:
+  name: Piniritong Sasapras
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_SHALLOT:
+  name: Piniritong Sibuyas Tagalog
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_SHISO:
+  name: Piniritong Shiso
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_SOY_BEANS:
+  name: Piniritong Utaw
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_SPINACH:
+  name: Piniritong Espinaka
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_STAR_ANISE:
+  name: Piniritong Sanke
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_STRAWBERRY:
+  name: Piniritong Strawberry
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_SUGAR:
+  name: Piniritong Asukal
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_SWEETCORN:
+  name: Piniritong Mais
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_SWEET_BERRIES:
+  name: Piniritong Bungantamis
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_SWEET_POTATO:
+  name: Piniritong Kamote
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_TARRAGON:
+  name: Piniritong Taragon
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_THYME:
+  name: Piniritong Tomilyo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_TOMATO:
+  name: Piniritong Kamatis
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_TURMERIC:
+  name: Piniritong Luyang Dilaw
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_TURNIP:
+  name: Piniritong Singkamas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_VANILLA:
+  name: Piniritong Banilya
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_WASABI:
+  name: Piniritong Wasabi
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRIED_WHEAT:
+  name: Piniritong Trigo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_FRUIT_SALAD:
+  name: Ensaladang Prutas
+  type:
+  - '&7&oPagkain'
+  description:
+  - Kung tatawagin mo itong ensalada, puwede kang kumain hangga't
+  - gusto mo, kasi masustansiya ito.
+  stats:
+  - '&8⇨ &7Paggaling: &b6 Puso'
+  - '&8⇨ &bKabilisan III &7(10:00)'
+CLT_FUGU:
+  name: Fugu
+  type:
+  - '&7&oPagkain'
+  description:
+  - Handa ka na bang sumugal?
+  stats:
+  - '&8⇨ &7Paggaling: &b1 Puso'
+  - '&8⇨ &bKalakasan V &7(10:00)'
+  - '&8⇨ &733% tsansang mamatay ka na lang!'
+CLT_GARDEN_CLOCHE:
+  name: Kampanang Salamin ng Hardin
+  type:
+  - '&7&oMakina'
+  description:
+  - Kusang nagpapatubo ng halaman sa loob nito.
+  stats:
+  - '&8⇨ &7Kuryente bawat Tick: &b100'
+CLT_GARLIC:
+  name: Bawang
+  type:
+  - '&7&oAni'
+  description:
+  - Bilis, bago dumating ang mga bampira!
+CLT_GARLIC_BUTTER_MUSHROOMS:
+  name: Kabuteng may Mantikilya at Bawang
+  type:
+  - '&7&oPagkain'
+  description:
+  - Baka ito na ang pinakamasarap na pagkain sa mundo.
+  stats:
+  - '&8⇨ &7Paggaling: &b2 Puso'
+  - '&8⇨ &bKinang I &7(10:00)'
+CLT_GINGER:
+  name: Luya
+  type:
+  - '&7&oAni'
+  description:
+  - Tinadtad na Luya sa kumukulong tubig, gamot sa lahat ng sakit!
+CLT_GRAPE:
+  name: Ubas
+  type:
+  - '&7&oAni'
+  description:
+  - Ang taba-taba!
+CLT_GRAPE_JELLY:
+  name: Halayang Ubas
+  type:
+  - '&7&oAni'
+  description: &id008
+  - Krimen ang pagkain nito gamit ang kutsara.
+CLT_GREEN_APPLE:
+  name: Berdeng Mansanas
+  type:
+  - '&7&oAni'
+  description:
+  - Ang sabi ng sulat... Mahal kong Guro?
+CLT_GREEN_BEANS:
+  name: Bitsuwelas
+  type:
+  - '&7&oAni'
+  description:
+  - Ang galing ng pagkakapangalan!
+CLT_GREEN_ONION:
+  name: Dahon ng Sibuyas
+  type:
+  - '&7&oAni'
+  description:
+  - Bagay na bagay sa tacos!
+CLT_GRILLED_APPLE:
+  name: Inihaw na Mansanas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_APRICOT:
+  name: Inihaw na Aprikot
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_ARTICHOKE:
+  name: Inihaw na Alkatsopas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_ASPARAGUS:
+  name: Inihaw na Asparagus
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_AUBERGINE:
+  name: Inihaw na Talong
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_AVOCADO:
+  name: Inihaw na Abukado
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_BANANA:
+  name: Inihaw na Saging
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_BASIL:
+  name: Inihaw na Balanoy
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_BAY_LEAF:
+  name: Inihaw na Dahon ng Laurel
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_BEEF:
+  name: Inihaw na Karneng Baka
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_BEETROOT:
+  name: Inihaw na Remolatsa
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_BELL_PEPPER:
+  name: Inihaw na Atsal
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_BLACK_BEANS:
+  name: Inihaw na Itim na Bitsuwelas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_BREAD:
+  name: Inihaw na Tinapay
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_BROCCOLI:
+  name: Inihaw na Brokoli
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_BROWN_MUSHROOM:
+  name: Inihaw na Kayumangging Kabute
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_BRUSSELS_SPROUTS:
+  name: Inihaw na Repolyong Brussels
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_CABBAGE:
+  name: Inihaw na Repolyo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_CARROT:
+  name: Inihaw na Karot
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_CAULIFLOWER:
+  name: Inihaw na Koliplor
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_CAYENNE_PEPPER:
+  name: Inihaw na Siling Cayenne
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_CELERIAC:
+  name: Inihaw na Kintsay-ugat
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_CELERY:
+  name: Inihaw na Kintsay
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_CHERRY:
+  name: Inihaw na Seresa
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_CHESTNUT:
+  name: Inihaw na Kastanyas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_CHICKEN:
+  name: Inihaw na Manok
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_CHICKPEAS:
+  name: Inihaw na Garbansos
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_CHICORY:
+  name: Inihaw na Tsikorya
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_CHILLY_PEPPER:
+  name: Inihaw na Sili
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_CHIVES:
+  name: Inihaw na Kutsay
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_CHORUS_FRUIT:
+  name: Inihaw na Korong-bunga
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_CILANTRO:
+  name: Inihaw na Kulantro
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_CINNAMON:
+  name: Inihaw na Kanela
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_CLOVE:
+  name: Inihaw na Klabo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_COCOA_BEANS:
+  name: Inihaw na Kakaw
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_COD:
+  name: Inihaw na Bakalaw
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_COURGETTE:
+  name: Inihaw na Sukini
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_CUCUMBER:
+  name: Inihaw na Pipino
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_CUMIN:
+  name: Inihaw na Komino
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_CURRY_LEAF:
+  name: Inihaw na Dahon ng Kari
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_DILL:
+  name: Inihaw na Eneldo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_EGG:
+  name: Inihaw na Itlog
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_ENCHANTED_GOLDEN_APPLE:
+  name: Inihaw na Masalamangkang Mansanas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_FENNEL:
+  name: Inihaw na Haras
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_GARLIC:
+  name: Inihaw na Bawang
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_GINGER:
+  name: Inihaw na Luya
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_GLOW_BERRIES:
+  name: Inihaw na Bungansinag
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_GOLDEN_APPLE:
+  name: Inihaw na Gintong Mansanas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_GOLDEN_CARROT:
+  name: Inihaw na Gintong Karot
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_GRAPE:
+  name: Inihaw na Ubas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_GREEN_APPLE:
+  name: Inihaw na Berdeng Mansanas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_GREEN_BEANS:
+  name: Inihaw na Bitsuwelas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_GREEN_ONION:
+  name: Inihaw na Dahon ng Sibuyas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_HAZELNUT:
+  name: Inihaw na Abelyana
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_HORSERADISH:
+  name: Inihaw na Labanos-kabayo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_JALAPENO:
+  name: Inihaw na Siling Jalapeño
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_JASMINE:
+  name: Inihaw na Sampagita
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_JUNIPER_BERRY:
+  name: Inihaw na Bunga ng Junipero
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_KAFFIR_LIME:
+  name: Inihaw na Dahon ng Kabuyaw
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_KALE:
+  name: Inihaw na Kale
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_KELP:
+  name: Inihaw na Kelp
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_KIWI:
+  name: Inihaw na Kiwi
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_LAVENDER:
+  name: Inihaw na Lavanda
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_LEEK:
+  name: Inihaw na Liki
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_LEMON:
+  name: Inihaw na Limon
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_LETTUCE:
+  name: Inihaw na Litsugas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_LICORICE:
+  name: Inihaw na Regalis
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_LIME:
+  name: Inihaw na Dayap
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_MACE:
+  name: Inihaw na Masis
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_MANGO:
+  name: Inihaw na Mangga
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_MARJORAM:
+  name: Inihaw na Mayorana
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_MARROW:
+  name: Inihaw na Upo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_MELON:
+  name: Inihaw na Pakwan
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_MINT:
+  name: Inihaw na Yerba Buena
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_MUSTARD_SEEDS:
+  name: Inihaw na Buto ng Mustasa
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_MUTTON:
+  name: Inihaw na Karne ng Tupa
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_NETTLES:
+  name: Inihaw na Lipa
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_OKRA:
+  name: Inihaw na Okra
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_ONION:
+  name: Inihaw na Sibuyas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_ORANGE:
+  name: Inihaw na Dalandan
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_OREGANO:
+  name: Inihaw na Oregano
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_PARSLEY:
+  name: Inihaw na Perehil
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_PARSNIP:
+  name: Inihaw na Pastinaka
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_PEA:
+  name: Inihaw na Gisantes
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_PEACH:
+  name: Inihaw na Melokoton
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_PEANUT:
+  name: Inihaw na Mani
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_PEAR:
+  name: Inihaw na Peras
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_PECAN:
+  name: Inihaw na Pekan
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_PEPPER:
+  name: Inihaw na Paminta
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_PEPPERONI:
+  name: Inihaw na Pepperoni
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_PINEAPPLE:
+  name: Inihaw na Pinya
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_PINTO_BEANS:
+  name: Inihaw na Bitsuwelas na Pinto
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_PORKCHOP:
+  name: Inihaw na Porkchop
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_POTATO:
+  name: Inihaw na Patatas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_PUFFERFISH:
+  name: Inihaw na Buteteng-laot
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_PUMPKIN:
+  name: Inihaw na Kalabasa
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_RABBIT:
+  name: Inihaw na Kuneho
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_RADDISH:
+  name: Inihaw na Labanos
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_RADICCHIO:
+  name: Inihaw na Pulang Tsikorya
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_RAPESEED:
+  name: Inihaw na Kanola
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_RED_MUSHROOM:
+  name: Inihaw na Pulang Kabute
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_RHUBARB:
+  name: Inihaw na Ruibarbo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_RICE:
+  name: Inihaw na Bigas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_ROSEMARY:
+  name: Inihaw na Romero
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_ROTTEN_FLESH:
+  name: Inihaw na Bulok na Laman
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_RUNNER_BEANS:
+  name: Inihaw na Sitaw
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_RUTABAGA:
+  name: Inihaw na Rutabaga
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_SALMON:
+  name: Inihaw na Salmon
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_SALMON_SALAD:
+  name: Inihaw na Ensaladang Salmon
+  type:
+  - '&7&oPagkain'
+  description:
+  - Nakatutuwang malutong at mahusay ang timpla.
+  stats:
+  - '&8⇨ &7Paggaling: &b4 Puso'
+  - '&8⇨ &bLunas I &7(10:00)'
+  - '&8⇨ &bHusay ng Lusog V &7(10:00)'
+CLT_GRILLED_SASSAFRAS:
+  name: Inihaw na Sasapras
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_SHALLOT:
+  name: Inihaw na Sibuyas Tagalog
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_SHISO:
+  name: Inihaw na Shiso
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_SOY_BEANS:
+  name: Inihaw na Utaw
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_SPINACH:
+  name: Inihaw na Espinaka
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_STAR_ANISE:
+  name: Inihaw na Sanke
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_STRAWBERRY:
+  name: Inihaw na Strawberry
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_SUGAR:
+  name: Inihaw na Asukal
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_SWEETCORN:
+  name: Inihaw na Mais
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_SWEET_BERRIES:
+  name: Inihaw na Bungantamis
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_SWEET_POTATO:
+  name: Inihaw na Kamote
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_TARRAGON:
+  name: Inihaw na Taragon
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_THYME:
+  name: Inihaw na Tomilyo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_TOMATO:
+  name: Inihaw na Kamatis
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_TURMERIC:
+  name: Inihaw na Luyang Dilaw
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_TURNIP:
+  name: Inihaw na Singkamas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_VANILLA:
+  name: Inihaw na Banilya
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_WASABI:
+  name: Inihaw na Wasabi
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GRILLED_WHEAT:
+  name: Inihaw na Trigo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_APPLE:
+  name: Dinikdik na Mansanas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_APRICOT:
+  name: Dinikdik na Aprikot
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_ARTICHOKE:
+  name: Dinikdik na Alkatsopas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_ASPARAGUS:
+  name: Dinikdik na Asparagus
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_AUBERGINE:
+  name: Dinikdik na Talong
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_AVOCADO:
+  name: Dinikdik na Abukado
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_BANANA:
+  name: Dinikdik na Saging
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_BASIL:
+  name: Dinikdik na Balanoy
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_BAY_LEAF:
+  name: Dinikdik na Dahon ng Laurel
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_BEEF:
+  name: Dinikdik na Karneng Baka
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_BEETROOT:
+  name: Dinikdik na Remolatsa
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_BELL_PEPPER:
+  name: Dinikdik na Atsal
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_BLACK_BEANS:
+  name: Dinikdik na Itim na Bitsuwelas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_BREAD:
+  name: Dinikdik na Tinapay
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_BROCCOLI:
+  name: Dinikdik na Brokoli
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_BROWN_MUSHROOM:
+  name: Dinikdik na Kayumangging Kabute
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_BRUSSELS_SPROUTS:
+  name: Dinikdik na Repolyong Brussels
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_CABBAGE:
+  name: Dinikdik na Repolyo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_CARROT:
+  name: Dinikdik na Karot
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_CAULIFLOWER:
+  name: Dinikdik na Koliplor
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_CAYENNE_PEPPER:
+  name: Dinikdik na Siling Cayenne
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_CELERIAC:
+  name: Dinikdik na Kintsay-ugat
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_CELERY:
+  name: Dinikdik na Kintsay
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_CHERRY:
+  name: Dinikdik na Seresa
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_CHESTNUT:
+  name: Dinikdik na Kastanyas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_CHICKEN:
+  name: Dinikdik na Manok
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_CHICKPEAS:
+  name: Dinikdik na Garbansos
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_CHICORY:
+  name: Dinikdik na Tsikorya
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_CHILLY_PEPPER:
+  name: Dinikdik na Sili
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_CHIVES:
+  name: Dinikdik na Kutsay
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_CHORUS_FRUIT:
+  name: Dinikdik na Korong-bunga
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_CILANTRO:
+  name: Dinikdik na Kulantro
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_CINNAMON:
+  name: Dinikdik na Kanela
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_CLOVE:
+  name: Dinikdik na Klabo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_COCOA_BEANS:
+  name: Dinikdik na Kakaw
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_COD:
+  name: Dinikdik na Bakalaw
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_COURGETTE:
+  name: Dinikdik na Sukini
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_CUCUMBER:
+  name: Dinikdik na Pipino
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_CUMIN:
+  name: Dinikdik na Komino
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_CURRY_LEAF:
+  name: Dinikdik na Dahon ng Kari
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_DILL:
+  name: Dinikdik na Eneldo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_EGG:
+  name: Dinikdik na Itlog
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_ENCHANTED_GOLDEN_APPLE:
+  name: Dinikdik na Masalamangkang Mansanas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_FENNEL:
+  name: Dinikdik na Haras
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_GARLIC:
+  name: Dinikdik na Bawang
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_GINGER:
+  name: Dinikdik na Luya
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_GLOW_BERRIES:
+  name: Dinikdik na Bungansinag
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_GOLDEN_APPLE:
+  name: Dinikdik na Gintong Mansanas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_GOLDEN_CARROT:
+  name: Dinikdik na Gintong Karot
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_GRAPE:
+  name: Dinikdik na Ubas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_GREEN_APPLE:
+  name: Dinikdik na Berdeng Mansanas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_GREEN_BEANS:
+  name: Dinikdik na Bitsuwelas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_GREEN_ONION:
+  name: Dinikdik na Dahon ng Sibuyas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_HAZELNUT:
+  name: Dinikdik na Abelyana
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_HORSERADISH:
+  name: Dinikdik na Labanos-kabayo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_JALAPENO:
+  name: Dinikdik na Siling Jalapeño
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_JASMINE:
+  name: Dinikdik na Sampagita
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_JUNIPER_BERRY:
+  name: Dinikdik na Bunga ng Junipero
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_KAFFIR_LIME:
+  name: Dinikdik na Dahon ng Kabuyaw
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_KALE:
+  name: Dinikdik na Kale
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_KELP:
+  name: Dinikdik na Kelp
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_KIWI:
+  name: Dinikdik na Kiwi
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_LAVENDER:
+  name: Dinikdik na Lavanda
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_LEEK:
+  name: Dinikdik na Liki
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_LEMON:
+  name: Dinikdik na Limon
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_LETTUCE:
+  name: Dinikdik na Litsugas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_LICORICE:
+  name: Dinikdik na Regalis
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_LIME:
+  name: Dinikdik na Dayap
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_MACE:
+  name: Dinikdik na Masis
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_MANGO:
+  name: Dinikdik na Mangga
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_MARJORAM:
+  name: Dinikdik na Mayorana
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_MARROW:
+  name: Dinikdik na Upo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_MELON:
+  name: Dinikdik na Pakwan
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_MINT:
+  name: Dinikdik na Yerba Buena
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_MUSTARD_SEEDS:
+  name: Dinikdik na Buto ng Mustasa
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_MUTTON:
+  name: Dinikdik na Karne ng Tupa
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_NETTLES:
+  name: Dinikdik na Lipa
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_OKRA:
+  name: Dinikdik na Okra
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_ONION:
+  name: Dinikdik na Sibuyas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_ORANGE:
+  name: Dinikdik na Dalandan
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_OREGANO:
+  name: Dinikdik na Oregano
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_PARSLEY:
+  name: Dinikdik na Perehil
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_PARSNIP:
+  name: Dinikdik na Pastinaka
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_PEA:
+  name: Dinikdik na Gisantes
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_PEACH:
+  name: Dinikdik na Melokoton
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_PEANUT:
+  name: Dinikdik na Mani
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_PEAR:
+  name: Dinikdik na Peras
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_PECAN:
+  name: Dinikdik na Pekan
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_PEPPER:
+  name: Dinikdik na Paminta
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_PEPPERONI:
+  name: Dinikdik na Pepperoni
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_PINEAPPLE:
+  name: Dinikdik na Pinya
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_PINTO_BEANS:
+  name: Dinikdik na Bitsuwelas na Pinto
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_PORKCHOP:
+  name: Dinikdik na Porkchop
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_POTATO:
+  name: Dinikdik na Patatas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_PUFFERFISH:
+  name: Dinikdik na Buteteng-laot
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_PUMPKIN:
+  name: Dinikdik na Kalabasa
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_RABBIT:
+  name: Dinikdik na Kuneho
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_RADDISH:
+  name: Dinikdik na Labanos
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_RADICCHIO:
+  name: Dinikdik na Pulang Tsikorya
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_RAPESEED:
+  name: Dinikdik na Kanola
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_RED_MUSHROOM:
+  name: Dinikdik na Pulang Kabute
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_RHUBARB:
+  name: Dinikdik na Ruibarbo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_RICE:
+  name: Dinikdik na Bigas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_ROSEMARY:
+  name: Dinikdik na Romero
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_ROTTEN_FLESH:
+  name: Dinikdik na Bulok na Laman
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_RUNNER_BEANS:
+  name: Dinikdik na Sitaw
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_RUTABAGA:
+  name: Dinikdik na Rutabaga
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_SALMON:
+  name: Dinikdik na Salmon
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_SASSAFRAS:
+  name: Dinikdik na Sasapras
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_SHALLOT:
+  name: Dinikdik na Sibuyas Tagalog
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_SHISO:
+  name: Dinikdik na Shiso
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_SOY_BEANS:
+  name: Dinikdik na Utaw
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_SPINACH:
+  name: Dinikdik na Espinaka
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_STAR_ANISE:
+  name: Dinikdik na Sanke
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_STRAWBERRY:
+  name: Dinikdik na Strawberry
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_SUGAR:
+  name: Dinikdik na Asukal
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_SWEETCORN:
+  name: Dinikdik na Mais
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_SWEET_BERRIES:
+  name: Dinikdik na Bungantamis
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_SWEET_POTATO:
+  name: Dinikdik na Kamote
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_TARRAGON:
+  name: Dinikdik na Taragon
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_THYME:
+  name: Dinikdik na Tomilyo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_TOMATO:
+  name: Dinikdik na Kamatis
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_TURMERIC:
+  name: Dinikdik na Luyang Dilaw
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_TURNIP:
+  name: Dinikdik na Singkamas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_VANILLA:
+  name: Dinikdik na Banilya
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_WASABI:
+  name: Dinikdik na Wasabi
+  type:
+  - '&7&oLabis na Produkto'
+CLT_GROUND_WHEAT:
+  name: Dinikdik na Trigo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_HAZELNUT:
+  name: Abelyana
+  type:
+  - '&7&oAni'
+  description:
+  - Gawin mo ang lahat para gawin itong
+  - kape para sa akin, ngayon na!
+CLT_HORSERADISH:
+  name: Labanos-kabayo
+  type:
+  - '&7&oAni'
+  description:
+  - $100 kung kakagatin mo ito nang diretso.
+CLT_JALAPENO:
+  name: Siling Jalapeño
+  type:
+  - '&7&oAni'
+  description:
+  - MAINIT MAINIT MAINIT.
+CLT_JASMINE:
+  name: Sampagita
+  type:
+  - '&7&oAni'
+  description:
+  - Napakasarap gawing tsaa.
+CLT_JUNIPER_BERRY:
+  name: Bunga ng Junipero
+  type:
+  - '&7&oAni'
+  description:
+  - Pinatuyo hanggang maging perpekto ang anghang.
+CLT_KAFFIR_LIME:
+  name: Dahon ng Kabuyaw
+  type:
+  - '&7&oAni'
+  description:
+  - Isang dahong may matapang na sarap.
+CLT_KALE:
+  name: Kale
+  type:
+  - '&7&oAni'
+  description:
+  - Tulong, isa akong smoothie hipster ng 2020!
+CLT_KETCHUP:
+  name: Ketsap
+  type:
+  - '&7&oAni'
+  description:
+  - Kamatis lang na nasa malapot na anyo.
+CLT_KEY_LIME_PIE:
+  name: Pay na Dayap
+  type:
+  - '&7&oPagkain'
+  description:
+  - Ang pinakamagaling, wala nang iba!
+  stats:
+  - '&8⇨ &7Paggaling: &b6 Puso'
+  - '&8⇨ &bLiksi IV &7(10:00)'
+CLT_KIWI:
+  name: Kiwi
+  type:
+  - '&7&oAni'
+  description:
+  - Inilagay ko ito sa addon nang sapilitan.
+  - Masama ang mga kiwi at sinumang
+  - gagamit nito ay awtomatikong mababawasan
+  - ng 100 puntos.
+CLT_LASAGNA:
+  name: Lasanya
+  type:
+  - '&7&oPagkain'
+  description:
+  - Patong-patong na kagalingan.
+  stats:
+  - '&8⇨ &7Paggaling: &bBuo'
+  - '&8⇨ &bLunas II &7(10:00)'
+  - '&8⇨ &bResistensiya II &7(10:00)'
+CLT_LAVENDER:
+  name: Lavanda
+  type:
+  - '&7&oAni'
+  description:
+  - Isang amoy na kayang magpatulog sa akin nang dahan-dahan.
+CLT_LEAVES_TREE_APRICOT:
+  name: Dahon ng Puno ng Aprikot
+  type:
+  - '&7&oDahon'
+CLT_LEAVES_TREE_BANANA:
+  name: Dahon ng Puno ng Saging
+  type:
+  - '&7&oDahon'
+CLT_LEAVES_TREE_CHERRY:
+  name: Dahon ng Puno ng Seresa
+  type:
+  - '&7&oDahon'
+CLT_LEAVES_TREE_CHESTNUT:
+  name: Dahon ng Puno ng Kastanyas
+  type:
+  - '&7&oDahon'
+CLT_LEAVES_TREE_GREEN_APPLE:
+  name: Dahon ng Puno ng Berdeng Mansanas
+  type:
+  - '&7&oDahon'
+CLT_LEAVES_TREE_HAZELNUT:
+  name: Dahon ng Puno ng Abelyana
+  type:
+  - '&7&oDahon'
+CLT_LEAVES_TREE_KIWI:
+  name: Dahon ng Puno ng Kiwi
+  type:
+  - '&7&oDahon'
+CLT_LEAVES_TREE_LEMON:
+  name: Dahon ng Puno ng Limon
+  type:
+  - '&7&oDahon'
+CLT_LEAVES_TREE_LIME:
+  name: Dahon ng Puno ng Dayap
+  type:
+  - '&7&oDahon'
+CLT_LEAVES_TREE_MANGO:
+  name: Dahon ng Puno ng Mangga
+  type:
+  - '&7&oDahon'
+CLT_LEAVES_TREE_ORANGE:
+  name: Dahon ng Puno ng Dalandan
+  type:
+  - '&7&oDahon'
+CLT_LEAVES_TREE_PEACH:
+  name: Dahon ng Puno ng Melokoton
+  type:
+  - '&7&oDahon'
+CLT_LEAVES_TREE_PEAR:
+  name: Dahon ng Puno ng Peras
+  type:
+  - '&7&oDahon'
+CLT_LEAVES_TREE_PECAN:
+  name: Dahon ng Puno ng Pekan
+  type:
+  - '&7&oDahon'
+CLT_LEAVES_TREE_PINEAPPLE:
+  name: Dahon ng Puno ng Pinya
+  type:
+  - '&7&oDahon'
+CLT_LEEK:
+  name: Liki
+  type:
+  - '&7&oAni'
+  description:
+  - bakit kaya ito tumutulo ng tubig?
+  - Baka may tagas na ang liki?
+CLT_LEMON:
+  name: Limon
+  type:
+  - '&7&oAni'
+  description:
+  - Bakit ganyan kaasim ang mukha mo?
+CLT_LEMON_DROP:
+  name: Kendi na Limon
+  type:
+  - '&7&oPagkain'
+  description:
+  - Panlinis ng panlasa.
+  stats:
+  - '&8⇨ &7Inaalis ang lahat ng epekto at ginugutom ka ulit.'
+CLT_LETTUCE:
+  name: Litsugas
+  type:
+  - '&7&oAni'
+  description:
+  - Manipis, matubig, pero masarap pa rin.
+CLT_LICORICE:
+  name: Regalis
+  type:
+  - '&7&oAni'
+  description:
+  - Takbo, tumakbo ka na ngayon!
+CLT_LIME:
+  name: Dayap
+  type:
+  - '&7&oAni'
+  description:
+  - Noong unang dayap, may isang masarap na prutas...
+CLT_MACE:
+  name: Masis
+  type:
+  - '&7&oAni'
+  description:
+  - Ginagamit para iwisik sa mukha ng mga umaatake.
+  - '...'
+  - Anong ibig mong sabihin, hindi ito ang tamang klase ng mace?
+CLT_MANGO:
+  name: Mangga
+  type:
+  - '&7&oAni'
+  description:
+  - MAN, kailangan ko nang GO.
+  - Ang hirap gumawa ng lore...
+CLT_MARJORAM:
+  name: Mayorana
+  type:
+  - '&7&oAni'
+  description:
+  - Medyo nagma-madali-kari ako, puwede bang mamaya na lang tayo mag-usap?
+CLT_MARROW:
+  name: Upo
+  type:
+  - '&7&oAni'
+  description:
+  - Alam mo bang ang marrow ay matatagpuan
+  - sa loob ng iyong mga buto?
+  - Oo, Sefi Talino.
+CLT_MASHED_APPLE:
+  name: Dinurog na Mansanas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_APRICOT:
+  name: Dinurog na Aprikot
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_ARTICHOKE:
+  name: Dinurog na Alkatsopas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_ASPARAGUS:
+  name: Dinurog na Asparagus
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_AUBERGINE:
+  name: Dinurog na Talong
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_AVOCADO:
+  name: Dinurog na Abukado
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_BANANA:
+  name: Dinurog na Saging
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_BASIL:
+  name: Dinurog na Balanoy
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_BAY_LEAF:
+  name: Dinurog na Dahon ng Laurel
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_BEEF:
+  name: Dinurog na Karneng Baka
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_BEETROOT:
+  name: Dinurog na Remolatsa
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_BELL_PEPPER:
+  name: Dinurog na Atsal
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_BLACK_BEANS:
+  name: Dinurog na Itim na Bitsuwelas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_BREAD:
+  name: Dinurog na Tinapay
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_BROCCOLI:
+  name: Dinurog na Brokoli
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_BROWN_MUSHROOM:
+  name: Dinurog na Kayumangging Kabute
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_BRUSSELS_SPROUTS:
+  name: Dinurog na Repolyong Brussels
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_CABBAGE:
+  name: Dinurog na Repolyo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_CARROT:
+  name: Dinurog na Karot
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_CAULIFLOWER:
+  name: Dinurog na Koliplor
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_CAYENNE_PEPPER:
+  name: Dinurog na Siling Cayenne
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_CELERIAC:
+  name: Dinurog na Kintsay-ugat
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_CELERY:
+  name: Dinurog na Kintsay
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_CHERRY:
+  name: Dinurog na Seresa
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_CHESTNUT:
+  name: Dinurog na Kastanyas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_CHICKEN:
+  name: Dinurog na Manok
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_CHICKPEAS:
+  name: Dinurog na Garbansos
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_CHICORY:
+  name: Dinurog na Tsikorya
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_CHILLY_PEPPER:
+  name: Dinurog na Sili
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_CHIVES:
+  name: Dinurog na Kutsay
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_CHORUS_FRUIT:
+  name: Dinurog na Korong-bunga
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_CILANTRO:
+  name: Dinurog na Kulantro
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_CINNAMON:
+  name: Dinurog na Kanela
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_CLOVE:
+  name: Dinurog na Klabo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_COCOA_BEANS:
+  name: Dinurog na Kakaw
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_COD:
+  name: Dinurog na Bakalaw
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_COURGETTE:
+  name: Dinurog na Sukini
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_CUCUMBER:
+  name: Dinurog na Pipino
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_CUMIN:
+  name: Dinurog na Komino
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_CURRY_LEAF:
+  name: Dinurog na Dahon ng Kari
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_DILL:
+  name: Dinurog na Eneldo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_EGG:
+  name: Dinurog na Itlog
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_ENCHANTED_GOLDEN_APPLE:
+  name: Dinurog na Masalamangkang Mansanas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_FENNEL:
+  name: Dinurog na Haras
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_GARLIC:
+  name: Dinurog na Bawang
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_GINGER:
+  name: Dinurog na Luya
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_GLOW_BERRIES:
+  name: Dinurog na Bungansinag
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_GOLDEN_APPLE:
+  name: Dinurog na Gintong Mansanas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_GOLDEN_CARROT:
+  name: Dinurog na Gintong Karot
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_GRAPE:
+  name: Dinurog na Ubas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_GREEN_APPLE:
+  name: Dinurog na Berdeng Mansanas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_GREEN_BEANS:
+  name: Dinurog na Bitsuwelas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_GREEN_ONION:
+  name: Dinurog na Dahon ng Sibuyas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_HAZELNUT:
+  name: Dinurog na Abelyana
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_HORSERADISH:
+  name: Dinurog na Labanos-kabayo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_JALAPENO:
+  name: Dinurog na Siling Jalapeño
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_JASMINE:
+  name: Dinurog na Sampagita
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_JUNIPER_BERRY:
+  name: Dinurog na Bunga ng Junipero
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_KAFFIR_LIME:
+  name: Dinurog na Dahon ng Kabuyaw
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_KALE:
+  name: Dinurog na Kale
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_KELP:
+  name: Dinurog na Kelp
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_KIWI:
+  name: Dinurog na Kiwi
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_LAVENDER:
+  name: Dinurog na Lavanda
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_LEEK:
+  name: Dinurog na Liki
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_LEMON:
+  name: Dinurog na Limon
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_LETTUCE:
+  name: Dinurog na Litsugas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_LICORICE:
+  name: Dinurog na Regalis
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_LIME:
+  name: Dinurog na Dayap
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_MACE:
+  name: Dinurog na Masis
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_MANGO:
+  name: Dinurog na Mangga
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_MARJORAM:
+  name: Dinurog na Mayorana
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_MARROW:
+  name: Dinurog na Upo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_MELON:
+  name: Dinurog na Pakwan
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_MINT:
+  name: Dinurog na Yerba Buena
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_MUSTARD_SEEDS:
+  name: Dinurog na Buto ng Mustasa
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_MUTTON:
+  name: Dinurog na Karne ng Tupa
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_NETTLES:
+  name: Dinurog na Lipa
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_OKRA:
+  name: Dinurog na Okra
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_ONION:
+  name: Dinurog na Sibuyas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_ORANGE:
+  name: Dinurog na Dalandan
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_OREGANO:
+  name: Dinurog na Oregano
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_PARSLEY:
+  name: Dinurog na Perehil
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_PARSNIP:
+  name: Dinurog na Pastinaka
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_PEA:
+  name: Dinurog na Gisantes
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_PEACH:
+  name: Dinurog na Melokoton
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_PEANUT:
+  name: Dinurog na Mani
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_PEAR:
+  name: Dinurog na Peras
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_PECAN:
+  name: Dinurog na Pekan
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_PEPPER:
+  name: Dinurog na Paminta
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_PEPPERONI:
+  name: Dinurog na Pepperoni
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_PINEAPPLE:
+  name: Dinurog na Pinya
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_PINTO_BEANS:
+  name: Dinurog na Bitsuwelas na Pinto
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_PORKCHOP:
+  name: Dinurog na Porkchop
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_POTATO:
+  name: Dinurog na Patatas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_PUFFERFISH:
+  name: Dinurog na Buteteng-laot
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_PUMPKIN:
+  name: Dinurog na Kalabasa
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_RABBIT:
+  name: Dinurog na Kuneho
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_RADDISH:
+  name: Dinurog na Labanos
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_RADICCHIO:
+  name: Dinurog na Pulang Tsikorya
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_RAPESEED:
+  name: Dinurog na Kanola
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_RED_MUSHROOM:
+  name: Dinurog na Pulang Kabute
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_RHUBARB:
+  name: Dinurog na Ruibarbo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_RICE:
+  name: Dinurog na Bigas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_ROSEMARY:
+  name: Dinurog na Romero
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_ROTTEN_FLESH:
+  name: Dinurog na Bulok na Laman
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_RUNNER_BEANS:
+  name: Dinurog na Sitaw
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_RUTABAGA:
+  name: Dinurog na Rutabaga
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_SALMON:
+  name: Dinurog na Salmon
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_SASSAFRAS:
+  name: Dinurog na Sasapras
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_SHALLOT:
+  name: Dinurog na Sibuyas Tagalog
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_SHISO:
+  name: Dinurog na Shiso
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_SOY_BEANS:
+  name: Dinurog na Utaw
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_SPINACH:
+  name: Dinurog na Espinaka
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_STAR_ANISE:
+  name: Dinurog na Sanke
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_STRAWBERRY:
+  name: Dinurog na Strawberry
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_SUGAR:
+  name: Dinurog na Asukal
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_SWEETCORN:
+  name: Dinurog na Mais
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_SWEET_BERRIES:
+  name: Dinurog na Bungantamis
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_SWEET_POTATO:
+  name: Dinurog na Kamote
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_TARRAGON:
+  name: Dinurog na Taragon
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_THYME:
+  name: Dinurog na Tomilyo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_TOMATO:
+  name: Dinurog na Kamatis
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_TURMERIC:
+  name: Dinurog na Luyang Dilaw
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_TURNIP:
+  name: Dinurog na Singkamas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_VANILLA:
+  name: Dinurog na Banilya
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_WASABI:
+  name: Dinurog na Wasabi
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MASHED_WHEAT:
+  name: Dinurog na Trigo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_MAYONNAISE:
+  name: Mayonesa
+  type:
+  - '&7&oAni'
+  description:
+  - Isang malasutlang mayonesa na bagay sa halos lahat.
+CLT_MEATBALLS:
+  name: Bola-bola
+  type:
+  - '&7&oAni'
+  description:
+  - Mga bola ng karne, sino ang mag-aakala.
+CLT_MEATLOAF:
+  name: Embutido
+  type:
+  - '&7&oPagkain'
+  description:
+  - Walang katulad! Tara na.
+  stats:
+  - '&8⇨ &7Paggaling: &bBuo'
+  - '&8⇨ &bHusay ng Lusog IV &7(10:00)'
+  - '&8⇨ &bResistensiya III &7(10:00)'
+  - '&8⇨ &bLiksi II &7(10:00)'
+  - '&8⇨ &bKabagalan II &7(10:00)'
+CLT_MINT:
+  name: Yerba Buena
+  type:
+  - '&7&oAni'
+  description:
+  - Nguya nguya nguya.
+CLT_MUSTARD:
+  name: Mustasa
+  type:
+  - '&7&oAni'
+  description:
+  - May kaunting sipa ito!
+CLT_MUSTARD_SEEDS:
+  name: Binhing Mustasa
+  type:
+  - '&7&oAni'
+  description:
+  - Nguyain mo ang mga ito, sige nga!
+CLT_NETTLES:
+  name: Lipa
+  type:
+  - '&7&oAni'
+  description:
+  - Pakisuot muna ang guwantes bago hawakan ang mga ito.
+CLT_OKRA:
+  name: Okra
+  type:
+  - '&7&oAni'
+  description:
+  - Maraming tumutubo sa Okra-homa... di ba, DI BA?
+CLT_ONION:
+  name: Sibuyas
+  type:
+  - '&7&oAni'
+  description:
+  - Teka, bakit ka umiiyak?
+CLT_ORANGE:
+  name: Dalandan
+  type:
+  - '&7&oAni'
+  description:
+  - Hindi ba dapat orasan ito, Clockwork Orange?
+CLT_ORANGE_JUICE:
+  name: Katas ng Dalandan
+  type:
+  - '&7&oPagkain'
+  description:
+  - Ito talaga ang pinakamagandang paraan para simulan ang araw.
+  stats:
+  - '&8⇨ &bKabilisan IV &7(10:00)'
+CLT_OREGANO:
+  name: Oregano
+  type:
+  - '&7&oAni'
+  description:
+  - Klasikong damong-gamot na laging nasa paminggalan.
+CLT_PARSLEY:
+  name: Perehil
+  type:
+  - '&7&oAni'
+  description:
+  - Pinaka. Pangit. Na. Damong-gamot.
+CLT_PARSNIP:
+  name: Pastinaka
+  type:
+  - '&7&oAni'
+  description:
+  - Kailangang ihawin agad-agad.
+CLT_PASTA:
+  name: Pasta
+  type:
+  - '&7&oAni'
+  description:
+  - Simpleng pasta lang, simple pero kahanga-hanga.
+CLT_PEA:
+  name: Gisantes
+  type:
+  - '&7&oAni'
+  description:
+  - Kadalasang magkapares sa loob ng balat, iyon ang balita ko.
+CLT_PEACH:
+  name: Melokoton
+  type:
+  - '&7&oAni'
+  description:
+  - Hindi natin pinag-uusapan ang Emoji
+CLT_PEANUT:
+  name: Mani
+  type:
+  - '&7&oAni'
+  description:
+  - Reece's, heto na ako!
+CLT_PEANUT_BUTTER:
+  name: Mantikilyang Mani
+  type:
+  - '&7&oAni'
+  description:
+  - Tanging likidong ginto lang ang katulad nito.
+CLT_PEANUT_BUTTER_JELLY_SANDWICH:
+  name: Sanwits na Mantikilyang Mani at Halaya
+  type:
+  - '&7&oPagkain'
+  description:
+  - Ito talaga ang rurok ng teknolohiya ng sanwits.
+  stats:
+  - '&8⇨ &7Paggaling: &b5 Puso'
+  - '&8⇨ &bKalakasan III &7(10:00)'
+CLT_PEAR:
+  name: Peras
+  type:
+  - '&7&oAni'
+  description:
+  - Hindi ba't mukhang peras-pekto ito?
+CLT_PECAN:
+  name: Pekan
+  type:
+  - '&7&oAni'
+  description:
+  - Nagmamakaawang gawin siyang pay.
+CLT_PECAN_PIE:
+  name: Pay na Pekan
+  type:
+  - '&7&oPagkain'
+  description:
+  - Ang tanging paraan para kumain ng purong asukal nang
+  - hindi hinuhusgahan ng lahat.
+  stats:
+  - '&8⇨ &7Paggaling: &b4 Puso'
+  - '&8⇨ &bPaglutang I &7(10:00)'
+CLT_PEPPER:
+  name: Paminta
+  type:
+  - '&7&oAni'
+  description:
+  - Mas maanghang kaysa asin.
+CLT_PEPPERONI:
+  name: Pepperoni
+  type:
+  - '&7&oAni'
+  description:
+  - Kaya kong ubusin ang isang buong rolyo nito, madali lang.
+CLT_PICO_DE_GALLO:
+  name: Pico de Gallo
+  type:
+  - '&7&oAni'
+  description:
+  - Isang banayad na salsa na puno ng purong sarap.
+CLT_PIE_CRUST:
+  name: Balat ng Pay
+  type:
+  - '&7&oAni'
+  description:
+  - Kung legal lang kainin ito nang mag-isa,
+  - ito na ang magiging pangunahing pagkain ko.
+CLT_PINEAPPLE:
+  name: Pinya
+  type:
+  - '&7&oAni'
+  description:
+  - Dapat nasa bawat pizza ito sa buong mundo.
+  - Gusto mo ng away!?
+CLT_PINTO_BEANS:
+  name: Bitsuwelas na Pinto
+  type:
+  - '&7&oAni'
+  description:
+  - Kaching! Oras na ng burrito.
+CLT_PIZZA_CHEESE:
+  name: Pizza na Keso
+  type:
+  - '&7&oPagkain'
+  description:
+  - Bakit may oorder ng keso lang? Ewan ko.
+  stats:
+  - '&8⇨ &7Paggaling: &b4 Puso'
+  - '&8⇨ &bKabagalan I &7(10:00)'
+CLT_PIZZA_MUSHROOM:
+  name: Pizza na Kabute
+  type:
+  - '&7&oPagkain'
+  description:
+  - Isang simpleng pizza na pang-vegetarian na puno ng protina.
+  stats:
+  - '&8⇨ &7Paggaling: &b6 Puso'
+  - '&8⇨ &bKabagalan I &7(10:00)'
+  - '&8⇨ &bLiksi II &7(10:00)'
+CLT_PIZZA_PEPPERONI:
+  name: Pizza na Pepperoni
+  type:
+  - '&7&oPagkain'
+  description:
+  - Isang klasiko ng New York na puno ng lasa.
+  stats:
+  - '&8⇨ &7Paggaling: &b6 Puso'
+  - '&8⇨ &bKabilisan I &7(10:00)'
+  - '&8⇨ &bLiksi I &7(10:00)'
+  - '&8⇨ &bHusay ng Talon I &7(10:00)'
+CLT_PLANT_AIR:
+  name: Halamang Sinaunang Hangin
+  type:
+  - '&7&oHalaman'
+  description:
+  - Isang halamang tahimik na humuhuni kasabay
+  - ng himig ng kalikasan sa paligid nito.
+  - '&eHindi namumunga ng item ang mga sinaunang halaman'
+  - '&eat para lamang sa pagpapalahi.'
+CLT_PLANT_AMETHYST:
+  name: Halamang Ametista
+  type:
+  - '&7&oHalaman'
+  description:
+  - Gustong-gusto ng halamang ito na yumabong sa malalalim at madidilim
+  - na lugar.
+CLT_PLANT_ANALYSER:
+  name: Pansuri ng Halaman
+  type:
+  - '&7&oKasangkapan'
+  description:
+  - Isang napakasimpleng kasangkapan na nagpapakita
+  - sa iyo ng mga detalye ng tumutubong halaman
+  usage:
+  - '&eRight Click&7: Ipinapakita ang uri at detalye ng paglaki ng isang halaman.'
+  - '&eShift Right Click&7: Ipinapakita ang pangalan ng halaman o palumpong.'
+CLT_PLANT_BASALT:
+  name: Halamang Batumbakal
+  type:
+  - '&7&oHalaman'
+  description:
+  - Isang napakaboring at napakatamlay na halaman.
+CLT_PLANT_BEE:
+  name: Halamang Bubuyog
+  type:
+  - '&7&oHalaman'
+  description:
+  - Isang halamang may napakaliit at maselang pares ng pakpak.
+CLT_PLANT_BLACKSTONE:
+  name: Halamang Batungitim
+  type:
+  - '&7&oHalaman'
+  description:
+  - Isang halamang kilalang sumisipsip ng liwanag.
+CLT_PLANT_BLAZE:
+  name: Halamang Lagablab
+  type:
+  - '&7&oHalaman'
+  description:
+  - Isang halamang sunog ang mga gilid.
+CLT_PLANT_CHICKEN:
+  name: Halamang Manok
+  type:
+  - '&7&oHalaman'
+  description:
+  - Sabi-sabi na kapag itinaas mo ang binhing
+  - ito sa ulo mo at tumalon ka mula sa
+  - mataas na lugar, lilipad ka sa halip na
+  - mahulog.
+CLT_PLANT_CLAY:
+  name: Halamang Luwad
+  type:
+  - '&7&oHalaman'
+  description:
+  - Malayang nahuhubog at nababago ang hugis ng halamang ito.
+  - Pero hindi ibig sabihin na magandang ideya iyon,
+  - ha!
+CLT_PLANT_COAL:
+  name: Halamang Batong-uling
+  type:
+  - '&7&oHalaman'
+  description:
+  - Isang halamang puno ng potensiyal.
+CLT_PLANT_COBBLESTONE:
+  name: Halamang Eskombro
+  type:
+  - '&7&oHalaman'
+  description:
+  - Kasintigas ng bato ang halamang ito.
+CLT_PLANT_CONCRETE:
+  name: Halamang Kongkreto
+  type:
+  - '&7&oHalaman'
+  description:
+  - Nahihirapang tumubo ang halamang ito dahil
+  - napakabilis nitong tumigas.
+CLT_PLANT_COW:
+  name: Halamang Baka
+  type:
+  - '&7&oHalaman'
+  description:
+  - Kapag inilapit mo ang binhing ito sa tainga mo
+  - at nakinig ka nang mabuti, maririnig mo
+  - ang paminsan-minsang pag-ungol ng baka.
+CLT_PLANT_CREEPER:
+  name: Halamang Creeper
+  type:
+  - '&7&oHalaman'
+  description:
+  - Tsssssssssttt...
+CLT_PLANT_DARKNESS:
+  name: Halamang Sinaunang Dilim
+  type:
+  - '&7&oHalaman'
+  description:
+  - Isang halamang kumukulo sa walang pigil na
+  - galit.
+  - '&eHindi namumunga ng item ang mga sinaunang halaman'
+  - '&eat para lamang sa pagpapalahi.'
+CLT_PLANT_DARK_FLORA:
+  name: Halamang Madilim na Flora
+  type:
+  - '&7&oHalaman'
+  description:
+  - Isang tahimik na kasamaan ang nakatago sa simpleng binhing ito.
+CLT_PLANT_DARK_GRASS:
+  name: Halamang Madilim na Damo
+  type:
+  - '&7&oHalaman'
+  description:
+  - Isang halamang tuluyan nang nawalan ng
+  - pagkakakilanlan.
+CLT_PLANT_DEEPSLATE:
+  name: Halamang Pisarang-lalim
+  type:
+  - '&7&oHalaman'
+  description:
+  - Malalim, mapisara, <ilagay ang lore dito>.
+CLT_PLANT_DIAMOND:
+  name: Halamang Diyamante
+  type:
+  - '&7&oHalaman'
+  description:
+  - Isang halamang yaman ang bukambibig.
+CLT_PLANT_DIM_LIT:
+  name: Halamang Malamlam
+  type:
+  - '&7&oHalaman'
+  description:
+  - Isang napakalamlam na liwanag ang nagmumula sa loob ng binhing ito.
+CLT_PLANT_DIRT:
+  name: Halamang Lupa
+  type:
+  - '&7&oHalaman'
+  description:
+  - Marumi sa labas pero hawak nito ang
+  - mga sangkap ng buhay mismo.
+CLT_PLANT_DROWNED:
+  name: Halamang Nangalunod
+  type:
+  - '&7&oHalaman'
+  description:
+  - Isang halamang basang-basa, sa lahat
+  - ng oras.
+CLT_PLANT_DUSTY:
+  name: Halamang Maalikabok
+  type:
+  - '&7&oHalaman'
+  description:
+  - Kailangan ng halamang ito ng espesyal na pag-aalaga, kahit ang
+  - bahagyang malakas na hangin ay puwedeng magpaguho
+  - rito.
+CLT_PLANT_EARTH:
+  name: Halamang Sinaunang Lupa
+  type:
+  - '&7&oHalaman'
+  description:
+  - Isang halamang nagpapayaman sa mundong
+  - nakapaligid dito.
+  - '&eHindi namumunga ng item ang mga sinaunang halaman'
+  - '&eat para lamang sa pagpapalahi.'
+CLT_PLANT_ECHO:
+  name: Halamang Alingawngaw
+  type:
+  - '&7&oHalaman'
+  description:
+  - Laging alam ng halamang ito kung paano
+  - hanapin ang daan pauwi.
+CLT_PLANT_ELDER_GUARDIAN:
+  name: Halamang Matandang Guwardiyan
+  type:
+  - '&7&oHalaman'
+  description:
+  - Kapag malapit sa halamang ito, nagiging
+  - matamlay ang mga tao.
+CLT_PLANT_EMERALD:
+  name: Halamang Esmeralda
+  type:
+  - '&7&oHalaman'
+  description:
+  - Kailangang dumaan sa butas ng karayom ng mga may-ari
+  - ng halamang ito para lang mabili ito.
+CLT_PLANT_ENDERMAN:
+  name: Halamang Enderman
+  type:
+  - '&7&oHalaman'
+  description:
+  - Kapag hindi inalagaan nang mabuti, ang halamang ito
+  - ay baka biglang mag-teleport!
+CLT_PLANT_ENDER_DRAGON:
+  name: Halamang Enderdragon
+  type:
+  - '&7&oHalaman'
+  description:
+  - Isang tunay na boss ng mga halaman.
+CLT_PLANT_END_STONE:
+  name: Halamang Batong End
+  type:
+  - '&7&oHalaman'
+  description:
+  - Isang halamang humuhuni kasabay ng kawalan.
+CLT_PLANT_FIRE:
+  name: Halamang Sinaunang Apoy
+  type:
+  - '&7&oHalaman'
+  description:
+  - Isang halamang nagbibigay ng parehong
+  - pinagmumulan ng pagkawasak at ng
+  - muling pagsilang.
+  - '&eHindi namumunga ng item ang mga sinaunang halaman'
+  - '&eat para lamang sa pagpapalahi.'
+CLT_PLANT_FISH:
+  name: Halamang Isda
+  type:
+  - '&7&oHalaman'
+  description:
+  - Isang amoy-hinog ang nagmumula sa binhing ito.
+CLT_PLANT_FLOWER:
+  name: Halamang Namumulaklak
+  type:
+  - '&7&oHalaman'
+  description:
+  - Isang magandang kornukopya na maayos na inihain.
+CLT_PLANT_FROG:
+  name: Halamang Palaka
+  type:
+  - '&7&oHalaman'
+  description:
+  - Kokak!
+CLT_PLANT_GHAST:
+  name: Halamang Ghast
+  type:
+  - '&7&oHalaman'
+  description:
+  - Isang halamang kilalang biglang
+  - bumubuga ng bolang apoy.
+CLT_PLANT_GLASS:
+  name: Halamang Salamin
+  type:
+  - '&7&oHalaman'
+  description:
+  - Sa tamang anggulo, maisusumpa mong
+  - kita mo ang kabila ng halamang ito.
+CLT_PLANT_GLAZED:
+  name: Halamang Barnisado
+  type:
+  - '&7&oHalaman'
+  description:
+  - Isang halamang tumutubo nang may masalimuot na disenyo.
+CLT_PLANT_GLOWING_VINE:
+  name: Halamang Sumisinag na Baging
+  type:
+  - '&7&oHalaman'
+  description:
+  - Isang malamlam na liwanag ang nagmumula sa loob ng binhing ito.
+CLT_PLANT_GLOW_SQUID:
+  name: Halamang Sumisinag na Pusit
+  type:
+  - '&7&oHalaman'
+  description:
+  - Isang kumikislap na halaman na may bahagyang sinag.
+CLT_PLANT_GOAT:
+  name: Halamang Kambing
+  type:
+  - '&7&oHalaman'
+  description:
+  - Isang halamang biglang nagwawala na mahilig
+  - tumalon-talon.
+CLT_PLANT_GRASS:
+  name: Halamang Damo
+  type:
+  - '&7&oHalaman'
+  description:
+  - Ang yumayabong na buhay na sumisibol
+  - mula sa lupa.
+CLT_PLANT_GRAVEL:
+  name: Halamang Graba
+  type:
+  - '&7&oHalaman'
+  description:
+  - Hindi talaga alam ng halamang ito kung paano
+  - buuin ang sarili niya.
+CLT_PLANT_GUARDIAN:
+  name: Halamang Guwardiyan
+  type:
+  - '&7&oHalaman'
+  description:
+  - Kapag hinawakan, naglalabas ang halamang ito
+  - ng mga tinik.
+CLT_PLANT_IGNEOUS:
+  name: Halamang Bulkaniko
+  type:
+  - '&7&oHalaman'
+  description:
+  - Nabuo ang halamang ito mula sa init at
+  - presyon. Huwag mo akong tingnan nang ganyan! May
+  - saysay ang lahat ng paglalarawang ito ng halaman.
+CLT_PLANT_LAPIS:
+  name: Halamang Lapis
+  type:
+  - '&7&oHalaman'
+  description:
+  - Isang halamang may bahagyang mahiwagang aura.
+CLT_PLANT_LIGHT:
+  name: Halamang Sinaunang Liwanag
+  type:
+  - '&7&oHalaman'
+  description:
+  - Isang halamang naglalabas ng aura
+  - ng purong pag-ibig.
+  - '&eHindi namumunga ng item ang mga sinaunang halaman'
+  - '&eat para lamang sa pagpapalahi.'
+CLT_PLANT_MAGMA:
+  name: Halamang Magma
+  type:
+  - '&7&oHalaman'
+  description:
+  - Isang halamang sobrang init na sinusunog nito ang
+  - paligid niya.
+CLT_PLANT_MAGMA_CUBE:
+  name: Halamang Magmang Kyub
+  type:
+  - '&7&oHalaman'
+  description:
+  - Kapag walang nakatingin, mahilig ang halamang ito
+  - na tumalbog-talbog.
+CLT_PLANT_MOSS:
+  name: Halamang Lumot
+  type:
+  - '&7&oHalaman'
+  description:
+  - Madalas kumalat nang hindi mapigilan ang halamang ito.
+CLT_PLANT_MUD:
+  name: Halamang Putik
+  type:
+  - '&7&oHalaman'
+  description:
+  - Isang halamang halos kasindumi ng
+  - lupang pinagmulan nito.
+CLT_PLANT_MUSHROOM:
+  name: Halamang Kabute
+  type:
+  - '&7&oHalaman'
+  description:
+  - Oo, isang halamang gumagawa ng kabute.
+  - Normal na normal ang lahat dito.
+CLT_PLANT_NETHERRACK:
+  name: Halamang Netherrack
+  type:
+  - '&7&oHalaman'
+  description:
+  - Isang matatag at matibay na halaman na nabubuhay
+  - sa karamihan ng lugar.
+CLT_PLANT_NETHER_QUARTZ:
+  name: Halamang Kinyang-Nether
+  type:
+  - '&7&oHalaman'
+  description:
+  - Sobrang tatalim ng tinik ng halamang ito kaya
+  - mahirap itong hawakan.
+CLT_PLANT_PHANTOM:
+  name: Halamang Guniguni
+  type:
+  - '&7&oHalaman'
+  description:
+  - Isang halamang may matatayog na dahon.
+CLT_PLANT_PIG:
+  name: Halamang Baboy
+  type:
+  - '&7&oHalaman'
+  description:
+  - Isang halamang biglang sumisinghot.
+CLT_PLANT_POWER:
+  name: Halamang Sinaunang Lakas
+  type:
+  - '&7&oHalaman'
+  description:
+  - Isang halamang umaapaw sa kapangyarihan.
+  - '&eHindi namumunga ng item ang mga sinaunang halaman'
+  - '&eat para lamang sa pagpapalahi.'
+CLT_PLANT_PURPUR:
+  name: Halamang Purpur
+  type:
+  - '&7&oHalaman'
+  description:
+  - Isang kakaibang halaman, mukhang mas magaan
+  - kaysa sa karamihan.
+CLT_PLANT_RABBIT:
+  name: Halamang Kuneho
+  type:
+  - '&7&oHalaman'
+  description:
+  - Ipagmamalaki ito ng mga insekto.
+CLT_PLANT_RAINBOW:
+  name: Halamang Bahaghari
+  type:
+  - '&7&oHalaman'
+  description:
+  - Baka may, baka wala, na palayok ng ginto
+  - sa dulo ng halamang ito.
+CLT_PLANT_RAW_COPPER:
+  name: Halamang Hilaw na Tanso
+  type:
+  - '&7&oHalaman'
+  description:
+  - Kapag pinabayaan, minsan ay nakaaakit
+  - ng kidlat ang halamang ito.
+CLT_PLANT_RAW_GOLD:
+  name: Halamang Hilaw na Ginto
+  type:
+  - '&7&oHalaman'
+  description:
+  - Madalas itong nakawin ng mga Piglin
+  - kapag malapit sila.
+CLT_PLANT_RAW_IRON:
+  name: Halamang Hilaw na Bakal
+  type:
+  - '&7&oHalaman'
+  description:
+  - Isang matibay na halamang kayang tiisin ang karamihan
+  - ng kapaligiran.
+CLT_PLANT_REDSTONE:
+  name: Halamang Redstone
+  type:
+  - '&7&oHalaman'
+  description:
+  - Isang halamang umaapaw sa lakas sa buong katawan.
+CLT_PLANT_RED_SAND:
+  name: Halamang Pulang Buhangin
+  type:
+  - '&7&oHalaman'
+  description:
+  - Minsan ay gumuguho ang halamang ito sa
+  - isang hawak lang, pero... mas pula.
+CLT_PLANT_REINFORCED:
+  name: Halamang Pinatibay
+  type:
+  - '&7&oHalaman'
+  description:
+  - Isang halamang kayang tumayo nang matatag
+  - sa kahit anong pagsubok.
+CLT_PLANT_SAND:
+  name: Halamang Buhangin
+  type:
+  - '&7&oHalaman'
+  description:
+  - Minsan ay gumuguho ang halamang ito sa
+  - isang hawak lang.
+CLT_PLANT_SAPLING:
+  name: Halamang Punla
+  type:
+  - '&7&oHalaman'
+  description:
+  - Wala talagang saysay ang halamang ito...
+CLT_PLANT_SCRAPPY:
+  name: Halamang Pira-piraso
+  type:
+  - '&7&oHalaman'
+  description:
+  - Ang halamang ito talaga ang rurok ng
+  - paghahalaman.
+CLT_PLANT_SHEEP:
+  name: Halamang Tupa
+  type:
+  - '&7&oHalaman'
+  description:
+  - Isang halamang may magaspang at malanang tekstura.
+CLT_PLANT_SHULKER:
+  name: Halamang Shulker
+  type:
+  - '&7&oHalaman'
+  description:
+  - Isang halamang madalas lumulutang mula
+  - sa lupa.
+CLT_PLANT_SKELETON:
+  name: Halamang Kalansay
+  type:
+  - '&7&oHalaman'
+  description:
+  - Isang halamang kumakalansing habang umuugoy.
+CLT_PLANT_SLIME:
+  name: Halamang Slime
+  type:
+  - '&7&oHalaman'
+  description:
+  - Bakit ang lagkit nito?
+CLT_PLANT_SOUL:
+  name: Halamang Kaluluwa
+  type:
+  - '&7&oHalaman'
+  description:
+  - Isang halamang naririnig na sumisigaw
+  - kapag tahimik ang paligid.
+CLT_PLANT_SPECTRUM:
+  name: Halamang Sinaunang Spektro
+  type:
+  - '&7&oHalaman'
+  description:
+  - Isang halamang bahagyang nagbabago ng kulay.
+  - '&eHindi namumunga ng item ang mga sinaunang halaman'
+  - '&eat para lamang sa pagpapalahi.'
+CLT_PLANT_SPIDER:
+  name: Halamang Gagamba
+  type:
+  - '&7&oHalaman'
+  description:
+  - Patayin mo, patayin mo NA NGAYON!
+CLT_PLANT_SQUID:
+  name: Halamang Pusit
+  type:
+  - '&7&oHalaman'
+  description:
+  - Mag-ingat, kapag hinawakan mo lang ang halamang ito
+  - ay may tsansang sumabog ang tinta sa buong
+  - paligid.
+CLT_PLANT_STAINED:
+  name: Halamang Kinulayan
+  type:
+  - '&7&oHalaman'
+  description:
+  - Hinahati ng halamang ito ang liwanag sa isang tunay na
+  - spektro papunta sa mga bagay sa paligid.
+CLT_PLANT_TERRA:
+  name: Halamang Terra
+  type:
+  - '&7&oHalaman'
+  description:
+  - Isang matigas na halamang makalupa na nabibiyak kapag naiipit.
+CLT_PLANT_TURTLE:
+  name: Halamang Pawikan
+  type:
+  - '&7&oHalaman'
+  description:
+  - Isang binhing nababalot ng kasintigas-batong balat.
+CLT_PLANT_VILLAGER:
+  name: Halamang Taganayon
+  type:
+  - '&7&oHalaman'
+  description:
+  - Oo, isiniksik namin ang diwa ng isang Taganayon
+  - sa loob ng halaman. Mukhang masakit daw iyon.
+CLT_PLANT_VINE:
+  name: Halamang Baging
+  type:
+  - '&7&oHalaman'
+  description:
+  - Isang halamang agad nagkakabuhol-buhol
+  - sa sarili.
+CLT_PLANT_WATER:
+  name: Halamang Sinaunang Tubig
+  type:
+  - '&7&oHalaman'
+  description:
+  - Isang halamang nag-aalaga at nagbibigay
+  - ng buhay sa paligid nito.
+  - '&eHindi namumunga ng item ang mga sinaunang halaman'
+  - '&eat para lamang sa pagpapalahi.'
+CLT_PLANT_WAXY:
+  name: Halamang Mapagkit
+  type:
+  - '&7&oHalaman'
+  description:
+  - Ang dagta ng halamang ito ay nagiging
+  - perpektong pagkit na hugis-kandila.
+CLT_PLANT_WEALTH:
+  name: Halamang Sinaunang Yaman
+  type:
+  - '&7&oHalaman'
+  description:
+  - Isang halamang sumisigaw ng umaapaw na yaman.
+  - '&eHindi namumunga ng item ang mga sinaunang halaman'
+  - '&eat para lamang sa pagpapalahi.'
+CLT_PLANT_WITCH:
+  name: Halamang Mangkukulam
+  type:
+  - '&7&oHalaman'
+  description:
+  - Isang halamang parang marahang bumubulong
+  - ng mga orasyon.
+CLT_PLANT_WITHER:
+  name: Halamang Wither
+  type:
+  - '&7&oHalaman'
+  description:
+  - Isang nakamamatay na halaman na dapat hawakan
+  - nang may pag-iingat.
+CLT_PLANT_WITHER_ROSE:
+  name: Halamang Rosas ng Wither
+  type:
+  - '&7&oHalaman'
+  description:
+  - Ang halamang ito, kahit papaano, ay naglalabas ng mapanganib
+  - na aura sa paligid nito.
+CLT_PLANT_WITHER_SKELETON:
+  name: Halamang Wither na Kalansay
+  type:
+  - '&7&oHalaman'
+  description:
+  - Isang halamang kilalang mailap at matibay.
+CLT_PLANT_WOOLLY:
+  name: Halamang Malana
+  type:
+  - '&7&oHalaman'
+  description:
+  - Isang malanang halaman, mula ugat hanggang talulot!
+CLT_PLANT_ZOMBIE:
+  name: Halamang Zombi
+  type:
+  - '&7&oHalaman'
+  description:
+  - Tumutulo ang halamang ito ng... kung ano man...
+CLT_RADDISH:
+  name: Labanos
+  type:
+  - '&7&oAni'
+  description:
+  - Maliliit na bulsa ng sariwa at malutong na sikat ng araw.
+CLT_RADICCHIO:
+  name: Pulang Tsikorya
+  type:
+  - '&7&oAni'
+  description:
+  - Ang tagal isulat ng lahat ng lore na ito.
+  - Walang katapusan, walang labanos.
+CLT_RAMEN_BEEF:
+  name: Ramen na Baka
+  type:
+  - '&7&oPagkain'
+  description:
+  - Isang hindi gaanong masustansiyang pagpili.
+  stats: &id004
+  - '&8⇨ &bHusay ng Lusog I &7(10:00)'
+CLT_RAMEN_BEEF_HEARTY:
+  name: Masaganang Ramen na Baka
+  type:
+  - '&7&oPagkain'
+  description:
+  - Isang masustansiyang pagpili.
+  stats: &id005
+  - '&8⇨ &7Paggaling: &bBuo'
+  - '&8⇨ &bHusay ng Lusog II &7(10:00)'
+  - '&8⇨ &bKabilisan I &7(10:00)'
+CLT_RAMEN_CHICKEN:
+  name: Ramen na Manok
+  type:
+  - '&7&oPagkain'
+  description:
+  - Isang hindi gaanong nakabubusog na pagpili.
+  stats: *id004
+CLT_RAMEN_CHICKEN_HEARTY:
+  name: Masaganang Ramen na Manok
+  type:
+  - '&7&oPagkain'
+  description:
+  - Isang nakabubusog na pagpili.
+  stats: *id005
+CLT_RAMEN_SEAFOOD:
+  name: Ramen na Pagkaing-dagat
+  type:
+  - '&7&oPagkain'
+  description:
+  - Isang hindi gaanong nakasisiyang pagpili.
+  stats: *id004
+CLT_RAMEN_SEAFOOD_HEARTY:
+  name: Masaganang Ramen na Pagkaing-dagat
+  type:
+  - '&7&oPagkain'
+  description:
+  - Isang nakasisiyang pagpili.
+  stats: *id005
+CLT_RAPESEED:
+  name: Kanola
+  type:
+  - '&7&oAni'
+  description:
+  - Madalas gamitin sa paggawa ng mantika.
+CLT_RECIPE_UNLOCK:
+  name: Kasulatan ng Kaalaman sa Cultivation
+  type:
+  - '&7&oKasangkapan'
+  description:
+  - I-right click para matuto ng isang resipe
+  - ng pagpapalahi sa Cultivation.
+CLT_RHUBARB:
+  name: Ruibarbo
+  type:
+  - '&7&oAni'
+  description:
+  - Siguraduhin lang na tanggalin ang mga dahon!
+CLT_RICE:
+  name: Bigas
+  type:
+  - '&7&oAni'
+  description:
+  - Tandaan, minsan ka lang mabubuhay, kaya kumain ka ng kanin!
+CLT_ROSEMARY:
+  name: Romero
+  type:
+  - '&7&oAni'
+  description:
+  - Madalas kinakapos sa oras... este, sa tomilyo.
+CLT_RUNNER_BEANS:
+  name: Sitaw
+  type:
+  - '&7&oAni'
+  description:
+  - Laging sinusubukang tumakas.
+CLT_RUTABAGA:
+  name: Rutabaga
+  type:
+  - '&7&oAni'
+  description:
+  - Masakit talaga na hindi ito tawaging swede.
+CLT_SALMON_NIGIRI:
+  name: Nigiring Salmon
+  type:
+  - '&7&oPagkain'
+  description:
+  - Isang nakatutuwa ngunit banayad na lasa.
+  stats:
+  - '&8⇨ &7Paggaling: &b2 Puso'
+  - '&8⇨ &bLunas I &7(10:00)'
+CLT_SASSAFRAS:
+  name: Sasapras
+  type:
+  - '&7&oAni'
+  description:
+  - Root Beer na nakakain, seryoso, i-google mo
+  - ito, palagi na akong bumibili nito.
+CLT_SAUSAGE:
+  name: Longganisa
+  type:
+  - '&7&oPagkain'
+  description:
+  - Kapatid ni Bacon.
+  stats: &id007
+  - '&8⇨ &7Paggaling: &b1 Puso'
+CLT_SEED_PACK:
+  name: Pakete ng Binhi
+  type:
+  - '&7&oKasangkapan'
+  description:
+  - I-right click para buksan ang pakete.
+  stats:
+  - '&8⇨ &7Nakatakda sa: &bWala'
+CLT_SHAKSHUKA:
+  name: Shakshuka
+  type:
+  - '&7&oPagkain'
+  description:
+  - Ulam na pampainit ng puso, punong-puno ng itlog.
+  stats:
+  - '&8⇨ &7Paggaling: &b4 Puso'
+  - '&8⇨ &bBayani ng Nayon I &7(10:00)'
+  - '&8⇨ &bSuwerte I &7(10:00)'
+CLT_SHALLOT:
+  name: Sibuyas Tagalog
+  type:
+  - '&7&oAni'
+  description:
+  - Gustong-gusto ko ang sibuyas tagalog, sobra-sobra.
+CLT_SHEPHERDS_PIE:
+  name: Pay ng Pastol
+  type:
+  - '&7&oPagkain'
+  description:
+  - Mainit, nakabubusog at talagang kahanga-hanga.
+  stats: *id006
+CLT_SHISO:
+  name: Shiso
+  type:
+  - '&7&oAni'
+  description:
+  - Yerba buena na may kasamang pagmamahal.
+CLT_SLICED_APPLE:
+  name: Hiniwang Mansanas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_APRICOT:
+  name: Hiniwang Aprikot
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_ARTICHOKE:
+  name: Hiniwang Alkatsopas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_ASPARAGUS:
+  name: Hiniwang Asparagus
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_AUBERGINE:
+  name: Hiniwang Talong
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_AVOCADO:
+  name: Hiniwang Abukado
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_BANANA:
+  name: Hiniwang Saging
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_BASIL:
+  name: Hiniwang Balanoy
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_BAY_LEAF:
+  name: Hiniwang Dahon ng Laurel
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_BEEF:
+  name: Hiniwang Karneng Baka
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_BEETROOT:
+  name: Hiniwang Remolatsa
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_BELL_PEPPER:
+  name: Hiniwang Atsal
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_BLACK_BEANS:
+  name: Hiniwang Itim na Bitsuwelas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_BREAD:
+  name: Hiniwang Tinapay
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_BROCCOLI:
+  name: Hiniwang Brokoli
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_BROWN_MUSHROOM:
+  name: Hiniwang Kayumangging Kabute
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_BRUSSELS_SPROUTS:
+  name: Hiniwang Repolyong Brussels
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_CABBAGE:
+  name: Hiniwang Repolyo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_CARROT:
+  name: Hiniwang Karot
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_CAULIFLOWER:
+  name: Hiniwang Koliplor
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_CAYENNE_PEPPER:
+  name: Hiniwang Siling Cayenne
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_CELERIAC:
+  name: Hiniwang Kintsay-ugat
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_CELERY:
+  name: Hiniwang Kintsay
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_CHERRY:
+  name: Hiniwang Seresa
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_CHESTNUT:
+  name: Hiniwang Kastanyas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_CHICKEN:
+  name: Hiniwang Manok
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_CHICKPEAS:
+  name: Hiniwang Garbansos
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_CHICORY:
+  name: Hiniwang Tsikorya
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_CHILLY_PEPPER:
+  name: Hiniwang Sili
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_CHIVES:
+  name: Hiniwang Kutsay
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_CHORUS_FRUIT:
+  name: Hiniwang Korong-bunga
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_CILANTRO:
+  name: Hiniwang Kulantro
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_CINNAMON:
+  name: Hiniwang Kanela
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_CLOVE:
+  name: Hiniwang Klabo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_COCOA_BEANS:
+  name: Hiniwang Kakaw
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_COD:
+  name: Hiniwang Bakalaw
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_COURGETTE:
+  name: Hiniwang Sukini
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_CUCUMBER:
+  name: Hiniwang Pipino
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_CUMIN:
+  name: Hiniwang Komino
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_CURRY_LEAF:
+  name: Hiniwang Dahon ng Kari
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_DILL:
+  name: Hiniwang Eneldo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_EGG:
+  name: Hiniwang Itlog
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_ENCHANTED_GOLDEN_APPLE:
+  name: Hiniwang Masalamangkang Mansanas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_FENNEL:
+  name: Hiniwang Haras
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_GARLIC:
+  name: Hiniwang Bawang
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_GINGER:
+  name: Hiniwang Luya
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_GLOW_BERRIES:
+  name: Hiniwang Bungansinag
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_GOLDEN_APPLE:
+  name: Hiniwang Gintong Mansanas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_GOLDEN_CARROT:
+  name: Hiniwang Gintong Karot
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_GRAPE:
+  name: Hiniwang Ubas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_GREEN_APPLE:
+  name: Hiniwang Berdeng Mansanas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_GREEN_BEANS:
+  name: Hiniwang Bitsuwelas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_GREEN_ONION:
+  name: Hiniwang Dahon ng Sibuyas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_HAZELNUT:
+  name: Hiniwang Abelyana
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_HORSERADISH:
+  name: Hiniwang Labanos-kabayo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_JALAPENO:
+  name: Hiniwang Siling Jalapeño
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_JASMINE:
+  name: Hiniwang Sampagita
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_JUNIPER_BERRY:
+  name: Hiniwang Bunga ng Junipero
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_KAFFIR_LIME:
+  name: Hiniwang Dahon ng Kabuyaw
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_KALE:
+  name: Hiniwang Kale
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_KELP:
+  name: Hiniwang Kelp
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_KIWI:
+  name: Hiniwang Kiwi
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_LAVENDER:
+  name: Hiniwang Lavanda
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_LEEK:
+  name: Hiniwang Liki
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_LEMON:
+  name: Hiniwang Limon
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_LETTUCE:
+  name: Hiniwang Litsugas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_LICORICE:
+  name: Hiniwang Regalis
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_LIME:
+  name: Hiniwang Dayap
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_MACE:
+  name: Hiniwang Masis
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_MANGO:
+  name: Hiniwang Mangga
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_MARJORAM:
+  name: Hiniwang Mayorana
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_MARROW:
+  name: Hiniwang Upo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_MELON:
+  name: Hiniwang Pakwan
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_MINT:
+  name: Hiniwang Yerba Buena
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_MUSTARD_SEEDS:
+  name: Hiniwang Buto ng Mustasa
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_MUTTON:
+  name: Hiniwang Karne ng Tupa
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_NETTLES:
+  name: Hiniwang Lipa
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_OKRA:
+  name: Hiniwang Okra
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_ONION:
+  name: Hiniwang Sibuyas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_ORANGE:
+  name: Hiniwang Dalandan
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_OREGANO:
+  name: Hiniwang Oregano
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_PARSLEY:
+  name: Hiniwang Perehil
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_PARSNIP:
+  name: Hiniwang Pastinaka
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_PEA:
+  name: Hiniwang Gisantes
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_PEACH:
+  name: Hiniwang Melokoton
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_PEANUT:
+  name: Hiniwang Mani
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_PEAR:
+  name: Hiniwang Peras
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_PECAN:
+  name: Hiniwang Pekan
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_PEPPER:
+  name: Hiniwang Paminta
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_PEPPERONI:
+  name: Hiniwang Pepperoni
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_PINEAPPLE:
+  name: Hiniwang Pinya
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_PINTO_BEANS:
+  name: Hiniwang Bitsuwelas na Pinto
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_PORKCHOP:
+  name: Hiniwang Porkchop
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_POTATO:
+  name: Hiniwang Patatas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_PUFFERFISH:
+  name: Hiniwang Buteteng-laot
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_PUMPKIN:
+  name: Hiniwang Kalabasa
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_RABBIT:
+  name: Hiniwang Kuneho
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_RADDISH:
+  name: Hiniwang Labanos
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_RADICCHIO:
+  name: Hiniwang Pulang Tsikorya
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_RAPESEED:
+  name: Hiniwang Kanola
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_RED_MUSHROOM:
+  name: Hiniwang Pulang Kabute
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_RHUBARB:
+  name: Hiniwang Ruibarbo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_RICE:
+  name: Hiniwang Bigas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_ROSEMARY:
+  name: Hiniwang Romero
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_ROTTEN_FLESH:
+  name: Hiniwang Bulok na Laman
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_RUNNER_BEANS:
+  name: Hiniwang Sitaw
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_RUTABAGA:
+  name: Hiniwang Rutabaga
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_SALMON:
+  name: Hiniwang Salmon
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_SASSAFRAS:
+  name: Hiniwang Sasapras
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_SHALLOT:
+  name: Hiniwang Sibuyas Tagalog
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_SHISO:
+  name: Hiniwang Shiso
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_SOY_BEANS:
+  name: Hiniwang Utaw
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_SPINACH:
+  name: Hiniwang Espinaka
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_STAR_ANISE:
+  name: Hiniwang Sanke
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_STRAWBERRY:
+  name: Hiniwang Strawberry
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_SUGAR:
+  name: Hiniwang Asukal
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_SWEETCORN:
+  name: Hiniwang Mais
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_SWEET_BERRIES:
+  name: Hiniwang Bungantamis
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_SWEET_POTATO:
+  name: Hiniwang Kamote
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_TARRAGON:
+  name: Hiniwang Taragon
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_THYME:
+  name: Hiniwang Tomilyo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_TOMATO:
+  name: Hiniwang Kamatis
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_TURMERIC:
+  name: Hiniwang Luyang Dilaw
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_TURNIP:
+  name: Hiniwang Singkamas
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_VANILLA:
+  name: Hiniwang Banilya
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_WASABI:
+  name: Hiniwang Wasabi
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SLICED_WHEAT:
+  name: Hiniwang Trigo
+  type:
+  - '&7&oLabis na Produkto'
+CLT_SOFT_BOILED_EGG:
+  name: Malasadong Itlog
+  type:
+  - '&7&oPagkain'
+  description:
+  - Nilagang itlog lang, ano pa ba ang masasabi.
+  stats:
+  - '&8⇨ &7Paggaling: &b1 Puso'
+  - '&8⇨ &7Minsan ay nakatatawag ng manok para tulungan ka.'
+CLT_SOYLENT:
+  name: Soylent
+  type:
+  - '&7&oPagkain'
+  description:
+  - Lahat ng kailangan ng katawan!
+  stats:
+  - '&8⇨ &bMasamang Pangitain I &7(10:00)'
+  - '&8⇨ &bKahinaan IV &7(10:00)'
+CLT_SOY_BEANS:
+  name: Utaw
+  type:
+  - '&7&oAni'
+  description:
+  - Paparating na ang gatas na soya.
+CLT_SPAGHETTI:
+  name: Ispageti
+  type:
+  - '&7&oPagkain'
+  description:
+  - Higop lang nang higop.
+  stats: *id007
+CLT_SPAGHETTI_AND_MEATBALLS:
+  name: Ispageti at Bola-bola
+  type:
+  - '&7&oPagkain'
+  description:
+  - Simple, klasiko at nakabubusog.
+  stats:
+  - '&8⇨ &7Paggaling: &b1 Puso'
+  - '&8⇨ &bMasamang Pangitain I &7(10:00)'
+CLT_SPINACH:
+  name: Espinaka
+  type:
+  - '&7&oAni'
+  description:
+  - Nilanta nang may pagmamahal.
+CLT_STAR_ANISE:
+  name: Sanke
+  type:
+  - '&7&oAni'
+  description:
+  - Isa sa pinakamasarap at pinakanatatanging lasa.
+CLT_STRAWBERRY:
+  name: Strawberry
+  type:
+  - '&7&oAni'
+  description:
+  - Lagyan lang ng krema!
+CLT_STRAWBERRY_JELLY:
+  name: Halayang Strawberry
+  type:
+  - '&7&oAni'
+  description: *id008
+CLT_SUGARED_SKULL:
+  name: Matamis na Bungo
+  type:
+  - '&7&oPagkain'
+  description:
+  - Pagkain ba talaga ito...?
+  stats:
+  - '&8⇨ &bKadiliman III &7(10:00)'
+CLT_SWEETCORN:
+  name: Mais
+  type:
+  - '&7&oAni'
+  description:
+  - Baka ito na ang pinakamagaling na gulay sa paligid.
+CLT_SWEET_BEEHIVE:
+  name: Matamis na Bahay-pukyutan
+  type:
+  - '&7&oPagkain'
+  description:
+  - Hindi ko alam kung bakit mo naisipang lutuin ito!
+  stats:
+  - '&8⇨ &7Nagpapatawag ng mga bubuyog!'
+CLT_SWEET_POTATO:
+  name: Kamote
+  type:
+  - '&7&oAni'
+  description:
+  - Kamote, kamote, kamote.
+CLT_TAQUITO:
+  name: Taquito
+  type:
+  - '&7&oPagkain'
+  description:
+  - Ipagmamalaki ito ni Zim!
+  stats:
+  - '&8⇨ &7Paggaling: &b4 Puso'
+  - '&8⇨ &7Ipinapatawag si Gir para tumulong (Bakal na Golem lang siya, kalma).'
+CLT_TARRAGON:
+  name: Taragon
+  type:
+  - '&7&oAni'
+  description:
+  - Literal na inilalagay ko ito sa kahit ano.
+  - 'Babala: Hindi ako magaling na kusinero.'
+CLT_TATER_TOTS:
+  name: Tater Tots
+  type:
+  - '&7&oPagkain'
+  description:
+  - Maliliit na patatas na isusubo nang buo.
+  stats:
+  - '&8⇨ &7Paggaling: &b0.5 Puso'
+  - '&8⇨ &bKabilisan II &7(10:00)'
+CLT_THYME:
+  name: Tomilyo
+  type:
+  - '&7&oAni'
+  description:
+  - Madalas hinahanap-hanap ang romero.
+CLT_TOMATO:
+  name: Kamatis
+  type:
+  - '&7&oAni'
+  description:
+  - Bagong pitas mula sa baging.... ay... palumpong pala?
+CLT_TORTILLAS:
+  name: Tortilya
+  type:
+  - '&7&oAni'
+  description:
+  - Mga sarap na gawa sa harina ng mais
+CLT_TREE_APRICOT:
+  name: Puno ng Aprikot
+  type:
+  - '&7&oPunla'
+  description:
+  - Sa loob ay may iisang buto ng kawalan ng pag-asa.
+  stats: &id009
+  - '&8⇨ &7Disenyo ni: &bBWhite'
+CLT_TREE_BANANA:
+  name: Puno ng Saging
+  type:
+  - '&7&oPunla'
+  description:
+  - Isang punong tinutubuan ng mga daliri, nakakakilabot!
+  stats:
+  - '&8⇨ &7Disenyo ni: &bSefiraat'
+CLT_TREE_CHERRY:
+  name: Puno ng Seresa
+  type:
+  - '&7&oPunla'
+  description:
+  - Itali na ang buhol!
+  stats:
+  - '&8⇨ &7Disenyo ni: &bReasonFoundDecoy'
+CLT_TREE_CHESTNUT:
+  name: Puno ng Kastanyas
+  type:
+  - '&7&oPunla'
+  description:
+  - Isang punong halatang ginawa para akyatin.
+  stats: &id010
+  - '&8⇨ &7Disenyo ni: &bABitOddish'
+CLT_TREE_GREEN_APPLE:
+  name: Puno ng Berdeng Mansanas
+  type:
+  - '&7&oPunla'
+  description:
+  - Namumunga ng malalaki at malulutong na berdeng mansanas.
+  stats: *id009
+CLT_TREE_HAZELNUT:
+  name: Puno ng Abelyana
+  type:
+  - '&7&oPunla'
+  description:
+  - Ang pagyugyog sa punong ito ay libangan noong bata pa tayo.
+  stats: *id010
+CLT_TREE_KIWI:
+  name: Puno ng Kiwi
+  type:
+  - '&7&oPunla'
+  description:
+  - Puno mula sa New Zealand? Tama ba ako?
+  stats: *id010
+CLT_TREE_LEMON:
+  name: Puno ng Limon
+  type:
+  - '&7&oPunla'
+  description:
+  - Tingnan mo pa lang ang punong ito, maasim na ang lasa.
+  stats: &id011
+  - '&8⇨ &7Disenyo ni: &bJeff'
+CLT_TREE_LIME:
+  name: Puno ng Dayap
+  type:
+  - '&7&oPunla'
+  description:
+  - Alam mo bang ang Dayap ay Limon lang na nagpipigil ng hininga?
+  stats: *id010
+CLT_TREE_MANGO:
+  name: Puno ng Mangga
+  type:
+  - '&7&oPunla'
+  description:
+  - Pinakamasarap kapag hinog na hinog.
+  stats: *id009
+CLT_TREE_ORANGE:
+  name: Puno ng Dalandan
+  type:
+  - '&7&oPunla'
+  description:
+  - Maliliit na bilog ng sikat ng araw.
+  stats: *id011
+CLT_TREE_PEACH:
+  name: Puno ng Melokoton
+  type:
+  - '&7&oPunla'
+  description:
+  - Ito yata ang hinahanap ni James?
+  stats: *id010
+CLT_TREE_PEAR:
+  name: Puno ng Peras
+  type:
+  - '&7&oPunla'
+  description:
+  - Pinares-pares ang Peras para pare-pareho.
+  stats: *id009
+CLT_TREE_PECAN:
+  name: Puno ng Pekan
+  type:
+  - '&7&oPunla'
+  description:
+  - Kaya ba nating patubuin ang punong ito? Oo, pe-kan natin!
+  stats: *id009
+CLT_TREE_PINEAPPLE:
+  name: Puno ng Pinya
+  type:
+  - '&7&oPunla'
+  description:
+  - NASAAN ANG PIZZA KO?
+  stats: *id010
+CLT_TURMERIC:
+  name: Luyang Dilaw
+  type:
+  - '&7&oAni'
+  description:
+  - Isang matapang at mabangong presensiya na bumubuo sa maraming ulam.
+CLT_TURNIP:
+  name: Singkamas
+  type:
+  - '&7&oAni'
+  description:
+  - Lulutasin ang lahat ng problema sa buhay.
+CLT_VANILLA:
+  name: Banilya
+  type:
+  - '&7&oAni'
+  description:
+  - 'Paraan: Isawsaw nang diretso sa Latte'
+CLT_WASABI:
+  name: Wasabi
+  type:
+  - '&7&oAni'
+  description:
+  - Tulong... wasabi...
+CLT_WITHER_ROSE_SALAD:
+  name: Ensaladang Rosas ng Wither
+  type:
+  - '&7&oPagkain'
+  description:
+  - Umaapaw sa lakas pero may mabigat na side effect.
+  stats:
+  - '&8⇨ &7Paggaling: &bBuo'
+  - '&8⇨ &bLanta II &7(10:00)'
+  - '&8⇨ &bHusay ng Lusog XX &7(10:00)'

@@ -1,0 +1,65 @@
+lore:
+  seed-pack-set-to: Nakatakda sa
+  knowledge-script-unlocks: Nagbubukas
+  drop-level: Antas ng Hulog
+  growth-speed: Bilis ng Paglaki
+  breed-strength: Lakas ng Pagpapalahi
+command:
+  no-permission: Wala kang pahintulot na gawin ito.
+  invalid-subcommand: Magbigay ng wastong subcommand.
+  players-only: Player lang ang makapagpapatakbo ng command na ito.
+  hold-seed-pack: Kailangan mong may hawak na Pakete ng Binhi para dito.
+  pack-empty: Walang laman ang paketeng ito!
+  pack-contents: Laman
+  pack-entry: Antas %level%, bilis %speed%, lakas %strength%
+kitchen:
+  recipe-disabled: Naka-disable ang resipeng ito.
+  no-recipe: Walang tugmang resipe.
+  not-enough-power: Kulang ang kuryente.
+  input-empty: Maglagay ng item sa input slot.
+  cooked: Ang sarap!
+food:
+  eaten: Ayos! Busog na busog ka na.
+  not-hungry: Hindi ka pa gutom! Isang beses ka lang makakakain bawat kalahating araw (10 minuto).
+  palate-cleansed: Nararamdaman mong nalilinis ang iyong panlasa.
+  ouch: Aray!
+knowledge-script:
+  learned: Natutunan mo na kung paano palahiin ang %plant%.
+seed-pack:
+  title: Pakete ng Binhi
+  unstack-first: Kailangan mo munang paghiwa-hiwalayin ang iyong mga Pakete ng Binhi.
+  not-a-seed: Dapat binhi ng halaman ng Cultivation ang item.
+  empty-before-change: Kailangan mong ubusin ang laman ng pakete bago palitan ang halaman nito.
+  no-plant-set: Hindi ka pa nakapagtakda ng halaman.
+  none-stored: Wala kang binhing ganito sa mga antas na ito.
+  set-here: Itakda ang binhi rito
+  retrieve-here: Kunin dito
+  no-seed-set: Walang Nakatakdang Binhi
+  no-seed-set-lore:
+  - I-click ang icon sa kaliwa
+  - habang may hawak na binhi para itakda ang pakete.
+  empty-set: Walang Laman
+  empty-set-lore:
+  - Wala kang binhing tugma
+  - sa mga antas na ito.
+  stored-seed: Uri ng Nakaimbak na Binhi
+  take-seed: Kumuha ng binhi mula sa pakete
+  level: Antas
+  speed: Bilis
+  strength: Lakas
+  left-click: Left Click
+  right-click: Right Click
+  increase: Taasan ang %stat%
+  decrease: Babaan ang %stat%
+  current: Kasalukuyan
+codex:
+  title: Talaan ng Halaman
+  child: Anak na halaman
+  mother: Inang halaman
+  father: Amang halaman
+  growth-rate: Bilis ng Pagtubo
+  not-discovered: Hindi pa Natutuklasan
+  not-discovered-lore:
+  - Hindi mo pa natutuklasan kung paano
+  - palahiin ang halamang ito!
+  discovery: Pagtuklas

@@ -1,0 +1,6674 @@
+CLT_APRICOT:
+  name: زردآلو
+  type:
+  - '&7&oمحصول'
+  description:
+  - از اینها می‌شود پوکه‌بال ساخت.
+  - '...'
+  - یعنی چه که یک چیز دیگر است...؟
+CLT_ARTICHOKE:
+  name: کنگر فرنگی
+  type:
+  - '&7&oمحصول'
+  description:
+  - قلبش را بیرون بکش!
+CLT_ASPARAGUS:
+  name: مارچوبه
+  type:
+  - '&7&oمحصول'
+  description:
+  - بعداً موقع رفتن به دستشویی مراقب باش.
+CLT_AUBERGINE:
+  name: بادمجان
+  type:
+  - '&7&oمحصول'
+  description:
+  - بنفش روشن و 100% بدون شکل تخم‌مرغ.
+  - پس چرا انگلیسی‌ها به آن می‌گویند گیاه تخم‌مرغ؟
+CLT_AVOCADO:
+  name: آووکادو
+  type:
+  - '&7&oمحصول'
+  description:
+  - رویای هر هیپستری.
+CLT_BACON_SANDWICH:
+  name: ساندویچ بیکن
+  type:
+  - '&7&oغذا'
+  description:
+  - یک کلاسیک ساده!
+  stats:
+  - '&8⇨ &7درمان: &b2 قلب'
+  - '&8⇨ &bقدرت I &7(10:00)'
+  - '&8⇨ &bسرعت I &7(10:00)'
+CLT_BAGEL:
+  name: بیگل
+  type:
+  - '&7&oغذا'
+  description:
+  - برشته؟ یا...
+  stats:
+  - '&8⇨ &7درمان: &b2.5 قلب'
+CLT_BAGEL_BITE:
+  name: لقمه بیگل
+  type:
+  - '&7&oغذا'
+  description:
+  - هر وقت دلت خواست پیتزا بخور!
+  stats:
+  - '&8⇨ &7با هر گاز دهانت را می‌سوزاند!'
+CLT_BAGEL_CREAM_CHEESE:
+  name: بیگل پنیر خامه‌ای
+  type:
+  - '&7&oغذا'
+  description:
+  - آن‌قدر خوب است که احتمالاً یکی دیگر هم می‌خواهی.
+  stats:
+  - '&8⇨ &7درمان: &b5 قلب'
+  - '&8⇨ &bسلامتی اضافه I &7(10:00)'
+CLT_BANANA:
+  name: موز
+  type:
+  - '&7&oمحصول'
+  description:
+  - این یکی واقعاً پوست‌کنده حرف می‌زند!
+CLT_BASIL:
+  name: ریحان
+  type:
+  - '&7&oمحصول'
+  description:
+  - برگی شیرین با پس‌مزه‌ای ملایم و فلفلی.
+CLT_BAY_LEAF:
+  name: برگ بو
+  type:
+  - '&7&oمحصول'
+  description:
+  - یک گیاه معطر قوی با کاربردهای فراوان.
+CLT_BELL_PEPPER:
+  name: فلفل دلمه‌ای
+  type:
+  - '&7&oمحصول'
+  description:
+  - واقعاً زنگ حقیقت را به صدا درمی‌آورد.
+CLT_BISCUIT:
+  name: بیسکویت
+  type:
+  - '&7&oغذا'
+  description:
+  - یک خوراکی کوچک با طعمی عظیم.
+  stats: &id002
+  - '&8⇨ &7تو را به هوا پرتاب می‌کند'
+CLT_BISCUIT_BASE:
+  name: کف بیسکویتی
+  type:
+  - '&7&oمحصول'
+  description:
+  - اینکه حالا صاف شده دلیل نمی‌شود
+  - که بتوانی خامش را بخوری.
+CLT_BISCUIT_DOUGH:
+  name: خمیر بیسکویت
+  type:
+  - '&7&oمحصول'
+  description:
+  - 'فقط به خودت یادآوری کن: «خامش را نخور.»'
+CLT_BLACK_BEANS:
+  name: لوبیا سیاه
+  type:
+  - '&7&oمحصول'
+  description:
+  - یک پروتئین گیاهی خوشمزه.
+CLT_BLENDED_APPLE:
+  name: سیب مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_APRICOT:
+  name: زردآلو مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_ARTICHOKE:
+  name: کنگر فرنگی مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_ASPARAGUS:
+  name: مارچوبه مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_AUBERGINE:
+  name: بادمجان مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_AVOCADO:
+  name: آووکادو مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_BANANA:
+  name: موز مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_BASIL:
+  name: ریحان مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_BAY_LEAF:
+  name: برگ بو مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_BEEF:
+  name: گوشت گاو مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_BEETROOT:
+  name: چغندر مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_BELL_PEPPER:
+  name: فلفل دلمه‌ای مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_BLACK_BEANS:
+  name: لوبیا سیاه مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_BREAD:
+  name: نان مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_BROCCOLI:
+  name: کلم بروکلی مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_BROWN_MUSHROOM:
+  name: قارچ قهوه‌ای مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_BRUSSELS_SPROUTS:
+  name: کلم بروکسل مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_CABBAGE:
+  name: کلم مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_CARROT:
+  name: هویج مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_CAULIFLOWER:
+  name: گل‌کلم مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_CAYENNE_PEPPER:
+  name: فلفل کاین مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_CELERIAC:
+  name: کرفس غده‌ای مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_CELERY:
+  name: کرفس مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_CHERRY:
+  name: گیلاس مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_CHESTNUT:
+  name: شاه‌بلوط مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_CHICKEN:
+  name: مرغ مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_CHICKPEAS:
+  name: نخود مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_CHICORY:
+  name: کاسنی مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_CHILLY_PEPPER:
+  name: فلفل چیلی مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_CHIVES:
+  name: تره مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_CHORUS_FRUIT:
+  name: میوه کُر مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_CILANTRO:
+  name: گشنیز مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_CINNAMON:
+  name: دارچین مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_CLOVE:
+  name: میخک مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_COCOA_BEANS:
+  name: دانه کاکائو مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_COD:
+  name: ماهی روغن مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_COURGETTE:
+  name: کدو سبز مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_CUCUMBER:
+  name: خیار مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_CUMIN:
+  name: زیره مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_CURRY_LEAF:
+  name: برگ کاری مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_DILL:
+  name: شوید مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_EGG:
+  name: تخم‌مرغ مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_ENCHANTED_GOLDEN_APPLE:
+  name: سیب طلایی جادویی مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_FENNEL:
+  name: رازیانه مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_GARLIC:
+  name: سیر مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_GINGER:
+  name: زنجبیل مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_GLOW_BERRIES:
+  name: توت درخشان مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_GOLDEN_APPLE:
+  name: سیب طلایی مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_GOLDEN_CARROT:
+  name: هویج طلایی مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_GRAPE:
+  name: انگور مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_GREEN_APPLE:
+  name: سیب سبز مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_GREEN_BEANS:
+  name: لوبیا سبز مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_GREEN_ONION:
+  name: پیازچه مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_HAZELNUT:
+  name: فندق مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_HORSERADISH:
+  name: ترب کوهی مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_JALAPENO:
+  name: هالاپینو مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_JASMINE:
+  name: یاسمن مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_JUNIPER_BERRY:
+  name: دانه‌های سرو کوهی مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_KAFFIR_LIME:
+  name: برگ لیمو کافیر مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_KALE:
+  name: کلم کیل مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_KELP:
+  name: جلبک دریایی مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_KIWI:
+  name: کیوی مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_LAVENDER:
+  name: اسطوخودوس مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_LEEK:
+  name: تره‌فرنگی مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_LEMON:
+  name: لیمو مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_LETTUCE:
+  name: کاهو مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_LICORICE:
+  name: شیرین‌بیان مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_LIME:
+  name: لیمو ترش مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_MACE:
+  name: بسباسه مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_MANGO:
+  name: انبه مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_MARJORAM:
+  name: مرزنجوش مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_MARROW:
+  name: کدوی مغزدار مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_MELON:
+  name: هندوانه مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_MINT:
+  name: نعناع مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_MUSTARD_SEEDS:
+  name: دانه‌های خردل مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_MUTTON:
+  name: گوشت گوسفند مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_NETTLES:
+  name: گزنه مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_OKRA:
+  name: بامیه مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_ONION:
+  name: پیاز مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_ORANGE:
+  name: پرتقال مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_OREGANO:
+  name: پونه کوهی مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_PARSLEY:
+  name: جعفری مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_PARSNIP:
+  name: هویج سفید مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_PEA:
+  name: نخودفرنگی مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_PEACH:
+  name: هلو مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_PEANUT:
+  name: بادام‌زمینی مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_PEAR:
+  name: گلابی مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_PECAN:
+  name: پکان مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_PEPPER:
+  name: فلفل سیاه مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_PEPPERONI:
+  name: پپرونی مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_PINEAPPLE:
+  name: آناناس مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_PINTO_BEANS:
+  name: لوبیا چیتی مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_PORKCHOP:
+  name: گوشت خوک مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_POTATO:
+  name: سیب‌زمینی مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_PUFFERFISH:
+  name: ماهی بادکنکی مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_PUMPKIN:
+  name: کدوتنبل مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_RABBIT:
+  name: خرگوش مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_RADDISH:
+  name: تربچه مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_RADICCHIO:
+  name: کاسنی قرمز مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_RAPESEED:
+  name: کلزا مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_RED_MUSHROOM:
+  name: قارچ قرمز مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_RHUBARB:
+  name: ریواس مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_RICE:
+  name: برنج مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_ROSEMARY:
+  name: رزماری مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_ROTTEN_FLESH:
+  name: گوشت زامبی مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_RUNNER_BEANS:
+  name: لوبیا رونده مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_RUTABAGA:
+  name: شلغم سوئدی مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_SALMON:
+  name: ماهی سالمون مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_SASSAFRAS:
+  name: ساسافراس مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_SHALLOT:
+  name: موسیر مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_SHISO:
+  name: شیسو مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_SOY_BEANS:
+  name: لوبیا سویا مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_SPINACH:
+  name: اسفناج مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_STAR_ANISE:
+  name: بادیان ستاره‌ای مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_STRAWBERRY:
+  name: توت‌فرنگی مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_SUGAR:
+  name: شکر مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_SWEETCORN:
+  name: ذرت شیرین مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_SWEET_BERRIES:
+  name: توت شیرین مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_SWEET_POTATO:
+  name: سیب‌زمینی شیرین مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_TARRAGON:
+  name: ترخون مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_THYME:
+  name: آویشن مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_TOMATO:
+  name: گوجه‌فرنگی مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_TURMERIC:
+  name: زردچوبه مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_TURNIP:
+  name: شلغم مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_VANILLA:
+  name: وانیل مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_WASABI:
+  name: واسابی مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLENDED_WHEAT:
+  name: گندم مخلوط‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BLUE_CANDY:
+  name: آب‌نبات آبی
+  type:
+  - '&7&oغذا'
+  description:
+  - یک آب‌نبات به‌طرز دلپذیری شیرین.
+  stats:
+  - '&8⇨ &7یک همیار احضار می‌کند'
+CLT_BOILED_APPLE:
+  name: سیب آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_APRICOT:
+  name: زردآلو آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_ARTICHOKE:
+  name: کنگر فرنگی آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_ASPARAGUS:
+  name: مارچوبه آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_AUBERGINE:
+  name: بادمجان آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_AVOCADO:
+  name: آووکادو آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_BANANA:
+  name: موز آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_BASIL:
+  name: ریحان آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_BAY_LEAF:
+  name: برگ بو آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_BEEF:
+  name: گوشت گاو آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_BEETROOT:
+  name: چغندر آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_BELL_PEPPER:
+  name: فلفل دلمه‌ای آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_BLACK_BEANS:
+  name: لوبیا سیاه آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_BREAD:
+  name: نان آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_BROCCOLI:
+  name: کلم بروکلی آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_BROWN_MUSHROOM:
+  name: قارچ قهوه‌ای آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_BRUSSELS_SPROUTS:
+  name: کلم بروکسل آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_CABBAGE:
+  name: کلم آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_CARROT:
+  name: هویج آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_CAULIFLOWER:
+  name: گل‌کلم آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_CAYENNE_PEPPER:
+  name: فلفل کاین آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_CELERIAC:
+  name: کرفس غده‌ای آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_CELERY:
+  name: کرفس آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_CHERRY:
+  name: گیلاس آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_CHESTNUT:
+  name: شاه‌بلوط آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_CHICKEN:
+  name: مرغ آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_CHICKPEAS:
+  name: نخود آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_CHICORY:
+  name: کاسنی آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_CHILLY_PEPPER:
+  name: فلفل چیلی آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_CHIVES:
+  name: تره آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_CHORUS_FRUIT:
+  name: میوه کُر آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_CILANTRO:
+  name: گشنیز آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_CINNAMON:
+  name: دارچین آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_CLOVE:
+  name: میخک آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_COCOA_BEANS:
+  name: دانه کاکائو آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_COD:
+  name: ماهی روغن آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_COURGETTE:
+  name: کدو سبز آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_CUCUMBER:
+  name: خیار آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_CUMIN:
+  name: زیره آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_CURRY_LEAF:
+  name: برگ کاری آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_DILL:
+  name: شوید آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_EGG:
+  name: تخم‌مرغ آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_ENCHANTED_GOLDEN_APPLE:
+  name: سیب طلایی جادویی آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_FENNEL:
+  name: رازیانه آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_GARLIC:
+  name: سیر آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_GINGER:
+  name: زنجبیل آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_GLOW_BERRIES:
+  name: توت درخشان آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_GOLDEN_APPLE:
+  name: سیب طلایی آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_GOLDEN_CARROT:
+  name: هویج طلایی آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_GRAPE:
+  name: انگور آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_GREEN_APPLE:
+  name: سیب سبز آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_GREEN_BEANS:
+  name: لوبیا سبز آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_GREEN_ONION:
+  name: پیازچه آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_HAZELNUT:
+  name: فندق آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_HORSERADISH:
+  name: ترب کوهی آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_JALAPENO:
+  name: هالاپینو آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_JASMINE:
+  name: یاسمن آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_JUNIPER_BERRY:
+  name: دانه‌های سرو کوهی آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_KAFFIR_LIME:
+  name: برگ لیمو کافیر آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_KALE:
+  name: کلم کیل آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_KELP:
+  name: جلبک دریایی آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_KIWI:
+  name: کیوی آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_LAVENDER:
+  name: اسطوخودوس آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_LEEK:
+  name: تره‌فرنگی آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_LEMON:
+  name: لیمو آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_LETTUCE:
+  name: کاهو آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_LICORICE:
+  name: شیرین‌بیان آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_LIME:
+  name: لیمو ترش آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_MACE:
+  name: بسباسه آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_MANGO:
+  name: انبه آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_MARJORAM:
+  name: مرزنجوش آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_MARROW:
+  name: کدوی مغزدار آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_MELON:
+  name: هندوانه آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_MINT:
+  name: نعناع آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_MUSTARD_SEEDS:
+  name: دانه‌های خردل آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_MUTTON:
+  name: گوشت گوسفند آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_NETTLES:
+  name: گزنه آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_OKRA:
+  name: بامیه آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_ONION:
+  name: پیاز آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_ORANGE:
+  name: پرتقال آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_OREGANO:
+  name: پونه کوهی آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_PARSLEY:
+  name: جعفری آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_PARSNIP:
+  name: هویج سفید آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_PEA:
+  name: نخودفرنگی آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_PEACH:
+  name: هلو آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_PEANUT:
+  name: بادام‌زمینی آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_PEAR:
+  name: گلابی آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_PECAN:
+  name: پکان آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_PEPPER:
+  name: فلفل سیاه آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_PEPPERONI:
+  name: پپرونی آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_PINEAPPLE:
+  name: آناناس آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_PINTO_BEANS:
+  name: لوبیا چیتی آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_PORKCHOP:
+  name: گوشت خوک آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_POTATO:
+  name: سیب‌زمینی آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_PUFFERFISH:
+  name: ماهی بادکنکی آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_PUMPKIN:
+  name: کدوتنبل آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_RABBIT:
+  name: خرگوش آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_RADDISH:
+  name: تربچه آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_RADICCHIO:
+  name: کاسنی قرمز آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_RAPESEED:
+  name: کلزا آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_RED_MUSHROOM:
+  name: قارچ قرمز آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_RHUBARB:
+  name: ریواس آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_RICE:
+  name: برنج آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_ROSEMARY:
+  name: رزماری آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_ROTTEN_FLESH:
+  name: گوشت زامبی آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_RUNNER_BEANS:
+  name: لوبیا رونده آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_RUTABAGA:
+  name: شلغم سوئدی آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_SALMON:
+  name: ماهی سالمون آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_SASSAFRAS:
+  name: ساسافراس آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_SHALLOT:
+  name: موسیر آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_SHISO:
+  name: شیسو آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_SOY_BEANS:
+  name: لوبیا سویا آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_SPINACH:
+  name: اسفناج آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_STAR_ANISE:
+  name: بادیان ستاره‌ای آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_STRAWBERRY:
+  name: توت‌فرنگی آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_SUGAR:
+  name: شکر آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_SWEETCORN:
+  name: ذرت شیرین آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_SWEET_BERRIES:
+  name: توت شیرین آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_SWEET_POTATO:
+  name: سیب‌زمینی شیرین آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_TARRAGON:
+  name: ترخون آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_THYME:
+  name: آویشن آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_TOMATO:
+  name: گوجه‌فرنگی آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_TURMERIC:
+  name: زردچوبه آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_TURNIP:
+  name: شلغم آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_VANILLA:
+  name: وانیل آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_WASABI:
+  name: واسابی آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOILED_WHEAT:
+  name: گندم آب‌پز
+  type:
+  - '&7&oمحصول جانبی'
+CLT_BOWL_OF_STEVE:
+  name: کاسه‌ای از... استیو؟
+  type:
+  - '&7&oغذا'
+  description:
+  - آخه این دیگه چه &%£$
+  stats:
+  - '&8⇨ &bخستگی معدنچی X &7(10:00)'
+  - '&8⇨ &bکندی VI &7(10:00)'
+  - '&8⇨ &bقدرت X &7(10:00)'
+  - '&8⇨ &7تو را به 1/2 قلب می‌رساند'
+CLT_BROCCOLI:
+  name: کلم بروکلی
+  type:
+  - '&7&oمحصول'
+  description:
+  - تو غولی هستی که یک درخت در دست گرفته؟
+  - نه بابا، فقط یک درخت کوچولو است :)
+CLT_BRUSSELS_SPROUTS:
+  name: کلم بروکسل
+  type:
+  - '&7&oمحصول'
+  description:
+  - یک لذت نفخ‌آور.
+CLT_BUSH_ARTICHOKE:
+  name: بوته کنگر فرنگی
+  type:
+  - '&7&oبوته'
+  description:
+  - بی‌شک بهترین بوته برای خفه کردن یک
+  - هنرمند. آه. جناس ساختن سخت است.
+CLT_BUSH_ASPARAGUS:
+  name: بوته مارچوبه
+  type:
+  - '&7&oبوته'
+  description:
+  - این بوته مارچوبه حسابی ساقه‌دار
+  - و سمج است!
+CLT_BUSH_AUBERGINE:
+  name: بوته بادمجان
+  type:
+  - '&7&oبوته'
+  description:
+  - حاضر نیستم به آن بگویم «گیاه تخم‌مرغ». همین که هست.
+CLT_BUSH_AVOCADO:
+  name: بوته آووکادو
+  type:
+  - '&7&oبوته'
+  description:
+  - این بوته مخصوصاً طوری پرورش یافته که
+  - آب زیادی مصرف نکند.
+CLT_BUSH_BASIL:
+  name: بوته ریحان
+  type:
+  - '&7&oبوته'
+  description:
+  - بوته‌ای سبک‌دل و پر از شیطنت.
+CLT_BUSH_BAY_LEAF:
+  name: بوته برگ بو
+  type:
+  - '&7&oبوته'
+  description:
+  - بوی این بوته تا کیلومترها می‌رود.
+CLT_BUSH_BELL_PEPPER:
+  name: بوته فلفل دلمه‌ای
+  type:
+  - '&7&oبوته'
+  description:
+  - موقع رد شدن از کنارش مراقب باش، ممکن است
+  - زنگ را به صدا دربیاوری.
+CLT_BUSH_BLACK_BEANS:
+  name: بوته لوبیا سیاه
+  type:
+  - '&7&oبوته'
+  description:
+  - 'این بوته آرام در گوشت زمزمه می‌کند:'
+  - تو یک لوبیای انسانی فوق‌العاده‌ای.
+CLT_BUSH_BROCCOLI:
+  name: بوته کلم بروکلی
+  type:
+  - '&7&oبوته'
+  description:
+  - درخت‌های کوچولوی خوردنی؟ کی این را اختراع کرده!؟
+CLT_BUSH_BRUSSELS_SPROUTS:
+  name: بوته کلم بروکسل
+  type:
+  - '&7&oبوته'
+  description:
+  - بوته‌ای که گاهی گازهای
+  - بدبو تولید می‌کند.
+CLT_BUSH_CABBAGE:
+  name: بوته کلم
+  type:
+  - '&7&oبوته'
+  description:
+  - بوته‌ای که یک عالمه کلم
+  - عاطفی با خودش یدک می‌کشد.
+CLT_BUSH_CAULIFLOWER:
+  name: بوته گل‌کلم
+  type:
+  - '&7&oبوته'
+  description:
+  - بوته‌ای که می‌تواند ابرهای کوچکی
+  - از لذت تولید کند.
+CLT_BUSH_CAYENNE_PEPPER:
+  name: بوته فلفل کاین
+  type:
+  - '&7&oبوته'
+  description:
+  - بوته‌ای با رفتاری تند و فلفلی.
+CLT_BUSH_CELERIAC:
+  name: بوته کرفس غده‌ای
+  type:
+  - '&7&oبوته'
+  description:
+  - باز هم یک ریشه که روی بوته می‌روید؟
+  - سفی‌خنگ™
+CLT_BUSH_CELERY:
+  name: بوته کرفس
+  type:
+  - '&7&oبوته'
+  description:
+  - این بوته اضافی است.
+  - سفی از کرفس خوشش نمی‌آید.
+CLT_BUSH_CHICKPEAS:
+  name: بوته نخود
+  type:
+  - '&7&oبوته'
+  description:
+  - بوته‌ای که از آمیزش یک مرغ با
+  - یک نخود ساخته شده. علم.
+CLT_BUSH_CHICORY:
+  name: بوته کاسنی
+  type:
+  - '&7&oبوته'
+  description:
+  - فکر می‌کردم کاسنی ریشه است؟ این افزونه
+  - اصلاً تحقیق هم کرده!؟
+CLT_BUSH_CHILLI_PEPPER:
+  name: بوته فلفل چیلی
+  type:
+  - '&7&oبوته'
+  description:
+  - فقط نگاه کردن به این بوته زبانم را می‌سوزاند.
+CLT_BUSH_CHIVES:
+  name: بوته تره
+  type:
+  - '&7&oبوته'
+  description:
+  - بوته‌ای که در عمل کوچک‌ترین پیاز
+  - دنیا را تولید می‌کند.
+CLT_BUSH_CILANTRO:
+  name: بوته گشنیز
+  type:
+  - '&7&oبوته'
+  description:
+  - بوی ملایم مرکبات و ادویه از این بوته می‌آید.
+CLT_BUSH_CINNAMON:
+  name: بوته دارچین
+  type:
+  - '&7&oبوته'
+  description:
+  - بوته‌ای به‌طرز دلپذیری معطر.
+CLT_BUSH_CLOVE:
+  name: بوته میخک
+  type:
+  - '&7&oبوته'
+  description:
+  - بوته‌ای که فقط مرا یاد کریسمس می‌اندازد.
+CLT_BUSH_COURGETTE:
+  name: بوته کدو سبز
+  type:
+  - '&7&oبوته'
+  description:
+  - چرا این بوته مدام کلمه زوکینی را
+  - فریاد می‌زند؟ لابد آمریکایی است؟
+CLT_BUSH_CUCUMBER:
+  name: بوته خیار
+  type:
+  - '&7&oبوته'
+  description:
+  - این بوته فقط و فقط برای
+  - سالادهای دوست‌داشتنی تابستانی‌ات طراحی شده.
+CLT_BUSH_CUMIN:
+  name: بوته زیره
+  type:
+  - '&7&oبوته'
+  description:
+  - بوته‌ای که عطر گرم مرکبات پخش می‌کند.
+CLT_BUSH_CURRY_LEAF:
+  name: بوته برگ کاری
+  type:
+  - '&7&oبوته'
+  description:
+  - بهترین حالتش وقتی است که خشک تفت داده شود.
+CLT_BUSH_DILL:
+  name: بوته شوید
+  type:
+  - '&7&oبوته'
+  description:
+  - این بوته خیلی سریع‌تر از بقیه رشد می‌کند.
+CLT_BUSH_FENNEL:
+  name: بوته رازیانه
+  type:
+  - '&7&oبوته'
+  description:
+  - چرا این بوته حشرات را فراری می‌دهد!؟
+CLT_BUSH_GARLIC:
+  name: بوته سیر
+  type:
+  - '&7&oبوته'
+  description:
+  - این بوته واقعاً بدترین بوی دهان دنیا را دارد.
+CLT_BUSH_GINGER:
+  name: بوته زنجبیل
+  type:
+  - '&7&oبوته'
+  description:
+  - این بوته وقتی درسته آب‌پز شود عالی است.
+CLT_BUSH_GRAPE:
+  name: بوته انگور
+  type:
+  - '&7&oبوته'
+  description:
+  - انگورهای رسیده و آبدار که عملاً خودشان
+  - از بوته می‌افتند.
+CLT_BUSH_GREEN_BEANS:
+  name: بوته لوبیا سبز
+  type:
+  - '&7&oبوته'
+  description:
+  - روی این بوته سس گوجه بریز تا
+  - خوراک لوبیا درست شود.
+CLT_BUSH_GREEN_ONION:
+  name: بوته پیازچه
+  type:
+  - '&7&oبوته'
+  description:
+  - با نام اسکالیون هم شناخته می‌شود.
+  - پیازچه معمولاً طعمی
+  - ملایم‌تر از بیشتر پیازها دارد.
+CLT_BUSH_HORSERADISH:
+  name: بوته ترب کوهی
+  type:
+  - '&7&oبوته'
+  description:
+  - باز هم، روییدن این روی بوته اصلاً منطقی نیست.
+CLT_BUSH_JALAPENO:
+  name: بوته هالاپینو
+  type:
+  - '&7&oبوته'
+  description:
+  - فقط نگه داشتن این بوته به تو
+  - 1% شانس آتش گرفتن می‌دهد.
+CLT_BUSH_JASMINE:
+  name: بوته یاسمن
+  type:
+  - '&7&oبوته'
+  description:
+  - عطر این بوته بسیار نرم و دلنشین است.
+CLT_BUSH_JUNIPER_BERRY:
+  name: بوته سرو کوهی
+  type:
+  - '&7&oبوته'
+  description:
+  - روی بوته بسیار شیرین، و وقتی خشک شود فلفلی.
+CLT_BUSH_KAFFIR_LIME:
+  name: بوته لیمو کافیر
+  type:
+  - '&7&oبوته'
+  description:
+  - بوته‌ای که برگ‌هایش از میوه‌اش خواهان بیشتری دارند.
+CLT_BUSH_KALE:
+  name: بوته کلم کیل
+  type:
+  - '&7&oبوته'
+  description:
+  - وقتی این بوته را می‌کاری، حس می‌کنی
+  - همه‌چیز کیل‌وکوک و روبه‌راه می‌شود.
+CLT_BUSH_LAVENDER:
+  name: بوته اسطوخودوس
+  type:
+  - '&7&oبوته'
+  description:
+  - این بوته بویش را همه‌جا پخش می‌کند.
+CLT_BUSH_LEEK:
+  name: بوته تره‌فرنگی
+  type:
+  - '&7&oبوته'
+  description:
+  - می‌دانستی تره‌فرنگی فقط یک پیاز است که
+  - کرست پوشیده؟ داستان واقعی.
+CLT_BUSH_LETTUCE:
+  name: بوته کاهو
+  type:
+  - '&7&oبوته'
+  description:
+  - اصلاً کاهو روی بوته رشد می‌کند؟
+  - 'لو رفتن داستان: نه، نمی‌کند.'
+CLT_BUSH_LICORICE:
+  name: بوته شیرین‌بیان
+  type:
+  - '&7&oبوته'
+  description:
+  - چندش
+CLT_BUSH_MACE:
+  name: بوته بسباسه
+  type:
+  - '&7&oبوته'
+  description:
+  - انگار این بوته مهاجمان را دور می‌کند؟
+CLT_BUSH_MARJORAM:
+  name: بوته مرزنجوش
+  type:
+  - '&7&oبوته'
+  description:
+  - بوته‌ای بزرگ با بوی چوب.
+CLT_BUSH_MARROW:
+  name: بوته کدوی مغزدار
+  type:
+  - '&7&oبوته'
+  description:
+  - تعجب می‌کنم که این بوته می‌تواند
+  - وزن خودش را تحمل کند.
+CLT_BUSH_MINT:
+  name: بوته نعناع
+  type:
+  - '&7&oبوته'
+  description:
+  - خوش‌بوترین بوته، بی‌برو برگرد.
+CLT_BUSH_MUSTARD:
+  name: بوته خردل دانه‌ای
+  type:
+  - '&7&oبوته'
+  description:
+  - مثل آتش در دهان.
+CLT_BUSH_NETTLES:
+  name: بوته گزنه
+  type:
+  - '&7&oبوته'
+  description:
+  - موقع رد شدن از این بوته مراقب باش!
+CLT_BUSH_OKRA:
+  name: بوته بامیه
+  type:
+  - '&7&oبوته'
+  description:
+  - به انتخاب باشگاه سبزیجات اُکرا وینفری،
+  - سبزی شماره 1 شد.
+CLT_BUSH_ONION:
+  name: بوته پیاز
+  type:
+  - '&7&oبوته'
+  description:
+  - به نظرت این بوته دارد گریه می‌کند؟
+CLT_BUSH_OREGANO:
+  name: بوته پونه کوهی
+  type:
+  - '&7&oبوته'
+  description:
+  - بوی تند این بوته مهمان‌ها را فراری می‌دهد.
+CLT_BUSH_PARSLEY:
+  name: بوته جعفری
+  type:
+  - '&7&oبوته'
+  description:
+  - همین الان این بوته را بینداز توی گدازه :)))
+CLT_BUSH_PARSNIP:
+  name: بوته هویج سفید
+  type:
+  - '&7&oبوته'
+  description:
+  - واسطه را حذف کن و مستقیماً خود
+  - بوته را کباب کن.
+CLT_BUSH_PEA:
+  name: بوته نخودفرنگی
+  type:
+  - '&7&oبوته'
+  description:
+  - من «ق» را به «پ» ترجیح می‌دهم
+CLT_BUSH_PEANUTS:
+  name: بوته بادام‌زمینی
+  type:
+  - '&7&oبوته'
+  description: &id001
+  - سفت و معطر و پر از پروتئین.
+CLT_BUSH_PEPPER:
+  name: بوته فلفل سیاه
+  type:
+  - '&7&oبوته'
+  description:
+  - فلفل سیاه بخش مهمی از تجارت ادویه
+  - میان هند و اروپا بود، آن هم از همان
+  - دوران یونان و روم باستان.
+CLT_BUSH_PINTO_BEANS:
+  name: بوته لوبیا چیتی
+  type:
+  - '&7&oبوته'
+  description:
+  - چیزی نمانده که با موفقیت یک بوته
+  - بوریتوی آماده پرورش دهیم، نه؟
+CLT_BUSH_RADDISH:
+  name: بوته تربچه
+  type:
+  - '&7&oبوته'
+  description:
+  - این گیاه همین الان یک حرکت اسکیت‌بورد زد.
+  - خیلی تر و تمیز... تربچه.
+CLT_BUSH_RADICCHIO:
+  name: بوته کاسنی قرمز
+  type:
+  - '&7&oبوته'
+  description:
+  - می‌خواهی شیک به نظر برسی؟ کاسنی قرمز را به هر
+  - غذایی اضافه کن، اساساً مثل کلم است اما
+  - باعث می‌شود باکلاس به نظر برسی.
+CLT_BUSH_RAPESEED:
+  name: بوته کلزا
+  type:
+  - '&7&oبوته'
+  description:
+  - این بوته یک ماده روغنی تراوش می‌کند.
+CLT_BUSH_RHUBARB:
+  name: بوته ریواس
+  type:
+  - '&7&oبوته'
+  description:
+  - می‌دانستی ریواس یک سبزی است؟
+  - فکر می‌کردم نوعی چکش است.
+CLT_BUSH_RICE:
+  name: بوته برنج
+  type:
+  - '&7&oبوته'
+  description:
+  - غذای اصلی نهایی.
+CLT_BUSH_ROSEMARY:
+  name: بوته رزماری
+  type:
+  - '&7&oبوته'
+  description:
+  - بوته‌ای که بویش آدم را یاد ناهارهای یکشنبه می‌اندازد.
+CLT_BUSH_RUNNER_BEANS:
+  name: بوته لوبیا رونده
+  type:
+  - '&7&oبوته'
+  description:
+  - این بوته پا دارد °.°؟
+CLT_BUSH_RUTABAGA:
+  name: بوته شلغم سوئدی
+  type:
+  - '&7&oبوته'
+  description:
+  - شلغم سوئدی. یک سوئدی است دیگر.
+CLT_BUSH_SASSAFRAS:
+  name: بوته ساسافراس
+  type:
+  - '&7&oبوته'
+  description:
+  - این بوته دوست دارد نزدیک آب‌های
+  - کوچک کاشته شود.
+CLT_BUSH_SHALLOT:
+  name: بوته موسیر
+  type:
+  - '&7&oبوته'
+  description:
+  - این بوته به‌سرعت پیازهای کوچک دوست‌داشتنی می‌دهد.
+  - خوشبختانه زیاد موسیر و معطل نمی‌مانی.
+CLT_BUSH_SHISO:
+  name: بوته شیسو
+  type:
+  - '&7&oبوته'
+  description:
+  - دوست دارم فکر کنم این بوته فرزند عشق
+  - یک بوته نعناع و یک بوته ریحان است. حیف که
+  - جفت‌گیری بوته‌ها وجود ندارد!
+CLT_BUSH_SOY_BEANS:
+  name: بوته لوبیا سویا
+  type:
+  - '&7&oبوته'
+  description:
+  - این بوته لذتی دوستانه است. حسابی
+  - سوی چشمم را روشن می‌کند.
+CLT_BUSH_SPINACH:
+  name: بوته اسفناج
+  type:
+  - '&7&oبوته'
+  description:
+  - این بوته بهترین دوست ملوان زبل است.
+CLT_BUSH_STAR_ANISE:
+  name: بوته بادیان ستاره‌ای
+  type:
+  - '&7&oبوته'
+  description:
+  - بویی از این بوته می‌آید که آن‌قدر
+  - مخصوص بادیان است که باورت نمی‌شود.
+CLT_BUSH_STRAWBERRY:
+  name: بوته توت‌فرنگی
+  type:
+  - '&7&oبوته'
+  description: *id001
+CLT_BUSH_SWEETCORN:
+  name: بوته ذرت شیرین
+  type:
+  - '&7&oبوته'
+  description:
+  - این بوته التماس می‌کند که از آن یک
+  - هزارتو بسازند.
+CLT_BUSH_SWEET_POTATO:
+  name: بوته سیب‌زمینی شیرین
+  type:
+  - '&7&oبوته'
+  description:
+  - این بوته خیلی شیرین است. شنیدم
+  - وقتی حواست نبود از تو تعریف می‌کرد.
+CLT_BUSH_TARRAGON:
+  name: بوته ترخون
+  type:
+  - '&7&oبوته'
+  description:
+  - این بوته دوست ندارد زیاد جلب توجه کند.
+CLT_BUSH_THYME:
+  name: بوته آویشن
+  type:
+  - '&7&oبوته'
+  description:
+  - این بوته همیشه کم می‌آورد... آویشن... یعنی وقت... *سرفه*
+CLT_BUSH_TOMATO:
+  name: بوته گوجه‌فرنگی
+  type:
+  - '&7&oبوته'
+  description:
+  - رسیده و آماده.
+CLT_BUSH_TURMERIC:
+  name: بوته زردچوبه
+  type:
+  - '&7&oبوته'
+  description:
+  - فقط با نگه داشتن این بوته موجی از
+  - ادویه به بینی‌ات می‌خورد.
+CLT_BUSH_TURNIP:
+  name: بوته شلغم
+  type:
+  - '&7&oبوته'
+  description:
+  - به گفته دولت بریتانیا
+  - این بوته همه مشکلات ما را حل می‌کند.
+CLT_BUSH_VANILLA:
+  name: بوته وانیل
+  type:
+  - '&7&oبوته'
+  description:
+  - این بوته به‌طور بومی نزدیک شعبه‌های استارباکس می‌روید.
+CLT_BUSH_WASABI:
+  name: بوته واسابی
+  type:
+  - '&7&oبوته'
+  description:
+  - باز هم یک ریشه که روی بوته می‌روید؟
+  - آه...
+CLT_CABBAGE:
+  name: کلم
+  type:
+  - '&7&oمحصول'
+  description:
+  - یک کوله‌بار کلم.
+CLT_CAESAR_SALAD:
+  name: سالاد سزار
+  type:
+  - '&7&oغذا'
+  description:
+  - یک کلاسیک سالم.
+  stats:
+  - '&8⇨ &7درمان: &b6 قلب'
+  - '&8⇨ &bسرعت I &7(10:00)'
+  - '&8⇨ &bنامرئی I &7(10:00)'
+  - '&8⇨ &bسقوط آرام I &7(10:00)'
+CLT_CAJUN_GARLIC_BUTTER_COD:
+  name: ماهی روغن با کره سیر کاجون
+  type:
+  - '&7&oغذا'
+  description:
+  - یک غذای خیلی ساده که از طعم لبریز است.
+  stats:
+  - '&8⇨ &7درمان: &b4 قلب'
+  - '&8⇨ &bترمیم II &7(10:00)'
+  - '&8⇨ &bسرعت I &7(10:00)'
+CLT_CAULIFLOWER:
+  name: گل‌کلم
+  type:
+  - '&7&oمحصول'
+  description:
+  - یک ابر قابل حمل!
+CLT_CAYENNE_PEPPER:
+  name: فلفل کاین
+  type:
+  - '&7&oمحصول'
+  description:
+  - یک خوراکی تند و نرم.
+CLT_CELERIAC:
+  name: کرفس غده‌ای
+  type:
+  - '&7&oمحصول'
+  description:
+  - ریشه‌ای مقوی که در بسیاری از دستورهای
+  - سنتی ریشه دارد (هه).
+CLT_CELERY:
+  name: کرفس
+  type:
+  - '&7&oمحصول'
+  description:
+  - به معنای واقعی فقط آب رشته‌رشته است. خلافش را
+  - به من ثابت کن.
+CLT_CHEESE_BURGER:
+  name: برگر
+  type:
+  - '&7&oغذا'
+  description:
+  - یک چیزبرگر ساده، اما هیچ‌چیز به پایش نمی‌رسد!
+  stats:
+  - '&8⇨ &7درمان: &b4 قلب'
+  - '&8⇨ &bترمیم III &7(10:00)'
+CLT_CHEESY_SCALLOPED_COURGETTE:
+  name: کدو سبز پنیری تنوری
+  type:
+  - '&7&oغذا'
+  description:
+  - نسخه کم‌کربوهیدرات یک کلاسیک فوق‌العاده.
+  stats:
+  - '&8⇨ &7درمان: &b2 قلب'
+  - '&8⇨ &bدید در شب I &7(10:00)'
+  - '&8⇨ &bنامرئی I &7(10:00)'
+CLT_CHERRY:
+  name: گیلاس
+  type:
+  - '&7&oمحصول'
+  description:
+  - آه، فکر می‌کردم شکرپاشی‌شده می‌رویند، حیف!
+CLT_CHESTNUT:
+  name: شاه‌بلوط
+  type:
+  - '&7&oمحصول'
+  description:
+  - طراحی شده تا فوراً پخته شود.
+CLT_CHICKEN_ALFREDO_MAC_AND_CHEESE:
+  name: ماکارونی پنیری آلفردو با مرغ
+  type:
+  - '&7&oغذا'
+  description:
+  - نسخه‌ای اعیانی از یک کلاسیک معمولی.
+  stats:
+  - '&8⇨ &7درمان: &b1 قلب'
+  - '&8⇨ &bمقاومت در برابر آتش II &7(10:00)'
+  - '&8⇨ &bمقاومت III &7(10:00)'
+CLT_CHICKEN_PASTA_BAKE:
+  name: پاستای تنوری مرغ
+  type:
+  - '&7&oغذا'
+  description:
+  - غذای همیشگی دانشجوها.
+  stats:
+  - '&8⇨ &7درمان: &b5 قلب'
+  - '&8⇨ &bدید در شب I &7(10:00)'
+  - '&8⇨ &bتنفس زیر آب I &7(10:00)'
+CLT_CHICKEN_POT_PIE:
+  name: پای مرغ
+  type:
+  - '&7&oغذا'
+  description:
+  - یک وعده گرم که حسابی حال آدم را جا می‌آورد.
+  stats:
+  - '&8⇨ &7درمان: &b10 قلب'
+  - '&8⇨ &bپرش بلند II &7(10:00)'
+  - '&8⇨ &bاشباع I &7(10:00)'
+CLT_CHICKPEAS:
+  name: نخود
+  type:
+  - '&7&oمحصول'
+  description:
+  - لوبیا چشم‌بلبلی می‌تواند آواز بخواند، نخود فقط بلد است حمص‌حمص کند.
+CLT_CHICORY:
+  name: کاسنی
+  type:
+  - '&7&oمحصول'
+  description:
+  - یک ریشه تلخ با طعم آجیلی.
+CLT_CHILLY_PEPPER:
+  name: فلفل چیلی
+  type:
+  - '&7&oمحصول'
+  description:
+  - می‌توانم یک فلفل کامل را بدون گریه بخورم.
+  - خب، نصفش را.
+  - خــــب.... 1/4
+  - '...'
+  - باشه، فقط می‌توانم یکی را به زبانم بزنم
+CLT_CHIVES:
+  name: تره
+  type:
+  - '&7&oمحصول'
+  description:
+  - یک سبزی معطر و شیرین با طعم پیاز.
+CLT_CHOPPED_APPLE:
+  name: سیب خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_APRICOT:
+  name: زردآلو خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_ARTICHOKE:
+  name: کنگر فرنگی خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_ASPARAGUS:
+  name: مارچوبه خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_AUBERGINE:
+  name: بادمجان خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_AVOCADO:
+  name: آووکادو خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_BANANA:
+  name: موز خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_BASIL:
+  name: ریحان خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_BAY_LEAF:
+  name: برگ بو خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_BEEF:
+  name: گوشت گاو خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_BEETROOT:
+  name: چغندر خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_BELL_PEPPER:
+  name: فلفل دلمه‌ای خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_BLACK_BEANS:
+  name: لوبیا سیاه خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_BREAD:
+  name: نان خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_BROCCOLI:
+  name: کلم بروکلی خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_BROWN_MUSHROOM:
+  name: قارچ قهوه‌ای خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_BRUSSELS_SPROUTS:
+  name: کلم بروکسل خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_CABBAGE:
+  name: کلم خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_CARROT:
+  name: هویج خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_CAULIFLOWER:
+  name: گل‌کلم خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_CAYENNE_PEPPER:
+  name: فلفل کاین خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_CELERIAC:
+  name: کرفس غده‌ای خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_CELERY:
+  name: کرفس خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_CHERRY:
+  name: گیلاس خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_CHESTNUT:
+  name: شاه‌بلوط خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_CHICKEN:
+  name: مرغ خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_CHICKPEAS:
+  name: نخود خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_CHICORY:
+  name: کاسنی خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_CHILLY_PEPPER:
+  name: فلفل چیلی خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_CHIVES:
+  name: تره خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_CHORUS_FRUIT:
+  name: میوه کُر خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_CILANTRO:
+  name: گشنیز خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_CINNAMON:
+  name: دارچین خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_CLOVE:
+  name: میخک خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_COCOA_BEANS:
+  name: دانه کاکائو خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_COD:
+  name: ماهی روغن خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_COURGETTE:
+  name: کدو سبز خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_CUCUMBER:
+  name: خیار خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_CUMIN:
+  name: زیره خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_CURRY_LEAF:
+  name: برگ کاری خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_DILL:
+  name: شوید خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_EGG:
+  name: تخم‌مرغ خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_ENCHANTED_GOLDEN_APPLE:
+  name: سیب طلایی جادویی خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_FENNEL:
+  name: رازیانه خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_GARLIC:
+  name: سیر خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_GINGER:
+  name: زنجبیل خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_GLOW_BERRIES:
+  name: توت درخشان خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_GOLDEN_APPLE:
+  name: سیب طلایی خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_GOLDEN_CARROT:
+  name: هویج طلایی خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_GRAPE:
+  name: انگور خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_GREEN_APPLE:
+  name: سیب سبز خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_GREEN_BEANS:
+  name: لوبیا سبز خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_GREEN_ONION:
+  name: پیازچه خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_HAZELNUT:
+  name: فندق خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_HORSERADISH:
+  name: ترب کوهی خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_JALAPENO:
+  name: هالاپینو خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_JASMINE:
+  name: یاسمن خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_JUNIPER_BERRY:
+  name: دانه‌های سرو کوهی خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_KAFFIR_LIME:
+  name: برگ لیمو کافیر خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_KALE:
+  name: کلم کیل خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_KELP:
+  name: جلبک دریایی خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_KIWI:
+  name: کیوی خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_LAVENDER:
+  name: اسطوخودوس خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_LEEK:
+  name: تره‌فرنگی خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_LEMON:
+  name: لیمو خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_LETTUCE:
+  name: کاهو خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_LICORICE:
+  name: شیرین‌بیان خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_LIME:
+  name: لیمو ترش خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_MACE:
+  name: بسباسه خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_MANGO:
+  name: انبه خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_MARJORAM:
+  name: مرزنجوش خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_MARROW:
+  name: کدوی مغزدار خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_MELON:
+  name: هندوانه خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_MINT:
+  name: نعناع خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_MUSTARD_SEEDS:
+  name: دانه‌های خردل خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_MUTTON:
+  name: گوشت گوسفند خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_NETTLES:
+  name: گزنه خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_OKRA:
+  name: بامیه خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_ONION:
+  name: پیاز خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_ORANGE:
+  name: پرتقال خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_OREGANO:
+  name: پونه کوهی خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_PARSLEY:
+  name: جعفری خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_PARSNIP:
+  name: هویج سفید خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_PEA:
+  name: نخودفرنگی خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_PEACH:
+  name: هلو خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_PEANUT:
+  name: بادام‌زمینی خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_PEAR:
+  name: گلابی خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_PECAN:
+  name: پکان خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_PEPPER:
+  name: فلفل سیاه خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_PEPPERONI:
+  name: پپرونی خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_PINEAPPLE:
+  name: آناناس خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_PINTO_BEANS:
+  name: لوبیا چیتی خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_PORKCHOP:
+  name: گوشت خوک خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_POTATO:
+  name: سیب‌زمینی خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_PUFFERFISH:
+  name: ماهی بادکنکی خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_PUMPKIN:
+  name: کدوتنبل خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_RABBIT:
+  name: خرگوش خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_RADDISH:
+  name: تربچه خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_RADICCHIO:
+  name: کاسنی قرمز خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_RAPESEED:
+  name: کلزا خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_RED_MUSHROOM:
+  name: قارچ قرمز خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_RHUBARB:
+  name: ریواس خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_RICE:
+  name: برنج خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_ROSEMARY:
+  name: رزماری خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_ROTTEN_FLESH:
+  name: گوشت زامبی خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_RUNNER_BEANS:
+  name: لوبیا رونده خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_RUTABAGA:
+  name: شلغم سوئدی خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_SALMON:
+  name: ماهی سالمون خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_SASSAFRAS:
+  name: ساسافراس خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_SHALLOT:
+  name: موسیر خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_SHISO:
+  name: شیسو خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_SOY_BEANS:
+  name: لوبیا سویا خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_SPINACH:
+  name: اسفناج خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_STAR_ANISE:
+  name: بادیان ستاره‌ای خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_STRAWBERRY:
+  name: توت‌فرنگی خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_SUGAR:
+  name: شکر خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_SWEETCORN:
+  name: ذرت شیرین خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_SWEET_BERRIES:
+  name: توت شیرین خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_SWEET_POTATO:
+  name: سیب‌زمینی شیرین خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_TARRAGON:
+  name: ترخون خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_THYME:
+  name: آویشن خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_TOMATO:
+  name: گوجه‌فرنگی خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_TURMERIC:
+  name: زردچوبه خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_TURNIP:
+  name: شلغم خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_VANILLA:
+  name: وانیل خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_WASABI:
+  name: واسابی خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CHOPPED_WHEAT:
+  name: گندم خردشده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_CILANTRO:
+  name: گشنیز
+  type:
+  - '&7&oمحصول'
+  description:
+  - یک ادویه ملایم با رگه‌ای از مرکبات.
+CLT_CINNAMON:
+  name: دارچین
+  type:
+  - '&7&oمحصول'
+  description:
+  - به شکل چوبی‌اش برای جویدن عالی است.
+CLT_CINNAMON_ROLL:
+  name: رول دارچینی
+  type:
+  - '&7&oغذا'
+  description:
+  - یک لذت شیرین که برای سرگرمی لوله شده.
+  - خوردنش دنیا را وارونه می‌کند!
+  stats:
+  - '&8⇨ &7درمان: &b4 قلب'
+  - '&8⇨ &bشناوری I &7(10:00)'
+  - '&8⇨ &bسقوط آرام I &7(10:00)'
+CLT_CLOVE:
+  name: میخک
+  type:
+  - '&7&oمحصول'
+  description:
+  - طعمی بسیار گرم و شدید.
+CLT_COMPRESSED_BISCUIT:
+  name: بیسکویت فشرده
+  type:
+  - '&7&oغذا'
+  description:
+  - یک خوراکی کوچک با طعمی عظیم‌تر.
+  stats: *id002
+CLT_COOKED_BURGER_PATTY:
+  name: گوشت همبرگر پخته
+  type:
+  - '&7&oمحصول'
+  description:
+  - عملاً دارد چکه می‌کند
+CLT_COUNTER_BLENDER:
+  name: پیشخوان آشپزخانه (مخلوط‌کن)
+  type:
+  - '&7&oدستگاه'
+  description:
+  - روی این بلوک راست‌کلیک کن تا محصول را مخلوط کنی.
+  usage: &id003
+  - نکته حرفه‌ای! بعد از گذاشتن، می‌توانی شیفت + راست
+  - کلیک کنی تا بلوک(هایی) که در دست داری
+  - طرح آشپزخانه را تغییر دهند. امتحانش کن!
+CLT_COUNTER_BOILING:
+  name: پیشخوان آشپزخانه (دیگ جوش)
+  type:
+  - '&7&oدستگاه'
+  description:
+  - می‌تواند برخی آیتم‌ها را بجوشاند.
+  usage: *id003
+CLT_COUNTER_CHOPPING:
+  name: پیشخوان آشپزخانه (تخته خردکردن)
+  type:
+  - '&7&oدستگاه'
+  description:
+  - روی این بلوک راست‌کلیک کن تا محصول را خرد کنی.
+  usage: *id003
+CLT_COUNTER_FINISHING:
+  name: پیشخوان آشپزخانه (تکمیل)
+  type:
+  - '&7&oدستگاه'
+  description:
+  - برای ساخت محصولات/محصولات جانبی به
+  - محصولات جانبی دیگر یا غذاهای نهایی.
+  usage: *id003
+CLT_COUNTER_FRYING:
+  name: پیشخوان آشپزخانه (ماهیتابه)
+  type:
+  - '&7&oدستگاه'
+  description:
+  - می‌تواند برخی محصولات را سرخ کند.
+  usage: *id003
+CLT_COUNTER_GRILL:
+  name: پیشخوان آشپزخانه (کباب‌پز)
+  type:
+  - '&7&oدستگاه'
+  description:
+  - می‌تواند برخی محصولات را کباب کند.
+  usage: *id003
+CLT_COUNTER_GRINDER:
+  name: پیشخوان آشپزخانه (هاون و دسته)
+  type:
+  - '&7&oدستگاه'
+  description:
+  - روی این بلوک راست‌کلیک کن تا محصول را بکوبی.
+  usage: *id003
+CLT_COUNTER_MASHER:
+  name: پیشخوان آشپزخانه (کاسه پوره)
+  type:
+  - '&7&oدستگاه'
+  description:
+  - روی این بلوک راست‌کلیک کن تا محصول را پوره کنی.
+  usage: *id003
+CLT_COUNTER_NOTHING:
+  name: پیشخوان آشپزخانه (خالی)
+  type:
+  - '&7&oدستگاه'
+  description:
+  - فقط برای تزئین!
+  usage: *id003
+CLT_COUNTER_OVEN:
+  name: پیشخوان آشپزخانه (فر)
+  type:
+  - '&7&oدستگاه'
+  description:
+  - می‌تواند برخی محصولات را در فر بپزد.
+  usage: *id003
+CLT_COUNTER_SLICING:
+  name: پیشخوان آشپزخانه (تخته برش)
+  type:
+  - '&7&oدستگاه'
+  description:
+  - روی این بلوک راست‌کلیک کن تا محصول را برش بزنی.
+  usage: *id003
+CLT_COURGETTE:
+  name: کدو سبز
+  type:
+  - '&7&oمحصول'
+  description:
+  - 'نکته حرفه‌ای: این را در هر سس پاستایی رنده کن'
+  - تا عمق و بافت پیدا کند.
+CLT_CREAM_CHEESE:
+  name: پنیر خامه‌ای
+  type:
+  - '&7&oمحصول'
+  description:
+  - بیشتر خامه‌ای است تا پنیری.
+CLT_CROP_STICKS:
+  name: چوب‌های محصول
+  type:
+  - '&7&oابزار'
+  description:
+  - چوب‌های محصول باید روی یک بذر
+  - کاشته‌شده قرار بگیرند تا رشد کند.
+  - گذاشتن یک دست دوم، گیاه را
+  - دورگه می‌کند تا بتواند گسترش یابد و/یا
+  - پرورش یابد.
+CLT_CUCUMBER:
+  name: خیار
+  type:
+  - '&7&oمحصول'
+  description:
+  - آب در یک پوسته سبز، خلافش را
+  - ثابت کن.
+CLT_CUMIN:
+  name: زیره
+  type:
+  - '&7&oمحصول'
+  description:
+  - گیاهی گرم با عطر مرکبات.
+CLT_CURRY_LEAF:
+  name: برگ کاری
+  type:
+  - '&7&oمحصول'
+  description:
+  - پایه بسیاری از غذاهای فوق‌العاده.
+CLT_DILL:
+  name: شوید
+  type:
+  - '&7&oمحصول'
+  description:
+  - برای من فقط مزه چمن می‌دهد. چرا
+  - مردم این را دوست دارند؟
+CLT_DOUGH:
+  name: خمیر
+  type:
+  - '&7&oمحصول'
+  description:
+  - فقط یک خمیر ساده!
+CLT_EGG_SALAD:
+  name: سالاد تخم‌مرغ
+  type:
+  - '&7&oمحصول'
+  description:
+  - جرئت داری این را توی قطار باز کن!
+CLT_EGG_SALAD_SANDWICH:
+  name: ساندویچ سالاد تخم‌مرغ
+  type:
+  - '&7&oغذا'
+  description:
+  - کمی بو می‌دهد، اما طعمش فوق‌العاده است!
+  stats: &id006
+  - '&8⇨ &7درمان: &b10 قلب'
+  - '&8⇨ &bترمیم II &7(10:00)'
+CLT_FENNEL:
+  name: رازیانه
+  type:
+  - '&7&oمحصول'
+  description:
+  - مثل ترکیبی از بادیان و شیرین‌بیان.
+CLT_FRIED_APPLE:
+  name: سیب سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_APRICOT:
+  name: زردآلو سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_ARTICHOKE:
+  name: کنگر فرنگی سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_ASPARAGUS:
+  name: مارچوبه سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_AUBERGINE:
+  name: بادمجان سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_AVOCADO:
+  name: آووکادو سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_BANANA:
+  name: موز سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_BASIL:
+  name: ریحان سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_BAY_LEAF:
+  name: برگ بو سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_BEEF:
+  name: گوشت گاو سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_BEETROOT:
+  name: چغندر سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_BELL_PEPPER:
+  name: فلفل دلمه‌ای سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_BLACK_BEANS:
+  name: لوبیا سیاه سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_BREAD:
+  name: نان سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_BROCCOLI:
+  name: کلم بروکلی سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_BROWN_MUSHROOM:
+  name: قارچ قهوه‌ای سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_BRUSSELS_SPROUTS:
+  name: کلم بروکسل سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_CABBAGE:
+  name: کلم سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_CARROT:
+  name: هویج سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_CAULIFLOWER:
+  name: گل‌کلم سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_CAYENNE_PEPPER:
+  name: فلفل کاین سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_CELERIAC:
+  name: کرفس غده‌ای سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_CELERY:
+  name: کرفس سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_CHERRY:
+  name: گیلاس سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_CHESTNUT:
+  name: شاه‌بلوط سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_CHICKEN:
+  name: مرغ سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_CHICKPEAS:
+  name: نخود سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_CHICORY:
+  name: کاسنی سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_CHILLY_PEPPER:
+  name: فلفل چیلی سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_CHIVES:
+  name: تره سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_CHORUS_FRUIT:
+  name: میوه کُر سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_CILANTRO:
+  name: گشنیز سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_CINNAMON:
+  name: دارچین سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_CLOVE:
+  name: میخک سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_COCOA_BEANS:
+  name: دانه کاکائو سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_COD:
+  name: ماهی روغن سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_COURGETTE:
+  name: کدو سبز سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_CUCUMBER:
+  name: خیار سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_CUMIN:
+  name: زیره سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_CURRY_LEAF:
+  name: برگ کاری سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_DILL:
+  name: شوید سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_EGG:
+  name: تخم‌مرغ سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_ENCHANTED_GOLDEN_APPLE:
+  name: سیب طلایی جادویی سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_FENNEL:
+  name: رازیانه سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_GARLIC:
+  name: سیر سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_GINGER:
+  name: زنجبیل سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_GLOW_BERRIES:
+  name: توت درخشان سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_GOLDEN_APPLE:
+  name: سیب طلایی سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_GOLDEN_CARROT:
+  name: هویج طلایی سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_GRAPE:
+  name: انگور سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_GREEN_APPLE:
+  name: سیب سبز سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_GREEN_BEANS:
+  name: لوبیا سبز سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_GREEN_ONION:
+  name: پیازچه سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_HAZELNUT:
+  name: فندق سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_HORSERADISH:
+  name: ترب کوهی سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_JALAPENO:
+  name: هالاپینو سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_JASMINE:
+  name: یاسمن سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_JUNIPER_BERRY:
+  name: دانه‌های سرو کوهی سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_KAFFIR_LIME:
+  name: برگ لیمو کافیر سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_KALE:
+  name: کلم کیل سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_KELP:
+  name: جلبک دریایی سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_KIWI:
+  name: کیوی سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_LAVENDER:
+  name: اسطوخودوس سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_LEEK:
+  name: تره‌فرنگی سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_LEMON:
+  name: لیمو سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_LETTUCE:
+  name: کاهو سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_LICORICE:
+  name: شیرین‌بیان سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_LIME:
+  name: لیمو ترش سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_MACE:
+  name: بسباسه سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_MANGO:
+  name: انبه سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_MARJORAM:
+  name: مرزنجوش سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_MARROW:
+  name: کدوی مغزدار سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_MELON:
+  name: هندوانه سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_MINT:
+  name: نعناع سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_MUSTARD_SEEDS:
+  name: دانه‌های خردل سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_MUTTON:
+  name: گوشت گوسفند سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_NETTLES:
+  name: گزنه سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_OKRA:
+  name: بامیه سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_ONION:
+  name: پیاز سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_ORANGE:
+  name: پرتقال سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_OREGANO:
+  name: پونه کوهی سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_PARSLEY:
+  name: جعفری سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_PARSNIP:
+  name: هویج سفید سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_PEA:
+  name: نخودفرنگی سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_PEACH:
+  name: هلو سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_PEANUT:
+  name: بادام‌زمینی سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_PEAR:
+  name: گلابی سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_PECAN:
+  name: پکان سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_PEPPER:
+  name: فلفل سیاه سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_PEPPERONI:
+  name: پپرونی سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_PINEAPPLE:
+  name: آناناس سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_PINTO_BEANS:
+  name: لوبیا چیتی سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_PORKCHOP:
+  name: گوشت خوک سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_POTATO:
+  name: سیب‌زمینی سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_PUFFERFISH:
+  name: ماهی بادکنکی سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_PUMPKIN:
+  name: کدوتنبل سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_RABBIT:
+  name: خرگوش سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_RADDISH:
+  name: تربچه سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_RADICCHIO:
+  name: کاسنی قرمز سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_RAPESEED:
+  name: کلزا سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_RED_MUSHROOM:
+  name: قارچ قرمز سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_RHUBARB:
+  name: ریواس سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_RICE:
+  name: برنج سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_ROSEMARY:
+  name: رزماری سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_ROTTEN_FLESH:
+  name: گوشت زامبی سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_RUNNER_BEANS:
+  name: لوبیا رونده سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_RUTABAGA:
+  name: شلغم سوئدی سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_SALMON:
+  name: ماهی سالمون سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_SASSAFRAS:
+  name: ساسافراس سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_SHALLOT:
+  name: موسیر سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_SHISO:
+  name: شیسو سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_SOY_BEANS:
+  name: لوبیا سویا سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_SPINACH:
+  name: اسفناج سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_STAR_ANISE:
+  name: بادیان ستاره‌ای سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_STRAWBERRY:
+  name: توت‌فرنگی سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_SUGAR:
+  name: شکر سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_SWEETCORN:
+  name: ذرت شیرین سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_SWEET_BERRIES:
+  name: توت شیرین سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_SWEET_POTATO:
+  name: سیب‌زمینی شیرین سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_TARRAGON:
+  name: ترخون سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_THYME:
+  name: آویشن سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_TOMATO:
+  name: گوجه‌فرنگی سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_TURMERIC:
+  name: زردچوبه سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_TURNIP:
+  name: شلغم سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_VANILLA:
+  name: وانیل سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_WASABI:
+  name: واسابی سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRIED_WHEAT:
+  name: گندم سرخ‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_FRUIT_SALAD:
+  name: سالاد میوه
+  type:
+  - '&7&oغذا'
+  description:
+  - اگر اسمش را سالاد بگذاری، هر چقدر بخواهی
+  - می‌توانی بخوری، چون سالم است دیگر.
+  stats:
+  - '&8⇨ &7درمان: &b6 قلب'
+  - '&8⇨ &bسرعت III &7(10:00)'
+CLT_FUGU:
+  name: فوگو
+  type:
+  - '&7&oغذا'
+  description:
+  - آماده‌ای تاس بریزی؟
+  stats:
+  - '&8⇨ &7درمان: &b1 قلب'
+  - '&8⇨ &bقدرت V &7(10:00)'
+  - '&8⇨ &733% احتمال اینکه همین‌طوری بمیری!'
+CLT_GARDEN_CLOCHE:
+  name: سرپوش باغچه
+  type:
+  - '&7&oدستگاه'
+  description:
+  - گیاهان را به‌طور خودکار درون خود پرورش می‌دهد.
+  stats:
+  - '&8⇨ &7انرژی در هر تیک: &b100'
+CLT_GARLIC:
+  name: سیر
+  type:
+  - '&7&oمحصول'
+  description:
+  - زود باش، قبل از اینکه خون‌آشام‌ها بیایند!
+CLT_GARLIC_BUTTER_MUSHROOMS:
+  name: قارچ با کره سیر
+  type:
+  - '&7&oغذا'
+  description:
+  - شاید به‌راحتی بهترین خوراکی روی زمین باشد.
+  stats:
+  - '&8⇨ &7درمان: &b2 قلب'
+  - '&8⇨ &bدرخشندگی I &7(10:00)'
+CLT_GINGER:
+  name: زنجبیل
+  type:
+  - '&7&oمحصول'
+  description:
+  - زنجبیل خردشده در آب جوش، همه دردها را درمان می‌کند!
+CLT_GRAPE:
+  name: انگور
+  type:
+  - '&7&oمحصول'
+  description:
+  - چه تپل!
+CLT_GRAPE_JELLY:
+  name: ژله انگور
+  type:
+  - '&7&oمحصول'
+  description: &id008
+  - خوردنش با قاشق جرم است.
+CLT_GREEN_APPLE:
+  name: سیب سبز
+  type:
+  - '&7&oمحصول'
+  description:
+  - روی یادداشت نوشته... معلم عزیز؟
+CLT_GREEN_BEANS:
+  name: لوبیا سبز
+  type:
+  - '&7&oمحصول'
+  description:
+  - چه اسم خلاقانه‌ای!
+CLT_GREEN_ONION:
+  name: پیازچه
+  type:
+  - '&7&oمحصول'
+  description:
+  - روی تاکو عالی است!
+CLT_GRILLED_APPLE:
+  name: سیب کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_APRICOT:
+  name: زردآلو کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_ARTICHOKE:
+  name: کنگر فرنگی کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_ASPARAGUS:
+  name: مارچوبه کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_AUBERGINE:
+  name: بادمجان کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_AVOCADO:
+  name: آووکادو کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_BANANA:
+  name: موز کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_BASIL:
+  name: ریحان کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_BAY_LEAF:
+  name: برگ بو کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_BEEF:
+  name: گوشت گاو کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_BEETROOT:
+  name: چغندر کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_BELL_PEPPER:
+  name: فلفل دلمه‌ای کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_BLACK_BEANS:
+  name: لوبیا سیاه کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_BREAD:
+  name: نان کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_BROCCOLI:
+  name: کلم بروکلی کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_BROWN_MUSHROOM:
+  name: قارچ قهوه‌ای کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_BRUSSELS_SPROUTS:
+  name: کلم بروکسل کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_CABBAGE:
+  name: کلم کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_CARROT:
+  name: هویج کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_CAULIFLOWER:
+  name: گل‌کلم کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_CAYENNE_PEPPER:
+  name: فلفل کاین کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_CELERIAC:
+  name: کرفس غده‌ای کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_CELERY:
+  name: کرفس کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_CHERRY:
+  name: گیلاس کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_CHESTNUT:
+  name: شاه‌بلوط کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_CHICKEN:
+  name: مرغ کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_CHICKPEAS:
+  name: نخود کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_CHICORY:
+  name: کاسنی کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_CHILLY_PEPPER:
+  name: فلفل چیلی کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_CHIVES:
+  name: تره کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_CHORUS_FRUIT:
+  name: میوه کُر کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_CILANTRO:
+  name: گشنیز کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_CINNAMON:
+  name: دارچین کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_CLOVE:
+  name: میخک کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_COCOA_BEANS:
+  name: دانه کاکائو کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_COD:
+  name: ماهی روغن کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_COURGETTE:
+  name: کدو سبز کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_CUCUMBER:
+  name: خیار کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_CUMIN:
+  name: زیره کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_CURRY_LEAF:
+  name: برگ کاری کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_DILL:
+  name: شوید کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_EGG:
+  name: تخم‌مرغ کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_ENCHANTED_GOLDEN_APPLE:
+  name: سیب طلایی جادویی کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_FENNEL:
+  name: رازیانه کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_GARLIC:
+  name: سیر کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_GINGER:
+  name: زنجبیل کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_GLOW_BERRIES:
+  name: توت درخشان کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_GOLDEN_APPLE:
+  name: سیب طلایی کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_GOLDEN_CARROT:
+  name: هویج طلایی کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_GRAPE:
+  name: انگور کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_GREEN_APPLE:
+  name: سیب سبز کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_GREEN_BEANS:
+  name: لوبیا سبز کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_GREEN_ONION:
+  name: پیازچه کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_HAZELNUT:
+  name: فندق کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_HORSERADISH:
+  name: ترب کوهی کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_JALAPENO:
+  name: هالاپینو کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_JASMINE:
+  name: یاسمن کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_JUNIPER_BERRY:
+  name: دانه‌های سرو کوهی کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_KAFFIR_LIME:
+  name: برگ لیمو کافیر کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_KALE:
+  name: کلم کیل کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_KELP:
+  name: جلبک دریایی کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_KIWI:
+  name: کیوی کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_LAVENDER:
+  name: اسطوخودوس کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_LEEK:
+  name: تره‌فرنگی کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_LEMON:
+  name: لیمو کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_LETTUCE:
+  name: کاهو کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_LICORICE:
+  name: شیرین‌بیان کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_LIME:
+  name: لیمو ترش کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_MACE:
+  name: بسباسه کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_MANGO:
+  name: انبه کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_MARJORAM:
+  name: مرزنجوش کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_MARROW:
+  name: کدوی مغزدار کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_MELON:
+  name: هندوانه کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_MINT:
+  name: نعناع کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_MUSTARD_SEEDS:
+  name: دانه‌های خردل کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_MUTTON:
+  name: گوشت گوسفند کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_NETTLES:
+  name: گزنه کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_OKRA:
+  name: بامیه کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_ONION:
+  name: پیاز کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_ORANGE:
+  name: پرتقال کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_OREGANO:
+  name: پونه کوهی کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_PARSLEY:
+  name: جعفری کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_PARSNIP:
+  name: هویج سفید کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_PEA:
+  name: نخودفرنگی کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_PEACH:
+  name: هلو کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_PEANUT:
+  name: بادام‌زمینی کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_PEAR:
+  name: گلابی کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_PECAN:
+  name: پکان کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_PEPPER:
+  name: فلفل سیاه کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_PEPPERONI:
+  name: پپرونی کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_PINEAPPLE:
+  name: آناناس کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_PINTO_BEANS:
+  name: لوبیا چیتی کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_PORKCHOP:
+  name: گوشت خوک کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_POTATO:
+  name: سیب‌زمینی کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_PUFFERFISH:
+  name: ماهی بادکنکی کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_PUMPKIN:
+  name: کدوتنبل کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_RABBIT:
+  name: خرگوش کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_RADDISH:
+  name: تربچه کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_RADICCHIO:
+  name: کاسنی قرمز کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_RAPESEED:
+  name: کلزا کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_RED_MUSHROOM:
+  name: قارچ قرمز کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_RHUBARB:
+  name: ریواس کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_RICE:
+  name: برنج کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_ROSEMARY:
+  name: رزماری کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_ROTTEN_FLESH:
+  name: گوشت زامبی کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_RUNNER_BEANS:
+  name: لوبیا رونده کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_RUTABAGA:
+  name: شلغم سوئدی کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_SALMON:
+  name: ماهی سالمون کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_SALMON_SALAD:
+  name: سالاد ماهی سالمون کبابی
+  type:
+  - '&7&oغذا'
+  description:
+  - به‌طرز دلپذیری ورقه‌ورقه و عالی چاشنی‌زده.
+  stats:
+  - '&8⇨ &7درمان: &b4 قلب'
+  - '&8⇨ &bترمیم I &7(10:00)'
+  - '&8⇨ &bسلامتی اضافه V &7(10:00)'
+CLT_GRILLED_SASSAFRAS:
+  name: ساسافراس کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_SHALLOT:
+  name: موسیر کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_SHISO:
+  name: شیسو کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_SOY_BEANS:
+  name: لوبیا سویا کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_SPINACH:
+  name: اسفناج کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_STAR_ANISE:
+  name: بادیان ستاره‌ای کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_STRAWBERRY:
+  name: توت‌فرنگی کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_SUGAR:
+  name: شکر کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_SWEETCORN:
+  name: ذرت شیرین کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_SWEET_BERRIES:
+  name: توت شیرین کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_SWEET_POTATO:
+  name: سیب‌زمینی شیرین کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_TARRAGON:
+  name: ترخون کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_THYME:
+  name: آویشن کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_TOMATO:
+  name: گوجه‌فرنگی کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_TURMERIC:
+  name: زردچوبه کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_TURNIP:
+  name: شلغم کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_VANILLA:
+  name: وانیل کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_WASABI:
+  name: واسابی کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GRILLED_WHEAT:
+  name: گندم کبابی
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_APPLE:
+  name: سیب کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_APRICOT:
+  name: زردآلو کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_ARTICHOKE:
+  name: کنگر فرنگی کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_ASPARAGUS:
+  name: مارچوبه کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_AUBERGINE:
+  name: بادمجان کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_AVOCADO:
+  name: آووکادو کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_BANANA:
+  name: موز کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_BASIL:
+  name: ریحان کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_BAY_LEAF:
+  name: برگ بو کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_BEEF:
+  name: گوشت گاو کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_BEETROOT:
+  name: چغندر کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_BELL_PEPPER:
+  name: فلفل دلمه‌ای کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_BLACK_BEANS:
+  name: لوبیا سیاه کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_BREAD:
+  name: نان کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_BROCCOLI:
+  name: کلم بروکلی کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_BROWN_MUSHROOM:
+  name: قارچ قهوه‌ای کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_BRUSSELS_SPROUTS:
+  name: کلم بروکسل کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_CABBAGE:
+  name: کلم کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_CARROT:
+  name: هویج کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_CAULIFLOWER:
+  name: گل‌کلم کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_CAYENNE_PEPPER:
+  name: فلفل کاین کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_CELERIAC:
+  name: کرفس غده‌ای کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_CELERY:
+  name: کرفس کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_CHERRY:
+  name: گیلاس کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_CHESTNUT:
+  name: شاه‌بلوط کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_CHICKEN:
+  name: مرغ کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_CHICKPEAS:
+  name: نخود کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_CHICORY:
+  name: کاسنی کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_CHILLY_PEPPER:
+  name: فلفل چیلی کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_CHIVES:
+  name: تره کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_CHORUS_FRUIT:
+  name: میوه کُر کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_CILANTRO:
+  name: گشنیز کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_CINNAMON:
+  name: دارچین کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_CLOVE:
+  name: میخک کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_COCOA_BEANS:
+  name: دانه کاکائو کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_COD:
+  name: ماهی روغن کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_COURGETTE:
+  name: کدو سبز کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_CUCUMBER:
+  name: خیار کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_CUMIN:
+  name: زیره کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_CURRY_LEAF:
+  name: برگ کاری کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_DILL:
+  name: شوید کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_EGG:
+  name: تخم‌مرغ کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_ENCHANTED_GOLDEN_APPLE:
+  name: سیب طلایی جادویی کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_FENNEL:
+  name: رازیانه کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_GARLIC:
+  name: سیر کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_GINGER:
+  name: زنجبیل کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_GLOW_BERRIES:
+  name: توت درخشان کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_GOLDEN_APPLE:
+  name: سیب طلایی کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_GOLDEN_CARROT:
+  name: هویج طلایی کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_GRAPE:
+  name: انگور کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_GREEN_APPLE:
+  name: سیب سبز کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_GREEN_BEANS:
+  name: لوبیا سبز کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_GREEN_ONION:
+  name: پیازچه کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_HAZELNUT:
+  name: فندق کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_HORSERADISH:
+  name: ترب کوهی کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_JALAPENO:
+  name: هالاپینو کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_JASMINE:
+  name: یاسمن کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_JUNIPER_BERRY:
+  name: دانه‌های سرو کوهی کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_KAFFIR_LIME:
+  name: برگ لیمو کافیر کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_KALE:
+  name: کلم کیل کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_KELP:
+  name: جلبک دریایی کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_KIWI:
+  name: کیوی کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_LAVENDER:
+  name: اسطوخودوس کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_LEEK:
+  name: تره‌فرنگی کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_LEMON:
+  name: لیمو کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_LETTUCE:
+  name: کاهو کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_LICORICE:
+  name: شیرین‌بیان کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_LIME:
+  name: لیمو ترش کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_MACE:
+  name: بسباسه کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_MANGO:
+  name: انبه کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_MARJORAM:
+  name: مرزنجوش کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_MARROW:
+  name: کدوی مغزدار کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_MELON:
+  name: هندوانه کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_MINT:
+  name: نعناع کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_MUSTARD_SEEDS:
+  name: دانه‌های خردل کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_MUTTON:
+  name: گوشت گوسفند کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_NETTLES:
+  name: گزنه کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_OKRA:
+  name: بامیه کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_ONION:
+  name: پیاز کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_ORANGE:
+  name: پرتقال کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_OREGANO:
+  name: پونه کوهی کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_PARSLEY:
+  name: جعفری کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_PARSNIP:
+  name: هویج سفید کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_PEA:
+  name: نخودفرنگی کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_PEACH:
+  name: هلو کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_PEANUT:
+  name: بادام‌زمینی کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_PEAR:
+  name: گلابی کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_PECAN:
+  name: پکان کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_PEPPER:
+  name: فلفل سیاه کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_PEPPERONI:
+  name: پپرونی کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_PINEAPPLE:
+  name: آناناس کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_PINTO_BEANS:
+  name: لوبیا چیتی کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_PORKCHOP:
+  name: گوشت خوک کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_POTATO:
+  name: سیب‌زمینی کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_PUFFERFISH:
+  name: ماهی بادکنکی کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_PUMPKIN:
+  name: کدوتنبل کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_RABBIT:
+  name: خرگوش کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_RADDISH:
+  name: تربچه کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_RADICCHIO:
+  name: کاسنی قرمز کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_RAPESEED:
+  name: کلزا کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_RED_MUSHROOM:
+  name: قارچ قرمز کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_RHUBARB:
+  name: ریواس کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_RICE:
+  name: برنج کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_ROSEMARY:
+  name: رزماری کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_ROTTEN_FLESH:
+  name: گوشت زامبی کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_RUNNER_BEANS:
+  name: لوبیا رونده کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_RUTABAGA:
+  name: شلغم سوئدی کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_SALMON:
+  name: ماهی سالمون کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_SASSAFRAS:
+  name: ساسافراس کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_SHALLOT:
+  name: موسیر کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_SHISO:
+  name: شیسو کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_SOY_BEANS:
+  name: لوبیا سویا کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_SPINACH:
+  name: اسفناج کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_STAR_ANISE:
+  name: بادیان ستاره‌ای کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_STRAWBERRY:
+  name: توت‌فرنگی کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_SUGAR:
+  name: شکر کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_SWEETCORN:
+  name: ذرت شیرین کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_SWEET_BERRIES:
+  name: توت شیرین کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_SWEET_POTATO:
+  name: سیب‌زمینی شیرین کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_TARRAGON:
+  name: ترخون کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_THYME:
+  name: آویشن کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_TOMATO:
+  name: گوجه‌فرنگی کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_TURMERIC:
+  name: زردچوبه کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_TURNIP:
+  name: شلغم کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_VANILLA:
+  name: وانیل کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_WASABI:
+  name: واسابی کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_GROUND_WHEAT:
+  name: گندم کوبیده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_HAZELNUT:
+  name: فندق
+  type:
+  - '&7&oمحصول'
+  description:
+  - هر کاری لازم است بکن تا این را
+  - همین الان برایم قهوه کنی!
+CLT_HORSERADISH:
+  name: ترب کوهی
+  type:
+  - '&7&oمحصول'
+  description:
+  - $100 اگر مستقیم گازش بزنی.
+CLT_JALAPENO:
+  name: هالاپینو
+  type:
+  - '&7&oمحصول'
+  description:
+  - داغ داغ داغ.
+CLT_JASMINE:
+  name: یاسمن
+  type:
+  - '&7&oمحصول'
+  description:
+  - یک دمنوش فوق‌العاده از آن درست می‌شود.
+CLT_JUNIPER_BERRY:
+  name: دانه‌های سرو کوهی
+  type:
+  - '&7&oمحصول'
+  description:
+  - تا کمال فلفلی خشک شده.
+CLT_KAFFIR_LIME:
+  name: برگ لیمو کافیر
+  type:
+  - '&7&oمحصول'
+  description:
+  - برگی با تندی و طراوتی قدرتمند.
+CLT_KALE:
+  name: کلم کیل
+  type:
+  - '&7&oمحصول'
+  description:
+  - کمک، من یک هیپستر اسموتی 2020 هستم!
+CLT_KETCHUP:
+  name: سس گوجه‌فرنگی
+  type:
+  - '&7&oمحصول'
+  description:
+  - فقط گوجه‌فرنگی به شکل خامه‌ای.
+CLT_KEY_LIME_PIE:
+  name: پای لیمو ترش
+  type:
+  - '&7&oغذا'
+  description:
+  - به‌سادگی بهترین!
+  stats:
+  - '&8⇨ &7درمان: &b6 قلب'
+  - '&8⇨ &bسرعت معدنچی IV &7(10:00)'
+CLT_KIWI:
+  name: کیوی
+  type:
+  - '&7&oمحصول'
+  description:
+  - این را به زور در افزونه گذاشتم.
+  - کیوی‌ها شیطانی‌اند و هر کس که
+  - از آن‌ها استفاده کند خودبه‌خود
+  - 100 امتیاز از دست می‌دهد.
+CLT_LASAGNA:
+  name: لازانیا
+  type:
+  - '&7&oغذا'
+  description:
+  - لایه‌هایی از شگفتی.
+  stats:
+  - '&8⇨ &7درمان: &bکامل'
+  - '&8⇨ &bترمیم II &7(10:00)'
+  - '&8⇨ &bمقاومت II &7(10:00)'
+CLT_LAVENDER:
+  name: اسطوخودوس
+  type:
+  - '&7&oمحصول'
+  description:
+  - بویی که می‌تواند آرام آرام مرا به خواب ببرد.
+CLT_LEAVES_TREE_APRICOT:
+  name: برگ‌های درخت زردآلو
+  type:
+  - '&7&oبرگ'
+CLT_LEAVES_TREE_BANANA:
+  name: برگ‌های درخت موز
+  type:
+  - '&7&oبرگ'
+CLT_LEAVES_TREE_CHERRY:
+  name: برگ‌های درخت گیلاس
+  type:
+  - '&7&oبرگ'
+CLT_LEAVES_TREE_CHESTNUT:
+  name: برگ‌های درخت شاه‌بلوط
+  type:
+  - '&7&oبرگ'
+CLT_LEAVES_TREE_GREEN_APPLE:
+  name: برگ‌های درخت سیب سبز
+  type:
+  - '&7&oبرگ'
+CLT_LEAVES_TREE_HAZELNUT:
+  name: برگ‌های درخت فندق
+  type:
+  - '&7&oبرگ'
+CLT_LEAVES_TREE_KIWI:
+  name: برگ‌های درخت کیوی
+  type:
+  - '&7&oبرگ'
+CLT_LEAVES_TREE_LEMON:
+  name: برگ‌های درخت لیمو
+  type:
+  - '&7&oبرگ'
+CLT_LEAVES_TREE_LIME:
+  name: برگ‌های درخت لیمو ترش
+  type:
+  - '&7&oبرگ'
+CLT_LEAVES_TREE_MANGO:
+  name: برگ‌های درخت انبه
+  type:
+  - '&7&oبرگ'
+CLT_LEAVES_TREE_ORANGE:
+  name: برگ‌های درخت پرتقال
+  type:
+  - '&7&oبرگ'
+CLT_LEAVES_TREE_PEACH:
+  name: برگ‌های درخت هلو
+  type:
+  - '&7&oبرگ'
+CLT_LEAVES_TREE_PEAR:
+  name: برگ‌های درخت گلابی
+  type:
+  - '&7&oبرگ'
+CLT_LEAVES_TREE_PECAN:
+  name: برگ‌های درخت پکان
+  type:
+  - '&7&oبرگ'
+CLT_LEAVES_TREE_PINEAPPLE:
+  name: برگ‌های درخت آناناس
+  type:
+  - '&7&oبرگ'
+CLT_LEEK:
+  name: تره‌فرنگی
+  type:
+  - '&7&oمحصول'
+  description:
+  - به دلایلی دارد از آن آب چکه می‌کند؟
+  - شاید زیادی تر شده، تره است دیگر؟
+CLT_LEMON:
+  name: لیمو
+  type:
+  - '&7&oمحصول'
+  description:
+  - چرا این‌قدر ترش‌رو؟
+CLT_LEMON_DROP:
+  name: آب‌نبات لیمویی
+  type:
+  - '&7&oغذا'
+  description:
+  - یک پاک‌کننده ذائقه.
+  stats:
+  - '&8⇨ &7همه اثرها را پاک می‌کند و دوباره گرسنه‌ات می‌کند.'
+CLT_LETTUCE:
+  name: کاهو
+  type:
+  - '&7&oمحصول'
+  description:
+  - نازک، آبکی و با این حال خوشمزه.
+CLT_LICORICE:
+  name: شیرین‌بیان
+  type:
+  - '&7&oمحصول'
+  description:
+  - فرار کن، همین الان فرار کن!
+CLT_LIME:
+  name: لیمو ترش
+  type:
+  - '&7&oمحصول'
+  description:
+  - روزی روزگاری، لیمویی بود خوشمزه...
+CLT_MACE:
+  name: بسباسه
+  type:
+  - '&7&oمحصول'
+  description:
+  - برای اسپری کردن به صورت مهاجمان استفاده می‌شود.
+  - '...'
+  - یعنی چه که این بسباسه آن اسپری فلفل نیست؟
+CLT_MANGO:
+  name: انبه
+  type:
+  - '&7&oمحصول'
+  description:
+  - وای، انبوه کار دارم، باید برم.
+  - نوشتن داستان سخت است...
+CLT_MARJORAM:
+  name: مرزنجوش
+  type:
+  - '&7&oمحصول'
+  description:
+  - الان کاری دارم، می‌شود بعداً حرف بزنیم؟
+CLT_MARROW:
+  name: کدوی مغزدار
+  type:
+  - '&7&oمحصول'
+  description:
+  - می‌دانستی کدوی مغزدار درون
+  - استخوان‌هایت پیدا می‌شود؟
+  - آره، سفی باهوشه.
+CLT_MASHED_APPLE:
+  name: سیب پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_APRICOT:
+  name: زردآلو پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_ARTICHOKE:
+  name: کنگر فرنگی پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_ASPARAGUS:
+  name: مارچوبه پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_AUBERGINE:
+  name: بادمجان پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_AVOCADO:
+  name: آووکادو پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_BANANA:
+  name: موز پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_BASIL:
+  name: ریحان پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_BAY_LEAF:
+  name: برگ بو پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_BEEF:
+  name: گوشت گاو پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_BEETROOT:
+  name: چغندر پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_BELL_PEPPER:
+  name: فلفل دلمه‌ای پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_BLACK_BEANS:
+  name: لوبیا سیاه پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_BREAD:
+  name: نان پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_BROCCOLI:
+  name: کلم بروکلی پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_BROWN_MUSHROOM:
+  name: قارچ قهوه‌ای پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_BRUSSELS_SPROUTS:
+  name: کلم بروکسل پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_CABBAGE:
+  name: کلم پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_CARROT:
+  name: هویج پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_CAULIFLOWER:
+  name: گل‌کلم پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_CAYENNE_PEPPER:
+  name: فلفل کاین پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_CELERIAC:
+  name: کرفس غده‌ای پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_CELERY:
+  name: کرفس پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_CHERRY:
+  name: گیلاس پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_CHESTNUT:
+  name: شاه‌بلوط پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_CHICKEN:
+  name: مرغ پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_CHICKPEAS:
+  name: نخود پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_CHICORY:
+  name: کاسنی پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_CHILLY_PEPPER:
+  name: فلفل چیلی پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_CHIVES:
+  name: تره پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_CHORUS_FRUIT:
+  name: میوه کُر پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_CILANTRO:
+  name: گشنیز پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_CINNAMON:
+  name: دارچین پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_CLOVE:
+  name: میخک پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_COCOA_BEANS:
+  name: دانه کاکائو پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_COD:
+  name: ماهی روغن پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_COURGETTE:
+  name: کدو سبز پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_CUCUMBER:
+  name: خیار پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_CUMIN:
+  name: زیره پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_CURRY_LEAF:
+  name: برگ کاری پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_DILL:
+  name: شوید پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_EGG:
+  name: تخم‌مرغ پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_ENCHANTED_GOLDEN_APPLE:
+  name: سیب طلایی جادویی پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_FENNEL:
+  name: رازیانه پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_GARLIC:
+  name: سیر پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_GINGER:
+  name: زنجبیل پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_GLOW_BERRIES:
+  name: توت درخشان پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_GOLDEN_APPLE:
+  name: سیب طلایی پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_GOLDEN_CARROT:
+  name: هویج طلایی پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_GRAPE:
+  name: انگور پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_GREEN_APPLE:
+  name: سیب سبز پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_GREEN_BEANS:
+  name: لوبیا سبز پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_GREEN_ONION:
+  name: پیازچه پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_HAZELNUT:
+  name: فندق پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_HORSERADISH:
+  name: ترب کوهی پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_JALAPENO:
+  name: هالاپینو پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_JASMINE:
+  name: یاسمن پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_JUNIPER_BERRY:
+  name: دانه‌های سرو کوهی پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_KAFFIR_LIME:
+  name: برگ لیمو کافیر پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_KALE:
+  name: کلم کیل پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_KELP:
+  name: جلبک دریایی پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_KIWI:
+  name: کیوی پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_LAVENDER:
+  name: اسطوخودوس پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_LEEK:
+  name: تره‌فرنگی پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_LEMON:
+  name: لیمو پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_LETTUCE:
+  name: کاهو پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_LICORICE:
+  name: شیرین‌بیان پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_LIME:
+  name: لیمو ترش پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_MACE:
+  name: بسباسه پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_MANGO:
+  name: انبه پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_MARJORAM:
+  name: مرزنجوش پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_MARROW:
+  name: کدوی مغزدار پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_MELON:
+  name: هندوانه پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_MINT:
+  name: نعناع پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_MUSTARD_SEEDS:
+  name: دانه‌های خردل پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_MUTTON:
+  name: گوشت گوسفند پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_NETTLES:
+  name: گزنه پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_OKRA:
+  name: بامیه پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_ONION:
+  name: پیاز پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_ORANGE:
+  name: پرتقال پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_OREGANO:
+  name: پونه کوهی پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_PARSLEY:
+  name: جعفری پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_PARSNIP:
+  name: هویج سفید پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_PEA:
+  name: نخودفرنگی پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_PEACH:
+  name: هلو پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_PEANUT:
+  name: بادام‌زمینی پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_PEAR:
+  name: گلابی پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_PECAN:
+  name: پکان پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_PEPPER:
+  name: فلفل سیاه پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_PEPPERONI:
+  name: پپرونی پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_PINEAPPLE:
+  name: آناناس پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_PINTO_BEANS:
+  name: لوبیا چیتی پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_PORKCHOP:
+  name: گوشت خوک پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_POTATO:
+  name: سیب‌زمینی پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_PUFFERFISH:
+  name: ماهی بادکنکی پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_PUMPKIN:
+  name: کدوتنبل پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_RABBIT:
+  name: خرگوش پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_RADDISH:
+  name: تربچه پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_RADICCHIO:
+  name: کاسنی قرمز پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_RAPESEED:
+  name: کلزا پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_RED_MUSHROOM:
+  name: قارچ قرمز پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_RHUBARB:
+  name: ریواس پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_RICE:
+  name: برنج پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_ROSEMARY:
+  name: رزماری پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_ROTTEN_FLESH:
+  name: گوشت زامبی پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_RUNNER_BEANS:
+  name: لوبیا رونده پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_RUTABAGA:
+  name: شلغم سوئدی پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_SALMON:
+  name: ماهی سالمون پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_SASSAFRAS:
+  name: ساسافراس پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_SHALLOT:
+  name: موسیر پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_SHISO:
+  name: شیسو پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_SOY_BEANS:
+  name: لوبیا سویا پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_SPINACH:
+  name: اسفناج پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_STAR_ANISE:
+  name: بادیان ستاره‌ای پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_STRAWBERRY:
+  name: توت‌فرنگی پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_SUGAR:
+  name: شکر پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_SWEETCORN:
+  name: ذرت شیرین پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_SWEET_BERRIES:
+  name: توت شیرین پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_SWEET_POTATO:
+  name: سیب‌زمینی شیرین پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_TARRAGON:
+  name: ترخون پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_THYME:
+  name: آویشن پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_TOMATO:
+  name: گوجه‌فرنگی پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_TURMERIC:
+  name: زردچوبه پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_TURNIP:
+  name: شلغم پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_VANILLA:
+  name: وانیل پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_WASABI:
+  name: واسابی پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MASHED_WHEAT:
+  name: گندم پوره‌شده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_MAYONNAISE:
+  name: سس مایونز
+  type:
+  - '&7&oمحصول'
+  description:
+  - مایونزی ابریشمی و نرم که تقریباً با همه‌چیز جور است.
+CLT_MEATBALLS:
+  name: کوفته قلقلی
+  type:
+  - '&7&oمحصول'
+  description:
+  - گلوله‌های گوشت، کی فکرش را می‌کرد.
+CLT_MEATLOAF:
+  name: رولت گوشت
+  type:
+  - '&7&oغذا'
+  description:
+  - هیچ‌چیز مثلش نیست! بزن بریم.
+  stats:
+  - '&8⇨ &7درمان: &bکامل'
+  - '&8⇨ &bسلامتی اضافه IV &7(10:00)'
+  - '&8⇨ &bمقاومت III &7(10:00)'
+  - '&8⇨ &bسرعت معدنچی II &7(10:00)'
+  - '&8⇨ &bکندی II &7(10:00)'
+CLT_MINT:
+  name: نعناع
+  type:
+  - '&7&oمحصول'
+  description:
+  - بجو بجو بجو.
+CLT_MUSTARD:
+  name: خردل
+  type:
+  - '&7&oمحصول'
+  description:
+  - کمی تندی دارد!
+CLT_MUSTARD_SEEDS:
+  name: بذر خردل
+  type:
+  - '&7&oمحصول'
+  description:
+  - جرئت داری بجوشان!
+CLT_NETTLES:
+  name: گزنه
+  type:
+  - '&7&oمحصول'
+  description:
+  - لطفاً قبل از برداشتن اینها دستکش بپوش.
+CLT_OKRA:
+  name: بامیه
+  type:
+  - '&7&oمحصول'
+  description:
+  - در اوکلابامیه زیاد کشت می‌شود... درسته، درسته؟
+CLT_ONION:
+  name: پیاز
+  type:
+  - '&7&oمحصول'
+  description:
+  - صبر کن، چرا داری گریه می‌کنی؟
+CLT_ORANGE:
+  name: پرتقال
+  type:
+  - '&7&oمحصول'
+  description:
+  - مگر این نباید کوکی باشد؟
+CLT_ORANGE_JUICE:
+  name: آب پرتقال
+  type:
+  - '&7&oغذا'
+  description:
+  - واقعاً بهترین راه برای شروع روز است.
+  stats:
+  - '&8⇨ &bسرعت IV &7(10:00)'
+CLT_OREGANO:
+  name: پونه کوهی
+  type:
+  - '&7&oمحصول'
+  description:
+  - یک سبزی خشک کلاسیک برای هر کابینت.
+CLT_PARSLEY:
+  name: جعفری
+  type:
+  - '&7&oمحصول'
+  description:
+  - بدترین. سبزی. تاریخ.
+CLT_PARSNIP:
+  name: هویج سفید
+  type:
+  - '&7&oمحصول'
+  description:
+  - باید فوراً برشته شود.
+CLT_PASTA:
+  name: پاستا
+  type:
+  - '&7&oمحصول'
+  description:
+  - فقط پاستای ساده، ساده اما فوق‌العاده.
+CLT_PEA:
+  name: نخودفرنگی
+  type:
+  - '&7&oمحصول'
+  description:
+  - اغلب جفت‌جفت درون یک غلاف پیدا می‌شود، یا این‌طور شنیده‌ام.
+CLT_PEACH:
+  name: هلو
+  type:
+  - '&7&oمحصول'
+  description:
+  - درباره آن ایموجی حرف نمی‌زنیم
+CLT_PEANUT:
+  name: بادام‌زمینی
+  type:
+  - '&7&oمحصول'
+  description:
+  - ریسز، من دارم میام!
+CLT_PEANUT_BUTTER:
+  name: کره بادام‌زمینی
+  type:
+  - '&7&oمحصول'
+  description:
+  - فقط با طلای مایع قابل مقایسه است.
+CLT_PEANUT_BUTTER_JELLY_SANDWICH:
+  name: ساندویچ کره بادام‌زمینی و ژله
+  type:
+  - '&7&oغذا'
+  description:
+  - واقعاً اوج فناوری ساندویچ است.
+  stats:
+  - '&8⇨ &7درمان: &b5 قلب'
+  - '&8⇨ &bقدرت III &7(10:00)'
+CLT_PEAR:
+  name: گلابی
+  type:
+  - '&7&oمحصول'
+  description:
+  - نظرت چیست، این گلابی گلِ سرسبد نیست؟
+CLT_PECAN:
+  name: پکان
+  type:
+  - '&7&oمحصول'
+  description:
+  - التماس می‌کند که از آن پای درست شود.
+CLT_PECAN_PIE:
+  name: پای پکان
+  type:
+  - '&7&oغذا'
+  description:
+  - تنها راه برای خوردن شکر خالص بدون
+  - اینکه کسی قضاوتت کند.
+  stats:
+  - '&8⇨ &7درمان: &b4 قلب'
+  - '&8⇨ &bشناوری I &7(10:00)'
+CLT_PEPPER:
+  name: فلفل سیاه
+  type:
+  - '&7&oمحصول'
+  description:
+  - تندتر از نمک.
+CLT_PEPPERONI:
+  name: پپرونی
+  type:
+  - '&7&oمحصول'
+  description:
+  - یک کنده کامل از این را راحت می‌خورم.
+CLT_PICO_DE_GALLO:
+  name: پیکو د گایو
+  type:
+  - '&7&oمحصول'
+  description:
+  - یک سالسای ملایم پر از خوشمزگی خالص.
+CLT_PIE_CRUST:
+  name: پوسته پای
+  type:
+  - '&7&oمحصول'
+  description:
+  - اگر خوردن خالی‌اش قانونی بود
+  - غذای اصلی‌ام می‌شد.
+CLT_PINEAPPLE:
+  name: آناناس
+  type:
+  - '&7&oمحصول'
+  description:
+  - این باید روی هر پیتزایی در دنیا باشد.
+  - می‌خواهی سرش دعوا کنیم!؟
+CLT_PINTO_BEANS:
+  name: لوبیا چیتی
+  type:
+  - '&7&oمحصول'
+  description:
+  - چرینگ! وقت بوریتوست.
+CLT_PIZZA_CHEESE:
+  name: پیتزا پنیر
+  type:
+  - '&7&oغذا'
+  description:
+  - چرا کسی فقط پنیر سفارش می‌دهد؟ نمی‌دانم.
+  stats:
+  - '&8⇨ &7درمان: &b4 قلب'
+  - '&8⇨ &bکندی I &7(10:00)'
+CLT_PIZZA_MUSHROOM:
+  name: پیتزا قارچ
+  type:
+  - '&7&oغذا'
+  description:
+  - یک پیتزای گیاهی ساده پر از پروتئین.
+  stats:
+  - '&8⇨ &7درمان: &b6 قلب'
+  - '&8⇨ &bکندی I &7(10:00)'
+  - '&8⇨ &bسرعت معدنچی II &7(10:00)'
+CLT_PIZZA_PEPPERONI:
+  name: پیتزا پپرونی
+  type:
+  - '&7&oغذا'
+  description:
+  - یک کلاسیک نیویورکی پر از طعم.
+  stats:
+  - '&8⇨ &7درمان: &b6 قلب'
+  - '&8⇨ &bسرعت I &7(10:00)'
+  - '&8⇨ &bسرعت معدنچی I &7(10:00)'
+  - '&8⇨ &bپرش بلند I &7(10:00)'
+CLT_PLANT_AIR:
+  name: گیاه هوای ازلی
+  type:
+  - '&7&oگیاه'
+  description:
+  - گیاهی که آرام با
+  - نغمه طبیعت اطرافش زمزمه می‌کند.
+  - '&eگیاهان ازلی آیتمی تولید نمی‌کنند'
+  - '&eو فقط برای پرورش هستند.'
+CLT_PLANT_AMETHYST:
+  name: گیاه آمتیست
+  type:
+  - '&7&oگیاه'
+  description:
+  - این گیاه عاشق شکوفا شدن در مکان‌های
+  - عمیق و تاریک است.
+CLT_PLANT_ANALYSER:
+  name: تحلیلگر گیاه
+  type:
+  - '&7&oابزار'
+  description:
+  - یک ابزار بسیار ساده که به تو اجازه می‌دهد
+  - جزئیات یک گیاه در حال رشد را ببینی
+  usage:
+  - '&eراست‌کلیک&7: گونه و جزئیات رشد یک گیاه را نشان می‌دهد.'
+  - '&eشیفت + راست‌کلیک&7: نام یک گیاه یا بوته را نمایش می‌دهد.'
+CLT_PLANT_BASALT:
+  name: گیاه بازالت
+  type:
+  - '&7&oگیاه'
+  description:
+  - گیاهی بسیار خسته‌کننده و بی‌روح.
+CLT_PLANT_BEE:
+  name: گیاه زنبور
+  type:
+  - '&7&oگیاه'
+  description:
+  - گیاهی با یک جفت بال بسیار کوچک و ظریف.
+CLT_PLANT_BLACKSTONE:
+  name: گیاه سیاه‌سنگ
+  type:
+  - '&7&oگیاه'
+  description:
+  - گیاهی که معروف است نور را جذب می‌کند.
+CLT_PLANT_BLAZE:
+  name: گیاه شعله‌افروز
+  type:
+  - '&7&oگیاه'
+  description:
+  - گیاهی که لبه‌هایش سوخته است.
+CLT_PLANT_CHICKEN:
+  name: گیاه مرغ
+  type:
+  - '&7&oگیاه'
+  description:
+  - شایعه است که اگر این
+  - بذر را بالای سرت بگیری و از یک
+  - جای بلند بپری، به‌جای سقوط
+  - سر می‌خوری.
+CLT_PLANT_CLAY:
+  name: گیاه خاک رس
+  type:
+  - '&7&oگیاه'
+  description:
+  - این گیاه را می‌توان آزادانه شکل داد و تغییر داد.
+  - اما این به آن معنا نیست که انجامش
+  - فکر خوبی است!
+CLT_PLANT_COAL:
+  name: گیاه زغال‌سنگ
+  type:
+  - '&7&oگیاه'
+  description:
+  - گیاهی سرشار از استعداد.
+CLT_PLANT_COBBLESTONE:
+  name: گیاه قلوه‌سنگ
+  type:
+  - '&7&oگیاه'
+  description:
+  - این گیاه مثل سنگ سفت است.
+CLT_PLANT_CONCRETE:
+  name: گیاه بتن
+  type:
+  - '&7&oگیاه'
+  description:
+  - این گیاه به‌سختی رشد می‌کند چون
+  - خیلی سریع سفت می‌شود.
+CLT_PLANT_COW:
+  name: گیاه گاو
+  type:
+  - '&7&oگیاه'
+  description:
+  - اگر این بذر را کنار گوشت بگیری
+  - و خیلی دقیق گوش کنی، گاهی صدای
+  - ماغ کشیدن می‌شنوی.
+CLT_PLANT_CREEPER:
+  name: گیاه کریپر
+  type:
+  - '&7&oگیاه'
+  description:
+  - فسسسسسسسسسسسس...
+CLT_PLANT_DARKNESS:
+  name: گیاه تاریکی ازلی
+  type:
+  - '&7&oگیاه'
+  description:
+  - گیاهی که از خشمی
+  - لگام‌گسیخته می‌جوشد.
+  - '&eگیاهان ازلی آیتمی تولید نمی‌کنند'
+  - '&eو فقط برای پرورش هستند.'
+CLT_PLANT_DARK_FLORA:
+  name: گیاه فلور تاریک
+  type:
+  - '&7&oگیاه'
+  description:
+  - شری خاموش درون این بذر ساده نهفته است.
+CLT_PLANT_DARK_GRASS:
+  name: گیاه چمن تاریک
+  type:
+  - '&7&oگیاه'
+  description:
+  - گیاهی که واقعاً هویتش را
+  - گم کرده است.
+CLT_PLANT_DEEPSLATE:
+  name: گیاه سنگ عمیق
+  type:
+  - '&7&oگیاه'
+  description:
+  - عمیق، سنگی، <اینجا داستان بنویسید>.
+CLT_PLANT_DIAMOND:
+  name: گیاه الماس
+  type:
+  - '&7&oگیاه'
+  description:
+  - گیاهی که فقط از ثروت حرف می‌زند.
+CLT_PLANT_DIM_LIT:
+  name: گیاه کم‌نور
+  type:
+  - '&7&oگیاه'
+  description:
+  - نوری بسیار کم از درون این بذر می‌تابد.
+CLT_PLANT_DIRT:
+  name: گیاه خاک
+  type:
+  - '&7&oگیاه'
+  description:
+  - در ظاهر کثیف، اما دربردارنده
+  - اجزای سازنده خود زندگی.
+CLT_PLANT_DROWNED:
+  name: گیاه غرق‌شده
+  type:
+  - '&7&oگیاه'
+  description:
+  - گیاهی که همیشه، خیس
+  - و چکه‌چکه است.
+CLT_PLANT_DUSTY:
+  name: گیاه غبارآلود
+  type:
+  - '&7&oگیاه'
+  description:
+  - این گیاه به مراقبت ویژه نیاز دارد، کوچک‌ترین
+  - نسیم تند کافی است تا آن را از هم
+  - بپاشد.
+CLT_PLANT_EARTH:
+  name: گیاه خاک ازلی
+  type:
+  - '&7&oگیاه'
+  description:
+  - گیاهی که دنیای اطرافش را
+  - غنی می‌کند.
+  - '&eگیاهان ازلی آیتمی تولید نمی‌کنند'
+  - '&eو فقط برای پرورش هستند.'
+CLT_PLANT_ECHO:
+  name: گیاه پژواک
+  type:
+  - '&7&oگیاه'
+  description:
+  - این گیاه همیشه می‌داند چطور
+  - راه خانه را پیدا کند.
+CLT_PLANT_ELDER_GUARDIAN:
+  name: گیاه محافظ ارشد
+  type:
+  - '&7&oگیاه'
+  description:
+  - نزدیک این گیاه بودن آدم‌ها را
+  - کند و بی‌حال می‌کند.
+CLT_PLANT_EMERALD:
+  name: گیاه زمرد
+  type:
+  - '&7&oگیاه'
+  description:
+  - صاحبان این گیاه باید کلی
+  - جان بکنند تا از پس خریدنش بربیایند.
+CLT_PLANT_ENDERMAN:
+  name: گیاه اندرمن
+  type:
+  - '&7&oگیاه'
+  description:
+  - اگر با احتیاط با آن رفتار نشود، این گیاه
+  - ممکن است تصادفی تلپورت کند!
+CLT_PLANT_ENDER_DRAGON:
+  name: گیاه اژدهای فرجام
+  type:
+  - '&7&oگیاه'
+  description:
+  - یک غول‌آخر واقعی در میان گیاهان.
+CLT_PLANT_END_STONE:
+  name: گیاه سنگ فرجام
+  type:
+  - '&7&oگیاه'
+  description:
+  - گیاهی که با خلأ زمزمه می‌کند.
+CLT_PLANT_FIRE:
+  name: گیاه آتش ازلی
+  type:
+  - '&7&oگیاه'
+  description:
+  - گیاهی که هم
+  - سرچشمه‌های نابودی را فراهم می‌کند و هم
+  - تولد دوباره را.
+  - '&eگیاهان ازلی آیتمی تولید نمی‌کنند'
+  - '&eو فقط برای پرورش هستند.'
+CLT_PLANT_FISH:
+  name: گیاه ماهی
+  type:
+  - '&7&oگیاه'
+  description:
+  - بویی رسیده از این بذر برمی‌خیزد.
+CLT_PLANT_FLOWER:
+  name: گیاه گلدار
+  type:
+  - '&7&oگیاه'
+  description:
+  - شاخ فراوانی زیبا و خوش‌نما.
+CLT_PLANT_FROG:
+  name: گیاه قورباغه
+  type:
+  - '&7&oگیاه'
+  description:
+  - قور قور!
+CLT_PLANT_GHAST:
+  name: گیاه گست
+  type:
+  - '&7&oگیاه'
+  description:
+  - گیاهی که معروف است
+  - به‌طور تصادفی گلوله آتشین شلیک می‌کند.
+CLT_PLANT_GLASS:
+  name: گیاه شیشه
+  type:
+  - '&7&oگیاه'
+  description:
+  - از زاویه درست، می‌توانی
+  - قسم بخوری که از پشت این گیاه آن طرف را می‌بینی.
+CLT_PLANT_GLAZED:
+  name: گیاه لعاب‌دار
+  type:
+  - '&7&oگیاه'
+  description:
+  - گیاهی که با طرحی پیچیده رشد می‌کند.
+CLT_PLANT_GLOWING_VINE:
+  name: گیاه پیچک درخشان
+  type:
+  - '&7&oگیاه'
+  description:
+  - نوری کم‌سو از درون این بذر می‌تابد.
+CLT_PLANT_GLOW_SQUID:
+  name: گیاه ماهی مرکب درخشان
+  type:
+  - '&7&oگیاه'
+  description:
+  - گیاهی براق با درخششی ملایم.
+CLT_PLANT_GOAT:
+  name: گیاه بز
+  type:
+  - '&7&oگیاه'
+  description:
+  - گیاهی بی‌دلیل خشن که عاشق
+  - بالا و پایین پریدن است.
+CLT_PLANT_GRASS:
+  name: گیاه چمن
+  type:
+  - '&7&oگیاه'
+  description:
+  - زندگی جوشانی که از دل
+  - زمین بیرون می‌زند.
+CLT_PLANT_GRAVEL:
+  name: گیاه ریگ
+  type:
+  - '&7&oگیاه'
+  description:
+  - این گیاه واقعاً نمی‌داند چطور
+  - خودش را جمع‌وجور نگه دارد.
+CLT_PLANT_GUARDIAN:
+  name: گیاه محافظ
+  type:
+  - '&7&oگیاه'
+  description:
+  - وقتی لمس شود، این گیاه
+  - خار پرتاب می‌کند.
+CLT_PLANT_IGNEOUS:
+  name: گیاه آذرین
+  type:
+  - '&7&oگیاه'
+  description:
+  - این گیاه با گرما و فشار شکل گرفته.
+  - این‌طوری نگاهم نکن! همه
+  - این توضیحات گیاهی کاملاً منطقی‌اند.
+CLT_PLANT_LAPIS:
+  name: گیاه لاجورد
+  type:
+  - '&7&oگیاه'
+  description:
+  - گیاهی با هاله‌ای جادویی و کم‌رنگ.
+CLT_PLANT_LIGHT:
+  name: گیاه نور ازلی
+  type:
+  - '&7&oگیاه'
+  description:
+  - گیاهی که هاله‌ای
+  - از عشق ناب می‌پراکند.
+  - '&eگیاهان ازلی آیتمی تولید نمی‌کنند'
+  - '&eو فقط برای پرورش هستند.'
+CLT_PLANT_MAGMA:
+  name: گیاه ماگما
+  type:
+  - '&7&oگیاه'
+  description:
+  - گیاهی آن‌قدر داغ که
+  - اطرافش را می‌سوزاند.
+CLT_PLANT_MAGMA_CUBE:
+  name: گیاه مکعب مذاب
+  type:
+  - '&7&oگیاه'
+  description:
+  - وقتی کسی نگاهش نمی‌کند، این گیاه
+  - دوست دارد بالا و پایین بپرد.
+CLT_PLANT_MOSS:
+  name: گیاه خزه
+  type:
+  - '&7&oگیاه'
+  description:
+  - این گیاه تمایل دارد بی‌مهار گسترش پیدا کند.
+CLT_PLANT_MUD:
+  name: گیاه گِل
+  type:
+  - '&7&oگیاه'
+  description:
+  - گیاهی که تقریباً به اندازه
+  - زمینی که از آن آمده کثیف است.
+CLT_PLANT_MUSHROOM:
+  name: گیاه قارچ
+  type:
+  - '&7&oگیاه'
+  description:
+  - آره، گیاهی که قارچ می‌سازد.
+  - اینجا همه‌چیز کاملاً عادی است.
+CLT_PLANT_NETHERRACK:
+  name: گیاه سنگ ندر
+  type:
+  - '&7&oگیاه'
+  description:
+  - گیاهی سرسخت و مقاوم که در
+  - بیشتر مکان‌ها زنده می‌ماند.
+CLT_PLANT_NETHER_QUARTZ:
+  name: گیاه کوارتز ندر
+  type:
+  - '&7&oگیاه'
+  description:
+  - این گیاه خارهایی چنان تیز دارد که
+  - کار کردن با آن سخت است.
+CLT_PLANT_PHANTOM:
+  name: گیاه شبح
+  type:
+  - '&7&oگیاه'
+  description:
+  - گیاهی با برگ‌های بلندپرواز.
+CLT_PLANT_PIG:
+  name: گیاه خوک
+  type:
+  - '&7&oگیاه'
+  description:
+  - گیاهی که گاه‌وبیگاه خرناس می‌کشد.
+CLT_PLANT_POWER:
+  name: گیاه نیروی ازلی
+  type:
+  - '&7&oگیاه'
+  description:
+  - گیاهی که قدرت از سراپایش می‌تراود.
+  - '&eگیاهان ازلی آیتمی تولید نمی‌کنند'
+  - '&eو فقط برای پرورش هستند.'
+CLT_PLANT_PURPUR:
+  name: گیاه پورپور
+  type:
+  - '&7&oگیاه'
+  description:
+  - گیاهی عجیب، به نظر خیلی سبک‌تر
+  - از بیشتر گیاهان است.
+CLT_PLANT_RABBIT:
+  name: گیاه خرگوش
+  type:
+  - '&7&oگیاه'
+  description:
+  - حشرات به آن افتخار می‌کنند.
+CLT_PLANT_RAINBOW:
+  name: گیاه رنگین‌کمان
+  type:
+  - '&7&oگیاه'
+  description:
+  - شاید در انتهای این گیاه یک
+  - کوزه طلا باشد، شاید هم نه.
+CLT_PLANT_RAW_COPPER:
+  name: گیاه مس خام
+  type:
+  - '&7&oگیاه'
+  description:
+  - اگر به حال خود رها شود، این گیاه گاهی
+  - صاعقه را جذب می‌کند.
+CLT_PLANT_RAW_GOLD:
+  name: گیاه طلای خام
+  type:
+  - '&7&oگیاه'
+  description:
+  - اگر پیگلین‌ها نزدیک باشند، این گیاه
+  - معمولاً توسط آن‌ها دزدیده می‌شود.
+CLT_PLANT_RAW_IRON:
+  name: گیاه آهن خام
+  type:
+  - '&7&oگیاه'
+  description:
+  - گیاهی محکم که در برابر بیشتر
+  - محیط‌ها تاب می‌آورد.
+CLT_PLANT_REDSTONE:
+  name: گیاه ردستون
+  type:
+  - '&7&oگیاه'
+  description:
+  - گیاهی که سرتاسرش لبریز از قدرت است.
+CLT_PLANT_RED_SAND:
+  name: گیاه ماسه قرمز
+  type:
+  - '&7&oگیاه'
+  description:
+  - این گیاه گاهی با یک لمس از هم
+  - می‌پاشد، اما... قرمزتر.
+CLT_PLANT_REINFORCED:
+  name: گیاه مستحکم
+  type:
+  - '&7&oگیاه'
+  description:
+  - گیاهی که می‌تواند در برابر هر چیزی
+  - سرپا بماند.
+CLT_PLANT_SAND:
+  name: گیاه ماسه
+  type:
+  - '&7&oگیاه'
+  description:
+  - این گیاه گاهی با یک لمس از هم
+  - می‌پاشد.
+CLT_PLANT_SAPLING:
+  name: گیاه نهال
+  type:
+  - '&7&oگیاه'
+  description:
+  - این گیاه اصلاً منطقی نیست...
+CLT_PLANT_SCRAPPY:
+  name: گیاه ضایعاتی
+  type:
+  - '&7&oگیاه'
+  description:
+  - این گیاه واقعاً اوج
+  - هنر باغبانی است.
+CLT_PLANT_SHEEP:
+  name: گیاه گوسفند
+  type:
+  - '&7&oگیاه'
+  description:
+  - گیاهی با بافتی زبر و پشمی.
+CLT_PLANT_SHULKER:
+  name: گیاه شالکر
+  type:
+  - '&7&oگیاه'
+  description:
+  - گیاهی که اغلب از روی زمین
+  - شناور می‌شود.
+CLT_PLANT_SKELETON:
+  name: گیاه اسکلت
+  type:
+  - '&7&oگیاه'
+  description:
+  - گیاهی که وقتی تاب می‌خورد تلق‌تلق می‌کند.
+CLT_PLANT_SLIME:
+  name: گیاه اسلایم
+  type:
+  - '&7&oگیاه'
+  description:
+  - چرا این‌قدر چسبناک است؟
+CLT_PLANT_SOUL:
+  name: گیاه روح
+  type:
+  - '&7&oگیاه'
+  description:
+  - گیاهی که وقتی همه‌جا ساکت است
+  - صدای جیغش شنیده می‌شود.
+CLT_PLANT_SPECTRUM:
+  name: گیاه طیف ازلی
+  type:
+  - '&7&oگیاه'
+  description:
+  - گیاهی که کمی رنگش را تغییر می‌دهد.
+  - '&eگیاهان ازلی آیتمی تولید نمی‌کنند'
+  - '&eو فقط برای پرورش هستند.'
+CLT_PLANT_SPIDER:
+  name: گیاه عنکبوت
+  type:
+  - '&7&oگیاه'
+  description:
+  - بکشش، همین الان بکشش!
+CLT_PLANT_SQUID:
+  name: گیاه ماهی مرکب
+  type:
+  - '&7&oگیاه'
+  description:
+  - مراقب باش، فقط لمس این گیاه
+  - ممکن است جوهر را همه‌جا
+  - بپاشد.
+CLT_PLANT_STAINED:
+  name: گیاه رنگین
+  type:
+  - '&7&oگیاه'
+  description:
+  - این گیاه نور را به طیفی تمام‌عیار
+  - می‌شکند و روی اشیای اطراف می‌اندازد.
+CLT_PLANT_TERRA:
+  name: گیاه ترا
+  type:
+  - '&7&oگیاه'
+  description:
+  - گیاهی سخت و خاکی که زیر فشار ترک برمی‌دارد.
+CLT_PLANT_TURTLE:
+  name: گیاه لاک‌پشت
+  type:
+  - '&7&oگیاه'
+  description:
+  - بذری که در پوسته‌ای سنگ‌مانند قرار دارد.
+CLT_PLANT_VILLAGER:
+  name: گیاه روستایی
+  type:
+  - '&7&oگیاه'
+  description:
+  - آره، ما جوهره یک روستایی را در یک گیاه
+  - فشرده کردیم. ظاهراً خیلی درد داشت.
+CLT_PLANT_VINE:
+  name: گیاه پیچک
+  type:
+  - '&7&oگیاه'
+  description:
+  - گیاهی که فوراً خودش را
+  - گره‌گره می‌کند.
+CLT_PLANT_WATER:
+  name: گیاه آب ازلی
+  type:
+  - '&7&oگیاه'
+  description:
+  - گیاهی که به محیط اطرافش
+  - زندگی و پرورش می‌بخشد.
+  - '&eگیاهان ازلی آیتمی تولید نمی‌کنند'
+  - '&eو فقط برای پرورش هستند.'
+CLT_PLANT_WAXY:
+  name: گیاه مومی
+  type:
+  - '&7&oگیاه'
+  description:
+  - شیره این گیاه به موم‌هایی
+  - کاملاً شمع‌شکل تبدیل می‌شود.
+CLT_PLANT_WEALTH:
+  name: گیاه ثروت ازلی
+  type:
+  - '&7&oگیاه'
+  description:
+  - گیاهی که فریاد ثروتی سرشار سر می‌دهد.
+  - '&eگیاهان ازلی آیتمی تولید نمی‌کنند'
+  - '&eو فقط برای پرورش هستند.'
+CLT_PLANT_WITCH:
+  name: گیاه جادوگر
+  type:
+  - '&7&oگیاه'
+  description:
+  - گیاهی که انگار آرام
+  - زیر لب ورد می‌خواند.
+CLT_PLANT_WITHER:
+  name: گیاه ویدر
+  type:
+  - '&7&oگیاه'
+  description:
+  - گیاهی کشنده که باید
+  - با احتیاط با آن رفتار کرد.
+CLT_PLANT_WITHER_ROSE:
+  name: گیاه گل ویدر
+  type:
+  - '&7&oگیاه'
+  description:
+  - این گیاه، به نحوی، هاله‌ای زیان‌بار
+  - دور خودش می‌پراکند.
+CLT_PLANT_WITHER_SKELETON:
+  name: گیاه اسکلت ویدر
+  type:
+  - '&7&oگیاه'
+  description:
+  - گیاهی که به گریزپا و سرسخت بودن معروف است.
+CLT_PLANT_WOOLLY:
+  name: گیاه پشمی
+  type:
+  - '&7&oگیاه'
+  description:
+  - گیاهی پشمی، از ریشه تا گلبرگ!
+CLT_PLANT_ZOMBIE:
+  name: گیاه زامبی
+  type:
+  - '&7&oگیاه'
+  description:
+  - از این گیاه دارد... چیزی... چکه می‌کند...
+CLT_RADDISH:
+  name: تربچه
+  type:
+  - '&7&oمحصول'
+  description:
+  - جیب‌های کوچکی از آفتاب تازه و ترد.
+CLT_RADICCHIO:
+  name: کاسنی قرمز
+  type:
+  - '&7&oمحصول'
+  description:
+  - نوشتن این همه داستان خیلی طول می‌کشد.
+  - کاسه صبرم دیگر کاسنی شد.
+CLT_RAMEN_BEEF:
+  name: رامن گوشت گاو
+  type:
+  - '&7&oغذا'
+  description:
+  - انتخابی نه‌چندان سالم.
+  stats: &id004
+  - '&8⇨ &bسلامتی اضافه I &7(10:00)'
+CLT_RAMEN_BEEF_HEARTY:
+  name: رامن مقوی گوشت گاو
+  type:
+  - '&7&oغذا'
+  description:
+  - انتخابی سالم.
+  stats: &id005
+  - '&8⇨ &7درمان: &bکامل'
+  - '&8⇨ &bسلامتی اضافه II &7(10:00)'
+  - '&8⇨ &bسرعت I &7(10:00)'
+CLT_RAMEN_CHICKEN:
+  name: رامن مرغ
+  type:
+  - '&7&oغذا'
+  description:
+  - انتخابی نه‌چندان سیرکننده.
+  stats: *id004
+CLT_RAMEN_CHICKEN_HEARTY:
+  name: رامن مقوی مرغ
+  type:
+  - '&7&oغذا'
+  description:
+  - انتخابی سیرکننده.
+  stats: *id005
+CLT_RAMEN_SEAFOOD:
+  name: رامن غذای دریایی
+  type:
+  - '&7&oغذا'
+  description:
+  - انتخابی نه‌چندان رضایت‌بخش.
+  stats: *id004
+CLT_RAMEN_SEAFOOD_HEARTY:
+  name: رامن مقوی غذای دریایی
+  type:
+  - '&7&oغذا'
+  description:
+  - انتخابی رضایت‌بخش.
+  stats: *id005
+CLT_RAPESEED:
+  name: کلزا
+  type:
+  - '&7&oمحصول'
+  description:
+  - اغلب برای تهیه روغن استفاده می‌شود.
+CLT_RECIPE_UNLOCK:
+  name: طومار دانش کالتیویشن
+  type:
+  - '&7&oابزار'
+  description:
+  - راست‌کلیک کن تا یک دستور پرورش
+  - کالتیویشن یاد بگیری.
+CLT_RHUBARB:
+  name: ریواس
+  type:
+  - '&7&oمحصول'
+  description:
+  - فقط حتماً برگ‌هایش را جدا کن!
+CLT_RICE:
+  name: برنج
+  type:
+  - '&7&oمحصول'
+  description:
+  - یادت باشد، زندگی بی‌برنج یعنی رنج!
+CLT_ROSEMARY:
+  name: رزماری
+  type:
+  - '&7&oمحصول'
+  description:
+  - همیشه کمبود آویشن دارد... یعنی وقت.
+CLT_RUNNER_BEANS:
+  name: لوبیا رونده
+  type:
+  - '&7&oمحصول'
+  description:
+  - همیشه سعی می‌کند فرار کند.
+CLT_RUTABAGA:
+  name: شلغم سوئدی
+  type:
+  - '&7&oمحصول'
+  description:
+  - واقعاً دردناک است که به این نگویی سوئدی.
+CLT_SALMON_NIGIRI:
+  name: نیگیری ماهی سالمون
+  type:
+  - '&7&oغذا'
+  description:
+  - طعمی دلپذیر و در عین حال ظریف.
+  stats:
+  - '&8⇨ &7درمان: &b2 قلب'
+  - '&8⇨ &bترمیم I &7(10:00)'
+CLT_SASSAFRAS:
+  name: ساسافراس
+  type:
+  - '&7&oمحصول'
+  description:
+  - نوشابه ریشه‌ای خوراکی، جدی گوگلش
+  - کن، من الان مدام می‌خرمش.
+CLT_SAUSAGE:
+  name: سوسیس
+  type:
+  - '&7&oغذا'
+  description:
+  - برادر بیکن.
+  stats: &id007
+  - '&8⇨ &7درمان: &b1 قلب'
+CLT_SEED_PACK:
+  name: بسته بذر
+  type:
+  - '&7&oابزار'
+  description:
+  - راست‌کلیک کن تا این بسته را باز کنی.
+  stats:
+  - '&8⇨ &7تنظیم روی: &bهیچ'
+CLT_SHAKSHUKA:
+  name: شکشوکا
+  type:
+  - '&7&oغذا'
+  description:
+  - یک غذای دلگرم‌کننده با کلی تخم‌مرغ.
+  stats:
+  - '&8⇨ &7درمان: &b4 قلب'
+  - '&8⇨ &bقهرمان روستا I &7(10:00)'
+  - '&8⇨ &bشانس I &7(10:00)'
+CLT_SHALLOT:
+  name: موسیر
+  type:
+  - '&7&oمحصول'
+  description:
+  - عاشق موسیرم، آن هم یک عالمه.
+CLT_SHEPHERDS_PIE:
+  name: پای چوپان
+  type:
+  - '&7&oغذا'
+  description:
+  - گرم، مقوی و به‌سادگی فوق‌العاده.
+  stats: *id006
+CLT_SHISO:
+  name: شیسو
+  type:
+  - '&7&oمحصول'
+  description:
+  - نعناع با چاشنی عشق.
+CLT_SLICED_APPLE:
+  name: سیب برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_APRICOT:
+  name: زردآلو برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_ARTICHOKE:
+  name: کنگر فرنگی برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_ASPARAGUS:
+  name: مارچوبه برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_AUBERGINE:
+  name: بادمجان برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_AVOCADO:
+  name: آووکادو برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_BANANA:
+  name: موز برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_BASIL:
+  name: ریحان برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_BAY_LEAF:
+  name: برگ بو برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_BEEF:
+  name: گوشت گاو برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_BEETROOT:
+  name: چغندر برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_BELL_PEPPER:
+  name: فلفل دلمه‌ای برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_BLACK_BEANS:
+  name: لوبیا سیاه برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_BREAD:
+  name: نان برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_BROCCOLI:
+  name: کلم بروکلی برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_BROWN_MUSHROOM:
+  name: قارچ قهوه‌ای برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_BRUSSELS_SPROUTS:
+  name: کلم بروکسل برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_CABBAGE:
+  name: کلم برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_CARROT:
+  name: هویج برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_CAULIFLOWER:
+  name: گل‌کلم برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_CAYENNE_PEPPER:
+  name: فلفل کاین برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_CELERIAC:
+  name: کرفس غده‌ای برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_CELERY:
+  name: کرفس برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_CHERRY:
+  name: گیلاس برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_CHESTNUT:
+  name: شاه‌بلوط برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_CHICKEN:
+  name: مرغ برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_CHICKPEAS:
+  name: نخود برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_CHICORY:
+  name: کاسنی برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_CHILLY_PEPPER:
+  name: فلفل چیلی برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_CHIVES:
+  name: تره برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_CHORUS_FRUIT:
+  name: میوه کُر برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_CILANTRO:
+  name: گشنیز برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_CINNAMON:
+  name: دارچین برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_CLOVE:
+  name: میخک برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_COCOA_BEANS:
+  name: دانه کاکائو برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_COD:
+  name: ماهی روغن برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_COURGETTE:
+  name: کدو سبز برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_CUCUMBER:
+  name: خیار برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_CUMIN:
+  name: زیره برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_CURRY_LEAF:
+  name: برگ کاری برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_DILL:
+  name: شوید برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_EGG:
+  name: تخم‌مرغ برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_ENCHANTED_GOLDEN_APPLE:
+  name: سیب طلایی جادویی برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_FENNEL:
+  name: رازیانه برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_GARLIC:
+  name: سیر برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_GINGER:
+  name: زنجبیل برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_GLOW_BERRIES:
+  name: توت درخشان برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_GOLDEN_APPLE:
+  name: سیب طلایی برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_GOLDEN_CARROT:
+  name: هویج طلایی برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_GRAPE:
+  name: انگور برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_GREEN_APPLE:
+  name: سیب سبز برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_GREEN_BEANS:
+  name: لوبیا سبز برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_GREEN_ONION:
+  name: پیازچه برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_HAZELNUT:
+  name: فندق برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_HORSERADISH:
+  name: ترب کوهی برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_JALAPENO:
+  name: هالاپینو برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_JASMINE:
+  name: یاسمن برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_JUNIPER_BERRY:
+  name: دانه‌های سرو کوهی برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_KAFFIR_LIME:
+  name: برگ لیمو کافیر برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_KALE:
+  name: کلم کیل برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_KELP:
+  name: جلبک دریایی برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_KIWI:
+  name: کیوی برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_LAVENDER:
+  name: اسطوخودوس برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_LEEK:
+  name: تره‌فرنگی برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_LEMON:
+  name: لیمو برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_LETTUCE:
+  name: کاهو برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_LICORICE:
+  name: شیرین‌بیان برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_LIME:
+  name: لیمو ترش برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_MACE:
+  name: بسباسه برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_MANGO:
+  name: انبه برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_MARJORAM:
+  name: مرزنجوش برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_MARROW:
+  name: کدوی مغزدار برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_MELON:
+  name: هندوانه برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_MINT:
+  name: نعناع برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_MUSTARD_SEEDS:
+  name: دانه‌های خردل برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_MUTTON:
+  name: گوشت گوسفند برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_NETTLES:
+  name: گزنه برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_OKRA:
+  name: بامیه برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_ONION:
+  name: پیاز برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_ORANGE:
+  name: پرتقال برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_OREGANO:
+  name: پونه کوهی برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_PARSLEY:
+  name: جعفری برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_PARSNIP:
+  name: هویج سفید برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_PEA:
+  name: نخودفرنگی برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_PEACH:
+  name: هلو برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_PEANUT:
+  name: بادام‌زمینی برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_PEAR:
+  name: گلابی برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_PECAN:
+  name: پکان برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_PEPPER:
+  name: فلفل سیاه برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_PEPPERONI:
+  name: پپرونی برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_PINEAPPLE:
+  name: آناناس برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_PINTO_BEANS:
+  name: لوبیا چیتی برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_PORKCHOP:
+  name: گوشت خوک برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_POTATO:
+  name: سیب‌زمینی برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_PUFFERFISH:
+  name: ماهی بادکنکی برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_PUMPKIN:
+  name: کدوتنبل برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_RABBIT:
+  name: خرگوش برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_RADDISH:
+  name: تربچه برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_RADICCHIO:
+  name: کاسنی قرمز برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_RAPESEED:
+  name: کلزا برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_RED_MUSHROOM:
+  name: قارچ قرمز برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_RHUBARB:
+  name: ریواس برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_RICE:
+  name: برنج برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_ROSEMARY:
+  name: رزماری برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_ROTTEN_FLESH:
+  name: گوشت زامبی برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_RUNNER_BEANS:
+  name: لوبیا رونده برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_RUTABAGA:
+  name: شلغم سوئدی برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_SALMON:
+  name: ماهی سالمون برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_SASSAFRAS:
+  name: ساسافراس برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_SHALLOT:
+  name: موسیر برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_SHISO:
+  name: شیسو برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_SOY_BEANS:
+  name: لوبیا سویا برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_SPINACH:
+  name: اسفناج برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_STAR_ANISE:
+  name: بادیان ستاره‌ای برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_STRAWBERRY:
+  name: توت‌فرنگی برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_SUGAR:
+  name: شکر برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_SWEETCORN:
+  name: ذرت شیرین برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_SWEET_BERRIES:
+  name: توت شیرین برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_SWEET_POTATO:
+  name: سیب‌زمینی شیرین برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_TARRAGON:
+  name: ترخون برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_THYME:
+  name: آویشن برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_TOMATO:
+  name: گوجه‌فرنگی برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_TURMERIC:
+  name: زردچوبه برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_TURNIP:
+  name: شلغم برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_VANILLA:
+  name: وانیل برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_WASABI:
+  name: واسابی برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SLICED_WHEAT:
+  name: گندم برش‌خورده
+  type:
+  - '&7&oمحصول جانبی'
+CLT_SOFT_BOILED_EGG:
+  name: تخم‌مرغ عسلی
+  type:
+  - '&7&oغذا'
+  description:
+  - فقط یک تخم‌مرغ آب‌پز، دیگر چه بگویم.
+  stats:
+  - '&8⇨ &7درمان: &b1 قلب'
+  - '&8⇨ &7گاهی می‌تواند یک مرغ را به کمکت فرا بخواند.'
+CLT_SOYLENT:
+  name: سویلنت
+  type:
+  - '&7&oغذا'
+  description:
+  - هر چیزی که بدن نیاز دارد!
+  stats:
+  - '&8⇨ &bطالع بد I &7(10:00)'
+  - '&8⇨ &bضعف IV &7(10:00)'
+CLT_SOY_BEANS:
+  name: لوبیا سویا
+  type:
+  - '&7&oمحصول'
+  description:
+  - شیر سویا در راه است.
+CLT_SPAGHETTI:
+  name: اسپاگتی
+  type:
+  - '&7&oغذا'
+  description:
+  - فقط هورت بکش.
+  stats: *id007
+CLT_SPAGHETTI_AND_MEATBALLS:
+  name: اسپاگتی با کوفته قلقلی
+  type:
+  - '&7&oغذا'
+  description:
+  - ساده، کلاسیک و مقوی.
+  stats:
+  - '&8⇨ &7درمان: &b1 قلب'
+  - '&8⇨ &bطالع بد I &7(10:00)'
+CLT_SPINACH:
+  name: اسفناج
+  type:
+  - '&7&oمحصول'
+  description:
+  - با عشق پلاسیده شده.
+CLT_STAR_ANISE:
+  name: بادیان ستاره‌ای
+  type:
+  - '&7&oمحصول'
+  description:
+  - یکی از بهترین و منحصربه‌فردترین طعم‌ها.
+CLT_STRAWBERRY:
+  name: توت‌فرنگی
+  type:
+  - '&7&oمحصول'
+  description:
+  - فقط خامه اضافه کن!
+CLT_STRAWBERRY_JELLY:
+  name: ژله توت‌فرنگی
+  type:
+  - '&7&oمحصول'
+  description: *id008
+CLT_SUGARED_SKULL:
+  name: جمجمه شکری
+  type:
+  - '&7&oغذا'
+  description:
+  - اصلاً این غذاست...؟
+  stats:
+  - '&8⇨ &bتاریکی III &7(10:00)'
+CLT_SWEETCORN:
+  name: ذرت شیرین
+  type:
+  - '&7&oمحصول'
+  description:
+  - شاید بهترین سبزی موجود.
+CLT_SWEET_BEEHIVE:
+  name: کندوی شیرین
+  type:
+  - '&7&oغذا'
+  description:
+  - معلوم نیست چه چیزی وادارت کرد این را بپزی!
+  stats:
+  - '&8⇨ &7چند زنبور احضار می‌کند!'
+CLT_SWEET_POTATO:
+  name: سیب‌زمینی شیرین
+  type:
+  - '&7&oمحصول'
+  description:
+  - ملچ ملچ ملچ.
+CLT_TAQUITO:
+  name: تاکیتو
+  type:
+  - '&7&oغذا'
+  description:
+  - زیم افتخار می‌کرد!
+  stats:
+  - '&8⇨ &7درمان: &b4 قلب'
+  - '&8⇨ &7گیر را برای کمک احضار می‌کند (یک غول آهنی است، آرام باش).'
+CLT_TARRAGON:
+  name: ترخون
+  type:
+  - '&7&oمحصول'
+  description:
+  - من به معنای واقعی این را روی همه‌چیز می‌ریزم.
+  - 'لو رفتن داستان: آشپز خوبی نیستم.'
+CLT_TATER_TOTS:
+  name: کروکت سیب‌زمینی
+  type:
+  - '&7&oغذا'
+  description:
+  - لقمه‌های کوچولوی سیب‌زمینی.
+  stats:
+  - '&8⇨ &7درمان: &b0.5 قلب'
+  - '&8⇨ &bسرعت II &7(10:00)'
+CLT_THYME:
+  name: آویشن
+  type:
+  - '&7&oمحصول'
+  description:
+  - اغلب دلتنگ رزماری می‌شود.
+CLT_TOMATO:
+  name: گوجه‌فرنگی
+  type:
+  - '&7&oمحصول'
+  description:
+  - مستقیم از روی تاک.... اِم... بوته؟
+CLT_TORTILLAS:
+  name: تورتیلا
+  type:
+  - '&7&oمحصول'
+  description:
+  - خوشمزه‌های آرد ذرت
+CLT_TREE_APRICOT:
+  name: درخت زردآلو
+  type:
+  - '&7&oنهال'
+  description:
+  - درونش یک هسته تنها از ناامیدی است.
+  stats: &id009
+  - '&8⇨ &7طراحی: &bبی‌وایت'
+CLT_TREE_BANANA:
+  name: درخت موز
+  type:
+  - '&7&oنهال'
+  description:
+  - درختی که انگشت می‌رویاند، ترسناک!
+  stats:
+  - '&8⇨ &7طراحی: &bسفیرات'
+CLT_TREE_CHERRY:
+  name: درخت گیلاس
+  type:
+  - '&7&oنهال'
+  description:
+  - گره را ببند!
+  stats:
+  - '&8⇨ &7طراحی: &bریزن‌فاونددیکوی'
+CLT_TREE_CHESTNUT:
+  name: درخت شاه‌بلوط
+  type:
+  - '&7&oنهال'
+  description:
+  - درختی که آشکارا برای بالا رفتن طراحی شده.
+  stats: &id010
+  - '&8⇨ &7طراحی: &bاِی‌بیت‌آدیش'
+CLT_TREE_GREEN_APPLE:
+  name: درخت سیب سبز
+  type:
+  - '&7&oنهال'
+  description:
+  - سیب‌های سبز بزرگ و ترد می‌دهد.
+  stats: *id009
+CLT_TREE_HAZELNUT:
+  name: درخت فندق
+  type:
+  - '&7&oنهال'
+  description:
+  - تکان دادن این درخت سرگرمی دوران کودکی است.
+  stats: *id010
+CLT_TREE_KIWI:
+  name: درخت کیوی
+  type:
+  - '&7&oنهال'
+  description:
+  - یک درخت نیوزیلندی؟ درست گفتم؟
+  stats: *id010
+CLT_TREE_LEMON:
+  name: درخت لیمو
+  type:
+  - '&7&oنهال'
+  description:
+  - فقط نگاه کردن به این درخت مزه ترش می‌دهد.
+  stats: &id011
+  - '&8⇨ &7طراحی: &bجف'
+CLT_TREE_LIME:
+  name: درخت لیمو ترش
+  type:
+  - '&7&oنهال'
+  description:
+  - می‌دانستی لیمو ترش‌ها فقط لیموهایی‌اند که نفسشان را حبس کرده‌اند؟
+  stats: *id010
+CLT_TREE_MANGO:
+  name: درخت انبه
+  type:
+  - '&7&oنهال'
+  description:
+  - بهترین حالتش وقتی است که کاملاً رسیده باشد.
+  stats: *id009
+CLT_TREE_ORANGE:
+  name: درخت پرتقال
+  type:
+  - '&7&oنهال'
+  description:
+  - گوی‌های کوچکی از آفتاب.
+  stats: *id011
+CLT_TREE_PEACH:
+  name: درخت هلو
+  type:
+  - '&7&oنهال'
+  description:
+  - فکر کنم جیمز دنبال این می‌گشت؟
+  stats: *id010
+CLT_TREE_PEAR:
+  name: درخت گلابی
+  type:
+  - '&7&oنهال'
+  description:
+  - گلابی‌ها جفت‌جفت، برای جفت‌وجور شدن جفت شدند.
+  stats: *id009
+CLT_TREE_PECAN:
+  name: درخت پکان
+  type:
+  - '&7&oنهال'
+  description:
+  - می‌توانیم این درخت را بکاریم؟ آره، می‌پکاریم!
+  stats: *id009
+CLT_TREE_PINEAPPLE:
+  name: درخت آناناس
+  type:
+  - '&7&oنهال'
+  description:
+  - پیتزای من کجاست؟
+  stats: *id010
+CLT_TURMERIC:
+  name: زردچوبه
+  type:
+  - '&7&oمحصول'
+  description:
+  - حضوری قوی و مشک‌مانند که خیلی از غذاها را کامل می‌کند.
+CLT_TURNIP:
+  name: شلغم
+  type:
+  - '&7&oمحصول'
+  description:
+  - همه مشکلات زندگی را حل می‌کند.
+CLT_VANILLA:
+  name: وانیل
+  type:
+  - '&7&oمحصول'
+  description:
+  - 'دستورالعمل: مستقیم در لاته فرو کن'
+CLT_WASABI:
+  name: واسابی
+  type:
+  - '&7&oمحصول'
+  description:
+  - کمک... واسابی...
+CLT_WITHER_ROSE_SALAD:
+  name: سالاد گل ویدر
+  type:
+  - '&7&oغذا'
+  description:
+  - سرشار از قدرت، اما با عارضه‌ای سخت.
+  stats:
+  - '&8⇨ &7درمان: &bکامل'
+  - '&8⇨ &bویدر II &7(10:00)'
+  - '&8⇨ &bسلامتی اضافه XX &7(10:00)'

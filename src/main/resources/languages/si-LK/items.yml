@@ -1,0 +1,6674 @@
+CLT_APRICOT:
+  name: ඇප්‍රිකොට්
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - මේවායින් පොකේබෝල් හදන්න පුළුවන්.
+  - '...'
+  - ඒක වෙනම දෙයක් කියන්නේ මොකක්ද...?
+CLT_ARTICHOKE:
+  name: ආටිචෝක්
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - එහි හදවත උදුරා ගන්න!
+CLT_ASPARAGUS:
+  name: ඇස්පැරගස්
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - පස්සේ වැසිකිළියට යනකොට පරිස්සමින්.
+CLT_AUBERGINE:
+  name: වම්බටු
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - තද දම් පාටයි, 100% ක්ම බිත්තර හැඩය නැහැ.
+  - ඒ වුණත් "බිත්තර ගහ" කියලම කියමු, හරිද?
+CLT_AVOCADO:
+  name: අලිගැට පේර
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - හිප්ස්ටර්ලා දකින හීනය.
+CLT_BACON_SANDWICH:
+  name: බේකන් සැන්ඩ්විච්
+  type:
+  - '&7&oආහාර'
+  description:
+  - සරල සම්භාව්‍යයක්!
+  stats:
+  - '&8⇨ &7සුවය: &b2 හදවත්'
+  - '&8⇨ &bශක්තිය I &7(10:00)'
+  - '&8⇨ &bවේගය I &7(10:00)'
+CLT_BAGEL:
+  name: බේගල්
+  type:
+  - '&7&oආහාර'
+  description:
+  - ටෝස්ට් කළාද? නැත්නම්...
+  stats:
+  - '&8⇨ &7සුවය: &b2.5 හදවත්'
+CLT_BAGEL_BITE:
+  name: කුඩා බේගල් කෑල්ල
+  type:
+  - '&7&oආහාර'
+  description:
+  - ඕනෑම වෙලාවක පීසා කන්න!
+  stats:
+  - '&8⇨ &7හැම කටකටම කට පිච්චෙනවා!'
+CLT_BAGEL_CREAM_CHEESE:
+  name: ක්‍රීම් චීස් බේගල්
+  type:
+  - '&7&oආහාර'
+  description:
+  - හරිම රසයි, ඔබට තව එකක් ඕනෙ වෙයි.
+  stats:
+  - '&8⇨ &7සුවය: &b5 හදවත්'
+  - '&8⇨ &bසෞඛ්‍ය වර්ධනය I &7(10:00)'
+CLT_BANANA:
+  name: කෙසෙල්
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - මට මේකේ පෙනුමත් ලෙල්ලත් දෙකම හරි!
+CLT_BASIL:
+  name: තුලසි
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - මෘදු ගම්මිරිස් රසයක් ඉතිරි කරන මිහිරි කොළයක්.
+CLT_BAY_LEAF:
+  name: බේ කොළ
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - බොහෝ ප්‍රයෝජන ඇති තද සුවඳැති කොළයක්.
+CLT_BELL_PEPPER:
+  name: මාළු මිරිස්
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - ඇත්තටම සීනුවක් වගේ නාද වෙනවා.
+CLT_BISCUIT:
+  name: බිස්කට්
+  type:
+  - '&7&oආහාර'
+  description:
+  - විශාල රසයක් ඇති පුංචි කෑමක්.
+  stats: &id002
+  - '&8⇨ &7ඔබව අහසට විසි කරයි'
+CLT_BISCUIT_BASE:
+  name: බිස්කට් පාදම
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - දැන් පැතලි වුණා කියලා
+  - අමුවෙන් කන්න පුළුවන් කියලා නෙවෙයි.
+CLT_BISCUIT_DOUGH:
+  name: බිස්කට් පිටි අනම
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - '"අමුවෙන් කන්න එපා" කියලා නිතරම මතක් කරගන්න.'
+CLT_BLACK_BEANS:
+  name: කළු බෝංචි
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - රසවත් නිර්මාංශ ප්‍රෝටීනයක්.
+CLT_BLENDED_APPLE:
+  name: බ්ලෙන්ඩ් කළ ඇපල්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_APRICOT:
+  name: බ්ලෙන්ඩ් කළ ඇප්‍රිකොට්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_ARTICHOKE:
+  name: බ්ලෙන්ඩ් කළ ආටිචෝක්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_ASPARAGUS:
+  name: බ්ලෙන්ඩ් කළ ඇස්පැරගස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_AUBERGINE:
+  name: බ්ලෙන්ඩ් කළ වම්බටු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_AVOCADO:
+  name: බ්ලෙන්ඩ් කළ අලිගැට පේර
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_BANANA:
+  name: බ්ලෙන්ඩ් කළ කෙසෙල්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_BASIL:
+  name: බ්ලෙන්ඩ් කළ තුලසි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_BAY_LEAF:
+  name: බ්ලෙන්ඩ් කළ බේ කොළ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_BEEF:
+  name: බ්ලෙන්ඩ් කළ හරක් මස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_BEETROOT:
+  name: බ්ලෙන්ඩ් කළ බීට්රූට්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_BELL_PEPPER:
+  name: බ්ලෙන්ඩ් කළ මාළු මිරිස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_BLACK_BEANS:
+  name: බ්ලෙන්ඩ් කළ කළු බෝංචි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_BREAD:
+  name: බ්ලෙන්ඩ් කළ පාන්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_BROCCOLI:
+  name: බ්ලෙන්ඩ් කළ බ්‍රොකොලි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_BROWN_MUSHROOM:
+  name: බ්ලෙන්ඩ් කළ දුඹුරු හතු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_BRUSSELS_SPROUTS:
+  name: බ්ලෙන්ඩ් කළ බ්‍රසල්ස් ගෝවා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_CABBAGE:
+  name: බ්ලෙන්ඩ් කළ ගෝවා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_CARROT:
+  name: බ්ලෙන්ඩ් කළ කැරට්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_CAULIFLOWER:
+  name: බ්ලෙන්ඩ් කළ මල් ගෝවා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_CAYENNE_PEPPER:
+  name: බ්ලෙන්ඩ් කළ කයින් මිරිස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_CELERIAC:
+  name: බ්ලෙන්ඩ් කළ සෙලරියැක්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_CELERY:
+  name: බ්ලෙන්ඩ් කළ සැල්දිරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_CHERRY:
+  name: බ්ලෙන්ඩ් කළ චෙරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_CHESTNUT:
+  name: බ්ලෙන්ඩ් කළ චෙස්ට්නට්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_CHICKEN:
+  name: බ්ලෙන්ඩ් කළ කුකුළු මස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_CHICKPEAS:
+  name: බ්ලෙන්ඩ් කළ කඩල
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_CHICORY:
+  name: බ්ලෙන්ඩ් කළ චිකරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_CHILLY_PEPPER:
+  name: බ්ලෙන්ඩ් කළ මිරිස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_CHIVES:
+  name: බ්ලෙන්ඩ් කළ චයිව් කොළ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_CHORUS_FRUIT:
+  name: බ්ලෙන්ඩ් කළ කෝරස් පලතුර
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_CILANTRO:
+  name: බ්ලෙන්ඩ් කළ කොත්තමල්ලි කොළ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_CINNAMON:
+  name: බ්ලෙන්ඩ් කළ කුරුඳු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_CLOVE:
+  name: බ්ලෙන්ඩ් කළ කරාබුනැටි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_COCOA_BEANS:
+  name: බ්ලෙන්ඩ් කළ කොකෝවා ඇට
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_COD:
+  name: බ්ලෙන්ඩ් කළ කෝඩ් මාළු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_COURGETTE:
+  name: බ්ලෙන්ඩ් කළ සුකිනි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_CUCUMBER:
+  name: බ්ලෙන්ඩ් කළ පිපිඤ්ඤා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_CUMIN:
+  name: බ්ලෙන්ඩ් කළ සූදුරු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_CURRY_LEAF:
+  name: බ්ලෙන්ඩ් කළ කරපිංචා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_DILL:
+  name: බ්ලෙන්ඩ් කළ සතකුප්ප
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_EGG:
+  name: බ්ලෙන්ඩ් කළ බිත්තර
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_ENCHANTED_GOLDEN_APPLE:
+  name: බ්ලෙන්ඩ් කළ මායා රන් ඇපල්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_FENNEL:
+  name: බ්ලෙන්ඩ් කළ මහදුරු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_GARLIC:
+  name: බ්ලෙන්ඩ් කළ සුදුලූනු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_GINGER:
+  name: බ්ලෙන්ඩ් කළ ඉඟුරු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_GLOW_BERRIES:
+  name: බ්ලෙන්ඩ් කළ දිලිසෙන බෙරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_GOLDEN_APPLE:
+  name: බ්ලෙන්ඩ් කළ රන් ඇපල්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_GOLDEN_CARROT:
+  name: බ්ලෙන්ඩ් කළ රන් කැරට්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_GRAPE:
+  name: බ්ලෙන්ඩ් කළ මිදි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_GREEN_APPLE:
+  name: බ්ලෙන්ඩ් කළ කොළ ඇපල්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_GREEN_BEANS:
+  name: බ්ලෙන්ඩ් කළ බෝංචි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_GREEN_ONION:
+  name: බ්ලෙන්ඩ් කළ කොළ ලූනු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_HAZELNUT:
+  name: බ්ලෙන්ඩ් කළ හේසල්නට්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_HORSERADISH:
+  name: බ්ලෙන්ඩ් කළ අශ්ව රාබු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_JALAPENO:
+  name: බ්ලෙන්ඩ් කළ හලපීනෝ මිරිස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_JASMINE:
+  name: බ්ලෙන්ඩ් කළ පිච්ච
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_JUNIPER_BERRY:
+  name: බ්ලෙන්ඩ් කළ ජුනිපර් බෙරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_KAFFIR_LIME:
+  name: බ්ලෙන්ඩ් කළ කුදලු දෙහි කොළ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_KALE:
+  name: බ්ලෙන්ඩ් කළ කේල්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_KELP:
+  name: බ්ලෙන්ඩ් කළ කෙල්ප් පැළෑටි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_KIWI:
+  name: බ්ලෙන්ඩ් කළ කිවි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_LAVENDER:
+  name: බ්ලෙන්ඩ් කළ ලැවෙන්ඩර්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_LEEK:
+  name: බ්ලෙන්ඩ් කළ ලීක්ස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_LEMON:
+  name: බ්ලෙන්ඩ් කළ ලෙමන්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_LETTUCE:
+  name: බ්ලෙන්ඩ් කළ සලාද කොළ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_LICORICE:
+  name: බ්ලෙන්ඩ් කළ වැල්මී
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_LIME:
+  name: බ්ලෙන්ඩ් කළ දෙහි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_MACE:
+  name: බ්ලෙන්ඩ් කළ වසාවාසි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_MANGO:
+  name: බ්ලෙන්ඩ් කළ අඹ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_MARJORAM:
+  name: බ්ලෙන්ඩ් කළ මාජෝරම්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_MARROW:
+  name: බ්ලෙන්ඩ් කළ ලබු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_MELON:
+  name: බ්ලෙන්ඩ් කළ කොමඩු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_MINT:
+  name: බ්ලෙන්ඩ් කළ පුදීනා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_MUSTARD_SEEDS:
+  name: බ්ලෙන්ඩ් කළ අබ ඇට
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_MUTTON:
+  name: බ්ලෙන්ඩ් කළ බැටළු මස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_NETTLES:
+  name: බ්ලෙන්ඩ් කළ කහඹිලියා කොළ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_OKRA:
+  name: බ්ලෙන්ඩ් කළ බණ්ඩක්කා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_ONION:
+  name: බ්ලෙන්ඩ් කළ ලූනු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_ORANGE:
+  name: බ්ලෙන්ඩ් කළ දොඩම්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_OREGANO:
+  name: බ්ලෙන්ඩ් කළ ඔරිගැනෝ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_PARSLEY:
+  name: බ්ලෙන්ඩ් කළ පාස්ලි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_PARSNIP:
+  name: බ්ලෙන්ඩ් කළ පාර්ස්නිප්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_PEA:
+  name: බ්ලෙන්ඩ් කළ බටානා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_PEACH:
+  name: බ්ලෙන්ඩ් කළ පීච්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_PEANUT:
+  name: බ්ලෙන්ඩ් කළ රටකජු ඇටය
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_PEAR:
+  name: බ්ලෙන්ඩ් කළ පෙයර්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_PECAN:
+  name: බ්ලෙන්ඩ් කළ පෙකෑන්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_PEPPER:
+  name: බ්ලෙන්ඩ් කළ ගම්මිරිස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_PEPPERONI:
+  name: බ්ලෙන්ඩ් කළ පෙපරෝනි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_PINEAPPLE:
+  name: බ්ලෙන්ඩ් කළ අන්නාසි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_PINTO_BEANS:
+  name: බ්ලෙන්ඩ් කළ පින්ටෝ බෝංචි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_PORKCHOP:
+  name: බ්ලෙන්ඩ් කළ ඌරු මස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_POTATO:
+  name: බ්ලෙන්ඩ් කළ අල
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_PUFFERFISH:
+  name: බ්ලෙන්ඩ් කළ තිත්තයා මාළු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_PUMPKIN:
+  name: බ්ලෙන්ඩ් කළ වට්ටක්කා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_RABBIT:
+  name: බ්ලෙන්ඩ් කළ හා මස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_RADDISH:
+  name: බ්ලෙන්ඩ් කළ රාබු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_RADICCHIO:
+  name: බ්ලෙන්ඩ් කළ රැඩිකියෝ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_RAPESEED:
+  name: බ්ලෙන්ඩ් කළ රේප් ඇට
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_RED_MUSHROOM:
+  name: බ්ලෙන්ඩ් කළ රතු හතු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_RHUBARB:
+  name: බ්ලෙන්ඩ් කළ රුබාබ්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_RICE:
+  name: බ්ලෙන්ඩ් කළ හාල්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_ROSEMARY:
+  name: බ්ලෙන්ඩ් කළ රෝස්මේරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_ROTTEN_FLESH:
+  name: බ්ලෙන්ඩ් කළ කුණු වූ මස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_RUNNER_BEANS:
+  name: බ්ලෙන්ඩ් කළ වැල් බෝංචි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_RUTABAGA:
+  name: බ්ලෙන්ඩ් කළ රුටබාගා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_SALMON:
+  name: බ්ලෙන්ඩ් කළ සැමන්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_SASSAFRAS:
+  name: බ්ලෙන්ඩ් කළ සැසෆ්‍රාස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_SHALLOT:
+  name: බ්ලෙන්ඩ් කළ රතු ලූනු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_SHISO:
+  name: බ්ලෙන්ඩ් කළ ෂිසෝ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_SOY_BEANS:
+  name: බ්ලෙන්ඩ් කළ සෝයා බෝංචි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_SPINACH:
+  name: බ්ලෙන්ඩ් කළ නිවිති
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_STAR_ANISE:
+  name: බ්ලෙන්ඩ් කළ තක්කෝල
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_STRAWBERRY:
+  name: බ්ලෙන්ඩ් කළ ස්ට්‍රෝබෙරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_SUGAR:
+  name: බ්ලෙන්ඩ් කළ සීනි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_SWEETCORN:
+  name: බ්ලෙන්ඩ් කළ බඩ ඉරිඟු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_SWEET_BERRIES:
+  name: බ්ලෙන්ඩ් කළ පැණි බෙරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_SWEET_POTATO:
+  name: බ්ලෙන්ඩ් කළ බතල
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_TARRAGON:
+  name: බ්ලෙන්ඩ් කළ ටැරගන්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_THYME:
+  name: බ්ලෙන්ඩ් කළ තයිම්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_TOMATO:
+  name: බ්ලෙන්ඩ් කළ තක්කාලි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_TURMERIC:
+  name: බ්ලෙන්ඩ් කළ කහ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_TURNIP:
+  name: බ්ලෙන්ඩ් කළ ටර්නිප්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_VANILLA:
+  name: බ්ලෙන්ඩ් කළ වැනිලා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_WASABI:
+  name: බ්ලෙන්ඩ් කළ වසාබි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLENDED_WHEAT:
+  name: බ්ලෙන්ඩ් කළ තිරිඟු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BLUE_CANDY:
+  name: නිල් රසකැවිලි
+  type:
+  - '&7&oආහාර'
+  description:
+  - ඉතා පැණිරස රසකැවිල්ලක්.
+  stats:
+  - '&8⇨ &7ඇලේ කෙනෙක් කැඳවයි'
+CLT_BOILED_APPLE:
+  name: තැම්බූ ඇපල්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_APRICOT:
+  name: තැම්බූ ඇප්‍රිකොට්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_ARTICHOKE:
+  name: තැම්බූ ආටිචෝක්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_ASPARAGUS:
+  name: තැම්බූ ඇස්පැරගස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_AUBERGINE:
+  name: තැම්බූ වම්බටු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_AVOCADO:
+  name: තැම්බූ අලිගැට පේර
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_BANANA:
+  name: තැම්බූ කෙසෙල්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_BASIL:
+  name: තැම්බූ තුලසි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_BAY_LEAF:
+  name: තැම්බූ බේ කොළ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_BEEF:
+  name: තැම්බූ හරක් මස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_BEETROOT:
+  name: තැම්බූ බීට්රූට්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_BELL_PEPPER:
+  name: තැම්බූ මාළු මිරිස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_BLACK_BEANS:
+  name: තැම්බූ කළු බෝංචි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_BREAD:
+  name: තැම්බූ පාන්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_BROCCOLI:
+  name: තැම්බූ බ්‍රොකොලි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_BROWN_MUSHROOM:
+  name: තැම්බූ දුඹුරු හතු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_BRUSSELS_SPROUTS:
+  name: තැම්බූ බ්‍රසල්ස් ගෝවා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_CABBAGE:
+  name: තැම්බූ ගෝවා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_CARROT:
+  name: තැම්බූ කැරට්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_CAULIFLOWER:
+  name: තැම්බූ මල් ගෝවා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_CAYENNE_PEPPER:
+  name: තැම්බූ කයින් මිරිස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_CELERIAC:
+  name: තැම්බූ සෙලරියැක්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_CELERY:
+  name: තැම්බූ සැල්දිරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_CHERRY:
+  name: තැම්බූ චෙරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_CHESTNUT:
+  name: තැම්බූ චෙස්ට්නට්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_CHICKEN:
+  name: තැම්බූ කුකුළු මස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_CHICKPEAS:
+  name: තැම්බූ කඩල
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_CHICORY:
+  name: තැම්බූ චිකරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_CHILLY_PEPPER:
+  name: තැම්බූ මිරිස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_CHIVES:
+  name: තැම්බූ චයිව් කොළ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_CHORUS_FRUIT:
+  name: තැම්බූ කෝරස් පලතුර
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_CILANTRO:
+  name: තැම්බූ කොත්තමල්ලි කොළ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_CINNAMON:
+  name: තැම්බූ කුරුඳු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_CLOVE:
+  name: තැම්බූ කරාබුනැටි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_COCOA_BEANS:
+  name: තැම්බූ කොකෝවා ඇට
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_COD:
+  name: තැම්බූ කෝඩ් මාළු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_COURGETTE:
+  name: තැම්බූ සුකිනි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_CUCUMBER:
+  name: තැම්බූ පිපිඤ්ඤා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_CUMIN:
+  name: තැම්බූ සූදුරු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_CURRY_LEAF:
+  name: තැම්බූ කරපිංචා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_DILL:
+  name: තැම්බූ සතකුප්ප
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_EGG:
+  name: තැම්බූ බිත්තර
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_ENCHANTED_GOLDEN_APPLE:
+  name: තැම්බූ මායා රන් ඇපල්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_FENNEL:
+  name: තැම්බූ මහදුරු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_GARLIC:
+  name: තැම්බූ සුදුලූනු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_GINGER:
+  name: තැම්බූ ඉඟුරු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_GLOW_BERRIES:
+  name: තැම්බූ දිලිසෙන බෙරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_GOLDEN_APPLE:
+  name: තැම්බූ රන් ඇපල්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_GOLDEN_CARROT:
+  name: තැම්බූ රන් කැරට්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_GRAPE:
+  name: තැම්බූ මිදි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_GREEN_APPLE:
+  name: තැම්බූ කොළ ඇපල්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_GREEN_BEANS:
+  name: තැම්බූ බෝංචි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_GREEN_ONION:
+  name: තැම්බූ කොළ ලූනු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_HAZELNUT:
+  name: තැම්බූ හේසල්නට්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_HORSERADISH:
+  name: තැම්බූ අශ්ව රාබු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_JALAPENO:
+  name: තැම්බූ හලපීනෝ මිරිස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_JASMINE:
+  name: තැම්බූ පිච්ච
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_JUNIPER_BERRY:
+  name: තැම්බූ ජුනිපර් බෙරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_KAFFIR_LIME:
+  name: තැම්බූ කුදලු දෙහි කොළ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_KALE:
+  name: තැම්බූ කේල්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_KELP:
+  name: තැම්බූ කෙල්ප් පැළෑටි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_KIWI:
+  name: තැම්බූ කිවි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_LAVENDER:
+  name: තැම්බූ ලැවෙන්ඩර්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_LEEK:
+  name: තැම්බූ ලීක්ස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_LEMON:
+  name: තැම්බූ ලෙමන්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_LETTUCE:
+  name: තැම්බූ සලාද කොළ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_LICORICE:
+  name: තැම්බූ වැල්මී
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_LIME:
+  name: තැම්බූ දෙහි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_MACE:
+  name: තැම්බූ වසාවාසි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_MANGO:
+  name: තැම්බූ අඹ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_MARJORAM:
+  name: තැම්බූ මාජෝරම්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_MARROW:
+  name: තැම්බූ ලබු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_MELON:
+  name: තැම්බූ කොමඩු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_MINT:
+  name: තැම්බූ පුදීනා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_MUSTARD_SEEDS:
+  name: තැම්බූ අබ ඇට
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_MUTTON:
+  name: තැම්බූ බැටළු මස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_NETTLES:
+  name: තැම්බූ කහඹිලියා කොළ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_OKRA:
+  name: තැම්බූ බණ්ඩක්කා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_ONION:
+  name: තැම්බූ ලූනු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_ORANGE:
+  name: තැම්බූ දොඩම්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_OREGANO:
+  name: තැම්බූ ඔරිගැනෝ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_PARSLEY:
+  name: තැම්බූ පාස්ලි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_PARSNIP:
+  name: තැම්බූ පාර්ස්නිප්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_PEA:
+  name: තැම්බූ බටානා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_PEACH:
+  name: තැම්බූ පීච්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_PEANUT:
+  name: තැම්බූ රටකජු ඇටය
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_PEAR:
+  name: තැම්බූ පෙයර්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_PECAN:
+  name: තැම්බූ පෙකෑන්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_PEPPER:
+  name: තැම්බූ ගම්මිරිස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_PEPPERONI:
+  name: තැම්බූ පෙපරෝනි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_PINEAPPLE:
+  name: තැම්බූ අන්නාසි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_PINTO_BEANS:
+  name: තැම්බූ පින්ටෝ බෝංචි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_PORKCHOP:
+  name: තැම්බූ ඌරු මස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_POTATO:
+  name: තැම්බූ අල
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_PUFFERFISH:
+  name: තැම්බූ තිත්තයා මාළු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_PUMPKIN:
+  name: තැම්බූ වට්ටක්කා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_RABBIT:
+  name: තැම්බූ හා මස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_RADDISH:
+  name: තැම්බූ රාබු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_RADICCHIO:
+  name: තැම්බූ රැඩිකියෝ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_RAPESEED:
+  name: තැම්බූ රේප් ඇට
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_RED_MUSHROOM:
+  name: තැම්බූ රතු හතු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_RHUBARB:
+  name: තැම්බූ රුබාබ්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_RICE:
+  name: තැම්බූ හාල්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_ROSEMARY:
+  name: තැම්බූ රෝස්මේරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_ROTTEN_FLESH:
+  name: තැම්බූ කුණු වූ මස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_RUNNER_BEANS:
+  name: තැම්බූ වැල් බෝංචි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_RUTABAGA:
+  name: තැම්බූ රුටබාගා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_SALMON:
+  name: තැම්බූ සැමන්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_SASSAFRAS:
+  name: තැම්බූ සැසෆ්‍රාස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_SHALLOT:
+  name: තැම්බූ රතු ලූනු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_SHISO:
+  name: තැම්බූ ෂිසෝ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_SOY_BEANS:
+  name: තැම්බූ සෝයා බෝංචි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_SPINACH:
+  name: තැම්බූ නිවිති
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_STAR_ANISE:
+  name: තැම්බූ තක්කෝල
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_STRAWBERRY:
+  name: තැම්බූ ස්ට්‍රෝබෙරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_SUGAR:
+  name: තැම්බූ සීනි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_SWEETCORN:
+  name: තැම්බූ බඩ ඉරිඟු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_SWEET_BERRIES:
+  name: තැම්බූ පැණි බෙරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_SWEET_POTATO:
+  name: තැම්බූ බතල
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_TARRAGON:
+  name: තැම්බූ ටැරගන්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_THYME:
+  name: තැම්බූ තයිම්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_TOMATO:
+  name: තැම්බූ තක්කාලි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_TURMERIC:
+  name: තැම්බූ කහ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_TURNIP:
+  name: තැම්බූ ටර්නිප්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_VANILLA:
+  name: තැම්බූ වැනිලා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_WASABI:
+  name: තැම්බූ වසාබි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOILED_WHEAT:
+  name: තැම්බූ තිරිඟු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_BOWL_OF_STEVE:
+  name: ස්ටීව්ගෙන් පිරුණු... පාත්‍රයක්?
+  type:
+  - '&7&oආහාර'
+  description:
+  - මේ මොන &%£$ ද
+  stats:
+  - '&8⇨ &bකැණීම් වෙහෙස X &7(10:00)'
+  - '&8⇨ &bමන්දගාමීත්වය VI &7(10:00)'
+  - '&8⇨ &bශක්තිය X &7(10:00)'
+  - '&8⇨ &7ඔබව 1/2 හදවතකට අඩු කරයි'
+CLT_BROCCOLI:
+  name: බ්‍රොකොලි
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - ඔයා ගහක් අල්ලගෙන ඉන්න යෝධයෙක්ද?
+  - නෑ, මේ පුංචි ගහක් විතරයි :)
+CLT_BRUSSELS_SPROUTS:
+  name: බ්‍රසල්ස් ගෝවා
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - ගෑස් පිරුණු සතුටක්.
+CLT_BUSH_ARTICHOKE:
+  name: ආටිචෝක් පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - ආටිස්ට් කෙනෙක්ගේ හුස්ම චෝක් කරන්න හොඳම
+  - පඳුර මේකයි. අහ්. වචන විහිළු අමාරුයි.
+CLT_BUSH_ASPARAGUS:
+  name: ඇස්පැරගස් පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - මේ ඇස්පැරගස් පඳුර නටුවෙන් නටුවට
+  - ඔබ පසුපස හොරෙන් එනවා!
+CLT_BUSH_AUBERGINE:
+  name: වම්බටු පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - මම "බිත්තර ගහ" කියන වචනය පාවිච්චි කරන්නේ නෑ. එච්චරයි.
+CLT_BUSH_AVOCADO:
+  name: අලිගැට පේර පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - මේ පඳුර විශේෂයෙන්ම අභිජනනය කළේ
+  - වැඩිපුර වතුර පාවිච්චි නොකරන්නයි.
+CLT_BUSH_BASIL:
+  name: තුලසි පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - විනෝදයෙන් පිරුණු සැහැල්ලු සිතැති පඳුරක්.
+CLT_BUSH_BAY_LEAF:
+  name: බේ කොළ පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - මේ පඳුරේ සුවඳ සැතපුම් ගණන් දුර යනවා.
+CLT_BUSH_BELL_PEPPER:
+  name: මාළු මිරිස් පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - මේක ළඟින් යනකොට පරිස්සමින්, ඔබට
+  - සීනුව නාද කරන්න වෙයි.
+CLT_BUSH_BLACK_BEANS:
+  name: කළු බෝංචි පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - 'මේ පඳුර ඔබට හෙමින් කොඳුරනවා:'
+  - ඔබ නියම මිනිස් බෝංචියෙක්.
+CLT_BUSH_BROCCOLI:
+  name: බ්‍රොකොලි පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - කන්න පුළුවන් පුංචි ගස්? මේක හොයාගත්තේ කවුද!?
+CLT_BUSH_BRUSSELS_SPROUTS:
+  name: බ්‍රසල්ස් ගෝවා පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - සමහර වෙලාවට විෂ සහිත ගෑස් නිපදවන
+  - පඳුරක්.
+CLT_BUSH_CABBAGE:
+  name: ගෝවා පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - හැඟීම්බර ගෝවා බරක් එක්කම
+  - එන පඳුරක්.
+CLT_BUSH_CAULIFLOWER:
+  name: මල් ගෝවා පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - සතුටේ පුංචි වලාකුළු නිපදවිය හැකි
+  - පඳුරක්.
+CLT_BUSH_CAYENNE_PEPPER:
+  name: කයින් මිරිස් පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - මිරිස් වගේ සැර ගතියක් ඇති පඳුරක්.
+CLT_BUSH_CELERIAC:
+  name: සෙලරියැක් පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - තවත් මුලක් පඳුරකින් වැවෙනවද?
+  - සෙෆිමෝඩ™
+CLT_BUSH_CELERY:
+  name: සැල්දිරි පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - මේ පඳුර අනවශ්‍යයි.
+  - සෙෆිට සැල්දිරි කැමති නෑ.
+CLT_BUSH_CHICKPEAS:
+  name: කඩල පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - කුකුළෙක් සහ බටානා ඇටයක් අභිජනනය කරලා
+  - හදපු පඳුරක්. විද්‍යාව.
+CLT_BUSH_CHICORY:
+  name: චිකරි පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - මම හිතුවේ චිකරි මුලක් කියලා? මේ ඇඩෝන් එක
+  - තමන්ගේ පර්යේෂණවත් කරනවද!?
+CLT_BUSH_CHILLI_PEPPER:
+  name: මිරිස් පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - මේ පඳුර දිහා බැලුවත් මගේ දිව පිච්චෙනවා.
+CLT_BUSH_CHIVES:
+  name: චයිව් පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - ඇත්තටම ලෝකයේ කුඩාම ලූනු ගෙඩිය නිපදවන
+  - පඳුරක්.
+CLT_BUSH_CILANTRO:
+  name: කොත්තමල්ලි පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - මඳ දෙහි සහ කුළුබඩු සුවඳක් මේ පඳුරෙන් එනවා.
+CLT_BUSH_CINNAMON:
+  name: කුරුඳු පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - අතිශයින් සුවඳවත් පඳුරක්.
+CLT_BUSH_CLOVE:
+  name: කරාබුනැටි පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - නත්තල මතක් කරන පඳුරක්.
+CLT_BUSH_COURGETTE:
+  name: සුකිනි පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - ඇයි මේ පඳුර දිගටම "සුකිනි" කියලා
+  - කෑගහන්නේ? "කෝජෙට්" නොකියන්නේ ඇමරිකන් නිසාද?
+CLT_BUSH_CUCUMBER:
+  name: පිපිඤ්ඤා පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - මේ පඳුර නිර්මාණය කළේ ඔබේ ලස්සන
+  - ගිම්හාන සලාද සඳහා පමණයි.
+CLT_BUSH_CUMIN:
+  name: සූදුරු පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - උණුසුම් දෙහි සුවඳක් පිටකරන පඳුරක්.
+CLT_BUSH_CURRY_LEAF:
+  name: කරපිංචා පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - තෙල් නැතිව බැදපුවාම තමයි හොඳම.
+CLT_BUSH_DILL:
+  name: සතකුප්ප පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - මේ පඳුර අනිත් ඒවාට වඩා ගොඩක් ඉක්මනින් වැවෙනවා.
+CLT_BUSH_FENNEL:
+  name: මහදුරු පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - ඇයි මේ පඳුර කෘමීන් එළවන්නේ!?
+CLT_BUSH_GARLIC:
+  name: සුදුලූනු පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - මේ පඳුරේ හුස්ම ගඳ නම් ලෝකෙටම වඩා නරකයි.
+CLT_BUSH_GINGER:
+  name: ඉඟුරු පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - මේ පඳුර මුළුමනින්ම තම්බලා කෑවම රසයි.
+CLT_BUSH_GRAPE:
+  name: මිදි පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - පඳුරෙන් ඉබේම වැටෙන්න ළඟ ඉදුණු,
+  - යුෂ පිරි මිදි.
+CLT_BUSH_GREEN_BEANS:
+  name: බෝංචි පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - බේක්ඩ් බෝංචි හදන්න මේ පඳුරට
+  - තක්කාලි සෝස් ටිකක් හලන්න.
+CLT_BUSH_GREEN_ONION:
+  name: කොළ ලූනු පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - ස්කැලියන් ලෙසත් හැඳින්වේ.
+  - කොළ ලූනු සාමාන්‍යයෙන් අනිත්
+  - ලූනු වලට වඩා මෘදු රසයක් ඇත.
+CLT_BUSH_HORSERADISH:
+  name: අශ්ව රාබු පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - ආයෙත්, මේක පඳුරක වැවෙන එකේ කිසිම තේරුමක් නෑ.
+CLT_BUSH_JALAPENO:
+  name: හලපීනෝ මිරිස් පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - මේ පඳුර අතේ තියාගත්තත් ඔබට
+  - ගිනි ගන්න 1% ක ඉඩක් තියෙනවා.
+CLT_BUSH_JASMINE:
+  name: පිච්ච පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - මේ පඳුරේ සුවඳ හරිම මෘදුයි, සන්සුන්.
+CLT_BUSH_JUNIPER_BERRY:
+  name: ජුනිපර් බෙරි පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - පඳුරේ තියෙද්දී මිහිරියි, වියළුණාම ගම්මිරිස් සැරයි.
+CLT_BUSH_KAFFIR_LIME:
+  name: කුදලු දෙහි පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - පලතුරට වඩා කොළවලට ඉල්ලුම තියෙන පඳුරක්.
+CLT_BUSH_KALE:
+  name: කේල් පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - මේ පඳුර හිටෙව්වම, ඉස්සරහට හොඳ
+  - '"කේල්" එකක් එයි කියලා හිතෙනවා.'
+CLT_BUSH_LAVENDER:
+  name: ලැවෙන්ඩර් පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - මේ පඳුර තමන්ගේ සුවඳ හැම තැනම විසුරුවනවා.
+CLT_BUSH_LEEK:
+  name: ලීක්ස් පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - ඔබ දන්නවද, ලීක්ස් කියන්නේ කෝසෙට් එකක්
+  - අඳින ලූනු ගෙඩියක් විතරයි කියලා? ඇත්ත කතාවක්.
+CLT_BUSH_LETTUCE:
+  name: සලාද කොළ පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - සලාද කොළ පඳුරුවල වැවෙනවද?
+  - 'කතාවේ රහස: නෑ, වැවෙන්නේ නෑ.'
+CLT_BUSH_LICORICE:
+  name: වැල්මී පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - පිළිකුල්
+CLT_BUSH_MACE:
+  name: වසාවාසි පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - මේ පඳුර ප්‍රහාරකයන් පලවා හරිනවා වගේද?
+CLT_BUSH_MARJORAM:
+  name: මාජෝරම් පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - දැව සුවඳැති විශාල පඳුරක්.
+CLT_BUSH_MARROW:
+  name: ලබු පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - මේ පඳුරට තමන්ගේම බර දරාගන්න
+  - පුළුවන් එක ගැන මට පුදුමයි.
+CLT_BUSH_MINT:
+  name: පුදීනා පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - සරලවම හොඳම සුවඳැති පඳුර.
+CLT_BUSH_MUSTARD:
+  name: අබ ඇට පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - කට ඇතුලේ ගින්නක් වගේ.
+CLT_BUSH_NETTLES:
+  name: කහඹිලියා පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - මේ පඳුර හරහා යනකොට පරිස්සමින්!
+CLT_BUSH_OKRA:
+  name: බණ්ඩක්කා පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - ඔක්රා වින්ෆ්‍රිගේ එළවළු සමාජයට අනුව
+  - අංක 1 එළවළුව ලෙස තේරී පත් විය.
+CLT_BUSH_ONION:
+  name: ලූනු පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - මේ පඳුර අඬන්න වගේ ඉන්නවා නේද?
+CLT_BUSH_OREGANO:
+  name: ඔරිගැනෝ පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - මේ තද ගඳැති පඳුර අමුත්තන් එළවා දමයි.
+CLT_BUSH_PARSLEY:
+  name: පාස්ලි පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - මේ පඳුර ලාවා වලට විසි කරන්න, දැන්ම :)
+CLT_BUSH_PARSNIP:
+  name: පාර්ස්නිප් පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - අතරමැදියා මඟහැරලා පඳුරම කෙලින්ම
+  - බැදගන්න.
+CLT_BUSH_PEA:
+  name: බටානා පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - මම නම් කැමති "ක්‍යූ" වලට
+CLT_BUSH_PEANUTS:
+  name: රටකජු පඳුර
+  type:
+  - '&7&oපඳුර'
+  description: &id001
+  - ඝන, සුවඳවත් සහ ප්‍රෝටීනයෙන් පිරුණු.
+CLT_BUSH_PEPPER:
+  name: ගම්මිරිස් පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - ග්‍රීක සහ රෝම යුගයේ සිටම ඉන්දියාව
+  - සහ යුරෝපය අතර කුළුබඩු වෙළඳාමේ
+  - වැදගත් කොටසක් වූයේ ගම්මිරිස්ය.
+CLT_BUSH_PINTO_BEANS:
+  name: පින්ටෝ බෝංචි පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - කෙලින්ම බුරිටෝ හැදෙන පඳුරක් අභිජනනය
+  - කරන්න වැඩි කාලයක් යන එකක් නෑ, නේද?
+CLT_BUSH_RADDISH:
+  name: රාබු පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - මේ ශාකය දැන් ස්කේට්බෝඩ් උපක්‍රමයක් කළා.
+  - පට්ට... රාබු.
+CLT_BUSH_RADICCHIO:
+  name: රැඩිකියෝ පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - ලොකු පොරක් වගේ පේන්න ඕනෙද? ඕනෑම කෑමකට
+  - රැඩිකියෝ දාන්න, ඒක ඇත්තටම ගෝවා වගේමයි, ඒත්
+  - ඔබව ශිෂ්ට කෙනෙක් වගේ පෙන්නනවා.
+CLT_BUSH_RAPESEED:
+  name: රේප් පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - මේ පඳුරෙන් තෙල් ගතියක් ඇති දෙයක් වෑස්සෙනවා.
+CLT_BUSH_RHUBARB:
+  name: රුබාබ් පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - රුබාබ් එළවළුවක් කියලා ඔබ දැනගෙන හිටියද?
+  - මම හිතුවේ ඒක මිටි වර්ගයක් කියලා.
+CLT_BUSH_RICE:
+  name: වී පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - ප්‍රධාන ආහාරවල රජා.
+CLT_BUSH_ROSEMARY:
+  name: රෝස්මේරි පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - ඉරිදා දවල් කෑම මතක් කරන සුවඳැති පඳුරක්.
+CLT_BUSH_RUNNER_BEANS:
+  name: වැල් බෝංචි පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - මේ පඳුරට කකුල් තියෙනවද 0.0?
+CLT_BUSH_RUTABAGA:
+  name: රුටබාගා පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - ස්වීඩ්. ඒක ස්වීඩ් එකක්.
+CLT_BUSH_SASSAFRAS:
+  name: සැසෆ්‍රාස් පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - මේ පඳුර කුඩා ජලාශ ආසන්නයේ
+  - සිටුවනවාට කැමතියි.
+CLT_BUSH_SHALLOT:
+  name: රතු ලූනු පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - මේ පඳුර ඉක්මනින් ලස්සන පුංචි ලූනු හදනවා.
+  - වාසනාවට ඔබට රතු ලූනු ගොඩක් ඕනේ නෑ.
+CLT_BUSH_SHISO:
+  name: ෂිසෝ පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - මම හිතන්නේ මේ පඳුර පුදීනා පඳුරකයි
+  - තුලසි පඳුරකයි ආදර දරුවා. අපරාදේ,
+  - පඳුරු අභිජනනය කියලා දෙයක් නෑ!
+CLT_BUSH_SOY_BEANS:
+  name: සෝයා බෝංචි පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - මේ පඳුර මිත්‍රශීලී සතුටක්. ඒක මාව
+  - සෝයා සතුටින් තියනවා.
+CLT_BUSH_SPINACH:
+  name: නිවිති පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - මේ පඳුර පොපායිගේ හොඳම යාළුවා.
+CLT_BUSH_STAR_ANISE:
+  name: තක්කෝල පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - මේ පඳුරෙන් එන සුවඳ අනිසි වලටම
+  - ආවේණිකයි, ඔබට විශ්වාස කරන්නවත් බෑ.
+CLT_BUSH_STRAWBERRY:
+  name: ස්ට්‍රෝබෙරි පඳුර
+  type:
+  - '&7&oපඳුර'
+  description: *id001
+CLT_BUSH_SWEETCORN:
+  name: බඩ ඉරිඟු පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - මේ පඳුර කෑගහන්නේ තමන්ව වංක ගිරියක්
+  - බවට හදන්න කියලයි.
+CLT_BUSH_SWEET_POTATO:
+  name: බතල පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - මේ පඳුර හරිම මිහිරියි. ඔබ අහගෙන නොහිටි
+  - වෙලාවේ එය ඔබට ප්‍රශංසා කරනවා මට ඇහුණා.
+CLT_BUSH_TARRAGON:
+  name: ටැරගන් පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - මේ පඳුර වැඩිපුර අවධානය ඇදගන්න කැමති නෑ.
+CLT_BUSH_THYME:
+  name: තයිම් පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - මේ පඳුරට හැමතිස්සෙම... තයිම්... මදි... *කැස්ස*
+CLT_BUSH_TOMATO:
+  name: තක්කාලි පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - ඉදිලා, සූදානම්.
+CLT_BUSH_TURMERIC:
+  name: කහ පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - මේ පඳුර අතට ගත්තත් කුළුබඩු
+  - සුවඳක් නහයට වදිනවා.
+CLT_BUSH_TURNIP:
+  name: ටර්නිප් පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - බ්‍රිතාන්‍ය රජයට අනුව
+  - මේ පඳුර අපේ හැම ප්‍රශ්නයක්ම විසඳයි.
+CLT_BUSH_VANILLA:
+  name: වැනිලා පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - මේ පඳුර ස්වාභාවිකව වැවෙන්නේ ස්ටාර්බක්ස් අවට.
+CLT_BUSH_WASABI:
+  name: වසාබි පඳුර
+  type:
+  - '&7&oපඳුර'
+  description:
+  - තවත් මුලක් පඳුරකින් වැවෙනවද?
+  - අහ්...
+CLT_CABBAGE:
+  name: ගෝවා
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - ගෝවා බෑගයක්.
+CLT_CAESAR_SALAD:
+  name: සීසර් සලාද
+  type:
+  - '&7&oආහාර'
+  description:
+  - සෞඛ්‍ය සම්පන්න සම්භාව්‍යයක්.
+  stats:
+  - '&8⇨ &7සුවය: &b6 හදවත්'
+  - '&8⇨ &bවේගය I &7(10:00)'
+  - '&8⇨ &bඅදෘශ්‍යභාවය I &7(10:00)'
+  - '&8⇨ &bසෙමින් වැටීම I &7(10:00)'
+CLT_CAJUN_GARLIC_BUTTER_COD:
+  name: කේජන් සුදුලූනු බටර් කෝඩ් මාළු
+  type:
+  - '&7&oආහාර'
+  description:
+  - රසයෙන් පිපිරෙන ඉතා සරල කෑමක්.
+  stats:
+  - '&8⇨ &7සුවය: &b4 හදවත්'
+  - '&8⇨ &bපුනර්ජනනය II &7(10:00)'
+  - '&8⇨ &bවේගය I &7(10:00)'
+CLT_CAULIFLOWER:
+  name: මල් ගෝවා
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - අතේ ගෙනියන්න පුළුවන් වලාකුළක්!
+CLT_CAYENNE_PEPPER:
+  name: කයින් මිරිස්
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - මෘදු සැර කෑමක්.
+CLT_CELERIAC:
+  name: සෙලරියැක්
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - බොහෝ සම්ප්‍රදායික වට්ටෝරු වල මුල් බැසගත්
+  - (හෙහ්) ශක්තිමත් මුලක්.
+CLT_CELERY:
+  name: සැල්දිරි
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - ඇත්තටම නූල් වගේ වතුර විතරයි. වෙනස්
+  - කියලා මට ඔප්පු කරන්න.
+CLT_CHEESE_BURGER:
+  name: බර්ගර්
+  type:
+  - '&7&oආහාර'
+  description:
+  - සරල චීස් බර්ගර් එකක්, ඒත් ඒක පරදවන්න කිසිම දෙයක් නෑ!
+  stats:
+  - '&8⇨ &7සුවය: &b4 හදවත්'
+  - '&8⇨ &bපුනර්ජනනය III &7(10:00)'
+CLT_CHEESY_SCALLOPED_COURGETTE:
+  name: චීස් සහිත පෙති සුකිනි
+  type:
+  - '&7&oආහාර'
+  description:
+  - අපූරු සම්භාව්‍යයක අඩු කාබෝහයිඩ්‍රේට් සංස්කරණයක්.
+  stats:
+  - '&8⇨ &7සුවය: &b2 හදවත්'
+  - '&8⇨ &bරාත්‍රී දර්ශනය I &7(10:00)'
+  - '&8⇨ &bඅදෘශ්‍යභාවය I &7(10:00)'
+CLT_CHERRY:
+  name: චෙරි
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - අනේ, මම හිතුවේ මේවා සීනි පැණියේ ගිල්වලාම වැවෙනවා කියලා, අපරාදේ!
+CLT_CHESTNUT:
+  name: චෙස්ට්නට්
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - වහාම බේක් කරන්නම නිර්මාණය කළ දෙයක්.
+CLT_CHICKEN_ALFREDO_MAC_AND_CHEESE:
+  name: කුකුළු මස් ඇල්ෆ්‍රෙඩෝ මැකරෝනි සහ චීස්
+  type:
+  - '&7&oආහාර'
+  description:
+  - සුලබ සම්භාව්‍යයකට උසස් පෙරළියක්.
+  stats:
+  - '&8⇨ &7සුවය: &b1 හදවත'
+  - '&8⇨ &bගිනි ප්‍රතිරෝධය II &7(10:00)'
+  - '&8⇨ &bප්‍රතිරෝධය III &7(10:00)'
+CLT_CHICKEN_PASTA_BAKE:
+  name: පෝරණුවේ පිසූ කුකුළු මස් පැස්ටා
+  type:
+  - '&7&oආහාර'
+  description:
+  - ශිෂ්‍යයන්ගේ ප්‍රධාන ආහාරය.
+  stats:
+  - '&8⇨ &7සුවය: &b5 හදවත්'
+  - '&8⇨ &bරාත්‍රී දර්ශනය I &7(10:00)'
+  - '&8⇨ &bජලයේ හුස්ම ගැනීම I &7(10:00)'
+CLT_CHICKEN_POT_PIE:
+  name: කුකුල් මස් භාජන පයි
+  type:
+  - '&7&oආහාර'
+  description:
+  - ගෙදර මතක් කරන උණුසුම් කෑමක්.
+  stats:
+  - '&8⇨ &7සුවය: &b10 හදවත්'
+  - '&8⇨ &bපැනීමේ වර්ධනය II &7(10:00)'
+  - '&8⇨ &bතෘප්තිය I &7(10:00)'
+CLT_CHICKPEAS:
+  name: කඩල
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - බ්ලැක් අයිඩ් පීස්ලට සින්දු කියන්න පුළුවන්, කඩල වලට පුළුවන් හමූස් එකක් හූම් කරන්න විතරයි.
+CLT_CHICORY:
+  name: චිකරි
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - ඇට රසැති, තිත්ත මුලක්.
+CLT_CHILLY_PEPPER:
+  name: මිරිස්
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - මට අඬන්නේ නැතිව මුළු මිරිසක්ම කන්න පුළුවන්.
+  - හරි, බාගයක්.
+  - හ්ම්ම්ම්.... 1/4
+  - '...'
+  - හරි, මට එකක් දිවේ තියන්න පුළුවන්
+CLT_CHIVES:
+  name: චයිව් කොළ
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - මිහිරි, ලූනු රසැති ඖෂධ පැළෑටියක්.
+CLT_CHOPPED_APPLE:
+  name: කුඩාවට කැපූ ඇපල්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_APRICOT:
+  name: කුඩාවට කැපූ ඇප්‍රිකොට්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_ARTICHOKE:
+  name: කුඩාවට කැපූ ආටිචෝක්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_ASPARAGUS:
+  name: කුඩාවට කැපූ ඇස්පැරගස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_AUBERGINE:
+  name: කුඩාවට කැපූ වම්බටු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_AVOCADO:
+  name: කුඩාවට කැපූ අලිගැට පේර
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_BANANA:
+  name: කුඩාවට කැපූ කෙසෙල්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_BASIL:
+  name: කුඩාවට කැපූ තුලසි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_BAY_LEAF:
+  name: කුඩාවට කැපූ බේ කොළ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_BEEF:
+  name: කුඩාවට කැපූ හරක් මස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_BEETROOT:
+  name: කුඩාවට කැපූ බීට්රූට්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_BELL_PEPPER:
+  name: කුඩාවට කැපූ මාළු මිරිස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_BLACK_BEANS:
+  name: කුඩාවට කැපූ කළු බෝංචි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_BREAD:
+  name: කුඩාවට කැපූ පාන්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_BROCCOLI:
+  name: කුඩාවට කැපූ බ්‍රොකොලි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_BROWN_MUSHROOM:
+  name: කුඩාවට කැපූ දුඹුරු හතු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_BRUSSELS_SPROUTS:
+  name: කුඩාවට කැපූ බ්‍රසල්ස් ගෝවා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_CABBAGE:
+  name: කුඩාවට කැපූ ගෝවා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_CARROT:
+  name: කුඩාවට කැපූ කැරට්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_CAULIFLOWER:
+  name: කුඩාවට කැපූ මල් ගෝවා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_CAYENNE_PEPPER:
+  name: කුඩාවට කැපූ කයින් මිරිස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_CELERIAC:
+  name: කුඩාවට කැපූ සෙලරියැක්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_CELERY:
+  name: කුඩාවට කැපූ සැල්දිරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_CHERRY:
+  name: කුඩාවට කැපූ චෙරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_CHESTNUT:
+  name: කුඩාවට කැපූ චෙස්ට්නට්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_CHICKEN:
+  name: කුඩාවට කැපූ කුකුළු මස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_CHICKPEAS:
+  name: කුඩාවට කැපූ කඩල
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_CHICORY:
+  name: කුඩාවට කැපූ චිකරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_CHILLY_PEPPER:
+  name: කුඩාවට කැපූ මිරිස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_CHIVES:
+  name: කුඩාවට කැපූ චයිව් කොළ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_CHORUS_FRUIT:
+  name: කුඩාවට කැපූ කෝරස් පලතුර
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_CILANTRO:
+  name: කුඩාවට කැපූ කොත්තමල්ලි කොළ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_CINNAMON:
+  name: කුඩාවට කැපූ කුරුඳු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_CLOVE:
+  name: කුඩාවට කැපූ කරාබුනැටි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_COCOA_BEANS:
+  name: කුඩාවට කැපූ කොකෝවා ඇට
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_COD:
+  name: කුඩාවට කැපූ කෝඩ් මාළු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_COURGETTE:
+  name: කුඩාවට කැපූ සුකිනි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_CUCUMBER:
+  name: කුඩාවට කැපූ පිපිඤ්ඤා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_CUMIN:
+  name: කුඩාවට කැපූ සූදුරු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_CURRY_LEAF:
+  name: කුඩාවට කැපූ කරපිංචා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_DILL:
+  name: කුඩාවට කැපූ සතකුප්ප
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_EGG:
+  name: කුඩාවට කැපූ බිත්තර
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_ENCHANTED_GOLDEN_APPLE:
+  name: කුඩාවට කැපූ මායා රන් ඇපල්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_FENNEL:
+  name: කුඩාවට කැපූ මහදුරු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_GARLIC:
+  name: කුඩාවට කැපූ සුදුලූනු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_GINGER:
+  name: කුඩාවට කැපූ ඉඟුරු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_GLOW_BERRIES:
+  name: කුඩාවට කැපූ දිලිසෙන බෙරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_GOLDEN_APPLE:
+  name: කුඩාවට කැපූ රන් ඇපල්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_GOLDEN_CARROT:
+  name: කුඩාවට කැපූ රන් කැරට්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_GRAPE:
+  name: කුඩාවට කැපූ මිදි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_GREEN_APPLE:
+  name: කුඩාවට කැපූ කොළ ඇපල්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_GREEN_BEANS:
+  name: කුඩාවට කැපූ බෝංචි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_GREEN_ONION:
+  name: කුඩාවට කැපූ කොළ ලූනු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_HAZELNUT:
+  name: කුඩාවට කැපූ හේසල්නට්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_HORSERADISH:
+  name: කුඩාවට කැපූ අශ්ව රාබු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_JALAPENO:
+  name: කුඩාවට කැපූ හලපීනෝ මිරිස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_JASMINE:
+  name: කුඩාවට කැපූ පිච්ච
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_JUNIPER_BERRY:
+  name: කුඩාවට කැපූ ජුනිපර් බෙරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_KAFFIR_LIME:
+  name: කුඩාවට කැපූ කුදලු දෙහි කොළ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_KALE:
+  name: කුඩාවට කැපූ කේල්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_KELP:
+  name: කුඩාවට කැපූ කෙල්ප් පැළෑටි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_KIWI:
+  name: කුඩාවට කැපූ කිවි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_LAVENDER:
+  name: කුඩාවට කැපූ ලැවෙන්ඩර්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_LEEK:
+  name: කුඩාවට කැපූ ලීක්ස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_LEMON:
+  name: කුඩාවට කැපූ ලෙමන්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_LETTUCE:
+  name: කුඩාවට කැපූ සලාද කොළ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_LICORICE:
+  name: කුඩාවට කැපූ වැල්මී
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_LIME:
+  name: කුඩාවට කැපූ දෙහි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_MACE:
+  name: කුඩාවට කැපූ වසාවාසි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_MANGO:
+  name: කුඩාවට කැපූ අඹ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_MARJORAM:
+  name: කුඩාවට කැපූ මාජෝරම්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_MARROW:
+  name: කුඩාවට කැපූ ලබු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_MELON:
+  name: කුඩාවට කැපූ කොමඩු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_MINT:
+  name: කුඩාවට කැපූ පුදීනා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_MUSTARD_SEEDS:
+  name: කුඩාවට කැපූ අබ ඇට
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_MUTTON:
+  name: කුඩාවට කැපූ බැටළු මස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_NETTLES:
+  name: කුඩාවට කැපූ කහඹිලියා කොළ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_OKRA:
+  name: කුඩාවට කැපූ බණ්ඩක්කා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_ONION:
+  name: කුඩාවට කැපූ ලූනු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_ORANGE:
+  name: කුඩාවට කැපූ දොඩම්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_OREGANO:
+  name: කුඩාවට කැපූ ඔරිගැනෝ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_PARSLEY:
+  name: කුඩාවට කැපූ පාස්ලි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_PARSNIP:
+  name: කුඩාවට කැපූ පාර්ස්නිප්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_PEA:
+  name: කුඩාවට කැපූ බටානා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_PEACH:
+  name: කුඩාවට කැපූ පීච්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_PEANUT:
+  name: කුඩාවට කැපූ රටකජු ඇටය
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_PEAR:
+  name: කුඩාවට කැපූ පෙයර්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_PECAN:
+  name: කුඩාවට කැපූ පෙකෑන්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_PEPPER:
+  name: කුඩාවට කැපූ ගම්මිරිස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_PEPPERONI:
+  name: කුඩාවට කැපූ පෙපරෝනි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_PINEAPPLE:
+  name: කුඩාවට කැපූ අන්නාසි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_PINTO_BEANS:
+  name: කුඩාවට කැපූ පින්ටෝ බෝංචි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_PORKCHOP:
+  name: කුඩාවට කැපූ ඌරු මස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_POTATO:
+  name: කුඩාවට කැපූ අල
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_PUFFERFISH:
+  name: කුඩාවට කැපූ තිත්තයා මාළු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_PUMPKIN:
+  name: කුඩාවට කැපූ වට්ටක්කා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_RABBIT:
+  name: කුඩාවට කැපූ හා මස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_RADDISH:
+  name: කුඩාවට කැපූ රාබු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_RADICCHIO:
+  name: කුඩාවට කැපූ රැඩිකියෝ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_RAPESEED:
+  name: කුඩාවට කැපූ රේප් ඇට
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_RED_MUSHROOM:
+  name: කුඩාවට කැපූ රතු හතු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_RHUBARB:
+  name: කුඩාවට කැපූ රුබාබ්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_RICE:
+  name: කුඩාවට කැපූ හාල්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_ROSEMARY:
+  name: කුඩාවට කැපූ රෝස්මේරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_ROTTEN_FLESH:
+  name: කුඩාවට කැපූ කුණු වූ මස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_RUNNER_BEANS:
+  name: කුඩාවට කැපූ වැල් බෝංචි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_RUTABAGA:
+  name: කුඩාවට කැපූ රුටබාගා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_SALMON:
+  name: කුඩාවට කැපූ සැමන්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_SASSAFRAS:
+  name: කුඩාවට කැපූ සැසෆ්‍රාස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_SHALLOT:
+  name: කුඩාවට කැපූ රතු ලූනු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_SHISO:
+  name: කුඩාවට කැපූ ෂිසෝ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_SOY_BEANS:
+  name: කුඩාවට කැපූ සෝයා බෝංචි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_SPINACH:
+  name: කුඩාවට කැපූ නිවිති
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_STAR_ANISE:
+  name: කුඩාවට කැපූ තක්කෝල
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_STRAWBERRY:
+  name: කුඩාවට කැපූ ස්ට්‍රෝබෙරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_SUGAR:
+  name: කුඩාවට කැපූ සීනි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_SWEETCORN:
+  name: කුඩාවට කැපූ බඩ ඉරිඟු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_SWEET_BERRIES:
+  name: කුඩාවට කැපූ පැණි බෙරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_SWEET_POTATO:
+  name: කුඩාවට කැපූ බතල
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_TARRAGON:
+  name: කුඩාවට කැපූ ටැරගන්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_THYME:
+  name: කුඩාවට කැපූ තයිම්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_TOMATO:
+  name: කුඩාවට කැපූ තක්කාලි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_TURMERIC:
+  name: කුඩාවට කැපූ කහ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_TURNIP:
+  name: කුඩාවට කැපූ ටර්නිප්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_VANILLA:
+  name: කුඩාවට කැපූ වැනිලා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_WASABI:
+  name: කුඩාවට කැපූ වසාබි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CHOPPED_WHEAT:
+  name: කුඩාවට කැපූ තිරිඟු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_CILANTRO:
+  name: කොත්තමල්ලි කොළ
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - දෙහි ගතියක් සහිත මෘදු කුළුබඩුවක්.
+CLT_CINNAMON:
+  name: කුරුඳු
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - කූරු ආකාරයෙන්ම හපන්න නියමයි.
+CLT_CINNAMON_ROLL:
+  name: කුරුඳු රෝල්
+  type:
+  - '&7&oආහාර'
+  description:
+  - විනෝදයට රෝල් කරපු මිහිරි සතුටක්.
+  - කෑවම ලෝකයම උඩු යටිකුරු වෙනවා!
+  stats:
+  - '&8⇨ &7සුවය: &b4 හදවත්'
+  - '&8⇨ &bපාවීම I &7(10:00)'
+  - '&8⇨ &bසෙමින් වැටීම I &7(10:00)'
+CLT_CLOVE:
+  name: කරාබුනැටි
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - ඉතා උණුසුම් සහ තීව්‍ර රසයක්.
+CLT_COMPRESSED_BISCUIT:
+  name: තද කළ බිස්කට්
+  type:
+  - '&7&oආහාර'
+  description:
+  - මහා-තර රසයක් ඇති පුංචි කෑමක්.
+  stats: *id002
+CLT_COOKED_BURGER_PATTY:
+  name: පිසූ බර්ගර් පැටිය
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - ඇත්තටම වෑස්සෙනවා
+CLT_COUNTER_BLENDER:
+  name: මුළුතැන්ගෙයි කවුන්ටරය (බ්ලෙන්ඩරය)
+  type:
+  - '&7&oයන්ත්‍රය'
+  description:
+  - අස්වැන්න බ්ලෙන්ඩ් කරන්න මේ කුට්ටිය දකුණු-ක්ලික් කරන්න.
+  usage: &id003
+  - වටිනා ඉඟිය! තැබූ පසු, ෂිෆ්ට් + දකුණු
+  - ක්ලික් කළ විට ඔබ අල්ලාගෙන සිටින කුට්ටි(ය)
+  - මුළුතැන්ගෙයි මෝස්තරය වෙනස් කරයි. උත්සාහ කරන්න!
+CLT_COUNTER_BOILING:
+  name: මුළුතැන්ගෙයි කවුන්ටරය (තම්බන භාජනය)
+  type:
+  - '&7&oයන්ත්‍රය'
+  description:
+  - ඇතැම් අයිතම තැම්බිය හැක.
+  usage: *id003
+CLT_COUNTER_CHOPPING:
+  name: මුළුතැන්ගෙයි කවුන්ටරය (කපන ලෑල්ල)
+  type:
+  - '&7&oයන්ත්‍රය'
+  description:
+  - අස්වැන්න කපන්න මේ කුට්ටිය දකුණු-ක්ලික් කරන්න.
+  usage: *id003
+CLT_COUNTER_FINISHING:
+  name: මුළුතැන්ගෙයි කවුන්ටරය (නිම කිරීම)
+  type:
+  - '&7&oයන්ත්‍රය'
+  description:
+  - නිෂ්පාදන/අතුරු නිෂ්පාදන වෙනත් අතුරු
+  - නිෂ්පාදන හෝ නිම කළ ආහාර බවට සෑදීමට.
+  usage: *id003
+CLT_COUNTER_FRYING:
+  name: මුළුතැන්ගෙයි කවුන්ටරය (බදින තාච්චිය)
+  type:
+  - '&7&oයන්ත්‍රය'
+  description:
+  - ඇතැම් අස්වැන්න බැදිය හැක.
+  usage: *id003
+CLT_COUNTER_GRILL:
+  name: මුළුතැන්ගෙයි කවුන්ටරය (ග්‍රිල් එක)
+  type:
+  - '&7&oයන්ත්‍රය'
+  description:
+  - ඇතැම් අස්වැන්න ග්‍රිල් කළ හැක.
+  usage: *id003
+CLT_COUNTER_GRINDER:
+  name: මුළුතැන්ගෙයි කවුන්ටරය (ඇඹරුම් වංගෙඩිය සහ මෝල් ගස)
+  type:
+  - '&7&oයන්ත්‍රය'
+  description:
+  - අස්වැන්න අඹරන්න මේ කුට්ටිය දකුණු-ක්ලික් කරන්න.
+  usage: *id003
+CLT_COUNTER_MASHER:
+  name: මුළුතැන්ගෙයි කවුන්ටරය (පොඩි කරන බඳුන)
+  type:
+  - '&7&oයන්ත්‍රය'
+  description:
+  - අස්වැන්න පොඩි කරන්න මේ කුට්ටිය දකුණු-ක්ලික් කරන්න.
+  usage: *id003
+CLT_COUNTER_NOTHING:
+  name: මුළුතැන්ගෙයි කවුන්ටරය (හිස්)
+  type:
+  - '&7&oයන්ත්‍රය'
+  description:
+  - අලංකාරයට විතරයි!
+  usage: *id003
+CLT_COUNTER_OVEN:
+  name: මුළුතැන්ගෙයි කවුන්ටරය (උඳුන)
+  type:
+  - '&7&oයන්ත්‍රය'
+  description:
+  - ඇතැම් අස්වැන්න බේක් කළ හැක.
+  usage: *id003
+CLT_COUNTER_SLICING:
+  name: මුළුතැන්ගෙයි කවුන්ටරය (පෙති කපන ලෑල්ල)
+  type:
+  - '&7&oයන්ත්‍රය'
+  description:
+  - අස්වැන්න පෙති කපන්න මේ කුට්ටිය දකුණු-ක්ලික් කරන්න.
+  usage: *id003
+CLT_COURGETTE:
+  name: සුකිනි
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - 'වටිනා ඉඟිය: ගැඹුර සහ වයනය සඳහා'
+  - මෙය ඕනෑම පැස්ටා සෝස් එකකට ගාන්න.
+CLT_CREAM_CHEESE:
+  name: ක්‍රීම් චීස්
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - චීස් ගතියට වඩා ක්‍රීම් ගතියයි.
+CLT_CROP_STICKS:
+  name: බෝග කූරු
+  type:
+  - '&7&oමෙවලම'
+  description:
+  - බෝග කූරු, වැවීම සඳහා තැබූ
+  - බීජයකට යෙදිය යුතුය.
+  - දෙවන කට්ටලයක් තැබීමෙන් ශාකය
+  - හරස් වගා වී එයට පැතිරීමට සහ/හෝ
+  - අභිජනනය වීමට ඉඩ ලැබේ.
+CLT_CUCUMBER:
+  name: පිපිඤ්ඤා
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - කොළ පාට කවචයක ඇති වතුර, වැරදි කියලා
+  - ඔප්පු කරන්න.
+CLT_CUMIN:
+  name: සූදුරු
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - උණුසුම් දෙහි ගතියක් ඇති ශාකයක්.
+CLT_CURRY_LEAF:
+  name: කරපිංචා
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - බොහෝ අපූරු ආහාරවල පදනම.
+CLT_DILL:
+  name: සතකුප්ප
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - මට නම් තණකොළ වගේ රසයි. ඇයි
+  - මිනිස්සු මේකට කැමති?
+CLT_DOUGH:
+  name: පිටි අනම
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - සාමාන්‍ය පිටි අනමක් විතරයි!
+CLT_EGG_SALAD:
+  name: බිත්තර සලාද
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - මේක කෝච්චියේදී අරින්න බලන්න, මම අභියෝග කරනවා!
+CLT_EGG_SALAD_SANDWICH:
+  name: බිත්තර සලාද සැන්ඩ්විච්
+  type:
+  - '&7&oආහාර'
+  description:
+  - ටිකක් ගඳයි, ඒත් රසය නම් අපූරුයි!
+  stats: &id006
+  - '&8⇨ &7සුවය: &b10 හදවත්'
+  - '&8⇨ &bපුනර්ජනනය II &7(10:00)'
+CLT_FENNEL:
+  name: මහදුරු
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - අනිසි සහ වැල්මී වල මිශ්‍රණයක් වගේ.
+CLT_FRIED_APPLE:
+  name: බැදපු ඇපල්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_APRICOT:
+  name: බැදපු ඇප්‍රිකොට්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_ARTICHOKE:
+  name: බැදපු ආටිචෝක්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_ASPARAGUS:
+  name: බැදපු ඇස්පැරගස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_AUBERGINE:
+  name: බැදපු වම්බටු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_AVOCADO:
+  name: බැදපු අලිගැට පේර
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_BANANA:
+  name: බැදපු කෙසෙල්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_BASIL:
+  name: බැදපු තුලසි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_BAY_LEAF:
+  name: බැදපු බේ කොළ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_BEEF:
+  name: බැදපු හරක් මස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_BEETROOT:
+  name: බැදපු බීට්රූට්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_BELL_PEPPER:
+  name: බැදපු මාළු මිරිස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_BLACK_BEANS:
+  name: බැදපු කළු බෝංචි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_BREAD:
+  name: බැදපු පාන්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_BROCCOLI:
+  name: බැදපු බ්‍රොකොලි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_BROWN_MUSHROOM:
+  name: බැදපු දුඹුරු හතු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_BRUSSELS_SPROUTS:
+  name: බැදපු බ්‍රසල්ස් ගෝවා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_CABBAGE:
+  name: බැදපු ගෝවා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_CARROT:
+  name: බැදපු කැරට්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_CAULIFLOWER:
+  name: බැදපු මල් ගෝවා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_CAYENNE_PEPPER:
+  name: බැදපු කයින් මිරිස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_CELERIAC:
+  name: බැදපු සෙලරියැක්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_CELERY:
+  name: බැදපු සැල්දිරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_CHERRY:
+  name: බැදපු චෙරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_CHESTNUT:
+  name: බැදපු චෙස්ට්නට්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_CHICKEN:
+  name: බැදපු කුකුළු මස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_CHICKPEAS:
+  name: බැදපු කඩල
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_CHICORY:
+  name: බැදපු චිකරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_CHILLY_PEPPER:
+  name: බැදපු මිරිස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_CHIVES:
+  name: බැදපු චයිව් කොළ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_CHORUS_FRUIT:
+  name: බැදපු කෝරස් පලතුර
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_CILANTRO:
+  name: බැදපු කොත්තමල්ලි කොළ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_CINNAMON:
+  name: බැදපු කුරුඳු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_CLOVE:
+  name: බැදපු කරාබුනැටි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_COCOA_BEANS:
+  name: බැදපු කොකෝවා ඇට
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_COD:
+  name: බැදපු කෝඩ් මාළු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_COURGETTE:
+  name: බැදපු සුකිනි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_CUCUMBER:
+  name: බැදපු පිපිඤ්ඤා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_CUMIN:
+  name: බැදපු සූදුරු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_CURRY_LEAF:
+  name: බැදපු කරපිංචා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_DILL:
+  name: බැදපු සතකුප්ප
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_EGG:
+  name: බැදපු බිත්තර
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_ENCHANTED_GOLDEN_APPLE:
+  name: බැදපු මායා රන් ඇපල්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_FENNEL:
+  name: බැදපු මහදුරු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_GARLIC:
+  name: බැදපු සුදුලූනු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_GINGER:
+  name: බැදපු ඉඟුරු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_GLOW_BERRIES:
+  name: බැදපු දිලිසෙන බෙරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_GOLDEN_APPLE:
+  name: බැදපු රන් ඇපල්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_GOLDEN_CARROT:
+  name: බැදපු රන් කැරට්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_GRAPE:
+  name: බැදපු මිදි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_GREEN_APPLE:
+  name: බැදපු කොළ ඇපල්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_GREEN_BEANS:
+  name: බැදපු බෝංචි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_GREEN_ONION:
+  name: බැදපු කොළ ලූනු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_HAZELNUT:
+  name: බැදපු හේසල්නට්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_HORSERADISH:
+  name: බැදපු අශ්ව රාබු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_JALAPENO:
+  name: බැදපු හලපීනෝ මිරිස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_JASMINE:
+  name: බැදපු පිච්ච
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_JUNIPER_BERRY:
+  name: බැදපු ජුනිපර් බෙරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_KAFFIR_LIME:
+  name: බැදපු කුදලු දෙහි කොළ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_KALE:
+  name: බැදපු කේල්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_KELP:
+  name: බැදපු කෙල්ප් පැළෑටි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_KIWI:
+  name: බැදපු කිවි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_LAVENDER:
+  name: බැදපු ලැවෙන්ඩර්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_LEEK:
+  name: බැදපු ලීක්ස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_LEMON:
+  name: බැදපු ලෙමන්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_LETTUCE:
+  name: බැදපු සලාද කොළ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_LICORICE:
+  name: බැදපු වැල්මී
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_LIME:
+  name: බැදපු දෙහි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_MACE:
+  name: බැදපු වසාවාසි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_MANGO:
+  name: බැදපු අඹ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_MARJORAM:
+  name: බැදපු මාජෝරම්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_MARROW:
+  name: බැදපු ලබු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_MELON:
+  name: බැදපු කොමඩු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_MINT:
+  name: බැදපු පුදීනා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_MUSTARD_SEEDS:
+  name: බැදපු අබ ඇට
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_MUTTON:
+  name: බැදපු බැටළු මස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_NETTLES:
+  name: බැදපු කහඹිලියා කොළ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_OKRA:
+  name: බැදපු බණ්ඩක්කා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_ONION:
+  name: බැදපු ලූනු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_ORANGE:
+  name: බැදපු දොඩම්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_OREGANO:
+  name: බැදපු ඔරිගැනෝ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_PARSLEY:
+  name: බැදපු පාස්ලි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_PARSNIP:
+  name: බැදපු පාර්ස්නිප්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_PEA:
+  name: බැදපු බටානා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_PEACH:
+  name: බැදපු පීච්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_PEANUT:
+  name: බැදපු රටකජු ඇටය
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_PEAR:
+  name: බැදපු පෙයර්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_PECAN:
+  name: බැදපු පෙකෑන්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_PEPPER:
+  name: බැදපු ගම්මිරිස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_PEPPERONI:
+  name: බැදපු පෙපරෝනි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_PINEAPPLE:
+  name: බැදපු අන්නාසි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_PINTO_BEANS:
+  name: බැදපු පින්ටෝ බෝංචි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_PORKCHOP:
+  name: බැදපු ඌරු මස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_POTATO:
+  name: බැදපු අල
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_PUFFERFISH:
+  name: බැදපු තිත්තයා මාළු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_PUMPKIN:
+  name: බැදපු වට්ටක්කා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_RABBIT:
+  name: බැදපු හා මස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_RADDISH:
+  name: බැදපු රාබු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_RADICCHIO:
+  name: බැදපු රැඩිකියෝ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_RAPESEED:
+  name: බැදපු රේප් ඇට
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_RED_MUSHROOM:
+  name: බැදපු රතු හතු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_RHUBARB:
+  name: බැදපු රුබාබ්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_RICE:
+  name: බැදපු හාල්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_ROSEMARY:
+  name: බැදපු රෝස්මේරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_ROTTEN_FLESH:
+  name: බැදපු කුණු වූ මස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_RUNNER_BEANS:
+  name: බැදපු වැල් බෝංචි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_RUTABAGA:
+  name: බැදපු රුටබාගා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_SALMON:
+  name: බැදපු සැමන්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_SASSAFRAS:
+  name: බැදපු සැසෆ්‍රාස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_SHALLOT:
+  name: බැදපු රතු ලූනු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_SHISO:
+  name: බැදපු ෂිසෝ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_SOY_BEANS:
+  name: බැදපු සෝයා බෝංචි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_SPINACH:
+  name: බැදපු නිවිති
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_STAR_ANISE:
+  name: බැදපු තක්කෝල
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_STRAWBERRY:
+  name: බැදපු ස්ට්‍රෝබෙරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_SUGAR:
+  name: බැදපු සීනි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_SWEETCORN:
+  name: බැදපු බඩ ඉරිඟු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_SWEET_BERRIES:
+  name: බැදපු පැණි බෙරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_SWEET_POTATO:
+  name: බැදපු බතල
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_TARRAGON:
+  name: බැදපු ටැරගන්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_THYME:
+  name: බැදපු තයිම්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_TOMATO:
+  name: බැදපු තක්කාලි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_TURMERIC:
+  name: බැදපු කහ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_TURNIP:
+  name: බැදපු ටර්නිප්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_VANILLA:
+  name: බැදපු වැනිලා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_WASABI:
+  name: බැදපු වසාබි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRIED_WHEAT:
+  name: බැදපු තිරිඟු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_FRUIT_SALAD:
+  name: පලතුරු සලාද
+  type:
+  - '&7&oආහාර'
+  description:
+  - සලාදයක් කියලා කිව්වොත්, ඔබට ඕනෑ තරම්
+  - කන්න පුළුවන්, මොකද ඒක සෞඛ්‍යයට හොඳයි.
+  stats:
+  - '&8⇨ &7සුවය: &b6 හදවත්'
+  - '&8⇨ &bවේගය III &7(10:00)'
+CLT_FUGU:
+  name: ෆුගු
+  type:
+  - '&7&oආහාර'
+  description:
+  - දාදු කැට පෙරළන්න සූදානම්ද?
+  stats:
+  - '&8⇨ &7සුවය: &b1 හදවත'
+  - '&8⇨ &bශක්තිය V &7(10:00)'
+  - '&8⇨ &733% ක ඉඩක් හිටි හැටියේ මැරෙන්න!'
+CLT_GARDEN_CLOCHE:
+  name: වගා වීදුරු ආවරණය
+  type:
+  - '&7&oයන්ත්‍රය'
+  description:
+  - ඇතුළත ශාක ස්වයංක්‍රීයව වවයි.
+  stats:
+  - '&8⇨ &7ටික් එකකට බලය: &b100'
+CLT_GARLIC:
+  name: සුදුලූනු
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - ඉක්මනට, වැම්පයර්ලා එන්න කලින්!
+CLT_GARLIC_BUTTER_MUSHROOMS:
+  name: සුදුලූනු බටර් හතු
+  type:
+  - '&7&oආහාර'
+  description:
+  - පෘථිවියේ හොඳම ආහාරය වෙන්නත් පුළුවන්.
+  stats:
+  - '&8⇨ &7සුවය: &b2 හදවත්'
+  - '&8⇨ &bදිලිසීම I &7(10:00)'
+CLT_GINGER:
+  name: ඉඟුරු
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - උතුරන වතුරේ දාපු කපපු ඉඟුරු, හැම ලෙඩකටම බෙහෙත්!
+CLT_GRAPE:
+  name: මිදි
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - හරිම මහතයි!
+CLT_GRAPE_JELLY:
+  name: මිදි ජෙලි
+  type:
+  - '&7&oඅස්වැන්න'
+  description: &id008
+  - හැන්දකින් කන එක අපරාධ වරදක්.
+CLT_GREEN_APPLE:
+  name: කොළ ඇපල්
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - සටහනේ තියෙන්නේ... ආදරණීය ගුරුතුමනි?
+CLT_GREEN_BEANS:
+  name: බෝංචි
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - හරිම නිර්මාණශීලී නමක්!
+CLT_GREEN_ONION:
+  name: කොළ ලූනු
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - ටැකෝස් එක්ක නියමයි!
+CLT_GRILLED_APPLE:
+  name: ග්‍රිල් කළ ඇපල්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_APRICOT:
+  name: ග්‍රිල් කළ ඇප්‍රිකොට්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_ARTICHOKE:
+  name: ග්‍රිල් කළ ආටිචෝක්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_ASPARAGUS:
+  name: ග්‍රිල් කළ ඇස්පැරගස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_AUBERGINE:
+  name: ග්‍රිල් කළ වම්බටු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_AVOCADO:
+  name: ග්‍රිල් කළ අලිගැට පේර
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_BANANA:
+  name: ග්‍රිල් කළ කෙසෙල්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_BASIL:
+  name: ග්‍රිල් කළ තුලසි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_BAY_LEAF:
+  name: ග්‍රිල් කළ බේ කොළ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_BEEF:
+  name: ග්‍රිල් කළ හරක් මස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_BEETROOT:
+  name: ග්‍රිල් කළ බීට්රූට්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_BELL_PEPPER:
+  name: ග්‍රිල් කළ මාළු මිරිස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_BLACK_BEANS:
+  name: ග්‍රිල් කළ කළු බෝංචි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_BREAD:
+  name: ග්‍රිල් කළ පාන්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_BROCCOLI:
+  name: ග්‍රිල් කළ බ්‍රොකොලි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_BROWN_MUSHROOM:
+  name: ග්‍රිල් කළ දුඹුරු හතු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_BRUSSELS_SPROUTS:
+  name: ග්‍රිල් කළ බ්‍රසල්ස් ගෝවා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_CABBAGE:
+  name: ග්‍රිල් කළ ගෝවා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_CARROT:
+  name: ග්‍රිල් කළ කැරට්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_CAULIFLOWER:
+  name: ග්‍රිල් කළ මල් ගෝවා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_CAYENNE_PEPPER:
+  name: ග්‍රිල් කළ කයින් මිරිස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_CELERIAC:
+  name: ග්‍රිල් කළ සෙලරියැක්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_CELERY:
+  name: ග්‍රිල් කළ සැල්දිරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_CHERRY:
+  name: ග්‍රිල් කළ චෙරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_CHESTNUT:
+  name: ග්‍රිල් කළ චෙස්ට්නට්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_CHICKEN:
+  name: ග්‍රිල් කළ කුකුළු මස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_CHICKPEAS:
+  name: ග්‍රිල් කළ කඩල
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_CHICORY:
+  name: ග්‍රිල් කළ චිකරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_CHILLY_PEPPER:
+  name: ග්‍රිල් කළ මිරිස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_CHIVES:
+  name: ග්‍රිල් කළ චයිව් කොළ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_CHORUS_FRUIT:
+  name: ග්‍රිල් කළ කෝරස් පලතුර
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_CILANTRO:
+  name: ග්‍රිල් කළ කොත්තමල්ලි කොළ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_CINNAMON:
+  name: ග්‍රිල් කළ කුරුඳු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_CLOVE:
+  name: ග්‍රිල් කළ කරාබුනැටි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_COCOA_BEANS:
+  name: ග්‍රිල් කළ කොකෝවා ඇට
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_COD:
+  name: ග්‍රිල් කළ කෝඩ් මාළු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_COURGETTE:
+  name: ග්‍රිල් කළ සුකිනි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_CUCUMBER:
+  name: ග්‍රිල් කළ පිපිඤ්ඤා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_CUMIN:
+  name: ග්‍රිල් කළ සූදුරු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_CURRY_LEAF:
+  name: ග්‍රිල් කළ කරපිංචා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_DILL:
+  name: ග්‍රිල් කළ සතකුප්ප
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_EGG:
+  name: ග්‍රිල් කළ බිත්තර
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_ENCHANTED_GOLDEN_APPLE:
+  name: ග්‍රිල් කළ මායා රන් ඇපල්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_FENNEL:
+  name: ග්‍රිල් කළ මහදුරු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_GARLIC:
+  name: ග්‍රිල් කළ සුදුලූනු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_GINGER:
+  name: ග්‍රිල් කළ ඉඟුරු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_GLOW_BERRIES:
+  name: ග්‍රිල් කළ දිලිසෙන බෙරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_GOLDEN_APPLE:
+  name: ග්‍රිල් කළ රන් ඇපල්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_GOLDEN_CARROT:
+  name: ග්‍රිල් කළ රන් කැරට්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_GRAPE:
+  name: ග්‍රිල් කළ මිදි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_GREEN_APPLE:
+  name: ග්‍රිල් කළ කොළ ඇපල්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_GREEN_BEANS:
+  name: ග්‍රිල් කළ බෝංචි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_GREEN_ONION:
+  name: ග්‍රිල් කළ කොළ ලූනු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_HAZELNUT:
+  name: ග්‍රිල් කළ හේසල්නට්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_HORSERADISH:
+  name: ග්‍රිල් කළ අශ්ව රාබු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_JALAPENO:
+  name: ග්‍රිල් කළ හලපීනෝ මිරිස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_JASMINE:
+  name: ග්‍රිල් කළ පිච්ච
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_JUNIPER_BERRY:
+  name: ග්‍රිල් කළ ජුනිපර් බෙරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_KAFFIR_LIME:
+  name: ග්‍රිල් කළ කුදලු දෙහි කොළ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_KALE:
+  name: ග්‍රිල් කළ කේල්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_KELP:
+  name: ග්‍රිල් කළ කෙල්ප් පැළෑටි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_KIWI:
+  name: ග්‍රිල් කළ කිවි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_LAVENDER:
+  name: ග්‍රිල් කළ ලැවෙන්ඩර්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_LEEK:
+  name: ග්‍රිල් කළ ලීක්ස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_LEMON:
+  name: ග්‍රිල් කළ ලෙමන්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_LETTUCE:
+  name: ග්‍රිල් කළ සලාද කොළ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_LICORICE:
+  name: ග්‍රිල් කළ වැල්මී
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_LIME:
+  name: ග්‍රිල් කළ දෙහි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_MACE:
+  name: ග්‍රිල් කළ වසාවාසි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_MANGO:
+  name: ග්‍රිල් කළ අඹ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_MARJORAM:
+  name: ග්‍රිල් කළ මාජෝරම්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_MARROW:
+  name: ග්‍රිල් කළ ලබු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_MELON:
+  name: ග්‍රිල් කළ කොමඩු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_MINT:
+  name: ග්‍රිල් කළ පුදීනා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_MUSTARD_SEEDS:
+  name: ග්‍රිල් කළ අබ ඇට
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_MUTTON:
+  name: ග්‍රිල් කළ බැටළු මස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_NETTLES:
+  name: ග්‍රිල් කළ කහඹිලියා කොළ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_OKRA:
+  name: ග්‍රිල් කළ බණ්ඩක්කා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_ONION:
+  name: ග්‍රිල් කළ ලූනු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_ORANGE:
+  name: ග්‍රිල් කළ දොඩම්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_OREGANO:
+  name: ග්‍රිල් කළ ඔරිගැනෝ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_PARSLEY:
+  name: ග්‍රිල් කළ පාස්ලි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_PARSNIP:
+  name: ග්‍රිල් කළ පාර්ස්නිප්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_PEA:
+  name: ග්‍රිල් කළ බටානා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_PEACH:
+  name: ග්‍රිල් කළ පීච්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_PEANUT:
+  name: ග්‍රිල් කළ රටකජු ඇටය
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_PEAR:
+  name: ග්‍රිල් කළ පෙයර්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_PECAN:
+  name: ග්‍රිල් කළ පෙකෑන්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_PEPPER:
+  name: ග්‍රිල් කළ ගම්මිරිස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_PEPPERONI:
+  name: ග්‍රිල් කළ පෙපරෝනි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_PINEAPPLE:
+  name: ග්‍රිල් කළ අන්නාසි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_PINTO_BEANS:
+  name: ග්‍රිල් කළ පින්ටෝ බෝංචි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_PORKCHOP:
+  name: ග්‍රිල් කළ ඌරු මස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_POTATO:
+  name: ග්‍රිල් කළ අල
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_PUFFERFISH:
+  name: ග්‍රිල් කළ තිත්තයා මාළු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_PUMPKIN:
+  name: ග්‍රිල් කළ වට්ටක්කා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_RABBIT:
+  name: ග්‍රිල් කළ හා මස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_RADDISH:
+  name: ග්‍රිල් කළ රාබු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_RADICCHIO:
+  name: ග්‍රිල් කළ රැඩිකියෝ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_RAPESEED:
+  name: ග්‍රිල් කළ රේප් ඇට
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_RED_MUSHROOM:
+  name: ග්‍රිල් කළ රතු හතු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_RHUBARB:
+  name: ග්‍රිල් කළ රුබාබ්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_RICE:
+  name: ග්‍රිල් කළ හාල්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_ROSEMARY:
+  name: ග්‍රිල් කළ රෝස්මේරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_ROTTEN_FLESH:
+  name: ග්‍රිල් කළ කුණු වූ මස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_RUNNER_BEANS:
+  name: ග්‍රිල් කළ වැල් බෝංචි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_RUTABAGA:
+  name: ග්‍රිල් කළ රුටබාගා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_SALMON:
+  name: ග්‍රිල් කළ සැමන්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_SALMON_SALAD:
+  name: ග්‍රිල් කළ සැමන් සලාද
+  type:
+  - '&7&oආහාර'
+  description:
+  - අපූරුවට පතුරු ගැලවෙන, විශිෂ්ට ලෙස කුළුබඩු දැමූ.
+  stats:
+  - '&8⇨ &7සුවය: &b4 හදවත්'
+  - '&8⇨ &bපුනර්ජනනය I &7(10:00)'
+  - '&8⇨ &bසෞඛ්‍ය වර්ධනය V &7(10:00)'
+CLT_GRILLED_SASSAFRAS:
+  name: ග්‍රිල් කළ සැසෆ්‍රාස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_SHALLOT:
+  name: ග්‍රිල් කළ රතු ලූනු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_SHISO:
+  name: ග්‍රිල් කළ ෂිසෝ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_SOY_BEANS:
+  name: ග්‍රිල් කළ සෝයා බෝංචි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_SPINACH:
+  name: ග්‍රිල් කළ නිවිති
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_STAR_ANISE:
+  name: ග්‍රිල් කළ තක්කෝල
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_STRAWBERRY:
+  name: ග්‍රිල් කළ ස්ට්‍රෝබෙරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_SUGAR:
+  name: ග්‍රිල් කළ සීනි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_SWEETCORN:
+  name: ග්‍රිල් කළ බඩ ඉරිඟු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_SWEET_BERRIES:
+  name: ග්‍රිල් කළ පැණි බෙරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_SWEET_POTATO:
+  name: ග්‍රිල් කළ බතල
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_TARRAGON:
+  name: ග්‍රිල් කළ ටැරගන්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_THYME:
+  name: ග්‍රිල් කළ තයිම්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_TOMATO:
+  name: ග්‍රිල් කළ තක්කාලි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_TURMERIC:
+  name: ග්‍රිල් කළ කහ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_TURNIP:
+  name: ග්‍රිල් කළ ටර්නිප්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_VANILLA:
+  name: ග්‍රිල් කළ වැනිලා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_WASABI:
+  name: ග්‍රිල් කළ වසාබි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GRILLED_WHEAT:
+  name: ග්‍රිල් කළ තිරිඟු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_APPLE:
+  name: ඇඹරූ ඇපල්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_APRICOT:
+  name: ඇඹරූ ඇප්‍රිකොට්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_ARTICHOKE:
+  name: ඇඹරූ ආටිචෝක්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_ASPARAGUS:
+  name: ඇඹරූ ඇස්පැරගස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_AUBERGINE:
+  name: ඇඹරූ වම්බටු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_AVOCADO:
+  name: ඇඹරූ අලිගැට පේර
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_BANANA:
+  name: ඇඹරූ කෙසෙල්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_BASIL:
+  name: ඇඹරූ තුලසි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_BAY_LEAF:
+  name: ඇඹරූ බේ කොළ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_BEEF:
+  name: ඇඹරූ හරක් මස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_BEETROOT:
+  name: ඇඹරූ බීට්රූට්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_BELL_PEPPER:
+  name: ඇඹරූ මාළු මිරිස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_BLACK_BEANS:
+  name: ඇඹරූ කළු බෝංචි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_BREAD:
+  name: ඇඹරූ පාන්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_BROCCOLI:
+  name: ඇඹරූ බ්‍රොකොලි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_BROWN_MUSHROOM:
+  name: ඇඹරූ දුඹුරු හතු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_BRUSSELS_SPROUTS:
+  name: ඇඹරූ බ්‍රසල්ස් ගෝවා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_CABBAGE:
+  name: ඇඹරූ ගෝවා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_CARROT:
+  name: ඇඹරූ කැරට්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_CAULIFLOWER:
+  name: ඇඹරූ මල් ගෝවා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_CAYENNE_PEPPER:
+  name: ඇඹරූ කයින් මිරිස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_CELERIAC:
+  name: ඇඹරූ සෙලරියැක්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_CELERY:
+  name: ඇඹරූ සැල්දිරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_CHERRY:
+  name: ඇඹරූ චෙරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_CHESTNUT:
+  name: ඇඹරූ චෙස්ට්නට්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_CHICKEN:
+  name: ඇඹරූ කුකුළු මස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_CHICKPEAS:
+  name: ඇඹරූ කඩල
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_CHICORY:
+  name: ඇඹරූ චිකරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_CHILLY_PEPPER:
+  name: ඇඹරූ මිරිස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_CHIVES:
+  name: ඇඹරූ චයිව් කොළ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_CHORUS_FRUIT:
+  name: ඇඹරූ කෝරස් පලතුර
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_CILANTRO:
+  name: ඇඹරූ කොත්තමල්ලි කොළ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_CINNAMON:
+  name: ඇඹරූ කුරුඳු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_CLOVE:
+  name: ඇඹරූ කරාබුනැටි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_COCOA_BEANS:
+  name: ඇඹරූ කොකෝවා ඇට
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_COD:
+  name: ඇඹරූ කෝඩ් මාළු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_COURGETTE:
+  name: ඇඹරූ සුකිනි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_CUCUMBER:
+  name: ඇඹරූ පිපිඤ්ඤා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_CUMIN:
+  name: ඇඹරූ සූදුරු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_CURRY_LEAF:
+  name: ඇඹරූ කරපිංචා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_DILL:
+  name: ඇඹරූ සතකුප්ප
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_EGG:
+  name: ඇඹරූ බිත්තර
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_ENCHANTED_GOLDEN_APPLE:
+  name: ඇඹරූ මායා රන් ඇපල්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_FENNEL:
+  name: ඇඹරූ මහදුරු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_GARLIC:
+  name: ඇඹරූ සුදුලූනු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_GINGER:
+  name: ඇඹරූ ඉඟුරු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_GLOW_BERRIES:
+  name: ඇඹරූ දිලිසෙන බෙරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_GOLDEN_APPLE:
+  name: ඇඹරූ රන් ඇපල්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_GOLDEN_CARROT:
+  name: ඇඹරූ රන් කැරට්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_GRAPE:
+  name: ඇඹරූ මිදි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_GREEN_APPLE:
+  name: ඇඹරූ කොළ ඇපල්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_GREEN_BEANS:
+  name: ඇඹරූ බෝංචි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_GREEN_ONION:
+  name: ඇඹරූ කොළ ලූනු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_HAZELNUT:
+  name: ඇඹරූ හේසල්නට්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_HORSERADISH:
+  name: ඇඹරූ අශ්ව රාබු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_JALAPENO:
+  name: ඇඹරූ හලපීනෝ මිරිස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_JASMINE:
+  name: ඇඹරූ පිච්ච
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_JUNIPER_BERRY:
+  name: ඇඹරූ ජුනිපර් බෙරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_KAFFIR_LIME:
+  name: ඇඹරූ කුදලු දෙහි කොළ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_KALE:
+  name: ඇඹරූ කේල්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_KELP:
+  name: ඇඹරූ කෙල්ප් පැළෑටි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_KIWI:
+  name: ඇඹරූ කිවි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_LAVENDER:
+  name: ඇඹරූ ලැවෙන්ඩර්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_LEEK:
+  name: ඇඹරූ ලීක්ස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_LEMON:
+  name: ඇඹරූ ලෙමන්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_LETTUCE:
+  name: ඇඹරූ සලාද කොළ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_LICORICE:
+  name: ඇඹරූ වැල්මී
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_LIME:
+  name: ඇඹරූ දෙහි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_MACE:
+  name: ඇඹරූ වසාවාසි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_MANGO:
+  name: ඇඹරූ අඹ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_MARJORAM:
+  name: ඇඹරූ මාජෝරම්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_MARROW:
+  name: ඇඹරූ ලබු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_MELON:
+  name: ඇඹරූ කොමඩු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_MINT:
+  name: ඇඹරූ පුදීනා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_MUSTARD_SEEDS:
+  name: ඇඹරූ අබ ඇට
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_MUTTON:
+  name: ඇඹරූ බැටළු මස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_NETTLES:
+  name: ඇඹරූ කහඹිලියා කොළ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_OKRA:
+  name: ඇඹරූ බණ්ඩක්කා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_ONION:
+  name: ඇඹරූ ලූනු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_ORANGE:
+  name: ඇඹරූ දොඩම්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_OREGANO:
+  name: ඇඹරූ ඔරිගැනෝ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_PARSLEY:
+  name: ඇඹරූ පාස්ලි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_PARSNIP:
+  name: ඇඹරූ පාර්ස්නිප්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_PEA:
+  name: ඇඹරූ බටානා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_PEACH:
+  name: ඇඹරූ පීච්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_PEANUT:
+  name: ඇඹරූ රටකජු ඇටය
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_PEAR:
+  name: ඇඹරූ පෙයර්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_PECAN:
+  name: ඇඹරූ පෙකෑන්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_PEPPER:
+  name: ඇඹරූ ගම්මිරිස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_PEPPERONI:
+  name: ඇඹරූ පෙපරෝනි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_PINEAPPLE:
+  name: ඇඹරූ අන්නාසි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_PINTO_BEANS:
+  name: ඇඹරූ පින්ටෝ බෝංචි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_PORKCHOP:
+  name: ඇඹරූ ඌරු මස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_POTATO:
+  name: ඇඹරූ අල
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_PUFFERFISH:
+  name: ඇඹරූ තිත්තයා මාළු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_PUMPKIN:
+  name: ඇඹරූ වට්ටක්කා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_RABBIT:
+  name: ඇඹරූ හා මස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_RADDISH:
+  name: ඇඹරූ රාබු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_RADICCHIO:
+  name: ඇඹරූ රැඩිකියෝ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_RAPESEED:
+  name: ඇඹරූ රේප් ඇට
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_RED_MUSHROOM:
+  name: ඇඹරූ රතු හතු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_RHUBARB:
+  name: ඇඹරූ රුබාබ්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_RICE:
+  name: ඇඹරූ හාල්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_ROSEMARY:
+  name: ඇඹරූ රෝස්මේරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_ROTTEN_FLESH:
+  name: ඇඹරූ කුණු වූ මස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_RUNNER_BEANS:
+  name: ඇඹරූ වැල් බෝංචි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_RUTABAGA:
+  name: ඇඹරූ රුටබාගා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_SALMON:
+  name: ඇඹරූ සැමන්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_SASSAFRAS:
+  name: ඇඹරූ සැසෆ්‍රාස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_SHALLOT:
+  name: ඇඹරූ රතු ලූනු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_SHISO:
+  name: ඇඹරූ ෂිසෝ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_SOY_BEANS:
+  name: ඇඹරූ සෝයා බෝංචි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_SPINACH:
+  name: ඇඹරූ නිවිති
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_STAR_ANISE:
+  name: ඇඹරූ තක්කෝල
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_STRAWBERRY:
+  name: ඇඹරූ ස්ට්‍රෝබෙරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_SUGAR:
+  name: ඇඹරූ සීනි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_SWEETCORN:
+  name: ඇඹරූ බඩ ඉරිඟු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_SWEET_BERRIES:
+  name: ඇඹරූ පැණි බෙරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_SWEET_POTATO:
+  name: ඇඹරූ බතල
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_TARRAGON:
+  name: ඇඹරූ ටැරගන්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_THYME:
+  name: ඇඹරූ තයිම්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_TOMATO:
+  name: ඇඹරූ තක්කාලි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_TURMERIC:
+  name: ඇඹරූ කහ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_TURNIP:
+  name: ඇඹරූ ටර්නිප්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_VANILLA:
+  name: ඇඹරූ වැනිලා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_WASABI:
+  name: ඇඹරූ වසාබි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_GROUND_WHEAT:
+  name: ඇඹරූ තිරිඟු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_HAZELNUT:
+  name: හේසල්නට්
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - මොනවා හරි කරලා මේක මට
+  - කෝපි එකක් කරලා දෙන්න, දැන්ම!
+CLT_HORSERADISH:
+  name: අශ්ව රාබු
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - මේක කෙලින්ම හපලා කෑවොත් $100.
+CLT_JALAPENO:
+  name: හලපීනෝ මිරිස්
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - සැරයි සැරයි සැරයි.
+CLT_JASMINE:
+  name: පිච්ච
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - අපූරු තේ එකක් හදනවා.
+CLT_JUNIPER_BERRY:
+  name: ජුනිපර් බෙරි
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - ගම්මිරිස් සැරට පරිපූර්ණව වියළුණු.
+CLT_KAFFIR_LIME:
+  name: කුදලු දෙහි කොළ
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - බලවත් පැඟිරි සුවඳක් ඇති කොළයක්.
+CLT_KALE:
+  name: කේල්
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - උදව්, මම 2020 ස්මූති හිප්ස්ටර් කෙනෙක්!
+CLT_KETCHUP:
+  name: කෙචප්
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - ක්‍රීම් ආකාරයෙන් තියෙන තක්කාලි විතරයි.
+CLT_KEY_LIME_PIE:
+  name: කී දෙහි පයි
+  type:
+  - '&7&oආහාර'
+  description:
+  - සරලවම හොඳම!
+  stats:
+  - '&8⇨ &7සුවය: &b6 හදවත්'
+  - '&8⇨ &bඉක්මන්කම IV &7(10:00)'
+CLT_KIWI:
+  name: කිවි
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - මම මේක ඇඩෝන් එකට දැම්මේ බලහත්කාරෙට.
+  - කිවි නපුරුයි, ඒවා පාවිච්චි කරන
+  - ඕනෑම කෙනෙකුට ස්වයංක්‍රීයව ලකුණු
+  - 100 ක් අහිමි වෙනවා.
+CLT_LASAGNA:
+  name: ලසානියා
+  type:
+  - '&7&oආහාර'
+  description:
+  - නියමකමේ ස්ථර.
+  stats:
+  - '&8⇨ &7සුවය: &bසම්පූර්ණ'
+  - '&8⇨ &bපුනර්ජනනය II &7(10:00)'
+  - '&8⇨ &bප්‍රතිරෝධය II &7(10:00)'
+CLT_LAVENDER:
+  name: ලැවෙන්ඩර්
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - මාව හෙමින් නින්දට යවන්න පුළුවන් සුවඳක්.
+CLT_LEAVES_TREE_APRICOT:
+  name: ඇප්‍රිකොට් ගස් කොළ
+  type:
+  - '&7&oකොළ'
+CLT_LEAVES_TREE_BANANA:
+  name: කෙසෙල් කොළ
+  type:
+  - '&7&oකොළ'
+CLT_LEAVES_TREE_CHERRY:
+  name: චෙරි ගස් කොළ
+  type:
+  - '&7&oකොළ'
+CLT_LEAVES_TREE_CHESTNUT:
+  name: චෙස්ට්නට් ගස් කොළ
+  type:
+  - '&7&oකොළ'
+CLT_LEAVES_TREE_GREEN_APPLE:
+  name: කොළ ඇපල් ගස් කොළ
+  type:
+  - '&7&oකොළ'
+CLT_LEAVES_TREE_HAZELNUT:
+  name: හේසල්නට් ගස් කොළ
+  type:
+  - '&7&oකොළ'
+CLT_LEAVES_TREE_KIWI:
+  name: කිවි ගස් කොළ
+  type:
+  - '&7&oකොළ'
+CLT_LEAVES_TREE_LEMON:
+  name: ලෙමන් ගස් කොළ
+  type:
+  - '&7&oකොළ'
+CLT_LEAVES_TREE_LIME:
+  name: දෙහි ගස් කොළ
+  type:
+  - '&7&oකොළ'
+CLT_LEAVES_TREE_MANGO:
+  name: අඹ ගස් කොළ
+  type:
+  - '&7&oකොළ'
+CLT_LEAVES_TREE_ORANGE:
+  name: දොඩම් ගස් කොළ
+  type:
+  - '&7&oකොළ'
+CLT_LEAVES_TREE_PEACH:
+  name: පීච් ගස් කොළ
+  type:
+  - '&7&oකොළ'
+CLT_LEAVES_TREE_PEAR:
+  name: පෙයර් ගස් කොළ
+  type:
+  - '&7&oකොළ'
+CLT_LEAVES_TREE_PECAN:
+  name: පෙකෑන් ගස් කොළ
+  type:
+  - '&7&oකොළ'
+CLT_LEAVES_TREE_PINEAPPLE:
+  name: අන්නාසි ගස් කොළ
+  type:
+  - '&7&oකොළ'
+CLT_LEEK:
+  name: ලීක්ස්
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - කිසියම් හේතුවකට වතුර වෑස්සෙනවා?
+  - සමහරවිට ලීක්ස් එකක් ලීක් වෙලාද?
+CLT_LEMON:
+  name: ලෙමන්
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - ඇයි ඔය ඇඹුල් මූණ?
+CLT_LEMON_DROP:
+  name: ලෙමන් රසකැවිලි
+  type:
+  - '&7&oආහාර'
+  description:
+  - කට පිරිසිදු කරන්නෙක්.
+  stats:
+  - '&8⇨ &7සියලු බලපෑම් ඉවත් කර ඔබට නැවත බඩගිනි කරයි.'
+CLT_LETTUCE:
+  name: සලාද කොළ
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - තුනී, වතුර ගතියි, ඒත් රසයි.
+CLT_LICORICE:
+  name: වැල්මී
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - දුවන්න, දැන්ම පැනලා යන්න!
+CLT_LIME:
+  name: දෙහි
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - එකමත් එක දෙහි-කාලෙක රසවත් පලතුරක් තිබුණා...
+CLT_MACE:
+  name: වසාවාසි
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - ප්‍රහාරකයන්ගේ මූණට ඉසින්න පාවිච්චි කරනවා.
+  - '...'
+  - ඒක හරි වර්ගයේ "මේස්" එක නෙවෙයි කියන්නේ මොකක්ද?
+CLT_MANGO:
+  name: අඹ
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - අඹෝ, මට දැන්ම යන්න ඕනේ.
+  - විස්තර ලියන එක අමාරුයි...
+CLT_MARJORAM:
+  name: මාජෝරම්
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - මම ටිකක් කරි-හදිස්සියක ඉන්නේ, පස්සේ කතා කරමුද?
+CLT_MARROW:
+  name: ලබු
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - ලබු වලට ඉංග්‍රීසියෙන් "මැරෝ" කියනවා,
+  - ඒ කියන්නේ ඔබේ ඇට ඇතුළේත් ලබු තියෙනවා නේද?
+  - ඔව්, සෙෆි ස්මෝට්.
+CLT_MASHED_APPLE:
+  name: පොඩි කළ ඇපල්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_APRICOT:
+  name: පොඩි කළ ඇප්‍රිකොට්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_ARTICHOKE:
+  name: පොඩි කළ ආටිචෝක්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_ASPARAGUS:
+  name: පොඩි කළ ඇස්පැරගස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_AUBERGINE:
+  name: පොඩි කළ වම්බටු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_AVOCADO:
+  name: පොඩි කළ අලිගැට පේර
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_BANANA:
+  name: පොඩි කළ කෙසෙල්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_BASIL:
+  name: පොඩි කළ තුලසි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_BAY_LEAF:
+  name: පොඩි කළ බේ කොළ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_BEEF:
+  name: පොඩි කළ හරක් මස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_BEETROOT:
+  name: පොඩි කළ බීට්රූට්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_BELL_PEPPER:
+  name: පොඩි කළ මාළු මිරිස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_BLACK_BEANS:
+  name: පොඩි කළ කළු බෝංචි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_BREAD:
+  name: පොඩි කළ පාන්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_BROCCOLI:
+  name: පොඩි කළ බ්‍රොකොලි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_BROWN_MUSHROOM:
+  name: පොඩි කළ දුඹුරු හතු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_BRUSSELS_SPROUTS:
+  name: පොඩි කළ බ්‍රසල්ස් ගෝවා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_CABBAGE:
+  name: පොඩි කළ ගෝවා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_CARROT:
+  name: පොඩි කළ කැරට්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_CAULIFLOWER:
+  name: පොඩි කළ මල් ගෝවා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_CAYENNE_PEPPER:
+  name: පොඩි කළ කයින් මිරිස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_CELERIAC:
+  name: පොඩි කළ සෙලරියැක්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_CELERY:
+  name: පොඩි කළ සැල්දිරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_CHERRY:
+  name: පොඩි කළ චෙරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_CHESTNUT:
+  name: පොඩි කළ චෙස්ට්නට්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_CHICKEN:
+  name: පොඩි කළ කුකුළු මස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_CHICKPEAS:
+  name: පොඩි කළ කඩල
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_CHICORY:
+  name: පොඩි කළ චිකරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_CHILLY_PEPPER:
+  name: පොඩි කළ මිරිස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_CHIVES:
+  name: පොඩි කළ චයිව් කොළ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_CHORUS_FRUIT:
+  name: පොඩි කළ කෝරස් පලතුර
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_CILANTRO:
+  name: පොඩි කළ කොත්තමල්ලි කොළ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_CINNAMON:
+  name: පොඩි කළ කුරුඳු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_CLOVE:
+  name: පොඩි කළ කරාබුනැටි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_COCOA_BEANS:
+  name: පොඩි කළ කොකෝවා ඇට
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_COD:
+  name: පොඩි කළ කෝඩ් මාළු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_COURGETTE:
+  name: පොඩි කළ සුකිනි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_CUCUMBER:
+  name: පොඩි කළ පිපිඤ්ඤා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_CUMIN:
+  name: පොඩි කළ සූදුරු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_CURRY_LEAF:
+  name: පොඩි කළ කරපිංචා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_DILL:
+  name: පොඩි කළ සතකුප්ප
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_EGG:
+  name: පොඩි කළ බිත්තර
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_ENCHANTED_GOLDEN_APPLE:
+  name: පොඩි කළ මායා රන් ඇපල්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_FENNEL:
+  name: පොඩි කළ මහදුරු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_GARLIC:
+  name: පොඩි කළ සුදුලූනු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_GINGER:
+  name: පොඩි කළ ඉඟුරු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_GLOW_BERRIES:
+  name: පොඩි කළ දිලිසෙන බෙරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_GOLDEN_APPLE:
+  name: පොඩි කළ රන් ඇපල්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_GOLDEN_CARROT:
+  name: පොඩි කළ රන් කැරට්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_GRAPE:
+  name: පොඩි කළ මිදි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_GREEN_APPLE:
+  name: පොඩි කළ කොළ ඇපල්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_GREEN_BEANS:
+  name: පොඩි කළ බෝංචි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_GREEN_ONION:
+  name: පොඩි කළ කොළ ලූනු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_HAZELNUT:
+  name: පොඩි කළ හේසල්නට්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_HORSERADISH:
+  name: පොඩි කළ අශ්ව රාබු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_JALAPENO:
+  name: පොඩි කළ හලපීනෝ මිරිස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_JASMINE:
+  name: පොඩි කළ පිච්ච
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_JUNIPER_BERRY:
+  name: පොඩි කළ ජුනිපර් බෙරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_KAFFIR_LIME:
+  name: පොඩි කළ කුදලු දෙහි කොළ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_KALE:
+  name: පොඩි කළ කේල්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_KELP:
+  name: පොඩි කළ කෙල්ප් පැළෑටි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_KIWI:
+  name: පොඩි කළ කිවි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_LAVENDER:
+  name: පොඩි කළ ලැවෙන්ඩර්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_LEEK:
+  name: පොඩි කළ ලීක්ස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_LEMON:
+  name: පොඩි කළ ලෙමන්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_LETTUCE:
+  name: පොඩි කළ සලාද කොළ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_LICORICE:
+  name: පොඩි කළ වැල්මී
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_LIME:
+  name: පොඩි කළ දෙහි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_MACE:
+  name: පොඩි කළ වසාවාසි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_MANGO:
+  name: පොඩි කළ අඹ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_MARJORAM:
+  name: පොඩි කළ මාජෝරම්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_MARROW:
+  name: පොඩි කළ ලබු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_MELON:
+  name: පොඩි කළ කොමඩු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_MINT:
+  name: පොඩි කළ පුදීනා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_MUSTARD_SEEDS:
+  name: පොඩි කළ අබ ඇට
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_MUTTON:
+  name: පොඩි කළ බැටළු මස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_NETTLES:
+  name: පොඩි කළ කහඹිලියා කොළ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_OKRA:
+  name: පොඩි කළ බණ්ඩක්කා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_ONION:
+  name: පොඩි කළ ලූනු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_ORANGE:
+  name: පොඩි කළ දොඩම්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_OREGANO:
+  name: පොඩි කළ ඔරිගැනෝ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_PARSLEY:
+  name: පොඩි කළ පාස්ලි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_PARSNIP:
+  name: පොඩි කළ පාර්ස්නිප්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_PEA:
+  name: පොඩි කළ බටානා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_PEACH:
+  name: පොඩි කළ පීච්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_PEANUT:
+  name: පොඩි කළ රටකජු ඇටය
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_PEAR:
+  name: පොඩි කළ පෙයර්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_PECAN:
+  name: පොඩි කළ පෙකෑන්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_PEPPER:
+  name: පොඩි කළ ගම්මිරිස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_PEPPERONI:
+  name: පොඩි කළ පෙපරෝනි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_PINEAPPLE:
+  name: පොඩි කළ අන්නාසි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_PINTO_BEANS:
+  name: පොඩි කළ පින්ටෝ බෝංචි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_PORKCHOP:
+  name: පොඩි කළ ඌරු මස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_POTATO:
+  name: පොඩි කළ අල
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_PUFFERFISH:
+  name: පොඩි කළ තිත්තයා මාළු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_PUMPKIN:
+  name: පොඩි කළ වට්ටක්කා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_RABBIT:
+  name: පොඩි කළ හා මස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_RADDISH:
+  name: පොඩි කළ රාබු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_RADICCHIO:
+  name: පොඩි කළ රැඩිකියෝ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_RAPESEED:
+  name: පොඩි කළ රේප් ඇට
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_RED_MUSHROOM:
+  name: පොඩි කළ රතු හතු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_RHUBARB:
+  name: පොඩි කළ රුබාබ්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_RICE:
+  name: පොඩි කළ හාල්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_ROSEMARY:
+  name: පොඩි කළ රෝස්මේරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_ROTTEN_FLESH:
+  name: පොඩි කළ කුණු වූ මස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_RUNNER_BEANS:
+  name: පොඩි කළ වැල් බෝංචි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_RUTABAGA:
+  name: පොඩි කළ රුටබාගා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_SALMON:
+  name: පොඩි කළ සැමන්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_SASSAFRAS:
+  name: පොඩි කළ සැසෆ්‍රාස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_SHALLOT:
+  name: පොඩි කළ රතු ලූනු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_SHISO:
+  name: පොඩි කළ ෂිසෝ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_SOY_BEANS:
+  name: පොඩි කළ සෝයා බෝංචි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_SPINACH:
+  name: පොඩි කළ නිවිති
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_STAR_ANISE:
+  name: පොඩි කළ තක්කෝල
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_STRAWBERRY:
+  name: පොඩි කළ ස්ට්‍රෝබෙරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_SUGAR:
+  name: පොඩි කළ සීනි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_SWEETCORN:
+  name: පොඩි කළ බඩ ඉරිඟු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_SWEET_BERRIES:
+  name: පොඩි කළ පැණි බෙරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_SWEET_POTATO:
+  name: පොඩි කළ බතල
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_TARRAGON:
+  name: පොඩි කළ ටැරගන්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_THYME:
+  name: පොඩි කළ තයිම්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_TOMATO:
+  name: පොඩි කළ තක්කාලි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_TURMERIC:
+  name: පොඩි කළ කහ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_TURNIP:
+  name: පොඩි කළ ටර්නිප්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_VANILLA:
+  name: පොඩි කළ වැනිලා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_WASABI:
+  name: පොඩි කළ වසාබි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MASHED_WHEAT:
+  name: පොඩි කළ තිරිඟු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_MAYONNAISE:
+  name: මයොනීස්
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - ඕනෑම දෙයක් එක්ක යන සිනිඳු මයොනීස්.
+CLT_MEATBALLS:
+  name: මස් බෝල
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - මස් වලින් හදපු බෝල, කවුද හිතුවේ.
+CLT_MEATLOAF:
+  name: මස් පාන් රොටිය
+  type:
+  - '&7&oආහාර'
+  description:
+  - ඒ වගේ තවත් එකක් නෑ! යමු.
+  stats:
+  - '&8⇨ &7සුවය: &bසම්පූර්ණ'
+  - '&8⇨ &bසෞඛ්‍ය වර්ධනය IV &7(10:00)'
+  - '&8⇨ &bප්‍රතිරෝධය III &7(10:00)'
+  - '&8⇨ &bඉක්මන්කම II &7(10:00)'
+  - '&8⇨ &bමන්දගාමීත්වය II &7(10:00)'
+CLT_MINT:
+  name: පුදීනා
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - හපන් හපන් හපන්.
+CLT_MUSTARD:
+  name: අබ
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - පොඩි සැර පහරක් තියෙනවා!
+CLT_MUSTARD_SEEDS:
+  name: අබ බීජ
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - හපලා බලන්න, මම අභියෝග කරනවා!
+CLT_NETTLES:
+  name: කහඹිලියා කොළ
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - මේවා අල්ලන්න කලින් අත්වැසුම් දාගන්න.
+CLT_OKRA:
+  name: බණ්ඩක්කා
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - ඔක්රා-හෝමා වල ගොඩක් වවනවා... හරි, හරි නේද?
+CLT_ONION:
+  name: ලූනු
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - ඉන්න, ඔයා ඇයි අඬන්නේ?
+CLT_ORANGE:
+  name: දොඩම්
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - මේක ඔරලෝසු යන්ත්‍රයක් වෙන්න ඕනේ නේද?
+CLT_ORANGE_JUICE:
+  name: දොඩම් යුෂ
+  type:
+  - '&7&oආහාර'
+  description:
+  - දවස පටන් ගන්න හොඳම ක්‍රමය ඇත්තටම මේකයි.
+  stats:
+  - '&8⇨ &bවේගය IV &7(10:00)'
+CLT_OREGANO:
+  name: ඔරිගැනෝ
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - කුස්සියේ අල්මාරියේ නිතරම තියෙන ඖෂධ පැළෑටියක්.
+CLT_PARSLEY:
+  name: පාස්ලි
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - නරකම. ඖෂධ. පැළෑටිය.
+CLT_PARSNIP:
+  name: පාර්ස්නිප්
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - වහාම රෝස්ට් කළ යුතුයි.
+CLT_PASTA:
+  name: පැස්ටා
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - සාමාන්‍ය පැස්ටා, සරල නමුත් අපූරුයි.
+CLT_PEA:
+  name: බටානා
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - කරලක් ඇතුළේ බොහෝවිට ජෝඩු වශයෙන් හමුවෙනවා, එහෙම තමයි මට ඇහුණේ.
+CLT_PEACH:
+  name: පීච්
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - අපි ඉමෝජි එක ගැන කතා කරන්නේ නෑ
+CLT_PEANUT:
+  name: රටකජු ඇටය
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - රීසස්, මෙන්න මම එනවා!
+CLT_PEANUT_BUTTER:
+  name: රටකජු බටර්
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - දියර රත්තරන් වලට විතරයි සමාන.
+CLT_PEANUT_BUTTER_JELLY_SANDWICH:
+  name: රටකජු බටර් ජෙලි සැන්ඩ්විච්
+  type:
+  - '&7&oආහාර'
+  description:
+  - මේක ඇත්තටම සැන්ඩ්විච් තාක්ෂණයේ උච්චතම අවස්ථාව.
+  stats:
+  - '&8⇨ &7සුවය: &b5 හදවත්'
+  - '&8⇨ &bශක්තිය III &7(10:00)'
+CLT_PEAR:
+  name: පෙයර්
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - මේක පෙයර්-පූර්ණයි කියලා ඔබ කියන්නේ නැද්ද?
+CLT_PECAN:
+  name: පෙකෑන්
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - පයි එකක් කරන්න කියලා බැගෑපත් වෙනවා.
+CLT_PECAN_PIE:
+  name: පෙකෑන් පයි
+  type:
+  - '&7&oආහාර'
+  description:
+  - කවුරුත් විනිශ්චය නොකර පිරිසිදු සීනි
+  - කන්න තියෙන එකම ක්‍රමය.
+  stats:
+  - '&8⇨ &7සුවය: &b4 හදවත්'
+  - '&8⇨ &bපාවීම I &7(10:00)'
+CLT_PEPPER:
+  name: ගම්මිරිස්
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - ලුණුවලට වඩා සැරයි.
+CLT_PEPPERONI:
+  name: පෙපරෝනි
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - මට මේකේ මුළු කඳක්ම ලේසියෙන් කන්න පුළුවන්.
+CLT_PICO_DE_GALLO:
+  name: පිකෝ ද ගායෝ
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - පිරිසිදු රසයෙන් පිරුණු මෘදු සල්සාවක්.
+CLT_PIE_CRUST:
+  name: පයි කබොල
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - මේක තනියම කන එක නීත්‍යානුකූල නම්
+  - මේක තමයි මගේ ප්‍රධාන ආහාරය වෙන්නේ.
+CLT_PINEAPPLE:
+  name: අන්නාසි
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - මේක ලෝකේ තියෙන හැම පීසා එකකම තිබිය යුතුයි.
+  - ඒ ගැන රණ්ඩු කරන්න ඕනෙද!?
+CLT_PINTO_BEANS:
+  name: පින්ටෝ බෝංචි
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - කචිං! බුරිටෝ වෙලාව.
+CLT_PIZZA_CHEESE:
+  name: චීස් පීසා
+  type:
+  - '&7&oආහාර'
+  description:
+  - කවුරුහරි චීස් විතරක් ඕඩර් කරන්නේ ඇයි? මම දන්නේ නෑ.
+  stats:
+  - '&8⇨ &7සුවය: &b4 හදවත්'
+  - '&8⇨ &bමන්දගාමීත්වය I &7(10:00)'
+CLT_PIZZA_MUSHROOM:
+  name: හතු පීසා
+  type:
+  - '&7&oආහාර'
+  description:
+  - ප්‍රෝටීන වලින් පිරුණු සරල නිර්මාංශ පීසා එකක්.
+  stats:
+  - '&8⇨ &7සුවය: &b6 හදවත්'
+  - '&8⇨ &bමන්දගාමීත්වය I &7(10:00)'
+  - '&8⇨ &bඉක්මන්කම II &7(10:00)'
+CLT_PIZZA_PEPPERONI:
+  name: පෙපරෝනි පීසා
+  type:
+  - '&7&oආහාර'
+  description:
+  - රසයෙන් පිරුණු නිව් යෝර්ක් සම්භාව්‍යයක්.
+  stats:
+  - '&8⇨ &7සුවය: &b6 හදවත්'
+  - '&8⇨ &bවේගය I &7(10:00)'
+  - '&8⇨ &bඉක්මන්කම I &7(10:00)'
+  - '&8⇨ &bපැනීමේ වර්ධනය I &7(10:00)'
+CLT_PLANT_AIR:
+  name: ප්‍රාථමික වායු ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - අවට ස්වභාවධර්මයේ තනුවට
+  - නිහඬව හූම් කරන ශාකයක්.
+  - '&eප්‍රාථමික ශාක අයිතම නිපදවන්නේ නැත,'
+  - '&eඒවා අභිජනනය සඳහා පමණි.'
+CLT_PLANT_AMETHYST:
+  name: ජමුනා ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - මේ ශාකය ගැඹුරු, අඳුරු ස්ථානවල
+  - සශ්‍රීකව වැඩෙන්න කැමතියි.
+CLT_PLANT_ANALYSER:
+  name: ශාක විශ්ලේෂකය
+  type:
+  - '&7&oමෙවලම'
+  description:
+  - වැඩෙන ශාකයක විස්තර බලන්න
+  - ඉඩ දෙන ඉතා සරල මෙවලමක්
+  usage:
+  - '&eදකුණු ක්ලික්&7: ශාකයක විශේෂය සහ වර්ධන විස්තර දැනගන්න.'
+  - '&eෂිෆ්ට් දකුණු ක්ලික්&7: ශාකයක හෝ පඳුරක නම පෙන්වයි.'
+CLT_PLANT_BASALT:
+  name: බැසෝල්ට් ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - ඉතා කම්මැලි, නීරස ශාකයක්.
+CLT_PLANT_BEE:
+  name: මී මැසි ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - ඉතා කුඩා, සියුම් පියාපත් කට්ටලයක් ඇති ශාකයක්.
+CLT_PLANT_BLACKSTONE:
+  name: කළු ගල් ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - ආලෝකය උරා ගන්නා බවට ප්‍රසිද්ධ ශාකයක්.
+CLT_PLANT_BLAZE:
+  name: බ්ලේස් ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - දාර වටේ පිළිස්සුණු ශාකයක්.
+CLT_PLANT_CHICKEN:
+  name: කුකුළු ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - කටකතාවකට අනුව මේ බීජය ඔළුවට
+  - උඩින් අල්ලාගෙන උස තැනක සිට
+  - පැන්නොත්, ඔබ වැටෙනවා වෙනුවට
+  - පාවී යනවා.
+CLT_PLANT_CLAY:
+  name: මැටි ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - මේ ශාකය නිදහසේ හැඩගස්වා නැවත හැඩගැන්විය හැක.
+  - ඒ වුණත් එහෙම කරන එක හොඳ අදහසක්
+  - කියලා නෙවෙයි!
+CLT_PLANT_COAL:
+  name: ගල් අඟුරු ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - එතරම් විභවයක් රඳවා ගත් ශාකයක්.
+CLT_PLANT_COBBLESTONE:
+  name: කැට ගල් ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - මේ ශාකය ගලක් වගේ තදයි.
+CLT_PLANT_CONCRETE:
+  name: කොන්ක්‍රීට් ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - මේ ශාකය ඉතා ඉක්මනින් තද වෙන නිසා
+  - වැඩෙන්න අමාරුවෙන් සටන් කරනවා.
+CLT_PLANT_COW:
+  name: එළදෙන ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - මේ බීජය කනට ළං කරගෙන හොඳට
+  - ඇහුම්කන් දුන්නොත්, ඉඳහිට
+  - එළදෙනෙක් "ම්බා" කියනවා ඇහෙයි.
+CLT_PLANT_CREEPER:
+  name: ක්‍රීපර් ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - ට්ස්ස්ස්ස්ස්ස්ස්ස්ස්ට්ට්...
+CLT_PLANT_DARKNESS:
+  name: ප්‍රාථමික අඳුරු ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - පාලනයකින් තොර කෝපයෙන්
+  - දැවෙන ශාකයක්.
+  - '&eප්‍රාථමික ශාක අයිතම නිපදවන්නේ නැත,'
+  - '&eඒවා අභිජනනය සඳහා පමණි.'
+CLT_PLANT_DARK_FLORA:
+  name: අඳුරු පැළෑටි ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - මේ සරල බීජය ඇතුළේ නිහඬ නපුරක් සැඟවී ඇත.
+CLT_PLANT_DARK_GRASS:
+  name: අඳුරු තණකොළ ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - තමන්ගේ අනන්‍යතාවය ඇත්තටම
+  - නැති කරගත් ශාකයක්.
+CLT_PLANT_DEEPSLATE:
+  name: ගැඹුරු තහඩු ගල් ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - ගැඹුරු, තහඩු ගල් වගේ, <විස්තරය මෙතන දාන්න>.
+CLT_PLANT_DIAMOND:
+  name: දියමන්ති ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - ධනය ගැනම කතා කරන ශාකයක්.
+CLT_PLANT_DIM_LIT:
+  name: මඳ ආලෝකමත් ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - මේ බීජය ඇතුළෙන් ඉතා මඳ ආලෝකයක් විහිදෙනවා.
+CLT_PLANT_DIRT:
+  name: පස් ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - මතුපිටින් අපිරිසිදුයි, ඒත් ජීවයේම
+  - ගොඩනැගිලි කුට්ටි රඳවාගෙන ඉන්නවා.
+CLT_PLANT_DROWNED:
+  name: දියේ ගිලුණු ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - හැම වෙලාවෙම තෙත් වෙලා
+  - වතුර වෑස්සෙන ශාකයක්.
+CLT_PLANT_DUSTY:
+  name: දූවිලි සහිත ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - මේ ශාකයට විශේෂ සැලකිල්ලක් ඕනේ, පොඩි
+  - තද සුළඟක් වුණත් එය කඩාගෙන වැටෙන්න
+  - ප්‍රමාණවත්.
+CLT_PLANT_EARTH:
+  name: ප්‍රාථමික පෘථිවි ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - තමන් වටා ඇති ලෝකය
+  - පොහොසත් කරන ශාකයක්.
+  - '&eප්‍රාථමික ශාක අයිතම නිපදවන්නේ නැත,'
+  - '&eඒවා අභිජනනය සඳහා පමණි.'
+CLT_PLANT_ECHO:
+  name: දෝංකාර ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - මේ ශාකය හැමවිටම ගෙදර යන
+  - පාර හොයාගන්න දන්නවා.
+CLT_PLANT_ELDER_GUARDIAN:
+  name: එල්ඩර් ගාඩියන් ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - මේ ශාකය ළඟ ඉන්නකොට මිනිස්සු
+  - කම්මැලි වෙනවා.
+CLT_PLANT_EMERALD:
+  name: මරකත ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - මේ ශාකයේ අයිතිකරුවන්ට එය මිලදී ගන්න
+  - විතරක් ගොඩක් දුක් විඳින්න වෙනවා.
+CLT_PLANT_ENDERMAN:
+  name: එන්ඩර්මන් ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - පරිස්සමින් නොසැලකුවොත්, මේ ශාකය
+  - අහඹු ලෙස ටෙලිපෝට් වෙන්න පුළුවන්!
+CLT_PLANT_ENDER_DRAGON:
+  name: එන්ඩර් මකර ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - ඇත්තම ලොක්කෙක් වගේ ශාකයක්.
+CLT_PLANT_END_STONE:
+  name: එන්ඩ් ගල් ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - ශූන්‍යතාවය සමඟ හූම් කරන ශාකයක්.
+CLT_PLANT_FIRE:
+  name: ප්‍රාථමික ගිනි ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - විනාශයේ මූලාශ්‍ර මෙන්ම
+  - නැවත ඉපදීමේ මූලාශ්‍රද
+  - සපයන ශාකයක්.
+  - '&eප්‍රාථමික ශාක අයිතම නිපදවන්නේ නැත,'
+  - '&eඒවා අභිජනනය සඳහා පමණි.'
+CLT_PLANT_FISH:
+  name: මාළු ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - මේ බීජයෙන් ඉදුණු සුවඳක් නිකුත් වෙනවා.
+CLT_PLANT_FLOWER:
+  name: මල් පිපෙන ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - ලස්සනට ඉදිරිපත් කළ අලංකාර සශ්‍රීක කූඩයක්.
+CLT_PLANT_FROG:
+  name: ගෙම්බා ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - බක බක!
+CLT_PLANT_GHAST:
+  name: ගාස්ට් ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - අහඹු ලෙස ගිනි බෝල විදින බවට
+  - ප්‍රසිද්ධ ශාකයක්.
+CLT_PLANT_GLASS:
+  name: වීදුරු ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - හරි කෝණයෙන් බැලුවොත්, මේ ශාකය හරහා
+  - පේනවා කියලා දිවුරන්න පුළුවන්.
+CLT_PLANT_GLAZED:
+  name: ඔප දැමූ ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - සංකීර්ණ මෝස්තරයකින් වැඩෙන ශාකයක්.
+CLT_PLANT_GLOWING_VINE:
+  name: දිලිසෙන වැල් ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - මේ බීජය ඇතුළෙන් මඳ ආලෝකයක් විහිදෙනවා.
+CLT_PLANT_GLOW_SQUID:
+  name: දිලිසෙන දැල්ලා ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - මඳ දීප්තියක් ඇති, දිලිසෙන ශාකයක්.
+CLT_PLANT_GOAT:
+  name: එළු ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - පනින්න ආසා කරන, අහඹු ලෙස
+  - ප්‍රචණ්ඩ වෙන ශාකයක්.
+CLT_PLANT_GRASS:
+  name: තණකොළ ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - පොළොවෙන් ඉස්සරහට පැන එන
+  - වර්ධනය වන ජීවය.
+CLT_PLANT_GRAVEL:
+  name: බොරළු ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - මේ ශාකය තමන්ව එකට තියාගන්නේ
+  - කොහොමද කියලා ඇත්තටම දන්නේ නෑ.
+CLT_PLANT_GUARDIAN:
+  name: ගාඩියන් ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - ස්පර්ශ කළ විට, මේ ශාකය
+  - කටු නිකුත් කරයි.
+CLT_PLANT_IGNEOUS:
+  name: ආග්නේය ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - මේ ශාකය හැදුණේ තාපය සහ පීඩනය නිසා.
+  - මා දිහා එහෙම බලන්න එපා! මේ ශාක
+  - විස්තර ඔක්කොම සම්පූර්ණයෙන්ම තේරුම් යනවා.
+CLT_PLANT_LAPIS:
+  name: ලැපිස් ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - මඳ මායාකාරී ප්‍රභාවක් ඇති ශාකයක්.
+CLT_PLANT_LIGHT:
+  name: ප්‍රාථමික ආලෝක ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - පිරිසිදු ආදරයේ ප්‍රභාවක්
+  - විහිදුවන ශාකයක්.
+  - '&eප්‍රාථමික ශාක අයිතම නිපදවන්නේ නැත,'
+  - '&eඒවා අභිජනනය සඳහා පමණි.'
+CLT_PLANT_MAGMA:
+  name: මැග්මා ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - තමන් වටා ඇති දේ පුළුස්සන තරමට
+  - උණුසුම් ශාකයක්.
+CLT_PLANT_MAGMA_CUBE:
+  name: මැග්මා ඝනක ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - කවුරුත් බලාගෙන නැති වෙලාවට, මේ ශාකය
+  - උඩ පහළ පනින්න කැමතියි.
+CLT_PLANT_MOSS:
+  name: පාසි ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - මේ ශාකය පාලනයකින් තොරව පැතිරෙනවා.
+CLT_PLANT_MUD:
+  name: මඩ ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - තමන් එන පොළොව තරමටම
+  - අපිරිසිදු ශාකයක්.
+CLT_PLANT_MUSHROOM:
+  name: හතු ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - ඔව්, හතු හදන ශාකයක්.
+  - මෙහේ හැමදේම සම්පූර්ණයෙන්ම සාමාන්‍යයි.
+CLT_PLANT_NETHERRACK:
+  name: නෙදර් ගල් ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - බොහෝ ස්ථානවල ජීවත් විය හැකි
+  - දැඩි, ශක්තිමත් ශාකයක්.
+CLT_PLANT_NETHER_QUARTZ:
+  name: නෙදර් ක්වාට්ස් ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - මේ ශාකයේ කටු කොච්චර තියුණුද කියනවා නම්
+  - ඒක එක්ක වැඩ කරන්න අමාරුයි.
+CLT_PLANT_PHANTOM:
+  name: ෆැන්ටම් ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - උසට වැඩුණු කොළ ඇති ශාකයක්.
+CLT_PLANT_PIG:
+  name: ඌරු ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - අහඹු ලෙස ඕංක් ගාන ශාකයක්.
+CLT_PLANT_POWER:
+  name: ප්‍රාථමික බල ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - බලය සැබවින්ම විහිදුවන ශාකයක්.
+  - '&eප්‍රාථමික ශාක අයිතම නිපදවන්නේ නැත,'
+  - '&eඒවා අභිජනනය සඳහා පමණි.'
+CLT_PLANT_PURPUR:
+  name: පර්පර් ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - අමුතු ශාකයක්, බොහෝ ඒවාට වඩා
+  - ගොඩක් සැහැල්ලුයි වගේ.
+CLT_PLANT_RABBIT:
+  name: හාවා ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - කෘමීන් ආඩම්බර වෙයි.
+CLT_PLANT_RAINBOW:
+  name: දේදුනු ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - මේ ශාකයේ කෙළවරේ රත්තරන් භාජනයක්
+  - තියෙන්නත් පුළුවන්, නැති වෙන්නත් පුළුවන්.
+CLT_PLANT_RAW_COPPER:
+  name: අමු තඹ ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - තනියම තිබ්බොත්, මේ ශාකය සමහර
+  - වෙලාවට අකුණු ආකර්ෂණය කරනවා.
+CLT_PLANT_RAW_GOLD:
+  name: අමු රන් ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - පිග්ලින්ලා ළඟ ඉන්නවා නම් මේ ශාකය
+  - නිතරම හොරකම් කරනවා.
+CLT_PLANT_RAW_IRON:
+  name: අමු යකඩ ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - බොහෝ පරිසරවලට ඔරොත්තු දිය හැකි
+  - ශක්තිමත් ශාකයක්.
+CLT_PLANT_REDSTONE:
+  name: රෙඩ්ස්ටෝන් ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - මුළුමනින්ම බලයෙන් පිරී ඉතිරෙන ශාකයක්.
+CLT_PLANT_RED_SAND:
+  name: රතු වැලි ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - මේ ශාකය සමහර වෙලාවට එක ස්පර්ශයකින්
+  - කඩාගෙන වැටෙනවා, ඒත්... වඩා රතුයි.
+CLT_PLANT_REINFORCED:
+  name: ශක්තිමත් කළ ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - ඕනෑම දෙයක් මැද්දේ තමන්ව කෙලින්
+  - තියාගන්න පුළුවන් ශාකයක්.
+CLT_PLANT_SAND:
+  name: වැලි ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - මේ ශාකය සමහර වෙලාවට එක ස්පර්ශයකින්
+  - කඩාගෙන වැටෙනවා.
+CLT_PLANT_SAPLING:
+  name: ගස් පැළ ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - මේ ශාකයේ කිසිම තේරුමක් නෑ...
+CLT_PLANT_SCRAPPY:
+  name: සුන්බුන් ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - මේ ශාකය ඇත්තටම උද්‍යාන විද්‍යාවේ
+  - උච්චතම අවස්ථාව.
+CLT_PLANT_SHEEP:
+  name: බැටළු ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - රළු ලොම් වයනයක් ඇති ශාකයක්.
+CLT_PLANT_SHULKER:
+  name: ෂල්කර් ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - නිතරම පොළොවෙන් ඉහළට
+  - පාවී යන ශාකයක්.
+CLT_PLANT_SKELETON:
+  name: ඇටසැකිලි ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - පැද්දෙනකොට කටකට ගාන ශාකයක්.
+CLT_PLANT_SLIME:
+  name: ස්ලයිම් ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - ඇයි මේක මෙච්චර ඇලෙන්නේ?
+CLT_PLANT_SOUL:
+  name: ආත්ම ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - නිශ්ශබ්ද වෙලාවට කෑගහනවා
+  - ඇහෙන ශාකයක්.
+CLT_PLANT_SPECTRUM:
+  name: ප්‍රාථමික වර්ණාවලි ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - තමන්ගේ වර්ණය මඳක් වෙනස් කරන ශාකයක්.
+  - '&eප්‍රාථමික ශාක අයිතම නිපදවන්නේ නැත,'
+  - '&eඒවා අභිජනනය සඳහා පමණි.'
+CLT_PLANT_SPIDER:
+  name: මකුළු ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - මරන්න, දැන්ම මරන්න!
+CLT_PLANT_SQUID:
+  name: දැල්ලා ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - පරිස්සමින්, මේ ශාකය ඇල්ලුවත් විතරක්
+  - හැම තැනම තීන්ත පුපුරා යන්න
+  - ඉඩක් තියෙනවා.
+CLT_PLANT_STAINED:
+  name: වර්ණ ගැන්වූ ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - මේ ශාකය ආලෝකය වර්ණාවලියකට බෙදා
+  - අවට වස්තූන් වෙත විහිදුවයි.
+CLT_PLANT_TERRA:
+  name: ටෙරා ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - පීඩනය යටතේ පැලෙන තද පස් ගතියැති ශාකයක්.
+CLT_PLANT_TURTLE:
+  name: කැස්බෑ ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - ගලක් වගේ තද කවචයකින් වට වූ බීජයක්.
+CLT_PLANT_VILLAGER:
+  name: ගැමි ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - ඔව්, අපි ගැමියෙකුගේ සාරය ශාකයකට
+  - ඝනීභවනය කළා. පේන විදිහට ඒක ගොඩක් රිදුණා.
+CLT_PLANT_VINE:
+  name: වැල් ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - ක්ෂණිකව තමන්වම පැටලී
+  - යන ශාකයක්.
+CLT_PLANT_WATER:
+  name: ප්‍රාථමික ජල ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - අවට ප්‍රදේශය පෝෂණය කර
+  - ජීවය සපයන ශාකයක්.
+  - '&eප්‍රාථමික ශාක අයිතම නිපදවන්නේ නැත,'
+  - '&eඒවා අභිජනනය සඳහා පමණි.'
+CLT_PLANT_WAXY:
+  name: ඉටි සහිත ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - මේ ශාකයේ යුෂ හරියටම ඉටිපන්දම්
+  - හැඩැති ඉටි බවට පත් වෙනවා.
+CLT_PLANT_WEALTH:
+  name: ප්‍රාථමික ධන ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - අතිමහත් ධනය ගැනම කෑගහන ශාකයක්.
+  - '&eප්‍රාථමික ශාක අයිතම නිපදවන්නේ නැත,'
+  - '&eඒවා අභිජනනය සඳහා පමණි.'
+CLT_PLANT_WITCH:
+  name: මායාකාරී ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - හෙමින් මන්තර මුමුණනවා වගේ
+  - ඇහෙන ශාකයක්.
+CLT_PLANT_WITHER:
+  name: විදර් ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - සැලකිල්ලෙන් හැසිරවිය යුතු
+  - මාරාන්තික ශාකයක්.
+CLT_PLANT_WITHER_ROSE:
+  name: විදර් රෝස ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - මේ ශාකය, කොහොම හරි, තමන් වටා
+  - හානිකර ප්‍රභාවක් ස්පන්දනය කරනවා.
+CLT_PLANT_WITHER_SKELETON:
+  name: විදර් ඇටසැකිලි ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - අල්ලගන්න අමාරු සහ ශක්තිමත් බවට ප්‍රසිද්ධ ශාකයක්.
+CLT_PLANT_WOOLLY:
+  name: ලොම් සහිත ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - මුලේ සිට පෙති දක්වාම ලොම් සහිත ශාකයක්!
+CLT_PLANT_ZOMBIE:
+  name: සොම්බි ශාකය
+  type:
+  - '&7&oශාකය'
+  description:
+  - මේ ශාකයෙන් වෑස්සෙනවා... මොකක්දෝ...
+CLT_RADDISH:
+  name: රාබු
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - නැවුම්, හැපෙන, හිරු එළියේ පුංචි පොකට්.
+CLT_RADICCHIO:
+  name: රැඩිකියෝ
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - මේ විස්තර ඔක්කොම ලියන්න හරිම කාලයක් යනවා.
+  - ඒක හරිම රැඩි-හාස්‍යජනකයි.
+CLT_RAMEN_BEEF:
+  name: හරක් මස් රාමෙන්
+  type:
+  - '&7&oආහාර'
+  description:
+  - එතරම් සෞඛ්‍ය සම්පන්න නොවන තේරීමක්.
+  stats: &id004
+  - '&8⇨ &bසෞඛ්‍ය වර්ධනය I &7(10:00)'
+CLT_RAMEN_BEEF_HEARTY:
+  name: පිරිපුන් හරක් මස් රාමෙන්
+  type:
+  - '&7&oආහාර'
+  description:
+  - සෞඛ්‍ය සම්පන්න තේරීමක්.
+  stats: &id005
+  - '&8⇨ &7සුවය: &bසම්පූර්ණ'
+  - '&8⇨ &bසෞඛ්‍ය වර්ධනය II &7(10:00)'
+  - '&8⇨ &bවේගය I &7(10:00)'
+CLT_RAMEN_CHICKEN:
+  name: කුකුළු මස් රාමෙන්
+  type:
+  - '&7&oආහාර'
+  description:
+  - එතරම් බඩ පිරෙන්නේ නැති තේරීමක්.
+  stats: *id004
+CLT_RAMEN_CHICKEN_HEARTY:
+  name: පිරිපුන් කුකුළු මස් රාමෙන්
+  type:
+  - '&7&oආහාර'
+  description:
+  - බඩ පිරෙන තේරීමක්.
+  stats: *id005
+CLT_RAMEN_SEAFOOD:
+  name: මුහුදු ආහාර රාමෙන්
+  type:
+  - '&7&oආහාර'
+  description:
+  - එතරම් තෘප්තිමත් නොවන තේරීමක්.
+  stats: *id004
+CLT_RAMEN_SEAFOOD_HEARTY:
+  name: පිරිපුන් මුහුදු ආහාර රාමෙන්
+  type:
+  - '&7&oආහාර'
+  description:
+  - තෘප්තිමත් තේරීමක්.
+  stats: *id005
+CLT_RAPESEED:
+  name: රේප් ඇට
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - බොහෝවිට තෙල් හදන්න පාවිච්චි කරනවා.
+CLT_RECIPE_UNLOCK:
+  name: කල්ටිවේෂන් දැනුම් ලේඛනය
+  type:
+  - '&7&oමෙවලම'
+  description:
+  - කල්ටිවේෂන් අභිජනන වට්ටෝරුවක් ඉගෙන ගන්න
+  - දකුණු-ක්ලික් කරන්න.
+CLT_RHUBARB:
+  name: රුබාබ්
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - කොළ ඉවත් කරන්න අමතක කරන්න එපා!
+CLT_RICE:
+  name: හාල්
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - මතක තියාගන්න, ඔබ ජීවත් වෙන්නේ එක බතයි!
+CLT_ROSEMARY:
+  name: රෝස්මේරි
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - බොහෝවිට තයිම් එක මඟ හැරෙනවා.
+CLT_RUNNER_BEANS:
+  name: වැල් බෝංචි
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - හැමවිටම පැනලා යන්න හදනවා.
+CLT_RUTABAGA:
+  name: රුටබාගා
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - මේකට ස්වීඩ් කියලා නොකියන එක ඇත්තටම රිදෙනවා.
+CLT_SALMON_NIGIRI:
+  name: සැමන් නිගිරි
+  type:
+  - '&7&oආහාර'
+  description:
+  - අපූරු නමුත් සියුම් රසයක්.
+  stats:
+  - '&8⇨ &7සුවය: &b2 හදවත්'
+  - '&8⇨ &bපුනර්ජනනය I &7(10:00)'
+CLT_SASSAFRAS:
+  name: සැසෆ්‍රාස්
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - කන්න පුළුවන් රූට් බියර්, ඇත්තටම ගූගල්
+  - කරලා බලන්න, මම දැන් ඒක නිතරම ගන්නවා.
+CLT_SAUSAGE:
+  name: සොසේජස්
+  type:
+  - '&7&oආහාර'
+  description:
+  - බේකන්ගේ සහෝදරයා.
+  stats: &id007
+  - '&8⇨ &7සුවය: &b1 හදවත'
+CLT_SEED_PACK:
+  name: බීජ පැකට්ටුව
+  type:
+  - '&7&oමෙවලම'
+  description:
+  - මේ පැකට්ටුව විවෘත කරන්න දකුණු-ක්ලික් කරන්න.
+  stats:
+  - '&8⇨ &7සකසා ඇත්තේ: &bකිසිවක් නැත'
+CLT_SHAKSHUKA:
+  name: ශක්ෂූකා
+  type:
+  - '&7&oආහාර'
+  description:
+  - දවස් ගණන් කන්න තරම් බිත්තර ඇති, හිත උණුසුම් කරන කෑමක්.
+  stats:
+  - '&8⇨ &7සුවය: &b4 හදවත්'
+  - '&8⇨ &bගමේ වීරයා I &7(10:00)'
+  - '&8⇨ &bවාසනාව I &7(10:00)'
+CLT_SHALLOT:
+  name: රතු ලූනු
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - මම රතු ලූනු ගොඩක් ආසයි.
+CLT_SHEPHERDS_PIE:
+  name: එඬේර පයි
+  type:
+  - '&7&oආහාර'
+  description:
+  - උණුසුම්, පිරිපුන් සහ සරලවම අපූරුයි.
+  stats: *id006
+CLT_SHISO:
+  name: ෂිසෝ
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - ආදරය පැත්තකින් එක්ක පුදීනා.
+CLT_SLICED_APPLE:
+  name: පෙති කැපූ ඇපල්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_APRICOT:
+  name: පෙති කැපූ ඇප්‍රිකොට්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_ARTICHOKE:
+  name: පෙති කැපූ ආටිචෝක්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_ASPARAGUS:
+  name: පෙති කැපූ ඇස්පැරගස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_AUBERGINE:
+  name: පෙති කැපූ වම්බටු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_AVOCADO:
+  name: පෙති කැපූ අලිගැට පේර
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_BANANA:
+  name: පෙති කැපූ කෙසෙල්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_BASIL:
+  name: පෙති කැපූ තුලසි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_BAY_LEAF:
+  name: පෙති කැපූ බේ කොළ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_BEEF:
+  name: පෙති කැපූ හරක් මස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_BEETROOT:
+  name: පෙති කැපූ බීට්රූට්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_BELL_PEPPER:
+  name: පෙති කැපූ මාළු මිරිස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_BLACK_BEANS:
+  name: පෙති කැපූ කළු බෝංචි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_BREAD:
+  name: පෙති කැපූ පාන්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_BROCCOLI:
+  name: පෙති කැපූ බ්‍රොකොලි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_BROWN_MUSHROOM:
+  name: පෙති කැපූ දුඹුරු හතු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_BRUSSELS_SPROUTS:
+  name: පෙති කැපූ බ්‍රසල්ස් ගෝවා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_CABBAGE:
+  name: පෙති කැපූ ගෝවා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_CARROT:
+  name: පෙති කැපූ කැරට්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_CAULIFLOWER:
+  name: පෙති කැපූ මල් ගෝවා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_CAYENNE_PEPPER:
+  name: පෙති කැපූ කයින් මිරිස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_CELERIAC:
+  name: පෙති කැපූ සෙලරියැක්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_CELERY:
+  name: පෙති කැපූ සැල්දිරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_CHERRY:
+  name: පෙති කැපූ චෙරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_CHESTNUT:
+  name: පෙති කැපූ චෙස්ට්නට්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_CHICKEN:
+  name: පෙති කැපූ කුකුළු මස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_CHICKPEAS:
+  name: පෙති කැපූ කඩල
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_CHICORY:
+  name: පෙති කැපූ චිකරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_CHILLY_PEPPER:
+  name: පෙති කැපූ මිරිස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_CHIVES:
+  name: පෙති කැපූ චයිව් කොළ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_CHORUS_FRUIT:
+  name: පෙති කැපූ කෝරස් පලතුර
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_CILANTRO:
+  name: පෙති කැපූ කොත්තමල්ලි කොළ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_CINNAMON:
+  name: පෙති කැපූ කුරුඳු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_CLOVE:
+  name: පෙති කැපූ කරාබුනැටි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_COCOA_BEANS:
+  name: පෙති කැපූ කොකෝවා ඇට
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_COD:
+  name: පෙති කැපූ කෝඩ් මාළු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_COURGETTE:
+  name: පෙති කැපූ සුකිනි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_CUCUMBER:
+  name: පෙති කැපූ පිපිඤ්ඤා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_CUMIN:
+  name: පෙති කැපූ සූදුරු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_CURRY_LEAF:
+  name: පෙති කැපූ කරපිංචා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_DILL:
+  name: පෙති කැපූ සතකුප්ප
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_EGG:
+  name: පෙති කැපූ බිත්තර
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_ENCHANTED_GOLDEN_APPLE:
+  name: පෙති කැපූ මායා රන් ඇපල්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_FENNEL:
+  name: පෙති කැපූ මහදුරු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_GARLIC:
+  name: පෙති කැපූ සුදුලූනු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_GINGER:
+  name: පෙති කැපූ ඉඟුරු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_GLOW_BERRIES:
+  name: පෙති කැපූ දිලිසෙන බෙරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_GOLDEN_APPLE:
+  name: පෙති කැපූ රන් ඇපල්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_GOLDEN_CARROT:
+  name: පෙති කැපූ රන් කැරට්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_GRAPE:
+  name: පෙති කැපූ මිදි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_GREEN_APPLE:
+  name: පෙති කැපූ කොළ ඇපල්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_GREEN_BEANS:
+  name: පෙති කැපූ බෝංචි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_GREEN_ONION:
+  name: පෙති කැපූ කොළ ලූනු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_HAZELNUT:
+  name: පෙති කැපූ හේසල්නට්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_HORSERADISH:
+  name: පෙති කැපූ අශ්ව රාබු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_JALAPENO:
+  name: පෙති කැපූ හලපීනෝ මිරිස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_JASMINE:
+  name: පෙති කැපූ පිච්ච
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_JUNIPER_BERRY:
+  name: පෙති කැපූ ජුනිපර් බෙරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_KAFFIR_LIME:
+  name: පෙති කැපූ කුදලු දෙහි කොළ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_KALE:
+  name: පෙති කැපූ කේල්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_KELP:
+  name: පෙති කැපූ කෙල්ප් පැළෑටි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_KIWI:
+  name: පෙති කැපූ කිවි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_LAVENDER:
+  name: පෙති කැපූ ලැවෙන්ඩර්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_LEEK:
+  name: පෙති කැපූ ලීක්ස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_LEMON:
+  name: පෙති කැපූ ලෙමන්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_LETTUCE:
+  name: පෙති කැපූ සලාද කොළ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_LICORICE:
+  name: පෙති කැපූ වැල්මී
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_LIME:
+  name: පෙති කැපූ දෙහි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_MACE:
+  name: පෙති කැපූ වසාවාසි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_MANGO:
+  name: පෙති කැපූ අඹ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_MARJORAM:
+  name: පෙති කැපූ මාජෝරම්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_MARROW:
+  name: පෙති කැපූ ලබු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_MELON:
+  name: පෙති කැපූ කොමඩු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_MINT:
+  name: පෙති කැපූ පුදීනා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_MUSTARD_SEEDS:
+  name: පෙති කැපූ අබ ඇට
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_MUTTON:
+  name: පෙති කැපූ බැටළු මස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_NETTLES:
+  name: පෙති කැපූ කහඹිලියා කොළ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_OKRA:
+  name: පෙති කැපූ බණ්ඩක්කා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_ONION:
+  name: පෙති කැපූ ලූනු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_ORANGE:
+  name: පෙති කැපූ දොඩම්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_OREGANO:
+  name: පෙති කැපූ ඔරිගැනෝ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_PARSLEY:
+  name: පෙති කැපූ පාස්ලි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_PARSNIP:
+  name: පෙති කැපූ පාර්ස්නිප්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_PEA:
+  name: පෙති කැපූ බටානා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_PEACH:
+  name: පෙති කැපූ පීච්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_PEANUT:
+  name: පෙති කැපූ රටකජු ඇටය
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_PEAR:
+  name: පෙති කැපූ පෙයර්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_PECAN:
+  name: පෙති කැපූ පෙකෑන්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_PEPPER:
+  name: පෙති කැපූ ගම්මිරිස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_PEPPERONI:
+  name: පෙති කැපූ පෙපරෝනි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_PINEAPPLE:
+  name: පෙති කැපූ අන්නාසි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_PINTO_BEANS:
+  name: පෙති කැපූ පින්ටෝ බෝංචි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_PORKCHOP:
+  name: පෙති කැපූ ඌරු මස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_POTATO:
+  name: පෙති කැපූ අල
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_PUFFERFISH:
+  name: පෙති කැපූ තිත්තයා මාළු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_PUMPKIN:
+  name: පෙති කැපූ වට්ටක්කා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_RABBIT:
+  name: පෙති කැපූ හා මස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_RADDISH:
+  name: පෙති කැපූ රාබු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_RADICCHIO:
+  name: පෙති කැපූ රැඩිකියෝ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_RAPESEED:
+  name: පෙති කැපූ රේප් ඇට
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_RED_MUSHROOM:
+  name: පෙති කැපූ රතු හතු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_RHUBARB:
+  name: පෙති කැපූ රුබාබ්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_RICE:
+  name: පෙති කැපූ හාල්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_ROSEMARY:
+  name: පෙති කැපූ රෝස්මේරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_ROTTEN_FLESH:
+  name: පෙති කැපූ කුණු වූ මස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_RUNNER_BEANS:
+  name: පෙති කැපූ වැල් බෝංචි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_RUTABAGA:
+  name: පෙති කැපූ රුටබාගා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_SALMON:
+  name: පෙති කැපූ සැමන්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_SASSAFRAS:
+  name: පෙති කැපූ සැසෆ්‍රාස්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_SHALLOT:
+  name: පෙති කැපූ රතු ලූනු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_SHISO:
+  name: පෙති කැපූ ෂිසෝ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_SOY_BEANS:
+  name: පෙති කැපූ සෝයා බෝංචි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_SPINACH:
+  name: පෙති කැපූ නිවිති
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_STAR_ANISE:
+  name: පෙති කැපූ තක්කෝල
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_STRAWBERRY:
+  name: පෙති කැපූ ස්ට්‍රෝබෙරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_SUGAR:
+  name: පෙති කැපූ සීනි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_SWEETCORN:
+  name: පෙති කැපූ බඩ ඉරිඟු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_SWEET_BERRIES:
+  name: පෙති කැපූ පැණි බෙරි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_SWEET_POTATO:
+  name: පෙති කැපූ බතල
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_TARRAGON:
+  name: පෙති කැපූ ටැරගන්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_THYME:
+  name: පෙති කැපූ තයිම්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_TOMATO:
+  name: පෙති කැපූ තක්කාලි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_TURMERIC:
+  name: පෙති කැපූ කහ
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_TURNIP:
+  name: පෙති කැපූ ටර්නිප්
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_VANILLA:
+  name: පෙති කැපූ වැනිලා
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_WASABI:
+  name: පෙති කැපූ වසාබි
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SLICED_WHEAT:
+  name: පෙති කැපූ තිරිඟු
+  type:
+  - '&7&oඅතුරු නිෂ්පාදනය'
+CLT_SOFT_BOILED_EGG:
+  name: මඳක් තැම්බූ බිත්තරය
+  type:
+  - '&7&oආහාර'
+  description:
+  - තැම්බූ බිත්තරයක් විතරයි, තවත් මොනවා කියන්නද.
+  stats:
+  - '&8⇨ &7සුවය: &b1 හදවත'
+  - '&8⇨ &7සමහර වෙලාවට ඔබට උදව් කරන්න කුකුළෙක් කැඳවයි.'
+CLT_SOYLENT:
+  name: සොයිලන්ට්
+  type:
+  - '&7&oආහාර'
+  description:
+  - ශරීරයට අවශ්‍ය හැමදේම!
+  stats:
+  - '&8⇨ &bඅසුබ නිමිත්ත I &7(10:00)'
+  - '&8⇨ &bදුර්වලතාවය IV &7(10:00)'
+CLT_SOY_BEANS:
+  name: සෝයා බෝංචි
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - සෝයා කිරි පැමිණේ.
+CLT_SPAGHETTI:
+  name: ස්පැගටි
+  type:
+  - '&7&oආහාර'
+  description:
+  - දිගටම උරා බොන්න.
+  stats: *id007
+CLT_SPAGHETTI_AND_MEATBALLS:
+  name: ස්පැගටි සහ මස් බෝල
+  type:
+  - '&7&oආහාර'
+  description:
+  - සරල, සම්භාව්‍ය සහ පිරිපුන්.
+  stats:
+  - '&8⇨ &7සුවය: &b1 හදවත'
+  - '&8⇨ &bඅසුබ නිමිත්ත I &7(10:00)'
+CLT_SPINACH:
+  name: නිවිති
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - ආදරයෙන් මැලවුණු.
+CLT_STAR_ANISE:
+  name: තක්කෝල
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - හොඳම සහ වඩාත්ම අද්විතීය රසවලින් එකක්.
+CLT_STRAWBERRY:
+  name: ස්ට්‍රෝබෙරි
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - ක්‍රීම් එකතු කරන්න විතරයි!
+CLT_STRAWBERRY_JELLY:
+  name: ස්ට්‍රෝබෙරි ජෙලි
+  type:
+  - '&7&oඅස්වැන්න'
+  description: *id008
+CLT_SUGARED_SKULL:
+  name: සීනි ගැසූ හිස් කබල
+  type:
+  - '&7&oආහාර'
+  description:
+  - මේක කෑමක්ද ඇත්තටම...?
+  stats:
+  - '&8⇨ &bඅඳුර III &7(10:00)'
+CLT_SWEETCORN:
+  name: බඩ ඉරිඟු
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - සමහරවිට අවට තියෙන හොඳම එළවළුව.
+CLT_SWEET_BEEHIVE:
+  name: පැණි මී වදය
+  type:
+  - '&7&oආහාර'
+  description:
+  - මේක උයන්න ඔබට හිතුනේ ඇයි කියලා මට විශ්වාස නෑ!
+  stats:
+  - '&8⇨ &7මී මැස්සන් කිහිප දෙනෙක් කැඳවයි!'
+CLT_SWEET_POTATO:
+  name: බතල
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - යම් යම් යම්.
+CLT_TAQUITO:
+  name: ටකීටෝ
+  type:
+  - '&7&oආහාර'
+  description:
+  - සිම් ආඩම්බර වෙයි!
+  stats:
+  - '&8⇨ &7සුවය: &b4 හදවත්'
+  - '&8⇨ &7උදව්වට ගිර් කැඳවයි (ඒ යකඩ ගොලම් කෙනෙක්, කලබල වෙන්න එපා).'
+CLT_TARRAGON:
+  name: ටැරගන්
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - මම ඇත්තටම මේක ඕනෑම දෙයකට දානවා.
+  - 'කතාවේ රහස: මම හොඳ කෝකියෙක් නෙවෙයි.'
+CLT_TATER_TOTS:
+  name: ටේටර් ටොට්ස්
+  type:
+  - '&7&oආහාර'
+  description:
+  - කටට දාන්න පුංචි අල කෑලි.
+  stats:
+  - '&8⇨ &7සුවය: &b0.5 හදවත්'
+  - '&8⇨ &bවේගය II &7(10:00)'
+CLT_THYME:
+  name: තයිම්
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - බොහෝවිට රෝස්මේරි මඟ හැරුණා.
+CLT_TOMATO:
+  name: තක්කාලි
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - කෙලින්ම වැලෙන්.... අම්... පඳුරෙන්ද?
+CLT_TORTILLAS:
+  name: ටෝටියා
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - ඉරිඟු පිටි සතුට
+CLT_TREE_APRICOT:
+  name: ඇප්‍රිකොට් ගස
+  type:
+  - '&7&oපැළය'
+  description:
+  - ඇතුළේ තියෙන්නේ බලාපොරොත්තු සුන්වීමේ එකම ඇටයක්.
+  stats: &id009
+  - '&8⇨ &7නිර්මාණය: &bබී වයිට්'
+CLT_TREE_BANANA:
+  name: කෙසෙල් ගස
+  type:
+  - '&7&oපැළය'
+  description:
+  - ඇඟිලි වැවෙන ගහක්, බියජනකයි!
+  stats:
+  - '&8⇨ &7නිර්මාණය: &bසෙෆිරාට්'
+CLT_TREE_CHERRY:
+  name: චෙරි ගස
+  type:
+  - '&7&oපැළය'
+  description:
+  - ගැටය ගහන්න!
+  stats:
+  - '&8⇨ &7නිර්මාණය: &bරීසන්ෆවුන්ඩ්ඩිකෝයි'
+CLT_TREE_CHESTNUT:
+  name: චෙස්ට්නට් ගස
+  type:
+  - '&7&oපැළය'
+  description:
+  - පැහැදිලිවම නගින්න නිර්මාණය කළ ගහක්.
+  stats: &id010
+  - '&8⇨ &7නිර්මාණය: &bඒබිට්ඔඩිෂ්'
+CLT_TREE_GREEN_APPLE:
+  name: කොළ ඇපල් ගස
+  type:
+  - '&7&oපැළය'
+  description:
+  - ලොකු, හැපෙන කොළ ඇපල් හටගන්නවා.
+  stats: *id009
+CLT_TREE_HAZELNUT:
+  name: හේසල්නට් ගස
+  type:
+  - '&7&oපැළය'
+  description:
+  - මේ ගහ හොලවන එක ළමා කාලයේ විනෝදාංශයක්.
+  stats: *id010
+CLT_TREE_KIWI:
+  name: කිවි ගස
+  type:
+  - '&7&oපැළය'
+  description:
+  - නවසීලන්ත ගහක්ද? මම හරියට කිව්වද?
+  stats: *id010
+CLT_TREE_LEMON:
+  name: ලෙමන් ගස
+  type:
+  - '&7&oපැළය'
+  description:
+  - මේ ගහ දිහා බැලුවත් ඇඹුල් රසයි.
+  stats: &id011
+  - '&8⇨ &7නිර්මාණය: &bජෙෆ්'
+CLT_TREE_LIME:
+  name: දෙහි ගස
+  type:
+  - '&7&oපැළය'
+  description:
+  - දෙහි කියන්නේ හුස්ම අල්ලාගෙන ඉන්න ලෙමන් කියලා ඔබ දන්නවද?
+  stats: *id010
+CLT_TREE_MANGO:
+  name: අඹ ගස
+  type:
+  - '&7&oපැළය'
+  description:
+  - හොඳටම ඉදුණාම තමයි හොඳම.
+  stats: *id009
+CLT_TREE_ORANGE:
+  name: දොඩම් ගස
+  type:
+  - '&7&oපැළය'
+  description:
+  - හිරු එළියේ පුංචි ගෝල.
+  stats: *id011
+CLT_TREE_PEACH:
+  name: පීච් ගස
+  type:
+  - '&7&oපැළය'
+  description:
+  - ජේම්ස් හෙව්වේ මේක, මම හිතන්නේ?
+  stats: *id010
+CLT_TREE_PEAR:
+  name: පෙයර් ගස
+  type:
+  - '&7&oපැළය'
+  description:
+  - පෙයර් ජෝඩුවක් පෙළට ජෝඩුවට ජෝඩු කළා.
+  stats: *id009
+CLT_TREE_PECAN:
+  name: පෙකෑන් ගස
+  type:
+  - '&7&oපැළය'
+  description:
+  - අපිට මේ ගහ වවන්න පුළුවන්ද? ඔව්, පෙකෑන්-ම පුළුවන්!
+  stats: *id009
+CLT_TREE_PINEAPPLE:
+  name: අන්නාසි ගස
+  type:
+  - '&7&oපැළය'
+  description:
+  - මගේ පීසා කෝ?
+  stats: *id010
+CLT_TURMERIC:
+  name: කහ
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - බොහෝ කෑම පුරවන තද කස්තූරි සුවඳක්.
+CLT_TURNIP:
+  name: ටර්නිප්
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - ජීවිතයේ හැම ප්‍රශ්නයක්ම විසඳයි.
+CLT_VANILLA:
+  name: වැනිලා
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - 'උපදෙස්: කෙලින්ම ලාටේ එකක ගිල්වන්න'
+CLT_WASABI:
+  name: වසාබි
+  type:
+  - '&7&oඅස්වැන්න'
+  description:
+  - උදව්... වසාබි...
+CLT_WITHER_ROSE_SALAD:
+  name: විදර් රෝස සලාද
+  type:
+  - '&7&oආහාර'
+  description:
+  - බලයෙන් පිරී ඇති නමුත් දරුණු අතුරු ආබාධයක් ඇත.
+  stats:
+  - '&8⇨ &7සුවය: &bසම්පූර්ණ'
+  - '&8⇨ &bවිදර් II &7(10:00)'
+  - '&8⇨ &bසෞඛ්‍ය වර්ධනය XX &7(10:00)'

@@ -1,0 +1,13 @@
+cultivation:
+  main: Cultivation
+  hidden: Nakatago
+  crafting: Mga Sangkap sa Paggawa
+  tools: Mga Kasangkapan
+  machines: Mga Makina
+  plants: Mga Halaman
+  bushes: Mga Palumpong
+  trees: Mga Puno
+  produce: Ani
+  by-products: Mga Labis na Produkto
+  foods: Mga Pagkain
+  plant_codex: Talaan ng mga Halaman

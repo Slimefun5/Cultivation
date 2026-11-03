@@ -1,0 +1,65 @@
+lore:
+  seed-pack-set-to: සකසා ඇත්තේ
+  knowledge-script-unlocks: අගුළු හරියි
+  drop-level: හැලීමේ මට්ටම
+  growth-speed: වර්ධන වේගය
+  breed-strength: අභිජනන ශක්තිය
+command:
+  no-permission: මෙය කිරීමට ඔබට අවසර නැත.
+  invalid-subcommand: කරුණාකර වලංගු උප විධානයක් ලබා දෙන්න.
+  players-only: මෙම විධානය ක්‍රියාත්මක කළ හැක්කේ ක්‍රීඩකයෙකුට පමණි.
+  hold-seed-pack: මේ සඳහා ඔබ බීජ පැකට්ටුවක් අල්ලාගෙන සිටිය යුතුය.
+  pack-empty: මෙම පැකට්ටුව හිස්ය!
+  pack-contents: අන්තර්ගතය
+  pack-entry: මට්ටම %level%, වේගය %speed%, ශක්තිය %strength%
+kitchen:
+  recipe-disabled: මෙම වට්ටෝරුව අක්‍රිය කර ඇත.
+  no-recipe: ගැළපෙන වට්ටෝරුවක් නැත.
+  not-enough-power: ප්‍රමාණවත් බලයක් නැත.
+  input-empty: ආදාන ස්ථානයට අයිතමයක් දමන්න.
+  cooked: රසයි!
+food:
+  eaten: නියමයි! ඔබේ බඩ පිරිලා.
+  not-hungry: ඔබට තවම බඩගිනි නැහැ! ඔබට කන්න පුළුවන් දවස් බාගයකට වරක් පමණයි (මිනිත්තු 10).
+  palate-cleansed: ඔබේ කට පිරිසිදු වෙනවා ඔබට දැනෙනවා.
+  ouch: අයියෝ!
+knowledge-script:
+  learned: ඔබ %plant% අභිජනනය කරන ආකාරය ඉගෙන ගත්තා.
+seed-pack:
+  title: බීජ පැකට්ටුව
+  unstack-first: ඔබ මුලින්ම ඔබේ බීජ පැකට්ටු වෙන් කළ යුතුය.
+  not-a-seed: අයිතමය කල්ටිවේෂන් ශාක බීජයක් විය යුතුය.
+  empty-before-change: පැකට්ටුවේ ශාකය වෙනස් කිරීමට පෙර එය හිස් කළ යුතුය.
+  no-plant-set: ඔබ තවම ශාකයක් සකසා නැත.
+  none-stored: මෙම මට්ටම්වලින් ඔබ සතුව මෙම බීජයෙන් කිසිවක් නැත.
+  set-here: බීජය මෙහි සකසන්න
+  retrieve-here: මෙතැනින් ගන්න
+  no-seed-set: බීජයක් සකසා නැත
+  no-seed-set-lore:
+  - බීජයක් අල්ලාගෙන වම් පස ඇති
+  - අයිකනය ක්ලික් කර පැකට්ටුව සකසන්න.
+  empty-set: හිස් කට්ටලය
+  empty-set-lore:
+  - මෙම මට්ටම්වලට ගැළපෙන
+  - බීජ ඔබ සතුව නැත.
+  stored-seed: ගබඩා කළ බීජ වර්ගය
+  take-seed: පැකට්ටුවෙන් බීජයක් ගන්න
+  level: මට්ටම
+  speed: වේගය
+  strength: ශක්තිය
+  left-click: වම් ක්ලික්
+  right-click: දකුණු ක්ලික්
+  increase: '%stat% වැඩි කරන්න'
+  decrease: '%stat% අඩු කරන්න'
+  current: වත්මන්
+codex:
+  title: ශාක කෝෂය
+  child: දරු ශාකය
+  mother: මව් ශාකය
+  father: පිය ශාකය
+  growth-rate: වර්ධන අනුපාතය
+  not-discovered: සොයාගෙන නැත
+  not-discovered-lore:
+  - මෙම ශාකය අභිජනනය කරන ආකාරය
+  - ඔබ තවම සොයාගෙන නැත!
+  discovery: සොයාගැනීම
