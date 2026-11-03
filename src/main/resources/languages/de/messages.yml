@@ -1,0 +1,65 @@
+lore:
+  seed-pack-set-to: Eingestellt auf
+  knowledge-script-unlocks: Schaltet frei
+  drop-level: Ertragsstufe
+  growth-speed: Wachstumstempo
+  breed-strength: Zuchtstärke
+command:
+  no-permission: Dazu hast du keine Berechtigung.
+  invalid-subcommand: Bitte gib einen gültigen Unterbefehl an.
+  players-only: Dieser Befehl kann nur von einem Spieler ausgeführt werden.
+  hold-seed-pack: Dafür musst du eine Samenpackung in der Hand halten.
+  pack-empty: Diese Packung ist leer!
+  pack-contents: Inhalt
+  pack-entry: Stufe %level%, Tempo %speed%, Stärke %strength%
+kitchen:
+  recipe-disabled: Dieses Rezept ist deaktiviert.
+  no-recipe: Kein passendes Rezept.
+  not-enough-power: Nicht genug Energie.
+  input-empty: Lege einen Gegenstand in den Eingabeslot.
+  cooked: Lecker!
+food:
+  eaten: Herrlich! Du bist pappsatt.
+  not-hungry: Du hast noch keinen Hunger! Du kannst nur einmal pro halbem Tag essen (10 Minuten).
+  palate-cleansed: Du spürst, wie dein Gaumen gereinigt wird.
+  ouch: Autsch!
+knowledge-script:
+  learned: Du hast gelernt, wie man %plant% züchtet.
+seed-pack:
+  title: Samenpackung
+  unstack-first: Du musst deine Samenpackungen zuerst entstapeln.
+  not-a-seed: Der Gegenstand muss ein Kultivierungs-Pflanzensamen sein.
+  empty-before-change: Du musst eine Packung leeren, bevor du ihre Pflanze änderst.
+  no-plant-set: Du hast noch keine Pflanze festgelegt.
+  none-stored: Du hast keinen solchen Samen mit diesen Werten.
+  set-here: Samen hier festlegen
+  retrieve-here: Hier entnehmen
+  no-seed-set: Kein Samen festgelegt
+  no-seed-set-lore:
+  - Klicke mit einem Samen in der Hand
+  - auf das linke Symbol, um die Packung festzulegen.
+  empty-set: Leere Auswahl
+  empty-set-lore:
+  - Du hast keine Samen mit
+  - diesen Werten.
+  stored-seed: Gelagerte Samenart
+  take-seed: Samen aus der Packung nehmen
+  level: Stufe
+  speed: Tempo
+  strength: Stärke
+  left-click: Linksklick
+  right-click: Rechtsklick
+  increase: '%stat% erhöhen'
+  decrease: '%stat% senken'
+  current: Aktuell
+codex:
+  title: Pflanzenkodex
+  child: Kindpflanze
+  mother: Mutterpflanze
+  father: Vaterpflanze
+  growth-rate: Wachstumsrate
+  not-discovered: Nicht entdeckt
+  not-discovered-lore:
+  - Du hast noch nicht herausgefunden,
+  - wie man diese Pflanze züchtet!
+  discovery: Entdeckung

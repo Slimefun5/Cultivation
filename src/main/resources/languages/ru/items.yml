@@ -1,0 +1,6674 @@
+CLT_APRICOT:
+  name: Абрикос
+  type:
+  - '&7&oУрожай'
+  description:
+  - Из них можно делать покеболы.
+  - '...'
+  - В смысле, это вообще другое...?
+CLT_ARTICHOKE:
+  name: Артишок
+  type:
+  - '&7&oУрожай'
+  description:
+  - Вырви ему СЕРДЦЕВИНУ!
+CLT_ASPARAGUS:
+  name: Спаржа
+  type:
+  - '&7&oУрожай'
+  description:
+  - Осторожнее потом в туалете.
+CLT_AUBERGINE:
+  name: Баклажан
+  type:
+  - '&7&oУрожай'
+  description:
+  - Ярко-фиолетовый и на 100% НЕ яйцевидный.
+  - Так что лучше звать его баклажаном, да?
+CLT_AVOCADO:
+  name: Авокадо
+  type:
+  - '&7&oУрожай'
+  description:
+  - О чём мечтают хипстеры.
+CLT_BACON_SANDWICH:
+  name: Сэндвич с беконом
+  type:
+  - '&7&oЕда'
+  description:
+  - Простая классика!
+  stats:
+  - '&8⇨ &7Лечение: &b2 сердца'
+  - '&8⇨ &bСила I &7(10:00)'
+  - '&8⇨ &bСкорость I &7(10:00)'
+CLT_BAGEL:
+  name: Бейгл
+  type:
+  - '&7&oЕда'
+  description:
+  - Поджаренный? Или...
+  stats:
+  - '&8⇨ &7Лечение: &b2.5 сердца'
+CLT_BAGEL_BITE:
+  name: Мини-бейгл
+  type:
+  - '&7&oЕда'
+  description:
+  - Пицца в любое время!
+  stats:
+  - '&8⇨ &7Обжигает рот с каждым укусом!'
+CLT_BAGEL_CREAM_CHEESE:
+  name: Бейгл со сливочным сыром
+  type:
+  - '&7&oЕда'
+  description:
+  - Так вкусно, что наверняка захочется ещё.
+  stats:
+  - '&8⇨ &7Лечение: &b5 сердец'
+  - '&8⇨ &bПрилив здоровья I &7(10:00)'
+CLT_BANANA:
+  name: Банан
+  type:
+  - '&7&oУрожай'
+  description:
+  - Вот уж где шкурка точно стоит выделки!
+CLT_BASIL:
+  name: Базилик
+  type:
+  - '&7&oУрожай'
+  description:
+  - Сладкий лист с мягким перечным послевкусием.
+CLT_BAY_LEAF:
+  name: Лавровый лист
+  type:
+  - '&7&oУрожай'
+  description:
+  - Сильный аромат на все случаи жизни.
+CLT_BELL_PEPPER:
+  name: Болгарский перец
+  type:
+  - '&7&oУрожай'
+  description:
+  - Звучит правдиво, как колокол.
+CLT_BISCUIT:
+  name: Печенье
+  type:
+  - '&7&oЕда'
+  description:
+  - Маленький перекус с огромным вкусом.
+  stats: &id002
+  - '&8⇨ &7Подбрасывает тебя в воздух'
+CLT_BISCUIT_BASE:
+  name: Основа для печенья
+  type:
+  - '&7&oУрожай'
+  description:
+  - То, что оно теперь плоское, не значит,
+  - что его можно есть сырым.
+CLT_BISCUIT_DOUGH:
+  name: Тесто для печенья
+  type:
+  - '&7&oУрожай'
+  description:
+  - 'Просто повторяй себе: «Не ешь его сырым».'
+CLT_BLACK_BEANS:
+  name: Чёрная фасоль
+  type:
+  - '&7&oУрожай'
+  description:
+  - Вкусный вегетарианский белок.
+CLT_BLENDED_APPLE:
+  name: Измельчённое яблоко
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_APRICOT:
+  name: Измельчённый абрикос
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_ARTICHOKE:
+  name: Измельчённый артишок
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_ASPARAGUS:
+  name: Измельчённая спаржа
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_AUBERGINE:
+  name: Измельчённый баклажан
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_AVOCADO:
+  name: Измельчённое авокадо
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_BANANA:
+  name: Измельчённый банан
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_BASIL:
+  name: Измельчённый базилик
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_BAY_LEAF:
+  name: Измельчённый лавровый лист
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_BEEF:
+  name: Измельчённая говядина
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_BEETROOT:
+  name: Измельчённая свёкла
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_BELL_PEPPER:
+  name: Измельчённый болгарский перец
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_BLACK_BEANS:
+  name: Измельчённая чёрная фасоль
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_BREAD:
+  name: Измельчённый хлеб
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_BROCCOLI:
+  name: Измельчённая брокколи
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_BROWN_MUSHROOM:
+  name: Измельчённый коричневый гриб
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_BRUSSELS_SPROUTS:
+  name: Измельчённая брюссельская капуста
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_CABBAGE:
+  name: Измельчённая капуста
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_CARROT:
+  name: Измельчённая морковь
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_CAULIFLOWER:
+  name: Измельчённая цветная капуста
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_CAYENNE_PEPPER:
+  name: Измельчённый кайенский перец
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_CELERIAC:
+  name: Измельчённый корневой сельдерей
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_CELERY:
+  name: Измельчённый сельдерей
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_CHERRY:
+  name: Измельчённая вишня
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_CHESTNUT:
+  name: Измельчённый каштан
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_CHICKEN:
+  name: Измельчённая курица
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_CHICKPEAS:
+  name: Измельчённый нут
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_CHICORY:
+  name: Измельчённый цикорий
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_CHILLY_PEPPER:
+  name: Измельчённый жгучий перец
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_CHIVES:
+  name: Измельчённый шнитт-лук
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_CHORUS_FRUIT:
+  name: Измельчённый плод хоруса
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_CILANTRO:
+  name: Измельчённая кинза
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_CINNAMON:
+  name: Измельчённая корица
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_CLOVE:
+  name: Измельчённая гвоздика
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_COCOA_BEANS:
+  name: Измельчённые какао-бобы
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_COD:
+  name: Измельчённая треска
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_COURGETTE:
+  name: Измельчённый цукини
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_CUCUMBER:
+  name: Измельчённый огурец
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_CUMIN:
+  name: Измельчённая зира
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_CURRY_LEAF:
+  name: Измельчённый лист карри
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_DILL:
+  name: Измельчённый укроп
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_EGG:
+  name: Измельчённое яйцо
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_ENCHANTED_GOLDEN_APPLE:
+  name: Измельчённое зачарованное золотое яблоко
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_FENNEL:
+  name: Измельчённый фенхель
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_GARLIC:
+  name: Измельчённый чеснок
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_GINGER:
+  name: Измельчённый имбирь
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_GLOW_BERRIES:
+  name: Измельчённые светящиеся ягоды
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_GOLDEN_APPLE:
+  name: Измельчённое золотое яблоко
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_GOLDEN_CARROT:
+  name: Измельчённая золотая морковь
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_GRAPE:
+  name: Измельчённый виноград
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_GREEN_APPLE:
+  name: Измельчённое зелёное яблоко
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_GREEN_BEANS:
+  name: Измельчённая стручковая фасоль
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_GREEN_ONION:
+  name: Измельчённый зелёный лук
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_HAZELNUT:
+  name: Измельчённый фундук
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_HORSERADISH:
+  name: Измельчённый хрен
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_JALAPENO:
+  name: Измельчённый халапеньо
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_JASMINE:
+  name: Измельчённый жасмин
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_JUNIPER_BERRY:
+  name: Измельчённые можжевеловые ягоды
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_KAFFIR_LIME:
+  name: Измельчённый лист кафрского лайма
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_KALE:
+  name: Измельчённая кудрявая капуста
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_KELP:
+  name: Измельчённая ламинария
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_KIWI:
+  name: Измельчённое киви
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_LAVENDER:
+  name: Измельчённая лаванда
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_LEEK:
+  name: Измельчённый лук-порей
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_LEMON:
+  name: Измельчённый лимон
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_LETTUCE:
+  name: Измельчённый салат-латук
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_LICORICE:
+  name: Измельчённая лакрица
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_LIME:
+  name: Измельчённый лайм
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_MACE:
+  name: Измельчённый мацис
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_MANGO:
+  name: Измельчённое манго
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_MARJORAM:
+  name: Измельчённый майоран
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_MARROW:
+  name: Измельчённый кабачок
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_MELON:
+  name: Измельчённый арбуз
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_MINT:
+  name: Измельчённая мята
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_MUSTARD_SEEDS:
+  name: Измельчённые горчичные семена
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_MUTTON:
+  name: Измельчённая баранина
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_NETTLES:
+  name: Измельчённая крапива
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_OKRA:
+  name: Измельчённая бамия
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_ONION:
+  name: Измельчённый лук
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_ORANGE:
+  name: Измельчённый апельсин
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_OREGANO:
+  name: Измельчённое орегано
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_PARSLEY:
+  name: Измельчённая петрушка
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_PARSNIP:
+  name: Измельчённый пастернак
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_PEA:
+  name: Измельчённый горох
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_PEACH:
+  name: Измельчённый персик
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_PEANUT:
+  name: Измельчённый арахис
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_PEAR:
+  name: Измельчённая груша
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_PECAN:
+  name: Измельчённый пекан
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_PEPPER:
+  name: Измельчённый чёрный перец
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_PEPPERONI:
+  name: Измельчённая пепперони
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_PINEAPPLE:
+  name: Измельчённый ананас
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_PINTO_BEANS:
+  name: Измельчённая фасоль пинто
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_PORKCHOP:
+  name: Измельчённая свинина
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_POTATO:
+  name: Измельчённый картофель
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_PUFFERFISH:
+  name: Измельчённый иглобрюх
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_PUMPKIN:
+  name: Измельчённая тыква
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_RABBIT:
+  name: Измельчённый кролик
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_RADDISH:
+  name: Измельчённый редис
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_RADICCHIO:
+  name: Измельчённое радиккьо
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_RAPESEED:
+  name: Измельчённый рапс
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_RED_MUSHROOM:
+  name: Измельчённый красный гриб
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_RHUBARB:
+  name: Измельчённый ревень
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_RICE:
+  name: Измельчённый рис
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_ROSEMARY:
+  name: Измельчённый розмарин
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_ROTTEN_FLESH:
+  name: Измельчённая гнилая плоть
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_RUNNER_BEANS:
+  name: Измельчённая огненная фасоль
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_RUTABAGA:
+  name: Измельчённая брюква
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_SALMON:
+  name: Измельчённый лосось
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_SASSAFRAS:
+  name: Измельчённый сассафрас
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_SHALLOT:
+  name: Измельчённый лук-шалот
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_SHISO:
+  name: Измельчённое шисо
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_SOY_BEANS:
+  name: Измельчённые соевые бобы
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_SPINACH:
+  name: Измельчённый шпинат
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_STAR_ANISE:
+  name: Измельчённый бадьян
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_STRAWBERRY:
+  name: Измельчённая клубника
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_SUGAR:
+  name: Измельчённый сахар
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_SWEETCORN:
+  name: Измельчённая сладкая кукуруза
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_SWEET_BERRIES:
+  name: Измельчённые сладкие ягоды
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_SWEET_POTATO:
+  name: Измельчённый батат
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_TARRAGON:
+  name: Измельчённый эстрагон
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_THYME:
+  name: Измельчённый тимьян
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_TOMATO:
+  name: Измельчённый помидор
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_TURMERIC:
+  name: Измельчённая куркума
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_TURNIP:
+  name: Измельчённая репа
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_VANILLA:
+  name: Измельчённая ваниль
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_WASABI:
+  name: Измельчённый васаби
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLENDED_WHEAT:
+  name: Измельчённая пшеница
+  type:
+  - '&7&oПобочный продукт'
+CLT_BLUE_CANDY:
+  name: Синяя конфета
+  type:
+  - '&7&oЕда'
+  description:
+  - Восхитительно сладкая конфета.
+  stats:
+  - '&8⇨ &7Призывает тихоню'
+CLT_BOILED_APPLE:
+  name: Варёное яблоко
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_APRICOT:
+  name: Варёный абрикос
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_ARTICHOKE:
+  name: Варёный артишок
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_ASPARAGUS:
+  name: Варёная спаржа
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_AUBERGINE:
+  name: Варёный баклажан
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_AVOCADO:
+  name: Варёное авокадо
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_BANANA:
+  name: Варёный банан
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_BASIL:
+  name: Варёный базилик
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_BAY_LEAF:
+  name: Варёный лавровый лист
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_BEEF:
+  name: Варёная говядина
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_BEETROOT:
+  name: Варёная свёкла
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_BELL_PEPPER:
+  name: Варёный болгарский перец
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_BLACK_BEANS:
+  name: Варёная чёрная фасоль
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_BREAD:
+  name: Варёный хлеб
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_BROCCOLI:
+  name: Варёная брокколи
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_BROWN_MUSHROOM:
+  name: Варёный коричневый гриб
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_BRUSSELS_SPROUTS:
+  name: Варёная брюссельская капуста
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_CABBAGE:
+  name: Варёная капуста
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_CARROT:
+  name: Варёная морковь
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_CAULIFLOWER:
+  name: Варёная цветная капуста
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_CAYENNE_PEPPER:
+  name: Варёный кайенский перец
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_CELERIAC:
+  name: Варёный корневой сельдерей
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_CELERY:
+  name: Варёный сельдерей
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_CHERRY:
+  name: Варёная вишня
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_CHESTNUT:
+  name: Варёный каштан
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_CHICKEN:
+  name: Варёная курица
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_CHICKPEAS:
+  name: Варёный нут
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_CHICORY:
+  name: Варёный цикорий
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_CHILLY_PEPPER:
+  name: Варёный жгучий перец
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_CHIVES:
+  name: Варёный шнитт-лук
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_CHORUS_FRUIT:
+  name: Варёный плод хоруса
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_CILANTRO:
+  name: Варёная кинза
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_CINNAMON:
+  name: Варёная корица
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_CLOVE:
+  name: Варёная гвоздика
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_COCOA_BEANS:
+  name: Варёные какао-бобы
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_COD:
+  name: Варёная треска
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_COURGETTE:
+  name: Варёный цукини
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_CUCUMBER:
+  name: Варёный огурец
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_CUMIN:
+  name: Варёная зира
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_CURRY_LEAF:
+  name: Варёный лист карри
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_DILL:
+  name: Варёный укроп
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_EGG:
+  name: Варёное яйцо
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_ENCHANTED_GOLDEN_APPLE:
+  name: Варёное зачарованное золотое яблоко
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_FENNEL:
+  name: Варёный фенхель
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_GARLIC:
+  name: Варёный чеснок
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_GINGER:
+  name: Варёный имбирь
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_GLOW_BERRIES:
+  name: Варёные светящиеся ягоды
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_GOLDEN_APPLE:
+  name: Варёное золотое яблоко
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_GOLDEN_CARROT:
+  name: Варёная золотая морковь
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_GRAPE:
+  name: Варёный виноград
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_GREEN_APPLE:
+  name: Варёное зелёное яблоко
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_GREEN_BEANS:
+  name: Варёная стручковая фасоль
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_GREEN_ONION:
+  name: Варёный зелёный лук
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_HAZELNUT:
+  name: Варёный фундук
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_HORSERADISH:
+  name: Варёный хрен
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_JALAPENO:
+  name: Варёный халапеньо
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_JASMINE:
+  name: Варёный жасмин
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_JUNIPER_BERRY:
+  name: Варёные можжевеловые ягоды
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_KAFFIR_LIME:
+  name: Варёный лист кафрского лайма
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_KALE:
+  name: Варёная кудрявая капуста
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_KELP:
+  name: Варёная ламинария
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_KIWI:
+  name: Варёное киви
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_LAVENDER:
+  name: Варёная лаванда
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_LEEK:
+  name: Варёный лук-порей
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_LEMON:
+  name: Варёный лимон
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_LETTUCE:
+  name: Варёный салат-латук
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_LICORICE:
+  name: Варёная лакрица
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_LIME:
+  name: Варёный лайм
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_MACE:
+  name: Варёный мацис
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_MANGO:
+  name: Варёное манго
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_MARJORAM:
+  name: Варёный майоран
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_MARROW:
+  name: Варёный кабачок
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_MELON:
+  name: Варёный арбуз
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_MINT:
+  name: Варёная мята
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_MUSTARD_SEEDS:
+  name: Варёные горчичные семена
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_MUTTON:
+  name: Варёная баранина
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_NETTLES:
+  name: Варёная крапива
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_OKRA:
+  name: Варёная бамия
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_ONION:
+  name: Варёный лук
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_ORANGE:
+  name: Варёный апельсин
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_OREGANO:
+  name: Варёное орегано
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_PARSLEY:
+  name: Варёная петрушка
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_PARSNIP:
+  name: Варёный пастернак
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_PEA:
+  name: Варёный горох
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_PEACH:
+  name: Варёный персик
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_PEANUT:
+  name: Варёный арахис
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_PEAR:
+  name: Варёная груша
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_PECAN:
+  name: Варёный пекан
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_PEPPER:
+  name: Варёный чёрный перец
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_PEPPERONI:
+  name: Варёная пепперони
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_PINEAPPLE:
+  name: Варёный ананас
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_PINTO_BEANS:
+  name: Варёная фасоль пинто
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_PORKCHOP:
+  name: Варёная свинина
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_POTATO:
+  name: Варёный картофель
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_PUFFERFISH:
+  name: Варёный иглобрюх
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_PUMPKIN:
+  name: Варёная тыква
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_RABBIT:
+  name: Варёный кролик
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_RADDISH:
+  name: Варёный редис
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_RADICCHIO:
+  name: Варёное радиккьо
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_RAPESEED:
+  name: Варёный рапс
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_RED_MUSHROOM:
+  name: Варёный красный гриб
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_RHUBARB:
+  name: Варёный ревень
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_RICE:
+  name: Варёный рис
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_ROSEMARY:
+  name: Варёный розмарин
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_ROTTEN_FLESH:
+  name: Варёная гнилая плоть
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_RUNNER_BEANS:
+  name: Варёная огненная фасоль
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_RUTABAGA:
+  name: Варёная брюква
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_SALMON:
+  name: Варёный лосось
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_SASSAFRAS:
+  name: Варёный сассафрас
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_SHALLOT:
+  name: Варёный лук-шалот
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_SHISO:
+  name: Варёное шисо
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_SOY_BEANS:
+  name: Варёные соевые бобы
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_SPINACH:
+  name: Варёный шпинат
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_STAR_ANISE:
+  name: Варёный бадьян
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_STRAWBERRY:
+  name: Варёная клубника
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_SUGAR:
+  name: Варёный сахар
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_SWEETCORN:
+  name: Варёная сладкая кукуруза
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_SWEET_BERRIES:
+  name: Варёные сладкие ягоды
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_SWEET_POTATO:
+  name: Варёный батат
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_TARRAGON:
+  name: Варёный эстрагон
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_THYME:
+  name: Варёный тимьян
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_TOMATO:
+  name: Варёный помидор
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_TURMERIC:
+  name: Варёная куркума
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_TURNIP:
+  name: Варёная репа
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_VANILLA:
+  name: Варёная ваниль
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_WASABI:
+  name: Варёный васаби
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOILED_WHEAT:
+  name: Варёная пшеница
+  type:
+  - '&7&oПобочный продукт'
+CLT_BOWL_OF_STEVE:
+  name: Миска... Стива?
+  type:
+  - '&7&oЕда'
+  description:
+  - Это что ещё за &%£$
+  stats:
+  - '&8⇨ &bУтомление X &7(10:00)'
+  - '&8⇨ &bЗамедление VI &7(10:00)'
+  - '&8⇨ &bСила X &7(10:00)'
+  - '&8⇨ &7Оставляет тебе 1/2 сердца'
+CLT_BROCCOLI:
+  name: Брокколи
+  type:
+  - '&7&oУрожай'
+  description:
+  - Ты великан, который держит дерево?
+  - Не, это просто крошечное деревце :)
+CLT_BRUSSELS_SPROUTS:
+  name: Брюссельская капуста
+  type:
+  - '&7&oУрожай'
+  description:
+  - Газообразное наслаждение.
+CLT_BUSH_ARTICHOKE:
+  name: Куст артишока
+  type:
+  - '&7&oКуст'
+  description:
+  - Лучший куст, чтобы придушить им художника.
+  - Арт-и-шок. Эх. Каламбуры даются тяжко.
+CLT_BUSH_ASPARAGUS:
+  name: Куст спаржи
+  type:
+  - '&7&oКуст'
+  description:
+  - Этот куст спаржи - настоящий
+  - стебель-сталкер!
+CLT_BUSH_AUBERGINE:
+  name: Куст баклажана
+  type:
+  - '&7&oКуст'
+  description:
+  - Я отказываюсь называть его синеньким. Просто отказываюсь.
+CLT_BUSH_AVOCADO:
+  name: Куст авокадо
+  type:
+  - '&7&oКуст'
+  description:
+  - Этот куст выведен специально, чтобы
+  - не расходовать слишком много воды.
+CLT_BUSH_BASIL:
+  name: Куст базилика
+  type:
+  - '&7&oКуст'
+  description:
+  - Беззаботный куст, полный причуд.
+CLT_BUSH_BAY_LEAF:
+  name: Куст лаврового листа
+  type:
+  - '&7&oКуст'
+  description:
+  - Запах этого куста разносится на километры.
+CLT_BUSH_BELL_PEPPER:
+  name: Куст болгарского перца
+  type:
+  - '&7&oКуст'
+  description:
+  - Осторожнее, проходя мимо, а то
+  - зазвенит колокольчик.
+CLT_BUSH_BLACK_BEANS:
+  name: Куст чёрной фасоли
+  type:
+  - '&7&oКуст'
+  description:
+  - 'Этот куст нежно шепчет тебе:'
+  - Ты замечательный человек, фасолька.
+CLT_BUSH_BROCCOLI:
+  name: Куст брокколи
+  type:
+  - '&7&oКуст'
+  description:
+  - Крошечные деревья, которые можно есть? Кто это придумал!?
+CLT_BUSH_BRUSSELS_SPROUTS:
+  name: Куст брюссельской капусты
+  type:
+  - '&7&oКуст'
+  description:
+  - Куст, который иногда выделяет
+  - ядовитый газ.
+CLT_BUSH_CABBAGE:
+  name: Куст капусты
+  type:
+  - '&7&oКуст'
+  description:
+  - Куст, который несёт с собой целый
+  - кочан душевных проблем.
+CLT_BUSH_CAULIFLOWER:
+  name: Куст цветной капусты
+  type:
+  - '&7&oКуст'
+  description:
+  - Куст, способный создавать маленькие
+  - облачка удовольствия.
+CLT_BUSH_CAYENNE_PEPPER:
+  name: Куст кайенского перца
+  type:
+  - '&7&oКуст'
+  description:
+  - Куст с перчинкой в характере.
+CLT_BUSH_CELERIAC:
+  name: Куст корневого сельдерея
+  type:
+  - '&7&oКуст'
+  description:
+  - Ещё один корень растёт на кусте?
+  - СефиТупит™
+CLT_BUSH_CELERY:
+  name: Куст сельдерея
+  type:
+  - '&7&oКуст'
+  description:
+  - Этот куст лишний.
+  - Сефи не любит сельдерей.
+CLT_BUSH_CHICKPEAS:
+  name: Куст нута
+  type:
+  - '&7&oКуст'
+  description:
+  - Куст, выведенный скрещиванием курицы
+  - с горохом. НАУКА.
+CLT_BUSH_CHICORY:
+  name: Куст цикория
+  type:
+  - '&7&oКуст'
+  description:
+  - Я думал, цикорий - это корень? Этот аддон
+  - вообще проверяет факты!?
+CLT_BUSH_CHILLI_PEPPER:
+  name: Куст перца чили
+  type:
+  - '&7&oКуст'
+  description:
+  - От одного взгляда на этот куст горит язык.
+CLT_BUSH_CHIVES:
+  name: Куст шнитт-лука
+  type:
+  - '&7&oКуст'
+  description:
+  - Куст, который даёт, по сути, самую
+  - маленькую луковицу в мире.
+CLT_BUSH_CILANTRO:
+  name: Куст кинзы
+  type:
+  - '&7&oКуст'
+  description:
+  - От этого куста исходит лёгкий запах цитруса и пряностей.
+CLT_BUSH_CINNAMON:
+  name: Куст корицы
+  type:
+  - '&7&oКуст'
+  description:
+  - Восхитительно ароматный куст.
+CLT_BUSH_CLOVE:
+  name: Куст гвоздики
+  type:
+  - '&7&oКуст'
+  description:
+  - Куст, который просто напоминает мне о Рождестве.
+CLT_BUSH_COURGETTE:
+  name: Куст цукини
+  type:
+  - '&7&oКуст'
+  description:
+  - Почему этот куст всё время кричит
+  - «Зуккини»? Американец, что ли?
+CLT_BUSH_CUCUMBER:
+  name: Куст огурца
+  type:
+  - '&7&oКуст'
+  description:
+  - Этот куст создан исключительно ради
+  - твоих чудесных летних салатов.
+CLT_BUSH_CUMIN:
+  name: Куст зиры
+  type:
+  - '&7&oКуст'
+  description:
+  - Куст, источающий тёплый цитрусовый аромат.
+CLT_BUSH_CURRY_LEAF:
+  name: Куст листа карри
+  type:
+  - '&7&oКуст'
+  description:
+  - Лучше всего обжаривать всухую.
+CLT_BUSH_DILL:
+  name: Куст укропа
+  type:
+  - '&7&oКуст'
+  description:
+  - Этот куст растёт гораздо быстрее других.
+CLT_BUSH_FENNEL:
+  name: Куст фенхеля
+  type:
+  - '&7&oКуст'
+  description:
+  - Почему этот куст отпугивает жуков!?
+CLT_BUSH_GARLIC:
+  name: Куст чеснока
+  type:
+  - '&7&oКуст'
+  description:
+  - Изо рта у этого куста пахнет хуже всех.
+CLT_BUSH_GINGER:
+  name: Куст имбиря
+  type:
+  - '&7&oКуст'
+  description:
+  - Этот куст хорош, если сварить его целиком.
+CLT_BUSH_GRAPE:
+  name: Куст винограда
+  type:
+  - '&7&oКуст'
+  description:
+  - Спелый и сочный виноград, который
+  - так и падает с куста.
+CLT_BUSH_GREEN_BEANS:
+  name: Куст стручковой фасоли
+  type:
+  - '&7&oКуст'
+  description:
+  - Полей этот куст томатным соусом,
+  - и получится печёная фасоль.
+CLT_BUSH_GREEN_ONION:
+  name: Куст зелёного лука
+  type:
+  - '&7&oКуст'
+  description:
+  - Также известен как скальон.
+  - Зелёный лук обычно мягче
+  - на вкус, чем большинство луков.
+CLT_BUSH_HORSERADISH:
+  name: Куст хрена
+  type:
+  - '&7&oКуст'
+  description:
+  - Опять же, то, что это растёт на кусте, просто лишено смысла.
+CLT_BUSH_JALAPENO:
+  name: Куст халапеньо
+  type:
+  - '&7&oКуст'
+  description:
+  - Держа в руках этот куст, ты получаешь
+  - 1% шанс вспыхнуть.
+CLT_BUSH_JASMINE:
+  name: Куст жасмина
+  type:
+  - '&7&oКуст'
+  description:
+  - Аромат этого куста такой нежный и мягкий.
+CLT_BUSH_JUNIPER_BERRY:
+  name: Куст можжевельника
+  type:
+  - '&7&oКуст'
+  description:
+  - На кусте сладкие, а в сушёном виде перечные.
+CLT_BUSH_KAFFIR_LIME:
+  name: Куст кафрского лайма
+  type:
+  - '&7&oКуст'
+  description:
+  - Куст, чьи листья ценятся больше, чем его плоды.
+CLT_BUSH_KALE:
+  name: Куст кудрявой капусты
+  type:
+  - '&7&oКуст'
+  description:
+  - Сажая этот куст, ты чувствуешь,
+  - что скоро будешь весь в капусте.
+CLT_BUSH_LAVENDER:
+  name: Куст лаванды
+  type:
+  - '&7&oКуст'
+  description:
+  - Этот куст разносит свой запах повсюду.
+CLT_BUSH_LEEK:
+  name: Куст лука-порея
+  type:
+  - '&7&oКуст'
+  description:
+  - А ты знал, что лук-порей - это просто лук,
+  - который носит корсет? Чистая правда.
+CLT_BUSH_LETTUCE:
+  name: Куст салата-латука
+  type:
+  - '&7&oКуст'
+  description:
+  - Разве салат-латук растёт на кустах?
+  - 'Спойлер: нет, не растёт.'
+CLT_BUSH_LICORICE:
+  name: Куст солодки
+  type:
+  - '&7&oКуст'
+  description:
+  - Фу
+CLT_BUSH_MACE:
+  name: Куст мациса
+  type:
+  - '&7&oКуст'
+  description:
+  - Кажется, этот куст отпугивает нападающих?
+CLT_BUSH_MARJORAM:
+  name: Куст майорана
+  type:
+  - '&7&oКуст'
+  description:
+  - Большой куст с древесным запахом.
+CLT_BUSH_MARROW:
+  name: Куст кабачка
+  type:
+  - '&7&oКуст'
+  description:
+  - Удивительно, как этот куст выдерживает
+  - собственный вес.
+CLT_BUSH_MINT:
+  name: Куст мяты
+  type:
+  - '&7&oКуст'
+  description:
+  - Просто самый ароматный куст на свете.
+CLT_BUSH_MUSTARD:
+  name: Куст белой горчицы
+  type:
+  - '&7&oКуст'
+  description:
+  - Как огонь во рту.
+CLT_BUSH_NETTLES:
+  name: Куст крапивы
+  type:
+  - '&7&oКуст'
+  description:
+  - Осторожнее, когда идёшь сквозь этот куст!
+CLT_BUSH_OKRA:
+  name: Куст бамии
+  type:
+  - '&7&oКуст'
+  description:
+  - Признан овощем номер 1 по версии
+  - Овощного клуба Бамии Уинфри.
+CLT_BUSH_ONION:
+  name: Куст лука
+  type:
+  - '&7&oКуст'
+  description:
+  - Тебе не кажется, что этот куст вот-вот расплачется?
+CLT_BUSH_OREGANO:
+  name: Куст орегано
+  type:
+  - '&7&oКуст'
+  description:
+  - Этот едко пахнущий куст отпугивает гостей.
+CLT_BUSH_PARSLEY:
+  name: Куст петрушки
+  type:
+  - '&7&oКуст'
+  description:
+  - Брось этот куст в лаву, живо :D
+CLT_BUSH_PARSNIP:
+  name: Куст пастернака
+  type:
+  - '&7&oКуст'
+  description:
+  - Обойдись без посредников и обжарь
+  - прямо весь куст.
+CLT_BUSH_PEA:
+  name: Куст гороха
+  type:
+  - '&7&oКуст'
+  description:
+  - Как об стену горох.
+CLT_BUSH_PEANUTS:
+  name: Куст арахиса
+  type:
+  - '&7&oКуст'
+  description: &id001
+  - Плотный, ароматный и полный белка.
+CLT_BUSH_PEPPER:
+  name: Куст чёрного перца
+  type:
+  - '&7&oКуст'
+  description:
+  - Чёрный перец был важной частью
+  - торговли пряностями между Индией и Европой
+  - ещё во времена греков и римлян.
+CLT_BUSH_PINTO_BEANS:
+  name: Куст фасоли пинто
+  type:
+  - '&7&oКуст'
+  description:
+  - Недалёк тот день, когда мы выведем
+  - куст, на котором растут сразу буррито, да?
+CLT_BUSH_RADDISH:
+  name: Куст редиса
+  type:
+  - '&7&oКуст'
+  description:
+  - Это растение только что сделало трюк на скейте.
+  - Вот это редиск-класс!
+CLT_BUSH_RADICCHIO:
+  name: Куст радиккьо
+  type:
+  - '&7&oКуст'
+  description:
+  - Хочешь казаться утончённым? Добавь радиккьо
+  - в любое блюдо. По сути это капуста, но
+  - ты сразу выглядишь изысканно.
+CLT_BUSH_RAPESEED:
+  name: Куст рапса
+  type:
+  - '&7&oКуст'
+  description:
+  - Этот куст выделяет какое-то маслянистое вещество.
+CLT_BUSH_RHUBARB:
+  name: Куст ревеня
+  type:
+  - '&7&oКуст'
+  description:
+  - А ты знал, что ревень - это овощ?
+  - Я думал, это так медведь ревёт.
+CLT_BUSH_RICE:
+  name: Куст риса
+  type:
+  - '&7&oКуст'
+  description:
+  - Главная основа любого рациона.
+CLT_BUSH_ROSEMARY:
+  name: Куст розмарина
+  type:
+  - '&7&oКуст'
+  description:
+  - Куст, чей запах напоминает воскресные обеды.
+CLT_BUSH_RUNNER_BEANS:
+  name: Куст огненной фасоли
+  type:
+  - '&7&oКуст'
+  description:
+  - У этого куста есть ноги О.о?
+CLT_BUSH_RUTABAGA:
+  name: Куст брюквы
+  type:
+  - '&7&oКуст'
+  description:
+  - Брюква. Шведская, между прочим.
+CLT_BUSH_SASSAFRAS:
+  name: Куст сассафраса
+  type:
+  - '&7&oКуст'
+  description:
+  - Этот куст любит, когда его сажают у небольших
+  - водоёмов.
+CLT_BUSH_SHALLOT:
+  name: Куст лука-шалота
+  type:
+  - '&7&oКуст'
+  description:
+  - Этот куст быстро даёт чудесные мини-луковицы.
+  - К счастью, шалить с ним не придётся.
+CLT_BUSH_SHISO:
+  name: Куст шисо
+  type:
+  - '&7&oКуст'
+  description:
+  - Мне нравится думать, что этот куст - дитя любви
+  - мятного и базиликового кустов. Жаль, что
+  - скрещивать кусты нельзя!
+CLT_BUSH_SOY_BEANS:
+  name: Куст сои
+  type:
+  - '&7&oКуст'
+  description:
+  - Этот куст - дружелюбная радость. С ним
+  - я соевершенно счастлив.
+CLT_BUSH_SPINACH:
+  name: Куст шпината
+  type:
+  - '&7&oКуст'
+  description:
+  - Этот куст - лучший друг морячка Попая.
+CLT_BUSH_STAR_ANISE:
+  name: Куст бадьяна
+  type:
+  - '&7&oКуст'
+  description:
+  - От этого куста исходит запах, настолько
+  - присущий бадьяну, что даже не верится.
+CLT_BUSH_STRAWBERRY:
+  name: Куст клубники
+  type:
+  - '&7&oКуст'
+  description: *id001
+CLT_BUSH_SWEETCORN:
+  name: Куст сладкой кукурузы
+  type:
+  - '&7&oКуст'
+  description:
+  - Этот куст прямо-таки просится, чтобы из него
+  - построили лабиринт.
+CLT_BUSH_SWEET_POTATO:
+  name: Куст батата
+  type:
+  - '&7&oКуст'
+  description:
+  - Этот куст такой милый. Я слышал, как он
+  - делал тебе комплименты, пока ты не слушал.
+CLT_BUSH_TARRAGON:
+  name: Куст эстрагона
+  type:
+  - '&7&oКуст'
+  description:
+  - Этот куст не любит привлекать к себе внимание.
+CLT_BUSH_THYME:
+  name: Куст тимьяна
+  type:
+  - '&7&oКуст'
+  description:
+  - Этому кусту вечно не хватает... времь... тимьяна... *кхе*
+CLT_BUSH_TOMATO:
+  name: Куст помидора
+  type:
+  - '&7&oКуст'
+  description:
+  - Спелый и готовый.
+CLT_BUSH_TURMERIC:
+  name: Куст куркумы
+  type:
+  - '&7&oКуст'
+  description:
+  - Стоит лишь взять этот куст в руки,
+  - как в нос ударяет волна пряностей.
+CLT_BUSH_TURNIP:
+  name: Куст репы
+  type:
+  - '&7&oКуст'
+  description:
+  - По мнению британского правительства,
+  - этот куст решит все наши проблемы.
+CLT_BUSH_VANILLA:
+  name: Куст ванили
+  type:
+  - '&7&oКуст'
+  description:
+  - В дикой природе этот куст растёт возле кофеен «Старбакс».
+CLT_BUSH_WASABI:
+  name: Куст васаби
+  type:
+  - '&7&oКуст'
+  description:
+  - Ещё один корень растёт на кусте?
+  - Эх...
+CLT_CABBAGE:
+  name: Капуста
+  type:
+  - '&7&oУрожай'
+  description:
+  - Целый вагон капусты.
+CLT_CAESAR_SALAD:
+  name: Салат «Цезарь»
+  type:
+  - '&7&oЕда'
+  description:
+  - Полезная классика.
+  stats:
+  - '&8⇨ &7Лечение: &b6 сердец'
+  - '&8⇨ &bСкорость I &7(10:00)'
+  - '&8⇨ &bНевидимость I &7(10:00)'
+  - '&8⇨ &bПлавное падение I &7(10:00)'
+CLT_CAJUN_GARLIC_BUTTER_COD:
+  name: Треска в чесночном масле по-каджунски
+  type:
+  - '&7&oЕда'
+  description:
+  - Очень простое блюдо, полное вкуса.
+  stats:
+  - '&8⇨ &7Лечение: &b4 сердца'
+  - '&8⇨ &bРегенерация II &7(10:00)'
+  - '&8⇨ &bСкорость I &7(10:00)'
+CLT_CAULIFLOWER:
+  name: Цветная капуста
+  type:
+  - '&7&oУрожай'
+  description:
+  - Переносное облачко!
+CLT_CAYENNE_PEPPER:
+  name: Кайенский перец
+  type:
+  - '&7&oУрожай'
+  description:
+  - Мягкое пряное лакомство.
+CLT_CELERIAC:
+  name: Корневой сельдерей
+  type:
+  - '&7&oУрожай'
+  description:
+  - Сытный корень, который укоренился (хе)
+  - во многих традиционных рецептах.
+CLT_CELERY:
+  name: Сельдерей
+  type:
+  - '&7&oУрожай'
+  description:
+  - Это буквально волокнистая вода.
+  - Переубеди меня.
+CLT_CHEESE_BURGER:
+  name: Бургер
+  type:
+  - '&7&oЕда'
+  description:
+  - Простой чизбургер, но ничто его не превзойдёт!
+  stats:
+  - '&8⇨ &7Лечение: &b4 сердца'
+  - '&8⇨ &bРегенерация III &7(10:00)'
+CLT_CHEESY_SCALLOPED_COURGETTE:
+  name: Запечённые цукини с сыром
+  type:
+  - '&7&oЕда'
+  description:
+  - Низкоуглеводная версия потрясающей классики.
+  stats:
+  - '&8⇨ &7Лечение: &b2 сердца'
+  - '&8⇨ &bНочное зрение I &7(10:00)'
+  - '&8⇨ &bНевидимость I &7(10:00)'
+CLT_CHERRY:
+  name: Вишня
+  type:
+  - '&7&oУрожай'
+  description:
+  - А я думал, она сразу растёт в глазури. Жаль!
+CLT_CHESTNUT:
+  name: Каштан
+  type:
+  - '&7&oУрожай'
+  description:
+  - Создано, чтобы его немедленно запекли.
+CLT_CHICKEN_ALFREDO_MAC_AND_CHEESE:
+  name: Макароны с сыром и курицей «Альфредо»
+  type:
+  - '&7&oЕда'
+  description:
+  - Изысканный вариант привычной классики.
+  stats:
+  - '&8⇨ &7Лечение: &b1 сердце'
+  - '&8⇨ &bОгнестойкость II &7(10:00)'
+  - '&8⇨ &bСопротивление III &7(10:00)'
+CLT_CHICKEN_PASTA_BAKE:
+  name: Запеканка из пасты с курицей
+  type:
+  - '&7&oЕда'
+  description:
+  - Основа студенческого рациона.
+  stats:
+  - '&8⇨ &7Лечение: &b5 сердец'
+  - '&8⇨ &bНочное зрение I &7(10:00)'
+  - '&8⇨ &bПодводное дыхание I &7(10:00)'
+CLT_CHICKEN_POT_PIE:
+  name: Куриный пирог
+  type:
+  - '&7&oЕда'
+  description:
+  - Согревающее блюдо, от которого сразу по-домашнему уютно.
+  stats:
+  - '&8⇨ &7Лечение: &b10 сердец'
+  - '&8⇨ &bПрыгучесть II &7(10:00)'
+  - '&8⇨ &bНасыщенность I &7(10:00)'
+CLT_CHICKPEAS:
+  name: Нут
+  type:
+  - '&7&oУрожай'
+  description:
+  - Блэк Айд Пис поют песни, а нут умеет только хумусить себе под нос.
+CLT_CHICORY:
+  name: Цикорий
+  type:
+  - '&7&oУрожай'
+  description:
+  - Орехово-горький корень.
+CLT_CHILLY_PEPPER:
+  name: Жгучий перец
+  type:
+  - '&7&oУрожай'
+  description:
+  - Я могу съесть целый перец и не заплакать.
+  - Ну, половину.
+  - НУУУУ... 1/4
+  - '...'
+  - Ладно, я могу лизнуть его кончиком языка
+CLT_CHIVES:
+  name: Шнитт-лук
+  type:
+  - '&7&oУрожай'
+  description:
+  - Сладкая трава со вкусом лука.
+CLT_CHOPPED_APPLE:
+  name: Рубленое яблоко
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_APRICOT:
+  name: Рубленый абрикос
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_ARTICHOKE:
+  name: Рубленый артишок
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_ASPARAGUS:
+  name: Рубленая спаржа
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_AUBERGINE:
+  name: Рубленый баклажан
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_AVOCADO:
+  name: Рубленое авокадо
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_BANANA:
+  name: Рубленый банан
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_BASIL:
+  name: Рубленый базилик
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_BAY_LEAF:
+  name: Рубленый лавровый лист
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_BEEF:
+  name: Рубленая говядина
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_BEETROOT:
+  name: Рубленая свёкла
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_BELL_PEPPER:
+  name: Рубленый болгарский перец
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_BLACK_BEANS:
+  name: Рубленая чёрная фасоль
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_BREAD:
+  name: Рубленый хлеб
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_BROCCOLI:
+  name: Рубленая брокколи
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_BROWN_MUSHROOM:
+  name: Рубленый коричневый гриб
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_BRUSSELS_SPROUTS:
+  name: Рубленая брюссельская капуста
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_CABBAGE:
+  name: Рубленая капуста
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_CARROT:
+  name: Рубленая морковь
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_CAULIFLOWER:
+  name: Рубленая цветная капуста
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_CAYENNE_PEPPER:
+  name: Рубленый кайенский перец
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_CELERIAC:
+  name: Рубленый корневой сельдерей
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_CELERY:
+  name: Рубленый сельдерей
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_CHERRY:
+  name: Рубленая вишня
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_CHESTNUT:
+  name: Рубленый каштан
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_CHICKEN:
+  name: Рубленая курица
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_CHICKPEAS:
+  name: Рубленый нут
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_CHICORY:
+  name: Рубленый цикорий
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_CHILLY_PEPPER:
+  name: Рубленый жгучий перец
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_CHIVES:
+  name: Рубленый шнитт-лук
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_CHORUS_FRUIT:
+  name: Рубленый плод хоруса
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_CILANTRO:
+  name: Рубленая кинза
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_CINNAMON:
+  name: Рубленая корица
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_CLOVE:
+  name: Рубленая гвоздика
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_COCOA_BEANS:
+  name: Рубленые какао-бобы
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_COD:
+  name: Рубленая треска
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_COURGETTE:
+  name: Рубленый цукини
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_CUCUMBER:
+  name: Рубленый огурец
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_CUMIN:
+  name: Рубленая зира
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_CURRY_LEAF:
+  name: Рубленый лист карри
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_DILL:
+  name: Рубленый укроп
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_EGG:
+  name: Рубленое яйцо
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_ENCHANTED_GOLDEN_APPLE:
+  name: Рубленое зачарованное золотое яблоко
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_FENNEL:
+  name: Рубленый фенхель
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_GARLIC:
+  name: Рубленый чеснок
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_GINGER:
+  name: Рубленый имбирь
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_GLOW_BERRIES:
+  name: Рубленые светящиеся ягоды
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_GOLDEN_APPLE:
+  name: Рубленое золотое яблоко
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_GOLDEN_CARROT:
+  name: Рубленая золотая морковь
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_GRAPE:
+  name: Рубленый виноград
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_GREEN_APPLE:
+  name: Рубленое зелёное яблоко
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_GREEN_BEANS:
+  name: Рубленая стручковая фасоль
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_GREEN_ONION:
+  name: Рубленый зелёный лук
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_HAZELNUT:
+  name: Рубленый фундук
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_HORSERADISH:
+  name: Рубленый хрен
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_JALAPENO:
+  name: Рубленый халапеньо
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_JASMINE:
+  name: Рубленый жасмин
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_JUNIPER_BERRY:
+  name: Рубленые можжевеловые ягоды
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_KAFFIR_LIME:
+  name: Рубленый лист кафрского лайма
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_KALE:
+  name: Рубленая кудрявая капуста
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_KELP:
+  name: Рубленая ламинария
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_KIWI:
+  name: Рубленое киви
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_LAVENDER:
+  name: Рубленая лаванда
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_LEEK:
+  name: Рубленый лук-порей
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_LEMON:
+  name: Рубленый лимон
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_LETTUCE:
+  name: Рубленый салат-латук
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_LICORICE:
+  name: Рубленая лакрица
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_LIME:
+  name: Рубленый лайм
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_MACE:
+  name: Рубленый мацис
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_MANGO:
+  name: Рубленое манго
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_MARJORAM:
+  name: Рубленый майоран
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_MARROW:
+  name: Рубленый кабачок
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_MELON:
+  name: Рубленый арбуз
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_MINT:
+  name: Рубленая мята
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_MUSTARD_SEEDS:
+  name: Рубленые горчичные семена
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_MUTTON:
+  name: Рубленая баранина
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_NETTLES:
+  name: Рубленая крапива
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_OKRA:
+  name: Рубленая бамия
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_ONION:
+  name: Рубленый лук
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_ORANGE:
+  name: Рубленый апельсин
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_OREGANO:
+  name: Рубленое орегано
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_PARSLEY:
+  name: Рубленая петрушка
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_PARSNIP:
+  name: Рубленый пастернак
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_PEA:
+  name: Рубленый горох
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_PEACH:
+  name: Рубленый персик
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_PEANUT:
+  name: Рубленый арахис
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_PEAR:
+  name: Рубленая груша
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_PECAN:
+  name: Рубленый пекан
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_PEPPER:
+  name: Рубленый чёрный перец
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_PEPPERONI:
+  name: Рубленая пепперони
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_PINEAPPLE:
+  name: Рубленый ананас
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_PINTO_BEANS:
+  name: Рубленая фасоль пинто
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_PORKCHOP:
+  name: Рубленая свинина
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_POTATO:
+  name: Рубленый картофель
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_PUFFERFISH:
+  name: Рубленый иглобрюх
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_PUMPKIN:
+  name: Рубленая тыква
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_RABBIT:
+  name: Рубленый кролик
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_RADDISH:
+  name: Рубленый редис
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_RADICCHIO:
+  name: Рубленое радиккьо
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_RAPESEED:
+  name: Рубленый рапс
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_RED_MUSHROOM:
+  name: Рубленый красный гриб
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_RHUBARB:
+  name: Рубленый ревень
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_RICE:
+  name: Рубленый рис
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_ROSEMARY:
+  name: Рубленый розмарин
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_ROTTEN_FLESH:
+  name: Рубленая гнилая плоть
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_RUNNER_BEANS:
+  name: Рубленая огненная фасоль
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_RUTABAGA:
+  name: Рубленая брюква
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_SALMON:
+  name: Рубленый лосось
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_SASSAFRAS:
+  name: Рубленый сассафрас
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_SHALLOT:
+  name: Рубленый лук-шалот
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_SHISO:
+  name: Рубленое шисо
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_SOY_BEANS:
+  name: Рубленые соевые бобы
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_SPINACH:
+  name: Рубленый шпинат
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_STAR_ANISE:
+  name: Рубленый бадьян
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_STRAWBERRY:
+  name: Рубленая клубника
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_SUGAR:
+  name: Рубленый сахар
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_SWEETCORN:
+  name: Рубленая сладкая кукуруза
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_SWEET_BERRIES:
+  name: Рубленые сладкие ягоды
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_SWEET_POTATO:
+  name: Рубленый батат
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_TARRAGON:
+  name: Рубленый эстрагон
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_THYME:
+  name: Рубленый тимьян
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_TOMATO:
+  name: Рубленый помидор
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_TURMERIC:
+  name: Рубленая куркума
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_TURNIP:
+  name: Рубленая репа
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_VANILLA:
+  name: Рубленая ваниль
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_WASABI:
+  name: Рубленый васаби
+  type:
+  - '&7&oПобочный продукт'
+CLT_CHOPPED_WHEAT:
+  name: Рубленая пшеница
+  type:
+  - '&7&oПобочный продукт'
+CLT_CILANTRO:
+  name: Кинза
+  type:
+  - '&7&oУрожай'
+  description:
+  - Мягкая пряность с ноткой цитруса.
+CLT_CINNAMON:
+  name: Корица
+  type:
+  - '&7&oУрожай'
+  description:
+  - Её здорово грызть прямо в палочках.
+CLT_CINNAMON_ROLL:
+  name: Булочка с корицей
+  type:
+  - '&7&oЕда'
+  description:
+  - Сладкое удовольствие, свёрнутое ради веселья.
+  - Съешь её, и мир перевернётся вверх дном!
+  stats:
+  - '&8⇨ &7Лечение: &b4 сердца'
+  - '&8⇨ &bЛевитация I &7(10:00)'
+  - '&8⇨ &bПлавное падение I &7(10:00)'
+CLT_CLOVE:
+  name: Гвоздика
+  type:
+  - '&7&oУрожай'
+  description:
+  - Очень тёплый и насыщенный вкус.
+CLT_COMPRESSED_BISCUIT:
+  name: Прессованное печенье
+  type:
+  - '&7&oЕда'
+  description:
+  - Маленький перекус с огромнейшим вкусом.
+  stats: *id002
+CLT_COOKED_BURGER_PATTY:
+  name: Готовая котлета для бургера
+  type:
+  - '&7&oУрожай'
+  description:
+  - Так и сочится
+CLT_COUNTER_BLENDER:
+  name: Кухонная стойка (блендер)
+  type:
+  - '&7&oМеханизм'
+  description:
+  - Нажми ПКМ по этому блоку, чтобы измельчить продукты.
+  usage: &id003
+  - Совет! Поставив блок, нажми Шифт + ПКМ,
+  - и блок(и) у тебя в руке изменят
+  - дизайн кухни. Попробуй!
+CLT_COUNTER_BOILING:
+  name: Кухонная стойка (кастрюля)
+  type:
+  - '&7&oМеханизм'
+  description:
+  - Может варить некоторые предметы.
+  usage: *id003
+CLT_COUNTER_CHOPPING:
+  name: Кухонная стойка (разделочная доска)
+  type:
+  - '&7&oМеханизм'
+  description:
+  - Нажми ПКМ по этому блоку, чтобы нарубить продукты.
+  usage: *id003
+CLT_COUNTER_FINISHING:
+  name: Кухонная стойка (сервировка)
+  type:
+  - '&7&oМеханизм'
+  description:
+  - Превращает продукты и полуфабрикаты
+  - в другие полуфабрикаты или готовые блюда.
+  usage: *id003
+CLT_COUNTER_FRYING:
+  name: Кухонная стойка (сковорода)
+  type:
+  - '&7&oМеханизм'
+  description:
+  - Может жарить некоторые продукты.
+  usage: *id003
+CLT_COUNTER_GRILL:
+  name: Кухонная стойка (гриль)
+  type:
+  - '&7&oМеханизм'
+  description:
+  - Может готовить некоторые продукты на гриле.
+  usage: *id003
+CLT_COUNTER_GRINDER:
+  name: Кухонная стойка (ступка с пестиком)
+  type:
+  - '&7&oМеханизм'
+  description:
+  - Нажми ПКМ по этому блоку, чтобы смолоть продукты.
+  usage: *id003
+CLT_COUNTER_MASHER:
+  name: Кухонная стойка (миска для пюре)
+  type:
+  - '&7&oМеханизм'
+  description:
+  - Нажми ПКМ по этому блоку, чтобы растолочь продукты.
+  usage: *id003
+CLT_COUNTER_NOTHING:
+  name: Кухонная стойка (пустая)
+  type:
+  - '&7&oМеханизм'
+  description:
+  - Просто для красоты!
+  usage: *id003
+CLT_COUNTER_OVEN:
+  name: Кухонная стойка (духовка)
+  type:
+  - '&7&oМеханизм'
+  description:
+  - Может запекать некоторые продукты.
+  usage: *id003
+CLT_COUNTER_SLICING:
+  name: Кухонная стойка (доска для нарезки)
+  type:
+  - '&7&oМеханизм'
+  description:
+  - Нажми ПКМ по этому блоку, чтобы нарезать продукты.
+  usage: *id003
+CLT_COURGETTE:
+  name: Цукини
+  type:
+  - '&7&oУрожай'
+  description:
+  - 'Совет: натри это в любой соус для пасты'
+  - ради глубины вкуса и текстуры.
+CLT_CREAM_CHEESE:
+  name: Сливочный сыр
+  type:
+  - '&7&oУрожай'
+  description:
+  - Скорее сливочный, чем сырный.
+CLT_CROP_STICKS:
+  name: Опоры для посевов
+  type:
+  - '&7&oИнструмент'
+  description:
+  - Опоры для посевов нужно установить
+  - на посаженное семя, чтобы оно росло.
+  - Второй комплект опор скрещивает
+  - растение, позволяя ему разрастаться
+  - и/или размножаться.
+CLT_CUCUMBER:
+  name: Огурец
+  type:
+  - '&7&oУрожай'
+  description:
+  - Вода в зелёной кожуре, докажи,
+  - что я неправ.
+CLT_CUMIN:
+  name: Зира
+  type:
+  - '&7&oУрожай'
+  description:
+  - Тёплое цитрусовое растение.
+CLT_CURRY_LEAF:
+  name: Лист карри
+  type:
+  - '&7&oУрожай'
+  description:
+  - Основа множества чудесных блюд.
+CLT_DILL:
+  name: Укроп
+  type:
+  - '&7&oУрожай'
+  description:
+  - По-моему, на вкус как трава. Почему
+  - людям это нравится?
+CLT_DOUGH:
+  name: Тесто
+  type:
+  - '&7&oУрожай'
+  description:
+  - Просто обычное тесто!
+CLT_EGG_SALAD:
+  name: Яичный салат
+  type:
+  - '&7&oУрожай'
+  description:
+  - Открой это в поезде, если осмелишься!
+CLT_EGG_SALAD_SANDWICH:
+  name: Сэндвич с яичным салатом
+  type:
+  - '&7&oЕда'
+  description:
+  - Пахнет так себе, зато на вкус потрясающе!
+  stats: &id006
+  - '&8⇨ &7Лечение: &b10 сердец'
+  - '&8⇨ &bРегенерация II &7(10:00)'
+CLT_FENNEL:
+  name: Фенхель
+  type:
+  - '&7&oУрожай'
+  description:
+  - Что-то среднее между анисом и лакрицей.
+CLT_FRIED_APPLE:
+  name: Жареное яблоко
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_APRICOT:
+  name: Жареный абрикос
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_ARTICHOKE:
+  name: Жареный артишок
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_ASPARAGUS:
+  name: Жареная спаржа
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_AUBERGINE:
+  name: Жареный баклажан
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_AVOCADO:
+  name: Жареное авокадо
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_BANANA:
+  name: Жареный банан
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_BASIL:
+  name: Жареный базилик
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_BAY_LEAF:
+  name: Жареный лавровый лист
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_BEEF:
+  name: Жареная говядина
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_BEETROOT:
+  name: Жареная свёкла
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_BELL_PEPPER:
+  name: Жареный болгарский перец
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_BLACK_BEANS:
+  name: Жареная чёрная фасоль
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_BREAD:
+  name: Жареный хлеб
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_BROCCOLI:
+  name: Жареная брокколи
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_BROWN_MUSHROOM:
+  name: Жареный коричневый гриб
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_BRUSSELS_SPROUTS:
+  name: Жареная брюссельская капуста
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_CABBAGE:
+  name: Жареная капуста
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_CARROT:
+  name: Жареная морковь
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_CAULIFLOWER:
+  name: Жареная цветная капуста
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_CAYENNE_PEPPER:
+  name: Жареный кайенский перец
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_CELERIAC:
+  name: Жареный корневой сельдерей
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_CELERY:
+  name: Жареный сельдерей
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_CHERRY:
+  name: Жареная вишня
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_CHESTNUT:
+  name: Жареный каштан
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_CHICKEN:
+  name: Жареная курица
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_CHICKPEAS:
+  name: Жареный нут
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_CHICORY:
+  name: Жареный цикорий
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_CHILLY_PEPPER:
+  name: Жареный жгучий перец
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_CHIVES:
+  name: Жареный шнитт-лук
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_CHORUS_FRUIT:
+  name: Жареный плод хоруса
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_CILANTRO:
+  name: Жареная кинза
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_CINNAMON:
+  name: Жареная корица
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_CLOVE:
+  name: Жареная гвоздика
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_COCOA_BEANS:
+  name: Жареные какао-бобы
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_COD:
+  name: Жареная треска
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_COURGETTE:
+  name: Жареный цукини
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_CUCUMBER:
+  name: Жареный огурец
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_CUMIN:
+  name: Жареная зира
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_CURRY_LEAF:
+  name: Жареный лист карри
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_DILL:
+  name: Жареный укроп
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_EGG:
+  name: Жареное яйцо
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_ENCHANTED_GOLDEN_APPLE:
+  name: Жареное зачарованное золотое яблоко
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_FENNEL:
+  name: Жареный фенхель
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_GARLIC:
+  name: Жареный чеснок
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_GINGER:
+  name: Жареный имбирь
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_GLOW_BERRIES:
+  name: Жареные светящиеся ягоды
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_GOLDEN_APPLE:
+  name: Жареное золотое яблоко
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_GOLDEN_CARROT:
+  name: Жареная золотая морковь
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_GRAPE:
+  name: Жареный виноград
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_GREEN_APPLE:
+  name: Жареное зелёное яблоко
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_GREEN_BEANS:
+  name: Жареная стручковая фасоль
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_GREEN_ONION:
+  name: Жареный зелёный лук
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_HAZELNUT:
+  name: Жареный фундук
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_HORSERADISH:
+  name: Жареный хрен
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_JALAPENO:
+  name: Жареный халапеньо
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_JASMINE:
+  name: Жареный жасмин
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_JUNIPER_BERRY:
+  name: Жареные можжевеловые ягоды
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_KAFFIR_LIME:
+  name: Жареный лист кафрского лайма
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_KALE:
+  name: Жареная кудрявая капуста
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_KELP:
+  name: Жареная ламинария
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_KIWI:
+  name: Жареное киви
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_LAVENDER:
+  name: Жареная лаванда
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_LEEK:
+  name: Жареный лук-порей
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_LEMON:
+  name: Жареный лимон
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_LETTUCE:
+  name: Жареный салат-латук
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_LICORICE:
+  name: Жареная лакрица
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_LIME:
+  name: Жареный лайм
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_MACE:
+  name: Жареный мацис
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_MANGO:
+  name: Жареное манго
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_MARJORAM:
+  name: Жареный майоран
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_MARROW:
+  name: Жареный кабачок
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_MELON:
+  name: Жареный арбуз
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_MINT:
+  name: Жареная мята
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_MUSTARD_SEEDS:
+  name: Жареные горчичные семена
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_MUTTON:
+  name: Жареная баранина
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_NETTLES:
+  name: Жареная крапива
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_OKRA:
+  name: Жареная бамия
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_ONION:
+  name: Жареный лук
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_ORANGE:
+  name: Жареный апельсин
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_OREGANO:
+  name: Жареное орегано
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_PARSLEY:
+  name: Жареная петрушка
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_PARSNIP:
+  name: Жареный пастернак
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_PEA:
+  name: Жареный горох
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_PEACH:
+  name: Жареный персик
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_PEANUT:
+  name: Жареный арахис
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_PEAR:
+  name: Жареная груша
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_PECAN:
+  name: Жареный пекан
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_PEPPER:
+  name: Жареный чёрный перец
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_PEPPERONI:
+  name: Жареная пепперони
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_PINEAPPLE:
+  name: Жареный ананас
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_PINTO_BEANS:
+  name: Жареная фасоль пинто
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_PORKCHOP:
+  name: Жареная свинина
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_POTATO:
+  name: Жареный картофель
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_PUFFERFISH:
+  name: Жареный иглобрюх
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_PUMPKIN:
+  name: Жареная тыква
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_RABBIT:
+  name: Жареный кролик
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_RADDISH:
+  name: Жареный редис
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_RADICCHIO:
+  name: Жареное радиккьо
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_RAPESEED:
+  name: Жареный рапс
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_RED_MUSHROOM:
+  name: Жареный красный гриб
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_RHUBARB:
+  name: Жареный ревень
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_RICE:
+  name: Жареный рис
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_ROSEMARY:
+  name: Жареный розмарин
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_ROTTEN_FLESH:
+  name: Жареная гнилая плоть
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_RUNNER_BEANS:
+  name: Жареная огненная фасоль
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_RUTABAGA:
+  name: Жареная брюква
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_SALMON:
+  name: Жареный лосось
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_SASSAFRAS:
+  name: Жареный сассафрас
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_SHALLOT:
+  name: Жареный лук-шалот
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_SHISO:
+  name: Жареное шисо
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_SOY_BEANS:
+  name: Жареные соевые бобы
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_SPINACH:
+  name: Жареный шпинат
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_STAR_ANISE:
+  name: Жареный бадьян
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_STRAWBERRY:
+  name: Жареная клубника
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_SUGAR:
+  name: Жареный сахар
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_SWEETCORN:
+  name: Жареная сладкая кукуруза
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_SWEET_BERRIES:
+  name: Жареные сладкие ягоды
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_SWEET_POTATO:
+  name: Жареный батат
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_TARRAGON:
+  name: Жареный эстрагон
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_THYME:
+  name: Жареный тимьян
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_TOMATO:
+  name: Жареный помидор
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_TURMERIC:
+  name: Жареная куркума
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_TURNIP:
+  name: Жареная репа
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_VANILLA:
+  name: Жареная ваниль
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_WASABI:
+  name: Жареный васаби
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRIED_WHEAT:
+  name: Жареная пшеница
+  type:
+  - '&7&oПобочный продукт'
+CLT_FRUIT_SALAD:
+  name: Фруктовый салат
+  type:
+  - '&7&oЕда'
+  description:
+  - Если назвать это салатом, можно есть
+  - сколько угодно, ведь это полезно.
+  stats:
+  - '&8⇨ &7Лечение: &b6 сердец'
+  - '&8⇨ &bСкорость III &7(10:00)'
+CLT_FUGU:
+  name: Фугу
+  type:
+  - '&7&oЕда'
+  description:
+  - Готов бросить кости?
+  stats:
+  - '&8⇨ &7Лечение: &b1 сердце'
+  - '&8⇨ &bСила V &7(10:00)'
+  - '&8⇨ &733% шанс просто умереть!'
+CLT_GARDEN_CLOCHE:
+  name: Садовый колпак
+  type:
+  - '&7&oМеханизм'
+  description:
+  - Автоматически выращивает растения внутри себя.
+  stats:
+  - '&8⇨ &7Энергия за тик: &b100'
+CLT_GARLIC:
+  name: Чеснок
+  type:
+  - '&7&oУрожай'
+  description:
+  - Быстрее, пока не пришли вампиры!
+CLT_GARLIC_BUTTER_MUSHROOMS:
+  name: Грибы в чесночном масле
+  type:
+  - '&7&oЕда'
+  description:
+  - Возможно, лучшая еда на всём свете.
+  stats:
+  - '&8⇨ &7Лечение: &b2 сердца'
+  - '&8⇨ &bСвечение I &7(10:00)'
+CLT_GINGER:
+  name: Имбирь
+  type:
+  - '&7&oУрожай'
+  description:
+  - Рубленый имбирь в кипятке лечит все хвори!
+CLT_GRAPE:
+  name: Виноград
+  type:
+  - '&7&oУрожай'
+  description:
+  - Какой пухленький!
+CLT_GRAPE_JELLY:
+  name: Виноградное желе
+  type:
+  - '&7&oУрожай'
+  description: &id008
+  - Есть это ложкой - уголовное преступление.
+CLT_GREEN_APPLE:
+  name: Зелёное яблоко
+  type:
+  - '&7&oУрожай'
+  description:
+  - В записке написано... «Дорогому учителю»?
+CLT_GREEN_BEANS:
+  name: Стручковая фасоль
+  type:
+  - '&7&oУрожай'
+  description:
+  - Какое креативное название!
+CLT_GREEN_ONION:
+  name: Зелёный лук
+  type:
+  - '&7&oУрожай'
+  description:
+  - Отлично подходит к тако!
+CLT_GRILLED_APPLE:
+  name: Яблоко на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_APRICOT:
+  name: Абрикос на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_ARTICHOKE:
+  name: Артишок на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_ASPARAGUS:
+  name: Спаржа на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_AUBERGINE:
+  name: Баклажан на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_AVOCADO:
+  name: Авокадо на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_BANANA:
+  name: Банан на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_BASIL:
+  name: Базилик на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_BAY_LEAF:
+  name: Лавровый лист на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_BEEF:
+  name: Говядина на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_BEETROOT:
+  name: Свёкла на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_BELL_PEPPER:
+  name: Болгарский перец на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_BLACK_BEANS:
+  name: Чёрная фасоль на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_BREAD:
+  name: Хлеб на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_BROCCOLI:
+  name: Брокколи на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_BROWN_MUSHROOM:
+  name: Коричневый гриб на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_BRUSSELS_SPROUTS:
+  name: Брюссельская капуста на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_CABBAGE:
+  name: Капуста на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_CARROT:
+  name: Морковь на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_CAULIFLOWER:
+  name: Цветная капуста на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_CAYENNE_PEPPER:
+  name: Кайенский перец на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_CELERIAC:
+  name: Корневой сельдерей на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_CELERY:
+  name: Сельдерей на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_CHERRY:
+  name: Вишня на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_CHESTNUT:
+  name: Каштан на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_CHICKEN:
+  name: Курица на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_CHICKPEAS:
+  name: Нут на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_CHICORY:
+  name: Цикорий на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_CHILLY_PEPPER:
+  name: Жгучий перец на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_CHIVES:
+  name: Шнитт-лук на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_CHORUS_FRUIT:
+  name: Плод хоруса на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_CILANTRO:
+  name: Кинза на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_CINNAMON:
+  name: Корица на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_CLOVE:
+  name: Гвоздика на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_COCOA_BEANS:
+  name: Какао-бобы на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_COD:
+  name: Треска на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_COURGETTE:
+  name: Цукини на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_CUCUMBER:
+  name: Огурец на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_CUMIN:
+  name: Зира на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_CURRY_LEAF:
+  name: Лист карри на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_DILL:
+  name: Укроп на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_EGG:
+  name: Яйцо на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_ENCHANTED_GOLDEN_APPLE:
+  name: Зачарованное золотое яблоко на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_FENNEL:
+  name: Фенхель на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_GARLIC:
+  name: Чеснок на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_GINGER:
+  name: Имбирь на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_GLOW_BERRIES:
+  name: Светящиеся ягоды на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_GOLDEN_APPLE:
+  name: Золотое яблоко на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_GOLDEN_CARROT:
+  name: Золотая морковь на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_GRAPE:
+  name: Виноград на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_GREEN_APPLE:
+  name: Зелёное яблоко на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_GREEN_BEANS:
+  name: Стручковая фасоль на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_GREEN_ONION:
+  name: Зелёный лук на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_HAZELNUT:
+  name: Фундук на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_HORSERADISH:
+  name: Хрен на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_JALAPENO:
+  name: Халапеньо на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_JASMINE:
+  name: Жасмин на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_JUNIPER_BERRY:
+  name: Можжевеловые ягоды на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_KAFFIR_LIME:
+  name: Лист кафрского лайма на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_KALE:
+  name: Кудрявая капуста на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_KELP:
+  name: Ламинария на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_KIWI:
+  name: Киви на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_LAVENDER:
+  name: Лаванда на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_LEEK:
+  name: Лук-порей на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_LEMON:
+  name: Лимон на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_LETTUCE:
+  name: Салат-латук на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_LICORICE:
+  name: Лакрица на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_LIME:
+  name: Лайм на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_MACE:
+  name: Мацис на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_MANGO:
+  name: Манго на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_MARJORAM:
+  name: Майоран на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_MARROW:
+  name: Кабачок на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_MELON:
+  name: Арбуз на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_MINT:
+  name: Мята на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_MUSTARD_SEEDS:
+  name: Горчичные семена на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_MUTTON:
+  name: Баранина на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_NETTLES:
+  name: Крапива на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_OKRA:
+  name: Бамия на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_ONION:
+  name: Лук на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_ORANGE:
+  name: Апельсин на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_OREGANO:
+  name: Орегано на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_PARSLEY:
+  name: Петрушка на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_PARSNIP:
+  name: Пастернак на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_PEA:
+  name: Горох на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_PEACH:
+  name: Персик на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_PEANUT:
+  name: Арахис на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_PEAR:
+  name: Груша на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_PECAN:
+  name: Пекан на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_PEPPER:
+  name: Чёрный перец на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_PEPPERONI:
+  name: Пепперони на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_PINEAPPLE:
+  name: Ананас на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_PINTO_BEANS:
+  name: Фасоль пинто на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_PORKCHOP:
+  name: Свинина на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_POTATO:
+  name: Картофель на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_PUFFERFISH:
+  name: Иглобрюх на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_PUMPKIN:
+  name: Тыква на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_RABBIT:
+  name: Кролик на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_RADDISH:
+  name: Редис на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_RADICCHIO:
+  name: Радиккьо на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_RAPESEED:
+  name: Рапс на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_RED_MUSHROOM:
+  name: Красный гриб на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_RHUBARB:
+  name: Ревень на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_RICE:
+  name: Рис на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_ROSEMARY:
+  name: Розмарин на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_ROTTEN_FLESH:
+  name: Гнилая плоть на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_RUNNER_BEANS:
+  name: Огненная фасоль на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_RUTABAGA:
+  name: Брюква на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_SALMON:
+  name: Лосось на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_SALMON_SALAD:
+  name: Салат с лососем на гриле
+  type:
+  - '&7&oЕда'
+  description:
+  - Восхитительно рассыпчатое и прекрасно приправленное.
+  stats:
+  - '&8⇨ &7Лечение: &b4 сердца'
+  - '&8⇨ &bРегенерация I &7(10:00)'
+  - '&8⇨ &bПрилив здоровья V &7(10:00)'
+CLT_GRILLED_SASSAFRAS:
+  name: Сассафрас на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_SHALLOT:
+  name: Лук-шалот на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_SHISO:
+  name: Шисо на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_SOY_BEANS:
+  name: Соевые бобы на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_SPINACH:
+  name: Шпинат на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_STAR_ANISE:
+  name: Бадьян на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_STRAWBERRY:
+  name: Клубника на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_SUGAR:
+  name: Сахар на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_SWEETCORN:
+  name: Сладкая кукуруза на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_SWEET_BERRIES:
+  name: Сладкие ягоды на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_SWEET_POTATO:
+  name: Батат на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_TARRAGON:
+  name: Эстрагон на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_THYME:
+  name: Тимьян на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_TOMATO:
+  name: Помидор на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_TURMERIC:
+  name: Куркума на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_TURNIP:
+  name: Репа на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_VANILLA:
+  name: Ваниль на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_WASABI:
+  name: Васаби на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GRILLED_WHEAT:
+  name: Пшеница на гриле
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_APPLE:
+  name: Молотое яблоко
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_APRICOT:
+  name: Молотый абрикос
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_ARTICHOKE:
+  name: Молотый артишок
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_ASPARAGUS:
+  name: Молотая спаржа
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_AUBERGINE:
+  name: Молотый баклажан
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_AVOCADO:
+  name: Молотое авокадо
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_BANANA:
+  name: Молотый банан
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_BASIL:
+  name: Молотый базилик
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_BAY_LEAF:
+  name: Молотый лавровый лист
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_BEEF:
+  name: Молотая говядина
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_BEETROOT:
+  name: Молотая свёкла
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_BELL_PEPPER:
+  name: Молотый болгарский перец
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_BLACK_BEANS:
+  name: Молотая чёрная фасоль
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_BREAD:
+  name: Молотый хлеб
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_BROCCOLI:
+  name: Молотая брокколи
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_BROWN_MUSHROOM:
+  name: Молотый коричневый гриб
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_BRUSSELS_SPROUTS:
+  name: Молотая брюссельская капуста
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_CABBAGE:
+  name: Молотая капуста
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_CARROT:
+  name: Молотая морковь
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_CAULIFLOWER:
+  name: Молотая цветная капуста
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_CAYENNE_PEPPER:
+  name: Молотый кайенский перец
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_CELERIAC:
+  name: Молотый корневой сельдерей
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_CELERY:
+  name: Молотый сельдерей
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_CHERRY:
+  name: Молотая вишня
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_CHESTNUT:
+  name: Молотый каштан
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_CHICKEN:
+  name: Молотая курица
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_CHICKPEAS:
+  name: Молотый нут
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_CHICORY:
+  name: Молотый цикорий
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_CHILLY_PEPPER:
+  name: Молотый жгучий перец
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_CHIVES:
+  name: Молотый шнитт-лук
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_CHORUS_FRUIT:
+  name: Молотый плод хоруса
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_CILANTRO:
+  name: Молотая кинза
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_CINNAMON:
+  name: Молотая корица
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_CLOVE:
+  name: Молотая гвоздика
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_COCOA_BEANS:
+  name: Молотые какао-бобы
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_COD:
+  name: Молотая треска
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_COURGETTE:
+  name: Молотый цукини
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_CUCUMBER:
+  name: Молотый огурец
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_CUMIN:
+  name: Молотая зира
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_CURRY_LEAF:
+  name: Молотый лист карри
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_DILL:
+  name: Молотый укроп
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_EGG:
+  name: Молотое яйцо
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_ENCHANTED_GOLDEN_APPLE:
+  name: Молотое зачарованное золотое яблоко
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_FENNEL:
+  name: Молотый фенхель
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_GARLIC:
+  name: Молотый чеснок
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_GINGER:
+  name: Молотый имбирь
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_GLOW_BERRIES:
+  name: Молотые светящиеся ягоды
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_GOLDEN_APPLE:
+  name: Молотое золотое яблоко
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_GOLDEN_CARROT:
+  name: Молотая золотая морковь
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_GRAPE:
+  name: Молотый виноград
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_GREEN_APPLE:
+  name: Молотое зелёное яблоко
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_GREEN_BEANS:
+  name: Молотая стручковая фасоль
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_GREEN_ONION:
+  name: Молотый зелёный лук
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_HAZELNUT:
+  name: Молотый фундук
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_HORSERADISH:
+  name: Молотый хрен
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_JALAPENO:
+  name: Молотый халапеньо
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_JASMINE:
+  name: Молотый жасмин
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_JUNIPER_BERRY:
+  name: Молотые можжевеловые ягоды
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_KAFFIR_LIME:
+  name: Молотый лист кафрского лайма
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_KALE:
+  name: Молотая кудрявая капуста
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_KELP:
+  name: Молотая ламинария
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_KIWI:
+  name: Молотое киви
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_LAVENDER:
+  name: Молотая лаванда
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_LEEK:
+  name: Молотый лук-порей
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_LEMON:
+  name: Молотый лимон
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_LETTUCE:
+  name: Молотый салат-латук
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_LICORICE:
+  name: Молотая лакрица
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_LIME:
+  name: Молотый лайм
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_MACE:
+  name: Молотый мацис
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_MANGO:
+  name: Молотое манго
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_MARJORAM:
+  name: Молотый майоран
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_MARROW:
+  name: Молотый кабачок
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_MELON:
+  name: Молотый арбуз
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_MINT:
+  name: Молотая мята
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_MUSTARD_SEEDS:
+  name: Молотые горчичные семена
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_MUTTON:
+  name: Молотая баранина
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_NETTLES:
+  name: Молотая крапива
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_OKRA:
+  name: Молотая бамия
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_ONION:
+  name: Молотый лук
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_ORANGE:
+  name: Молотый апельсин
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_OREGANO:
+  name: Молотое орегано
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_PARSLEY:
+  name: Молотая петрушка
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_PARSNIP:
+  name: Молотый пастернак
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_PEA:
+  name: Молотый горох
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_PEACH:
+  name: Молотый персик
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_PEANUT:
+  name: Молотый арахис
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_PEAR:
+  name: Молотая груша
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_PECAN:
+  name: Молотый пекан
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_PEPPER:
+  name: Молотый чёрный перец
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_PEPPERONI:
+  name: Молотая пепперони
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_PINEAPPLE:
+  name: Молотый ананас
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_PINTO_BEANS:
+  name: Молотая фасоль пинто
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_PORKCHOP:
+  name: Молотая свинина
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_POTATO:
+  name: Молотый картофель
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_PUFFERFISH:
+  name: Молотый иглобрюх
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_PUMPKIN:
+  name: Молотая тыква
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_RABBIT:
+  name: Молотый кролик
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_RADDISH:
+  name: Молотый редис
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_RADICCHIO:
+  name: Молотое радиккьо
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_RAPESEED:
+  name: Молотый рапс
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_RED_MUSHROOM:
+  name: Молотый красный гриб
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_RHUBARB:
+  name: Молотый ревень
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_RICE:
+  name: Молотый рис
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_ROSEMARY:
+  name: Молотый розмарин
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_ROTTEN_FLESH:
+  name: Молотая гнилая плоть
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_RUNNER_BEANS:
+  name: Молотая огненная фасоль
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_RUTABAGA:
+  name: Молотая брюква
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_SALMON:
+  name: Молотый лосось
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_SASSAFRAS:
+  name: Молотый сассафрас
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_SHALLOT:
+  name: Молотый лук-шалот
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_SHISO:
+  name: Молотое шисо
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_SOY_BEANS:
+  name: Молотые соевые бобы
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_SPINACH:
+  name: Молотый шпинат
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_STAR_ANISE:
+  name: Молотый бадьян
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_STRAWBERRY:
+  name: Молотая клубника
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_SUGAR:
+  name: Молотый сахар
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_SWEETCORN:
+  name: Молотая сладкая кукуруза
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_SWEET_BERRIES:
+  name: Молотые сладкие ягоды
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_SWEET_POTATO:
+  name: Молотый батат
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_TARRAGON:
+  name: Молотый эстрагон
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_THYME:
+  name: Молотый тимьян
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_TOMATO:
+  name: Молотый помидор
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_TURMERIC:
+  name: Молотая куркума
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_TURNIP:
+  name: Молотая репа
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_VANILLA:
+  name: Молотая ваниль
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_WASABI:
+  name: Молотый васаби
+  type:
+  - '&7&oПобочный продукт'
+CLT_GROUND_WHEAT:
+  name: Молотая пшеница
+  type:
+  - '&7&oПобочный продукт'
+CLT_HAZELNUT:
+  name: Фундук
+  type:
+  - '&7&oУрожай'
+  description:
+  - Делай что угодно, но преврати это
+  - в кофе для меня, живо!
+CLT_HORSERADISH:
+  name: Хрен
+  type:
+  - '&7&oУрожай'
+  description:
+  - $100 тому, кто откусит прямо так.
+CLT_JALAPENO:
+  name: Халапеньо
+  type:
+  - '&7&oУрожай'
+  description:
+  - ГОРЯЧО ГОРЯЧО ГОРЯЧО.
+CLT_JASMINE:
+  name: Жасмин
+  type:
+  - '&7&oУрожай'
+  description:
+  - Из этого получается чудесный чай.
+CLT_JUNIPER_BERRY:
+  name: Можжевеловые ягоды
+  type:
+  - '&7&oУрожай'
+  description:
+  - Высушено до перечного совершенства.
+CLT_KAFFIR_LIME:
+  name: Лист кафрского лайма
+  type:
+  - '&7&oУрожай'
+  description:
+  - Лист с невероятной изюминкой.
+CLT_KALE:
+  name: Кудрявая капуста
+  type:
+  - '&7&oУрожай'
+  description:
+  - Помогите, я хипстер со смузи из 2020-го!
+CLT_KETCHUP:
+  name: Кетчуп
+  type:
+  - '&7&oУрожай'
+  description:
+  - Просто помидоры в кремовом виде.
+CLT_KEY_LIME_PIE:
+  name: Лаймовый пирог
+  type:
+  - '&7&oЕда'
+  description:
+  - Просто лучшее!
+  stats:
+  - '&8⇨ &7Лечение: &b6 сердец'
+  - '&8⇨ &bСпешка IV &7(10:00)'
+CLT_KIWI:
+  name: Киви
+  type:
+  - '&7&oУрожай'
+  description:
+  - Я добавил это в аддон под давлением.
+  - Киви - зло, и любой, кто
+  - их использует, автоматически теряет
+  - 100 очков.
+CLT_LASAGNA:
+  name: Лазанья
+  type:
+  - '&7&oЕда'
+  description:
+  - Слой за слоем сплошной крутизны.
+  stats:
+  - '&8⇨ &7Лечение: &bполностью'
+  - '&8⇨ &bРегенерация II &7(10:00)'
+  - '&8⇨ &bСопротивление II &7(10:00)'
+CLT_LAVENDER:
+  name: Лаванда
+  type:
+  - '&7&oУрожай'
+  description:
+  - Запах, от которого я медленно погружаюсь в сон.
+CLT_LEAVES_TREE_APRICOT:
+  name: Абрикосовая листва
+  type:
+  - '&7&oЛиства'
+CLT_LEAVES_TREE_BANANA:
+  name: Банановая листва
+  type:
+  - '&7&oЛиства'
+CLT_LEAVES_TREE_CHERRY:
+  name: Вишнёвая листва
+  type:
+  - '&7&oЛиства'
+CLT_LEAVES_TREE_CHESTNUT:
+  name: Каштановая листва
+  type:
+  - '&7&oЛиства'
+CLT_LEAVES_TREE_GREEN_APPLE:
+  name: Листва зелёной яблони
+  type:
+  - '&7&oЛиства'
+CLT_LEAVES_TREE_HAZELNUT:
+  name: Листва лещины
+  type:
+  - '&7&oЛиства'
+CLT_LEAVES_TREE_KIWI:
+  name: Листва киви
+  type:
+  - '&7&oЛиства'
+CLT_LEAVES_TREE_LEMON:
+  name: Лимонная листва
+  type:
+  - '&7&oЛиства'
+CLT_LEAVES_TREE_LIME:
+  name: Лаймовая листва
+  type:
+  - '&7&oЛиства'
+CLT_LEAVES_TREE_MANGO:
+  name: Манговая листва
+  type:
+  - '&7&oЛиства'
+CLT_LEAVES_TREE_ORANGE:
+  name: Апельсиновая листва
+  type:
+  - '&7&oЛиства'
+CLT_LEAVES_TREE_PEACH:
+  name: Персиковая листва
+  type:
+  - '&7&oЛиства'
+CLT_LEAVES_TREE_PEAR:
+  name: Грушевая листва
+  type:
+  - '&7&oЛиства'
+CLT_LEAVES_TREE_PECAN:
+  name: Листва пекана
+  type:
+  - '&7&oЛиства'
+CLT_LEAVES_TREE_PINEAPPLE:
+  name: Ананасовая листва
+  type:
+  - '&7&oЛиства'
+CLT_LEEK:
+  name: Лук-порей
+  type:
+  - '&7&oУрожай'
+  description:
+  - почему-то с него капает вода?
+  - Может, где-то порей... то есть прорыв?
+CLT_LEMON:
+  name: Лимон
+  type:
+  - '&7&oУрожай'
+  description:
+  - Чего такой кислый?
+CLT_LEMON_DROP:
+  name: Лимонный леденец
+  type:
+  - '&7&oЕда'
+  description:
+  - Освежает вкус перед следующим блюдом.
+  stats:
+  - '&8⇨ &7Снимает все эффекты и снова вызывает голод.'
+CLT_LETTUCE:
+  name: Салат-латук
+  type:
+  - '&7&oУрожай'
+  description:
+  - Тонкий, водянистый, но всё равно вкусный.
+CLT_LICORICE:
+  name: Лакрица
+  type:
+  - '&7&oУрожай'
+  description:
+  - Беги, беги отсюда!
+CLT_LIME:
+  name: Лайм
+  type:
+  - '&7&oУрожай'
+  description:
+  - Жил-был давным-лаймно один вкусный фрукт...
+CLT_MACE:
+  name: Мацис
+  type:
+  - '&7&oУрожай'
+  description:
+  - Им брызгают в лицо нападающим.
+  - '...'
+  - В смысле, мацис - это не перцовый баллончик?
+CLT_MANGO:
+  name: Манго
+  type:
+  - '&7&oУрожай'
+  description:
+  - МАН-ГОворю же, мне пора.
+  - Писать описания тяжело...
+CLT_MARJORAM:
+  name: Майоран
+  type:
+  - '&7&oУрожай'
+  description:
+  - У меня тут небольшой карри-зис, давай поговорим позже?
+CLT_MARROW:
+  name: Кабачок
+  type:
+  - '&7&oУрожай'
+  description:
+  - А ты знал, что в костях
+  - есть костный кабачок?
+  - Ага, Сефи Умнай.
+CLT_MASHED_APPLE:
+  name: Толчёное яблоко
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_APRICOT:
+  name: Толчёный абрикос
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_ARTICHOKE:
+  name: Толчёный артишок
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_ASPARAGUS:
+  name: Толчёная спаржа
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_AUBERGINE:
+  name: Толчёный баклажан
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_AVOCADO:
+  name: Толчёное авокадо
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_BANANA:
+  name: Толчёный банан
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_BASIL:
+  name: Толчёный базилик
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_BAY_LEAF:
+  name: Толчёный лавровый лист
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_BEEF:
+  name: Толчёная говядина
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_BEETROOT:
+  name: Толчёная свёкла
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_BELL_PEPPER:
+  name: Толчёный болгарский перец
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_BLACK_BEANS:
+  name: Толчёная чёрная фасоль
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_BREAD:
+  name: Толчёный хлеб
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_BROCCOLI:
+  name: Толчёная брокколи
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_BROWN_MUSHROOM:
+  name: Толчёный коричневый гриб
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_BRUSSELS_SPROUTS:
+  name: Толчёная брюссельская капуста
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_CABBAGE:
+  name: Толчёная капуста
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_CARROT:
+  name: Толчёная морковь
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_CAULIFLOWER:
+  name: Толчёная цветная капуста
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_CAYENNE_PEPPER:
+  name: Толчёный кайенский перец
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_CELERIAC:
+  name: Толчёный корневой сельдерей
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_CELERY:
+  name: Толчёный сельдерей
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_CHERRY:
+  name: Толчёная вишня
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_CHESTNUT:
+  name: Толчёный каштан
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_CHICKEN:
+  name: Толчёная курица
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_CHICKPEAS:
+  name: Толчёный нут
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_CHICORY:
+  name: Толчёный цикорий
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_CHILLY_PEPPER:
+  name: Толчёный жгучий перец
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_CHIVES:
+  name: Толчёный шнитт-лук
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_CHORUS_FRUIT:
+  name: Толчёный плод хоруса
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_CILANTRO:
+  name: Толчёная кинза
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_CINNAMON:
+  name: Толчёная корица
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_CLOVE:
+  name: Толчёная гвоздика
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_COCOA_BEANS:
+  name: Толчёные какао-бобы
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_COD:
+  name: Толчёная треска
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_COURGETTE:
+  name: Толчёный цукини
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_CUCUMBER:
+  name: Толчёный огурец
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_CUMIN:
+  name: Толчёная зира
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_CURRY_LEAF:
+  name: Толчёный лист карри
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_DILL:
+  name: Толчёный укроп
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_EGG:
+  name: Толчёное яйцо
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_ENCHANTED_GOLDEN_APPLE:
+  name: Толчёное зачарованное золотое яблоко
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_FENNEL:
+  name: Толчёный фенхель
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_GARLIC:
+  name: Толчёный чеснок
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_GINGER:
+  name: Толчёный имбирь
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_GLOW_BERRIES:
+  name: Толчёные светящиеся ягоды
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_GOLDEN_APPLE:
+  name: Толчёное золотое яблоко
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_GOLDEN_CARROT:
+  name: Толчёная золотая морковь
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_GRAPE:
+  name: Толчёный виноград
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_GREEN_APPLE:
+  name: Толчёное зелёное яблоко
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_GREEN_BEANS:
+  name: Толчёная стручковая фасоль
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_GREEN_ONION:
+  name: Толчёный зелёный лук
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_HAZELNUT:
+  name: Толчёный фундук
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_HORSERADISH:
+  name: Толчёный хрен
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_JALAPENO:
+  name: Толчёный халапеньо
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_JASMINE:
+  name: Толчёный жасмин
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_JUNIPER_BERRY:
+  name: Толчёные можжевеловые ягоды
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_KAFFIR_LIME:
+  name: Толчёный лист кафрского лайма
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_KALE:
+  name: Толчёная кудрявая капуста
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_KELP:
+  name: Толчёная ламинария
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_KIWI:
+  name: Толчёное киви
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_LAVENDER:
+  name: Толчёная лаванда
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_LEEK:
+  name: Толчёный лук-порей
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_LEMON:
+  name: Толчёный лимон
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_LETTUCE:
+  name: Толчёный салат-латук
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_LICORICE:
+  name: Толчёная лакрица
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_LIME:
+  name: Толчёный лайм
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_MACE:
+  name: Толчёный мацис
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_MANGO:
+  name: Толчёное манго
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_MARJORAM:
+  name: Толчёный майоран
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_MARROW:
+  name: Толчёный кабачок
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_MELON:
+  name: Толчёный арбуз
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_MINT:
+  name: Толчёная мята
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_MUSTARD_SEEDS:
+  name: Толчёные горчичные семена
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_MUTTON:
+  name: Толчёная баранина
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_NETTLES:
+  name: Толчёная крапива
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_OKRA:
+  name: Толчёная бамия
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_ONION:
+  name: Толчёный лук
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_ORANGE:
+  name: Толчёный апельсин
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_OREGANO:
+  name: Толчёное орегано
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_PARSLEY:
+  name: Толчёная петрушка
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_PARSNIP:
+  name: Толчёный пастернак
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_PEA:
+  name: Толчёный горох
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_PEACH:
+  name: Толчёный персик
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_PEANUT:
+  name: Толчёный арахис
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_PEAR:
+  name: Толчёная груша
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_PECAN:
+  name: Толчёный пекан
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_PEPPER:
+  name: Толчёный чёрный перец
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_PEPPERONI:
+  name: Толчёная пепперони
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_PINEAPPLE:
+  name: Толчёный ананас
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_PINTO_BEANS:
+  name: Толчёная фасоль пинто
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_PORKCHOP:
+  name: Толчёная свинина
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_POTATO:
+  name: Толчёный картофель
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_PUFFERFISH:
+  name: Толчёный иглобрюх
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_PUMPKIN:
+  name: Толчёная тыква
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_RABBIT:
+  name: Толчёный кролик
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_RADDISH:
+  name: Толчёный редис
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_RADICCHIO:
+  name: Толчёное радиккьо
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_RAPESEED:
+  name: Толчёный рапс
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_RED_MUSHROOM:
+  name: Толчёный красный гриб
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_RHUBARB:
+  name: Толчёный ревень
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_RICE:
+  name: Толчёный рис
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_ROSEMARY:
+  name: Толчёный розмарин
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_ROTTEN_FLESH:
+  name: Толчёная гнилая плоть
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_RUNNER_BEANS:
+  name: Толчёная огненная фасоль
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_RUTABAGA:
+  name: Толчёная брюква
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_SALMON:
+  name: Толчёный лосось
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_SASSAFRAS:
+  name: Толчёный сассафрас
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_SHALLOT:
+  name: Толчёный лук-шалот
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_SHISO:
+  name: Толчёное шисо
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_SOY_BEANS:
+  name: Толчёные соевые бобы
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_SPINACH:
+  name: Толчёный шпинат
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_STAR_ANISE:
+  name: Толчёный бадьян
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_STRAWBERRY:
+  name: Толчёная клубника
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_SUGAR:
+  name: Толчёный сахар
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_SWEETCORN:
+  name: Толчёная сладкая кукуруза
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_SWEET_BERRIES:
+  name: Толчёные сладкие ягоды
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_SWEET_POTATO:
+  name: Толчёный батат
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_TARRAGON:
+  name: Толчёный эстрагон
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_THYME:
+  name: Толчёный тимьян
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_TOMATO:
+  name: Толчёный помидор
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_TURMERIC:
+  name: Толчёная куркума
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_TURNIP:
+  name: Толчёная репа
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_VANILLA:
+  name: Толчёная ваниль
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_WASABI:
+  name: Толчёный васаби
+  type:
+  - '&7&oПобочный продукт'
+CLT_MASHED_WHEAT:
+  name: Толчёная пшеница
+  type:
+  - '&7&oПобочный продукт'
+CLT_MAYONNAISE:
+  name: Майонез
+  type:
+  - '&7&oУрожай'
+  description:
+  - Шелковистый майонез, который подходит почти ко всему.
+CLT_MEATBALLS:
+  name: Фрикадельки
+  type:
+  - '&7&oУрожай'
+  description:
+  - Шарики из мяса, кто бы мог подумать.
+CLT_MEATLOAF:
+  name: Мясной рулет
+  type:
+  - '&7&oЕда'
+  description:
+  - Ничто с ним не сравнится! Погнали.
+  stats:
+  - '&8⇨ &7Лечение: &bполностью'
+  - '&8⇨ &bПрилив здоровья IV &7(10:00)'
+  - '&8⇨ &bСопротивление III &7(10:00)'
+  - '&8⇨ &bСпешка II &7(10:00)'
+  - '&8⇨ &bЗамедление II &7(10:00)'
+CLT_MINT:
+  name: Мята
+  type:
+  - '&7&oУрожай'
+  description:
+  - Жуй, жуй, жуй.
+CLT_MUSTARD:
+  name: Горчица
+  type:
+  - '&7&oУрожай'
+  description:
+  - С огоньком!
+CLT_MUSTARD_SEEDS:
+  name: Семена горчицы
+  type:
+  - '&7&oУрожай'
+  description:
+  - Разжуй их, если осмелишься!
+CLT_NETTLES:
+  name: Крапива
+  type:
+  - '&7&oУрожай'
+  description:
+  - Пожалуйста, надень перчатки, прежде чем брать их в руки.
+CLT_OKRA:
+  name: Бамия
+  type:
+  - '&7&oУрожай'
+  description:
+  - Её много выращивают в штате Бамияхома... правда, ПРАВДА?
+CLT_ONION:
+  name: Лук
+  type:
+  - '&7&oУрожай'
+  description:
+  - Погоди, а почему ты плачешь?
+CLT_ORANGE:
+  name: Апельсин
+  type:
+  - '&7&oУрожай'
+  description:
+  - Разве он не должен быть заводным?
+CLT_ORANGE_JUICE:
+  name: Апельсиновый сок
+  type:
+  - '&7&oЕда'
+  description:
+  - Это и правда лучший способ начать день.
+  stats:
+  - '&8⇨ &bСкорость IV &7(10:00)'
+CLT_OREGANO:
+  name: Орегано
+  type:
+  - '&7&oУрожай'
+  description:
+  - Классическая трава из любого кухонного шкафчика.
+CLT_PARSLEY:
+  name: Петрушка
+  type:
+  - '&7&oУрожай'
+  description:
+  - Худшая. Трава. На свете.
+CLT_PARSNIP:
+  name: Пастернак
+  type:
+  - '&7&oУрожай'
+  description:
+  - Требует немедленного запекания.
+CLT_PASTA:
+  name: Паста
+  type:
+  - '&7&oУрожай'
+  description:
+  - Просто паста, простая, но чудесная.
+CLT_PEA:
+  name: Горох
+  type:
+  - '&7&oУрожай'
+  description:
+  - Говорят, часто встречается парами в стручке.
+CLT_PEACH:
+  name: Персик
+  type:
+  - '&7&oУрожай'
+  description:
+  - Об эмодзи мы не говорим
+CLT_PEANUT:
+  name: Арахис
+  type:
+  - '&7&oУрожай'
+  description:
+  - «Ризес», я иду к тебе!
+CLT_PEANUT_BUTTER:
+  name: Арахисовая паста
+  type:
+  - '&7&oУрожай'
+  description:
+  - Сравнимо разве что с жидким золотом.
+CLT_PEANUT_BUTTER_JELLY_SANDWICH:
+  name: Сэндвич с арахисовой пастой и джемом
+  type:
+  - '&7&oЕда'
+  description:
+  - Это поистине вершина сэндвичных технологий.
+  stats:
+  - '&8⇨ &7Лечение: &b5 сердец'
+  - '&8⇨ &bСила III &7(10:00)'
+CLT_PEAR:
+  name: Груша
+  type:
+  - '&7&oУрожай'
+  description:
+  - Ну разве не грушевосхитительно?
+CLT_PECAN:
+  name: Пекан
+  type:
+  - '&7&oУрожай'
+  description:
+  - Так и просится в пирог.
+CLT_PECAN_PIE:
+  name: Пирог с пеканом
+  type:
+  - '&7&oЕда'
+  description:
+  - Единственный способ есть чистый сахар
+  - так, чтобы тебя не осуждали.
+  stats:
+  - '&8⇨ &7Лечение: &b4 сердца'
+  - '&8⇨ &bЛевитация I &7(10:00)'
+CLT_PEPPER:
+  name: Чёрный перец
+  type:
+  - '&7&oУрожай'
+  description:
+  - Острее соли.
+CLT_PEPPERONI:
+  name: Пепперони
+  type:
+  - '&7&oУрожай'
+  description:
+  - Я бы запросто съел целую палку такого.
+CLT_PICO_DE_GALLO:
+  name: Пико-де-гальо
+  type:
+  - '&7&oУрожай'
+  description:
+  - Мягкая сальса, полная чистой вкусноты.
+CLT_PIE_CRUST:
+  name: Основа для пирога
+  type:
+  - '&7&oУрожай'
+  description:
+  - Если бы это разрешалось есть само по себе,
+  - это была бы моя основная еда.
+CLT_PINEAPPLE:
+  name: Ананас
+  type:
+  - '&7&oУрожай'
+  description:
+  - Ему место на каждой пицце на свете.
+  - Хочешь поспорить!?
+CLT_PINTO_BEANS:
+  name: Фасоль пинто
+  type:
+  - '&7&oУрожай'
+  description:
+  - Дзынь! Время буррито.
+CLT_PIZZA_CHEESE:
+  name: Сырная пицца
+  type:
+  - '&7&oЕда'
+  description:
+  - Зачем кому-то заказывать просто сыр? Понятия не имею.
+  stats:
+  - '&8⇨ &7Лечение: &b4 сердца'
+  - '&8⇨ &bЗамедление I &7(10:00)'
+CLT_PIZZA_MUSHROOM:
+  name: Грибная пицца
+  type:
+  - '&7&oЕда'
+  description:
+  - Простая вегетарианская пицца, полная белков.
+  stats:
+  - '&8⇨ &7Лечение: &b6 сердец'
+  - '&8⇨ &bЗамедление I &7(10:00)'
+  - '&8⇨ &bСпешка II &7(10:00)'
+CLT_PIZZA_PEPPERONI:
+  name: Пицца пепперони
+  type:
+  - '&7&oЕда'
+  description:
+  - Нью-йоркская классика, полная вкуса.
+  stats:
+  - '&8⇨ &7Лечение: &b6 сердец'
+  - '&8⇨ &bСкорость I &7(10:00)'
+  - '&8⇨ &bСпешка I &7(10:00)'
+  - '&8⇨ &bПрыгучесть I &7(10:00)'
+CLT_PLANT_AIR:
+  name: Растение первозданного воздуха
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение, тихо напевающее
+  - мелодию окружающей природы.
+  - '&eПервозданные растения не дают предметов'
+  - '&eи нужны только для скрещивания.'
+CLT_PLANT_AMETHYST:
+  name: Растение аметиста
+  type:
+  - '&7&oРастение'
+  description:
+  - Это растение любит расти в глубоких, тёмных
+  - местах.
+CLT_PLANT_ANALYSER:
+  name: Анализатор растений
+  type:
+  - '&7&oИнструмент'
+  description:
+  - Простейший инструмент, позволяющий
+  - узнать свойства растущего растения
+  usage:
+  - '&eПКМ&7: показывает вид и параметры роста растения.'
+  - '&eШифт + ПКМ&7: показывает название растения или куста.'
+CLT_PLANT_BASALT:
+  name: Растение базальта
+  type:
+  - '&7&oРастение'
+  description:
+  - Очень скучное и унылое растение.
+CLT_PLANT_BEE:
+  name: Растение пчелы
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение с очень маленькими, хрупкими крылышками.
+CLT_PLANT_BLACKSTONE:
+  name: Растение чернита
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение, которое, как известно, поглощает свет.
+CLT_PLANT_BLAZE:
+  name: Растение всполоха
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение с обугленными краями.
+CLT_PLANT_CHICKEN:
+  name: Растение курицы
+  type:
+  - '&7&oРастение'
+  description:
+  - Говорят, если держать это семя
+  - над головой и прыгнуть с
+  - высоты, ты будешь парить, а не
+  - падать.
+CLT_PLANT_CLAY:
+  name: Растение глины
+  type:
+  - '&7&oРастение'
+  description:
+  - Этому растению можно свободно придавать любую форму.
+  - Но это ещё не значит, что так
+  - стоит делать!
+CLT_PLANT_COAL:
+  name: Растение угля
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение с огромным потенциалом.
+CLT_PLANT_COBBLESTONE:
+  name: Растение булыжника
+  type:
+  - '&7&oРастение'
+  description:
+  - Это растение твёрдое как камень.
+CLT_PLANT_CONCRETE:
+  name: Растение бетона
+  type:
+  - '&7&oРастение'
+  description:
+  - Этому растению трудно расти, ведь
+  - оно так быстро затвердевает.
+CLT_PLANT_COW:
+  name: Растение коровы
+  type:
+  - '&7&oРастение'
+  description:
+  - Если поднести это семя к уху
+  - и очень внимательно прислушаться, можно
+  - иногда услышать мычание.
+CLT_PLANT_CREEPER:
+  name: Растение крипера
+  type:
+  - '&7&oРастение'
+  description:
+  - Тсссссссссссс...
+CLT_PLANT_DARKNESS:
+  name: Растение первозданной тьмы
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение, кипящее необузданной
+  - яростью.
+  - '&eПервозданные растения не дают предметов'
+  - '&eи нужны только для скрещивания.'
+CLT_PLANT_DARK_FLORA:
+  name: Растение тёмной флоры
+  type:
+  - '&7&oРастение'
+  description:
+  - В этом простом семени таится безмолвное зло.
+CLT_PLANT_DARK_GRASS:
+  name: Растение тёмной травы
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение, которое совсем потеряло
+  - себя.
+CLT_PLANT_DEEPSLATE:
+  name: Растение глубинного сланца
+  type:
+  - '&7&oРастение'
+  description:
+  - Глубокий, сланцевый, <вставить описание>.
+CLT_PLANT_DIAMOND:
+  name: Растение алмаза
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение, которое так и говорит о богатстве.
+CLT_PLANT_DIM_LIT:
+  name: Растение полумрака
+  type:
+  - '&7&oРастение'
+  description:
+  - Из этого семени исходит очень тусклый свет.
+CLT_PLANT_DIRT:
+  name: Растение земли
+  type:
+  - '&7&oРастение'
+  description:
+  - Грязное снаружи, но хранит в себе
+  - строительные блоки самой жизни.
+CLT_PLANT_DROWNED:
+  name: Растение утопленника
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение, с которого постоянно
+  - капает вода.
+CLT_PLANT_DUSTY:
+  name: Пыльное растение
+  type:
+  - '&7&oРастение'
+  description:
+  - 'Это растение требует особого ухода: малейший'
+  - сильный порыв ветра может
+  - разнести его на части.
+CLT_PLANT_EARTH:
+  name: Растение первозданной земли
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение, обогащающее мир
+  - вокруг себя.
+  - '&eПервозданные растения не дают предметов'
+  - '&eи нужны только для скрещивания.'
+CLT_PLANT_ECHO:
+  name: Растение эха
+  type:
+  - '&7&oРастение'
+  description:
+  - Это растение всегда знает, как
+  - найти дорогу домой.
+CLT_PLANT_ELDER_GUARDIAN:
+  name: Растение древнего стража
+  type:
+  - '&7&oРастение'
+  description:
+  - Рядом с этим растением люди
+  - становятся вялыми.
+CLT_PLANT_EMERALD:
+  name: Растение изумруда
+  type:
+  - '&7&oРастение'
+  description:
+  - Владельцам этого растения приходится
+  - из кожи вон лезть, чтобы его себе позволить.
+CLT_PLANT_ENDERMAN:
+  name: Растение эндермена
+  type:
+  - '&7&oРастение'
+  description:
+  - При неосторожном обращении это растение
+  - может внезапно телепортироваться!
+CLT_PLANT_ENDER_DRAGON:
+  name: Растение эндер-дракона
+  type:
+  - '&7&oРастение'
+  description:
+  - Настоящий босс среди растений.
+CLT_PLANT_END_STONE:
+  name: Растение эндерняка
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение, гудящее пустотой.
+CLT_PLANT_FIRE:
+  name: Растение первозданного огня
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение, дающее источники
+  - как разрушения, так и
+  - возрождения.
+  - '&eПервозданные растения не дают предметов'
+  - '&eи нужны только для скрещивания.'
+CLT_PLANT_FISH:
+  name: Растение рыбы
+  type:
+  - '&7&oРастение'
+  description:
+  - От этого семени исходит запах спелости.
+CLT_PLANT_FLOWER:
+  name: Цветущее растение
+  type:
+  - '&7&oРастение'
+  description:
+  - Красивый, со вкусом поданный рог изобилия.
+CLT_PLANT_FROG:
+  name: Растение лягушки
+  type:
+  - '&7&oРастение'
+  description:
+  - Ква!
+CLT_PLANT_GHAST:
+  name: Растение гаста
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение, которое, как известно,
+  - порой стреляет огненными шарами.
+CLT_PLANT_GLASS:
+  name: Растение стекла
+  type:
+  - '&7&oРастение'
+  description:
+  - Под правильным углом можно
+  - поклясться, что видишь это растение насквозь.
+CLT_PLANT_GLAZED:
+  name: Глазурованное растение
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение, растущее замысловатым узором.
+CLT_PLANT_GLOWING_VINE:
+  name: Растение светящейся лозы
+  type:
+  - '&7&oРастение'
+  description:
+  - Из этого семени исходит слабый свет.
+CLT_PLANT_GLOW_SQUID:
+  name: Растение светящегося спрута
+  type:
+  - '&7&oРастение'
+  description:
+  - Искрящееся растение со слабым свечением.
+CLT_PLANT_GOAT:
+  name: Растение козы
+  type:
+  - '&7&oРастение'
+  description:
+  - Внезапно буйное растение, которое любит
+  - прыгать туда-сюда.
+CLT_PLANT_GRASS:
+  name: Растение травы
+  type:
+  - '&7&oРастение'
+  description:
+  - Бурлящая жизнь рвётся наружу
+  - из-под земли.
+CLT_PLANT_GRAVEL:
+  name: Растение гравия
+  type:
+  - '&7&oРастение'
+  description:
+  - Это растение совсем не умеет
+  - держать себя в руках.
+CLT_PLANT_GUARDIAN:
+  name: Растение стража
+  type:
+  - '&7&oРастение'
+  description:
+  - При прикосновении это растение
+  - выпускает шипы.
+CLT_PLANT_IGNEOUS:
+  name: Вулканическое растение
+  type:
+  - '&7&oРастение'
+  description:
+  - Это растение сформировано жаром и
+  - давлением. Не смотри на меня так! Все
+  - эти описания растений абсолютно логичны.
+CLT_PLANT_LAPIS:
+  name: Растение лазурита
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение со слабой магической аурой.
+CLT_PLANT_LIGHT:
+  name: Растение первозданного света
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение, излучающее ауру
+  - чистой любви.
+  - '&eПервозданные растения не дают предметов'
+  - '&eи нужны только для скрещивания.'
+CLT_PLANT_MAGMA:
+  name: Растение магмы
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение настолько горячее, что обжигает
+  - всё вокруг.
+CLT_PLANT_MAGMA_CUBE:
+  name: Растение магмового куба
+  type:
+  - '&7&oРастение'
+  description:
+  - Когда на него никто не смотрит, это растение
+  - любит подпрыгивать.
+CLT_PLANT_MOSS:
+  name: Растение мха
+  type:
+  - '&7&oРастение'
+  description:
+  - Это растение склонно бесконтрольно разрастаться.
+CLT_PLANT_MUD:
+  name: Растение грязи
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение почти такое же грязное, как
+  - земля, из которой оно растёт.
+CLT_PLANT_MUSHROOM:
+  name: Растение гриба
+  type:
+  - '&7&oРастение'
+  description:
+  - Ага, растение, которое делает грибы.
+  - Тут всё совершенно нормально.
+CLT_PLANT_NETHERRACK:
+  name: Растение незерака
+  type:
+  - '&7&oРастение'
+  description:
+  - Жёсткое и выносливое растение, способное выжить
+  - почти где угодно.
+CLT_PLANT_NETHER_QUARTZ:
+  name: Растение незерского кварца
+  type:
+  - '&7&oРастение'
+  description:
+  - У этого растения шипы настолько острые, что
+  - с ним трудно работать.
+CLT_PLANT_PHANTOM:
+  name: Растение фантома
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение с возвышенными листьями.
+CLT_PLANT_PIG:
+  name: Растение свиньи
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение, которое время от времени хрюкает.
+CLT_PLANT_POWER:
+  name: Растение первозданной силы
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение, буквально источающее силу.
+  - '&eПервозданные растения не дают предметов'
+  - '&eи нужны только для скрещивания.'
+CLT_PLANT_PURPUR:
+  name: Растение пурпура
+  type:
+  - '&7&oРастение'
+  description:
+  - Странное растение, кажется гораздо легче
+  - большинства.
+CLT_PLANT_RABBIT:
+  name: Растение кролика
+  type:
+  - '&7&oРастение'
+  description:
+  - Жуки бы гордились.
+CLT_PLANT_RAINBOW:
+  name: Растение радуги
+  type:
+  - '&7&oРастение'
+  description:
+  - Может, в конце этого растения и есть
+  - горшочек с золотом, а может, и нет.
+CLT_PLANT_RAW_COPPER:
+  name: Растение рудной меди
+  type:
+  - '&7&oРастение'
+  description:
+  - Если оставить его в покое, это растение
+  - иногда притягивает молнии.
+CLT_PLANT_RAW_GOLD:
+  name: Растение рудного золота
+  type:
+  - '&7&oРастение'
+  description:
+  - Пиглины частенько воруют это растение,
+  - если оно поблизости.
+CLT_PLANT_RAW_IRON:
+  name: Растение рудного железа
+  type:
+  - '&7&oРастение'
+  description:
+  - Крепкое растение, способное выдержать
+  - почти любые условия.
+CLT_PLANT_REDSTONE:
+  name: Растение редстоуна
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение, насквозь переполненное силой.
+CLT_PLANT_RED_SAND:
+  name: Растение красного песка
+  type:
+  - '&7&oРастение'
+  description:
+  - Это растение порой рассыпается
+  - от одного касания, но... краснее.
+CLT_PLANT_REINFORCED:
+  name: Укреплённое растение
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение, способное устоять,
+  - что бы ни случилось.
+CLT_PLANT_SAND:
+  name: Растение песка
+  type:
+  - '&7&oРастение'
+  description:
+  - Это растение порой рассыпается
+  - от одного касания.
+CLT_PLANT_SAPLING:
+  name: Растение саженца
+  type:
+  - '&7&oРастение'
+  description:
+  - В этом растении вообще нет никакого смысла...
+CLT_PLANT_SCRAPPY:
+  name: Лоскутное растение
+  type:
+  - '&7&oРастение'
+  description:
+  - Это растение - поистине вершина
+  - садоводческого искусства.
+CLT_PLANT_SHEEP:
+  name: Растение овцы
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение с грубой шерстистой текстурой.
+CLT_PLANT_SHULKER:
+  name: Растение шалкера
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение, которое часто парит
+  - над землёй.
+CLT_PLANT_SKELETON:
+  name: Растение скелета
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение, которое гремит, когда качается.
+CLT_PLANT_SLIME:
+  name: Растение слизня
+  type:
+  - '&7&oРастение'
+  description:
+  - Почему оно такое липкое?
+CLT_PLANT_SOUL:
+  name: Растение души
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение, чей крик слышен,
+  - когда вокруг тихо.
+CLT_PLANT_SPECTRUM:
+  name: Растение первозданного спектра
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение, слегка меняющее свой цвет.
+  - '&eПервозданные растения не дают предметов'
+  - '&eи нужны только для скрещивания.'
+CLT_PLANT_SPIDER:
+  name: Растение паука
+  type:
+  - '&7&oРастение'
+  description:
+  - Убей его, убей НИМЕДЛЕННА!
+CLT_PLANT_SQUID:
+  name: Растение спрута
+  type:
+  - '&7&oРастение'
+  description:
+  - Осторожно, от одного прикосновения это растение
+  - может взорваться и забрызгать чернилами
+  - всё вокруг.
+CLT_PLANT_STAINED:
+  name: Окрашенное растение
+  type:
+  - '&7&oРастение'
+  description:
+  - Это растение расщепляет свет в настоящий
+  - спектр на ближайшие предметы.
+CLT_PLANT_TERRA:
+  name: Растение терры
+  type:
+  - '&7&oРастение'
+  description:
+  - Твёрдое землистое растение, которое трескается под давлением.
+CLT_PLANT_TURTLE:
+  name: Растение черепахи
+  type:
+  - '&7&oРастение'
+  description:
+  - Семя в твёрдой как камень оболочке.
+CLT_PLANT_VILLAGER:
+  name: Растение крестьянина
+  type:
+  - '&7&oРастение'
+  description:
+  - Да, мы сконденсировали сущность крестьянина
+  - в растение. Говорят, было очень больно.
+CLT_PLANT_VINE:
+  name: Растение лозы
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение, которое мгновенно
+  - запутывается.
+CLT_PLANT_WATER:
+  name: Растение первозданной воды
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение, которое питает и дарит
+  - жизнь всему вокруг.
+  - '&eПервозданные растения не дают предметов'
+  - '&eи нужны только для скрещивания.'
+CLT_PLANT_WAXY:
+  name: Восковое растение
+  type:
+  - '&7&oРастение'
+  description:
+  - Сок этого растения застывает
+  - идеальным воском в форме свечи.
+CLT_PLANT_WEALTH:
+  name: Растение первозданного богатства
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение, которое так и кричит о безудержном богатстве.
+  - '&eПервозданные растения не дают предметов'
+  - '&eи нужны только для скрещивания.'
+CLT_PLANT_WITCH:
+  name: Растение ведьмы
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение, которое будто тихо
+  - бормочет заклинания.
+CLT_PLANT_WITHER:
+  name: Растение визера
+  type:
+  - '&7&oРастение'
+  description:
+  - Смертельно опасное растение, обращаться
+  - с осторожностью.
+CLT_PLANT_WITHER_ROSE:
+  name: Растение визерской розы
+  type:
+  - '&7&oРастение'
+  description:
+  - Это растение каким-то образом излучает
+  - вокруг себя вредоносную ауру.
+CLT_PLANT_WITHER_SKELETON:
+  name: Растение визер-скелета
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение, известное своей неуловимостью и выносливостью.
+CLT_PLANT_WOOLLY:
+  name: Шерстистое растение
+  type:
+  - '&7&oРастение'
+  description:
+  - Шерстистое растение от корней до лепестков!
+CLT_PLANT_ZOMBIE:
+  name: Растение зомби
+  type:
+  - '&7&oРастение'
+  description:
+  - С этого растения капает... что-то...
+CLT_RADDISH:
+  name: Редис
+  type:
+  - '&7&oУрожай'
+  description:
+  - Маленькие кармашки свежего хрустящего солнца.
+CLT_RADICCHIO:
+  name: Радиккьо
+  type:
+  - '&7&oУрожай'
+  description:
+  - Писать все эти описания так долго.
+  - Это просто радиккьольно.
+CLT_RAMEN_BEEF:
+  name: Рамен с говядиной
+  type:
+  - '&7&oЕда'
+  description:
+  - Не самый полезный выбор.
+  stats: &id004
+  - '&8⇨ &bПрилив здоровья I &7(10:00)'
+CLT_RAMEN_BEEF_HEARTY:
+  name: Сытный рамен с говядиной
+  type:
+  - '&7&oЕда'
+  description:
+  - Полезный выбор.
+  stats: &id005
+  - '&8⇨ &7Лечение: &bполностью'
+  - '&8⇨ &bПрилив здоровья II &7(10:00)'
+  - '&8⇨ &bСкорость I &7(10:00)'
+CLT_RAMEN_CHICKEN:
+  name: Рамен с курицей
+  type:
+  - '&7&oЕда'
+  description:
+  - Не самый сытный выбор.
+  stats: *id004
+CLT_RAMEN_CHICKEN_HEARTY:
+  name: Сытный рамен с курицей
+  type:
+  - '&7&oЕда'
+  description:
+  - Сытный выбор.
+  stats: *id005
+CLT_RAMEN_SEAFOOD:
+  name: Рамен с морепродуктами
+  type:
+  - '&7&oЕда'
+  description:
+  - Не самый приятный выбор.
+  stats: *id004
+CLT_RAMEN_SEAFOOD_HEARTY:
+  name: Сытный рамен с морепродуктами
+  type:
+  - '&7&oЕда'
+  description:
+  - Приятный выбор.
+  stats: *id005
+CLT_RAPESEED:
+  name: Рапс
+  type:
+  - '&7&oУрожай'
+  description:
+  - Часто идёт на масло.
+CLT_RECIPE_UNLOCK:
+  name: Свиток знаний Культивации
+  type:
+  - '&7&oИнструмент'
+  description:
+  - ПКМ, чтобы изучить рецепт
+  - скрещивания Культивации.
+CLT_RHUBARB:
+  name: Ревень
+  type:
+  - '&7&oУрожай'
+  description:
+  - Только не забудь убрать листья!
+CLT_RICE:
+  name: Рис
+  type:
+  - '&7&oУрожай'
+  description:
+  - Помни, живёшь только рис!
+CLT_ROSEMARY:
+  name: Розмарин
+  type:
+  - '&7&oУрожай'
+  description:
+  - Вечно ему не хватает тимьяна.
+CLT_RUNNER_BEANS:
+  name: Огненная фасоль
+  type:
+  - '&7&oУрожай'
+  description:
+  - Вечно пытается сбежать.
+CLT_RUTABAGA:
+  name: Брюква
+  type:
+  - '&7&oУрожай'
+  description:
+  - Прямо больно не называть её шведской репой.
+CLT_SALMON_NIGIRI:
+  name: Нигири с лососем
+  type:
+  - '&7&oЕда'
+  description:
+  - Восхитительный, но тонкий вкус.
+  stats:
+  - '&8⇨ &7Лечение: &b2 сердца'
+  - '&8⇨ &bРегенерация I &7(10:00)'
+CLT_SASSAFRAS:
+  name: Сассафрас
+  type:
+  - '&7&oУрожай'
+  description:
+  - Съедобное корневое пиво, серьёзно, загугли,
+  - я теперь покупаю его постоянно.
+CLT_SAUSAGE:
+  name: Колбаска
+  type:
+  - '&7&oЕда'
+  description:
+  - Брат бекона.
+  stats: &id007
+  - '&8⇨ &7Лечение: &b1 сердце'
+CLT_SEED_PACK:
+  name: Пакет семян
+  type:
+  - '&7&oИнструмент'
+  description:
+  - ПКМ, чтобы открыть этот пакет.
+  stats:
+  - '&8⇨ &7Выбрано: &bничего'
+CLT_SHAKSHUKA:
+  name: Шакшука
+  type:
+  - '&7&oЕда'
+  description:
+  - Душевное блюдо, где яиц хоть отбавляй.
+  stats:
+  - '&8⇨ &7Лечение: &b4 сердца'
+  - '&8⇨ &bГерой деревни I &7(10:00)'
+  - '&8⇨ &bВезение I &7(10:00)'
+CLT_SHALLOT:
+  name: Лук-шалот
+  type:
+  - '&7&oУрожай'
+  description:
+  - Обожаю шалот, ем его круглый год.
+CLT_SHEPHERDS_PIE:
+  name: Пастуший пирог
+  type:
+  - '&7&oЕда'
+  description:
+  - Тёплый, сытный и просто чудесный.
+  stats: *id006
+CLT_SHISO:
+  name: Шисо
+  type:
+  - '&7&oУрожай'
+  description:
+  - Мята с гарниром из любви.
+CLT_SLICED_APPLE:
+  name: Нарезанное яблоко
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_APRICOT:
+  name: Нарезанный абрикос
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_ARTICHOKE:
+  name: Нарезанный артишок
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_ASPARAGUS:
+  name: Нарезанная спаржа
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_AUBERGINE:
+  name: Нарезанный баклажан
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_AVOCADO:
+  name: Нарезанное авокадо
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_BANANA:
+  name: Нарезанный банан
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_BASIL:
+  name: Нарезанный базилик
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_BAY_LEAF:
+  name: Нарезанный лавровый лист
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_BEEF:
+  name: Нарезанная говядина
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_BEETROOT:
+  name: Нарезанная свёкла
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_BELL_PEPPER:
+  name: Нарезанный болгарский перец
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_BLACK_BEANS:
+  name: Нарезанная чёрная фасоль
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_BREAD:
+  name: Нарезанный хлеб
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_BROCCOLI:
+  name: Нарезанная брокколи
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_BROWN_MUSHROOM:
+  name: Нарезанный коричневый гриб
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_BRUSSELS_SPROUTS:
+  name: Нарезанная брюссельская капуста
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_CABBAGE:
+  name: Нарезанная капуста
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_CARROT:
+  name: Нарезанная морковь
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_CAULIFLOWER:
+  name: Нарезанная цветная капуста
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_CAYENNE_PEPPER:
+  name: Нарезанный кайенский перец
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_CELERIAC:
+  name: Нарезанный корневой сельдерей
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_CELERY:
+  name: Нарезанный сельдерей
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_CHERRY:
+  name: Нарезанная вишня
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_CHESTNUT:
+  name: Нарезанный каштан
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_CHICKEN:
+  name: Нарезанная курица
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_CHICKPEAS:
+  name: Нарезанный нут
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_CHICORY:
+  name: Нарезанный цикорий
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_CHILLY_PEPPER:
+  name: Нарезанный жгучий перец
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_CHIVES:
+  name: Нарезанный шнитт-лук
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_CHORUS_FRUIT:
+  name: Нарезанный плод хоруса
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_CILANTRO:
+  name: Нарезанная кинза
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_CINNAMON:
+  name: Нарезанная корица
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_CLOVE:
+  name: Нарезанная гвоздика
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_COCOA_BEANS:
+  name: Нарезанные какао-бобы
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_COD:
+  name: Нарезанная треска
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_COURGETTE:
+  name: Нарезанный цукини
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_CUCUMBER:
+  name: Нарезанный огурец
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_CUMIN:
+  name: Нарезанная зира
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_CURRY_LEAF:
+  name: Нарезанный лист карри
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_DILL:
+  name: Нарезанный укроп
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_EGG:
+  name: Нарезанное яйцо
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_ENCHANTED_GOLDEN_APPLE:
+  name: Нарезанное зачарованное золотое яблоко
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_FENNEL:
+  name: Нарезанный фенхель
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_GARLIC:
+  name: Нарезанный чеснок
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_GINGER:
+  name: Нарезанный имбирь
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_GLOW_BERRIES:
+  name: Нарезанные светящиеся ягоды
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_GOLDEN_APPLE:
+  name: Нарезанное золотое яблоко
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_GOLDEN_CARROT:
+  name: Нарезанная золотая морковь
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_GRAPE:
+  name: Нарезанный виноград
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_GREEN_APPLE:
+  name: Нарезанное зелёное яблоко
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_GREEN_BEANS:
+  name: Нарезанная стручковая фасоль
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_GREEN_ONION:
+  name: Нарезанный зелёный лук
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_HAZELNUT:
+  name: Нарезанный фундук
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_HORSERADISH:
+  name: Нарезанный хрен
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_JALAPENO:
+  name: Нарезанный халапеньо
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_JASMINE:
+  name: Нарезанный жасмин
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_JUNIPER_BERRY:
+  name: Нарезанные можжевеловые ягоды
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_KAFFIR_LIME:
+  name: Нарезанный лист кафрского лайма
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_KALE:
+  name: Нарезанная кудрявая капуста
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_KELP:
+  name: Нарезанная ламинария
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_KIWI:
+  name: Нарезанное киви
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_LAVENDER:
+  name: Нарезанная лаванда
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_LEEK:
+  name: Нарезанный лук-порей
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_LEMON:
+  name: Нарезанный лимон
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_LETTUCE:
+  name: Нарезанный салат-латук
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_LICORICE:
+  name: Нарезанная лакрица
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_LIME:
+  name: Нарезанный лайм
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_MACE:
+  name: Нарезанный мацис
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_MANGO:
+  name: Нарезанное манго
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_MARJORAM:
+  name: Нарезанный майоран
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_MARROW:
+  name: Нарезанный кабачок
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_MELON:
+  name: Нарезанный арбуз
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_MINT:
+  name: Нарезанная мята
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_MUSTARD_SEEDS:
+  name: Нарезанные горчичные семена
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_MUTTON:
+  name: Нарезанная баранина
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_NETTLES:
+  name: Нарезанная крапива
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_OKRA:
+  name: Нарезанная бамия
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_ONION:
+  name: Нарезанный лук
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_ORANGE:
+  name: Нарезанный апельсин
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_OREGANO:
+  name: Нарезанное орегано
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_PARSLEY:
+  name: Нарезанная петрушка
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_PARSNIP:
+  name: Нарезанный пастернак
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_PEA:
+  name: Нарезанный горох
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_PEACH:
+  name: Нарезанный персик
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_PEANUT:
+  name: Нарезанный арахис
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_PEAR:
+  name: Нарезанная груша
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_PECAN:
+  name: Нарезанный пекан
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_PEPPER:
+  name: Нарезанный чёрный перец
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_PEPPERONI:
+  name: Нарезанная пепперони
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_PINEAPPLE:
+  name: Нарезанный ананас
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_PINTO_BEANS:
+  name: Нарезанная фасоль пинто
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_PORKCHOP:
+  name: Нарезанная свинина
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_POTATO:
+  name: Нарезанный картофель
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_PUFFERFISH:
+  name: Нарезанный иглобрюх
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_PUMPKIN:
+  name: Нарезанная тыква
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_RABBIT:
+  name: Нарезанный кролик
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_RADDISH:
+  name: Нарезанный редис
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_RADICCHIO:
+  name: Нарезанное радиккьо
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_RAPESEED:
+  name: Нарезанный рапс
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_RED_MUSHROOM:
+  name: Нарезанный красный гриб
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_RHUBARB:
+  name: Нарезанный ревень
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_RICE:
+  name: Нарезанный рис
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_ROSEMARY:
+  name: Нарезанный розмарин
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_ROTTEN_FLESH:
+  name: Нарезанная гнилая плоть
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_RUNNER_BEANS:
+  name: Нарезанная огненная фасоль
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_RUTABAGA:
+  name: Нарезанная брюква
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_SALMON:
+  name: Нарезанный лосось
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_SASSAFRAS:
+  name: Нарезанный сассафрас
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_SHALLOT:
+  name: Нарезанный лук-шалот
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_SHISO:
+  name: Нарезанное шисо
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_SOY_BEANS:
+  name: Нарезанные соевые бобы
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_SPINACH:
+  name: Нарезанный шпинат
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_STAR_ANISE:
+  name: Нарезанный бадьян
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_STRAWBERRY:
+  name: Нарезанная клубника
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_SUGAR:
+  name: Нарезанный сахар
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_SWEETCORN:
+  name: Нарезанная сладкая кукуруза
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_SWEET_BERRIES:
+  name: Нарезанные сладкие ягоды
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_SWEET_POTATO:
+  name: Нарезанный батат
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_TARRAGON:
+  name: Нарезанный эстрагон
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_THYME:
+  name: Нарезанный тимьян
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_TOMATO:
+  name: Нарезанный помидор
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_TURMERIC:
+  name: Нарезанная куркума
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_TURNIP:
+  name: Нарезанная репа
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_VANILLA:
+  name: Нарезанная ваниль
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_WASABI:
+  name: Нарезанный васаби
+  type:
+  - '&7&oПобочный продукт'
+CLT_SLICED_WHEAT:
+  name: Нарезанная пшеница
+  type:
+  - '&7&oПобочный продукт'
+CLT_SOFT_BOILED_EGG:
+  name: Яйцо всмятку
+  type:
+  - '&7&oЕда'
+  description:
+  - Просто варёное яйцо, что тут ещё скажешь.
+  stats:
+  - '&8⇨ &7Лечение: &b1 сердце'
+  - '&8⇨ &7Иногда призывает курицу тебе на помощь.'
+CLT_SOYLENT:
+  name: Сойлент
+  type:
+  - '&7&oЕда'
+  description:
+  - Всё, что нужно организму!
+  stats:
+  - '&8⇨ &bДурной знак I &7(10:00)'
+  - '&8⇨ &bСлабость IV &7(10:00)'
+CLT_SOY_BEANS:
+  name: Соевые бобы
+  type:
+  - '&7&oУрожай'
+  description:
+  - Грядёт соевое молоко.
+CLT_SPAGHETTI:
+  name: Спагетти
+  type:
+  - '&7&oЕда'
+  description:
+  - Знай себе всасывай.
+  stats: *id007
+CLT_SPAGHETTI_AND_MEATBALLS:
+  name: Спагетти с фрикадельками
+  type:
+  - '&7&oЕда'
+  description:
+  - Просто, классически и сытно.
+  stats:
+  - '&8⇨ &7Лечение: &b1 сердце'
+  - '&8⇨ &bДурной знак I &7(10:00)'
+CLT_SPINACH:
+  name: Шпинат
+  type:
+  - '&7&oУрожай'
+  description:
+  - Увядший с любовью.
+CLT_STAR_ANISE:
+  name: Бадьян
+  type:
+  - '&7&oУрожай'
+  description:
+  - Один из лучших и самых необычных вкусов.
+CLT_STRAWBERRY:
+  name: Клубника
+  type:
+  - '&7&oУрожай'
+  description:
+  - Просто добавь сливок!
+CLT_STRAWBERRY_JELLY:
+  name: Клубничное желе
+  type:
+  - '&7&oУрожай'
+  description: *id008
+CLT_SUGARED_SKULL:
+  name: Сахарный череп
+  type:
+  - '&7&oЕда'
+  description:
+  - Это вообще еда...?
+  stats:
+  - '&8⇨ &bТьма III &7(10:00)'
+CLT_SWEETCORN:
+  name: Сладкая кукуруза
+  type:
+  - '&7&oУрожай'
+  description:
+  - Пожалуй, лучший овощ на свете.
+CLT_SWEET_BEEHIVE:
+  name: Сладкий улей
+  type:
+  - '&7&oЕда'
+  description:
+  - Даже не знаю, что заставило тебя это приготовить!
+  stats:
+  - '&8⇨ &7Призывает пчёл!'
+CLT_SWEET_POTATO:
+  name: Батат
+  type:
+  - '&7&oУрожай'
+  description:
+  - Ням-ням-ням.
+CLT_TAQUITO:
+  name: Такито
+  type:
+  - '&7&oЕда'
+  description:
+  - Зим бы гордился!
+  stats:
+  - '&8⇨ &7Лечение: &b4 сердца'
+  - '&8⇨ &7Призывает Гира на помощь (это железный голем, расслабься).'
+CLT_TARRAGON:
+  name: Эстрагон
+  type:
+  - '&7&oУрожай'
+  description:
+  - Я кладу это буквально во всё.
+  - 'Спойлер: повар из меня так себе.'
+CLT_TATER_TOTS:
+  name: Картофельные крокеты
+  type:
+  - '&7&oЕда'
+  description:
+  - Картофельные шарики на один укус.
+  stats:
+  - '&8⇨ &7Лечение: &b0.5 сердца'
+  - '&8⇨ &bСкорость II &7(10:00)'
+CLT_THYME:
+  name: Тимьян
+  type:
+  - '&7&oУрожай'
+  description:
+  - Часто скучает по розмарину.
+CLT_TOMATO:
+  name: Помидор
+  type:
+  - '&7&oУрожай'
+  description:
+  - Прямо с лозы.... эм... с куста?
+CLT_TORTILLAS:
+  name: Тортильи
+  type:
+  - '&7&oУрожай'
+  description:
+  - Кукурузные вкусняшки
+CLT_TREE_APRICOT:
+  name: Абрикосовое дерево
+  type:
+  - '&7&oСаженец'
+  description:
+  - Внутри - одна-единственная косточка отчаяния.
+  stats: &id009
+  - '&8⇨ &7Дизайн: &bБиУайт'
+CLT_TREE_BANANA:
+  name: Банановое дерево
+  type:
+  - '&7&oСаженец'
+  description:
+  - Дерево, на котором растут пальцы, жуть!
+  stats:
+  - '&8⇨ &7Дизайн: &bСефираат'
+CLT_TREE_CHERRY:
+  name: Вишнёвое дерево
+  type:
+  - '&7&oСаженец'
+  description:
+  - Завяжи узелок!
+  stats:
+  - '&8⇨ &7Дизайн: &bРизонФаундДекой'
+CLT_TREE_CHESTNUT:
+  name: Каштановое дерево
+  type:
+  - '&7&oСаженец'
+  description:
+  - Дерево, явно созданное для того, чтобы по нему лазить.
+  stats: &id010
+  - '&8⇨ &7Дизайн: &bЭБитОддиш'
+CLT_TREE_GREEN_APPLE:
+  name: Зелёная яблоня
+  type:
+  - '&7&oСаженец'
+  description:
+  - Растит большие хрустящие зелёные яблоки.
+  stats: *id009
+CLT_TREE_HAZELNUT:
+  name: Лещина
+  type:
+  - '&7&oСаженец'
+  description:
+  - Трясти это дерево - любимая забава детства.
+  stats: *id010
+CLT_TREE_KIWI:
+  name: Дерево киви
+  type:
+  - '&7&oСаженец'
+  description:
+  - Новозеландское дерево? Я правильно понял?
+  stats: *id010
+CLT_TREE_LEMON:
+  name: Лимонное дерево
+  type:
+  - '&7&oСаженец'
+  description:
+  - От одного взгляда на это дерево уже кисло.
+  stats: &id011
+  - '&8⇨ &7Дизайн: &bДжефф'
+CLT_TREE_LIME:
+  name: Лаймовое дерево
+  type:
+  - '&7&oСаженец'
+  description:
+  - А ты знал, что лаймы - это просто лимоны, задержавшие дыхание?
+  stats: *id010
+CLT_TREE_MANGO:
+  name: Манговое дерево
+  type:
+  - '&7&oСаженец'
+  description:
+  - Лучше всего, когда совсем спелое.
+  stats: *id009
+CLT_TREE_ORANGE:
+  name: Апельсиновое дерево
+  type:
+  - '&7&oСаженец'
+  description:
+  - Маленькие шарики солнца.
+  stats: *id011
+CLT_TREE_PEACH:
+  name: Персиковое дерево
+  type:
+  - '&7&oСаженец'
+  description:
+  - Кажется, Джеймс искал именно его?
+  stats: *id010
+CLT_TREE_PEAR:
+  name: Грушевое дерево
+  type:
+  - '&7&oСаженец'
+  description:
+  - Пару груш попарно спарили для паритета.
+  stats: *id009
+CLT_TREE_PECAN:
+  name: Дерево пекан
+  type:
+  - '&7&oСаженец'
+  description:
+  - Можем ли мы вырастить это дерево? Да, пекан-ечно!
+  stats: *id009
+CLT_TREE_PINEAPPLE:
+  name: Ананасовое дерево
+  type:
+  - '&7&oСаженец'
+  description:
+  - ГДЕ МОЯ ПИЦЦА?
+  stats: *id010
+CLT_TURMERIC:
+  name: Куркума
+  type:
+  - '&7&oУрожай'
+  description:
+  - Сильный мускусный аромат, дополняющий множество блюд.
+CLT_TURNIP:
+  name: Репа
+  type:
+  - '&7&oУрожай'
+  description:
+  - Решит все жизненные проблемы.
+CLT_VANILLA:
+  name: Ваниль
+  type:
+  - '&7&oУрожай'
+  description:
+  - 'Инструкция: окунуть прямо в латте'
+CLT_WASABI:
+  name: Васаби
+  type:
+  - '&7&oУрожай'
+  description:
+  - Помогите... васаби...
+CLT_WITHER_ROSE_SALAD:
+  name: Салат из визерской розы
+  type:
+  - '&7&oЕда'
+  description:
+  - Переполнен силой, но с суровым побочным эффектом.
+  stats:
+  - '&8⇨ &7Лечение: &bполностью'
+  - '&8⇨ &bИссушение II &7(10:00)'
+  - '&8⇨ &bПрилив здоровья XX &7(10:00)'

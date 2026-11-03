@@ -1,0 +1,87 @@
+cultivation:
+  bush_harvest:
+    name: Strauchernte
+    lore:
+    - Dieser Gegenstand kann von einem
+    - Kultivierungs-Strauch geerntet werden
+  tree_harvest:
+    name: Baumernte
+    lore:
+    - Dieser Gegenstand kann von einem
+    - Kultivierungs-Baum geerntet werden
+  trading_farmer:
+    name: Dorfbewohnerhandel
+    lore:
+    - Dieser Gegenstand kann bei einem
+    - Bauern im Dorf gekauft werden.
+  trading_fletcher:
+    name: Dorfbewohnerhandel
+    lore:
+    - Dieser Gegenstand kann bei einem
+    - Pfeilmacher im Dorf gekauft werden.
+  mob:
+    name: Mob-Beute
+    lore:
+    - Dieser Gegenstand kann mit etwas Glück
+    - von folgenden Mobs fallen gelassen werden.
+  plant_breeding:
+    name: Pflanzenzucht
+    lore:
+    - Diesen Samen erhältst du durch Zucht.
+    - Pflanzen züchtest du, indem du
+    - zwei Pflanzen mit einem Luftblock
+    - dazwischen platzierst.
+    - ''
+    - Mit dem Zuchtlexikon kannst du
+    - deine Entdeckungen verfolgen.
+    - ''
+    - 'Tipp: Schwarze Partikel bedeuten, die'
+    - beiden Pflanzen können NICHT gekreuzt werden.
+  vanilla_block_drop:
+    name: Fund in der Welt
+    lore:
+    - Fällt aus Blöcken, die in der Welt abgebaut werden.
+  bucketing:
+    name: Fund in der Welt
+    lore:
+    - Fällt in der Welt beim Benutzen eines Eimers.
+  chopped:
+    name: Gehackt
+    lore:
+    - Einfach mit einem Messer hacken!
+  mashed:
+    name: Gestampft
+    lore:
+    - Stampf Stampf Stampf
+  blended:
+    name: Püriert
+    lore:
+    - Entsteht, wenn man einen Gegenstand in den Mixer gibt.
+  sliced:
+    name: Geschnitten
+    lore:
+    - So dünn und zart
+  ground:
+    name: Gemahlen
+    lore:
+    - Ganz, ganz fein
+  boiled:
+    name: Gekocht
+    lore:
+    - Heiß heiß heiß!
+  fried:
+    name: Gebraten
+    lore:
+    - Knusprige Perfektion.
+  grilled:
+    name: Gegrillt
+    lore:
+    - Saftig und zart.
+  finishing:
+    name: Anrichten
+    lore:
+    - Stelle diesen Gegenstand an der Anrichte-Theke der Küche her.
+  baking:
+    name: Backen
+    lore:
+    - Stelle diesen Gegenstand an der Ofen-Theke der Küche her.

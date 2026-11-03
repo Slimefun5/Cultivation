@@ -1,0 +1,65 @@
+lore:
+  seed-pack-set-to: Выбрано
+  knowledge-script-unlocks: Открывает
+  drop-level: Уровень урожая
+  growth-speed: Скорость роста
+  breed-strength: Сила скрещивания
+command:
+  no-permission: У тебя нет прав на это.
+  invalid-subcommand: Укажи правильную подкоманду.
+  players-only: Эту команду может выполнить только игрок.
+  hold-seed-pack: Для этого нужно держать в руке пакет семян.
+  pack-empty: Этот пакет пуст!
+  pack-contents: Содержимое
+  pack-entry: Уровень %level%, скорость %speed%, сила %strength%
+kitchen:
+  recipe-disabled: Этот рецепт отключён.
+  no-recipe: Нет подходящего рецепта.
+  not-enough-power: Недостаточно энергии.
+  input-empty: Положи предмет во входной слот.
+  cooked: Вкусно!
+food:
+  eaten: Чудесно! Ты наелся досыта.
+  not-hungry: Ты ещё не голоден! Есть можно лишь раз в полдня (10 минут).
+  palate-cleansed: Ты чувствуешь, как очищаются твои вкусовые рецепторы.
+  ouch: Ай!
+knowledge-script:
+  learned: 'Ты узнал, как выводить растение: %plant%.'
+seed-pack:
+  title: Пакет семян
+  unstack-first: Сначала разбери стопку пакетов семян.
+  not-a-seed: Предмет должен быть семенами растения Культивации.
+  empty-before-change: Опустоши пакет, прежде чем менять его растение.
+  no-plant-set: Ты ещё не выбрал растение.
+  none-stored: У тебя нет этих семян с такими уровнями.
+  set-here: Положи семя сюда
+  retrieve-here: Забрать отсюда
+  no-seed-set: Семя не выбрано
+  no-seed-set-lore:
+  - Нажми на значок слева,
+  - держа семя, чтобы настроить пакет.
+  empty-set: Пусто
+  empty-set-lore:
+  - У тебя нет семян с
+  - такими уровнями.
+  stored-seed: Тип семян в пакете
+  take-seed: Взять семя из пакета
+  level: Уровень
+  speed: Скорость
+  strength: Сила
+  left-click: ЛКМ
+  right-click: ПКМ
+  increase: 'Увеличить: %stat%'
+  decrease: 'Уменьшить: %stat%'
+  current: Текущее
+codex:
+  title: Кодекс растений
+  child: Потомок
+  mother: Материнское растение
+  father: Отцовское растение
+  growth-rate: Скорость роста
+  not-discovered: Не открыто
+  not-discovered-lore:
+  - Ты ещё не узнал, как
+  - скрестить это растение!
+  discovery: Открытие

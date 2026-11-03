@@ -1,0 +1,6674 @@
+CLT_APRICOT:
+  name: Aprikose
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Daraus kannst du Pokébälle basteln.
+  - '...'
+  - Wie, das ist was ganz anderes...?
+CLT_ARTICHOKE:
+  name: Artischocke
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Reiß ihr das HERZ heraus!
+CLT_ASPARAGUS:
+  name: Spargel
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Vorsicht beim nächsten Gang aufs Klo.
+CLT_AUBERGINE:
+  name: Aubergine
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Knallig lila und zu 100% NICHT eiförmig.
+  - Nennen wir sie trotzdem Eierfrucht, oder?
+CLT_AVOCADO:
+  name: Avocado
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Wovon Hipster nachts träumen.
+CLT_BACON_SANDWICH:
+  name: Speck-Sandwich
+  type:
+  - '&7&oNahrung'
+  description:
+  - Ein schlichter Klassiker!
+  stats:
+  - '&8⇨ &7Heilung: &b2 Herzen'
+  - '&8⇨ &bStärke I &7(10:00)'
+  - '&8⇨ &bSchnelligkeit I &7(10:00)'
+CLT_BAGEL:
+  name: Bagel
+  type:
+  - '&7&oNahrung'
+  description:
+  - Getoastet? Oder...
+  stats:
+  - '&8⇨ &7Heilung: &b2.5 Herzen'
+CLT_BAGEL_BITE:
+  name: Bagel-Happen
+  type:
+  - '&7&oNahrung'
+  description:
+  - Pizza geht immer!
+  stats:
+  - '&8⇨ &7Verbrennt dir bei jedem Bissen den Mund!'
+CLT_BAGEL_CREAM_CHEESE:
+  name: Frischkäse-Bagel
+  type:
+  - '&7&oNahrung'
+  description:
+  - So gut, dass du bestimmt gleich noch einen willst.
+  stats:
+  - '&8⇨ &7Heilung: &b5 Herzen'
+  - '&8⇨ &bExtraenergie I &7(10:00)'
+CLT_BANANA:
+  name: Banane
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Ich mag sie, mit Haut und Schale!
+CLT_BASIL:
+  name: Basilikum
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Ein süßes Blatt mit sanft pfeffrigem Nachgeschmack.
+CLT_BAY_LEAF:
+  name: Lorbeerblatt
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Ein kräftiges Aroma mit vielen Einsatzmöglichkeiten.
+CLT_BELL_PEPPER:
+  name: Paprika
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Da klingelt's doch!
+CLT_BISCUIT:
+  name: Keks
+  type:
+  - '&7&oNahrung'
+  description:
+  - Ein kleiner Snack mit riesigem Geschmack.
+  stats: &id002
+  - '&8⇨ &7Schleudert dich in die Luft'
+CLT_BISCUIT_BASE:
+  name: Keksboden
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Nur weil es jetzt platt ist, heißt das nicht,
+  - dass du es roh essen kannst.
+CLT_BISCUIT_DOUGH:
+  name: Keksteig
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - 'Sag es dir immer wieder: "Nicht roh essen."'
+CLT_BLACK_BEANS:
+  name: Schwarze Bohnen
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Ein köstliches vegetarisches Protein.
+CLT_BLENDED_APPLE:
+  name: Pürierter Apfel
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_APRICOT:
+  name: Pürierte Aprikose
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_ARTICHOKE:
+  name: Pürierte Artischocke
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_ASPARAGUS:
+  name: Pürierter Spargel
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_AUBERGINE:
+  name: Pürierte Aubergine
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_AVOCADO:
+  name: Pürierte Avocado
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_BANANA:
+  name: Pürierte Banane
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_BASIL:
+  name: Püriertes Basilikum
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_BAY_LEAF:
+  name: Püriertes Lorbeerblatt
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_BEEF:
+  name: Püriertes Rindfleisch
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_BEETROOT:
+  name: Pürierte Rote Bete
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_BELL_PEPPER:
+  name: Pürierte Paprika
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_BLACK_BEANS:
+  name: Pürierte Schwarze Bohnen
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_BREAD:
+  name: Püriertes Brot
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_BROCCOLI:
+  name: Pürierter Brokkoli
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_BROWN_MUSHROOM:
+  name: Pürierter Brauner Pilz
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_BRUSSELS_SPROUTS:
+  name: Pürierter Rosenkohl
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_CABBAGE:
+  name: Pürierter Kohl
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_CARROT:
+  name: Pürierte Karotte
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_CAULIFLOWER:
+  name: Pürierter Blumenkohl
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_CAYENNE_PEPPER:
+  name: Pürierter Cayennepfeffer
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_CELERIAC:
+  name: Pürierter Knollensellerie
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_CELERY:
+  name: Pürierter Staudensellerie
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_CHERRY:
+  name: Pürierte Kirsche
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_CHESTNUT:
+  name: Pürierte Kastanie
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_CHICKEN:
+  name: Püriertes Huhn
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_CHICKPEAS:
+  name: Pürierte Kichererbsen
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_CHICORY:
+  name: Pürierter Chicorée
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_CHILLY_PEPPER:
+  name: Pürierte Chilischote
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_CHIVES:
+  name: Pürierter Schnittlauch
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_CHORUS_FRUIT:
+  name: Pürierte Chorusfrucht
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_CILANTRO:
+  name: Pürierter Koriander
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_CINNAMON:
+  name: Pürierter Zimt
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_CLOVE:
+  name: Pürierte Gewürznelke
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_COCOA_BEANS:
+  name: Pürierte Kakaobohnen
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_COD:
+  name: Pürierter Kabeljau
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_COURGETTE:
+  name: Pürierte Zucchini
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_CUCUMBER:
+  name: Pürierte Gurke
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_CUMIN:
+  name: Pürierter Kreuzkümmel
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_CURRY_LEAF:
+  name: Püriertes Curryblatt
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_DILL:
+  name: Pürierter Dill
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_EGG:
+  name: Püriertes Ei
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_ENCHANTED_GOLDEN_APPLE:
+  name: Pürierter Verzauberter goldener Apfel
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_FENNEL:
+  name: Pürierter Fenchel
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_GARLIC:
+  name: Pürierter Knoblauch
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_GINGER:
+  name: Pürierter Ingwer
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_GLOW_BERRIES:
+  name: Pürierte Leuchtbeeren
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_GOLDEN_APPLE:
+  name: Pürierter Goldener Apfel
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_GOLDEN_CARROT:
+  name: Pürierte Goldene Karotte
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_GRAPE:
+  name: Pürierte Weintraube
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_GREEN_APPLE:
+  name: Pürierter Grüner Apfel
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_GREEN_BEANS:
+  name: Pürierte Grüne Bohnen
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_GREEN_ONION:
+  name: Pürierte Frühlingszwiebel
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_HAZELNUT:
+  name: Pürierte Haselnuss
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_HORSERADISH:
+  name: Pürierter Meerrettich
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_JALAPENO:
+  name: Pürierte Jalapeño
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_JASMINE:
+  name: Pürierter Jasmin
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_JUNIPER_BERRY:
+  name: Pürierte Wacholderbeeren
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_KAFFIR_LIME:
+  name: Püriertes Kaffirlimettenblatt
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_KALE:
+  name: Pürierter Grünkohl
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_KELP:
+  name: Pürierter Seetang
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_KIWI:
+  name: Pürierte Kiwi
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_LAVENDER:
+  name: Pürierter Lavendel
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_LEEK:
+  name: Pürierter Lauch
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_LEMON:
+  name: Pürierte Zitrone
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_LETTUCE:
+  name: Pürierter Kopfsalat
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_LICORICE:
+  name: Püriertes Süßholz
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_LIME:
+  name: Pürierte Limette
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_MACE:
+  name: Pürierte Muskatblüte
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_MANGO:
+  name: Pürierte Mango
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_MARJORAM:
+  name: Pürierter Majoran
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_MARROW:
+  name: Pürierter Markkürbis
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_MELON:
+  name: Pürierte Melone
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_MINT:
+  name: Pürierte Minze
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_MUSTARD_SEEDS:
+  name: Pürierte Senfkörner
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_MUTTON:
+  name: Püriertes Hammelfleisch
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_NETTLES:
+  name: Pürierte Brennnesseln
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_OKRA:
+  name: Pürierte Okra
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_ONION:
+  name: Pürierte Zwiebel
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_ORANGE:
+  name: Pürierte Orange
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_OREGANO:
+  name: Pürierter Oregano
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_PARSLEY:
+  name: Pürierte Petersilie
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_PARSNIP:
+  name: Pürierte Pastinake
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_PEA:
+  name: Pürierte Erbsen
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_PEACH:
+  name: Pürierter Pfirsich
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_PEANUT:
+  name: Pürierte Erdnuss
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_PEAR:
+  name: Pürierte Birne
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_PECAN:
+  name: Pürierte Pekannuss
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_PEPPER:
+  name: Pürierter Schwarzer Pfeffer
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_PEPPERONI:
+  name: Pürierte Pepperoni
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_PINEAPPLE:
+  name: Pürierte Ananas
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_PINTO_BEANS:
+  name: Pürierte Pintobohnen
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_PORKCHOP:
+  name: Püriertes Schweinefleisch
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_POTATO:
+  name: Pürierte Kartoffel
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_PUFFERFISH:
+  name: Pürierter Kugelfisch
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_PUMPKIN:
+  name: Pürierter Kürbis
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_RABBIT:
+  name: Püriertes Kaninchen
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_RADDISH:
+  name: Püriertes Radieschen
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_RADICCHIO:
+  name: Pürierter Radicchio
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_RAPESEED:
+  name: Pürierter Raps
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_RED_MUSHROOM:
+  name: Pürierter Roter Pilz
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_RHUBARB:
+  name: Pürierter Rhabarber
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_RICE:
+  name: Pürierter Reis
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_ROSEMARY:
+  name: Pürierter Rosmarin
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_ROTTEN_FLESH:
+  name: Püriertes Verrottetes Fleisch
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_RUNNER_BEANS:
+  name: Pürierte Stangenbohnen
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_RUTABAGA:
+  name: Pürierte Steckrübe
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_SALMON:
+  name: Pürierter Lachs
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_SASSAFRAS:
+  name: Pürierter Sassafras
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_SHALLOT:
+  name: Pürierte Schalotte
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_SHISO:
+  name: Püriertes Shiso
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_SOY_BEANS:
+  name: Pürierte Sojabohnen
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_SPINACH:
+  name: Pürierter Spinat
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_STAR_ANISE:
+  name: Pürierter Sternanis
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_STRAWBERRY:
+  name: Pürierte Erdbeere
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_SUGAR:
+  name: Pürierter Zucker
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_SWEETCORN:
+  name: Pürierter Zuckermais
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_SWEET_BERRIES:
+  name: Pürierte Süßbeeren
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_SWEET_POTATO:
+  name: Pürierte Süßkartoffel
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_TARRAGON:
+  name: Pürierter Estragon
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_THYME:
+  name: Pürierter Thymian
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_TOMATO:
+  name: Pürierte Tomate
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_TURMERIC:
+  name: Pürierte Kurkuma
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_TURNIP:
+  name: Pürierte Rübe
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_VANILLA:
+  name: Pürierte Vanille
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_WASABI:
+  name: Pürierter Wasabi
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLENDED_WHEAT:
+  name: Pürierter Weizen
+  type:
+  - '&7&oNebenprodukt'
+CLT_BLUE_CANDY:
+  name: Blaues Bonbon
+  type:
+  - '&7&oNahrung'
+  description:
+  - Ein herrlich süßes Bonbon.
+  stats:
+  - '&8⇨ &7Beschwört einen Hilfsgeist'
+CLT_BOILED_APPLE:
+  name: Gekochter Apfel
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_APRICOT:
+  name: Gekochte Aprikose
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_ARTICHOKE:
+  name: Gekochte Artischocke
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_ASPARAGUS:
+  name: Gekochter Spargel
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_AUBERGINE:
+  name: Gekochte Aubergine
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_AVOCADO:
+  name: Gekochte Avocado
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_BANANA:
+  name: Gekochte Banane
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_BASIL:
+  name: Gekochtes Basilikum
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_BAY_LEAF:
+  name: Gekochtes Lorbeerblatt
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_BEEF:
+  name: Gekochtes Rindfleisch
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_BEETROOT:
+  name: Gekochte Rote Bete
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_BELL_PEPPER:
+  name: Gekochte Paprika
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_BLACK_BEANS:
+  name: Gekochte Schwarze Bohnen
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_BREAD:
+  name: Gekochtes Brot
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_BROCCOLI:
+  name: Gekochter Brokkoli
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_BROWN_MUSHROOM:
+  name: Gekochter Brauner Pilz
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_BRUSSELS_SPROUTS:
+  name: Gekochter Rosenkohl
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_CABBAGE:
+  name: Gekochter Kohl
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_CARROT:
+  name: Gekochte Karotte
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_CAULIFLOWER:
+  name: Gekochter Blumenkohl
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_CAYENNE_PEPPER:
+  name: Gekochter Cayennepfeffer
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_CELERIAC:
+  name: Gekochter Knollensellerie
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_CELERY:
+  name: Gekochter Staudensellerie
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_CHERRY:
+  name: Gekochte Kirsche
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_CHESTNUT:
+  name: Gekochte Kastanie
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_CHICKEN:
+  name: Gekochtes Huhn
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_CHICKPEAS:
+  name: Gekochte Kichererbsen
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_CHICORY:
+  name: Gekochter Chicorée
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_CHILLY_PEPPER:
+  name: Gekochte Chilischote
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_CHIVES:
+  name: Gekochter Schnittlauch
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_CHORUS_FRUIT:
+  name: Gekochte Chorusfrucht
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_CILANTRO:
+  name: Gekochter Koriander
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_CINNAMON:
+  name: Gekochter Zimt
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_CLOVE:
+  name: Gekochte Gewürznelke
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_COCOA_BEANS:
+  name: Gekochte Kakaobohnen
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_COD:
+  name: Gekochter Kabeljau
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_COURGETTE:
+  name: Gekochte Zucchini
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_CUCUMBER:
+  name: Gekochte Gurke
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_CUMIN:
+  name: Gekochter Kreuzkümmel
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_CURRY_LEAF:
+  name: Gekochtes Curryblatt
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_DILL:
+  name: Gekochter Dill
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_EGG:
+  name: Gekochtes Ei
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_ENCHANTED_GOLDEN_APPLE:
+  name: Gekochter Verzauberter goldener Apfel
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_FENNEL:
+  name: Gekochter Fenchel
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_GARLIC:
+  name: Gekochter Knoblauch
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_GINGER:
+  name: Gekochter Ingwer
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_GLOW_BERRIES:
+  name: Gekochte Leuchtbeeren
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_GOLDEN_APPLE:
+  name: Gekochter Goldener Apfel
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_GOLDEN_CARROT:
+  name: Gekochte Goldene Karotte
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_GRAPE:
+  name: Gekochte Weintraube
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_GREEN_APPLE:
+  name: Gekochter Grüner Apfel
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_GREEN_BEANS:
+  name: Gekochte Grüne Bohnen
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_GREEN_ONION:
+  name: Gekochte Frühlingszwiebel
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_HAZELNUT:
+  name: Gekochte Haselnuss
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_HORSERADISH:
+  name: Gekochter Meerrettich
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_JALAPENO:
+  name: Gekochte Jalapeño
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_JASMINE:
+  name: Gekochter Jasmin
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_JUNIPER_BERRY:
+  name: Gekochte Wacholderbeeren
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_KAFFIR_LIME:
+  name: Gekochtes Kaffirlimettenblatt
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_KALE:
+  name: Gekochter Grünkohl
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_KELP:
+  name: Gekochter Seetang
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_KIWI:
+  name: Gekochte Kiwi
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_LAVENDER:
+  name: Gekochter Lavendel
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_LEEK:
+  name: Gekochter Lauch
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_LEMON:
+  name: Gekochte Zitrone
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_LETTUCE:
+  name: Gekochter Kopfsalat
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_LICORICE:
+  name: Gekochtes Süßholz
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_LIME:
+  name: Gekochte Limette
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_MACE:
+  name: Gekochte Muskatblüte
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_MANGO:
+  name: Gekochte Mango
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_MARJORAM:
+  name: Gekochter Majoran
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_MARROW:
+  name: Gekochter Markkürbis
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_MELON:
+  name: Gekochte Melone
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_MINT:
+  name: Gekochte Minze
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_MUSTARD_SEEDS:
+  name: Gekochte Senfkörner
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_MUTTON:
+  name: Gekochtes Hammelfleisch
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_NETTLES:
+  name: Gekochte Brennnesseln
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_OKRA:
+  name: Gekochte Okra
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_ONION:
+  name: Gekochte Zwiebel
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_ORANGE:
+  name: Gekochte Orange
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_OREGANO:
+  name: Gekochter Oregano
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_PARSLEY:
+  name: Gekochte Petersilie
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_PARSNIP:
+  name: Gekochte Pastinake
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_PEA:
+  name: Gekochte Erbsen
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_PEACH:
+  name: Gekochter Pfirsich
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_PEANUT:
+  name: Gekochte Erdnuss
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_PEAR:
+  name: Gekochte Birne
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_PECAN:
+  name: Gekochte Pekannuss
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_PEPPER:
+  name: Gekochter Schwarzer Pfeffer
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_PEPPERONI:
+  name: Gekochte Pepperoni
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_PINEAPPLE:
+  name: Gekochte Ananas
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_PINTO_BEANS:
+  name: Gekochte Pintobohnen
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_PORKCHOP:
+  name: Gekochtes Schweinefleisch
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_POTATO:
+  name: Gekochte Kartoffel
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_PUFFERFISH:
+  name: Gekochter Kugelfisch
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_PUMPKIN:
+  name: Gekochter Kürbis
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_RABBIT:
+  name: Gekochtes Kaninchen
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_RADDISH:
+  name: Gekochtes Radieschen
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_RADICCHIO:
+  name: Gekochter Radicchio
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_RAPESEED:
+  name: Gekochter Raps
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_RED_MUSHROOM:
+  name: Gekochter Roter Pilz
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_RHUBARB:
+  name: Gekochter Rhabarber
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_RICE:
+  name: Gekochter Reis
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_ROSEMARY:
+  name: Gekochter Rosmarin
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_ROTTEN_FLESH:
+  name: Gekochtes Verrottetes Fleisch
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_RUNNER_BEANS:
+  name: Gekochte Stangenbohnen
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_RUTABAGA:
+  name: Gekochte Steckrübe
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_SALMON:
+  name: Gekochter Lachs
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_SASSAFRAS:
+  name: Gekochter Sassafras
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_SHALLOT:
+  name: Gekochte Schalotte
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_SHISO:
+  name: Gekochtes Shiso
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_SOY_BEANS:
+  name: Gekochte Sojabohnen
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_SPINACH:
+  name: Gekochter Spinat
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_STAR_ANISE:
+  name: Gekochter Sternanis
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_STRAWBERRY:
+  name: Gekochte Erdbeere
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_SUGAR:
+  name: Gekochter Zucker
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_SWEETCORN:
+  name: Gekochter Zuckermais
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_SWEET_BERRIES:
+  name: Gekochte Süßbeeren
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_SWEET_POTATO:
+  name: Gekochte Süßkartoffel
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_TARRAGON:
+  name: Gekochter Estragon
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_THYME:
+  name: Gekochter Thymian
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_TOMATO:
+  name: Gekochte Tomate
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_TURMERIC:
+  name: Gekochte Kurkuma
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_TURNIP:
+  name: Gekochte Rübe
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_VANILLA:
+  name: Gekochte Vanille
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_WASABI:
+  name: Gekochter Wasabi
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOILED_WHEAT:
+  name: Gekochter Weizen
+  type:
+  - '&7&oNebenprodukt'
+CLT_BOWL_OF_STEVE:
+  name: Schüssel voll... Steve?
+  type:
+  - '&7&oNahrung'
+  description:
+  - Was zum &%£$
+  stats:
+  - '&8⇨ &bAbbaulähmung X &7(10:00)'
+  - '&8⇨ &bLangsamkeit VI &7(10:00)'
+  - '&8⇨ &bStärke X &7(10:00)'
+  - '&8⇨ &7Reduziert dich auf 1/2 Herz'
+CLT_BROCCOLI:
+  name: Brokkoli
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Bist du ein Riese, der einen Baum hält?
+  - Nö, nur ein winziger Baum :)
+CLT_BRUSSELS_SPROUTS:
+  name: Rosenkohl
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Ein blähender Genuss.
+CLT_BUSH_ARTICHOKE:
+  name: Artischockenstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Dieser Strauch schockt jeden Künstler. Arti-
+  - Schocke eben. Seufz. Wortwitze sind schwer.
+CLT_BUSH_ASPARAGUS:
+  name: Spargelstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Dieser Spargelstrauch lässt dich nicht aus
+  - den Augen. Ein echter Stangen-Stalker!
+CLT_BUSH_AUBERGINE:
+  name: Auberginenstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Ich weigere mich, Eierfrucht zu sagen. Einfach so.
+CLT_BUSH_AVOCADO:
+  name: Avocadostrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Dieser Strauch wurde gezielt so gezüchtet, dass er
+  - nicht zu viel Wasser verbraucht.
+CLT_BUSH_BASIL:
+  name: Basilikumstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Ein unbeschwerter Strauch voller Flausen.
+CLT_BUSH_BAY_LEAF:
+  name: Lorbeerstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Der Duft dieses Strauchs reicht meilenweit.
+CLT_BUSH_BELL_PEPPER:
+  name: Paprikastrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Vorsicht beim Vorbeigehen, sonst
+  - klingelt es noch.
+CLT_BUSH_BLACK_BEANS:
+  name: Schwarzbohnenstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - 'Dieser Strauch flüstert dir sanft zu:'
+  - Du bist einfach bohnenstark.
+CLT_BUSH_BROCCOLI:
+  name: Brokkolistrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Essbare Mini-Bäume? Wer hat sich das ausgedacht!?
+CLT_BUSH_BRUSSELS_SPROUTS:
+  name: Rosenkohlstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Ein Strauch, der manchmal übelriechende
+  - Gase absondert.
+CLT_BUSH_CABBAGE:
+  name: Kohlstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Ein Strauch, der dir jede Menge
+  - Kohl erzählt.
+CLT_BUSH_CAULIFLOWER:
+  name: Blumenkohlstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Ein Strauch, der kleine Wölkchen
+  - voller Genuss hervorbringt.
+CLT_BUSH_CAYENNE_PEPPER:
+  name: Cayennepfefferstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Ein Strauch mit pfeffriger Einstellung.
+CLT_BUSH_CELERIAC:
+  name: Knollenselleriestrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Schon wieder eine Wurzel, die an einem Strauch wächst?
+  - SefiDoof™
+CLT_BUSH_CELERY:
+  name: Staudenselleriestrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Dieser Strauch ist überflüssig.
+  - Sefi mag keinen Sellerie.
+CLT_BUSH_CHICKPEAS:
+  name: Kichererbsenstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Ein Strauch, gezüchtet aus einem Huhn und
+  - einer Erbse. WISSENSCHAFT.
+CLT_BUSH_CHICORY:
+  name: Chicoréestrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Ich dachte, Chicorée wäre eine Wurzel? Recherchiert
+  - dieses Addon überhaupt!?
+CLT_BUSH_CHILLI_PEPPER:
+  name: Chilistrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Schon beim Anblick dieses Strauchs brennt mir die Zunge.
+CLT_BUSH_CHIVES:
+  name: Schnittlauchstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Ein Strauch, der im Grunde die kleinste Zwiebel
+  - der Welt hervorbringt.
+CLT_BUSH_CILANTRO:
+  name: Korianderstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Dieser Strauch verströmt einen zarten Duft nach Zitrus und Gewürz.
+CLT_BUSH_CINNAMON:
+  name: Zimtstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Ein herrlich duftender Strauch.
+CLT_BUSH_CLOVE:
+  name: Gewürznelkenstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Ein Strauch, der mich einfach an Weihnachten erinnert.
+CLT_BUSH_COURGETTE:
+  name: Zucchinistrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Warum ruft dieser Strauch ständig das
+  - Wort "Courgette"? Muss wohl Brite sein?
+CLT_BUSH_CUCUMBER:
+  name: Gurkenstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Dieser Strauch wurde einzig und allein für
+  - deine herrlichen Sommersalate erschaffen.
+CLT_BUSH_CUMIN:
+  name: Kreuzkümmelstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Ein Strauch, der ein warmes Zitrusaroma verströmt.
+CLT_BUSH_CURRY_LEAF:
+  name: Curryblattstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Am besten ohne Fett geröstet.
+CLT_BUSH_DILL:
+  name: Dillstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Dieser Strauch wächst viel schneller als andere.
+CLT_BUSH_FENNEL:
+  name: Fenchelstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Warum vertreibt dieser Strauch Insekten!?
+CLT_BUSH_GARLIC:
+  name: Knoblauchstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Dieser Strauch hat schlicht den schlimmsten Mundgeruch.
+CLT_BUSH_GINGER:
+  name: Ingwerstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Dieser Strauch schmeckt am besten im Ganzen gekocht.
+CLT_BUSH_GRAPE:
+  name: Traubenstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Reife, saftige Trauben, die praktisch von
+  - selbst vom Strauch fallen.
+CLT_BUSH_GREEN_BEANS:
+  name: Grünbohnenstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Kipp Tomatensoße über diesen Strauch und
+  - schon hast du Baked Beans.
+CLT_BUSH_GREEN_ONION:
+  name: Frühlingszwiebelstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Auch bekannt als Lauchzwiebeln.
+  - Frühlingszwiebeln schmecken meist
+  - milder als die meisten Zwiebeln.
+CLT_BUSH_HORSERADISH:
+  name: Meerrettichstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - 'Nochmal: Dass das an einem Strauch wächst, ergibt einfach keinen Sinn.'
+CLT_BUSH_JALAPENO:
+  name: Jalapeñostrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Wer diesen Strauch nur hält, hat eine
+  - 1% Chance, in Flammen aufzugehen.
+CLT_BUSH_JASMINE:
+  name: Jasminstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Der Duft dieses Strauchs ist so sanft und mild.
+CLT_BUSH_JUNIPER_BERRY:
+  name: Wacholderstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Am Strauch so süß, getrocknet so pfeffrig.
+CLT_BUSH_KAFFIR_LIME:
+  name: Kaffirlimettenstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Ein Strauch, dessen Blätter begehrter sind als seine Früchte.
+CLT_BUSH_KALE:
+  name: Grünkohlstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Wenn du diesen Strauch pflanzt, hast du das
+  - 'Gefühl: Alles ist im grünen Bereich.'
+CLT_BUSH_LAVENDER:
+  name: Lavendelstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Dieser Strauch verbreitet seinen Duft überall.
+CLT_BUSH_LEEK:
+  name: Lauchstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Wusstest du, dass Lauch nur eine Zwiebel
+  - im Korsett ist? Wahre Geschichte.
+CLT_BUSH_LETTUCE:
+  name: Kopfsalatstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Wächst Kopfsalat überhaupt an Sträuchern?
+  - 'Spoiler: Nein, tut er nicht.'
+CLT_BUSH_LICORICE:
+  name: Süßholzstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Igitt
+CLT_BUSH_MACE:
+  name: Muskatstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Dieser Strauch scheint Angreifer abzuwehren?
+CLT_BUSH_MARJORAM:
+  name: Majoranstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Ein großer Strauch mit holzigem Duft.
+CLT_BUSH_MARROW:
+  name: Markkürbisstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Erstaunlich, dass dieser Strauch sein
+  - eigenes Gewicht tragen kann.
+CLT_BUSH_MINT:
+  name: Minzstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Schlicht der am besten duftende Strauch.
+CLT_BUSH_MUSTARD:
+  name: Senfkornstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Wie Feuer im Mund.
+CLT_BUSH_NETTLES:
+  name: Brennnesselstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Vorsicht, wenn du durch diesen Strauch läufst!
+CLT_BUSH_OKRA:
+  name: Okrastrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Gewählt zum Gemüse Nr. 1 von
+  - Okra Winfreys Gemüseclub.
+CLT_BUSH_ONION:
+  name: Zwiebelstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Hat dieser Strauch etwa Tränen in den Augen?
+CLT_BUSH_OREGANO:
+  name: Oreganostrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Dieser stechend riechende Strauch schreckt Besucher ab.
+CLT_BUSH_PARSLEY:
+  name: Petersilienstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Wirf diesen Strauch in Lava, sofort :D
+CLT_BUSH_PARSNIP:
+  name: Pastinakenstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Spar dir den Zwischenschritt und röste
+  - gleich den ganzen Strauch.
+CLT_BUSH_PEA:
+  name: Erbsenstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Nichts für Erbsenzähler.
+CLT_BUSH_PEANUTS:
+  name: Erdnussstrauch
+  type:
+  - '&7&oStrauch'
+  description: &id001
+  - Fest, duftend und voller Protein.
+CLT_BUSH_PEPPER:
+  name: Pfefferstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Schwarzer Pfeffer war schon zur Zeit der
+  - Griechen und Römer ein wichtiger Teil des
+  - Gewürzhandels zwischen Indien und Europa.
+CLT_BUSH_PINTO_BEANS:
+  name: Pintobohnenstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Bald züchten wir bestimmt einen Strauch,
+  - an dem direkt Burritos wachsen, oder?
+CLT_BUSH_RADDISH:
+  name: Radieschenstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Diese Pflanze hat gerade einen Skateboard-Trick gemacht.
+  - Total radikal... Radieschen.
+CLT_BUSH_RADICCHIO:
+  name: Radicchiostrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Willst du vornehm klingen? Gib Radicchio in
+  - jedes Gericht. Im Grunde ist es wie Kohl, aber
+  - du wirkst damit gleich kultiviert.
+CLT_BUSH_RAPESEED:
+  name: Rapsstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Dieser Strauch sondert eine ölige Substanz ab.
+CLT_BUSH_RHUBARB:
+  name: Rhabarberstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Wusstest du, dass Rhabarber ein Gemüse ist?
+  - Ich dachte, das wäre ein Barbarenstamm.
+CLT_BUSH_RICE:
+  name: Reisstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Das ultimative Grundnahrungsmittel.
+CLT_BUSH_ROSEMARY:
+  name: Rosmarinstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Ein Strauch, dessen Duft an Sonntagsbraten erinnert.
+CLT_BUSH_RUNNER_BEANS:
+  name: Stangenbohnenstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Hat dieser Strauch etwa Füße o.o?
+CLT_BUSH_RUTABAGA:
+  name: Steckrübenstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Kohlrübe. Es ist eine Kohlrübe.
+CLT_BUSH_SASSAFRAS:
+  name: Sassafrasstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Dieser Strauch wird gern nahe kleiner
+  - Gewässer gepflanzt.
+CLT_BUSH_SHALLOT:
+  name: Schalottenstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Dieser Strauch bringt flink herrliche Mini-Zwiebeln hervor.
+  - Ein Schalotten-Dasein führt der wirklich nicht.
+CLT_BUSH_SHISO:
+  name: Shisostrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Ich stelle mir diesen Strauch gern als Liebeskind
+  - von Minze und Basilikum vor. Schade, dass
+  - man Sträucher nicht kreuzen kann!
+CLT_BUSH_SOY_BEANS:
+  name: Sojabohnenstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Dieser Strauch ist eine Wonne. Er macht
+  - mich soja glücklich.
+CLT_BUSH_SPINACH:
+  name: Spinatstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Dieser Strauch ist Popeyes bester Freund.
+CLT_BUSH_STAR_ANISE:
+  name: Sternanisstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Dieser Strauch verströmt einen so einzigartigen
+  - Anisduft, das glaubst du kaum.
+CLT_BUSH_STRAWBERRY:
+  name: Erdbeerstrauch
+  type:
+  - '&7&oStrauch'
+  description: *id001
+CLT_BUSH_SWEETCORN:
+  name: Maisstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Dieser Strauch schreit förmlich danach, zu
+  - einem Irrgarten verbaut zu werden.
+CLT_BUSH_SWEET_POTATO:
+  name: Süßkartoffelstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Dieser Strauch ist einfach so süß. Er hat dir
+  - Komplimente gemacht, als du nicht zugehört hast.
+CLT_BUSH_TARRAGON:
+  name: Estragonstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Dieser Strauch zieht nicht gern viel Aufmerksamkeit auf sich.
+CLT_BUSH_THYME:
+  name: Thymianstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Dieser Strauch hat nie Zeit... äh, Thymian... *hust*
+CLT_BUSH_TOMATO:
+  name: Tomatenstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Reif und bereit.
+CLT_BUSH_TURMERIC:
+  name: Kurkumastrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Schon beim Halten dieses Strauchs steigt
+  - dir ein Hauch von Gewürz in die Nase.
+CLT_BUSH_TURNIP:
+  name: Rübenstrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Laut der britischen Regierung
+  - löst dieser Strauch all unsere Probleme.
+CLT_BUSH_VANILLA:
+  name: Vanillestrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Dieser Strauch wächst von Natur aus in der Nähe von StarBucks-Filialen.
+CLT_BUSH_WASABI:
+  name: Wasabistrauch
+  type:
+  - '&7&oStrauch'
+  description:
+  - Noch eine Wurzel, die an einem Strauch wächst?
+  - Seufz...
+CLT_CABBAGE:
+  name: Kohl
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Ein ganzer Kopf voller Kohl.
+CLT_CAESAR_SALAD:
+  name: Caesar-Salat
+  type:
+  - '&7&oNahrung'
+  description:
+  - Ein gesunder Klassiker.
+  stats:
+  - '&8⇨ &7Heilung: &b6 Herzen'
+  - '&8⇨ &bSchnelligkeit I &7(10:00)'
+  - '&8⇨ &bUnsichtbarkeit I &7(10:00)'
+  - '&8⇨ &bSanfter Fall I &7(10:00)'
+CLT_CAJUN_GARLIC_BUTTER_COD:
+  name: Kabeljau in Cajun-Knoblauchbutter
+  type:
+  - '&7&oNahrung'
+  description:
+  - Ein ganz einfaches Gericht, das vor Geschmack nur so strotzt.
+  stats:
+  - '&8⇨ &7Heilung: &b4 Herzen'
+  - '&8⇨ &bRegeneration II &7(10:00)'
+  - '&8⇨ &bSchnelligkeit I &7(10:00)'
+CLT_CAULIFLOWER:
+  name: Blumenkohl
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Eine Wolke zum Mitnehmen!
+CLT_CAYENNE_PEPPER:
+  name: Cayennepfeffer
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Ein sanft würziger Leckerbissen.
+CLT_CELERIAC:
+  name: Knollensellerie
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Eine herzhafte Wurzel, die in vielen traditionellen
+  - Rezepten verwurzelt ist (hehe).
+CLT_CELERY:
+  name: Staudensellerie
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Im Grunde nur Wasser mit Fäden. Überzeug
+  - mich vom Gegenteil.
+CLT_CHEESE_BURGER:
+  name: Burger
+  type:
+  - '&7&oNahrung'
+  description:
+  - Ein simpler Cheeseburger, aber nichts geht darüber!
+  stats:
+  - '&8⇨ &7Heilung: &b4 Herzen'
+  - '&8⇨ &bRegeneration III &7(10:00)'
+CLT_CHEESY_SCALLOPED_COURGETTE:
+  name: Überbackene Käse-Zucchini
+  type:
+  - '&7&oNahrung'
+  description:
+  - Eine Low-Carb-Version eines großartigen Klassikers.
+  stats:
+  - '&8⇨ &7Heilung: &b2 Herzen'
+  - '&8⇨ &bNachtsicht I &7(10:00)'
+  - '&8⇨ &bUnsichtbarkeit I &7(10:00)'
+CLT_CHERRY:
+  name: Kirsche
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Oh, ich dachte, die wachsen schon kandiert. Schade!
+CLT_CHESTNUT:
+  name: Kastanie
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Gemacht zum Backen, und zwar sofort.
+CLT_CHICKEN_ALFREDO_MAC_AND_CHEESE:
+  name: Hähnchen-Alfredo-Käsemakkaroni
+  type:
+  - '&7&oNahrung'
+  description:
+  - Ein nobler Dreh für einen bekannten Klassiker.
+  stats:
+  - '&8⇨ &7Heilung: &b1 Herz'
+  - '&8⇨ &bFeuerresistenz II &7(10:00)'
+  - '&8⇨ &bResistenz III &7(10:00)'
+CLT_CHICKEN_PASTA_BAKE:
+  name: Hähnchen-Nudelauflauf
+  type:
+  - '&7&oNahrung'
+  description:
+  - Ein Grundnahrungsmittel jeder Studenten-WG.
+  stats:
+  - '&8⇨ &7Heilung: &b5 Herzen'
+  - '&8⇨ &bNachtsicht I &7(10:00)'
+  - '&8⇨ &bUnterwasseratmung I &7(10:00)'
+CLT_CHICKEN_POT_PIE:
+  name: Hähnchenpastete
+  type:
+  - '&7&oNahrung'
+  description:
+  - Ein wärmendes Gericht, das nach Zuhause schmeckt.
+  stats:
+  - '&8⇨ &7Heilung: &b10 Herzen'
+  - '&8⇨ &bSprungkraft II &7(10:00)'
+  - '&8⇨ &bSättigung I &7(10:00)'
+CLT_CHICKPEAS:
+  name: Kichererbsen
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Die Black Eyed Peas können ein Lied singen, Kichererbsen können nur Hummus... äh, summen.
+CLT_CHICORY:
+  name: Chicorée
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Eine nussige, bittere Wurzel.
+CLT_CHILLY_PEPPER:
+  name: Chilischote
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Ich kann eine ganze Chili essen, ohne zu weinen.
+  - Na gut, eine halbe.
+  - NAAAJAAA.... 1/4
+  - '...'
+  - Okay, ich kann eine mit der Zunge berühren
+CLT_CHIVES:
+  name: Schnittlauch
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Ein süßes Kraut mit Zwiebelgeschmack.
+CLT_CHOPPED_APPLE:
+  name: Gehackter Apfel
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_APRICOT:
+  name: Gehackte Aprikose
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_ARTICHOKE:
+  name: Gehackte Artischocke
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_ASPARAGUS:
+  name: Gehackter Spargel
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_AUBERGINE:
+  name: Gehackte Aubergine
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_AVOCADO:
+  name: Gehackte Avocado
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_BANANA:
+  name: Gehackte Banane
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_BASIL:
+  name: Gehacktes Basilikum
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_BAY_LEAF:
+  name: Gehacktes Lorbeerblatt
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_BEEF:
+  name: Gehacktes Rindfleisch
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_BEETROOT:
+  name: Gehackte Rote Bete
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_BELL_PEPPER:
+  name: Gehackte Paprika
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_BLACK_BEANS:
+  name: Gehackte Schwarze Bohnen
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_BREAD:
+  name: Gehacktes Brot
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_BROCCOLI:
+  name: Gehackter Brokkoli
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_BROWN_MUSHROOM:
+  name: Gehackter Brauner Pilz
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_BRUSSELS_SPROUTS:
+  name: Gehackter Rosenkohl
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_CABBAGE:
+  name: Gehackter Kohl
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_CARROT:
+  name: Gehackte Karotte
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_CAULIFLOWER:
+  name: Gehackter Blumenkohl
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_CAYENNE_PEPPER:
+  name: Gehackter Cayennepfeffer
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_CELERIAC:
+  name: Gehackter Knollensellerie
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_CELERY:
+  name: Gehackter Staudensellerie
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_CHERRY:
+  name: Gehackte Kirsche
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_CHESTNUT:
+  name: Gehackte Kastanie
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_CHICKEN:
+  name: Gehacktes Huhn
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_CHICKPEAS:
+  name: Gehackte Kichererbsen
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_CHICORY:
+  name: Gehackter Chicorée
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_CHILLY_PEPPER:
+  name: Gehackte Chilischote
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_CHIVES:
+  name: Gehackter Schnittlauch
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_CHORUS_FRUIT:
+  name: Gehackte Chorusfrucht
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_CILANTRO:
+  name: Gehackter Koriander
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_CINNAMON:
+  name: Gehackter Zimt
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_CLOVE:
+  name: Gehackte Gewürznelke
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_COCOA_BEANS:
+  name: Gehackte Kakaobohnen
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_COD:
+  name: Gehackter Kabeljau
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_COURGETTE:
+  name: Gehackte Zucchini
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_CUCUMBER:
+  name: Gehackte Gurke
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_CUMIN:
+  name: Gehackter Kreuzkümmel
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_CURRY_LEAF:
+  name: Gehacktes Curryblatt
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_DILL:
+  name: Gehackter Dill
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_EGG:
+  name: Gehacktes Ei
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_ENCHANTED_GOLDEN_APPLE:
+  name: Gehackter Verzauberter goldener Apfel
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_FENNEL:
+  name: Gehackter Fenchel
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_GARLIC:
+  name: Gehackter Knoblauch
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_GINGER:
+  name: Gehackter Ingwer
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_GLOW_BERRIES:
+  name: Gehackte Leuchtbeeren
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_GOLDEN_APPLE:
+  name: Gehackter Goldener Apfel
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_GOLDEN_CARROT:
+  name: Gehackte Goldene Karotte
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_GRAPE:
+  name: Gehackte Weintraube
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_GREEN_APPLE:
+  name: Gehackter Grüner Apfel
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_GREEN_BEANS:
+  name: Gehackte Grüne Bohnen
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_GREEN_ONION:
+  name: Gehackte Frühlingszwiebel
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_HAZELNUT:
+  name: Gehackte Haselnuss
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_HORSERADISH:
+  name: Gehackter Meerrettich
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_JALAPENO:
+  name: Gehackte Jalapeño
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_JASMINE:
+  name: Gehackter Jasmin
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_JUNIPER_BERRY:
+  name: Gehackte Wacholderbeeren
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_KAFFIR_LIME:
+  name: Gehacktes Kaffirlimettenblatt
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_KALE:
+  name: Gehackter Grünkohl
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_KELP:
+  name: Gehackter Seetang
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_KIWI:
+  name: Gehackte Kiwi
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_LAVENDER:
+  name: Gehackter Lavendel
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_LEEK:
+  name: Gehackter Lauch
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_LEMON:
+  name: Gehackte Zitrone
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_LETTUCE:
+  name: Gehackter Kopfsalat
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_LICORICE:
+  name: Gehacktes Süßholz
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_LIME:
+  name: Gehackte Limette
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_MACE:
+  name: Gehackte Muskatblüte
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_MANGO:
+  name: Gehackte Mango
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_MARJORAM:
+  name: Gehackter Majoran
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_MARROW:
+  name: Gehackter Markkürbis
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_MELON:
+  name: Gehackte Melone
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_MINT:
+  name: Gehackte Minze
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_MUSTARD_SEEDS:
+  name: Gehackte Senfkörner
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_MUTTON:
+  name: Gehacktes Hammelfleisch
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_NETTLES:
+  name: Gehackte Brennnesseln
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_OKRA:
+  name: Gehackte Okra
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_ONION:
+  name: Gehackte Zwiebel
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_ORANGE:
+  name: Gehackte Orange
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_OREGANO:
+  name: Gehackter Oregano
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_PARSLEY:
+  name: Gehackte Petersilie
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_PARSNIP:
+  name: Gehackte Pastinake
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_PEA:
+  name: Gehackte Erbsen
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_PEACH:
+  name: Gehackter Pfirsich
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_PEANUT:
+  name: Gehackte Erdnuss
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_PEAR:
+  name: Gehackte Birne
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_PECAN:
+  name: Gehackte Pekannuss
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_PEPPER:
+  name: Gehackter Schwarzer Pfeffer
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_PEPPERONI:
+  name: Gehackte Pepperoni
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_PINEAPPLE:
+  name: Gehackte Ananas
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_PINTO_BEANS:
+  name: Gehackte Pintobohnen
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_PORKCHOP:
+  name: Gehacktes Schweinefleisch
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_POTATO:
+  name: Gehackte Kartoffel
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_PUFFERFISH:
+  name: Gehackter Kugelfisch
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_PUMPKIN:
+  name: Gehackter Kürbis
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_RABBIT:
+  name: Gehacktes Kaninchen
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_RADDISH:
+  name: Gehacktes Radieschen
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_RADICCHIO:
+  name: Gehackter Radicchio
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_RAPESEED:
+  name: Gehackter Raps
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_RED_MUSHROOM:
+  name: Gehackter Roter Pilz
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_RHUBARB:
+  name: Gehackter Rhabarber
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_RICE:
+  name: Gehackter Reis
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_ROSEMARY:
+  name: Gehackter Rosmarin
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_ROTTEN_FLESH:
+  name: Gehacktes Verrottetes Fleisch
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_RUNNER_BEANS:
+  name: Gehackte Stangenbohnen
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_RUTABAGA:
+  name: Gehackte Steckrübe
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_SALMON:
+  name: Gehackter Lachs
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_SASSAFRAS:
+  name: Gehackter Sassafras
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_SHALLOT:
+  name: Gehackte Schalotte
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_SHISO:
+  name: Gehacktes Shiso
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_SOY_BEANS:
+  name: Gehackte Sojabohnen
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_SPINACH:
+  name: Gehackter Spinat
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_STAR_ANISE:
+  name: Gehackter Sternanis
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_STRAWBERRY:
+  name: Gehackte Erdbeere
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_SUGAR:
+  name: Gehackter Zucker
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_SWEETCORN:
+  name: Gehackter Zuckermais
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_SWEET_BERRIES:
+  name: Gehackte Süßbeeren
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_SWEET_POTATO:
+  name: Gehackte Süßkartoffel
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_TARRAGON:
+  name: Gehackter Estragon
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_THYME:
+  name: Gehackter Thymian
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_TOMATO:
+  name: Gehackte Tomate
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_TURMERIC:
+  name: Gehackte Kurkuma
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_TURNIP:
+  name: Gehackte Rübe
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_VANILLA:
+  name: Gehackte Vanille
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_WASABI:
+  name: Gehackter Wasabi
+  type:
+  - '&7&oNebenprodukt'
+CLT_CHOPPED_WHEAT:
+  name: Gehackter Weizen
+  type:
+  - '&7&oNebenprodukt'
+CLT_CILANTRO:
+  name: Koriander
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Ein mildes Gewürz mit einem Hauch Zitrus.
+CLT_CINNAMON:
+  name: Zimt
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Als Stange herrlich zum Drauf-herumkauen.
+CLT_CINNAMON_ROLL:
+  name: Zimtschnecke
+  type:
+  - '&7&oNahrung'
+  description:
+  - Ein süßer Genuss, zum Spaß aufgerollt.
+  - Wer sie isst, steht Kopf!
+  stats:
+  - '&8⇨ &7Heilung: &b4 Herzen'
+  - '&8⇨ &bSchwebekraft I &7(10:00)'
+  - '&8⇨ &bSanfter Fall I &7(10:00)'
+CLT_CLOVE:
+  name: Gewürznelke
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Ein super wärmender, intensiver Geschmack.
+CLT_COMPRESSED_BISCUIT:
+  name: Gepresster Keks
+  type:
+  - '&7&oNahrung'
+  description:
+  - Ein kleiner Snack mit noch riesigerem Geschmack.
+  stats: *id002
+CLT_COOKED_BURGER_PATTY:
+  name: Gebratenes Burger-Patty
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Trieft förmlich
+CLT_COUNTER_BLENDER:
+  name: Küchentheke (Mixer)
+  type:
+  - '&7&oMaschine'
+  description:
+  - Rechtsklicke diesen Block, um Erzeugnisse zu pürieren.
+  usage: &id003
+  - Profi-Tipp! Wenn platziert, ändert Shift +
+  - Rechtsklick mit Block(s) in der Hand das
+  - Design der Küche. Probier es aus!
+CLT_COUNTER_BOILING:
+  name: Küchentheke (Kochtopf)
+  type:
+  - '&7&oMaschine'
+  description:
+  - Kann bestimmte Gegenstände kochen.
+  usage: *id003
+CLT_COUNTER_CHOPPING:
+  name: Küchentheke (Hackbrett)
+  type:
+  - '&7&oMaschine'
+  description:
+  - Rechtsklicke diesen Block, um Erzeugnisse zu hacken.
+  usage: *id003
+CLT_COUNTER_FINISHING:
+  name: Küchentheke (Anrichten)
+  type:
+  - '&7&oMaschine'
+  description:
+  - Verarbeitet Erzeugnisse/Nebenprodukte zu
+  - weiteren Nebenprodukten oder fertigen Gerichten.
+  usage: *id003
+CLT_COUNTER_FRYING:
+  name: Küchentheke (Bratpfanne)
+  type:
+  - '&7&oMaschine'
+  description:
+  - Kann bestimmte Erzeugnisse braten.
+  usage: *id003
+CLT_COUNTER_GRILL:
+  name: Küchentheke (Grill)
+  type:
+  - '&7&oMaschine'
+  description:
+  - Kann bestimmte Erzeugnisse grillen.
+  usage: *id003
+CLT_COUNTER_GRINDER:
+  name: Küchentheke (Mörser und Stößel)
+  type:
+  - '&7&oMaschine'
+  description:
+  - Rechtsklicke diesen Block, um Erzeugnisse zu mahlen.
+  usage: *id003
+CLT_COUNTER_MASHER:
+  name: Küchentheke (Stampfschüssel)
+  type:
+  - '&7&oMaschine'
+  description:
+  - Rechtsklicke diesen Block, um Erzeugnisse zu stampfen.
+  usage: *id003
+CLT_COUNTER_NOTHING:
+  name: Küchentheke (leer)
+  type:
+  - '&7&oMaschine'
+  description:
+  - Nur zur Dekoration!
+  usage: *id003
+CLT_COUNTER_OVEN:
+  name: Küchentheke (Ofen)
+  type:
+  - '&7&oMaschine'
+  description:
+  - Kann bestimmte Erzeugnisse backen.
+  usage: *id003
+CLT_COUNTER_SLICING:
+  name: Küchentheke (Schneidebrett)
+  type:
+  - '&7&oMaschine'
+  description:
+  - Rechtsklicke diesen Block, um Erzeugnisse zu schneiden.
+  usage: *id003
+CLT_COURGETTE:
+  name: Zucchini
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - 'Profi-Tipp: Reib das in jede Nudelsoße,'
+  - für mehr Tiefe und Textur.
+CLT_CREAM_CHEESE:
+  name: Frischkäse
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Eher cremig als käsig.
+CLT_CROP_STICKS:
+  name: Pflanzstäbe
+  type:
+  - '&7&oWerkzeug'
+  description:
+  - Pflanzstäbe müssen an einem platzierten
+  - Samen angebracht werden, damit er wächst.
+  - Ein zweites Set kreuzt die Pflanze und
+  - lässt sie sich ausbreiten und/oder
+  - vermehren.
+CLT_CUCUMBER:
+  name: Gurke
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Wasser in grüner Schale. Beweis mir
+  - das Gegenteil.
+CLT_CUMIN:
+  name: Kreuzkümmel
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Eine warme, zitrusartige Pflanze.
+CLT_CURRY_LEAF:
+  name: Curryblatt
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Die Grundlage so vieler wunderbarer Gerichte.
+CLT_DILL:
+  name: Dill
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Schmeckt für mich einfach nach Gras. Warum
+  - mögen die Leute das?
+CLT_DOUGH:
+  name: Teig
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Einfach nur schlichter Teig!
+CLT_EGG_SALAD:
+  name: Eiersalat
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Pack das mal im Zug aus, wenn du dich traust!
+CLT_EGG_SALAD_SANDWICH:
+  name: Eiersalat-Sandwich
+  type:
+  - '&7&oNahrung'
+  description:
+  - Riecht etwas, schmeckt aber fantastisch!
+  stats: &id006
+  - '&8⇨ &7Heilung: &b10 Herzen'
+  - '&8⇨ &bRegeneration II &7(10:00)'
+CLT_FENNEL:
+  name: Fenchel
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Wie eine Mischung aus Anis und Lakritz.
+CLT_FRIED_APPLE:
+  name: Gebratener Apfel
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_APRICOT:
+  name: Gebratene Aprikose
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_ARTICHOKE:
+  name: Gebratene Artischocke
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_ASPARAGUS:
+  name: Gebratener Spargel
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_AUBERGINE:
+  name: Gebratene Aubergine
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_AVOCADO:
+  name: Gebratene Avocado
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_BANANA:
+  name: Gebratene Banane
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_BASIL:
+  name: Gebratenes Basilikum
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_BAY_LEAF:
+  name: Gebratenes Lorbeerblatt
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_BEEF:
+  name: Gebratenes Rindfleisch
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_BEETROOT:
+  name: Gebratene Rote Bete
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_BELL_PEPPER:
+  name: Gebratene Paprika
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_BLACK_BEANS:
+  name: Gebratene Schwarze Bohnen
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_BREAD:
+  name: Gebratenes Brot
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_BROCCOLI:
+  name: Gebratener Brokkoli
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_BROWN_MUSHROOM:
+  name: Gebratener Brauner Pilz
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_BRUSSELS_SPROUTS:
+  name: Gebratener Rosenkohl
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_CABBAGE:
+  name: Gebratener Kohl
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_CARROT:
+  name: Gebratene Karotte
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_CAULIFLOWER:
+  name: Gebratener Blumenkohl
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_CAYENNE_PEPPER:
+  name: Gebratener Cayennepfeffer
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_CELERIAC:
+  name: Gebratener Knollensellerie
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_CELERY:
+  name: Gebratener Staudensellerie
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_CHERRY:
+  name: Gebratene Kirsche
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_CHESTNUT:
+  name: Gebratene Kastanie
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_CHICKEN:
+  name: Gebratenes Huhn
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_CHICKPEAS:
+  name: Gebratene Kichererbsen
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_CHICORY:
+  name: Gebratener Chicorée
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_CHILLY_PEPPER:
+  name: Gebratene Chilischote
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_CHIVES:
+  name: Gebratener Schnittlauch
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_CHORUS_FRUIT:
+  name: Gebratene Chorusfrucht
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_CILANTRO:
+  name: Gebratener Koriander
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_CINNAMON:
+  name: Gebratener Zimt
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_CLOVE:
+  name: Gebratene Gewürznelke
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_COCOA_BEANS:
+  name: Gebratene Kakaobohnen
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_COD:
+  name: Gebratener Kabeljau
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_COURGETTE:
+  name: Gebratene Zucchini
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_CUCUMBER:
+  name: Gebratene Gurke
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_CUMIN:
+  name: Gebratener Kreuzkümmel
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_CURRY_LEAF:
+  name: Gebratenes Curryblatt
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_DILL:
+  name: Gebratener Dill
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_EGG:
+  name: Gebratenes Ei
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_ENCHANTED_GOLDEN_APPLE:
+  name: Gebratener Verzauberter goldener Apfel
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_FENNEL:
+  name: Gebratener Fenchel
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_GARLIC:
+  name: Gebratener Knoblauch
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_GINGER:
+  name: Gebratener Ingwer
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_GLOW_BERRIES:
+  name: Gebratene Leuchtbeeren
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_GOLDEN_APPLE:
+  name: Gebratener Goldener Apfel
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_GOLDEN_CARROT:
+  name: Gebratene Goldene Karotte
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_GRAPE:
+  name: Gebratene Weintraube
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_GREEN_APPLE:
+  name: Gebratener Grüner Apfel
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_GREEN_BEANS:
+  name: Gebratene Grüne Bohnen
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_GREEN_ONION:
+  name: Gebratene Frühlingszwiebel
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_HAZELNUT:
+  name: Gebratene Haselnuss
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_HORSERADISH:
+  name: Gebratener Meerrettich
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_JALAPENO:
+  name: Gebratene Jalapeño
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_JASMINE:
+  name: Gebratener Jasmin
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_JUNIPER_BERRY:
+  name: Gebratene Wacholderbeeren
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_KAFFIR_LIME:
+  name: Gebratenes Kaffirlimettenblatt
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_KALE:
+  name: Gebratener Grünkohl
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_KELP:
+  name: Gebratener Seetang
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_KIWI:
+  name: Gebratene Kiwi
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_LAVENDER:
+  name: Gebratener Lavendel
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_LEEK:
+  name: Gebratener Lauch
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_LEMON:
+  name: Gebratene Zitrone
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_LETTUCE:
+  name: Gebratener Kopfsalat
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_LICORICE:
+  name: Gebratenes Süßholz
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_LIME:
+  name: Gebratene Limette
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_MACE:
+  name: Gebratene Muskatblüte
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_MANGO:
+  name: Gebratene Mango
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_MARJORAM:
+  name: Gebratener Majoran
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_MARROW:
+  name: Gebratener Markkürbis
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_MELON:
+  name: Gebratene Melone
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_MINT:
+  name: Gebratene Minze
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_MUSTARD_SEEDS:
+  name: Gebratene Senfkörner
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_MUTTON:
+  name: Gebratenes Hammelfleisch
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_NETTLES:
+  name: Gebratene Brennnesseln
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_OKRA:
+  name: Gebratene Okra
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_ONION:
+  name: Gebratene Zwiebel
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_ORANGE:
+  name: Gebratene Orange
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_OREGANO:
+  name: Gebratener Oregano
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_PARSLEY:
+  name: Gebratene Petersilie
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_PARSNIP:
+  name: Gebratene Pastinake
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_PEA:
+  name: Gebratene Erbsen
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_PEACH:
+  name: Gebratener Pfirsich
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_PEANUT:
+  name: Gebratene Erdnuss
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_PEAR:
+  name: Gebratene Birne
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_PECAN:
+  name: Gebratene Pekannuss
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_PEPPER:
+  name: Gebratener Schwarzer Pfeffer
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_PEPPERONI:
+  name: Gebratene Pepperoni
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_PINEAPPLE:
+  name: Gebratene Ananas
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_PINTO_BEANS:
+  name: Gebratene Pintobohnen
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_PORKCHOP:
+  name: Gebratenes Schweinefleisch
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_POTATO:
+  name: Gebratene Kartoffel
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_PUFFERFISH:
+  name: Gebratener Kugelfisch
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_PUMPKIN:
+  name: Gebratener Kürbis
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_RABBIT:
+  name: Gebratenes Kaninchen
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_RADDISH:
+  name: Gebratenes Radieschen
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_RADICCHIO:
+  name: Gebratener Radicchio
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_RAPESEED:
+  name: Gebratener Raps
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_RED_MUSHROOM:
+  name: Gebratener Roter Pilz
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_RHUBARB:
+  name: Gebratener Rhabarber
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_RICE:
+  name: Gebratener Reis
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_ROSEMARY:
+  name: Gebratener Rosmarin
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_ROTTEN_FLESH:
+  name: Gebratenes Verrottetes Fleisch
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_RUNNER_BEANS:
+  name: Gebratene Stangenbohnen
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_RUTABAGA:
+  name: Gebratene Steckrübe
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_SALMON:
+  name: Gebratener Lachs
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_SASSAFRAS:
+  name: Gebratener Sassafras
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_SHALLOT:
+  name: Gebratene Schalotte
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_SHISO:
+  name: Gebratenes Shiso
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_SOY_BEANS:
+  name: Gebratene Sojabohnen
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_SPINACH:
+  name: Gebratener Spinat
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_STAR_ANISE:
+  name: Gebratener Sternanis
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_STRAWBERRY:
+  name: Gebratene Erdbeere
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_SUGAR:
+  name: Gebratener Zucker
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_SWEETCORN:
+  name: Gebratener Zuckermais
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_SWEET_BERRIES:
+  name: Gebratene Süßbeeren
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_SWEET_POTATO:
+  name: Gebratene Süßkartoffel
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_TARRAGON:
+  name: Gebratener Estragon
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_THYME:
+  name: Gebratener Thymian
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_TOMATO:
+  name: Gebratene Tomate
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_TURMERIC:
+  name: Gebratene Kurkuma
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_TURNIP:
+  name: Gebratene Rübe
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_VANILLA:
+  name: Gebratene Vanille
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_WASABI:
+  name: Gebratener Wasabi
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRIED_WHEAT:
+  name: Gebratener Weizen
+  type:
+  - '&7&oNebenprodukt'
+CLT_FRUIT_SALAD:
+  name: Obstsalat
+  type:
+  - '&7&oNahrung'
+  description:
+  - Wenn du es Salat nennst, darfst du so viel essen,
+  - wie du willst, denn dann ist es ja gesund.
+  stats:
+  - '&8⇨ &7Heilung: &b6 Herzen'
+  - '&8⇨ &bSchnelligkeit III &7(10:00)'
+CLT_FUGU:
+  name: Fugu
+  type:
+  - '&7&oNahrung'
+  description:
+  - Bereit, dein Glück herauszufordern?
+  stats:
+  - '&8⇨ &7Heilung: &b1 Herz'
+  - '&8⇨ &bStärke V &7(10:00)'
+  - '&8⇨ &733% Chance, einfach zu sterben!'
+CLT_GARDEN_CLOCHE:
+  name: Gartenglocke
+  type:
+  - '&7&oMaschine'
+  description:
+  - Lässt Pflanzen in seinem Inneren automatisch wachsen.
+  stats:
+  - '&8⇨ &7Energie pro Tick: &b100'
+CLT_GARLIC:
+  name: Knoblauch
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Schnell, bevor die Vampire kommen!
+CLT_GARLIC_BUTTER_MUSHROOMS:
+  name: Pilze in Knoblauchbutter
+  type:
+  - '&7&oNahrung'
+  description:
+  - Vielleicht das beste Essen der Welt.
+  stats:
+  - '&8⇨ &7Heilung: &b2 Herzen'
+  - '&8⇨ &bLeuchten I &7(10:00)'
+CLT_GINGER:
+  name: Ingwer
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Gehackter Ingwer in kochendem Wasser heilt alle Leiden!
+CLT_GRAPE:
+  name: Weintraube
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - So prall!
+CLT_GRAPE_JELLY:
+  name: Traubengelee
+  type:
+  - '&7&oErzeugnis'
+  description: &id008
+  - Es mit dem Löffel zu essen, ist eine Straftat.
+CLT_GREEN_APPLE:
+  name: Grüner Apfel
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Auf dem Zettel steht... Liebe Lehrerin?
+CLT_GREEN_BEANS:
+  name: Grüne Bohnen
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Wie kreativ benannt!
+CLT_GREEN_ONION:
+  name: Frühlingszwiebel
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Passt super auf Tacos!
+CLT_GRILLED_APPLE:
+  name: Gegrillter Apfel
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_APRICOT:
+  name: Gegrillte Aprikose
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_ARTICHOKE:
+  name: Gegrillte Artischocke
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_ASPARAGUS:
+  name: Gegrillter Spargel
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_AUBERGINE:
+  name: Gegrillte Aubergine
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_AVOCADO:
+  name: Gegrillte Avocado
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_BANANA:
+  name: Gegrillte Banane
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_BASIL:
+  name: Gegrilltes Basilikum
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_BAY_LEAF:
+  name: Gegrilltes Lorbeerblatt
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_BEEF:
+  name: Gegrilltes Rindfleisch
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_BEETROOT:
+  name: Gegrillte Rote Bete
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_BELL_PEPPER:
+  name: Gegrillte Paprika
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_BLACK_BEANS:
+  name: Gegrillte Schwarze Bohnen
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_BREAD:
+  name: Gegrilltes Brot
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_BROCCOLI:
+  name: Gegrillter Brokkoli
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_BROWN_MUSHROOM:
+  name: Gegrillter Brauner Pilz
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_BRUSSELS_SPROUTS:
+  name: Gegrillter Rosenkohl
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_CABBAGE:
+  name: Gegrillter Kohl
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_CARROT:
+  name: Gegrillte Karotte
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_CAULIFLOWER:
+  name: Gegrillter Blumenkohl
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_CAYENNE_PEPPER:
+  name: Gegrillter Cayennepfeffer
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_CELERIAC:
+  name: Gegrillter Knollensellerie
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_CELERY:
+  name: Gegrillter Staudensellerie
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_CHERRY:
+  name: Gegrillte Kirsche
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_CHESTNUT:
+  name: Gegrillte Kastanie
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_CHICKEN:
+  name: Gegrilltes Huhn
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_CHICKPEAS:
+  name: Gegrillte Kichererbsen
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_CHICORY:
+  name: Gegrillter Chicorée
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_CHILLY_PEPPER:
+  name: Gegrillte Chilischote
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_CHIVES:
+  name: Gegrillter Schnittlauch
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_CHORUS_FRUIT:
+  name: Gegrillte Chorusfrucht
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_CILANTRO:
+  name: Gegrillter Koriander
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_CINNAMON:
+  name: Gegrillter Zimt
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_CLOVE:
+  name: Gegrillte Gewürznelke
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_COCOA_BEANS:
+  name: Gegrillte Kakaobohnen
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_COD:
+  name: Gegrillter Kabeljau
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_COURGETTE:
+  name: Gegrillte Zucchini
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_CUCUMBER:
+  name: Gegrillte Gurke
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_CUMIN:
+  name: Gegrillter Kreuzkümmel
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_CURRY_LEAF:
+  name: Gegrilltes Curryblatt
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_DILL:
+  name: Gegrillter Dill
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_EGG:
+  name: Gegrilltes Ei
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_ENCHANTED_GOLDEN_APPLE:
+  name: Gegrillter Verzauberter goldener Apfel
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_FENNEL:
+  name: Gegrillter Fenchel
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_GARLIC:
+  name: Gegrillter Knoblauch
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_GINGER:
+  name: Gegrillter Ingwer
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_GLOW_BERRIES:
+  name: Gegrillte Leuchtbeeren
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_GOLDEN_APPLE:
+  name: Gegrillter Goldener Apfel
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_GOLDEN_CARROT:
+  name: Gegrillte Goldene Karotte
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_GRAPE:
+  name: Gegrillte Weintraube
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_GREEN_APPLE:
+  name: Gegrillter Grüner Apfel
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_GREEN_BEANS:
+  name: Gegrillte Grüne Bohnen
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_GREEN_ONION:
+  name: Gegrillte Frühlingszwiebel
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_HAZELNUT:
+  name: Gegrillte Haselnuss
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_HORSERADISH:
+  name: Gegrillter Meerrettich
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_JALAPENO:
+  name: Gegrillte Jalapeño
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_JASMINE:
+  name: Gegrillter Jasmin
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_JUNIPER_BERRY:
+  name: Gegrillte Wacholderbeeren
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_KAFFIR_LIME:
+  name: Gegrilltes Kaffirlimettenblatt
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_KALE:
+  name: Gegrillter Grünkohl
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_KELP:
+  name: Gegrillter Seetang
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_KIWI:
+  name: Gegrillte Kiwi
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_LAVENDER:
+  name: Gegrillter Lavendel
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_LEEK:
+  name: Gegrillter Lauch
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_LEMON:
+  name: Gegrillte Zitrone
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_LETTUCE:
+  name: Gegrillter Kopfsalat
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_LICORICE:
+  name: Gegrilltes Süßholz
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_LIME:
+  name: Gegrillte Limette
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_MACE:
+  name: Gegrillte Muskatblüte
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_MANGO:
+  name: Gegrillte Mango
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_MARJORAM:
+  name: Gegrillter Majoran
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_MARROW:
+  name: Gegrillter Markkürbis
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_MELON:
+  name: Gegrillte Melone
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_MINT:
+  name: Gegrillte Minze
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_MUSTARD_SEEDS:
+  name: Gegrillte Senfkörner
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_MUTTON:
+  name: Gegrilltes Hammelfleisch
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_NETTLES:
+  name: Gegrillte Brennnesseln
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_OKRA:
+  name: Gegrillte Okra
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_ONION:
+  name: Gegrillte Zwiebel
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_ORANGE:
+  name: Gegrillte Orange
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_OREGANO:
+  name: Gegrillter Oregano
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_PARSLEY:
+  name: Gegrillte Petersilie
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_PARSNIP:
+  name: Gegrillte Pastinake
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_PEA:
+  name: Gegrillte Erbsen
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_PEACH:
+  name: Gegrillter Pfirsich
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_PEANUT:
+  name: Gegrillte Erdnuss
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_PEAR:
+  name: Gegrillte Birne
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_PECAN:
+  name: Gegrillte Pekannuss
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_PEPPER:
+  name: Gegrillter Schwarzer Pfeffer
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_PEPPERONI:
+  name: Gegrillte Pepperoni
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_PINEAPPLE:
+  name: Gegrillte Ananas
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_PINTO_BEANS:
+  name: Gegrillte Pintobohnen
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_PORKCHOP:
+  name: Gegrilltes Schweinefleisch
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_POTATO:
+  name: Gegrillte Kartoffel
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_PUFFERFISH:
+  name: Gegrillter Kugelfisch
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_PUMPKIN:
+  name: Gegrillter Kürbis
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_RABBIT:
+  name: Gegrilltes Kaninchen
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_RADDISH:
+  name: Gegrilltes Radieschen
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_RADICCHIO:
+  name: Gegrillter Radicchio
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_RAPESEED:
+  name: Gegrillter Raps
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_RED_MUSHROOM:
+  name: Gegrillter Roter Pilz
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_RHUBARB:
+  name: Gegrillter Rhabarber
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_RICE:
+  name: Gegrillter Reis
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_ROSEMARY:
+  name: Gegrillter Rosmarin
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_ROTTEN_FLESH:
+  name: Gegrilltes Verrottetes Fleisch
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_RUNNER_BEANS:
+  name: Gegrillte Stangenbohnen
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_RUTABAGA:
+  name: Gegrillte Steckrübe
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_SALMON:
+  name: Gegrillter Lachs
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_SALMON_SALAD:
+  name: Gegrillter Lachssalat
+  type:
+  - '&7&oNahrung'
+  description:
+  - Herrlich zart und brillant gewürzt.
+  stats:
+  - '&8⇨ &7Heilung: &b4 Herzen'
+  - '&8⇨ &bRegeneration I &7(10:00)'
+  - '&8⇨ &bExtraenergie V &7(10:00)'
+CLT_GRILLED_SASSAFRAS:
+  name: Gegrillter Sassafras
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_SHALLOT:
+  name: Gegrillte Schalotte
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_SHISO:
+  name: Gegrilltes Shiso
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_SOY_BEANS:
+  name: Gegrillte Sojabohnen
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_SPINACH:
+  name: Gegrillter Spinat
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_STAR_ANISE:
+  name: Gegrillter Sternanis
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_STRAWBERRY:
+  name: Gegrillte Erdbeere
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_SUGAR:
+  name: Gegrillter Zucker
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_SWEETCORN:
+  name: Gegrillter Zuckermais
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_SWEET_BERRIES:
+  name: Gegrillte Süßbeeren
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_SWEET_POTATO:
+  name: Gegrillte Süßkartoffel
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_TARRAGON:
+  name: Gegrillter Estragon
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_THYME:
+  name: Gegrillter Thymian
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_TOMATO:
+  name: Gegrillte Tomate
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_TURMERIC:
+  name: Gegrillte Kurkuma
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_TURNIP:
+  name: Gegrillte Rübe
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_VANILLA:
+  name: Gegrillte Vanille
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_WASABI:
+  name: Gegrillter Wasabi
+  type:
+  - '&7&oNebenprodukt'
+CLT_GRILLED_WHEAT:
+  name: Gegrillter Weizen
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_APPLE:
+  name: Gemahlener Apfel
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_APRICOT:
+  name: Gemahlene Aprikose
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_ARTICHOKE:
+  name: Gemahlene Artischocke
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_ASPARAGUS:
+  name: Gemahlener Spargel
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_AUBERGINE:
+  name: Gemahlene Aubergine
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_AVOCADO:
+  name: Gemahlene Avocado
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_BANANA:
+  name: Gemahlene Banane
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_BASIL:
+  name: Gemahlenes Basilikum
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_BAY_LEAF:
+  name: Gemahlenes Lorbeerblatt
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_BEEF:
+  name: Gemahlenes Rindfleisch
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_BEETROOT:
+  name: Gemahlene Rote Bete
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_BELL_PEPPER:
+  name: Gemahlene Paprika
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_BLACK_BEANS:
+  name: Gemahlene Schwarze Bohnen
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_BREAD:
+  name: Gemahlenes Brot
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_BROCCOLI:
+  name: Gemahlener Brokkoli
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_BROWN_MUSHROOM:
+  name: Gemahlener Brauner Pilz
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_BRUSSELS_SPROUTS:
+  name: Gemahlener Rosenkohl
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_CABBAGE:
+  name: Gemahlener Kohl
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_CARROT:
+  name: Gemahlene Karotte
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_CAULIFLOWER:
+  name: Gemahlener Blumenkohl
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_CAYENNE_PEPPER:
+  name: Gemahlener Cayennepfeffer
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_CELERIAC:
+  name: Gemahlener Knollensellerie
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_CELERY:
+  name: Gemahlener Staudensellerie
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_CHERRY:
+  name: Gemahlene Kirsche
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_CHESTNUT:
+  name: Gemahlene Kastanie
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_CHICKEN:
+  name: Gemahlenes Huhn
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_CHICKPEAS:
+  name: Gemahlene Kichererbsen
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_CHICORY:
+  name: Gemahlener Chicorée
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_CHILLY_PEPPER:
+  name: Gemahlene Chilischote
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_CHIVES:
+  name: Gemahlener Schnittlauch
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_CHORUS_FRUIT:
+  name: Gemahlene Chorusfrucht
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_CILANTRO:
+  name: Gemahlener Koriander
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_CINNAMON:
+  name: Gemahlener Zimt
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_CLOVE:
+  name: Gemahlene Gewürznelke
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_COCOA_BEANS:
+  name: Gemahlene Kakaobohnen
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_COD:
+  name: Gemahlener Kabeljau
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_COURGETTE:
+  name: Gemahlene Zucchini
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_CUCUMBER:
+  name: Gemahlene Gurke
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_CUMIN:
+  name: Gemahlener Kreuzkümmel
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_CURRY_LEAF:
+  name: Gemahlenes Curryblatt
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_DILL:
+  name: Gemahlener Dill
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_EGG:
+  name: Gemahlenes Ei
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_ENCHANTED_GOLDEN_APPLE:
+  name: Gemahlener Verzauberter goldener Apfel
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_FENNEL:
+  name: Gemahlener Fenchel
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_GARLIC:
+  name: Gemahlener Knoblauch
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_GINGER:
+  name: Gemahlener Ingwer
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_GLOW_BERRIES:
+  name: Gemahlene Leuchtbeeren
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_GOLDEN_APPLE:
+  name: Gemahlener Goldener Apfel
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_GOLDEN_CARROT:
+  name: Gemahlene Goldene Karotte
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_GRAPE:
+  name: Gemahlene Weintraube
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_GREEN_APPLE:
+  name: Gemahlener Grüner Apfel
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_GREEN_BEANS:
+  name: Gemahlene Grüne Bohnen
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_GREEN_ONION:
+  name: Gemahlene Frühlingszwiebel
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_HAZELNUT:
+  name: Gemahlene Haselnuss
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_HORSERADISH:
+  name: Gemahlener Meerrettich
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_JALAPENO:
+  name: Gemahlene Jalapeño
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_JASMINE:
+  name: Gemahlener Jasmin
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_JUNIPER_BERRY:
+  name: Gemahlene Wacholderbeeren
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_KAFFIR_LIME:
+  name: Gemahlenes Kaffirlimettenblatt
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_KALE:
+  name: Gemahlener Grünkohl
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_KELP:
+  name: Gemahlener Seetang
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_KIWI:
+  name: Gemahlene Kiwi
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_LAVENDER:
+  name: Gemahlener Lavendel
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_LEEK:
+  name: Gemahlener Lauch
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_LEMON:
+  name: Gemahlene Zitrone
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_LETTUCE:
+  name: Gemahlener Kopfsalat
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_LICORICE:
+  name: Gemahlenes Süßholz
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_LIME:
+  name: Gemahlene Limette
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_MACE:
+  name: Gemahlene Muskatblüte
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_MANGO:
+  name: Gemahlene Mango
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_MARJORAM:
+  name: Gemahlener Majoran
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_MARROW:
+  name: Gemahlener Markkürbis
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_MELON:
+  name: Gemahlene Melone
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_MINT:
+  name: Gemahlene Minze
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_MUSTARD_SEEDS:
+  name: Gemahlene Senfkörner
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_MUTTON:
+  name: Gemahlenes Hammelfleisch
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_NETTLES:
+  name: Gemahlene Brennnesseln
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_OKRA:
+  name: Gemahlene Okra
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_ONION:
+  name: Gemahlene Zwiebel
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_ORANGE:
+  name: Gemahlene Orange
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_OREGANO:
+  name: Gemahlener Oregano
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_PARSLEY:
+  name: Gemahlene Petersilie
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_PARSNIP:
+  name: Gemahlene Pastinake
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_PEA:
+  name: Gemahlene Erbsen
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_PEACH:
+  name: Gemahlener Pfirsich
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_PEANUT:
+  name: Gemahlene Erdnuss
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_PEAR:
+  name: Gemahlene Birne
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_PECAN:
+  name: Gemahlene Pekannuss
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_PEPPER:
+  name: Gemahlener Schwarzer Pfeffer
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_PEPPERONI:
+  name: Gemahlene Pepperoni
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_PINEAPPLE:
+  name: Gemahlene Ananas
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_PINTO_BEANS:
+  name: Gemahlene Pintobohnen
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_PORKCHOP:
+  name: Gemahlenes Schweinefleisch
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_POTATO:
+  name: Gemahlene Kartoffel
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_PUFFERFISH:
+  name: Gemahlener Kugelfisch
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_PUMPKIN:
+  name: Gemahlener Kürbis
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_RABBIT:
+  name: Gemahlenes Kaninchen
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_RADDISH:
+  name: Gemahlenes Radieschen
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_RADICCHIO:
+  name: Gemahlener Radicchio
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_RAPESEED:
+  name: Gemahlener Raps
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_RED_MUSHROOM:
+  name: Gemahlener Roter Pilz
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_RHUBARB:
+  name: Gemahlener Rhabarber
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_RICE:
+  name: Gemahlener Reis
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_ROSEMARY:
+  name: Gemahlener Rosmarin
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_ROTTEN_FLESH:
+  name: Gemahlenes Verrottetes Fleisch
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_RUNNER_BEANS:
+  name: Gemahlene Stangenbohnen
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_RUTABAGA:
+  name: Gemahlene Steckrübe
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_SALMON:
+  name: Gemahlener Lachs
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_SASSAFRAS:
+  name: Gemahlener Sassafras
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_SHALLOT:
+  name: Gemahlene Schalotte
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_SHISO:
+  name: Gemahlenes Shiso
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_SOY_BEANS:
+  name: Gemahlene Sojabohnen
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_SPINACH:
+  name: Gemahlener Spinat
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_STAR_ANISE:
+  name: Gemahlener Sternanis
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_STRAWBERRY:
+  name: Gemahlene Erdbeere
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_SUGAR:
+  name: Gemahlener Zucker
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_SWEETCORN:
+  name: Gemahlener Zuckermais
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_SWEET_BERRIES:
+  name: Gemahlene Süßbeeren
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_SWEET_POTATO:
+  name: Gemahlene Süßkartoffel
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_TARRAGON:
+  name: Gemahlener Estragon
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_THYME:
+  name: Gemahlener Thymian
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_TOMATO:
+  name: Gemahlene Tomate
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_TURMERIC:
+  name: Gemahlene Kurkuma
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_TURNIP:
+  name: Gemahlene Rübe
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_VANILLA:
+  name: Gemahlene Vanille
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_WASABI:
+  name: Gemahlener Wasabi
+  type:
+  - '&7&oNebenprodukt'
+CLT_GROUND_WHEAT:
+  name: Gemahlener Weizen
+  type:
+  - '&7&oNebenprodukt'
+CLT_HAZELNUT:
+  name: Haselnuss
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Tu, was nötig ist, um daraus einen
+  - Kaffee für mich zu machen, sofort!
+CLT_HORSERADISH:
+  name: Meerrettich
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - $100, wenn du direkt reinbeißt.
+CLT_JALAPENO:
+  name: Jalapeño
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - HEISS HEISS HEISS.
+CLT_JASMINE:
+  name: Jasmin
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Ergibt einen wunderbaren Tee.
+CLT_JUNIPER_BERRY:
+  name: Wacholderbeeren
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Getrocknet zu pfeffriger Perfektion.
+CLT_KAFFIR_LIME:
+  name: Kaffirlimettenblatt
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Ein Blatt mit gewaltigem Zitrus-Kick.
+CLT_KALE:
+  name: Grünkohl
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Hilfe, ich bin ein Smoothie-Hipster von 2020!
+CLT_KETCHUP:
+  name: Ketchup
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Einfach Tomaten in cremiger Form.
+CLT_KEY_LIME_PIE:
+  name: Limettentarte
+  type:
+  - '&7&oNahrung'
+  description:
+  - Einfach spitze!
+  stats:
+  - '&8⇨ &7Heilung: &b6 Herzen'
+  - '&8⇨ &bEile IV &7(10:00)'
+CLT_KIWI:
+  name: Kiwi
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Ich habe das nur unter Zwang ins Addon gepackt.
+  - Kiwis sind böse, und wer sie
+  - benutzt, verliert automatisch
+  - 100 Punkte.
+CLT_LASAGNA:
+  name: Lasagne
+  type:
+  - '&7&oNahrung'
+  description:
+  - Schicht um Schicht Großartigkeit.
+  stats:
+  - '&8⇨ &7Heilung: &bVoll'
+  - '&8⇨ &bRegeneration II &7(10:00)'
+  - '&8⇨ &bResistenz II &7(10:00)'
+CLT_LAVENDER:
+  name: Lavendel
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Ein Duft, bei dem ich langsam in den Schlaf gleite.
+CLT_LEAVES_TREE_APRICOT:
+  name: Aprikosenlaub
+  type:
+  - '&7&oLaub'
+CLT_LEAVES_TREE_BANANA:
+  name: Bananenlaub
+  type:
+  - '&7&oLaub'
+CLT_LEAVES_TREE_CHERRY:
+  name: Kirschlaub
+  type:
+  - '&7&oLaub'
+CLT_LEAVES_TREE_CHESTNUT:
+  name: Kastanienlaub
+  type:
+  - '&7&oLaub'
+CLT_LEAVES_TREE_GREEN_APPLE:
+  name: Grünapfellaub
+  type:
+  - '&7&oLaub'
+CLT_LEAVES_TREE_HAZELNUT:
+  name: Haselnusslaub
+  type:
+  - '&7&oLaub'
+CLT_LEAVES_TREE_KIWI:
+  name: Kiwilaub
+  type:
+  - '&7&oLaub'
+CLT_LEAVES_TREE_LEMON:
+  name: Zitronenlaub
+  type:
+  - '&7&oLaub'
+CLT_LEAVES_TREE_LIME:
+  name: Limettenlaub
+  type:
+  - '&7&oLaub'
+CLT_LEAVES_TREE_MANGO:
+  name: Mangolaub
+  type:
+  - '&7&oLaub'
+CLT_LEAVES_TREE_ORANGE:
+  name: Orangenlaub
+  type:
+  - '&7&oLaub'
+CLT_LEAVES_TREE_PEACH:
+  name: Pfirsichlaub
+  type:
+  - '&7&oLaub'
+CLT_LEAVES_TREE_PEAR:
+  name: Birnbaumlaub
+  type:
+  - '&7&oLaub'
+CLT_LEAVES_TREE_PECAN:
+  name: Pekannusslaub
+  type:
+  - '&7&oLaub'
+CLT_LEAVES_TREE_PINEAPPLE:
+  name: Ananaslaub
+  type:
+  - '&7&oLaub'
+CLT_LEEK:
+  name: Lauch
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Aus irgendeinem Grund tropft es vor Wasser?
+  - Vielleicht hat es ein Lauch... äh, Loch?
+CLT_LEMON:
+  name: Zitrone
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Warum so sauer?
+CLT_LEMON_DROP:
+  name: Zitronenbonbon
+  type:
+  - '&7&oNahrung'
+  description:
+  - Ein Gaumenreiniger.
+  stats:
+  - '&8⇨ &7Entfernt alle Effekte und macht dich wieder hungrig.'
+CLT_LETTUCE:
+  name: Kopfsalat
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Dünn, wässrig und trotzdem lecker.
+CLT_LICORICE:
+  name: Süßholz
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Lauf, lauf sofort weg!
+CLT_LIME:
+  name: Limette
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Es Limette einmal eine köstliche Frucht...
+CLT_MACE:
+  name: Muskatblüte
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Wird Angreifern ins Gesicht gesprüht.
+  - '...'
+  - Wie, das ist gar kein Pfefferspray?
+CLT_MANGO:
+  name: Mango
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - MAN, ich muss jetzt GO-hen.
+  - Lore schreiben ist schwer...
+CLT_MARJORAM:
+  name: Majoran
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Ich hab gerade keine Curry... äh, Zeit. Können wir später reden?
+CLT_MARROW:
+  name: Markkürbis
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Wusstest du, dass Mark in deinen
+  - Knochen steckt?
+  - Jep, Sefi schlau.
+CLT_MASHED_APPLE:
+  name: Gestampfter Apfel
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_APRICOT:
+  name: Gestampfte Aprikose
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_ARTICHOKE:
+  name: Gestampfte Artischocke
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_ASPARAGUS:
+  name: Gestampfter Spargel
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_AUBERGINE:
+  name: Gestampfte Aubergine
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_AVOCADO:
+  name: Gestampfte Avocado
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_BANANA:
+  name: Gestampfte Banane
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_BASIL:
+  name: Gestampftes Basilikum
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_BAY_LEAF:
+  name: Gestampftes Lorbeerblatt
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_BEEF:
+  name: Gestampftes Rindfleisch
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_BEETROOT:
+  name: Gestampfte Rote Bete
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_BELL_PEPPER:
+  name: Gestampfte Paprika
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_BLACK_BEANS:
+  name: Gestampfte Schwarze Bohnen
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_BREAD:
+  name: Gestampftes Brot
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_BROCCOLI:
+  name: Gestampfter Brokkoli
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_BROWN_MUSHROOM:
+  name: Gestampfter Brauner Pilz
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_BRUSSELS_SPROUTS:
+  name: Gestampfter Rosenkohl
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_CABBAGE:
+  name: Gestampfter Kohl
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_CARROT:
+  name: Gestampfte Karotte
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_CAULIFLOWER:
+  name: Gestampfter Blumenkohl
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_CAYENNE_PEPPER:
+  name: Gestampfter Cayennepfeffer
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_CELERIAC:
+  name: Gestampfter Knollensellerie
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_CELERY:
+  name: Gestampfter Staudensellerie
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_CHERRY:
+  name: Gestampfte Kirsche
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_CHESTNUT:
+  name: Gestampfte Kastanie
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_CHICKEN:
+  name: Gestampftes Huhn
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_CHICKPEAS:
+  name: Gestampfte Kichererbsen
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_CHICORY:
+  name: Gestampfter Chicorée
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_CHILLY_PEPPER:
+  name: Gestampfte Chilischote
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_CHIVES:
+  name: Gestampfter Schnittlauch
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_CHORUS_FRUIT:
+  name: Gestampfte Chorusfrucht
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_CILANTRO:
+  name: Gestampfter Koriander
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_CINNAMON:
+  name: Gestampfter Zimt
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_CLOVE:
+  name: Gestampfte Gewürznelke
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_COCOA_BEANS:
+  name: Gestampfte Kakaobohnen
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_COD:
+  name: Gestampfter Kabeljau
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_COURGETTE:
+  name: Gestampfte Zucchini
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_CUCUMBER:
+  name: Gestampfte Gurke
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_CUMIN:
+  name: Gestampfter Kreuzkümmel
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_CURRY_LEAF:
+  name: Gestampftes Curryblatt
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_DILL:
+  name: Gestampfter Dill
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_EGG:
+  name: Gestampftes Ei
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_ENCHANTED_GOLDEN_APPLE:
+  name: Gestampfter Verzauberter goldener Apfel
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_FENNEL:
+  name: Gestampfter Fenchel
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_GARLIC:
+  name: Gestampfter Knoblauch
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_GINGER:
+  name: Gestampfter Ingwer
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_GLOW_BERRIES:
+  name: Gestampfte Leuchtbeeren
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_GOLDEN_APPLE:
+  name: Gestampfter Goldener Apfel
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_GOLDEN_CARROT:
+  name: Gestampfte Goldene Karotte
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_GRAPE:
+  name: Gestampfte Weintraube
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_GREEN_APPLE:
+  name: Gestampfter Grüner Apfel
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_GREEN_BEANS:
+  name: Gestampfte Grüne Bohnen
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_GREEN_ONION:
+  name: Gestampfte Frühlingszwiebel
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_HAZELNUT:
+  name: Gestampfte Haselnuss
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_HORSERADISH:
+  name: Gestampfter Meerrettich
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_JALAPENO:
+  name: Gestampfte Jalapeño
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_JASMINE:
+  name: Gestampfter Jasmin
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_JUNIPER_BERRY:
+  name: Gestampfte Wacholderbeeren
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_KAFFIR_LIME:
+  name: Gestampftes Kaffirlimettenblatt
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_KALE:
+  name: Gestampfter Grünkohl
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_KELP:
+  name: Gestampfter Seetang
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_KIWI:
+  name: Gestampfte Kiwi
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_LAVENDER:
+  name: Gestampfter Lavendel
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_LEEK:
+  name: Gestampfter Lauch
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_LEMON:
+  name: Gestampfte Zitrone
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_LETTUCE:
+  name: Gestampfter Kopfsalat
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_LICORICE:
+  name: Gestampftes Süßholz
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_LIME:
+  name: Gestampfte Limette
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_MACE:
+  name: Gestampfte Muskatblüte
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_MANGO:
+  name: Gestampfte Mango
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_MARJORAM:
+  name: Gestampfter Majoran
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_MARROW:
+  name: Gestampfter Markkürbis
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_MELON:
+  name: Gestampfte Melone
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_MINT:
+  name: Gestampfte Minze
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_MUSTARD_SEEDS:
+  name: Gestampfte Senfkörner
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_MUTTON:
+  name: Gestampftes Hammelfleisch
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_NETTLES:
+  name: Gestampfte Brennnesseln
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_OKRA:
+  name: Gestampfte Okra
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_ONION:
+  name: Gestampfte Zwiebel
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_ORANGE:
+  name: Gestampfte Orange
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_OREGANO:
+  name: Gestampfter Oregano
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_PARSLEY:
+  name: Gestampfte Petersilie
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_PARSNIP:
+  name: Gestampfte Pastinake
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_PEA:
+  name: Gestampfte Erbsen
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_PEACH:
+  name: Gestampfter Pfirsich
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_PEANUT:
+  name: Gestampfte Erdnuss
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_PEAR:
+  name: Gestampfte Birne
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_PECAN:
+  name: Gestampfte Pekannuss
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_PEPPER:
+  name: Gestampfter Schwarzer Pfeffer
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_PEPPERONI:
+  name: Gestampfte Pepperoni
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_PINEAPPLE:
+  name: Gestampfte Ananas
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_PINTO_BEANS:
+  name: Gestampfte Pintobohnen
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_PORKCHOP:
+  name: Gestampftes Schweinefleisch
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_POTATO:
+  name: Gestampfte Kartoffel
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_PUFFERFISH:
+  name: Gestampfter Kugelfisch
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_PUMPKIN:
+  name: Gestampfter Kürbis
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_RABBIT:
+  name: Gestampftes Kaninchen
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_RADDISH:
+  name: Gestampftes Radieschen
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_RADICCHIO:
+  name: Gestampfter Radicchio
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_RAPESEED:
+  name: Gestampfter Raps
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_RED_MUSHROOM:
+  name: Gestampfter Roter Pilz
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_RHUBARB:
+  name: Gestampfter Rhabarber
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_RICE:
+  name: Gestampfter Reis
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_ROSEMARY:
+  name: Gestampfter Rosmarin
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_ROTTEN_FLESH:
+  name: Gestampftes Verrottetes Fleisch
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_RUNNER_BEANS:
+  name: Gestampfte Stangenbohnen
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_RUTABAGA:
+  name: Gestampfte Steckrübe
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_SALMON:
+  name: Gestampfter Lachs
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_SASSAFRAS:
+  name: Gestampfter Sassafras
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_SHALLOT:
+  name: Gestampfte Schalotte
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_SHISO:
+  name: Gestampftes Shiso
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_SOY_BEANS:
+  name: Gestampfte Sojabohnen
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_SPINACH:
+  name: Gestampfter Spinat
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_STAR_ANISE:
+  name: Gestampfter Sternanis
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_STRAWBERRY:
+  name: Gestampfte Erdbeere
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_SUGAR:
+  name: Gestampfter Zucker
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_SWEETCORN:
+  name: Gestampfter Zuckermais
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_SWEET_BERRIES:
+  name: Gestampfte Süßbeeren
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_SWEET_POTATO:
+  name: Gestampfte Süßkartoffel
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_TARRAGON:
+  name: Gestampfter Estragon
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_THYME:
+  name: Gestampfter Thymian
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_TOMATO:
+  name: Gestampfte Tomate
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_TURMERIC:
+  name: Gestampfte Kurkuma
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_TURNIP:
+  name: Gestampfte Rübe
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_VANILLA:
+  name: Gestampfte Vanille
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_WASABI:
+  name: Gestampfter Wasabi
+  type:
+  - '&7&oNebenprodukt'
+CLT_MASHED_WHEAT:
+  name: Gestampfter Weizen
+  type:
+  - '&7&oNebenprodukt'
+CLT_MAYONNAISE:
+  name: Mayonnaise
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Eine seidig glatte Mayo, die zu fast allem passt.
+CLT_MEATBALLS:
+  name: Fleischbällchen
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Bällchen aus Fleisch, wer hätte das gedacht.
+CLT_MEATLOAF:
+  name: Hackbraten
+  type:
+  - '&7&oNahrung'
+  description:
+  - Nichts geht drüber! Los geht's.
+  stats:
+  - '&8⇨ &7Heilung: &bVoll'
+  - '&8⇨ &bExtraenergie IV &7(10:00)'
+  - '&8⇨ &bResistenz III &7(10:00)'
+  - '&8⇨ &bEile II &7(10:00)'
+  - '&8⇨ &bLangsamkeit II &7(10:00)'
+CLT_MINT:
+  name: Minze
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Kau kau kau.
+CLT_MUSTARD:
+  name: Senf
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Hat ordentlich Biss!
+CLT_MUSTARD_SEEDS:
+  name: Senfsamen
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Kau sie, wenn du dich traust!
+CLT_NETTLES:
+  name: Brennnesseln
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Bitte zieh Handschuhe an, bevor du die anfasst.
+CLT_OKRA:
+  name: Okra
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Wächst massenhaft in Okra-homa... oder, ODER?
+CLT_ONION:
+  name: Zwiebel
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Moment, warum weinst du?
+CLT_ORANGE:
+  name: Orange
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Sollte die nicht ein Uhrwerk haben?
+CLT_ORANGE_JUICE:
+  name: Orangensaft
+  type:
+  - '&7&oNahrung'
+  description:
+  - Der beste Start in den Tag, ganz ehrlich.
+  stats:
+  - '&8⇨ &bSchnelligkeit IV &7(10:00)'
+CLT_OREGANO:
+  name: Oregano
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Ein klassisches Kraut für jeden Vorratsschrank.
+CLT_PARSLEY:
+  name: Petersilie
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Schlechtestes. Kraut. Aller. Zeiten.
+CLT_PARSNIP:
+  name: Pastinake
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Muss sofort geröstet werden.
+CLT_PASTA:
+  name: Nudeln
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Einfach nur Nudeln, schlicht und doch wunderbar.
+CLT_PEA:
+  name: Erbsen
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Steckt meist zu zweit in einer Hülse, hab ich gehört.
+CLT_PEACH:
+  name: Pfirsich
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Über das Emoji reden wir nicht
+CLT_PEANUT:
+  name: Erdnuss
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Reese's, ich komme!
+CLT_PEANUT_BUTTER:
+  name: Erdnussbutter
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Nur mit flüssigem Gold vergleichbar.
+CLT_PEANUT_BUTTER_JELLY_SANDWICH:
+  name: Erdnussbutter-Gelee-Sandwich
+  type:
+  - '&7&oNahrung'
+  description:
+  - Der absolute Gipfel der Sandwich-Technologie.
+  stats:
+  - '&8⇨ &7Heilung: &b5 Herzen'
+  - '&8⇨ &bStärke III &7(10:00)'
+CLT_PEAR:
+  name: Birne
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Sieht doch birnfekt aus, oder?
+CLT_PECAN:
+  name: Pekannuss
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Schreit förmlich danach, zu einem Kuchen zu werden.
+CLT_PECAN_PIE:
+  name: Pekannusskuchen
+  type:
+  - '&7&oNahrung'
+  description:
+  - Die einzige Art, puren Zucker zu essen, ohne
+  - komplett verurteilt zu werden.
+  stats:
+  - '&8⇨ &7Heilung: &b4 Herzen'
+  - '&8⇨ &bSchwebekraft I &7(10:00)'
+CLT_PEPPER:
+  name: Schwarzer Pfeffer
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Würziger als Salz.
+CLT_PEPPERONI:
+  name: Pepperoni
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Davon könnte ich locker eine ganze Stange essen.
+CLT_PICO_DE_GALLO:
+  name: Pico de Gallo
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Eine milde Salsa, pure Köstlichkeit.
+CLT_PIE_CRUST:
+  name: Mürbeteigboden
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Wäre es legal, das pur zu essen,
+  - wäre es mein Hauptnahrungsmittel.
+CLT_PINEAPPLE:
+  name: Ananas
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Gehört auf jede Pizza dieser Welt.
+  - Willst du dich drüber streiten!?
+CLT_PINTO_BEANS:
+  name: Pintobohnen
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Kaching! Burrito-Zeit.
+CLT_PIZZA_CHEESE:
+  name: Käsepizza
+  type:
+  - '&7&oNahrung'
+  description:
+  - Warum jemand nur Käse bestellt? Keine Ahnung.
+  stats:
+  - '&8⇨ &7Heilung: &b4 Herzen'
+  - '&8⇨ &bLangsamkeit I &7(10:00)'
+CLT_PIZZA_MUSHROOM:
+  name: Pilzpizza
+  type:
+  - '&7&oNahrung'
+  description:
+  - Eine einfache vegetarische Pizza voller Proteine.
+  stats:
+  - '&8⇨ &7Heilung: &b6 Herzen'
+  - '&8⇨ &bLangsamkeit I &7(10:00)'
+  - '&8⇨ &bEile II &7(10:00)'
+CLT_PIZZA_PEPPERONI:
+  name: Pepperoni-Pizza
+  type:
+  - '&7&oNahrung'
+  description:
+  - Ein New Yorker Klassiker voller Geschmack.
+  stats:
+  - '&8⇨ &7Heilung: &b6 Herzen'
+  - '&8⇨ &bSchnelligkeit I &7(10:00)'
+  - '&8⇨ &bEile I &7(10:00)'
+  - '&8⇨ &bSprungkraft I &7(10:00)'
+CLT_PLANT_AIR:
+  name: Urluftpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Eine Pflanze, die leise die Melodie
+  - der umgebenden Natur summt.
+  - '&eUrpflanzen bringen keine Gegenstände hervor'
+  - '&eund dienen nur der Zucht.'
+CLT_PLANT_AMETHYST:
+  name: Amethystpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Diese Pflanze gedeiht am liebsten an tiefen,
+  - dunklen Orten.
+CLT_PLANT_ANALYSER:
+  name: Pflanzenanalysator
+  type:
+  - '&7&oWerkzeug'
+  description:
+  - Ein ganz einfaches Werkzeug, mit dem du
+  - die Details einer wachsenden Pflanze siehst
+  usage:
+  - '&eRechtsklick&7: Zeigt Art und Wachstumsdetails einer Pflanze.'
+  - '&eShift-Rechtsklick&7: Zeigt den Namen einer Pflanze oder eines Strauchs.'
+CLT_PLANT_BASALT:
+  name: Basaltpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Eine sehr langweilige, öde Pflanze.
+CLT_PLANT_BEE:
+  name: Bienenpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Eine Pflanze mit sehr kleinen, zarten Flügeln.
+CLT_PLANT_BLACKSTONE:
+  name: Schwarzsteinpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Eine Pflanze, die bekanntermaßen Licht schluckt.
+CLT_PLANT_BLAZE:
+  name: Lohenpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Eine Pflanze mit angesengten Rändern.
+CLT_PLANT_CHICKEN:
+  name: Hühnerpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Gerüchten zufolge gleitest du, wenn du
+  - diesen Samen über den Kopf hältst und
+  - von einem hohen Ort springst, statt
+  - zu fallen.
+CLT_PLANT_CLAY:
+  name: Tonpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Diese Pflanze lässt sich frei formen und umgestalten.
+  - Das heißt aber noch lange nicht, dass das eine
+  - gute Idee ist!
+CLT_PLANT_COAL:
+  name: Kohlepflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Eine Pflanze voller Potenzial.
+CLT_PLANT_COBBLESTONE:
+  name: Bruchsteinpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Diese Pflanze ist steinhart.
+CLT_PLANT_CONCRETE:
+  name: Betonpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Diese Pflanze tut sich schwer beim Wachsen,
+  - weil sie so schnell aushärtet.
+CLT_PLANT_COW:
+  name: Kuhpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Wenn du diesen Samen ans Ohr hältst und
+  - ganz genau hinhörst, vernimmst du
+  - gelegentlich ein Muhen.
+CLT_PLANT_CREEPER:
+  name: Creeperpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Tsssssssssttt...
+CLT_PLANT_DARKNESS:
+  name: Urfinsternispflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Eine Pflanze, die vor ungezügelter
+  - Wut kocht.
+  - '&eUrpflanzen bringen keine Gegenstände hervor'
+  - '&eund dienen nur der Zucht.'
+CLT_PLANT_DARK_FLORA:
+  name: Schattenflorapflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - In diesem schlichten Samen lauert ein stilles Böses.
+CLT_PLANT_DARK_GRASS:
+  name: Dunkelgraspflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Eine Pflanze, die ihre Identität
+  - völlig verloren hat.
+CLT_PLANT_DEEPSLATE:
+  name: Tiefenschieferpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Tief, schiefrig, <Lore hier einfügen>.
+CLT_PLANT_DIAMOND:
+  name: Diamantpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Eine Pflanze, die förmlich nach Reichtum riecht.
+CLT_PLANT_DIM_LIT:
+  name: Dämmerlichtpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Aus diesem Samen dringt ein sehr schwaches Licht.
+CLT_PLANT_DIRT:
+  name: Erdpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Schmutzig an der Oberfläche, doch sie birgt
+  - die Bausteine des Lebens selbst.
+CLT_PLANT_DROWNED:
+  name: Ertrunkenenpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Eine Pflanze, die ständig
+  - klatschnass ist.
+CLT_PLANT_DUSTY:
+  name: Staubpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Diese Pflanze braucht besondere Pflege, schon
+  - eine etwas kräftigere Brise kann sie
+  - auseinanderfallen lassen.
+CLT_PLANT_EARTH:
+  name: Urerdepflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Eine Pflanze, die die Welt um sich
+  - herum bereichert.
+  - '&eUrpflanzen bringen keine Gegenstände hervor'
+  - '&eund dienen nur der Zucht.'
+CLT_PLANT_ECHO:
+  name: Echopflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Diese Pflanze findet immer
+  - ihren Weg nach Hause.
+CLT_PLANT_ELDER_GUARDIAN:
+  name: Großwächterpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - In der Nähe dieser Pflanze werden Leute
+  - träge.
+CLT_PLANT_EMERALD:
+  name: Smaragdpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Besitzer dieser Pflanze müssen ganz schön
+  - springen, nur um sie sich leisten zu können.
+CLT_PLANT_ENDERMAN:
+  name: Endermanpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Wird sie nicht sorgsam behandelt, kann sich
+  - diese Pflanze zufällig teleportieren!
+CLT_PLANT_ENDER_DRAGON:
+  name: Enderdrachenpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Ein echter Boss von einer Pflanze.
+CLT_PLANT_END_STONE:
+  name: Endsteinpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Eine Pflanze, die mit der Leere summt.
+CLT_PLANT_FIRE:
+  name: Urfeuerpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Eine Pflanze, die sowohl die
+  - Quellen der Zerstörung als auch
+  - der Wiedergeburt liefert.
+  - '&eUrpflanzen bringen keine Gegenstände hervor'
+  - '&eund dienen nur der Zucht.'
+CLT_PLANT_FISH:
+  name: Fischpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Aus diesem Samen strömt ein reifer Duft.
+CLT_PLANT_FLOWER:
+  name: Blütenpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Ein wunderschönes, gut angerichtetes Füllhorn.
+CLT_PLANT_FROG:
+  name: Froschpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Quak!
+CLT_PLANT_GHAST:
+  name: Ghastpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Eine Pflanze, die bekanntermaßen zufällig
+  - Feuerbälle verschießt.
+CLT_PLANT_GLASS:
+  name: Glaspflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Aus dem richtigen Winkel könntest du
+  - schwören, durch diese Pflanze zu sehen.
+CLT_PLANT_GLAZED:
+  name: Glasurpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Eine Pflanze, die in einem kunstvollen Muster wächst.
+CLT_PLANT_GLOWING_VINE:
+  name: Leuchtrankenpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Aus diesem Samen dringt ein schwaches Licht.
+CLT_PLANT_GLOW_SQUID:
+  name: Leuchttintenfischpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Eine glitzernde Pflanze mit schwachem Leuchten.
+CLT_PLANT_GOAT:
+  name: Ziegenpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Eine grundlos gewalttätige Pflanze, die gern
+  - herumspringt.
+CLT_PLANT_GRASS:
+  name: Graspflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Das aufkeimende Leben bricht hervor
+  - aus dem Boden.
+CLT_PLANT_GRAVEL:
+  name: Kiespflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Diese Pflanze weiß wirklich nicht, wie
+  - sie sich zusammenreißen soll.
+CLT_PLANT_GUARDIAN:
+  name: Wächterpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Bei Berührung schießt diese Pflanze
+  - Stacheln ab.
+CLT_PLANT_IGNEOUS:
+  name: Vulkanpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Diese Pflanze wurde durch Hitze und Druck
+  - geformt. Schau mich nicht so an! All diese
+  - Pflanzenbeschreibungen ergeben total Sinn.
+CLT_PLANT_LAPIS:
+  name: Lapispflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Eine Pflanze mit schwacher magischer Aura.
+CLT_PLANT_LIGHT:
+  name: Urlichtpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Eine Pflanze, die eine Aura
+  - reiner Liebe verströmt.
+  - '&eUrpflanzen bringen keine Gegenstände hervor'
+  - '&eund dienen nur der Zucht.'
+CLT_PLANT_MAGMA:
+  name: Magmapflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Eine Pflanze, so heiß, dass sie ihre
+  - Umgebung verbrennt.
+CLT_PLANT_MAGMA_CUBE:
+  name: Magmawürfelpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Wenn niemand hinsieht, hüpft diese
+  - Pflanze gern auf und ab.
+CLT_PLANT_MOSS:
+  name: Moospflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Diese Pflanze breitet sich gern unkontrolliert aus.
+CLT_PLANT_MUD:
+  name: Schlammpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Eine Pflanze, fast so schmutzig wie
+  - der Boden, aus dem sie kommt.
+CLT_PLANT_MUSHROOM:
+  name: Pilzpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Jep, eine Pflanze, die Pilze macht.
+  - Hier ist alles völlig normal.
+CLT_PLANT_NETHERRACK:
+  name: Netherrackpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Eine zähe, robuste Pflanze, die
+  - fast überall überleben kann.
+CLT_PLANT_NETHER_QUARTZ:
+  name: Netherquarzpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Diese Pflanze hat so scharfe Dornen, dass
+  - man kaum mit ihr arbeiten kann.
+CLT_PLANT_PHANTOM:
+  name: Phantompflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Eine Pflanze mit luftigen Blättern.
+CLT_PLANT_PIG:
+  name: Schweinepflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Eine Pflanze, die ab und zu grunzt.
+CLT_PLANT_POWER:
+  name: Urkraftpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Eine Pflanze, die förmlich vor Kraft strotzt.
+  - '&eUrpflanzen bringen keine Gegenstände hervor'
+  - '&eund dienen nur der Zucht.'
+CLT_PLANT_PURPUR:
+  name: Purpurpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Eine seltsame Pflanze, scheinbar viel leichter
+  - als die meisten.
+CLT_PLANT_RABBIT:
+  name: Kaninchenpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Käfer wären stolz.
+CLT_PLANT_RAINBOW:
+  name: Regenbogenpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Am Ende dieser Pflanze steht vielleicht
+  - ein Topf voll Gold, vielleicht auch nicht.
+CLT_PLANT_RAW_COPPER:
+  name: Rohkupferpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Lässt man sie in Ruhe, zieht diese Pflanze
+  - manchmal Blitze an.
+CLT_PLANT_RAW_GOLD:
+  name: Rohgoldpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Diese Pflanze wird oft von Piglins gestohlen,
+  - wenn welche in der Nähe sind.
+CLT_PLANT_RAW_IRON:
+  name: Roheisenpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Eine robuste Pflanze, die den meisten
+  - Umgebungen standhält.
+CLT_PLANT_REDSTONE:
+  name: Redstonepflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Eine Pflanze, die durch und durch vor Kraft strotzt.
+CLT_PLANT_RED_SAND:
+  name: Rotsandpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Diese Pflanze zerbröselt manchmal bei einer
+  - einzigen Berührung, aber... röter.
+CLT_PLANT_REINFORCED:
+  name: Panzerpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Eine Pflanze, die sich durch alles
+  - hindurch aufrecht halten kann.
+CLT_PLANT_SAND:
+  name: Sandpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Diese Pflanze zerbröselt manchmal bei einer
+  - einzigen Berührung.
+CLT_PLANT_SAPLING:
+  name: Setzlingspflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Diese Pflanze ergibt nicht mal Sinn...
+CLT_PLANT_SCRAPPY:
+  name: Schrottpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Diese Pflanze ist wahrlich der Gipfel
+  - der Gartenbaukunst.
+CLT_PLANT_SHEEP:
+  name: Schafpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Eine Pflanze mit grober, wolliger Textur.
+CLT_PLANT_SHULKER:
+  name: Shulkerpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Eine Pflanze, die oft über dem
+  - Boden schwebt.
+CLT_PLANT_SKELETON:
+  name: Skelettpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Eine Pflanze, die beim Wiegen klappert.
+CLT_PLANT_SLIME:
+  name: Schleimpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Warum ist die so klebrig?
+CLT_PLANT_SOUL:
+  name: Seelenpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Eine Pflanze, die man schreien hört,
+  - wenn es still ist.
+CLT_PLANT_SPECTRUM:
+  name: Urspektrumpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Eine Pflanze, die leicht ihre Farbe wechselt.
+  - '&eUrpflanzen bringen keine Gegenstände hervor'
+  - '&eund dienen nur der Zucht.'
+CLT_PLANT_SPIDER:
+  name: Spinnenpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Töte es, töte es JEZZ!
+CLT_PLANT_SQUID:
+  name: Tintenfischpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Vorsicht, schon eine Berührung dieser Pflanze
+  - kann Tinte in der ganzen Gegend
+  - verspritzen.
+CLT_PLANT_STAINED:
+  name: Farbglaspflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Diese Pflanze zerlegt Licht in ein wahres
+  - Spektrum auf Objekte in der Nähe.
+CLT_PLANT_TERRA:
+  name: Terrapflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Eine harte, erdige Pflanze, die unter Druck zerbricht.
+CLT_PLANT_TURTLE:
+  name: Schildkrötenpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Ein Samen in einer steinharten Schale.
+CLT_PLANT_VILLAGER:
+  name: Dorfbewohnerpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Jep, wir haben die Essenz eines Dorfbewohners in
+  - eine Pflanze gepresst. Hat wohl ziemlich wehgetan.
+CLT_PLANT_VINE:
+  name: Rankenpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Eine Pflanze, die sich sofort selbst
+  - verheddert.
+CLT_PLANT_WATER:
+  name: Urwasserpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Eine Pflanze, die ihre Umgebung nährt
+  - und mit Leben versorgt.
+  - '&eUrpflanzen bringen keine Gegenstände hervor'
+  - '&eund dienen nur der Zucht.'
+CLT_PLANT_WAXY:
+  name: Wachspflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Der Saft dieser Pflanze formt sich zu
+  - perfekt kerzenförmigem Wachs.
+CLT_PLANT_WEALTH:
+  name: Urreichtumpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Eine Pflanze, die förmlich nach üppigem Reichtum schreit.
+  - '&eUrpflanzen bringen keine Gegenstände hervor'
+  - '&eund dienen nur der Zucht.'
+CLT_PLANT_WITCH:
+  name: Hexenpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Eine Pflanze, die klingt, als würde sie leise
+  - Zaubersprüche murmeln.
+CLT_PLANT_WITHER:
+  name: Witherpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Eine tödliche Pflanze, die mit Vorsicht
+  - behandelt werden muss.
+CLT_PLANT_WITHER_ROSE:
+  name: Wither-Rosenpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Diese Pflanze verströmt irgendwie eine
+  - pulsierende, schädliche Aura um sich herum.
+CLT_PLANT_WITHER_SKELETON:
+  name: Wither-Skelettpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Eine Pflanze, die als scheu und zäh gilt.
+CLT_PLANT_WOOLLY:
+  name: Wollpflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Eine wollige Pflanze, von der Wurzel bis zu den Blüten!
+CLT_PLANT_ZOMBIE:
+  name: Zombiepflanze
+  type:
+  - '&7&oPflanze'
+  description:
+  - Diese Pflanze tropft... irgendwas...
+CLT_RADDISH:
+  name: Radieschen
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Kleine Taschen voll frischem, knackigem Sonnenschein.
+CLT_RADICCHIO:
+  name: Radicchio
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Diese ganze Lore zu schreiben dauert ewig.
+  - Echt radicchiulös.
+CLT_RAMEN_BEEF:
+  name: Rindfleisch-Ramen
+  type:
+  - '&7&oNahrung'
+  description:
+  - Eine nicht ganz so gesunde Wahl.
+  stats: &id004
+  - '&8⇨ &bExtraenergie I &7(10:00)'
+CLT_RAMEN_BEEF_HEARTY:
+  name: Herzhafte Rindfleisch-Ramen
+  type:
+  - '&7&oNahrung'
+  description:
+  - Eine gesunde Wahl.
+  stats: &id005
+  - '&8⇨ &7Heilung: &bVoll'
+  - '&8⇨ &bExtraenergie II &7(10:00)'
+  - '&8⇨ &bSchnelligkeit I &7(10:00)'
+CLT_RAMEN_CHICKEN:
+  name: Hähnchen-Ramen
+  type:
+  - '&7&oNahrung'
+  description:
+  - Eine nicht ganz so sättigende Wahl.
+  stats: *id004
+CLT_RAMEN_CHICKEN_HEARTY:
+  name: Herzhafte Hähnchen-Ramen
+  type:
+  - '&7&oNahrung'
+  description:
+  - Eine sättigende Wahl.
+  stats: *id005
+CLT_RAMEN_SEAFOOD:
+  name: Meeresfrüchte-Ramen
+  type:
+  - '&7&oNahrung'
+  description:
+  - Eine nicht ganz so befriedigende Wahl.
+  stats: *id004
+CLT_RAMEN_SEAFOOD_HEARTY:
+  name: Herzhafte Meeresfrüchte-Ramen
+  type:
+  - '&7&oNahrung'
+  description:
+  - Eine befriedigende Wahl.
+  stats: *id005
+CLT_RAPESEED:
+  name: Raps
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Wird oft zur Herstellung von Ölen genutzt.
+CLT_RECIPE_UNLOCK:
+  name: Kultivierungs-Wissensschrift
+  type:
+  - '&7&oWerkzeug'
+  description:
+  - Rechtsklick, um ein neues Zuchtrezept
+  - der Kultivierung zu lernen.
+CLT_RHUBARB:
+  name: Rhabarber
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Denk nur daran, die Blätter zu entfernen!
+CLT_RICE:
+  name: Reis
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - 'Denk dran: Man lebt nur Reis... äh, einmal!'
+CLT_ROSEMARY:
+  name: Rosmarin
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Ist ständig im Thymian-Stress.
+CLT_RUNNER_BEANS:
+  name: Stangenbohnen
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Will ständig abhauen.
+CLT_RUTABAGA:
+  name: Steckrübe
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Es tut richtig weh, das nicht Kohlrübe zu nennen.
+CLT_SALMON_NIGIRI:
+  name: Lachs-Nigiri
+  type:
+  - '&7&oNahrung'
+  description:
+  - Ein herrlicher und doch dezenter Geschmack.
+  stats:
+  - '&8⇨ &7Heilung: &b2 Herzen'
+  - '&8⇨ &bRegeneration I &7(10:00)'
+CLT_SASSAFRAS:
+  name: Sassafras
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Essbares Root Beer, ernsthaft, google
+  - das mal, ich kauf es inzwischen ständig.
+CLT_SAUSAGE:
+  name: Wurst
+  type:
+  - '&7&oNahrung'
+  description:
+  - Der Bruder vom Speck.
+  stats: &id007
+  - '&8⇨ &7Heilung: &b1 Herz'
+CLT_SEED_PACK:
+  name: Samenpackung
+  type:
+  - '&7&oWerkzeug'
+  description:
+  - Rechtsklick, um diese Packung zu öffnen.
+  stats:
+  - '&8⇨ &7Eingestellt auf: &bNichts'
+CLT_SHAKSHUKA:
+  name: Shakshuka
+  type:
+  - '&7&oNahrung'
+  description:
+  - Ein herzerwärmendes Gericht mit Eiern ohne Ende.
+  stats:
+  - '&8⇨ &7Heilung: &b4 Herzen'
+  - '&8⇨ &bHeld des Dorfes I &7(10:00)'
+  - '&8⇨ &bGlück I &7(10:00)'
+CLT_SHALLOT:
+  name: Schalotte
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Schalotten? Ich nehm gleich ganze Flotten!
+CLT_SHEPHERDS_PIE:
+  name: Hirtenauflauf
+  type:
+  - '&7&oNahrung'
+  description:
+  - Warm, herzhaft und einfach wunderbar.
+  stats: *id006
+CLT_SHISO:
+  name: Shiso
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Minze mit einer Prise Liebe.
+CLT_SLICED_APPLE:
+  name: Geschnittener Apfel
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_APRICOT:
+  name: Geschnittene Aprikose
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_ARTICHOKE:
+  name: Geschnittene Artischocke
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_ASPARAGUS:
+  name: Geschnittener Spargel
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_AUBERGINE:
+  name: Geschnittene Aubergine
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_AVOCADO:
+  name: Geschnittene Avocado
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_BANANA:
+  name: Geschnittene Banane
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_BASIL:
+  name: Geschnittenes Basilikum
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_BAY_LEAF:
+  name: Geschnittenes Lorbeerblatt
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_BEEF:
+  name: Geschnittenes Rindfleisch
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_BEETROOT:
+  name: Geschnittene Rote Bete
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_BELL_PEPPER:
+  name: Geschnittene Paprika
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_BLACK_BEANS:
+  name: Geschnittene Schwarze Bohnen
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_BREAD:
+  name: Geschnittenes Brot
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_BROCCOLI:
+  name: Geschnittener Brokkoli
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_BROWN_MUSHROOM:
+  name: Geschnittener Brauner Pilz
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_BRUSSELS_SPROUTS:
+  name: Geschnittener Rosenkohl
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_CABBAGE:
+  name: Geschnittener Kohl
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_CARROT:
+  name: Geschnittene Karotte
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_CAULIFLOWER:
+  name: Geschnittener Blumenkohl
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_CAYENNE_PEPPER:
+  name: Geschnittener Cayennepfeffer
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_CELERIAC:
+  name: Geschnittener Knollensellerie
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_CELERY:
+  name: Geschnittener Staudensellerie
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_CHERRY:
+  name: Geschnittene Kirsche
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_CHESTNUT:
+  name: Geschnittene Kastanie
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_CHICKEN:
+  name: Geschnittenes Huhn
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_CHICKPEAS:
+  name: Geschnittene Kichererbsen
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_CHICORY:
+  name: Geschnittener Chicorée
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_CHILLY_PEPPER:
+  name: Geschnittene Chilischote
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_CHIVES:
+  name: Geschnittener Schnittlauch
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_CHORUS_FRUIT:
+  name: Geschnittene Chorusfrucht
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_CILANTRO:
+  name: Geschnittener Koriander
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_CINNAMON:
+  name: Geschnittener Zimt
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_CLOVE:
+  name: Geschnittene Gewürznelke
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_COCOA_BEANS:
+  name: Geschnittene Kakaobohnen
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_COD:
+  name: Geschnittener Kabeljau
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_COURGETTE:
+  name: Geschnittene Zucchini
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_CUCUMBER:
+  name: Geschnittene Gurke
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_CUMIN:
+  name: Geschnittener Kreuzkümmel
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_CURRY_LEAF:
+  name: Geschnittenes Curryblatt
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_DILL:
+  name: Geschnittener Dill
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_EGG:
+  name: Geschnittenes Ei
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_ENCHANTED_GOLDEN_APPLE:
+  name: Geschnittener Verzauberter goldener Apfel
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_FENNEL:
+  name: Geschnittener Fenchel
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_GARLIC:
+  name: Geschnittener Knoblauch
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_GINGER:
+  name: Geschnittener Ingwer
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_GLOW_BERRIES:
+  name: Geschnittene Leuchtbeeren
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_GOLDEN_APPLE:
+  name: Geschnittener Goldener Apfel
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_GOLDEN_CARROT:
+  name: Geschnittene Goldene Karotte
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_GRAPE:
+  name: Geschnittene Weintraube
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_GREEN_APPLE:
+  name: Geschnittener Grüner Apfel
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_GREEN_BEANS:
+  name: Geschnittene Grüne Bohnen
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_GREEN_ONION:
+  name: Geschnittene Frühlingszwiebel
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_HAZELNUT:
+  name: Geschnittene Haselnuss
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_HORSERADISH:
+  name: Geschnittener Meerrettich
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_JALAPENO:
+  name: Geschnittene Jalapeño
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_JASMINE:
+  name: Geschnittener Jasmin
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_JUNIPER_BERRY:
+  name: Geschnittene Wacholderbeeren
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_KAFFIR_LIME:
+  name: Geschnittenes Kaffirlimettenblatt
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_KALE:
+  name: Geschnittener Grünkohl
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_KELP:
+  name: Geschnittener Seetang
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_KIWI:
+  name: Geschnittene Kiwi
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_LAVENDER:
+  name: Geschnittener Lavendel
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_LEEK:
+  name: Geschnittener Lauch
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_LEMON:
+  name: Geschnittene Zitrone
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_LETTUCE:
+  name: Geschnittener Kopfsalat
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_LICORICE:
+  name: Geschnittenes Süßholz
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_LIME:
+  name: Geschnittene Limette
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_MACE:
+  name: Geschnittene Muskatblüte
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_MANGO:
+  name: Geschnittene Mango
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_MARJORAM:
+  name: Geschnittener Majoran
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_MARROW:
+  name: Geschnittener Markkürbis
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_MELON:
+  name: Geschnittene Melone
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_MINT:
+  name: Geschnittene Minze
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_MUSTARD_SEEDS:
+  name: Geschnittene Senfkörner
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_MUTTON:
+  name: Geschnittenes Hammelfleisch
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_NETTLES:
+  name: Geschnittene Brennnesseln
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_OKRA:
+  name: Geschnittene Okra
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_ONION:
+  name: Geschnittene Zwiebel
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_ORANGE:
+  name: Geschnittene Orange
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_OREGANO:
+  name: Geschnittener Oregano
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_PARSLEY:
+  name: Geschnittene Petersilie
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_PARSNIP:
+  name: Geschnittene Pastinake
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_PEA:
+  name: Geschnittene Erbsen
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_PEACH:
+  name: Geschnittener Pfirsich
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_PEANUT:
+  name: Geschnittene Erdnuss
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_PEAR:
+  name: Geschnittene Birne
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_PECAN:
+  name: Geschnittene Pekannuss
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_PEPPER:
+  name: Geschnittener Schwarzer Pfeffer
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_PEPPERONI:
+  name: Geschnittene Pepperoni
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_PINEAPPLE:
+  name: Geschnittene Ananas
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_PINTO_BEANS:
+  name: Geschnittene Pintobohnen
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_PORKCHOP:
+  name: Geschnittenes Schweinefleisch
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_POTATO:
+  name: Geschnittene Kartoffel
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_PUFFERFISH:
+  name: Geschnittener Kugelfisch
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_PUMPKIN:
+  name: Geschnittener Kürbis
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_RABBIT:
+  name: Geschnittenes Kaninchen
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_RADDISH:
+  name: Geschnittenes Radieschen
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_RADICCHIO:
+  name: Geschnittener Radicchio
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_RAPESEED:
+  name: Geschnittener Raps
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_RED_MUSHROOM:
+  name: Geschnittener Roter Pilz
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_RHUBARB:
+  name: Geschnittener Rhabarber
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_RICE:
+  name: Geschnittener Reis
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_ROSEMARY:
+  name: Geschnittener Rosmarin
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_ROTTEN_FLESH:
+  name: Geschnittenes Verrottetes Fleisch
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_RUNNER_BEANS:
+  name: Geschnittene Stangenbohnen
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_RUTABAGA:
+  name: Geschnittene Steckrübe
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_SALMON:
+  name: Geschnittener Lachs
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_SASSAFRAS:
+  name: Geschnittener Sassafras
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_SHALLOT:
+  name: Geschnittene Schalotte
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_SHISO:
+  name: Geschnittenes Shiso
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_SOY_BEANS:
+  name: Geschnittene Sojabohnen
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_SPINACH:
+  name: Geschnittener Spinat
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_STAR_ANISE:
+  name: Geschnittener Sternanis
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_STRAWBERRY:
+  name: Geschnittene Erdbeere
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_SUGAR:
+  name: Geschnittener Zucker
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_SWEETCORN:
+  name: Geschnittener Zuckermais
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_SWEET_BERRIES:
+  name: Geschnittene Süßbeeren
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_SWEET_POTATO:
+  name: Geschnittene Süßkartoffel
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_TARRAGON:
+  name: Geschnittener Estragon
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_THYME:
+  name: Geschnittener Thymian
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_TOMATO:
+  name: Geschnittene Tomate
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_TURMERIC:
+  name: Geschnittene Kurkuma
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_TURNIP:
+  name: Geschnittene Rübe
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_VANILLA:
+  name: Geschnittene Vanille
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_WASABI:
+  name: Geschnittener Wasabi
+  type:
+  - '&7&oNebenprodukt'
+CLT_SLICED_WHEAT:
+  name: Geschnittener Weizen
+  type:
+  - '&7&oNebenprodukt'
+CLT_SOFT_BOILED_EGG:
+  name: Weichgekochtes Ei
+  type:
+  - '&7&oNahrung'
+  description:
+  - Einfach ein gekochtes Ei, was soll man mehr sagen.
+  stats:
+  - '&8⇨ &7Heilung: &b1 Herz'
+  - '&8⇨ &7Kann manchmal ein Huhn zu Hilfe rufen.'
+CLT_SOYLENT:
+  name: Soylent
+  type:
+  - '&7&oNahrung'
+  description:
+  - Alles, was der Körper braucht!
+  stats:
+  - '&8⇨ &bDrohendes Unheil I &7(10:00)'
+  - '&8⇨ &bSchwäche IV &7(10:00)'
+CLT_SOY_BEANS:
+  name: Sojabohnen
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Die Sojamilch naht.
+CLT_SPAGHETTI:
+  name: Spaghetti
+  type:
+  - '&7&oNahrung'
+  description:
+  - Einfach weiterschlürfen.
+  stats: *id007
+CLT_SPAGHETTI_AND_MEATBALLS:
+  name: Spaghetti mit Fleischbällchen
+  type:
+  - '&7&oNahrung'
+  description:
+  - Schlicht, klassisch und herzhaft.
+  stats:
+  - '&8⇨ &7Heilung: &b1 Herz'
+  - '&8⇨ &bDrohendes Unheil I &7(10:00)'
+CLT_SPINACH:
+  name: Spinat
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Mit Liebe zusammengefallen.
+CLT_STAR_ANISE:
+  name: Sternanis
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Einer der besten und einzigartigsten Geschmäcker.
+CLT_STRAWBERRY:
+  name: Erdbeere
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Nur noch Sahne dazu!
+CLT_STRAWBERRY_JELLY:
+  name: Erdbeergelee
+  type:
+  - '&7&oErzeugnis'
+  description: *id008
+CLT_SUGARED_SKULL:
+  name: Zuckerschädel
+  type:
+  - '&7&oNahrung'
+  description:
+  - Ist das überhaupt Essen...?
+  stats:
+  - '&8⇨ &bDunkelheit III &7(10:00)'
+CLT_SWEETCORN:
+  name: Zuckermais
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Vielleicht das beste Gemüse weit und breit.
+CLT_SWEET_BEEHIVE:
+  name: Süßer Bienenstock
+  type:
+  - '&7&oNahrung'
+  description:
+  - Keine Ahnung, was dich dazu gebracht hat, das zu kochen!
+  stats:
+  - '&8⇨ &7Beschwört ein paar Bienen!'
+CLT_SWEET_POTATO:
+  name: Süßkartoffel
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Mjam mjam mjam.
+CLT_TAQUITO:
+  name: Taquito
+  type:
+  - '&7&oNahrung'
+  description:
+  - Zim wäre stolz!
+  stats:
+  - '&8⇨ &7Heilung: &b4 Herzen'
+  - '&8⇨ &7Ruft Gir zu Hilfe (das ist ein Eisengolem, keine Panik).'
+CLT_TARRAGON:
+  name: Estragon
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Ich packe das buchstäblich auf alles.
+  - 'Spoiler: Ich bin kein guter Koch.'
+CLT_TATER_TOTS:
+  name: Kartoffelkroketten
+  type:
+  - '&7&oNahrung'
+  description:
+  - Kleine Kartoffelhäppchen zum Naschen.
+  stats:
+  - '&8⇨ &7Heilung: &b0.5 Herzen'
+  - '&8⇨ &bSchnelligkeit II &7(10:00)'
+CLT_THYME:
+  name: Thymian
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Hat oft den Rosmarin verpasst.
+CLT_TOMATO:
+  name: Tomate
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Frisch von der Rebe.... äh... vom Strauch?
+CLT_TORTILLAS:
+  name: Tortillas
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Köstlichkeiten aus Maismehl
+CLT_TREE_APRICOT:
+  name: Aprikosenbaum
+  type:
+  - '&7&oSetzling'
+  description:
+  - Darin steckt ein einziger Kern der Verzweiflung.
+  stats: &id009
+  - '&8⇨ &7Design von: &bBWhite'
+CLT_TREE_BANANA:
+  name: Bananenbaum
+  type:
+  - '&7&oSetzling'
+  description:
+  - Ein Baum, dem Finger wachsen, gruselig!
+  stats:
+  - '&8⇨ &7Design von: &bSefiraat'
+CLT_TREE_CHERRY:
+  name: Kirschbaum
+  type:
+  - '&7&oSetzling'
+  description:
+  - Knüpf den Knoten!
+  stats:
+  - '&8⇨ &7Design von: &bReasonFoundDecoy'
+CLT_TREE_CHESTNUT:
+  name: Kastanienbaum
+  type:
+  - '&7&oSetzling'
+  description:
+  - Ein Baum, eindeutig zum Klettern gemacht.
+  stats: &id010
+  - '&8⇨ &7Design von: &bABitOddish'
+CLT_TREE_GREEN_APPLE:
+  name: Grünapfelbaum
+  type:
+  - '&7&oSetzling'
+  description:
+  - Trägt große, knackige grüne Äpfel.
+  stats: *id009
+CLT_TREE_HAZELNUT:
+  name: Haselnussbaum
+  type:
+  - '&7&oSetzling'
+  description:
+  - Diesen Baum zu schütteln ist ein Kindheitsvergnügen.
+  stats: *id010
+CLT_TREE_KIWI:
+  name: Kiwibaum
+  type:
+  - '&7&oSetzling'
+  description:
+  - Ein neuseeländischer Baum? Hab ich das richtig verstanden?
+  stats: *id010
+CLT_TREE_LEMON:
+  name: Zitronenbaum
+  type:
+  - '&7&oSetzling'
+  description:
+  - Schon der Anblick dieses Baums schmeckt sauer.
+  stats: &id011
+  - '&8⇨ &7Design von: &bJeff'
+CLT_TREE_LIME:
+  name: Limettenbaum
+  type:
+  - '&7&oSetzling'
+  description:
+  - Wusstest du, dass Limetten nur Zitronen sind, die die Luft anhalten?
+  stats: *id010
+CLT_TREE_MANGO:
+  name: Mangobaum
+  type:
+  - '&7&oSetzling'
+  description:
+  - Am besten, wenn sie am reifsten ist.
+  stats: *id009
+CLT_TREE_ORANGE:
+  name: Orangenbaum
+  type:
+  - '&7&oSetzling'
+  description:
+  - Kleine Kugeln aus Sonnenschein.
+  stats: *id011
+CLT_TREE_PEACH:
+  name: Pfirsichbaum
+  type:
+  - '&7&oSetzling'
+  description:
+  - James hat den hier gesucht, glaube ich?
+  stats: *id010
+CLT_TREE_PEAR:
+  name: Birnbaum
+  type:
+  - '&7&oSetzling'
+  description:
+  - Ein Birnenpaar, paarweise perfekt gepaart.
+  stats: *id009
+CLT_TREE_PECAN:
+  name: Pekannussbaum
+  type:
+  - '&7&oSetzling'
+  description:
+  - Können wir diesen Baum anbauen? Pe-kann sein!
+  stats: *id009
+CLT_TREE_PINEAPPLE:
+  name: Ananasbaum
+  type:
+  - '&7&oSetzling'
+  description:
+  - WO IST MEINE PIZZA?
+  stats: *id010
+CLT_TURMERIC:
+  name: Kurkuma
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Eine kräftige Moschusnote für viele Gerichte.
+CLT_TURNIP:
+  name: Rübe
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Löst alle Probleme des Lebens.
+CLT_VANILLA:
+  name: Vanille
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - 'Anleitung: Direkt in einen Latte tunken'
+CLT_WASABI:
+  name: Wasabi
+  type:
+  - '&7&oErzeugnis'
+  description:
+  - Hilfe... Wasabi...
+CLT_WITHER_ROSE_SALAD:
+  name: Wither-Rosen-Salat
+  type:
+  - '&7&oNahrung'
+  description:
+  - Strotzt vor Kraft, aber mit heftiger Nebenwirkung.
+  stats:
+  - '&8⇨ &7Heilung: &bVoll'
+  - '&8⇨ &bVerdorrung II &7(10:00)'
+  - '&8⇨ &bExtraenergie XX &7(10:00)'
