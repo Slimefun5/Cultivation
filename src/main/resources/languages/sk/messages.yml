@@ -1,0 +1,65 @@
+lore:
+  seed-pack-set-to: Nastavené na
+  knowledge-script-unlocks: Odomyká
+  drop-level: Úroveň výnosu
+  growth-speed: Rýchlosť rastu
+  breed-strength: Sila šľachtenia
+command:
+  no-permission: Na toto nemáš oprávnenie.
+  invalid-subcommand: Zadaj platný podpríkaz.
+  players-only: Tento príkaz môže spustiť iba hráč.
+  hold-seed-pack: Na toto musíš držať Balíček semien.
+  pack-empty: Tento balíček je prázdny!
+  pack-contents: Obsah
+  pack-entry: Úroveň %level%, rýchlosť %speed%, sila %strength%
+kitchen:
+  recipe-disabled: Tento recept je vypnutý.
+  no-recipe: Žiadny zodpovedajúci recept.
+  not-enough-power: Nedostatok energie.
+  input-empty: Vlož predmet do vstupného slotu.
+  cooked: Chutné!
+food:
+  eaten: Paráda! Si úplne najedený.
+  not-hungry: Ešte nie si hladný! Jesť môžeš len raz za pol dňa (10 minút).
+  palate-cleansed: Cítiš, ako sa ti prečisťuje chuť.
+  ouch: Au!
+knowledge-script:
+  learned: Naučil si sa šľachtiť %plant%.
+seed-pack:
+  title: Balíček semien
+  unstack-first: Najprv musíš rozdeliť svoje Balíčky semien.
+  not-a-seed: Predmet musí byť semeno rastliny z Cultivation.
+  empty-before-change: Pred zmenou rastliny musíš balíček vyprázdniť.
+  no-plant-set: Ešte si nenastavil rastlinu.
+  none-stored: Nemáš žiadne také semeno s týmito úrovňami.
+  set-here: Sem nastav semeno
+  retrieve-here: Tu vyber
+  no-seed-set: Semeno nenastavené
+  no-seed-set-lore:
+  - Klikni na ikonu vľavo, keď držíš
+  - semeno, a nastavíš tak balíček.
+  empty-set: Prázdna sada
+  empty-set-lore:
+  - Nemáš žiadne semená zodpovedajúce
+  - týmto úrovniam.
+  stored-seed: Uložený druh semena
+  take-seed: Vezmi semeno z balíčka
+  level: Úroveň
+  speed: Rýchlosť
+  strength: Sila
+  left-click: Ľavý klik
+  right-click: Pravý klik
+  increase: Zvýšiť %stat%
+  decrease: Znížiť %stat%
+  current: Aktuálne
+codex:
+  title: Kódex rastlín
+  child: Potomok
+  mother: Materská rastlina
+  father: Otcovská rastlina
+  growth-rate: Miera rastu
+  not-discovered: Neobjavené
+  not-discovered-lore:
+  - Ešte si neobjavil, ako
+  - šľachtiť túto rastlinu!
+  discovery: Objav

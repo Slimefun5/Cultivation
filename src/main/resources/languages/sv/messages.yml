@@ -1,0 +1,65 @@
+lore:
+  seed-pack-set-to: Inställd på
+  knowledge-script-unlocks: Låser upp
+  drop-level: Dropnivå
+  growth-speed: Tillväxthastighet
+  breed-strength: Förädlingsstyrka
+command:
+  no-permission: Du har inte behörighet att göra detta.
+  invalid-subcommand: Ange ett giltigt underkommando.
+  players-only: Det här kommandot kan bara köras av en spelare.
+  hold-seed-pack: Du måste hålla en fröpåse för detta.
+  pack-empty: Den här påsen är tom!
+  pack-contents: Innehåll
+  pack-entry: Nivå %level%, hastighet %speed%, styrka %strength%
+kitchen:
+  recipe-disabled: Det här receptet är inaktiverat.
+  no-recipe: Inget matchande recept.
+  not-enough-power: Inte tillräckligt med energi.
+  input-empty: Lägg ett föremål i inmatningsplatsen.
+  cooked: Smaskigt!
+food:
+  eaten: Underbart! Nu är du proppmätt.
+  not-hungry: Du är inte hungrig än! Du kan bara äta en gång per halv dag (10 minuter).
+  palate-cleansed: Du känner hur din gom renas.
+  ouch: Aj!
+knowledge-script:
+  learned: Du har lärt dig att förädla %plant%.
+seed-pack:
+  title: Fröpåse
+  unstack-first: Du måste dela upp dina fröpåsar först.
+  not-a-seed: Föremålet måste vara ett växtfrö från Cultivation.
+  empty-before-change: Du måste tömma en påse innan du byter dess växt.
+  no-plant-set: Du har inte valt någon växt än.
+  none-stored: Du har inga sådana frön på de här nivåerna.
+  set-here: Välj frö här
+  retrieve-here: Hämta här
+  no-seed-set: Inget frö valt
+  no-seed-set-lore:
+  - Klicka på ikonen till vänster
+  - medan du håller ett frö för att välja.
+  empty-set: Tom uppsättning
+  empty-set-lore:
+  - Du har inga frön som matchar
+  - de här nivåerna.
+  stored-seed: Lagrad frötyp
+  take-seed: Ta ett frö ur påsen
+  level: Nivå
+  speed: Hastighet
+  strength: Styrka
+  left-click: Vänsterklick
+  right-click: Högerklick
+  increase: Öka %stat%
+  decrease: Minska %stat%
+  current: Nuvarande
+codex:
+  title: Växtkodex
+  child: Avkomma
+  mother: Moderväxt
+  father: Faderväxt
+  growth-rate: Tillväxttakt
+  not-discovered: Ej upptäckt
+  not-discovered-lore:
+  - Du har ännu inte upptäckt hur
+  - man förädlar den här växten!
+  discovery: Upptäckt

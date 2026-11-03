@@ -1,0 +1,65 @@
+lore:
+  seed-pack-set-to: Definido como
+  knowledge-script-unlocks: Desbloqueia
+  drop-level: Nível de Drop
+  growth-speed: Velocidade de Crescimento
+  breed-strength: Força de Cruzamento
+command:
+  no-permission: Você não tem permissão para fazer isso.
+  invalid-subcommand: Informe um subcomando válido.
+  players-only: Este comando só pode ser usado por um jogador.
+  hold-seed-pack: Você precisa estar segurando um Pacote de Sementes para isso.
+  pack-empty: Este pacote está vazio!
+  pack-contents: Conteúdo
+  pack-entry: Nível %level%, velocidade %speed%, força %strength%
+kitchen:
+  recipe-disabled: Esta receita está desativada.
+  no-recipe: Nenhuma receita correspondente.
+  not-enough-power: Energia insuficiente.
+  input-empty: Coloque um item no slot de entrada.
+  cooked: Delicioso!
+food:
+  eaten: Que maravilha! Você está de barriga cheia.
+  not-hungry: Você ainda não está com fome! Só dá para comer uma vez a cada meio dia (10 minutos).
+  palate-cleansed: Você sente seu paladar sendo limpo.
+  ouch: Ai!
+knowledge-script:
+  learned: Você aprendeu a cruzar %plant%.
+seed-pack:
+  title: Pacote de Sementes
+  unstack-first: Você precisa desempilhar seus Pacotes de Sementes primeiro.
+  not-a-seed: O item precisa ser uma semente de planta do Cultivation.
+  empty-before-change: Você precisa esvaziar o pacote antes de trocar a planta dele.
+  no-plant-set: Você ainda não definiu uma planta.
+  none-stored: Você não tem nenhuma semente desta com esses níveis.
+  set-here: Definir semente aqui
+  retrieve-here: Retirar aqui
+  no-seed-set: Nenhuma Semente Definida
+  no-seed-set-lore:
+  - Clique no ícone à esquerda
+  - segurando uma semente para definir o pacote.
+  empty-set: Conjunto Vazio
+  empty-set-lore:
+  - Você não tem sementes que correspondam
+  - a esses níveis.
+  stored-seed: Tipo de Semente Guardada
+  take-seed: Pegar uma semente do pacote
+  level: Nível
+  speed: Velocidade
+  strength: Força
+  left-click: Clique Esquerdo
+  right-click: Clique Direito
+  increase: Aumentar %stat%
+  decrease: Diminuir %stat%
+  current: Atual
+codex:
+  title: Códice da Planta
+  child: Planta filha
+  mother: Planta mãe
+  father: Planta pai
+  growth-rate: Taxa de Crescimento
+  not-discovered: Não Descoberta
+  not-discovered-lore:
+  - Você ainda não descobriu como
+  - cruzar esta planta!
+  discovery: Descoberta

@@ -1,0 +1,87 @@
+cultivation:
+  bush_harvest:
+    name: Zber z krov
+    lore:
+    - Tento predmet sa dá zozbierať z
+    - kra Cultivation
+  tree_harvest:
+    name: Zber zo stromov
+    lore:
+    - Tento predmet sa dá zozbierať zo
+    - stromu Cultivation
+  trading_farmer:
+    name: Obchod s osadníkmi
+    lore:
+    - Tento predmet sa dá kúpiť od
+    - osadníka farmára.
+  trading_fletcher:
+    name: Obchod s osadníkmi
+    lore:
+    - Tento predmet sa dá kúpiť od
+    - osadníka výrobcu šípov.
+  mob:
+    name: Korisť z mobov
+    lore:
+    - Tento predmet môže s istou šancou padnúť
+    - z nasledujúcich mobov.
+  plant_breeding:
+    name: Šľachtenie rastlín
+    lore:
+    - Toto semeno získaš šľachtením.
+    - Rastliny šľachtíš tak, že položíš
+    - dve rastliny so vzduchovým blokom
+    - medzi nimi.
+    - ''
+    - Slovník šľachtenia môžeš použiť
+    - na sledovanie svojich objavov.
+    - ''
+    - 'Rada: Čierne častice znamenajú, že'
+    - tieto dve rastliny sa NEMÔŽU šľachtiť.
+  vanilla_block_drop:
+    name: Nález vo svete
+    lore:
+    - Padá z blokov, keď ich vo svete rozbiješ.
+  bucketing:
+    name: Nález vo svete
+    lore:
+    - Získava sa zo sveta pomocou vedra.
+  chopped:
+    name: Nasekané
+    lore:
+    - Jednoducho nasekaj nožom!
+  mashed:
+    name: Roztlačené
+    lore:
+    - Tlač tlač tlač
+  blended:
+    name: Mixované
+    lore:
+    - Vyrába sa vložením predmetu do mixéra.
+  sliced:
+    name: Nakrájané
+    lore:
+    - Také tenké a jemné
+  ground:
+    name: Mleté
+    lore:
+    - Najjemnejšie, ako sa dá
+  boiled:
+    name: Varené
+    lore:
+    - Horúce, horúce, horúce!
+  fried:
+    name: Vyprážané
+    lore:
+    - Chrumkavá dokonalosť.
+  grilled:
+    name: Grilované
+    lore:
+    - Šťavnaté a jemné.
+  finishing:
+    name: Dokončovanie
+    lore:
+    - Tento predmet vyrobíš na dokončovacej kuchynskej linke.
+  baking:
+    name: Pečenie
+    lore:
+    - Tento predmet vyrobíš na kuchynskej linke s rúrou.

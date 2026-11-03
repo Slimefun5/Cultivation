@@ -1,0 +1,65 @@
+lore:
+  seed-pack-set-to: 설정
+  knowledge-script-unlocks: 해금
+  drop-level: 드롭 레벨
+  growth-speed: 성장 속도
+  breed-strength: 교배 강도
+command:
+  no-permission: 이 작업을 할 권한이 없어요.
+  invalid-subcommand: 올바른 하위 명령어를 입력하세요.
+  players-only: 이 명령어는 플레이어만 실행할 수 있어요.
+  hold-seed-pack: 이 작업을 하려면 씨앗 꾸러미를 들고 있어야 해요.
+  pack-empty: 이 꾸러미는 비어 있어요!
+  pack-contents: 내용물
+  pack-entry: 레벨 %level%, 속도 %speed%, 강도 %strength%
+kitchen:
+  recipe-disabled: 이 레시피는 비활성화되어 있어요.
+  no-recipe: 일치하는 레시피가 없어요.
+  not-enough-power: 전력이 부족해요.
+  input-empty: 입력 칸에 아이템을 넣으세요.
+  cooked: 맛있어요!
+food:
+  eaten: 훌륭해요! 배가 가득 찼어요.
+  not-hungry: 아직 배고프지 않아요! 반나절(10분)에 한 번만 먹을 수 있어요.
+  palate-cleansed: 입안이 개운해지는 게 느껴져요.
+  ouch: 아야!
+knowledge-script:
+  learned: '%plant% 교배하는 법을 배웠어요.'
+seed-pack:
+  title: 씨앗 꾸러미
+  unstack-first: 먼저 씨앗 꾸러미를 한 개씩 나누세요.
+  not-a-seed: 아이템은 컬티베이션 식물 씨앗이어야 해요.
+  empty-before-change: 식물을 바꾸기 전에 꾸러미를 비워야 해요.
+  no-plant-set: 아직 식물을 설정하지 않았어요.
+  none-stored: 이 레벨에 해당하는 씨앗이 없어요.
+  set-here: 여기에 씨앗 설정
+  retrieve-here: 여기서 꺼내기
+  no-seed-set: 설정된 씨앗 없음
+  no-seed-set-lore:
+  - 씨앗을 든 채로 왼쪽 아이콘을
+  - 클릭해 꾸러미를 설정하세요.
+  empty-set: 빈 세트
+  empty-set-lore:
+  - 이 레벨에 맞는 씨앗이
+  - 없어요.
+  stored-seed: 저장된 씨앗 종류
+  take-seed: 꾸러미에서 씨앗 꺼내기
+  level: 레벨
+  speed: 속도
+  strength: 강도
+  left-click: 좌클릭
+  right-click: 우클릭
+  increase: '%stat% 증가'
+  decrease: '%stat% 감소'
+  current: 현재
+codex:
+  title: 식물 도감
+  child: 자식 식물
+  mother: 어미 식물
+  father: 아비 식물
+  growth-rate: 성장률
+  not-discovered: 미발견
+  not-discovered-lore:
+  - 아직 이 식물을 교배하는 법을
+  - 발견하지 못했어요!
+  discovery: 발견

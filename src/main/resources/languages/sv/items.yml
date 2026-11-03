@@ -1,0 +1,6674 @@
+CLT_APRICOT:
+  name: Aprikos
+  type:
+  - '&7&oRåvara'
+  description:
+  - Man kan göra Pokébollar av de här.
+  - '...'
+  - Vad menar du med att det är en annan sak...?
+CLT_ARTICHOKE:
+  name: Kronärtskocka
+  type:
+  - '&7&oRåvara'
+  description:
+  - Riv ut dess HJÄRTA!
+CLT_ASPARAGUS:
+  name: Sparris
+  type:
+  - '&7&oRåvara'
+  description:
+  - Var försiktig när du går på toaletten senare.
+CLT_AUBERGINE:
+  name: Aubergine
+  type:
+  - '&7&oRåvara'
+  description:
+  - Klarlila och till 100% INTE äggformad.
+  - Bäst att kalla den äggplanta, eller hur?
+CLT_AVOCADO:
+  name: Avokado
+  type:
+  - '&7&oRåvara'
+  description:
+  - Det som hipsters drömmer om.
+CLT_BACON_SANDWICH:
+  name: Baconsmörgås
+  type:
+  - '&7&oMat'
+  description:
+  - En enkel klassiker!
+  stats:
+  - '&8⇨ &7Läkning: &b2 hjärtan'
+  - '&8⇨ &bStyrka I &7(10:00)'
+  - '&8⇨ &bHastighet I &7(10:00)'
+CLT_BAGEL:
+  name: Bagel
+  type:
+  - '&7&oMat'
+  description:
+  - Rostad? Eller...
+  stats:
+  - '&8⇨ &7Läkning: &b2.5 hjärtan'
+CLT_BAGEL_BITE:
+  name: Minibagel
+  type:
+  - '&7&oMat'
+  description:
+  - Ät pizza när som helst!
+  stats:
+  - '&8⇨ &7Bränner munnen vid varje tugga!'
+CLT_BAGEL_CREAM_CHEESE:
+  name: Bagel med färskost
+  type:
+  - '&7&oMat'
+  description:
+  - Den är så god att du nog vill ha en till.
+  stats:
+  - '&8⇨ &7Läkning: &b5 hjärtan'
+  - '&8⇨ &bHälsobonus I &7(10:00)'
+CLT_BANANA:
+  name: Banan
+  type:
+  - '&7&oRåvara'
+  description:
+  - Det finns goda skal att älska den här!
+CLT_BASIL:
+  name: Basilika
+  type:
+  - '&7&oRåvara'
+  description:
+  - Ett sött blad med en mjuk, pepprig eftersmak.
+CLT_BAY_LEAF:
+  name: Lagerblad
+  type:
+  - '&7&oRåvara'
+  description:
+  - En stark arom med många användningsområden.
+CLT_BELL_PEPPER:
+  name: Paprika
+  type:
+  - '&7&oRåvara'
+  description:
+  - Det ringer verkligen en klocka.
+CLT_BISCUIT:
+  name: Scones
+  type:
+  - '&7&oMat'
+  description:
+  - Ett litet mellanmål med enorm smak.
+  stats: &id002
+  - '&8⇨ &7Skjuter upp dig i luften'
+CLT_BISCUIT_BASE:
+  name: Kexbotten
+  type:
+  - '&7&oRåvara'
+  description:
+  - Bara för att den är platt nu betyder
+  - det inte att du kan äta den rå.
+CLT_BISCUIT_DOUGH:
+  name: Sconesdeg
+  type:
+  - '&7&oRåvara'
+  description:
+  - 'Påminn dig själv: "Ät den inte rå."'
+CLT_BLACK_BEANS:
+  name: Svarta bönor
+  type:
+  - '&7&oRåvara'
+  description:
+  - Ett läckert vegetariskt protein.
+CLT_BLENDED_APPLE:
+  name: Mixat äpple
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_APRICOT:
+  name: Mixad aprikos
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_ARTICHOKE:
+  name: Mixad kronärtskocka
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_ASPARAGUS:
+  name: Mixad sparris
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_AUBERGINE:
+  name: Mixad aubergine
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_AVOCADO:
+  name: Mixad avokado
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_BANANA:
+  name: Mixad banan
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_BASIL:
+  name: Mixad basilika
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_BAY_LEAF:
+  name: Mixat lagerblad
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_BEEF:
+  name: Mixat nötkött
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_BEETROOT:
+  name: Mixad rödbeta
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_BELL_PEPPER:
+  name: Mixad paprika
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_BLACK_BEANS:
+  name: Mixade svarta bönor
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_BREAD:
+  name: Mixat bröd
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_BROCCOLI:
+  name: Mixad broccoli
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_BROWN_MUSHROOM:
+  name: Mixad brun svamp
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_BRUSSELS_SPROUTS:
+  name: Mixad brysselkål
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_CABBAGE:
+  name: Mixad kål
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_CARROT:
+  name: Mixad morot
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_CAULIFLOWER:
+  name: Mixad blomkål
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_CAYENNE_PEPPER:
+  name: Mixad cayennepeppar
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_CELERIAC:
+  name: Mixad rotselleri
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_CELERY:
+  name: Mixad blekselleri
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_CHERRY:
+  name: Mixat körsbär
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_CHESTNUT:
+  name: Mixad kastanj
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_CHICKEN:
+  name: Mixad kyckling
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_CHICKPEAS:
+  name: Mixade kikärtor
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_CHICORY:
+  name: Mixad cikoria
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_CHILLY_PEPPER:
+  name: Mixad chilipeppar
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_CHIVES:
+  name: Mixad gräslök
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_CHORUS_FRUIT:
+  name: Mixad körfrukt
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_CILANTRO:
+  name: Mixad koriander
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_CINNAMON:
+  name: Mixad kanel
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_CLOVE:
+  name: Mixad kryddnejlika
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_COCOA_BEANS:
+  name: Mixade kakaobönor
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_COD:
+  name: Mixad torsk
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_COURGETTE:
+  name: Mixad zucchini
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_CUCUMBER:
+  name: Mixad gurka
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_CUMIN:
+  name: Mixad spiskummin
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_CURRY_LEAF:
+  name: Mixat curryblad
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_DILL:
+  name: Mixad dill
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_EGG:
+  name: Mixat ägg
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_ENCHANTED_GOLDEN_APPLE:
+  name: Mixat förtrollat gyllene äpple
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_FENNEL:
+  name: Mixad fänkål
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_GARLIC:
+  name: Mixad vitlök
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_GINGER:
+  name: Mixad ingefära
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_GLOW_BERRIES:
+  name: Mixade självlysande bär
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_GOLDEN_APPLE:
+  name: Mixat gyllene äpple
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_GOLDEN_CARROT:
+  name: Mixad gyllene morot
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_GRAPE:
+  name: Mixad vindruva
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_GREEN_APPLE:
+  name: Mixat grönt äpple
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_GREEN_BEANS:
+  name: Mixade gröna bönor
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_GREEN_ONION:
+  name: Mixad salladslök
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_HAZELNUT:
+  name: Mixad hasselnöt
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_HORSERADISH:
+  name: Mixad pepparrot
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_JALAPENO:
+  name: Mixad jalapeño
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_JASMINE:
+  name: Mixad jasmin
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_JUNIPER_BERRY:
+  name: Mixade enbär
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_KAFFIR_LIME:
+  name: Mixat kaffirlimeblad
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_KALE:
+  name: Mixad grönkål
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_KELP:
+  name: Mixad kelp
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_KIWI:
+  name: Mixad kiwi
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_LAVENDER:
+  name: Mixad lavendel
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_LEEK:
+  name: Mixad purjolök
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_LEMON:
+  name: Mixad citron
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_LETTUCE:
+  name: Mixad sallad
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_LICORICE:
+  name: Mixad lakrits
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_LIME:
+  name: Mixad lime
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_MACE:
+  name: Mixad muskotblomma
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_MANGO:
+  name: Mixad mango
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_MARJORAM:
+  name: Mixad mejram
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_MARROW:
+  name: Mixad märgpumpa
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_MELON:
+  name: Mixad melon
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_MINT:
+  name: Mixad mynta
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_MUSTARD_SEEDS:
+  name: Mixade senapskorn
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_MUTTON:
+  name: Mixat fårkött
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_NETTLES:
+  name: Mixade brännässlor
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_OKRA:
+  name: Mixad okra
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_ONION:
+  name: Mixad lök
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_ORANGE:
+  name: Mixad apelsin
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_OREGANO:
+  name: Mixad oregano
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_PARSLEY:
+  name: Mixad persilja
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_PARSNIP:
+  name: Mixad palsternacka
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_PEA:
+  name: Mixade ärtor
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_PEACH:
+  name: Mixad persika
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_PEANUT:
+  name: Mixad jordnöt
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_PEAR:
+  name: Mixat päron
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_PECAN:
+  name: Mixad pekannöt
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_PEPPER:
+  name: Mixad svartpeppar
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_PEPPERONI:
+  name: Mixad pepperoni
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_PINEAPPLE:
+  name: Mixad ananas
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_PINTO_BEANS:
+  name: Mixade pintobönor
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_PORKCHOP:
+  name: Mixad fläskkotlett
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_POTATO:
+  name: Mixad potatis
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_PUFFERFISH:
+  name: Mixad blåsfisk
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_PUMPKIN:
+  name: Mixad pumpa
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_RABBIT:
+  name: Mixad kanin
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_RADDISH:
+  name: Mixad rädisa
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_RADICCHIO:
+  name: Mixad radicchio
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_RAPESEED:
+  name: Mixad raps
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_RED_MUSHROOM:
+  name: Mixad röd svamp
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_RHUBARB:
+  name: Mixad rabarber
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_RICE:
+  name: Mixat ris
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_ROSEMARY:
+  name: Mixad rosmarin
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_ROTTEN_FLESH:
+  name: Mixat ruttet kött
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_RUNNER_BEANS:
+  name: Mixade rosenbönor
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_RUTABAGA:
+  name: Mixad kålrot
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_SALMON:
+  name: Mixad lax
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_SASSAFRAS:
+  name: Mixad sassafras
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_SHALLOT:
+  name: Mixad schalottenlök
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_SHISO:
+  name: Mixad shiso
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_SOY_BEANS:
+  name: Mixade sojabönor
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_SPINACH:
+  name: Mixad spenat
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_STAR_ANISE:
+  name: Mixad stjärnanis
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_STRAWBERRY:
+  name: Mixad jordgubbe
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_SUGAR:
+  name: Mixat socker
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_SWEETCORN:
+  name: Mixad sockermajs
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_SWEET_BERRIES:
+  name: Mixade söta bär
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_SWEET_POTATO:
+  name: Mixad sötpotatis
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_TARRAGON:
+  name: Mixad dragon
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_THYME:
+  name: Mixad timjan
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_TOMATO:
+  name: Mixad tomat
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_TURMERIC:
+  name: Mixad gurkmeja
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_TURNIP:
+  name: Mixad rova
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_VANILLA:
+  name: Mixad vanilj
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_WASABI:
+  name: Mixad wasabi
+  type:
+  - '&7&oBiprodukt'
+CLT_BLENDED_WHEAT:
+  name: Mixat vete
+  type:
+  - '&7&oBiprodukt'
+CLT_BLUE_CANDY:
+  name: Blå karamell
+  type:
+  - '&7&oMat'
+  description:
+  - En förtjusande söt karamell.
+  stats:
+  - '&8⇨ &7Frammanar en allay'
+CLT_BOILED_APPLE:
+  name: Kokt äpple
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_APRICOT:
+  name: Kokt aprikos
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_ARTICHOKE:
+  name: Kokt kronärtskocka
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_ASPARAGUS:
+  name: Kokt sparris
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_AUBERGINE:
+  name: Kokt aubergine
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_AVOCADO:
+  name: Kokt avokado
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_BANANA:
+  name: Kokt banan
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_BASIL:
+  name: Kokt basilika
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_BAY_LEAF:
+  name: Kokt lagerblad
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_BEEF:
+  name: Kokt nötkött
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_BEETROOT:
+  name: Kokt rödbeta
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_BELL_PEPPER:
+  name: Kokt paprika
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_BLACK_BEANS:
+  name: Kokta svarta bönor
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_BREAD:
+  name: Kokt bröd
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_BROCCOLI:
+  name: Kokt broccoli
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_BROWN_MUSHROOM:
+  name: Kokt brun svamp
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_BRUSSELS_SPROUTS:
+  name: Kokt brysselkål
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_CABBAGE:
+  name: Kokt kål
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_CARROT:
+  name: Kokt morot
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_CAULIFLOWER:
+  name: Kokt blomkål
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_CAYENNE_PEPPER:
+  name: Kokt cayennepeppar
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_CELERIAC:
+  name: Kokt rotselleri
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_CELERY:
+  name: Kokt blekselleri
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_CHERRY:
+  name: Kokt körsbär
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_CHESTNUT:
+  name: Kokt kastanj
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_CHICKEN:
+  name: Kokt kyckling
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_CHICKPEAS:
+  name: Kokta kikärtor
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_CHICORY:
+  name: Kokt cikoria
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_CHILLY_PEPPER:
+  name: Kokt chilipeppar
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_CHIVES:
+  name: Kokt gräslök
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_CHORUS_FRUIT:
+  name: Kokt körfrukt
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_CILANTRO:
+  name: Kokt koriander
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_CINNAMON:
+  name: Kokt kanel
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_CLOVE:
+  name: Kokt kryddnejlika
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_COCOA_BEANS:
+  name: Kokta kakaobönor
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_COD:
+  name: Kokt torsk
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_COURGETTE:
+  name: Kokt zucchini
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_CUCUMBER:
+  name: Kokt gurka
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_CUMIN:
+  name: Kokt spiskummin
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_CURRY_LEAF:
+  name: Kokt curryblad
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_DILL:
+  name: Kokt dill
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_EGG:
+  name: Kokt ägg
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_ENCHANTED_GOLDEN_APPLE:
+  name: Kokt förtrollat gyllene äpple
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_FENNEL:
+  name: Kokt fänkål
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_GARLIC:
+  name: Kokt vitlök
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_GINGER:
+  name: Kokt ingefära
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_GLOW_BERRIES:
+  name: Kokta självlysande bär
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_GOLDEN_APPLE:
+  name: Kokt gyllene äpple
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_GOLDEN_CARROT:
+  name: Kokt gyllene morot
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_GRAPE:
+  name: Kokt vindruva
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_GREEN_APPLE:
+  name: Kokt grönt äpple
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_GREEN_BEANS:
+  name: Kokta gröna bönor
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_GREEN_ONION:
+  name: Kokt salladslök
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_HAZELNUT:
+  name: Kokt hasselnöt
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_HORSERADISH:
+  name: Kokt pepparrot
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_JALAPENO:
+  name: Kokt jalapeño
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_JASMINE:
+  name: Kokt jasmin
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_JUNIPER_BERRY:
+  name: Kokta enbär
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_KAFFIR_LIME:
+  name: Kokt kaffirlimeblad
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_KALE:
+  name: Kokt grönkål
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_KELP:
+  name: Kokt kelp
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_KIWI:
+  name: Kokt kiwi
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_LAVENDER:
+  name: Kokt lavendel
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_LEEK:
+  name: Kokt purjolök
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_LEMON:
+  name: Kokt citron
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_LETTUCE:
+  name: Kokt sallad
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_LICORICE:
+  name: Kokt lakrits
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_LIME:
+  name: Kokt lime
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_MACE:
+  name: Kokt muskotblomma
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_MANGO:
+  name: Kokt mango
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_MARJORAM:
+  name: Kokt mejram
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_MARROW:
+  name: Kokt märgpumpa
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_MELON:
+  name: Kokt melon
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_MINT:
+  name: Kokt mynta
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_MUSTARD_SEEDS:
+  name: Kokta senapskorn
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_MUTTON:
+  name: Kokt fårkött
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_NETTLES:
+  name: Kokta brännässlor
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_OKRA:
+  name: Kokt okra
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_ONION:
+  name: Kokt lök
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_ORANGE:
+  name: Kokt apelsin
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_OREGANO:
+  name: Kokt oregano
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_PARSLEY:
+  name: Kokt persilja
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_PARSNIP:
+  name: Kokt palsternacka
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_PEA:
+  name: Kokta ärtor
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_PEACH:
+  name: Kokt persika
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_PEANUT:
+  name: Kokt jordnöt
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_PEAR:
+  name: Kokt päron
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_PECAN:
+  name: Kokt pekannöt
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_PEPPER:
+  name: Kokt svartpeppar
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_PEPPERONI:
+  name: Kokt pepperoni
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_PINEAPPLE:
+  name: Kokt ananas
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_PINTO_BEANS:
+  name: Kokta pintobönor
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_PORKCHOP:
+  name: Kokt fläskkotlett
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_POTATO:
+  name: Kokt potatis
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_PUFFERFISH:
+  name: Kokt blåsfisk
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_PUMPKIN:
+  name: Kokt pumpa
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_RABBIT:
+  name: Kokt kanin
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_RADDISH:
+  name: Kokt rädisa
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_RADICCHIO:
+  name: Kokt radicchio
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_RAPESEED:
+  name: Kokt raps
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_RED_MUSHROOM:
+  name: Kokt röd svamp
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_RHUBARB:
+  name: Kokt rabarber
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_RICE:
+  name: Kokt ris
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_ROSEMARY:
+  name: Kokt rosmarin
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_ROTTEN_FLESH:
+  name: Kokt ruttet kött
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_RUNNER_BEANS:
+  name: Kokta rosenbönor
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_RUTABAGA:
+  name: Kokt kålrot
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_SALMON:
+  name: Kokt lax
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_SASSAFRAS:
+  name: Kokt sassafras
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_SHALLOT:
+  name: Kokt schalottenlök
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_SHISO:
+  name: Kokt shiso
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_SOY_BEANS:
+  name: Kokta sojabönor
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_SPINACH:
+  name: Kokt spenat
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_STAR_ANISE:
+  name: Kokt stjärnanis
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_STRAWBERRY:
+  name: Kokt jordgubbe
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_SUGAR:
+  name: Kokt socker
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_SWEETCORN:
+  name: Kokt sockermajs
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_SWEET_BERRIES:
+  name: Kokta söta bär
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_SWEET_POTATO:
+  name: Kokt sötpotatis
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_TARRAGON:
+  name: Kokt dragon
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_THYME:
+  name: Kokt timjan
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_TOMATO:
+  name: Kokt tomat
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_TURMERIC:
+  name: Kokt gurkmeja
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_TURNIP:
+  name: Kokt rova
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_VANILLA:
+  name: Kokt vanilj
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_WASABI:
+  name: Kokt wasabi
+  type:
+  - '&7&oBiprodukt'
+CLT_BOILED_WHEAT:
+  name: Kokt vete
+  type:
+  - '&7&oBiprodukt'
+CLT_BOWL_OF_STEVE:
+  name: Skål med... Steve?
+  type:
+  - '&7&oMat'
+  description:
+  - Vad i hela &%£$
+  stats:
+  - '&8⇨ &bTrötthet X &7(10:00)'
+  - '&8⇨ &bLångsamhet VI &7(10:00)'
+  - '&8⇨ &bStyrka X &7(10:00)'
+  - '&8⇨ &7Sänker dig till 1/2 hjärta'
+CLT_BROCCOLI:
+  name: Broccoli
+  type:
+  - '&7&oRåvara'
+  description:
+  - Är du en jätte som håller i ett träd?
+  - Nä, bara ett pyttelitet träd :)
+CLT_BRUSSELS_SPROUTS:
+  name: Brysselkål
+  type:
+  - '&7&oRåvara'
+  description:
+  - En gasig fröjd.
+CLT_BUSH_ARTICHOKE:
+  name: Kronärtskocksbuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Den absolut bästa busken att kröna en
+  - kung med. Suck. Ordvitsar är svåra.
+CLT_BUSH_ASPARAGUS:
+  name: Sparrisbuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Akta dig, den här sparrisbusken
+  - stjälkar allt den kommer åt!
+CLT_BUSH_AUBERGINE:
+  name: Auberginebuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Jag vägrar använda ordet äggplanta. Det gör jag bara.
+CLT_BUSH_AVOCADO:
+  name: Avokadobuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Den här busken har förädlats specifikt för att inte
+  - använda för mycket vatten.
+CLT_BUSH_BASIL:
+  name: Basilikabuske
+  type:
+  - '&7&oBuske'
+  description:
+  - En lättsam buske full av nycker.
+CLT_BUSH_BAY_LEAF:
+  name: Lagerbladsbuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Doften från den här busken färdas i flera mil.
+CLT_BUSH_BELL_PEPPER:
+  name: Paprikabuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Var försiktig när du går förbi, du kan
+  - råka ringa i klockan.
+CLT_BUSH_BLACK_BEANS:
+  name: Svartbönsbuske
+  type:
+  - '&7&oBuske'
+  description:
+  - 'Den här busken viskar milt till dig:'
+  - Jag har hört dina böner.
+CLT_BUSH_BROCCOLI:
+  name: Broccolibuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Små träd man kan äta? Vem uppfann det här!?
+CLT_BUSH_BRUSSELS_SPROUTS:
+  name: Brysselkålsbuske
+  type:
+  - '&7&oBuske'
+  description:
+  - En buske som ibland kan producera giftig
+  - gas.
+CLT_BUSH_CABBAGE:
+  name: Kålbuske
+  type:
+  - '&7&oBuske'
+  description:
+  - En buske som kommer med en stor mängd
+  - känslomässigt kålbagage.
+CLT_BUSH_CAULIFLOWER:
+  name: Blomkålsbuske
+  type:
+  - '&7&oBuske'
+  description:
+  - En buske som kan producera små moln
+  - av förtjusning.
+CLT_BUSH_CAYENNE_PEPPER:
+  name: Cayennepepparbuske
+  type:
+  - '&7&oBuske'
+  description:
+  - En buske med en pepprig attityd.
+CLT_BUSH_CELERIAC:
+  name: Rotselleribuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Ännu en rot som växer på en buske?
+  - SefiDumt™
+CLT_BUSH_CELERY:
+  name: Blekselleribuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Den här busken är överflödig.
+  - Sefi gillar inte selleri.
+CLT_BUSH_CHICKPEAS:
+  name: Kikärtsbuske
+  type:
+  - '&7&oBuske'
+  description:
+  - En buske skapad genom att korsa en kyckling
+  - med en ärta. VETENSKAP.
+CLT_BUSH_CHICORY:
+  name: Cikoriabuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Jag trodde att cikoria var en rot? Gör det här tillägget
+  - ens sin research!?
+CLT_BUSH_CHILLI_PEPPER:
+  name: Chilibuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Bara att titta på den här busken bränner min tunga.
+CLT_BUSH_CHIVES:
+  name: Gräslöksbuske
+  type:
+  - '&7&oBuske'
+  description:
+  - En buske som producerar vad som i praktiken är världens
+  - minsta lök.
+CLT_BUSH_CILANTRO:
+  name: Korianderbuske
+  type:
+  - '&7&oBuske'
+  description:
+  - En svag doft av citrus och kryddor kommer från den här busken.
+CLT_BUSH_CINNAMON:
+  name: Kanelbuske
+  type:
+  - '&7&oBuske'
+  description:
+  - En förtjusande väldoftande buske.
+CLT_BUSH_CLOVE:
+  name: Kryddnejlikebuske
+  type:
+  - '&7&oBuske'
+  description:
+  - En buske som bara påminner mig om julen.
+CLT_BUSH_COURGETTE:
+  name: Zucchinibuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Varför ropar den här busken hela tiden
+  - ordet courgette? Den måste väl vara fransk?
+CLT_BUSH_CUCUMBER:
+  name: Gurkbuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Den här busken skapades enbart i syfte
+  - att bli dina härliga sommarsallader.
+CLT_BUSH_CUMIN:
+  name: Spiskumminbuske
+  type:
+  - '&7&oBuske'
+  description:
+  - En buske som avger en varm citrusdoft.
+CLT_BUSH_CURRY_LEAF:
+  name: Currybladsbuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Bäst när den torrostas.
+CLT_BUSH_DILL:
+  name: Dillbuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Den här busken växer mycket snabbare än andra.
+CLT_BUSH_FENNEL:
+  name: Fänkålsbuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Varför stöter den här busken bort insekter!?
+CLT_BUSH_GARLIC:
+  name: Vitlöksbuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Den här busken har helt enkelt den värsta andedräkten.
+CLT_BUSH_GINGER:
+  name: Ingefärsbuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Den här busken är god när den kokas hel.
+CLT_BUSH_GRAPE:
+  name: Vindruvsbuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Mogna och saftiga druvor som nästan faller
+  - av busken.
+CLT_BUSH_GREEN_BEANS:
+  name: Brytbönsbuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Häll tomatsås över den här busken för att
+  - få bakade bönor.
+CLT_BUSH_GREEN_ONION:
+  name: Salladslöksbuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Kallas även vårlök.
+  - Salladslök har generellt en
+  - mildare smak än de flesta lökar.
+CLT_BUSH_HORSERADISH:
+  name: Pepparrotsbuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Återigen, att det här växer på en buske är helt orimligt.
+CLT_BUSH_JALAPENO:
+  name: Jalapeñobuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Att bara hålla den här busken ger dig
+  - 1% chans att fatta eld.
+CLT_BUSH_JASMINE:
+  name: Jasminbuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Doften från den här busken är så mjuk och len.
+CLT_BUSH_JUNIPER_BERRY:
+  name: Enbärsbuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Så söt på busken, pepprig när den torkats.
+CLT_BUSH_KAFFIR_LIME:
+  name: Kaffirlimebuske
+  type:
+  - '&7&oBuske'
+  description:
+  - En buske vars blad är mer eftertraktade än dess frukt.
+CLT_BUSH_KALE:
+  name: Grönkålsbuske
+  type:
+  - '&7&oBuske'
+  description:
+  - När du planterar den här busken får du känslan
+  - att allt kommer att gå kål-ugnt... förlåt, lugnt.
+CLT_BUSH_LAVENDER:
+  name: Lavendelbuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Den här busken sprider sin doft överallt.
+CLT_BUSH_LEEK:
+  name: Purjolöksbuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Visste du att en purjolök bara är en lök som
+  - bär korsett? Sann historia.
+CLT_BUSH_LETTUCE:
+  name: Salladsbuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Växer sallad ens på buskar?
+  - 'Spoiler: Nej, det gör den inte.'
+CLT_BUSH_LICORICE:
+  name: Lakritsbuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Äckligt
+CLT_BUSH_MACE:
+  name: Muskotblommebuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Den här busken verkar stöta bort angripare?
+CLT_BUSH_MARJORAM:
+  name: Mejrambuske
+  type:
+  - '&7&oBuske'
+  description:
+  - En stor buske med träig doft.
+CLT_BUSH_MARROW:
+  name: Märgpumpabuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Jag är förvånad att den här busken klarar
+  - sin egen vikt.
+CLT_BUSH_MINT:
+  name: Myntabuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Helt enkelt den bäst doftande busken.
+CLT_BUSH_MUSTARD:
+  name: Gulsenapsbuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Som eld i munnen.
+CLT_BUSH_NETTLES:
+  name: Brännässlebuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Var försiktig när du går genom den här busken!
+CLT_BUSH_OKRA:
+  name: Okrabuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Utsedd till grönsak nummer 1 enligt
+  - Okra Winfreys grönsaksklubb.
+CLT_BUSH_ONION:
+  name: Lökbuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Ser den här busken ut som att den gråter?
+CLT_BUSH_OREGANO:
+  name: Oreganobuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Den här skarpt doftande busken skrämmer bort besökare.
+CLT_BUSH_PARSLEY:
+  name: Persiljebuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Släng den här busken i lava, nu :D
+CLT_BUSH_PARSNIP:
+  name: Palsternacksbuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Hoppa över mellanhanden och rosta busken
+  - direkt.
+CLT_BUSH_PEA:
+  name: Ärtbuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Ärtligt talat, helt okej.
+CLT_BUSH_PEANUTS:
+  name: Jordnötsbuske
+  type:
+  - '&7&oBuske'
+  description: &id001
+  - Fast, doftande och full av protein.
+CLT_BUSH_PEPPER:
+  name: Svartpepparbuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Svartpeppar var en viktig del av
+  - kryddhandeln mellan Indien och Europa
+  - redan under grekisk och romersk tid.
+CLT_BUSH_PINTO_BEANS:
+  name: Pintobönsbuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Det dröjer väl inte länge innan vi lyckas förädla
+  - fram en buske som odlar burritos direkt, eller hur?
+CLT_BUSH_RADDISH:
+  name: Rädisbuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Den här växten gjorde just ett skateboardtrick.
+  - Rädd? Nej, rädisa!
+CLT_BUSH_RADICCHIO:
+  name: Radicchiobuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Vill du låta fin? Lägg radicchio i vilken
+  - måltid som helst, det är i princip som kål men
+  - får dig att verka förfinad.
+CLT_BUSH_RAPESEED:
+  name: Rapsbuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Den här busken utsöndrar något oljigt ämne.
+CLT_BUSH_RHUBARB:
+  name: Rabarberbuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Visste du att rabarber var en grönsak?
+  - Jag trodde det var en sorts barbar.
+CLT_BUSH_RICE:
+  name: Risbuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Den ultimata basfödan.
+CLT_BUSH_ROSEMARY:
+  name: Rosmarinbuske
+  type:
+  - '&7&oBuske'
+  description:
+  - En buske vars doft påminner om söndagsmiddagar.
+CLT_BUSH_RUNNER_BEANS:
+  name: Rosenbönsbuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Den här busken har fötter o.o?
+CLT_BUSH_RUTABAGA:
+  name: Kålrotsbuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Kålrot. Britterna kallar den "svensk".
+CLT_BUSH_SASSAFRAS:
+  name: Sassafrasbuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Den här busken älskar att planteras nära små
+  - vattensamlingar.
+CLT_BUSH_SHALLOT:
+  name: Schalottenlöksbuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Den här busken producerar snabbt härliga minilökar.
+  - Lök på laxen? Nej, schalottenlök på laxen!
+CLT_BUSH_SHISO:
+  name: Shisobuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Jag gillar att tänka att den här busken är kärleksbarnet
+  - till en myntabuske och en basilikabuske. Synd
+  - att buskförädling inte är en grej!
+CLT_BUSH_SOY_BEANS:
+  name: Sojabönsbuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Den här busken är en vänlig fröjd. Den gör
+  - mig soja glad.
+CLT_BUSH_SPINACH:
+  name: Spenatbuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Den här busken är Karl-Alfreds bästa vän.
+CLT_BUSH_STAR_ANISE:
+  name: Stjärnanisbuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Det kommer en doft från den här busken som är så unik
+  - för anis att du inte ens kan tro det.
+CLT_BUSH_STRAWBERRY:
+  name: Jordgubbsbuske
+  type:
+  - '&7&oBuske'
+  description: *id001
+CLT_BUSH_SWEETCORN:
+  name: Sockermajsbuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Den här busken bara skriker efter att bli
+  - en majslabyrint.
+CLT_BUSH_SWEET_POTATO:
+  name: Sötpotatisbuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Den här busken är bara så söt. Jag hörde den
+  - ge dig komplimanger när du inte lyssnade.
+CLT_BUSH_TARRAGON:
+  name: Dragonbuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Den här busken vill inte dra till sig för mycket uppmärksamhet.
+CLT_BUSH_THYME:
+  name: Timjanbuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Den här busken har aldrig tid... timjan... *host*
+CLT_BUSH_TOMATO:
+  name: Tomatbuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Mogen och redo.
+CLT_BUSH_TURMERIC:
+  name: Gurkmejebuske
+  type:
+  - '&7&oBuske'
+  description:
+  - En fläkt av kryddor slår emot näsan bara
+  - du håller i den här busken.
+CLT_BUSH_TURNIP:
+  name: Rovbuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Enligt den brittiska regeringen
+  - kommer den här busken att lösa alla våra problem.
+CLT_BUSH_VANILLA:
+  name: Vaniljbuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Den här busken växer naturligt nära Starbucks-kaféer.
+CLT_BUSH_WASABI:
+  name: Wasabibuske
+  type:
+  - '&7&oBuske'
+  description:
+  - Ännu en rot som växer på en buske?
+  - Suck...
+CLT_CABBAGE:
+  name: Kål
+  type:
+  - '&7&oRåvara'
+  description:
+  - Ett helt kålbagage.
+CLT_CAESAR_SALAD:
+  name: Caesarsallad
+  type:
+  - '&7&oMat'
+  description:
+  - En hälsosam klassiker.
+  stats:
+  - '&8⇨ &7Läkning: &b6 hjärtan'
+  - '&8⇨ &bHastighet I &7(10:00)'
+  - '&8⇨ &bOsynlighet I &7(10:00)'
+  - '&8⇨ &bLångsamt fall I &7(10:00)'
+CLT_CAJUN_GARLIC_BUTTER_COD:
+  name: Cajuntorsk med vitlökssmör
+  type:
+  - '&7&oMat'
+  description:
+  - En väldigt enkel rätt som sprudlar av smak.
+  stats:
+  - '&8⇨ &7Läkning: &b4 hjärtan'
+  - '&8⇨ &bÅterhämtning II &7(10:00)'
+  - '&8⇨ &bHastighet I &7(10:00)'
+CLT_CAULIFLOWER:
+  name: Blomkål
+  type:
+  - '&7&oRåvara'
+  description:
+  - Ett bärbart moln!
+CLT_CAYENNE_PEPPER:
+  name: Cayennepeppar
+  type:
+  - '&7&oRåvara'
+  description:
+  - En mild, kryddig godsak.
+CLT_CELERIAC:
+  name: Rotselleri
+  type:
+  - '&7&oRåvara'
+  description:
+  - En mustig rot som är rotad (heh) i många
+  - traditionella recept.
+CLT_CELERY:
+  name: Blekselleri
+  type:
+  - '&7&oRåvara'
+  description:
+  - Bokstavligen bara trådigt vatten. Övertyga
+  - mig om motsatsen.
+CLT_CHEESE_BURGER:
+  name: Hamburgare
+  type:
+  - '&7&oMat'
+  description:
+  - En enkel ostburgare, men inget slår den!
+  stats:
+  - '&8⇨ &7Läkning: &b4 hjärtan'
+  - '&8⇨ &bÅterhämtning III &7(10:00)'
+CLT_CHEESY_SCALLOPED_COURGETTE:
+  name: Ostgratinerad zucchini
+  type:
+  - '&7&oMat'
+  description:
+  - En lågkolhydratversion av en fantastisk klassiker.
+  stats:
+  - '&8⇨ &7Läkning: &b2 hjärtan'
+  - '&8⇨ &bMörkerseende I &7(10:00)'
+  - '&8⇨ &bOsynlighet I &7(10:00)'
+CLT_CHERRY:
+  name: Körsbär
+  type:
+  - '&7&oRåvara'
+  description:
+  - Åh, jag trodde att de växte glaserade, synd!
+CLT_CHESTNUT:
+  name: Kastanj
+  type:
+  - '&7&oRåvara'
+  description:
+  - Gjord för att bakas, omedelbart.
+CLT_CHICKEN_ALFREDO_MAC_AND_CHEESE:
+  name: Mac and cheese med kycklingalfredo
+  type:
+  - '&7&oMat'
+  description:
+  - En flott twist på en vanlig klassiker.
+  stats:
+  - '&8⇨ &7Läkning: &b1 hjärta'
+  - '&8⇨ &bEldresistens II &7(10:00)'
+  - '&8⇨ &bResistens III &7(10:00)'
+CLT_CHICKEN_PASTA_BAKE:
+  name: Kycklingpastagratäng
+  type:
+  - '&7&oMat'
+  description:
+  - En studentklassiker.
+  stats:
+  - '&8⇨ &7Läkning: &b5 hjärtan'
+  - '&8⇨ &bMörkerseende I &7(10:00)'
+  - '&8⇨ &bVattenandning I &7(10:00)'
+CLT_CHICKEN_POT_PIE:
+  name: Kycklingpaj
+  type:
+  - '&7&oMat'
+  description:
+  - En värmande måltid som verkligen känns som hemma.
+  stats:
+  - '&8⇨ &7Läkning: &b10 hjärtan'
+  - '&8⇨ &bHoppstyrka II &7(10:00)'
+  - '&8⇨ &bMättnad I &7(10:00)'
+CLT_CHICKPEAS:
+  name: Kikärtor
+  type:
+  - '&7&oRåvara'
+  description:
+  - Black Eyed Peas kan sjunga en låt, kikärtor kan bara hummusa med.
+CLT_CHICORY:
+  name: Cikoria
+  type:
+  - '&7&oRåvara'
+  description:
+  - En nötig, bitter rot.
+CLT_CHILLY_PEPPER:
+  name: Chilipeppar
+  type:
+  - '&7&oRåvara'
+  description:
+  - Jag kan äta en hel chili utan att gråta.
+  - Okej, en halv.
+  - NÅÅÅÅJA.... 1/4
+  - '...'
+  - Ok, jag kan nudda en med tungan
+CLT_CHIVES:
+  name: Gräslök
+  type:
+  - '&7&oRåvara'
+  description:
+  - En söt ört som smakar lök.
+CLT_CHOPPED_APPLE:
+  name: Hackat äpple
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_APRICOT:
+  name: Hackad aprikos
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_ARTICHOKE:
+  name: Hackad kronärtskocka
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_ASPARAGUS:
+  name: Hackad sparris
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_AUBERGINE:
+  name: Hackad aubergine
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_AVOCADO:
+  name: Hackad avokado
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_BANANA:
+  name: Hackad banan
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_BASIL:
+  name: Hackad basilika
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_BAY_LEAF:
+  name: Hackat lagerblad
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_BEEF:
+  name: Hackat nötkött
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_BEETROOT:
+  name: Hackad rödbeta
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_BELL_PEPPER:
+  name: Hackad paprika
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_BLACK_BEANS:
+  name: Hackade svarta bönor
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_BREAD:
+  name: Hackat bröd
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_BROCCOLI:
+  name: Hackad broccoli
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_BROWN_MUSHROOM:
+  name: Hackad brun svamp
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_BRUSSELS_SPROUTS:
+  name: Hackad brysselkål
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_CABBAGE:
+  name: Hackad kål
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_CARROT:
+  name: Hackad morot
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_CAULIFLOWER:
+  name: Hackad blomkål
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_CAYENNE_PEPPER:
+  name: Hackad cayennepeppar
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_CELERIAC:
+  name: Hackad rotselleri
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_CELERY:
+  name: Hackad blekselleri
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_CHERRY:
+  name: Hackat körsbär
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_CHESTNUT:
+  name: Hackad kastanj
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_CHICKEN:
+  name: Hackad kyckling
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_CHICKPEAS:
+  name: Hackade kikärtor
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_CHICORY:
+  name: Hackad cikoria
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_CHILLY_PEPPER:
+  name: Hackad chilipeppar
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_CHIVES:
+  name: Hackad gräslök
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_CHORUS_FRUIT:
+  name: Hackad körfrukt
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_CILANTRO:
+  name: Hackad koriander
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_CINNAMON:
+  name: Hackad kanel
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_CLOVE:
+  name: Hackad kryddnejlika
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_COCOA_BEANS:
+  name: Hackade kakaobönor
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_COD:
+  name: Hackad torsk
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_COURGETTE:
+  name: Hackad zucchini
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_CUCUMBER:
+  name: Hackad gurka
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_CUMIN:
+  name: Hackad spiskummin
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_CURRY_LEAF:
+  name: Hackat curryblad
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_DILL:
+  name: Hackad dill
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_EGG:
+  name: Hackat ägg
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_ENCHANTED_GOLDEN_APPLE:
+  name: Hackat förtrollat gyllene äpple
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_FENNEL:
+  name: Hackad fänkål
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_GARLIC:
+  name: Hackad vitlök
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_GINGER:
+  name: Hackad ingefära
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_GLOW_BERRIES:
+  name: Hackade självlysande bär
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_GOLDEN_APPLE:
+  name: Hackat gyllene äpple
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_GOLDEN_CARROT:
+  name: Hackad gyllene morot
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_GRAPE:
+  name: Hackad vindruva
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_GREEN_APPLE:
+  name: Hackat grönt äpple
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_GREEN_BEANS:
+  name: Hackade gröna bönor
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_GREEN_ONION:
+  name: Hackad salladslök
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_HAZELNUT:
+  name: Hackad hasselnöt
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_HORSERADISH:
+  name: Hackad pepparrot
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_JALAPENO:
+  name: Hackad jalapeño
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_JASMINE:
+  name: Hackad jasmin
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_JUNIPER_BERRY:
+  name: Hackade enbär
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_KAFFIR_LIME:
+  name: Hackat kaffirlimeblad
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_KALE:
+  name: Hackad grönkål
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_KELP:
+  name: Hackad kelp
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_KIWI:
+  name: Hackad kiwi
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_LAVENDER:
+  name: Hackad lavendel
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_LEEK:
+  name: Hackad purjolök
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_LEMON:
+  name: Hackad citron
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_LETTUCE:
+  name: Hackad sallad
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_LICORICE:
+  name: Hackad lakrits
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_LIME:
+  name: Hackad lime
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_MACE:
+  name: Hackad muskotblomma
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_MANGO:
+  name: Hackad mango
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_MARJORAM:
+  name: Hackad mejram
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_MARROW:
+  name: Hackad märgpumpa
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_MELON:
+  name: Hackad melon
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_MINT:
+  name: Hackad mynta
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_MUSTARD_SEEDS:
+  name: Hackade senapskorn
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_MUTTON:
+  name: Hackat fårkött
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_NETTLES:
+  name: Hackade brännässlor
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_OKRA:
+  name: Hackad okra
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_ONION:
+  name: Hackad lök
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_ORANGE:
+  name: Hackad apelsin
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_OREGANO:
+  name: Hackad oregano
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_PARSLEY:
+  name: Hackad persilja
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_PARSNIP:
+  name: Hackad palsternacka
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_PEA:
+  name: Hackade ärtor
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_PEACH:
+  name: Hackad persika
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_PEANUT:
+  name: Hackad jordnöt
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_PEAR:
+  name: Hackat päron
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_PECAN:
+  name: Hackad pekannöt
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_PEPPER:
+  name: Hackad svartpeppar
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_PEPPERONI:
+  name: Hackad pepperoni
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_PINEAPPLE:
+  name: Hackad ananas
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_PINTO_BEANS:
+  name: Hackade pintobönor
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_PORKCHOP:
+  name: Hackad fläskkotlett
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_POTATO:
+  name: Hackad potatis
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_PUFFERFISH:
+  name: Hackad blåsfisk
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_PUMPKIN:
+  name: Hackad pumpa
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_RABBIT:
+  name: Hackad kanin
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_RADDISH:
+  name: Hackad rädisa
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_RADICCHIO:
+  name: Hackad radicchio
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_RAPESEED:
+  name: Hackad raps
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_RED_MUSHROOM:
+  name: Hackad röd svamp
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_RHUBARB:
+  name: Hackad rabarber
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_RICE:
+  name: Hackat ris
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_ROSEMARY:
+  name: Hackad rosmarin
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_ROTTEN_FLESH:
+  name: Hackat ruttet kött
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_RUNNER_BEANS:
+  name: Hackade rosenbönor
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_RUTABAGA:
+  name: Hackad kålrot
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_SALMON:
+  name: Hackad lax
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_SASSAFRAS:
+  name: Hackad sassafras
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_SHALLOT:
+  name: Hackad schalottenlök
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_SHISO:
+  name: Hackad shiso
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_SOY_BEANS:
+  name: Hackade sojabönor
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_SPINACH:
+  name: Hackad spenat
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_STAR_ANISE:
+  name: Hackad stjärnanis
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_STRAWBERRY:
+  name: Hackad jordgubbe
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_SUGAR:
+  name: Hackat socker
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_SWEETCORN:
+  name: Hackad sockermajs
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_SWEET_BERRIES:
+  name: Hackade söta bär
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_SWEET_POTATO:
+  name: Hackad sötpotatis
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_TARRAGON:
+  name: Hackad dragon
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_THYME:
+  name: Hackad timjan
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_TOMATO:
+  name: Hackad tomat
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_TURMERIC:
+  name: Hackad gurkmeja
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_TURNIP:
+  name: Hackad rova
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_VANILLA:
+  name: Hackad vanilj
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_WASABI:
+  name: Hackad wasabi
+  type:
+  - '&7&oBiprodukt'
+CLT_CHOPPED_WHEAT:
+  name: Hackat vete
+  type:
+  - '&7&oBiprodukt'
+CLT_CILANTRO:
+  name: Koriander
+  type:
+  - '&7&oRåvara'
+  description:
+  - En mild krydda med en touch av citrus.
+CLT_CINNAMON:
+  name: Kanel
+  type:
+  - '&7&oRåvara'
+  description:
+  - Härlig att tugga på i stångform.
+CLT_CINNAMON_ROLL:
+  name: Kanelbulle
+  type:
+  - '&7&oMat'
+  description:
+  - En söt fröjd som rullats ihop för skojs skull.
+  - Att äta den vänder världen upp och ner!
+  stats:
+  - '&8⇨ &7Läkning: &b4 hjärtan'
+  - '&8⇨ &bLevitation I &7(10:00)'
+  - '&8⇨ &bLångsamt fall I &7(10:00)'
+CLT_CLOVE:
+  name: Kryddnejlika
+  type:
+  - '&7&oRåvara'
+  description:
+  - En väldigt varm och intensiv smak.
+CLT_COMPRESSED_BISCUIT:
+  name: Pressat kex
+  type:
+  - '&7&oMat'
+  description:
+  - Ett litet mellanmål med en ännu enormare smak.
+  stats: *id002
+CLT_COOKED_BURGER_PATTY:
+  name: Stekt hamburgerbiff
+  type:
+  - '&7&oRåvara'
+  description:
+  - Praktiskt taget droppande
+CLT_COUNTER_BLENDER:
+  name: Köksbänk (Mixer)
+  type:
+  - '&7&oMaskin'
+  description:
+  - Högerklicka på det här blocket för att mixa råvaror.
+  usage: &id003
+  - Proffstips! När den är placerad kan du shift + högerklicka,
+  - så ändrar blocket/blocken du håller i
+  - köksdesignen. Testa!
+CLT_COUNTER_BOILING:
+  name: Köksbänk (Kokkastrull)
+  type:
+  - '&7&oMaskin'
+  description:
+  - Kan koka vissa föremål.
+  usage: *id003
+CLT_COUNTER_CHOPPING:
+  name: Köksbänk (Hackbräda)
+  type:
+  - '&7&oMaskin'
+  description:
+  - Högerklicka på det här blocket för att hacka råvaror.
+  usage: *id003
+CLT_COUNTER_FINISHING:
+  name: Köksbänk (Färdigställning)
+  type:
+  - '&7&oMaskin'
+  description:
+  - Används för att tillverka produkter/biprodukter till
+  - andra biprodukter eller färdig mat.
+  usage: *id003
+CLT_COUNTER_FRYING:
+  name: Köksbänk (Stekpanna)
+  type:
+  - '&7&oMaskin'
+  description:
+  - Kan steka vissa råvaror.
+  usage: *id003
+CLT_COUNTER_GRILL:
+  name: Köksbänk (Grill)
+  type:
+  - '&7&oMaskin'
+  description:
+  - Kan grilla vissa råvaror.
+  usage: *id003
+CLT_COUNTER_GRINDER:
+  name: Köksbänk (Mortel och mortelstöt)
+  type:
+  - '&7&oMaskin'
+  description:
+  - Högerklicka på det här blocket för att mala råvaror.
+  usage: *id003
+CLT_COUNTER_MASHER:
+  name: Köksbänk (Mosskål)
+  type:
+  - '&7&oMaskin'
+  description:
+  - Högerklicka på det här blocket för att mosa råvaror.
+  usage: *id003
+CLT_COUNTER_NOTHING:
+  name: Köksbänk (Tom)
+  type:
+  - '&7&oMaskin'
+  description:
+  - Bara som dekoration!
+  usage: *id003
+CLT_COUNTER_OVEN:
+  name: Köksbänk (Ugn)
+  type:
+  - '&7&oMaskin'
+  description:
+  - Kan baka vissa råvaror.
+  usage: *id003
+CLT_COUNTER_SLICING:
+  name: Köksbänk (Skärbräda)
+  type:
+  - '&7&oMaskin'
+  description:
+  - Högerklicka på det här blocket för att skiva råvaror.
+  usage: *id003
+CLT_COURGETTE:
+  name: Zucchini
+  type:
+  - '&7&oRåvara'
+  description:
+  - 'Proffstips: Riv ner den i valfri pastasås'
+  - för djup och textur.
+CLT_CREAM_CHEESE:
+  name: Färskost
+  type:
+  - '&7&oRåvara'
+  description:
+  - Mer krämig än ostig.
+CLT_CROP_STICKS:
+  name: Odlingspinnar
+  type:
+  - '&7&oVerktyg'
+  description:
+  - Odlingspinnar måste sättas på ett
+  - placerat frö för att det ska växa.
+  - Att placera en andra uppsättning korsar
+  - växten så att den kan spridas och/eller
+  - förädlas.
+CLT_CUCUMBER:
+  name: Gurka
+  type:
+  - '&7&oRåvara'
+  description:
+  - Vatten i ett grönt skal, motbevisa
+  - mig.
+CLT_CUMIN:
+  name: Spiskummin
+  type:
+  - '&7&oRåvara'
+  description:
+  - En varm, citrusdoftande växt.
+CLT_CURRY_LEAF:
+  name: Curryblad
+  type:
+  - '&7&oRåvara'
+  description:
+  - Grunden för så många underbara rätter.
+CLT_DILL:
+  name: Dill
+  type:
+  - '&7&oRåvara'
+  description:
+  - Smakar bara gräs för mig. Varför
+  - gillar folk det här?
+CLT_DOUGH:
+  name: Deg
+  type:
+  - '&7&oRåvara'
+  description:
+  - Bara en vanlig gammal deg!
+CLT_EGG_SALAD:
+  name: Äggsallad
+  type:
+  - '&7&oRåvara'
+  description:
+  - Öppna den här på ett tåg, jag utmanar dig!
+CLT_EGG_SALAD_SANDWICH:
+  name: Äggsalladssmörgås
+  type:
+  - '&7&oMat'
+  description:
+  - Luktar lite, men smakar fantastiskt!
+  stats: &id006
+  - '&8⇨ &7Läkning: &b10 hjärtan'
+  - '&8⇨ &bÅterhämtning II &7(10:00)'
+CLT_FENNEL:
+  name: Fänkål
+  type:
+  - '&7&oRåvara'
+  description:
+  - Som en blandning av anis och lakrits.
+CLT_FRIED_APPLE:
+  name: Stekt äpple
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_APRICOT:
+  name: Stekt aprikos
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_ARTICHOKE:
+  name: Stekt kronärtskocka
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_ASPARAGUS:
+  name: Stekt sparris
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_AUBERGINE:
+  name: Stekt aubergine
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_AVOCADO:
+  name: Stekt avokado
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_BANANA:
+  name: Stekt banan
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_BASIL:
+  name: Stekt basilika
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_BAY_LEAF:
+  name: Stekt lagerblad
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_BEEF:
+  name: Stekt nötkött
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_BEETROOT:
+  name: Stekt rödbeta
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_BELL_PEPPER:
+  name: Stekt paprika
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_BLACK_BEANS:
+  name: Stekta svarta bönor
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_BREAD:
+  name: Stekt bröd
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_BROCCOLI:
+  name: Stekt broccoli
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_BROWN_MUSHROOM:
+  name: Stekt brun svamp
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_BRUSSELS_SPROUTS:
+  name: Stekt brysselkål
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_CABBAGE:
+  name: Stekt kål
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_CARROT:
+  name: Stekt morot
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_CAULIFLOWER:
+  name: Stekt blomkål
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_CAYENNE_PEPPER:
+  name: Stekt cayennepeppar
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_CELERIAC:
+  name: Stekt rotselleri
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_CELERY:
+  name: Stekt blekselleri
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_CHERRY:
+  name: Stekt körsbär
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_CHESTNUT:
+  name: Stekt kastanj
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_CHICKEN:
+  name: Stekt kyckling
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_CHICKPEAS:
+  name: Stekta kikärtor
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_CHICORY:
+  name: Stekt cikoria
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_CHILLY_PEPPER:
+  name: Stekt chilipeppar
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_CHIVES:
+  name: Stekt gräslök
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_CHORUS_FRUIT:
+  name: Stekt körfrukt
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_CILANTRO:
+  name: Stekt koriander
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_CINNAMON:
+  name: Stekt kanel
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_CLOVE:
+  name: Stekt kryddnejlika
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_COCOA_BEANS:
+  name: Stekta kakaobönor
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_COD:
+  name: Stekt torsk
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_COURGETTE:
+  name: Stekt zucchini
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_CUCUMBER:
+  name: Stekt gurka
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_CUMIN:
+  name: Stekt spiskummin
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_CURRY_LEAF:
+  name: Stekt curryblad
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_DILL:
+  name: Stekt dill
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_EGG:
+  name: Stekt ägg
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_ENCHANTED_GOLDEN_APPLE:
+  name: Stekt förtrollat gyllene äpple
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_FENNEL:
+  name: Stekt fänkål
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_GARLIC:
+  name: Stekt vitlök
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_GINGER:
+  name: Stekt ingefära
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_GLOW_BERRIES:
+  name: Stekta självlysande bär
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_GOLDEN_APPLE:
+  name: Stekt gyllene äpple
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_GOLDEN_CARROT:
+  name: Stekt gyllene morot
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_GRAPE:
+  name: Stekt vindruva
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_GREEN_APPLE:
+  name: Stekt grönt äpple
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_GREEN_BEANS:
+  name: Stekta gröna bönor
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_GREEN_ONION:
+  name: Stekt salladslök
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_HAZELNUT:
+  name: Stekt hasselnöt
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_HORSERADISH:
+  name: Stekt pepparrot
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_JALAPENO:
+  name: Stekt jalapeño
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_JASMINE:
+  name: Stekt jasmin
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_JUNIPER_BERRY:
+  name: Stekta enbär
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_KAFFIR_LIME:
+  name: Stekt kaffirlimeblad
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_KALE:
+  name: Stekt grönkål
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_KELP:
+  name: Stekt kelp
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_KIWI:
+  name: Stekt kiwi
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_LAVENDER:
+  name: Stekt lavendel
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_LEEK:
+  name: Stekt purjolök
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_LEMON:
+  name: Stekt citron
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_LETTUCE:
+  name: Stekt sallad
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_LICORICE:
+  name: Stekt lakrits
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_LIME:
+  name: Stekt lime
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_MACE:
+  name: Stekt muskotblomma
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_MANGO:
+  name: Stekt mango
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_MARJORAM:
+  name: Stekt mejram
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_MARROW:
+  name: Stekt märgpumpa
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_MELON:
+  name: Stekt melon
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_MINT:
+  name: Stekt mynta
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_MUSTARD_SEEDS:
+  name: Stekta senapskorn
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_MUTTON:
+  name: Stekt fårkött
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_NETTLES:
+  name: Stekta brännässlor
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_OKRA:
+  name: Stekt okra
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_ONION:
+  name: Stekt lök
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_ORANGE:
+  name: Stekt apelsin
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_OREGANO:
+  name: Stekt oregano
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_PARSLEY:
+  name: Stekt persilja
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_PARSNIP:
+  name: Stekt palsternacka
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_PEA:
+  name: Stekta ärtor
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_PEACH:
+  name: Stekt persika
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_PEANUT:
+  name: Stekt jordnöt
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_PEAR:
+  name: Stekt päron
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_PECAN:
+  name: Stekt pekannöt
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_PEPPER:
+  name: Stekt svartpeppar
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_PEPPERONI:
+  name: Stekt pepperoni
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_PINEAPPLE:
+  name: Stekt ananas
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_PINTO_BEANS:
+  name: Stekta pintobönor
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_PORKCHOP:
+  name: Stekt fläskkotlett
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_POTATO:
+  name: Stekt potatis
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_PUFFERFISH:
+  name: Stekt blåsfisk
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_PUMPKIN:
+  name: Stekt pumpa
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_RABBIT:
+  name: Stekt kanin
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_RADDISH:
+  name: Stekt rädisa
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_RADICCHIO:
+  name: Stekt radicchio
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_RAPESEED:
+  name: Stekt raps
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_RED_MUSHROOM:
+  name: Stekt röd svamp
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_RHUBARB:
+  name: Stekt rabarber
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_RICE:
+  name: Stekt ris
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_ROSEMARY:
+  name: Stekt rosmarin
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_ROTTEN_FLESH:
+  name: Stekt ruttet kött
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_RUNNER_BEANS:
+  name: Stekta rosenbönor
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_RUTABAGA:
+  name: Stekt kålrot
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_SALMON:
+  name: Stekt lax
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_SASSAFRAS:
+  name: Stekt sassafras
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_SHALLOT:
+  name: Stekt schalottenlök
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_SHISO:
+  name: Stekt shiso
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_SOY_BEANS:
+  name: Stekta sojabönor
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_SPINACH:
+  name: Stekt spenat
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_STAR_ANISE:
+  name: Stekt stjärnanis
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_STRAWBERRY:
+  name: Stekt jordgubbe
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_SUGAR:
+  name: Stekt socker
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_SWEETCORN:
+  name: Stekt sockermajs
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_SWEET_BERRIES:
+  name: Stekta söta bär
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_SWEET_POTATO:
+  name: Stekt sötpotatis
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_TARRAGON:
+  name: Stekt dragon
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_THYME:
+  name: Stekt timjan
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_TOMATO:
+  name: Stekt tomat
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_TURMERIC:
+  name: Stekt gurkmeja
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_TURNIP:
+  name: Stekt rova
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_VANILLA:
+  name: Stekt vanilj
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_WASABI:
+  name: Stekt wasabi
+  type:
+  - '&7&oBiprodukt'
+CLT_FRIED_WHEAT:
+  name: Stekt vete
+  type:
+  - '&7&oBiprodukt'
+CLT_FRUIT_SALAD:
+  name: Fruktsallad
+  type:
+  - '&7&oMat'
+  description:
+  - Om du kallar det sallad kan du äta hur mycket
+  - du vill, för det är ju nyttigt.
+  stats:
+  - '&8⇨ &7Läkning: &b6 hjärtan'
+  - '&8⇨ &bHastighet III &7(10:00)'
+CLT_FUGU:
+  name: Fugu
+  type:
+  - '&7&oMat'
+  description:
+  - Redo att kasta tärningen?
+  stats:
+  - '&8⇨ &7Läkning: &b1 hjärta'
+  - '&8⇨ &bStyrka V &7(10:00)'
+  - '&8⇨ &733% chans att bara dö!'
+CLT_GARDEN_CLOCHE:
+  name: Odlingsklocka
+  type:
+  - '&7&oMaskin'
+  description:
+  - Odlar växter inuti sig automatiskt.
+  stats:
+  - '&8⇨ &7Energi per tick: &b100'
+CLT_GARLIC:
+  name: Vitlök
+  type:
+  - '&7&oRåvara'
+  description:
+  - Snabbt, innan vampyrerna kommer!
+CLT_GARLIC_BUTTER_MUSHROOMS:
+  name: Svamp i vitlökssmör
+  type:
+  - '&7&oMat'
+  description:
+  - Kan mycket väl vara den bästa maten på jorden.
+  stats:
+  - '&8⇨ &7Läkning: &b2 hjärtan'
+  - '&8⇨ &bSjälvlysande I &7(10:00)'
+CLT_GINGER:
+  name: Ingefära
+  type:
+  - '&7&oRåvara'
+  description:
+  - Hackad ingefära i kokande vatten botar alla krämpor!
+CLT_GRAPE:
+  name: Vindruva
+  type:
+  - '&7&oRåvara'
+  description:
+  - Så fyllig!
+CLT_GRAPE_JELLY:
+  name: Vindruvsgelé
+  type:
+  - '&7&oRåvara'
+  description: &id008
+  - Att äta den med sked är ett brott.
+CLT_GREEN_APPLE:
+  name: Grönt äpple
+  type:
+  - '&7&oRåvara'
+  description:
+  - Det står på lappen... Kära lärare?
+CLT_GREEN_BEANS:
+  name: Gröna bönor
+  type:
+  - '&7&oRåvara'
+  description:
+  - Vilket kreativt namn!
+CLT_GREEN_ONION:
+  name: Salladslök
+  type:
+  - '&7&oRåvara'
+  description:
+  - Passar perfekt på tacos!
+CLT_GRILLED_APPLE:
+  name: Grillat äpple
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_APRICOT:
+  name: Grillad aprikos
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_ARTICHOKE:
+  name: Grillad kronärtskocka
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_ASPARAGUS:
+  name: Grillad sparris
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_AUBERGINE:
+  name: Grillad aubergine
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_AVOCADO:
+  name: Grillad avokado
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_BANANA:
+  name: Grillad banan
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_BASIL:
+  name: Grillad basilika
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_BAY_LEAF:
+  name: Grillat lagerblad
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_BEEF:
+  name: Grillat nötkött
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_BEETROOT:
+  name: Grillad rödbeta
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_BELL_PEPPER:
+  name: Grillad paprika
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_BLACK_BEANS:
+  name: Grillade svarta bönor
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_BREAD:
+  name: Grillat bröd
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_BROCCOLI:
+  name: Grillad broccoli
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_BROWN_MUSHROOM:
+  name: Grillad brun svamp
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_BRUSSELS_SPROUTS:
+  name: Grillad brysselkål
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_CABBAGE:
+  name: Grillad kål
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_CARROT:
+  name: Grillad morot
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_CAULIFLOWER:
+  name: Grillad blomkål
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_CAYENNE_PEPPER:
+  name: Grillad cayennepeppar
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_CELERIAC:
+  name: Grillad rotselleri
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_CELERY:
+  name: Grillad blekselleri
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_CHERRY:
+  name: Grillat körsbär
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_CHESTNUT:
+  name: Grillad kastanj
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_CHICKEN:
+  name: Grillad kyckling
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_CHICKPEAS:
+  name: Grillade kikärtor
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_CHICORY:
+  name: Grillad cikoria
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_CHILLY_PEPPER:
+  name: Grillad chilipeppar
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_CHIVES:
+  name: Grillad gräslök
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_CHORUS_FRUIT:
+  name: Grillad körfrukt
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_CILANTRO:
+  name: Grillad koriander
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_CINNAMON:
+  name: Grillad kanel
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_CLOVE:
+  name: Grillad kryddnejlika
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_COCOA_BEANS:
+  name: Grillade kakaobönor
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_COD:
+  name: Grillad torsk
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_COURGETTE:
+  name: Grillad zucchini
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_CUCUMBER:
+  name: Grillad gurka
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_CUMIN:
+  name: Grillad spiskummin
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_CURRY_LEAF:
+  name: Grillat curryblad
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_DILL:
+  name: Grillad dill
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_EGG:
+  name: Grillat ägg
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_ENCHANTED_GOLDEN_APPLE:
+  name: Grillat förtrollat gyllene äpple
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_FENNEL:
+  name: Grillad fänkål
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_GARLIC:
+  name: Grillad vitlök
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_GINGER:
+  name: Grillad ingefära
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_GLOW_BERRIES:
+  name: Grillade självlysande bär
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_GOLDEN_APPLE:
+  name: Grillat gyllene äpple
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_GOLDEN_CARROT:
+  name: Grillad gyllene morot
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_GRAPE:
+  name: Grillad vindruva
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_GREEN_APPLE:
+  name: Grillat grönt äpple
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_GREEN_BEANS:
+  name: Grillade gröna bönor
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_GREEN_ONION:
+  name: Grillad salladslök
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_HAZELNUT:
+  name: Grillad hasselnöt
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_HORSERADISH:
+  name: Grillad pepparrot
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_JALAPENO:
+  name: Grillad jalapeño
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_JASMINE:
+  name: Grillad jasmin
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_JUNIPER_BERRY:
+  name: Grillade enbär
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_KAFFIR_LIME:
+  name: Grillat kaffirlimeblad
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_KALE:
+  name: Grillad grönkål
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_KELP:
+  name: Grillad kelp
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_KIWI:
+  name: Grillad kiwi
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_LAVENDER:
+  name: Grillad lavendel
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_LEEK:
+  name: Grillad purjolök
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_LEMON:
+  name: Grillad citron
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_LETTUCE:
+  name: Grillad sallad
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_LICORICE:
+  name: Grillad lakrits
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_LIME:
+  name: Grillad lime
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_MACE:
+  name: Grillad muskotblomma
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_MANGO:
+  name: Grillad mango
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_MARJORAM:
+  name: Grillad mejram
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_MARROW:
+  name: Grillad märgpumpa
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_MELON:
+  name: Grillad melon
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_MINT:
+  name: Grillad mynta
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_MUSTARD_SEEDS:
+  name: Grillade senapskorn
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_MUTTON:
+  name: Grillat fårkött
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_NETTLES:
+  name: Grillade brännässlor
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_OKRA:
+  name: Grillad okra
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_ONION:
+  name: Grillad lök
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_ORANGE:
+  name: Grillad apelsin
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_OREGANO:
+  name: Grillad oregano
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_PARSLEY:
+  name: Grillad persilja
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_PARSNIP:
+  name: Grillad palsternacka
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_PEA:
+  name: Grillade ärtor
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_PEACH:
+  name: Grillad persika
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_PEANUT:
+  name: Grillad jordnöt
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_PEAR:
+  name: Grillat päron
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_PECAN:
+  name: Grillad pekannöt
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_PEPPER:
+  name: Grillad svartpeppar
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_PEPPERONI:
+  name: Grillad pepperoni
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_PINEAPPLE:
+  name: Grillad ananas
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_PINTO_BEANS:
+  name: Grillade pintobönor
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_PORKCHOP:
+  name: Grillad fläskkotlett
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_POTATO:
+  name: Grillad potatis
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_PUFFERFISH:
+  name: Grillad blåsfisk
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_PUMPKIN:
+  name: Grillad pumpa
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_RABBIT:
+  name: Grillad kanin
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_RADDISH:
+  name: Grillad rädisa
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_RADICCHIO:
+  name: Grillad radicchio
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_RAPESEED:
+  name: Grillad raps
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_RED_MUSHROOM:
+  name: Grillad röd svamp
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_RHUBARB:
+  name: Grillad rabarber
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_RICE:
+  name: Grillat ris
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_ROSEMARY:
+  name: Grillad rosmarin
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_ROTTEN_FLESH:
+  name: Grillat ruttet kött
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_RUNNER_BEANS:
+  name: Grillade rosenbönor
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_RUTABAGA:
+  name: Grillad kålrot
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_SALMON:
+  name: Grillad lax
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_SALMON_SALAD:
+  name: Grillad laxsallad
+  type:
+  - '&7&oMat'
+  description:
+  - Härligt frasig och briljant kryddad.
+  stats:
+  - '&8⇨ &7Läkning: &b4 hjärtan'
+  - '&8⇨ &bÅterhämtning I &7(10:00)'
+  - '&8⇨ &bHälsobonus V &7(10:00)'
+CLT_GRILLED_SASSAFRAS:
+  name: Grillad sassafras
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_SHALLOT:
+  name: Grillad schalottenlök
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_SHISO:
+  name: Grillad shiso
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_SOY_BEANS:
+  name: Grillade sojabönor
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_SPINACH:
+  name: Grillad spenat
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_STAR_ANISE:
+  name: Grillad stjärnanis
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_STRAWBERRY:
+  name: Grillad jordgubbe
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_SUGAR:
+  name: Grillat socker
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_SWEETCORN:
+  name: Grillad sockermajs
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_SWEET_BERRIES:
+  name: Grillade söta bär
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_SWEET_POTATO:
+  name: Grillad sötpotatis
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_TARRAGON:
+  name: Grillad dragon
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_THYME:
+  name: Grillad timjan
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_TOMATO:
+  name: Grillad tomat
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_TURMERIC:
+  name: Grillad gurkmeja
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_TURNIP:
+  name: Grillad rova
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_VANILLA:
+  name: Grillad vanilj
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_WASABI:
+  name: Grillad wasabi
+  type:
+  - '&7&oBiprodukt'
+CLT_GRILLED_WHEAT:
+  name: Grillat vete
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_APPLE:
+  name: Malet äpple
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_APRICOT:
+  name: Malen aprikos
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_ARTICHOKE:
+  name: Malen kronärtskocka
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_ASPARAGUS:
+  name: Malen sparris
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_AUBERGINE:
+  name: Malen aubergine
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_AVOCADO:
+  name: Malen avokado
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_BANANA:
+  name: Malen banan
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_BASIL:
+  name: Malen basilika
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_BAY_LEAF:
+  name: Malet lagerblad
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_BEEF:
+  name: Malet nötkött
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_BEETROOT:
+  name: Malen rödbeta
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_BELL_PEPPER:
+  name: Malen paprika
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_BLACK_BEANS:
+  name: Malna svarta bönor
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_BREAD:
+  name: Malet bröd
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_BROCCOLI:
+  name: Malen broccoli
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_BROWN_MUSHROOM:
+  name: Malen brun svamp
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_BRUSSELS_SPROUTS:
+  name: Malen brysselkål
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_CABBAGE:
+  name: Malen kål
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_CARROT:
+  name: Malen morot
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_CAULIFLOWER:
+  name: Malen blomkål
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_CAYENNE_PEPPER:
+  name: Malen cayennepeppar
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_CELERIAC:
+  name: Malen rotselleri
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_CELERY:
+  name: Malen blekselleri
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_CHERRY:
+  name: Malet körsbär
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_CHESTNUT:
+  name: Malen kastanj
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_CHICKEN:
+  name: Malen kyckling
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_CHICKPEAS:
+  name: Malna kikärtor
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_CHICORY:
+  name: Malen cikoria
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_CHILLY_PEPPER:
+  name: Malen chilipeppar
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_CHIVES:
+  name: Malen gräslök
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_CHORUS_FRUIT:
+  name: Malen körfrukt
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_CILANTRO:
+  name: Malen koriander
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_CINNAMON:
+  name: Malen kanel
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_CLOVE:
+  name: Malen kryddnejlika
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_COCOA_BEANS:
+  name: Malna kakaobönor
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_COD:
+  name: Malen torsk
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_COURGETTE:
+  name: Malen zucchini
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_CUCUMBER:
+  name: Malen gurka
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_CUMIN:
+  name: Malen spiskummin
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_CURRY_LEAF:
+  name: Malet curryblad
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_DILL:
+  name: Malen dill
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_EGG:
+  name: Malet ägg
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_ENCHANTED_GOLDEN_APPLE:
+  name: Malet förtrollat gyllene äpple
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_FENNEL:
+  name: Malen fänkål
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_GARLIC:
+  name: Malen vitlök
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_GINGER:
+  name: Malen ingefära
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_GLOW_BERRIES:
+  name: Malna självlysande bär
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_GOLDEN_APPLE:
+  name: Malet gyllene äpple
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_GOLDEN_CARROT:
+  name: Malen gyllene morot
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_GRAPE:
+  name: Malen vindruva
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_GREEN_APPLE:
+  name: Malet grönt äpple
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_GREEN_BEANS:
+  name: Malna gröna bönor
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_GREEN_ONION:
+  name: Malen salladslök
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_HAZELNUT:
+  name: Malen hasselnöt
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_HORSERADISH:
+  name: Malen pepparrot
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_JALAPENO:
+  name: Malen jalapeño
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_JASMINE:
+  name: Malen jasmin
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_JUNIPER_BERRY:
+  name: Malna enbär
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_KAFFIR_LIME:
+  name: Malet kaffirlimeblad
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_KALE:
+  name: Malen grönkål
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_KELP:
+  name: Malen kelp
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_KIWI:
+  name: Malen kiwi
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_LAVENDER:
+  name: Malen lavendel
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_LEEK:
+  name: Malen purjolök
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_LEMON:
+  name: Malen citron
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_LETTUCE:
+  name: Malen sallad
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_LICORICE:
+  name: Malen lakrits
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_LIME:
+  name: Malen lime
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_MACE:
+  name: Malen muskotblomma
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_MANGO:
+  name: Malen mango
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_MARJORAM:
+  name: Malen mejram
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_MARROW:
+  name: Malen märgpumpa
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_MELON:
+  name: Malen melon
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_MINT:
+  name: Malen mynta
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_MUSTARD_SEEDS:
+  name: Malna senapskorn
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_MUTTON:
+  name: Malet fårkött
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_NETTLES:
+  name: Malna brännässlor
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_OKRA:
+  name: Malen okra
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_ONION:
+  name: Malen lök
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_ORANGE:
+  name: Malen apelsin
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_OREGANO:
+  name: Malen oregano
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_PARSLEY:
+  name: Malen persilja
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_PARSNIP:
+  name: Malen palsternacka
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_PEA:
+  name: Malna ärtor
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_PEACH:
+  name: Malen persika
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_PEANUT:
+  name: Malen jordnöt
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_PEAR:
+  name: Malet päron
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_PECAN:
+  name: Malen pekannöt
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_PEPPER:
+  name: Malen svartpeppar
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_PEPPERONI:
+  name: Malen pepperoni
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_PINEAPPLE:
+  name: Malen ananas
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_PINTO_BEANS:
+  name: Malna pintobönor
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_PORKCHOP:
+  name: Malen fläskkotlett
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_POTATO:
+  name: Malen potatis
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_PUFFERFISH:
+  name: Malen blåsfisk
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_PUMPKIN:
+  name: Malen pumpa
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_RABBIT:
+  name: Malen kanin
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_RADDISH:
+  name: Malen rädisa
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_RADICCHIO:
+  name: Malen radicchio
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_RAPESEED:
+  name: Malen raps
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_RED_MUSHROOM:
+  name: Malen röd svamp
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_RHUBARB:
+  name: Malen rabarber
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_RICE:
+  name: Malet ris
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_ROSEMARY:
+  name: Malen rosmarin
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_ROTTEN_FLESH:
+  name: Malet ruttet kött
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_RUNNER_BEANS:
+  name: Malna rosenbönor
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_RUTABAGA:
+  name: Malen kålrot
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_SALMON:
+  name: Malen lax
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_SASSAFRAS:
+  name: Malen sassafras
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_SHALLOT:
+  name: Malen schalottenlök
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_SHISO:
+  name: Malen shiso
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_SOY_BEANS:
+  name: Malna sojabönor
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_SPINACH:
+  name: Malen spenat
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_STAR_ANISE:
+  name: Malen stjärnanis
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_STRAWBERRY:
+  name: Malen jordgubbe
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_SUGAR:
+  name: Malet socker
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_SWEETCORN:
+  name: Malen sockermajs
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_SWEET_BERRIES:
+  name: Malna söta bär
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_SWEET_POTATO:
+  name: Malen sötpotatis
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_TARRAGON:
+  name: Malen dragon
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_THYME:
+  name: Malen timjan
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_TOMATO:
+  name: Malen tomat
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_TURMERIC:
+  name: Malen gurkmeja
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_TURNIP:
+  name: Malen rova
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_VANILLA:
+  name: Malen vanilj
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_WASABI:
+  name: Malen wasabi
+  type:
+  - '&7&oBiprodukt'
+CLT_GROUND_WHEAT:
+  name: Malet vete
+  type:
+  - '&7&oBiprodukt'
+CLT_HAZELNUT:
+  name: Hasselnöt
+  type:
+  - '&7&oRåvara'
+  description:
+  - Gör vad du än måste för att förvandla det här till
+  - en kaffe åt mig, nu!
+CLT_HORSERADISH:
+  name: Pepparrot
+  type:
+  - '&7&oRåvara'
+  description:
+  - $100 om du biter rakt i den.
+CLT_JALAPENO:
+  name: Jalapeño
+  type:
+  - '&7&oRåvara'
+  description:
+  - HETT HETT HETT.
+CLT_JASMINE:
+  name: Jasmin
+  type:
+  - '&7&oRåvara'
+  description:
+  - Blir ett underbart te.
+CLT_JUNIPER_BERRY:
+  name: Enbär
+  type:
+  - '&7&oRåvara'
+  description:
+  - Torkad till pepprig perfektion.
+CLT_KAFFIR_LIME:
+  name: Kaffirlimeblad
+  type:
+  - '&7&oRåvara'
+  description:
+  - Ett blad med en kraftfull syrlighet.
+CLT_KALE:
+  name: Grönkål
+  type:
+  - '&7&oRåvara'
+  description:
+  - Hjälp, jag är en smoothiehipster från 2020!
+CLT_KETCHUP:
+  name: Ketchup
+  type:
+  - '&7&oRåvara'
+  description:
+  - Bara tomater i krämig form.
+CLT_KEY_LIME_PIE:
+  name: Limepaj
+  type:
+  - '&7&oMat'
+  description:
+  - Helt enkelt bäst!
+  stats:
+  - '&8⇨ &7Läkning: &b6 hjärtan'
+  - '&8⇨ &bSkyndsamhet IV &7(10:00)'
+CLT_KIWI:
+  name: Kiwi
+  type:
+  - '&7&oRåvara'
+  description:
+  - Jag lade till den här i tillägget under tvång.
+  - Kiwier är onda och alla som
+  - använder dem förlorar automatiskt
+  - 100 poäng.
+CLT_LASAGNA:
+  name: Lasagne
+  type:
+  - '&7&oMat'
+  description:
+  - Lager på lager av fantastiskhet.
+  stats:
+  - '&8⇨ &7Läkning: &bFullt'
+  - '&8⇨ &bÅterhämtning II &7(10:00)'
+  - '&8⇨ &bResistens II &7(10:00)'
+CLT_LAVENDER:
+  name: Lavendel
+  type:
+  - '&7&oRåvara'
+  description:
+  - En doft som får mig att sakta glida in i sömnen.
+CLT_LEAVES_TREE_APRICOT:
+  name: Aprikosträdslöv
+  type:
+  - '&7&oLöv'
+CLT_LEAVES_TREE_BANANA:
+  name: Bananträdslöv
+  type:
+  - '&7&oLöv'
+CLT_LEAVES_TREE_CHERRY:
+  name: Körsbärsträdslöv
+  type:
+  - '&7&oLöv'
+CLT_LEAVES_TREE_CHESTNUT:
+  name: Kastanjeträdslöv
+  type:
+  - '&7&oLöv'
+CLT_LEAVES_TREE_GREEN_APPLE:
+  name: Grönäppelträdslöv
+  type:
+  - '&7&oLöv'
+CLT_LEAVES_TREE_HAZELNUT:
+  name: Hasselnötsträdslöv
+  type:
+  - '&7&oLöv'
+CLT_LEAVES_TREE_KIWI:
+  name: Kiwiträdslöv
+  type:
+  - '&7&oLöv'
+CLT_LEAVES_TREE_LEMON:
+  name: Citronträdslöv
+  type:
+  - '&7&oLöv'
+CLT_LEAVES_TREE_LIME:
+  name: Limeträdslöv
+  type:
+  - '&7&oLöv'
+CLT_LEAVES_TREE_MANGO:
+  name: Mangoträdslöv
+  type:
+  - '&7&oLöv'
+CLT_LEAVES_TREE_ORANGE:
+  name: Apelsinträdslöv
+  type:
+  - '&7&oLöv'
+CLT_LEAVES_TREE_PEACH:
+  name: Persikoträdslöv
+  type:
+  - '&7&oLöv'
+CLT_LEAVES_TREE_PEAR:
+  name: Päronträdslöv
+  type:
+  - '&7&oLöv'
+CLT_LEAVES_TREE_PECAN:
+  name: Pekanträdslöv
+  type:
+  - '&7&oLöv'
+CLT_LEAVES_TREE_PINEAPPLE:
+  name: Ananasträdslöv
+  type:
+  - '&7&oLöv'
+CLT_LEEK:
+  name: Purjolök
+  type:
+  - '&7&oRåvara'
+  description:
+  - av någon anledning droppar den av vatten?
+  - Kanske har den fått en purjo-läcka?
+CLT_LEMON:
+  name: Citron
+  type:
+  - '&7&oRåvara'
+  description:
+  - Varför så sur min?
+CLT_LEMON_DROP:
+  name: Citronkaramell
+  type:
+  - '&7&oMat'
+  description:
+  - En gomrensare.
+  stats:
+  - '&8⇨ &7Tar bort alla effekter och gör dig hungrig igen.'
+CLT_LETTUCE:
+  name: Sallad
+  type:
+  - '&7&oRåvara'
+  description:
+  - Tunn, vattnig och ändå läcker.
+CLT_LICORICE:
+  name: Lakrits
+  type:
+  - '&7&oRåvara'
+  description:
+  - Spring, spring iväg nu!
+CLT_LIME:
+  name: Lime
+  type:
+  - '&7&oRåvara'
+  description:
+  - Det var en lime... förlåt, en gång, en läcker frukt...
+CLT_MACE:
+  name: Muskotblomma
+  type:
+  - '&7&oRåvara'
+  description:
+  - Används för att slå angripare i huvudet.
+  - '...'
+  - Vad menar du, muskotblomma är inte en stridsklubba?
+CLT_MANGO:
+  name: Mango
+  type:
+  - '&7&oRåvara'
+  description:
+  - MAN, jag måste GO... gå, alltså.
+  - Lore är svårt...
+CLT_MARJORAM:
+  name: Mejram
+  type:
+  - '&7&oRåvara'
+  description:
+  - Jag har lite curry-bråttom, kan vi prata senare?
+CLT_MARROW:
+  name: Märgpumpa
+  type:
+  - '&7&oRåvara'
+  description:
+  - Visste du att märg finns inuti
+  - dina ben?
+  - Japp, Sefi smaart.
+CLT_MASHED_APPLE:
+  name: Mosat äpple
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_APRICOT:
+  name: Mosad aprikos
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_ARTICHOKE:
+  name: Mosad kronärtskocka
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_ASPARAGUS:
+  name: Mosad sparris
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_AUBERGINE:
+  name: Mosad aubergine
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_AVOCADO:
+  name: Mosad avokado
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_BANANA:
+  name: Mosad banan
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_BASIL:
+  name: Mosad basilika
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_BAY_LEAF:
+  name: Mosat lagerblad
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_BEEF:
+  name: Mosat nötkött
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_BEETROOT:
+  name: Mosad rödbeta
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_BELL_PEPPER:
+  name: Mosad paprika
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_BLACK_BEANS:
+  name: Mosade svarta bönor
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_BREAD:
+  name: Mosat bröd
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_BROCCOLI:
+  name: Mosad broccoli
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_BROWN_MUSHROOM:
+  name: Mosad brun svamp
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_BRUSSELS_SPROUTS:
+  name: Mosad brysselkål
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_CABBAGE:
+  name: Mosad kål
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_CARROT:
+  name: Mosad morot
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_CAULIFLOWER:
+  name: Mosad blomkål
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_CAYENNE_PEPPER:
+  name: Mosad cayennepeppar
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_CELERIAC:
+  name: Mosad rotselleri
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_CELERY:
+  name: Mosad blekselleri
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_CHERRY:
+  name: Mosat körsbär
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_CHESTNUT:
+  name: Mosad kastanj
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_CHICKEN:
+  name: Mosad kyckling
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_CHICKPEAS:
+  name: Mosade kikärtor
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_CHICORY:
+  name: Mosad cikoria
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_CHILLY_PEPPER:
+  name: Mosad chilipeppar
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_CHIVES:
+  name: Mosad gräslök
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_CHORUS_FRUIT:
+  name: Mosad körfrukt
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_CILANTRO:
+  name: Mosad koriander
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_CINNAMON:
+  name: Mosad kanel
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_CLOVE:
+  name: Mosad kryddnejlika
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_COCOA_BEANS:
+  name: Mosade kakaobönor
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_COD:
+  name: Mosad torsk
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_COURGETTE:
+  name: Mosad zucchini
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_CUCUMBER:
+  name: Mosad gurka
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_CUMIN:
+  name: Mosad spiskummin
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_CURRY_LEAF:
+  name: Mosat curryblad
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_DILL:
+  name: Mosad dill
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_EGG:
+  name: Mosat ägg
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_ENCHANTED_GOLDEN_APPLE:
+  name: Mosat förtrollat gyllene äpple
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_FENNEL:
+  name: Mosad fänkål
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_GARLIC:
+  name: Mosad vitlök
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_GINGER:
+  name: Mosad ingefära
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_GLOW_BERRIES:
+  name: Mosade självlysande bär
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_GOLDEN_APPLE:
+  name: Mosat gyllene äpple
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_GOLDEN_CARROT:
+  name: Mosad gyllene morot
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_GRAPE:
+  name: Mosad vindruva
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_GREEN_APPLE:
+  name: Mosat grönt äpple
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_GREEN_BEANS:
+  name: Mosade gröna bönor
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_GREEN_ONION:
+  name: Mosad salladslök
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_HAZELNUT:
+  name: Mosad hasselnöt
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_HORSERADISH:
+  name: Mosad pepparrot
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_JALAPENO:
+  name: Mosad jalapeño
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_JASMINE:
+  name: Mosad jasmin
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_JUNIPER_BERRY:
+  name: Mosade enbär
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_KAFFIR_LIME:
+  name: Mosat kaffirlimeblad
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_KALE:
+  name: Mosad grönkål
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_KELP:
+  name: Mosad kelp
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_KIWI:
+  name: Mosad kiwi
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_LAVENDER:
+  name: Mosad lavendel
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_LEEK:
+  name: Mosad purjolök
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_LEMON:
+  name: Mosad citron
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_LETTUCE:
+  name: Mosad sallad
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_LICORICE:
+  name: Mosad lakrits
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_LIME:
+  name: Mosad lime
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_MACE:
+  name: Mosad muskotblomma
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_MANGO:
+  name: Mosad mango
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_MARJORAM:
+  name: Mosad mejram
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_MARROW:
+  name: Mosad märgpumpa
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_MELON:
+  name: Mosad melon
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_MINT:
+  name: Mosad mynta
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_MUSTARD_SEEDS:
+  name: Mosade senapskorn
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_MUTTON:
+  name: Mosat fårkött
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_NETTLES:
+  name: Mosade brännässlor
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_OKRA:
+  name: Mosad okra
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_ONION:
+  name: Mosad lök
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_ORANGE:
+  name: Mosad apelsin
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_OREGANO:
+  name: Mosad oregano
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_PARSLEY:
+  name: Mosad persilja
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_PARSNIP:
+  name: Mosad palsternacka
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_PEA:
+  name: Mosade ärtor
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_PEACH:
+  name: Mosad persika
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_PEANUT:
+  name: Mosad jordnöt
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_PEAR:
+  name: Mosat päron
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_PECAN:
+  name: Mosad pekannöt
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_PEPPER:
+  name: Mosad svartpeppar
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_PEPPERONI:
+  name: Mosad pepperoni
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_PINEAPPLE:
+  name: Mosad ananas
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_PINTO_BEANS:
+  name: Mosade pintobönor
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_PORKCHOP:
+  name: Mosad fläskkotlett
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_POTATO:
+  name: Mosad potatis
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_PUFFERFISH:
+  name: Mosad blåsfisk
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_PUMPKIN:
+  name: Mosad pumpa
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_RABBIT:
+  name: Mosad kanin
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_RADDISH:
+  name: Mosad rädisa
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_RADICCHIO:
+  name: Mosad radicchio
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_RAPESEED:
+  name: Mosad raps
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_RED_MUSHROOM:
+  name: Mosad röd svamp
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_RHUBARB:
+  name: Mosad rabarber
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_RICE:
+  name: Mosat ris
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_ROSEMARY:
+  name: Mosad rosmarin
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_ROTTEN_FLESH:
+  name: Mosat ruttet kött
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_RUNNER_BEANS:
+  name: Mosade rosenbönor
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_RUTABAGA:
+  name: Mosad kålrot
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_SALMON:
+  name: Mosad lax
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_SASSAFRAS:
+  name: Mosad sassafras
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_SHALLOT:
+  name: Mosad schalottenlök
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_SHISO:
+  name: Mosad shiso
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_SOY_BEANS:
+  name: Mosade sojabönor
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_SPINACH:
+  name: Mosad spenat
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_STAR_ANISE:
+  name: Mosad stjärnanis
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_STRAWBERRY:
+  name: Mosad jordgubbe
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_SUGAR:
+  name: Mosat socker
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_SWEETCORN:
+  name: Mosad sockermajs
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_SWEET_BERRIES:
+  name: Mosade söta bär
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_SWEET_POTATO:
+  name: Mosad sötpotatis
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_TARRAGON:
+  name: Mosad dragon
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_THYME:
+  name: Mosad timjan
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_TOMATO:
+  name: Mosad tomat
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_TURMERIC:
+  name: Mosad gurkmeja
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_TURNIP:
+  name: Mosad rova
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_VANILLA:
+  name: Mosad vanilj
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_WASABI:
+  name: Mosad wasabi
+  type:
+  - '&7&oBiprodukt'
+CLT_MASHED_WHEAT:
+  name: Mosat vete
+  type:
+  - '&7&oBiprodukt'
+CLT_MAYONNAISE:
+  name: Majonnäs
+  type:
+  - '&7&oRåvara'
+  description:
+  - En silkeslen majonnäs som passar till nästan allt.
+CLT_MEATBALLS:
+  name: Köttbullar
+  type:
+  - '&7&oRåvara'
+  description:
+  - Bullar av kött, vem kunde ana.
+CLT_MEATLOAF:
+  name: Köttfärslimpa
+  type:
+  - '&7&oMat'
+  description:
+  - Inget går upp mot det! Kör.
+  stats:
+  - '&8⇨ &7Läkning: &bFullt'
+  - '&8⇨ &bHälsobonus IV &7(10:00)'
+  - '&8⇨ &bResistens III &7(10:00)'
+  - '&8⇨ &bSkyndsamhet II &7(10:00)'
+  - '&8⇨ &bLångsamhet II &7(10:00)'
+CLT_MINT:
+  name: Mynta
+  type:
+  - '&7&oRåvara'
+  description:
+  - Tugga tugga tugga.
+CLT_MUSTARD:
+  name: Senap
+  type:
+  - '&7&oRåvara'
+  description:
+  - Har lite sting!
+CLT_MUSTARD_SEEDS:
+  name: Senapsfrön
+  type:
+  - '&7&oRåvara'
+  description:
+  - Tugga på dem, jag utmanar dig!
+CLT_NETTLES:
+  name: Brännässlor
+  type:
+  - '&7&oRåvara'
+  description:
+  - Ta på dig handskar innan du håller i de här.
+CLT_OKRA:
+  name: Okra
+  type:
+  - '&7&oRåvara'
+  description:
+  - Odlas mycket i Okra-homa... eller hur, ELLER HUR?
+CLT_ONION:
+  name: Lök
+  type:
+  - '&7&oRåvara'
+  description:
+  - Vänta, varför gråter du?
+CLT_ORANGE:
+  name: Apelsin
+  type:
+  - '&7&oRåvara'
+  description:
+  - Är inte det här Apelsinmannen?
+CLT_ORANGE_JUICE:
+  name: Apelsinjuice
+  type:
+  - '&7&oMat'
+  description:
+  - Det är verkligen det bästa sättet att börja dagen.
+  stats:
+  - '&8⇨ &bHastighet IV &7(10:00)'
+CLT_OREGANO:
+  name: Oregano
+  type:
+  - '&7&oRåvara'
+  description:
+  - En klassisk ört som alltid finns i skafferiet.
+CLT_PARSLEY:
+  name: Persilja
+  type:
+  - '&7&oRåvara'
+  description:
+  - Sämsta. Ört. Någonsin.
+CLT_PARSNIP:
+  name: Palsternacka
+  type:
+  - '&7&oRåvara'
+  description:
+  - Kräver rostning omedelbart.
+CLT_PASTA:
+  name: Pasta
+  type:
+  - '&7&oRåvara'
+  description:
+  - Bara vanlig pasta, enkel men underbar.
+CLT_PEA:
+  name: Ärtor
+  type:
+  - '&7&oRåvara'
+  description:
+  - Finns ofta i par i en balja, har jag hört.
+CLT_PEACH:
+  name: Persika
+  type:
+  - '&7&oRåvara'
+  description:
+  - Vi pratar inte om emojin
+CLT_PEANUT:
+  name: Jordnöt
+  type:
+  - '&7&oRåvara'
+  description:
+  - Reese's, här kommer jag!
+CLT_PEANUT_BUTTER:
+  name: Jordnötssmör
+  type:
+  - '&7&oRåvara'
+  description:
+  - Kan bara jämföras med flytande guld.
+CLT_PEANUT_BUTTER_JELLY_SANDWICH:
+  name: Smörgås med jordnötssmör och gelé
+  type:
+  - '&7&oMat'
+  description:
+  - Det är verkligen toppen av smörgåsteknologi.
+  stats:
+  - '&8⇨ &7Läkning: &b5 hjärtan'
+  - '&8⇨ &bStyrka III &7(10:00)'
+CLT_PEAR:
+  name: Päron
+  type:
+  - '&7&oRåvara'
+  description:
+  - Ser den inte helt päron-fekt ut?
+CLT_PECAN:
+  name: Pekannöt
+  type:
+  - '&7&oRåvara'
+  description:
+  - Ber bara om att bli en paj.
+CLT_PECAN_PIE:
+  name: Pekanpaj
+  type:
+  - '&7&oMat'
+  description:
+  - Det enda sättet att äta rent socker utan
+  - att bli totalt dömd.
+  stats:
+  - '&8⇨ &7Läkning: &b4 hjärtan'
+  - '&8⇨ &bLevitation I &7(10:00)'
+CLT_PEPPER:
+  name: Svartpeppar
+  type:
+  - '&7&oRåvara'
+  description:
+  - Kryddigare än salt.
+CLT_PEPPERONI:
+  name: Pepperoni
+  type:
+  - '&7&oRåvara'
+  description:
+  - Jag skulle kunna äta en hel stock av det här, lätt.
+CLT_PICO_DE_GALLO:
+  name: Pico de gallo
+  type:
+  - '&7&oRåvara'
+  description:
+  - En mild salsa full av ren läckerhet.
+CLT_PIE_CRUST:
+  name: Pajskal
+  type:
+  - '&7&oRåvara'
+  description:
+  - Om det vore lagligt att äta den här för sig själv
+  - skulle den vara min huvudsakliga föda.
+CLT_PINEAPPLE:
+  name: Ananas
+  type:
+  - '&7&oRåvara'
+  description:
+  - Den här hör hemma på varenda pizza som finns.
+  - Vill du bråka om det!?
+CLT_PINTO_BEANS:
+  name: Pintobönor
+  type:
+  - '&7&oRåvara'
+  description:
+  - Kaching! Dags för burrito.
+CLT_PIZZA_CHEESE:
+  name: Ostpizza
+  type:
+  - '&7&oMat'
+  description:
+  - Varför någon skulle beställa bara ost? Ingen aning.
+  stats:
+  - '&8⇨ &7Läkning: &b4 hjärtan'
+  - '&8⇨ &bLångsamhet I &7(10:00)'
+CLT_PIZZA_MUSHROOM:
+  name: Svamppizza
+  type:
+  - '&7&oMat'
+  description:
+  - En enkel vegetarisk pizza full av proteiner.
+  stats:
+  - '&8⇨ &7Läkning: &b6 hjärtan'
+  - '&8⇨ &bLångsamhet I &7(10:00)'
+  - '&8⇨ &bSkyndsamhet II &7(10:00)'
+CLT_PIZZA_PEPPERONI:
+  name: Pepperonipizza
+  type:
+  - '&7&oMat'
+  description:
+  - En New York-klassiker full av smak.
+  stats:
+  - '&8⇨ &7Läkning: &b6 hjärtan'
+  - '&8⇨ &bHastighet I &7(10:00)'
+  - '&8⇨ &bSkyndsamhet I &7(10:00)'
+  - '&8⇨ &bHoppstyrka I &7(10:00)'
+CLT_PLANT_AIR:
+  name: Urluftsplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - En växt som tyst nynnar med
+  - melodin från naturen omkring.
+  - '&eUrväxter producerar inga föremål'
+  - '&eoch är bara till för förädling.'
+CLT_PLANT_AMETHYST:
+  name: Ametistplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - Den här växten älskar att frodas på djupa, mörka
+  - platser.
+CLT_PLANT_ANALYSER:
+  name: Växtanalysator
+  type:
+  - '&7&oVerktyg'
+  description:
+  - Ett väldigt enkelt verktyg som låter
+  - dig se detaljerna om en växande växt
+  usage:
+  - '&eHögerklick&7: Visar art och tillväxtdetaljer för en växt.'
+  - '&eShift-högerklick&7: Visar namnet på en växt eller buske.'
+CLT_PLANT_BASALT:
+  name: Basaltplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - En väldigt tråkig och trist växt.
+CLT_PLANT_BEE:
+  name: Biplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - En växt med en väldigt liten, ömtålig uppsättning vingar.
+CLT_PLANT_BLACKSTONE:
+  name: Svartstensplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - En växt som är känd för att absorbera ljus.
+CLT_PLANT_BLAZE:
+  name: Brännarplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - En växt som är svedd längs kanterna.
+CLT_PLANT_CHICKEN:
+  name: Kycklingplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - Ryktet säger att om du håller det här
+  - fröet ovanför huvudet och hoppar från en
+  - hög plats kommer du att glida i stället för att
+  - falla.
+CLT_PLANT_CLAY:
+  name: Lerplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - Den här växten kan formas och omformas fritt.
+  - Det betyder inte att det är en bra idé att göra det,
+  - dock!
+CLT_PLANT_COAL:
+  name: Kolplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - En växt med sådan potential.
+CLT_PLANT_COBBLESTONE:
+  name: Kullerstensplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - Den här växten är hård som sten.
+CLT_PLANT_CONCRETE:
+  name: Betongplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - Den här växten har svårt att växa eftersom
+  - den hårdnar så snabbt.
+CLT_PLANT_COW:
+  name: Koplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - Om du håller upp det här fröet mot örat
+  - och lyssnar mycket noga kan du höra
+  - ett och annat råmande.
+CLT_PLANT_CREEPER:
+  name: Creeperplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - Tsssssssssttt...
+CLT_PLANT_DARKNESS:
+  name: Urmörkerplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - En växt som sjuder av otyglad
+  - ilska.
+  - '&eUrväxter producerar inga föremål'
+  - '&eoch är bara till för förädling.'
+CLT_PLANT_DARK_FLORA:
+  name: Mörkfloraplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - En tyst ondska vilar i det här enkla fröet.
+CLT_PLANT_DARK_GRASS:
+  name: Mörkgräsplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - En växt som verkligen har tappat sin
+  - identitet.
+CLT_PLANT_DEEPSLATE:
+  name: Djupskifferplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - Djup, skiffrig, <infoga lore här>.
+CLT_PLANT_DIAMOND:
+  name: Diamantplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - En växt som bara talar om rikedom.
+CLT_PLANT_DIM_LIT:
+  name: Skymningsplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - Ett väldigt svagt ljus strålar inifrån det här fröet.
+CLT_PLANT_DIRT:
+  name: Jordplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - Smutsig på ytan men bär på
+  - byggstenarna för livet självt.
+CLT_PLANT_DROWNED:
+  name: Drunkningsplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - En växt som är dyblöt, hela
+  - tiden.
+CLT_PLANT_DUSTY:
+  name: Dammplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - Den här växten behöver särskild omsorg, minsta
+  - starka vindpust kan räcka för att den ska falla
+  - sönder.
+CLT_PLANT_EARTH:
+  name: Urjordsplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - En växt som berikar världen
+  - omkring sig.
+  - '&eUrväxter producerar inga föremål'
+  - '&eoch är bara till för förädling.'
+CLT_PLANT_ECHO:
+  name: Ekoplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - Den här växten vet alltid hur den hittar
+  - hem.
+CLT_PLANT_ELDER_GUARDIAN:
+  name: Urväktarplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - Att vara nära den här växten gör folk
+  - tröga.
+CLT_PLANT_EMERALD:
+  name: Smaragdplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - Ägare av den här växten får hoppa
+  - genom ringar bara för att ha råd med den.
+CLT_PLANT_ENDERMAN:
+  name: Endermanplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - Om den inte hanteras varsamt kan den här växten
+  - teleportera sig slumpmässigt!
+CLT_PLANT_ENDER_DRAGON:
+  name: Enderdrakplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - En riktig boss bland växter.
+CLT_PLANT_END_STONE:
+  name: Endstensplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - En växt som surrar av tomrummet.
+CLT_PLANT_FIRE:
+  name: Ureldsplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - En växt som ger både
+  - källorna till förstörelse och
+  - pånyttfödelse.
+  - '&eUrväxter producerar inga föremål'
+  - '&eoch är bara till för förädling.'
+CLT_PLANT_FISH:
+  name: Fiskplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - En mogen doft strömmar från det här fröet.
+CLT_PLANT_FLOWER:
+  name: Blomplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - Ett vackert ymnighetshorn, snyggt presenterat.
+CLT_PLANT_FROG:
+  name: Grodplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - Kvack!
+CLT_PLANT_GHAST:
+  name: Ghastplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - En växt som är känd för att
+  - slumpmässigt skjuta eldklot.
+CLT_PLANT_GLASS:
+  name: Glasplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - Från rätt vinkel kan du
+  - svära på att du ser rakt igenom den här växten.
+CLT_PLANT_GLAZED:
+  name: Glasyrplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - En växt som växer med ett invecklat mönster.
+CLT_PLANT_GLOWING_VINE:
+  name: Lysrankeplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - Ett svagt ljus strålar inifrån det här fröet.
+CLT_PLANT_GLOW_SQUID:
+  name: Lysbläckfiskplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - En glittrande växt med ett svagt sken.
+CLT_PLANT_GOAT:
+  name: Getplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - En slumpmässigt våldsam växt som älskar
+  - att hoppa runt.
+CLT_PLANT_GRASS:
+  name: Gräsplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - Det spirande livet tränger fram
+  - ur marken.
+CLT_PLANT_GRAVEL:
+  name: Grusplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - Den här växten vet verkligen inte hur
+  - den ska hålla ihop sig själv.
+CLT_PLANT_GUARDIAN:
+  name: Väktarplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - När den rörs vid släpper den här växten
+  - taggar.
+CLT_PLANT_IGNEOUS:
+  name: Vulkanplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - Den här växten har formats av värme och
+  - tryck. Titta inte på mig sådär! Alla
+  - de här växtbeskrivningarna är helt logiska.
+CLT_PLANT_LAPIS:
+  name: Lapisplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - En växt med en svag magisk aura.
+CLT_PLANT_LIGHT:
+  name: Urljusplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - En växt som utstrålar en aura
+  - av ren kärlek.
+  - '&eUrväxter producerar inga föremål'
+  - '&eoch är bara till för förädling.'
+CLT_PLANT_MAGMA:
+  name: Magmaplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - En växt som är så het att den bränner
+  - sin omgivning.
+CLT_PLANT_MAGMA_CUBE:
+  name: Magmakubplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - När ingen tittar gillar den här växten
+  - att studsa upp och ner.
+CLT_PLANT_MOSS:
+  name: Mossplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - Den här växten tenderar att sprida sig okontrollerat.
+CLT_PLANT_MUD:
+  name: Gyttjeplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - En växt som är nästan lika smutsig som
+  - marken den kommer ifrån.
+CLT_PLANT_MUSHROOM:
+  name: Svampplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - Japp, en växt som gör svampar.
+  - Allt är helt normalt här borta.
+CLT_PLANT_NETHERRACK:
+  name: Netherrackplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - En tålig, härdig växt som kan överleva
+  - på de flesta platser.
+CLT_PLANT_NETHER_QUARTZ:
+  name: Netherkvartsplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - Den här växten har så vassa törnen att
+  - den är svår att arbeta med.
+CLT_PLANT_PHANTOM:
+  name: Fantomplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - En växt med högresta blad.
+CLT_PLANT_PIG:
+  name: Grisplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - En växt som frustar slumpmässigt.
+CLT_PLANT_POWER:
+  name: Urkraftsplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - En växt som formligen utstrålar kraft.
+  - '&eUrväxter producerar inga föremål'
+  - '&eoch är bara till för förädling.'
+CLT_PLANT_PURPUR:
+  name: Purpurplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - En märklig växt, verkar mycket lättare
+  - än de flesta.
+CLT_PLANT_RABBIT:
+  name: Kaninplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - Insekterna skulle vara stolta.
+CLT_PLANT_RAINBOW:
+  name: Regnbågsplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - Det kanske finns, eller kanske inte, en guldkruka
+  - vid slutet av den här växten.
+CLT_PLANT_RAW_COPPER:
+  name: Råkopparplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - Om den lämnas ifred drar den här växten ibland
+  - till sig blixtar.
+CLT_PLANT_RAW_GOLD:
+  name: Råguldplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - Den här växten blir ofta stulen av piglins
+  - om de är i närheten.
+CLT_PLANT_RAW_IRON:
+  name: Råjärnplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - En robust växt som klarar de flesta
+  - miljöer.
+CLT_PLANT_REDSTONE:
+  name: Redstoneplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - En växt som sprudlar av kraft rakt igenom.
+CLT_PLANT_RED_SAND:
+  name: Rödsandplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - Den här växten kan ibland smula sönder
+  - vid minsta beröring, fast... rödare.
+CLT_PLANT_REINFORCED:
+  name: Förstärkt planta
+  type:
+  - '&7&oVäxt'
+  description:
+  - En växt som kan hålla sig upprätt
+  - genom vad som helst.
+CLT_PLANT_SAND:
+  name: Sandplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - Den här växten kan ibland smula sönder
+  - vid minsta beröring.
+CLT_PLANT_SAPLING:
+  name: Plantskoleplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - Den här växten är inte ens logisk...
+CLT_PLANT_SCRAPPY:
+  name: Skrotplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - Den här växten är verkligen höjdpunkten av
+  - trädgårdskonsten.
+CLT_PLANT_SHEEP:
+  name: Fårplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - En växt med grov, ullig textur.
+CLT_PLANT_SHULKER:
+  name: Shulkerplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - En växt som ofta svävar upp
+  - från marken.
+CLT_PLANT_SKELETON:
+  name: Skelettplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - En växt som skallrar när den svajar.
+CLT_PLANT_SLIME:
+  name: Slemplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - Varför är den så kladdig?
+CLT_PLANT_SOUL:
+  name: Själsplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - En växt som kan höras skrika
+  - när det är tyst.
+CLT_PLANT_SPECTRUM:
+  name: Urspektrumplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - En växt som skiftar en aning i färg.
+  - '&eUrväxter producerar inga föremål'
+  - '&eoch är bara till för förädling.'
+CLT_PLANT_SPIDER:
+  name: Spindelplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - Döda den, döda den NUUU!
+CLT_PLANT_SQUID:
+  name: Bläckfiskplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - Var försiktig, bara att röra vid den här växten
+  - kan få den att spruta bläck över hela
+  - stället.
+CLT_PLANT_STAINED:
+  name: Färgplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - Den här växten delar upp ljus i ett riktigt
+  - spektrum på föremål i närheten.
+CLT_PLANT_TERRA:
+  name: Terraplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - En hård, jordig växt som spricker under tryck.
+CLT_PLANT_TURTLE:
+  name: Sköldpaddeplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - Ett frö omgivet av ett stenhårt skal.
+CLT_PLANT_VILLAGER:
+  name: Byboplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - Japp, vi kondenserade essensen av en bybo
+  - till en växt. Det gjorde tydligen väldigt ont.
+CLT_PLANT_VINE:
+  name: Rankeplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - En växt som omedelbart trasslar in sig
+  - i sig själv.
+CLT_PLANT_WATER:
+  name: Urvattenplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - En växt som vårdar och ger
+  - liv åt omgivningen.
+  - '&eUrväxter producerar inga föremål'
+  - '&eoch är bara till för förädling.'
+CLT_PLANT_WAXY:
+  name: Vaxplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - Saven från den här växten formas till
+  - perfekt ljusformat vax.
+CLT_PLANT_WEALTH:
+  name: Urrikedomsplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - En växt som bara skriker överdådig rikedom.
+  - '&eUrväxter producerar inga föremål'
+  - '&eoch är bara till för förädling.'
+CLT_PLANT_WITCH:
+  name: Häxplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - En växt som låter som att den tyst
+  - mumlar besvärjelser.
+CLT_PLANT_WITHER:
+  name: Witherplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - En dödlig växt som måste hanteras
+  - varsamt.
+CLT_PLANT_WITHER_ROSE:
+  name: Witherrosplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - Den här växten pulserar, på något sätt, med en skadlig
+  - aura omkring sig.
+CLT_PLANT_WITHER_SKELETON:
+  name: Witherskelettplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - En växt känd för att vara svårfångad och härdig.
+CLT_PLANT_WOOLLY:
+  name: Ullplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - En ullig växt, från rot till kronblad!
+CLT_PLANT_ZOMBIE:
+  name: Zombieplanta
+  type:
+  - '&7&oVäxt'
+  description:
+  - Den här växten droppar... något...
+CLT_RADDISH:
+  name: Rädisa
+  type:
+  - '&7&oRåvara'
+  description:
+  - Små fickor av friskt, krispigt solsken.
+CLT_RADICCHIO:
+  name: Radicchio
+  type:
+  - '&7&oRåvara'
+  description:
+  - Att skriva all den här loren tar så lång tid.
+  - Det är radicchio-löjligt.
+CLT_RAMEN_BEEF:
+  name: Nötköttsramen
+  type:
+  - '&7&oMat'
+  description:
+  - Ett inte så nyttigt val.
+  stats: &id004
+  - '&8⇨ &bHälsobonus I &7(10:00)'
+CLT_RAMEN_BEEF_HEARTY:
+  name: Mustig nötköttsramen
+  type:
+  - '&7&oMat'
+  description:
+  - Ett nyttigt val.
+  stats: &id005
+  - '&8⇨ &7Läkning: &bFullt'
+  - '&8⇨ &bHälsobonus II &7(10:00)'
+  - '&8⇨ &bHastighet I &7(10:00)'
+CLT_RAMEN_CHICKEN:
+  name: Kycklingramen
+  type:
+  - '&7&oMat'
+  description:
+  - Ett inte så mättande val.
+  stats: *id004
+CLT_RAMEN_CHICKEN_HEARTY:
+  name: Mustig kycklingramen
+  type:
+  - '&7&oMat'
+  description:
+  - Ett mättande val.
+  stats: *id005
+CLT_RAMEN_SEAFOOD:
+  name: Skaldjursramen
+  type:
+  - '&7&oMat'
+  description:
+  - Ett inte så tillfredsställande val.
+  stats: *id004
+CLT_RAMEN_SEAFOOD_HEARTY:
+  name: Mustig skaldjursramen
+  type:
+  - '&7&oMat'
+  description:
+  - Ett tillfredsställande val.
+  stats: *id005
+CLT_RAPESEED:
+  name: Raps
+  type:
+  - '&7&oRåvara'
+  description:
+  - Används ofta för att framställa oljor.
+CLT_RECIPE_UNLOCK:
+  name: Kunskapsskrift om Cultivation
+  type:
+  - '&7&oVerktyg'
+  description:
+  - Högerklicka för att lära dig ett
+  - förädlingsrecept från Cultivation.
+CLT_RHUBARB:
+  name: Rabarber
+  type:
+  - '&7&oRåvara'
+  description:
+  - Glöm bara inte att ta bort bladen!
+CLT_RICE:
+  name: Ris
+  type:
+  - '&7&oRåvara'
+  description:
+  - Kom ihåg, man lever bara ris!
+CLT_ROSEMARY:
+  name: Rosmarin
+  type:
+  - '&7&oRåvara'
+  description:
+  - Saknar ofta timjan.
+CLT_RUNNER_BEANS:
+  name: Rosenbönor
+  type:
+  - '&7&oRåvara'
+  description:
+  - Försöker alltid komma undan.
+CLT_RUTABAGA:
+  name: Kålrot
+  type:
+  - '&7&oRåvara'
+  description:
+  - Äntligen får den heta kålrot, som sig bör.
+CLT_SALMON_NIGIRI:
+  name: Laxnigiri
+  type:
+  - '&7&oMat'
+  description:
+  - En förtjusande men subtil smak.
+  stats:
+  - '&8⇨ &7Läkning: &b2 hjärtan'
+  - '&8⇨ &bÅterhämtning I &7(10:00)'
+CLT_SASSAFRAS:
+  name: Sassafras
+  type:
+  - '&7&oRåvara'
+  description:
+  - Ätbar root beer, seriöst, googla
+  - det, jag köper det hela tiden nu.
+CLT_SAUSAGE:
+  name: Korv
+  type:
+  - '&7&oMat'
+  description:
+  - Bacons bror.
+  stats: &id007
+  - '&8⇨ &7Läkning: &b1 hjärta'
+CLT_SEED_PACK:
+  name: Fröpåse
+  type:
+  - '&7&oVerktyg'
+  description:
+  - Högerklicka för att öppna den här påsen.
+  stats:
+  - '&8⇨ &7Inställd på: &bIngenting'
+CLT_SHAKSHUKA:
+  name: Shakshuka
+  type:
+  - '&7&oMat'
+  description:
+  - En hjärtevärmande rätt med ägg i massor.
+  stats:
+  - '&8⇨ &7Läkning: &b4 hjärtan'
+  - '&8⇨ &bByns hjälte I &7(10:00)'
+  - '&8⇨ &bTur I &7(10:00)'
+CLT_SHALLOT:
+  name: Schalottenlök
+  type:
+  - '&7&oRåvara'
+  description:
+  - Jag älskar en hel massa schalottenlök.
+CLT_SHEPHERDS_PIE:
+  name: Köttfärspaj
+  type:
+  - '&7&oMat'
+  description:
+  - Varm, mustig och helt enkelt underbar.
+  stats: *id006
+CLT_SHISO:
+  name: Shiso
+  type:
+  - '&7&oRåvara'
+  description:
+  - Mynta med en gnutta kärlek.
+CLT_SLICED_APPLE:
+  name: Skivat äpple
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_APRICOT:
+  name: Skivad aprikos
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_ARTICHOKE:
+  name: Skivad kronärtskocka
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_ASPARAGUS:
+  name: Skivad sparris
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_AUBERGINE:
+  name: Skivad aubergine
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_AVOCADO:
+  name: Skivad avokado
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_BANANA:
+  name: Skivad banan
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_BASIL:
+  name: Skivad basilika
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_BAY_LEAF:
+  name: Skivat lagerblad
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_BEEF:
+  name: Skivat nötkött
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_BEETROOT:
+  name: Skivad rödbeta
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_BELL_PEPPER:
+  name: Skivad paprika
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_BLACK_BEANS:
+  name: Skivade svarta bönor
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_BREAD:
+  name: Skivat bröd
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_BROCCOLI:
+  name: Skivad broccoli
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_BROWN_MUSHROOM:
+  name: Skivad brun svamp
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_BRUSSELS_SPROUTS:
+  name: Skivad brysselkål
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_CABBAGE:
+  name: Skivad kål
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_CARROT:
+  name: Skivad morot
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_CAULIFLOWER:
+  name: Skivad blomkål
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_CAYENNE_PEPPER:
+  name: Skivad cayennepeppar
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_CELERIAC:
+  name: Skivad rotselleri
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_CELERY:
+  name: Skivad blekselleri
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_CHERRY:
+  name: Skivat körsbär
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_CHESTNUT:
+  name: Skivad kastanj
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_CHICKEN:
+  name: Skivad kyckling
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_CHICKPEAS:
+  name: Skivade kikärtor
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_CHICORY:
+  name: Skivad cikoria
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_CHILLY_PEPPER:
+  name: Skivad chilipeppar
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_CHIVES:
+  name: Skivad gräslök
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_CHORUS_FRUIT:
+  name: Skivad körfrukt
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_CILANTRO:
+  name: Skivad koriander
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_CINNAMON:
+  name: Skivad kanel
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_CLOVE:
+  name: Skivad kryddnejlika
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_COCOA_BEANS:
+  name: Skivade kakaobönor
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_COD:
+  name: Skivad torsk
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_COURGETTE:
+  name: Skivad zucchini
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_CUCUMBER:
+  name: Skivad gurka
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_CUMIN:
+  name: Skivad spiskummin
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_CURRY_LEAF:
+  name: Skivat curryblad
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_DILL:
+  name: Skivad dill
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_EGG:
+  name: Skivat ägg
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_ENCHANTED_GOLDEN_APPLE:
+  name: Skivat förtrollat gyllene äpple
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_FENNEL:
+  name: Skivad fänkål
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_GARLIC:
+  name: Skivad vitlök
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_GINGER:
+  name: Skivad ingefära
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_GLOW_BERRIES:
+  name: Skivade självlysande bär
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_GOLDEN_APPLE:
+  name: Skivat gyllene äpple
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_GOLDEN_CARROT:
+  name: Skivad gyllene morot
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_GRAPE:
+  name: Skivad vindruva
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_GREEN_APPLE:
+  name: Skivat grönt äpple
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_GREEN_BEANS:
+  name: Skivade gröna bönor
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_GREEN_ONION:
+  name: Skivad salladslök
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_HAZELNUT:
+  name: Skivad hasselnöt
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_HORSERADISH:
+  name: Skivad pepparrot
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_JALAPENO:
+  name: Skivad jalapeño
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_JASMINE:
+  name: Skivad jasmin
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_JUNIPER_BERRY:
+  name: Skivade enbär
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_KAFFIR_LIME:
+  name: Skivat kaffirlimeblad
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_KALE:
+  name: Skivad grönkål
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_KELP:
+  name: Skivad kelp
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_KIWI:
+  name: Skivad kiwi
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_LAVENDER:
+  name: Skivad lavendel
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_LEEK:
+  name: Skivad purjolök
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_LEMON:
+  name: Skivad citron
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_LETTUCE:
+  name: Skivad sallad
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_LICORICE:
+  name: Skivad lakrits
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_LIME:
+  name: Skivad lime
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_MACE:
+  name: Skivad muskotblomma
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_MANGO:
+  name: Skivad mango
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_MARJORAM:
+  name: Skivad mejram
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_MARROW:
+  name: Skivad märgpumpa
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_MELON:
+  name: Skivad melon
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_MINT:
+  name: Skivad mynta
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_MUSTARD_SEEDS:
+  name: Skivade senapskorn
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_MUTTON:
+  name: Skivat fårkött
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_NETTLES:
+  name: Skivade brännässlor
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_OKRA:
+  name: Skivad okra
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_ONION:
+  name: Skivad lök
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_ORANGE:
+  name: Skivad apelsin
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_OREGANO:
+  name: Skivad oregano
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_PARSLEY:
+  name: Skivad persilja
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_PARSNIP:
+  name: Skivad palsternacka
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_PEA:
+  name: Skivade ärtor
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_PEACH:
+  name: Skivad persika
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_PEANUT:
+  name: Skivad jordnöt
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_PEAR:
+  name: Skivat päron
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_PECAN:
+  name: Skivad pekannöt
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_PEPPER:
+  name: Skivad svartpeppar
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_PEPPERONI:
+  name: Skivad pepperoni
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_PINEAPPLE:
+  name: Skivad ananas
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_PINTO_BEANS:
+  name: Skivade pintobönor
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_PORKCHOP:
+  name: Skivad fläskkotlett
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_POTATO:
+  name: Skivad potatis
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_PUFFERFISH:
+  name: Skivad blåsfisk
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_PUMPKIN:
+  name: Skivad pumpa
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_RABBIT:
+  name: Skivad kanin
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_RADDISH:
+  name: Skivad rädisa
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_RADICCHIO:
+  name: Skivad radicchio
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_RAPESEED:
+  name: Skivad raps
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_RED_MUSHROOM:
+  name: Skivad röd svamp
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_RHUBARB:
+  name: Skivad rabarber
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_RICE:
+  name: Skivat ris
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_ROSEMARY:
+  name: Skivad rosmarin
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_ROTTEN_FLESH:
+  name: Skivat ruttet kött
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_RUNNER_BEANS:
+  name: Skivade rosenbönor
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_RUTABAGA:
+  name: Skivad kålrot
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_SALMON:
+  name: Skivad lax
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_SASSAFRAS:
+  name: Skivad sassafras
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_SHALLOT:
+  name: Skivad schalottenlök
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_SHISO:
+  name: Skivad shiso
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_SOY_BEANS:
+  name: Skivade sojabönor
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_SPINACH:
+  name: Skivad spenat
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_STAR_ANISE:
+  name: Skivad stjärnanis
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_STRAWBERRY:
+  name: Skivad jordgubbe
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_SUGAR:
+  name: Skivat socker
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_SWEETCORN:
+  name: Skivad sockermajs
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_SWEET_BERRIES:
+  name: Skivade söta bär
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_SWEET_POTATO:
+  name: Skivad sötpotatis
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_TARRAGON:
+  name: Skivad dragon
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_THYME:
+  name: Skivad timjan
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_TOMATO:
+  name: Skivad tomat
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_TURMERIC:
+  name: Skivad gurkmeja
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_TURNIP:
+  name: Skivad rova
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_VANILLA:
+  name: Skivad vanilj
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_WASABI:
+  name: Skivad wasabi
+  type:
+  - '&7&oBiprodukt'
+CLT_SLICED_WHEAT:
+  name: Skivat vete
+  type:
+  - '&7&oBiprodukt'
+CLT_SOFT_BOILED_EGG:
+  name: Löskokt ägg
+  type:
+  - '&7&oMat'
+  description:
+  - Bara ett kokt ägg, vad mer finns att säga.
+  stats:
+  - '&8⇨ &7Läkning: &b1 hjärta'
+  - '&8⇨ &7Kan ibland kalla på en höna till din hjälp.'
+CLT_SOYLENT:
+  name: Soylent
+  type:
+  - '&7&oMat'
+  description:
+  - Allt kroppen behöver!
+  stats:
+  - '&8⇨ &bOnd föraning I &7(10:00)'
+  - '&8⇨ &bSvaghet IV &7(10:00)'
+CLT_SOY_BEANS:
+  name: Sojabönor
+  type:
+  - '&7&oRåvara'
+  description:
+  - Sojamjölken kommer.
+CLT_SPAGHETTI:
+  name: Spaghetti
+  type:
+  - '&7&oMat'
+  description:
+  - Fortsätt bara sörpla.
+  stats: *id007
+CLT_SPAGHETTI_AND_MEATBALLS:
+  name: Spaghetti med köttbullar
+  type:
+  - '&7&oMat'
+  description:
+  - Enkel, klassisk och mustig.
+  stats:
+  - '&8⇨ &7Läkning: &b1 hjärta'
+  - '&8⇨ &bOnd föraning I &7(10:00)'
+CLT_SPINACH:
+  name: Spenat
+  type:
+  - '&7&oRåvara'
+  description:
+  - Vissnad med kärlek.
+CLT_STAR_ANISE:
+  name: Stjärnanis
+  type:
+  - '&7&oRåvara'
+  description:
+  - En av de bästa och mest unika smakerna.
+CLT_STRAWBERRY:
+  name: Jordgubbe
+  type:
+  - '&7&oRåvara'
+  description:
+  - Tillsätt bara grädde!
+CLT_STRAWBERRY_JELLY:
+  name: Jordgubbsgelé
+  type:
+  - '&7&oRåvara'
+  description: *id008
+CLT_SUGARED_SKULL:
+  name: Sockerdödskalle
+  type:
+  - '&7&oMat'
+  description:
+  - Är det här ens mat...?
+  stats:
+  - '&8⇨ &bMörker III &7(10:00)'
+CLT_SWEETCORN:
+  name: Sockermajs
+  type:
+  - '&7&oRåvara'
+  description:
+  - Kanske den bästa grönsaken som finns.
+CLT_SWEET_BEEHIVE:
+  name: Söt bikupa
+  type:
+  - '&7&oMat'
+  description:
+  - Inte säker på vad som fick dig att vilja laga det här!
+  stats:
+  - '&8⇨ &7Frammanar några bin!'
+CLT_SWEET_POTATO:
+  name: Sötpotatis
+  type:
+  - '&7&oRåvara'
+  description:
+  - Jams jams jams.
+CLT_TAQUITO:
+  name: Taquito
+  type:
+  - '&7&oMat'
+  description:
+  - Zim skulle vara stolt!
+  stats:
+  - '&8⇨ &7Läkning: &b4 hjärtan'
+  - '&8⇨ &7Frammanar Gir som hjälp (det är en järngolem, lugn).'
+CLT_TARRAGON:
+  name: Dragon
+  type:
+  - '&7&oRåvara'
+  description:
+  - Jag har bokstavligen det här på allt.
+  - 'Spoiler: Jag är ingen bra kock.'
+CLT_TATER_TOTS:
+  name: Potatiskroketter
+  type:
+  - '&7&oMat'
+  description:
+  - Små poppbara potatisbitar.
+  stats:
+  - '&8⇨ &7Läkning: &b0.5 hjärtan'
+  - '&8⇨ &bHastighet II &7(10:00)'
+CLT_THYME:
+  name: Timjan
+  type:
+  - '&7&oRåvara'
+  description:
+  - Saknade ofta rosmarin.
+CLT_TOMATO:
+  name: Tomat
+  type:
+  - '&7&oRåvara'
+  description:
+  - Direkt från rankan.... öh... busken?
+CLT_TORTILLAS:
+  name: Tortillas
+  type:
+  - '&7&oRåvara'
+  description:
+  - Majsmjölsfröjder
+CLT_TREE_APRICOT:
+  name: Aprikosträd
+  type:
+  - '&7&oPlanta'
+  description:
+  - Inuti finns en enda kärna av förtvivlan.
+  stats: &id009
+  - '&8⇨ &7Design av: &bBWhite'
+CLT_TREE_BANANA:
+  name: Bananträd
+  type:
+  - '&7&oPlanta'
+  description:
+  - Ett träd som växer fingrar, makabert!
+  stats:
+  - '&8⇨ &7Design av: &bSefiraat'
+CLT_TREE_CHERRY:
+  name: Körsbärsträd
+  type:
+  - '&7&oPlanta'
+  description:
+  - Knyt knuten!
+  stats:
+  - '&8⇨ &7Design av: &bReasonFoundDecoy'
+CLT_TREE_CHESTNUT:
+  name: Kastanjeträd
+  type:
+  - '&7&oPlanta'
+  description:
+  - Ett träd som uppenbarligen är gjort för att klättra i.
+  stats: &id010
+  - '&8⇨ &7Design av: &bABitOddish'
+CLT_TREE_GREEN_APPLE:
+  name: Grönäppelträd
+  type:
+  - '&7&oPlanta'
+  description:
+  - Ger stora och krispiga gröna äpplen.
+  stats: *id009
+CLT_TREE_HAZELNUT:
+  name: Hasselnötsträd
+  type:
+  - '&7&oPlanta'
+  description:
+  - Att skaka det här trädet är ett barndomsnöje.
+  stats: *id010
+CLT_TREE_KIWI:
+  name: Kiwiträd
+  type:
+  - '&7&oPlanta'
+  description:
+  - Ett nyzeeländskt träd? Har jag fattat rätt?
+  stats: *id010
+CLT_TREE_LEMON:
+  name: Citronträd
+  type:
+  - '&7&oPlanta'
+  description:
+  - Bara att titta på det här trädet smakar surt.
+  stats: &id011
+  - '&8⇨ &7Design av: &bJeff'
+CLT_TREE_LIME:
+  name: Limeträd
+  type:
+  - '&7&oPlanta'
+  description:
+  - Visste du att limefrukter bara är citroner som håller andan?
+  stats: *id010
+CLT_TREE_MANGO:
+  name: Mangoträd
+  type:
+  - '&7&oPlanta'
+  description:
+  - Bäst när den är som mognast.
+  stats: *id009
+CLT_TREE_ORANGE:
+  name: Apelsinträd
+  type:
+  - '&7&oPlanta'
+  description:
+  - Små klot av solsken.
+  stats: *id011
+CLT_TREE_PEACH:
+  name: Persikoträd
+  type:
+  - '&7&oPlanta'
+  description:
+  - James letade efter det här, tror jag?
+  stats: *id010
+CLT_TREE_PEAR:
+  name: Päronträd
+  type:
+  - '&7&oPlanta'
+  description:
+  - Ett par päron parades ihop för paritetens skull.
+  stats: *id009
+CLT_TREE_PECAN:
+  name: Pekanträd
+  type:
+  - '&7&oPlanta'
+  description:
+  - Kan vi odla det här trädet? Ja, vi pe-kan!
+  stats: *id009
+CLT_TREE_PINEAPPLE:
+  name: Ananasträd
+  type:
+  - '&7&oPlanta'
+  description:
+  - VAR ÄR MIN PIZZA?
+  stats: *id010
+CLT_TURMERIC:
+  name: Gurkmeja
+  type:
+  - '&7&oRåvara'
+  description:
+  - En stark, myskig närvaro som fyller ut många rätter.
+CLT_TURNIP:
+  name: Rova
+  type:
+  - '&7&oRåvara'
+  description:
+  - Löser alla livets problem.
+CLT_VANILLA:
+  name: Vanilj
+  type:
+  - '&7&oRåvara'
+  description:
+  - 'Instruktioner: Doppa direkt i en latte'
+CLT_WASABI:
+  name: Wasabi
+  type:
+  - '&7&oRåvara'
+  description:
+  - Hjälp... wasabi...
+CLT_WITHER_ROSE_SALAD:
+  name: Witherrossallad
+  type:
+  - '&7&oMat'
+  description:
+  - Fylld av kraft men med en hård bieffekt.
+  stats:
+  - '&8⇨ &7Läkning: &bFullt'
+  - '&8⇨ &bVissnande II &7(10:00)'
+  - '&8⇨ &bHälsobonus XX &7(10:00)'

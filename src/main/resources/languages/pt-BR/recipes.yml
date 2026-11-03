@@ -1,0 +1,87 @@
+cultivation:
+  bush_harvest:
+    name: Colheita de Arbustos
+    lore:
+    - Este item pode ser colhido de um
+    - Arbusto do Cultivation
+  tree_harvest:
+    name: Colheita de Árvores
+    lore:
+    - Este item pode ser colhido de uma
+    - Árvore do Cultivation
+  trading_farmer:
+    name: Troca com Aldeões
+    lore:
+    - Este item pode ser comprado de um
+    - aldeão fazendeiro.
+  trading_fletcher:
+    name: Troca com Aldeões
+    lore:
+    - Este item pode ser comprado de um
+    - aldeão flecheiro.
+  mob:
+    name: Drop de Criatura
+    lore:
+    - Este item tem chance de ser dropado
+    - pela(s) seguinte(s) criatura(s).
+  plant_breeding:
+    name: Cruzamento de Plantas
+    lore:
+    - Esta semente é obtida por cruzamento.
+    - Você cruza plantas colocando
+    - duas plantas com um bloco de ar
+    - entre elas.
+    - ''
+    - O dicionário de cruzamentos pode ser usado
+    - para acompanhar suas descobertas.
+    - ''
+    - 'Dica: Partículas pretas significam que as'
+    - duas plantas NÃO PODEM cruzar.
+  vanilla_block_drop:
+    name: Drop do Mundo
+    lore:
+    - Cai de blocos quebrados no mundo.
+  bucketing:
+    name: Drop do Mundo
+    lore:
+    - Obtido do mundo usando um balde.
+  chopped:
+    name: Picado
+    lore:
+    - É só picar com uma faca!
+  mashed:
+    name: Amassado
+    lore:
+    - Amassa Amassa Amassa
+  blended:
+    name: Batido
+    lore:
+    - Feito colocando um item no liquidificador.
+  sliced:
+    name: Fatiado
+    lore:
+    - Tão fino e delicado
+  ground:
+    name: Moído
+    lore:
+    - Bem fininho
+  boiled:
+    name: Cozido
+    lore:
+    - Quente quente quente!
+  fried:
+    name: Frito
+    lore:
+    - Perfeição Crocante.
+  grilled:
+    name: Grelhado
+    lore:
+    - Suculento e Macio.
+  finishing:
+    name: Finalização
+    lore:
+    - Use o balcão de finalização da cozinha para fazer este item.
+  baking:
+    name: Assado
+    lore:
+    - Use o balcão do forno da cozinha para fazer este item.

@@ -1,0 +1,87 @@
+cultivation:
+  bush_harvest:
+    name: Buskskörd
+    lore:
+    - Det här föremålet kan skördas från en
+    - Cultivation-buske
+  tree_harvest:
+    name: Trädskörd
+    lore:
+    - Det här föremålet kan skördas från ett
+    - Cultivation-träd
+  trading_farmer:
+    name: Byteshandel med bybor
+    lore:
+    - Det här föremålet kan köpas av en
+    - bybo som är bonde.
+  trading_fletcher:
+    name: Byteshandel med bybor
+    lore:
+    - Det här föremålet kan köpas av en
+    - bybo som är pilmakare.
+  mob:
+    name: Varelsedrop
+    lore:
+    - Det här föremålet kan släppas av
+    - följande varelse(r).
+  plant_breeding:
+    name: Växtförädling
+    lore:
+    - Det här fröet hittas genom förädling.
+    - Du förädlar växter genom att placera
+    - två växter med ett luftblock
+    - mellan dem.
+    - ''
+    - Förädlingsordboken kan användas
+    - för att hålla koll på dina upptäckter.
+    - ''
+    - 'Tips: Svarta partiklar betyder att de'
+    - två växterna INTE KAN förädlas.
+  vanilla_block_drop:
+    name: Världsdrop
+    lore:
+    - Släpps från block när de bryts i världen.
+  bucketing:
+    name: Världsdrop
+    lore:
+    - Fås från världen med en hink.
+  chopped:
+    name: Hackning
+    lore:
+    - Hacka bara med en kniv!
+  mashed:
+    name: Mosning
+    lore:
+    - Mosa mosa mosa
+  blended:
+    name: Mixning
+    lore:
+    - Görs genom att lägga ett föremål i mixern.
+  sliced:
+    name: Skivning
+    lore:
+    - Så tunt och ömtåligt
+  ground:
+    name: Malning
+    lore:
+    - Fint malet
+  boiled:
+    name: Kokning
+    lore:
+    - Hett hett hett!
+  fried:
+    name: Stekning
+    lore:
+    - Krispig perfektion.
+  grilled:
+    name: Grillning
+    lore:
+    - Saftigt och mört.
+  finishing:
+    name: Färdigställning
+    lore:
+    - Använd köksbänkens färdigställningsstation för att göra det här föremålet.
+  baking:
+    name: Bakning
+    lore:
+    - Använd köksbänkens ugn för att göra det här föremålet.

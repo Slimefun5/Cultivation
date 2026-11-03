@@ -1,0 +1,13 @@
+cultivation:
+  main: Cultivation
+  hidden: Dold
+  crafting: Tillverkningsföremål
+  tools: Verktyg
+  machines: Maskiner
+  plants: Växter
+  bushes: Buskar
+  trees: Träd
+  produce: Råvaror
+  by-products: Biprodukter
+  foods: Mat
+  plant_codex: Växtkodex

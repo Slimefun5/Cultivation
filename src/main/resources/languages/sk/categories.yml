@@ -1,0 +1,13 @@
+cultivation:
+  main: Cultivation
+  hidden: Skryté
+  crafting: Výrobné predmety
+  tools: Nástroje
+  machines: Stroje
+  plants: Rastliny
+  bushes: Kry
+  trees: Stromy
+  produce: Úroda
+  by-products: Vedľajšie produkty
+  foods: Jedlá
+  plant_codex: Kódex rastlín

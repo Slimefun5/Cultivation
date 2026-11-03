@@ -1,0 +1,87 @@
+cultivation:
+  bush_harvest:
+    name: 덤불 수확
+    lore:
+    - 이 아이템은 컬티베이션 덤불에서
+    - 수확할 수 있어요
+  tree_harvest:
+    name: 나무 수확
+    lore:
+    - 이 아이템은 컬티베이션 나무에서
+    - 수확할 수 있어요
+  trading_farmer:
+    name: 주민 거래
+    lore:
+    - 이 아이템은 농부 주민에게서
+    - 살 수 있어요.
+  trading_fletcher:
+    name: 주민 거래
+    lore:
+    - 이 아이템은 화살 제작자 주민에게서
+    - 살 수 있어요.
+  mob:
+    name: 몹 드롭
+    lore:
+    - 이 아이템은 다음 몹에게서
+    - 일정 확률로 떨어져요.
+  plant_breeding:
+    name: 식물 교배
+    lore:
+    - 이 씨앗은 교배로 얻어요.
+    - 두 식물을 심고 그 사이에
+    - 공기 블록 하나를 비워 두면
+    - 교배할 수 있어요.
+    - ''
+    - 교배 사전으로
+    - 발견한 것을 기록할 수 있어요.
+    - ''
+    - '힌트: 검은 입자가 보이면'
+    - 두 식물은 교배할 수 없어요.
+  vanilla_block_drop:
+    name: 월드 드롭
+    lore:
+    - 월드에서 블록을 부수면 떨어져요.
+  bucketing:
+    name: 월드 드롭
+    lore:
+    - 양동이를 사용하면 월드에서 얻어요.
+  chopped:
+    name: 다지기
+    lore:
+    - 칼로 다지기만 하면 끝!
+  mashed:
+    name: 으깨기
+    lore:
+    - 으깨고 으깨고 으깨고
+  blended:
+    name: 믹서에 갈기
+    lore:
+    - 아이템을 믹서에 넣어 만들어요.
+  sliced:
+    name: 얇게 썰기
+    lore:
+    - 아주 얇고 섬세하게
+  ground:
+    name: 빻기
+    lore:
+    - 곱디곱게
+  boiled:
+    name: 삶기
+    lore:
+    - 뜨거, 뜨거, 뜨거!
+  fried:
+    name: 볶기
+    lore:
+    - 바삭바삭 완벽하게.
+  grilled:
+    name: 그릴 구이
+    lore:
+    - 촉촉하고 부드럽게.
+  finishing:
+    name: 마무리
+    lore:
+    - 주방의 마무리 조리대에서 이 아이템을 만들어요.
+  baking:
+    name: 오븐 굽기
+    lore:
+    - 주방의 오븐 조리대에서 이 아이템을 만들어요.
