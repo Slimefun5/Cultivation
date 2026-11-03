@@ -1,0 +1,65 @@
+lore:
+  seed-pack-set-to: Зададзена
+  knowledge-script-unlocks: Адкрывае
+  drop-level: Узровень здабычы
+  growth-speed: Хуткасць росту
+  breed-strength: Сіла скрыжавання
+command:
+  no-permission: У вас няма дазволу на гэта.
+  invalid-subcommand: Укажыце правільную падкаманду.
+  players-only: Гэтую каманду можа выканаць толькі гулец.
+  hold-seed-pack: Для гэтага трэба трымаць у руцэ пакет насення.
+  pack-empty: Гэты пакет пусты!
+  pack-contents: Змесціва
+  pack-entry: Узровень %level%, хуткасць %speed%, сіла %strength%
+kitchen:
+  recipe-disabled: Гэты рэцэпт адключаны.
+  no-recipe: Няма адпаведнага рэцэпта.
+  not-enough-power: Недастаткова энергіі.
+  input-empty: Пакладзіце прадмет у слот уводу.
+  cooked: Смачна!
+food:
+  eaten: Цудоўна! Вы наеліся ўдосталь.
+  not-hungry: Вы яшчэ не галодныя! Есці можна толькі раз на палову дня (10 хвілін).
+  palate-cleansed: Вы адчуваеце, як ачышчаецца смак у роце.
+  ouch: Ай!
+knowledge-script:
+  learned: 'Вы навучыліся скрыжоўваць: %plant%.'
+seed-pack:
+  title: Пакет насення
+  unstack-first: Спачатку раздзяліце стос пакетаў насення.
+  not-a-seed: Прадмет павінен быць насеннем расліны Культывейшн.
+  empty-before-change: Спачатку апусташыце пакет, а потым мяняйце расліну.
+  no-plant-set: Вы яшчэ не задалі расліну.
+  none-stored: У вас няма гэтага насення на такіх узроўнях.
+  set-here: Задаць насенне тут
+  retrieve-here: Забраць тут
+  no-seed-set: Насенне не зададзена
+  no-seed-set-lore:
+  - Націсніце на значок злева,
+  - трымаючы насенне, каб задаць пакет.
+  empty-set: Пуста
+  empty-set-lore:
+  - У вас няма насення, якое адпавядае
+  - гэтым узроўням.
+  stored-seed: Тып насення ў пакеце
+  take-seed: Узяць насенне з пакета
+  level: Узровень
+  speed: Хуткасць
+  strength: Сіла
+  left-click: ЛКМ
+  right-click: ПКМ
+  increase: 'Павялічыць: %stat%'
+  decrease: 'Паменшыць: %stat%'
+  current: Цяпер
+codex:
+  title: Кодэкс раслін
+  child: Даччыная расліна
+  mother: Мацярынская расліна
+  father: Бацькоўская расліна
+  growth-rate: Тэмп росту
+  not-discovered: Не адкрыта
+  not-discovered-lore:
+  - Вы яшчэ не адкрылі, як
+  - скрыжаваць гэтую расліну!
+  discovery: Адкрыццё

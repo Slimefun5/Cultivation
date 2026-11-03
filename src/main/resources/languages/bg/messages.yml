@@ -1,0 +1,65 @@
+lore:
+  seed-pack-set-to: Зададено
+  knowledge-script-unlocks: Отключва
+  drop-level: Ниво на добив
+  growth-speed: Скорост на растеж
+  breed-strength: Сила на кръстосване
+command:
+  no-permission: Нямаш разрешение да правиш това.
+  invalid-subcommand: Моля, посочи валидна подкоманда.
+  players-only: Тази команда може да се изпълни само от играч.
+  hold-seed-pack: Трябва да държиш пакет семена за това.
+  pack-empty: Този пакет е празен!
+  pack-contents: Съдържание
+  pack-entry: Ниво %level%, скорост %speed%, сила %strength%
+kitchen:
+  recipe-disabled: Тази рецепта е изключена.
+  no-recipe: Няма съвпадаща рецепта.
+  not-enough-power: Няма достатъчно енергия.
+  input-empty: Сложи предмет във входния слот.
+  cooked: Вкусно!
+food:
+  eaten: Чудесно! Напълно си заситен.
+  not-hungry: Още не си гладен! Можеш да ядеш само веднъж на половин ден (10 минути).
+  palate-cleansed: Усещаш как небцето ти се прочиства.
+  ouch: Ох!
+knowledge-script:
+  learned: Научи как да кръстосваш %plant%.
+seed-pack:
+  title: Пакет семена
+  unstack-first: Първо трябва да разделиш купчината пакети семена.
+  not-a-seed: Предметът трябва да е семе на растение от Култивейшн.
+  empty-before-change: Трябва да изпразниш пакета, преди да смениш растението му.
+  no-plant-set: Все още не си задал растение.
+  none-stored: Нямаш от това семе с тези нива.
+  set-here: Задай семе тук
+  retrieve-here: Вземи оттук
+  no-seed-set: Няма зададено семе
+  no-seed-set-lore:
+  - Кликни иконата отляво,
+  - докато държиш семе, за да зададеш пакета.
+  empty-set: Празен набор
+  empty-set-lore:
+  - Нямаш семена, отговарящи на
+  - тези нива.
+  stored-seed: Вид на съхраненото семе
+  take-seed: Вземи семе от пакета
+  level: Ниво
+  speed: Скорост
+  strength: Сила
+  left-click: Ляв клик
+  right-click: Десен клик
+  increase: Увеличи %stat%
+  decrease: Намали %stat%
+  current: Текущо
+codex:
+  title: Кодекс на растение
+  child: Растение-дете
+  mother: Растение-майка
+  father: Растение-баща
+  growth-rate: Темп на растеж
+  not-discovered: Неоткрито
+  not-discovered-lore:
+  - Още не си открил как
+  - да кръстосаш това растение!
+  discovery: Откритие

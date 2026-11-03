@@ -1,0 +1,65 @@
+lore:
+  seed-pack-set-to: Поставено на
+  knowledge-script-unlocks: Отклучува
+  drop-level: Ниво на плен
+  growth-speed: Брзина на раст
+  breed-strength: Сила на вкрстување
+command:
+  no-permission: Немаш дозвола да го направиш ова.
+  invalid-subcommand: Те молам, внеси валидна поднаредба.
+  players-only: Оваа наредба може да ја изврши само играч.
+  hold-seed-pack: За ова мора да држиш пакет семиња.
+  pack-empty: Овој пакет е празен!
+  pack-contents: Содржина
+  pack-entry: Ниво %level%, брзина %speed%, сила %strength%
+kitchen:
+  recipe-disabled: Овој рецепт е оневозможен.
+  no-recipe: Нема соодветен рецепт.
+  not-enough-power: Нема доволно енергија.
+  input-empty: Стави предмет во влезното место.
+  cooked: Вкусно!
+food:
+  eaten: Прекрасно! Сосема си сит.
+  not-hungry: Сè уште не си гладен! Можеш да јадеш само еднаш на половина ден (10 минути).
+  palate-cleansed: Чувствуваш како ти се чисти непцето.
+  ouch: Леле!
+knowledge-script:
+  learned: Научи како да вкрстуваш %plant%.
+seed-pack:
+  title: Пакет семиња
+  unstack-first: Прво мора да ги раздвоиш пакетите семиња.
+  not-a-seed: Предметот мора да биде семе од растение од Култивејшн.
+  empty-before-change: Мора да го испразниш пакетот пред да го смениш растението.
+  no-plant-set: Сè уште не си поставил растение.
+  none-stored: Немаш од ова семе на овие нивоа.
+  set-here: Постави семе тука
+  retrieve-here: Земи тука
+  no-seed-set: Нема поставено семе
+  no-seed-set-lore:
+  - Кликни на иконата лево
+  - додека држиш семе за да го поставиш пакетот.
+  empty-set: Празен сет
+  empty-set-lore:
+  - Немаш семиња што одговараат на
+  - овие нивоа.
+  stored-seed: Вид зачувано семе
+  take-seed: Земи семе од пакетот
+  level: Ниво
+  speed: Брзина
+  strength: Сила
+  left-click: Лев клик
+  right-click: Десен клик
+  increase: Зголеми %stat%
+  decrease: Намали %stat%
+  current: Тековно
+codex:
+  title: Кодекс на растенија
+  child: Растение-дете
+  mother: Растение-мајка
+  father: Растение-татко
+  growth-rate: Стапка на раст
+  not-discovered: Неоткриено
+  not-discovered-lore:
+  - Сè уште не си открил како
+  - да го вкрстиш ова растение!
+  discovery: Откритие

@@ -1,0 +1,6674 @@
+CLT_APRICOT:
+  name: Кајсија
+  type:
+  - '&7&oРод'
+  description:
+  - Од овие можеш да направиш покебол.
+  - '...'
+  - Како мислиш дека тоа е друга работа...?
+CLT_ARTICHOKE:
+  name: Артичока
+  type:
+  - '&7&oРод'
+  description:
+  - Ишчупај му го СРЦЕТО!
+CLT_ASPARAGUS:
+  name: Шпаргла
+  type:
+  - '&7&oРод'
+  description:
+  - Внимавај кога подоцна ќе одиш во тоалет.
+CLT_AUBERGINE:
+  name: Модар патлиџан
+  type:
+  - '&7&oРод'
+  description:
+  - Светло виолетов, а пак го викаме „модар"?
+  - Подобро „виолетов патлиџан", нели?
+CLT_AVOCADO:
+  name: Авокадо
+  type:
+  - '&7&oРод'
+  description:
+  - За ова сонуваат хипстерите.
+CLT_BACON_SANDWICH:
+  name: Сендвич со сланина
+  type:
+  - '&7&oХрана'
+  description:
+  - Едноставна класика!
+  stats:
+  - '&8⇨ &7Лекување: &b2 срца'
+  - '&8⇨ &bСила I &7(10:00)'
+  - '&8⇨ &bБрзина I &7(10:00)'
+CLT_BAGEL:
+  name: Ѓеврек
+  type:
+  - '&7&oХрана'
+  description:
+  - Тостиран? Или...
+  stats:
+  - '&8⇨ &7Лекување: &b2.5 срца'
+CLT_BAGEL_BITE:
+  name: Мини ѓеврек
+  type:
+  - '&7&oХрана'
+  description:
+  - Јади пица во секое време!
+  stats:
+  - '&8⇨ &7Ти ја пече устата со секој залак!'
+CLT_BAGEL_CREAM_CHEESE:
+  name: Ѓеврек со крем сирење
+  type:
+  - '&7&oХрана'
+  description:
+  - Толку е добро што веројатно ќе посакаш уште едно.
+  stats:
+  - '&8⇨ &7Лекување: &b5 срца'
+  - '&8⇨ &bЗасилено здравје I &7(10:00)'
+CLT_BANANA:
+  name: Банана
+  type:
+  - '&7&oРод'
+  description:
+  - Ми се допаѓа како изгледа, а уште повеќе како се лупи!
+CLT_BASIL:
+  name: Босилок
+  type:
+  - '&7&oРод'
+  description:
+  - Сладок лист со благ пиперлив вкус на крајот.
+CLT_BAY_LEAF:
+  name: Ловоров лист
+  type:
+  - '&7&oРод'
+  description:
+  - Силна арома со многу употреби.
+CLT_BELL_PEPPER:
+  name: Бабура
+  type:
+  - '&7&oРод'
+  description:
+  - Ѕвони вистинито, баш како ѕвонче.
+CLT_BISCUIT:
+  name: Погачка
+  type:
+  - '&7&oХрана'
+  description:
+  - Мала грицка со огромен вкус.
+  stats: &id002
+  - '&8⇨ &7Те исфрла во воздух'
+CLT_BISCUIT_BASE:
+  name: Основа за погачки
+  type:
+  - '&7&oРод'
+  description:
+  - Само затоа што сега е рамно, не значи
+  - дека можеш да го јадеш сурово.
+CLT_BISCUIT_DOUGH:
+  name: Тесто за погачки
+  type:
+  - '&7&oРод'
+  description:
+  - 'Само потсети се: „Не јади го сурово."'
+CLT_BLACK_BEANS:
+  name: Црн грав
+  type:
+  - '&7&oРод'
+  description:
+  - Вкусен вегетаријански протеин.
+CLT_BLENDED_APPLE:
+  name: Миксано јаболко
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_APRICOT:
+  name: Миксана кајсија
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_ARTICHOKE:
+  name: Миксана артичока
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_ASPARAGUS:
+  name: Миксана шпаргла
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_AUBERGINE:
+  name: Миксан модар патлиџан
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_AVOCADO:
+  name: Миксано авокадо
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_BANANA:
+  name: Миксана банана
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_BASIL:
+  name: Миксан босилок
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_BAY_LEAF:
+  name: Миксан ловоров лист
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_BEEF:
+  name: Миксано говедско месо
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_BEETROOT:
+  name: Миксано цвекло
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_BELL_PEPPER:
+  name: Миксана бабура
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_BLACK_BEANS:
+  name: Миксан црн грав
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_BREAD:
+  name: Миксан леб
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_BROCCOLI:
+  name: Миксана брокула
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_BROWN_MUSHROOM:
+  name: Миксана кафеава печурка
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_BRUSSELS_SPROUTS:
+  name: Миксан прокељ
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_CABBAGE:
+  name: Миксана зелка
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_CARROT:
+  name: Миксан морков
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_CAULIFLOWER:
+  name: Миксан карфиол
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_CAYENNE_PEPPER:
+  name: Миксан кајенски пипер
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_CELERIAC:
+  name: Миксан коренест целер
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_CELERY:
+  name: Миксан целер
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_CHERRY:
+  name: Миксана цреша
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_CHESTNUT:
+  name: Миксан костен
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_CHICKEN:
+  name: Миксано пилешко месо
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_CHICKPEAS:
+  name: Миксан наут
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_CHICORY:
+  name: Миксана цикорија
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_CHILLY_PEPPER:
+  name: Миксана лута пиперка
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_CHIVES:
+  name: Миксан власец
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_CHORUS_FRUIT:
+  name: Миксано хорус овошје
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_CILANTRO:
+  name: Миксан коријандер
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_CINNAMON:
+  name: Миксан цимет
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_CLOVE:
+  name: Миксано каранфилче
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_COCOA_BEANS:
+  name: Миксани какаови зрна
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_COD:
+  name: Миксан бакалар
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_COURGETTE:
+  name: Миксана тиквичка
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_CUCUMBER:
+  name: Миксана краставица
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_CUMIN:
+  name: Миксан ким
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_CURRY_LEAF:
+  name: Миксан лист од кари
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_DILL:
+  name: Миксан копар
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_EGG:
+  name: Миксано јајце
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_ENCHANTED_GOLDEN_APPLE:
+  name: Миксано маѓепсано златно јаболко
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_FENNEL:
+  name: Миксан морач
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_GARLIC:
+  name: Миксан лук
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_GINGER:
+  name: Миксан ѓумбир
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_GLOW_BERRIES:
+  name: Миксани сјајни бобинки
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_GOLDEN_APPLE:
+  name: Миксано златно јаболко
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_GOLDEN_CARROT:
+  name: Миксан златен морков
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_GRAPE:
+  name: Миксано грозје
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_GREEN_APPLE:
+  name: Миксано зелено јаболко
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_GREEN_BEANS:
+  name: Миксана боранија
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_GREEN_ONION:
+  name: Миксан млад кромид
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_HAZELNUT:
+  name: Миксан лешник
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_HORSERADISH:
+  name: Миксан рен
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_JALAPENO:
+  name: Миксан халапењо
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_JASMINE:
+  name: Миксан јасмин
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_JUNIPER_BERRY:
+  name: Миксани бобинки од смрека
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_KAFFIR_LIME:
+  name: Миксан лист од кафир лимета
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_KALE:
+  name: Миксан кељ
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_KELP:
+  name: Миксана алга
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_KIWI:
+  name: Миксано киви
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_LAVENDER:
+  name: Миксана лаванда
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_LEEK:
+  name: Миксан праз
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_LEMON:
+  name: Миксан лимон
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_LETTUCE:
+  name: Миксана марула
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_LICORICE:
+  name: Миксан сладник
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_LIME:
+  name: Миксана лимета
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_MACE:
+  name: Миксан мушкатов цвет
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_MANGO:
+  name: Миксано манго
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_MARJORAM:
+  name: Миксан мајоран
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_MARROW:
+  name: Миксана летна тиква
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_MELON:
+  name: Миксана лубеница
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_MINT:
+  name: Миксано нане
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_MUSTARD_SEEDS:
+  name: Миксани зрна синап
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_MUTTON:
+  name: Миксано овчо месо
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_NETTLES:
+  name: Миксани коприви
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_OKRA:
+  name: Миксана бамја
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_ONION:
+  name: Миксан кромид
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_ORANGE:
+  name: Миксан портокал
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_OREGANO:
+  name: Миксано оригано
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_PARSLEY:
+  name: Миксан магдонос
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_PARSNIP:
+  name: Миксан пашканат
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_PEA:
+  name: Миксан грашок
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_PEACH:
+  name: Миксана праска
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_PEANUT:
+  name: Миксана кикиритка
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_PEAR:
+  name: Миксана круша
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_PECAN:
+  name: Миксан пекан
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_PEPPER:
+  name: Миксан црн пипер
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_PEPPERONI:
+  name: Миксани пеперони
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_PINEAPPLE:
+  name: Миксан ананас
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_PINTO_BEANS:
+  name: Миксан пинто грав
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_PORKCHOP:
+  name: Миксано свинско месо
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_POTATO:
+  name: Миксан компир
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_PUFFERFISH:
+  name: Миксана риба-балон
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_PUMPKIN:
+  name: Миксана тиква
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_RABBIT:
+  name: Миксано зајачко месо
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_RADDISH:
+  name: Миксана ротквица
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_RADICCHIO:
+  name: Миксан радич
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_RAPESEED:
+  name: Миксана маслодајна репка
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_RED_MUSHROOM:
+  name: Миксана црвена печурка
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_RHUBARB:
+  name: Миксан равентл
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_RICE:
+  name: Миксан ориз
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_ROSEMARY:
+  name: Миксан рузмарин
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_ROTTEN_FLESH:
+  name: Миксано скапано месо
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_RUNNER_BEANS:
+  name: Миксан грав пречкар
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_RUTABAGA:
+  name: Миксана шведска репа
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_SALMON:
+  name: Миксан лосос
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_SASSAFRAS:
+  name: Миксан сасафрас
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_SHALLOT:
+  name: Миксан шалот
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_SHISO:
+  name: Миксано шисо
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_SOY_BEANS:
+  name: Миксана соја
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_SPINACH:
+  name: Миксан спанаќ
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_STAR_ANISE:
+  name: Миксан ѕвездест анасон
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_STRAWBERRY:
+  name: Миксана јагода
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_SUGAR:
+  name: Миксан шеќер
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_SWEETCORN:
+  name: Миксана пченка
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_SWEET_BERRIES:
+  name: Миксани слатки бобинки
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_SWEET_POTATO:
+  name: Миксан сладок компир
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_TARRAGON:
+  name: Миксан естрагон
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_THYME:
+  name: Миксана мајчина душица
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_TOMATO:
+  name: Миксан домат
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_TURMERIC:
+  name: Миксана куркума
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_TURNIP:
+  name: Миксана репа
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_VANILLA:
+  name: Миксана ванила
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_WASABI:
+  name: Миксано васаби
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLENDED_WHEAT:
+  name: Миксана пченица
+  type:
+  - '&7&oНуспроизвод'
+CLT_BLUE_CANDY:
+  name: Сина бонбона
+  type:
+  - '&7&oХрана'
+  description:
+  - Прекрасно слатка бонбона.
+  stats:
+  - '&8⇨ &7Создава Алеј'
+CLT_BOILED_APPLE:
+  name: Варено јаболко
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_APRICOT:
+  name: Варена кајсија
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_ARTICHOKE:
+  name: Варена артичока
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_ASPARAGUS:
+  name: Варена шпаргла
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_AUBERGINE:
+  name: Варен модар патлиџан
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_AVOCADO:
+  name: Варено авокадо
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_BANANA:
+  name: Варена банана
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_BASIL:
+  name: Варен босилок
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_BAY_LEAF:
+  name: Варен ловоров лист
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_BEEF:
+  name: Варено говедско месо
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_BEETROOT:
+  name: Варено цвекло
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_BELL_PEPPER:
+  name: Варена бабура
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_BLACK_BEANS:
+  name: Варен црн грав
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_BREAD:
+  name: Варен леб
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_BROCCOLI:
+  name: Варена брокула
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_BROWN_MUSHROOM:
+  name: Варена кафеава печурка
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_BRUSSELS_SPROUTS:
+  name: Варен прокељ
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_CABBAGE:
+  name: Варена зелка
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_CARROT:
+  name: Варен морков
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_CAULIFLOWER:
+  name: Варен карфиол
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_CAYENNE_PEPPER:
+  name: Варен кајенски пипер
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_CELERIAC:
+  name: Варен коренест целер
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_CELERY:
+  name: Варен целер
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_CHERRY:
+  name: Варена цреша
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_CHESTNUT:
+  name: Варен костен
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_CHICKEN:
+  name: Варено пилешко месо
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_CHICKPEAS:
+  name: Варен наут
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_CHICORY:
+  name: Варена цикорија
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_CHILLY_PEPPER:
+  name: Варена лута пиперка
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_CHIVES:
+  name: Варен власец
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_CHORUS_FRUIT:
+  name: Варено хорус овошје
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_CILANTRO:
+  name: Варен коријандер
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_CINNAMON:
+  name: Варен цимет
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_CLOVE:
+  name: Варено каранфилче
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_COCOA_BEANS:
+  name: Варени какаови зрна
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_COD:
+  name: Варен бакалар
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_COURGETTE:
+  name: Варена тиквичка
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_CUCUMBER:
+  name: Варена краставица
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_CUMIN:
+  name: Варен ким
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_CURRY_LEAF:
+  name: Варен лист од кари
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_DILL:
+  name: Варен копар
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_EGG:
+  name: Варено јајце
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_ENCHANTED_GOLDEN_APPLE:
+  name: Варено маѓепсано златно јаболко
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_FENNEL:
+  name: Варен морач
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_GARLIC:
+  name: Варен лук
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_GINGER:
+  name: Варен ѓумбир
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_GLOW_BERRIES:
+  name: Варени сјајни бобинки
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_GOLDEN_APPLE:
+  name: Варено златно јаболко
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_GOLDEN_CARROT:
+  name: Варен златен морков
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_GRAPE:
+  name: Варено грозје
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_GREEN_APPLE:
+  name: Варено зелено јаболко
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_GREEN_BEANS:
+  name: Варена боранија
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_GREEN_ONION:
+  name: Варен млад кромид
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_HAZELNUT:
+  name: Варен лешник
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_HORSERADISH:
+  name: Варен рен
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_JALAPENO:
+  name: Варен халапењо
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_JASMINE:
+  name: Варен јасмин
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_JUNIPER_BERRY:
+  name: Варени бобинки од смрека
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_KAFFIR_LIME:
+  name: Варен лист од кафир лимета
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_KALE:
+  name: Варен кељ
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_KELP:
+  name: Варена алга
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_KIWI:
+  name: Варено киви
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_LAVENDER:
+  name: Варена лаванда
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_LEEK:
+  name: Варен праз
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_LEMON:
+  name: Варен лимон
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_LETTUCE:
+  name: Варена марула
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_LICORICE:
+  name: Варен сладник
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_LIME:
+  name: Варена лимета
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_MACE:
+  name: Варен мушкатов цвет
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_MANGO:
+  name: Варено манго
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_MARJORAM:
+  name: Варен мајоран
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_MARROW:
+  name: Варена летна тиква
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_MELON:
+  name: Варена лубеница
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_MINT:
+  name: Варено нане
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_MUSTARD_SEEDS:
+  name: Варени зрна синап
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_MUTTON:
+  name: Варено овчо месо
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_NETTLES:
+  name: Варени коприви
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_OKRA:
+  name: Варена бамја
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_ONION:
+  name: Варен кромид
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_ORANGE:
+  name: Варен портокал
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_OREGANO:
+  name: Варено оригано
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_PARSLEY:
+  name: Варен магдонос
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_PARSNIP:
+  name: Варен пашканат
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_PEA:
+  name: Варен грашок
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_PEACH:
+  name: Варена праска
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_PEANUT:
+  name: Варена кикиритка
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_PEAR:
+  name: Варена круша
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_PECAN:
+  name: Варен пекан
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_PEPPER:
+  name: Варен црн пипер
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_PEPPERONI:
+  name: Варени пеперони
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_PINEAPPLE:
+  name: Варен ананас
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_PINTO_BEANS:
+  name: Варен пинто грав
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_PORKCHOP:
+  name: Варено свинско месо
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_POTATO:
+  name: Варен компир
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_PUFFERFISH:
+  name: Варена риба-балон
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_PUMPKIN:
+  name: Варена тиква
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_RABBIT:
+  name: Варено зајачко месо
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_RADDISH:
+  name: Варена ротквица
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_RADICCHIO:
+  name: Варен радич
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_RAPESEED:
+  name: Варена маслодајна репка
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_RED_MUSHROOM:
+  name: Варена црвена печурка
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_RHUBARB:
+  name: Варен равентл
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_RICE:
+  name: Варен ориз
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_ROSEMARY:
+  name: Варен рузмарин
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_ROTTEN_FLESH:
+  name: Варено скапано месо
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_RUNNER_BEANS:
+  name: Варен грав пречкар
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_RUTABAGA:
+  name: Варена шведска репа
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_SALMON:
+  name: Варен лосос
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_SASSAFRAS:
+  name: Варен сасафрас
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_SHALLOT:
+  name: Варен шалот
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_SHISO:
+  name: Варено шисо
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_SOY_BEANS:
+  name: Варена соја
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_SPINACH:
+  name: Варен спанаќ
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_STAR_ANISE:
+  name: Варен ѕвездест анасон
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_STRAWBERRY:
+  name: Варена јагода
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_SUGAR:
+  name: Варен шеќер
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_SWEETCORN:
+  name: Варена пченка
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_SWEET_BERRIES:
+  name: Варени слатки бобинки
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_SWEET_POTATO:
+  name: Варен сладок компир
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_TARRAGON:
+  name: Варен естрагон
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_THYME:
+  name: Варена мајчина душица
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_TOMATO:
+  name: Варен домат
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_TURMERIC:
+  name: Варена куркума
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_TURNIP:
+  name: Варена репа
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_VANILLA:
+  name: Варена ванила
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_WASABI:
+  name: Варено васаби
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOILED_WHEAT:
+  name: Варена пченица
+  type:
+  - '&7&oНуспроизвод'
+CLT_BOWL_OF_STEVE:
+  name: Чинија со... Стив?
+  type:
+  - '&7&oХрана'
+  description:
+  - Што е ова, по ѓаволите, &%£$
+  stats:
+  - '&8⇨ &bРударски замор X &7(10:00)'
+  - '&8⇨ &bБавност VI &7(10:00)'
+  - '&8⇨ &bСила X &7(10:00)'
+  - '&8⇨ &7Те спушта на 1/2 срце'
+CLT_BROCCOLI:
+  name: Брокула
+  type:
+  - '&7&oРод'
+  description:
+  - Дали си џин што држи дрво?
+  - Не бе, само мало дрвце :)
+CLT_BRUSSELS_SPROUTS:
+  name: Прокељ
+  type:
+  - '&7&oРод'
+  description:
+  - Гасовито задоволство.
+CLT_BUSH_ARTICHOKE:
+  name: Грмушка од артичока
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Убедливо најдобрата грмушка за давење
+  - уметник. Ех. Каламбурите се тешки.
+CLT_BUSH_ASPARAGUS:
+  name: Грмушка од шпаргла
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Оваа грмушка од шпаргла е одличен
+  - прогонувач, стебло по стебло!
+CLT_BUSH_AUBERGINE:
+  name: Грмушка од модар патлиџан
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Одбивам да го викам „јајчен плод". Едноставно одбивам.
+CLT_BUSH_AVOCADO:
+  name: Грмушка од авокадо
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Оваа грмушка е одгледана специјално за да не
+  - троши премногу вода.
+CLT_BUSH_BASIL:
+  name: Грмушка од босилок
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Безгрижна грмушка полна со каприци.
+CLT_BUSH_BAY_LEAF:
+  name: Грмушка од ловор
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Мирисот на оваа грмушка се шири со километри.
+CLT_BUSH_BELL_PEPPER:
+  name: Грмушка од бабура
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Внимавај кога минуваш покрај неа, може да
+  - го зачукаш ѕвончето.
+CLT_BUSH_BLACK_BEANS:
+  name: Грмушка од црн грав
+  type:
+  - '&7&oГрмушка'
+  description:
+  - 'Оваа грмушка нежно ти шепоти:'
+  - Ти си одлично човечко зрно грав.
+CLT_BUSH_BROCCOLI:
+  name: Грмушка од брокула
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Мали дрвца што се јадат? Кој го измисли ова!?
+CLT_BUSH_BRUSSELS_SPROUTS:
+  name: Грмушка од прокељ
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Грмушка што понекогаш испушта отровни
+  - гасови.
+CLT_BUSH_CABBAGE:
+  name: Грмушка од зелка
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Грмушка што носи огромен товар
+  - емотивна зелка.
+CLT_BUSH_CAULIFLOWER:
+  name: Грмушка од карфиол
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Грмушка што може да создава мали облачиња
+  - задоволство.
+CLT_BUSH_CAYENNE_PEPPER:
+  name: Грмушка од кајенски пипер
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Грмушка со пиперлив став.
+CLT_BUSH_CELERIAC:
+  name: Грмушка од коренест целер
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Уште еден корен што расте на грмушка?
+  - СефиГлупав™
+CLT_BUSH_CELERY:
+  name: Грмушка од целер
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Оваа грмушка е непотребна.
+  - Сефи не сака целер.
+CLT_BUSH_CHICKPEAS:
+  name: Грмушка од наут
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Грмушка создадена со вкрстување кокошка
+  - и грашок. НАУКА.
+CLT_BUSH_CHICORY:
+  name: Грмушка од цикорија
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Мислев дека цикоријата е корен? Дали овој додаток
+  - воопшто се информирал за нешто!?
+CLT_BUSH_CHILLI_PEPPER:
+  name: Грмушка од лута пиперка
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Само гледањето во оваа грмушка ми го пече јазикот.
+CLT_BUSH_CHIVES:
+  name: Грмушка од власец
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Грмушка што дава нешто што е, практично, најмалиот
+  - кромид на светот.
+CLT_BUSH_CILANTRO:
+  name: Грмушка од коријандер
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Од оваа грмушка се шири благ мирис на цитрус и зачини.
+CLT_BUSH_CINNAMON:
+  name: Грмушка од цимет
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Прекрасно мирислива грмушка.
+CLT_BUSH_CLOVE:
+  name: Грмушка од каранфилче
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Грмушка што едноставно ме потсетува на Божиќ.
+CLT_BUSH_COURGETTE:
+  name: Грмушка од тиквичка
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Зошто оваа грмушка постојано го извикува
+  - зборот „цукини"? Мора да е Американка?
+CLT_BUSH_CUCUMBER:
+  name: Грмушка од краставица
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Оваа грмушка е создадена единствено за
+  - твоите прекрасни летни салати.
+CLT_BUSH_CUMIN:
+  name: Грмушка од ким
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Грмушка што испушта топла цитрусна арома.
+CLT_BUSH_CURRY_LEAF:
+  name: Грмушка од кари
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Најдобро кога е печено на суво.
+CLT_BUSH_DILL:
+  name: Грмушка од копар
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Оваа грмушка расте многу побрзо од другите.
+CLT_BUSH_FENNEL:
+  name: Грмушка од морач
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Зошто оваа грмушка ги брка бубачките!?
+CLT_BUSH_GARLIC:
+  name: Грмушка од лук
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Оваа грмушка има најлош здив на светот.
+CLT_BUSH_GINGER:
+  name: Грмушка од ѓумбир
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Оваа грмушка е убава кога се вари цела.
+CLT_BUSH_GRAPE:
+  name: Грмушка од грозје
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Зрело и сочно грозје што речиси само
+  - паѓа од грмушката.
+CLT_BUSH_GREEN_BEANS:
+  name: Грмушка од боранија
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Истури сос од домати врз оваа грмушка
+  - и ќе добиеш печен грав.
+CLT_BUSH_GREEN_ONION:
+  name: Грмушка од млад кромид
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Позната и како млад кромид.
+  - Младиот кромид обично има
+  - поблаг вкус од повеќето кромиди.
+CLT_BUSH_HORSERADISH:
+  name: Грмушка од рен
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Повторно, ова да расте на грмушка едноставно нема смисла.
+CLT_BUSH_JALAPENO:
+  name: Грмушка од халапењо
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Само држењето на оваа грмушка ти дава
+  - 1% шанса да се запалиш.
+CLT_BUSH_JASMINE:
+  name: Грмушка од јасмин
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Мирисот на оваа грмушка е толку мек и благ.
+CLT_BUSH_JUNIPER_BERRY:
+  name: Грмушка од смрека
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Толку сладок на грмушката, а пиперлив кога ќе се исуши.
+CLT_BUSH_KAFFIR_LIME:
+  name: Грмушка од кафир лимета
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Грмушка чии листови се посакувани повеќе од плодот.
+CLT_BUSH_KALE:
+  name: Грмушка од кељ
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Кога ќе ја засадиш оваа грмушка, имаш чувство
+  - дека сè ќе биде кељ-ко добро.
+CLT_BUSH_LAVENDER:
+  name: Грмушка од лаванда
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Оваа грмушка го шири својот мирис насекаде.
+CLT_BUSH_LEEK:
+  name: Грмушка од праз
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Дали знаеше дека празот е само кромид што
+  - носи корсет? Вистинска приказна.
+CLT_BUSH_LETTUCE:
+  name: Грмушка од марула
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Дали марулата воопшто расте на грмушки?
+  - 'Спојлер: Не, не расте.'
+CLT_BUSH_LICORICE:
+  name: Грмушка од сладник
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Одвратно
+CLT_BUSH_MACE:
+  name: Грмушка од мушкатов цвет
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Се чини дека оваа грмушка ги одбива напаѓачите?
+CLT_BUSH_MARJORAM:
+  name: Грмушка од мајоран
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Голема грмушка со мирис на дрво.
+CLT_BUSH_MARROW:
+  name: Грмушка од летна тиква
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Изненаден сум што оваа грмушка може да ја
+  - издржи сопствената тежина.
+CLT_BUSH_MINT:
+  name: Грмушка од нане
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Едноставно најмирисливата грмушка.
+CLT_BUSH_MUSTARD:
+  name: Грмушка од зрна синап
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Како оган во устата.
+CLT_BUSH_NETTLES:
+  name: Грмушка од коприва
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Внимавај кога минуваш низ оваа грмушка!
+CLT_BUSH_OKRA:
+  name: Грмушка од бамја
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Прогласена за зеленчук број 1 според
+  - Клубот за зеленчук на Окра Винфри.
+CLT_BUSH_ONION:
+  name: Грмушка од кромид
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Дали оваа грмушка изгледа како да солзи?
+CLT_BUSH_OREGANO:
+  name: Грмушка од оригано
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Оваа грмушка со остар мирис ги брка гостите.
+CLT_BUSH_PARSLEY:
+  name: Грмушка од магдонос
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Фрли ја оваа грмушка во лава, веднаш :)
+CLT_BUSH_PARSNIP:
+  name: Грмушка од пашканат
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Прескокни го посредникот и испечи ја грмушката
+  - директно.
+CLT_BUSH_PEA:
+  name: Грмушка од грашок
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Јас сум повеќе за грав.
+CLT_BUSH_PEANUTS:
+  name: Грмушка од кикиритки
+  type:
+  - '&7&oГрмушка'
+  description: &id001
+  - Цврсто, мирисливо и полно со протеини.
+CLT_BUSH_PEPPER:
+  name: Грмушка од црн пипер
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Црниот пипер бил важен дел од
+  - трговијата со зачини меѓу Индија и Европа
+  - уште во грчко и римско време.
+CLT_BUSH_PINTO_BEANS:
+  name: Грмушка од пинто грав
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Наскоро ќе успееме да одгледаме
+  - грмушка што директно дава бурито, нели?
+CLT_BUSH_RADDISH:
+  name: Грмушка од ротквица
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Ова растение штотуку изведе трик со скејтборд.
+  - Тотално рок...вица.
+CLT_BUSH_RADICCHIO:
+  name: Грмушка од радич
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Сакаш да звучиш отмено? Стави радич во секој
+  - оброк, во суштина е како зелка, но
+  - изгледаш префинето.
+CLT_BUSH_RAPESEED:
+  name: Грмушка од маслодајна репка
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Оваа грмушка испушта некаква мрсна материја.
+CLT_BUSH_RHUBARB:
+  name: Грмушка од равентл
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Дали знаеше дека равентлот е зеленчук?
+  - Мислев дека е вид чекан.
+CLT_BUSH_RICE:
+  name: Грмушка од ориз
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Врвната основна храна.
+CLT_BUSH_ROSEMARY:
+  name: Грмушка од рузмарин
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Грмушка чиј мирис потсетува на неделни ручеци.
+CLT_BUSH_RUNNER_BEANS:
+  name: Грмушка од грав пречкар
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Оваа грмушка има стапала о.о?
+CLT_BUSH_RUTABAGA:
+  name: Грмушка од шведска репа
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Шведска. Тоа е шведска репа.
+CLT_BUSH_SASSAFRAS:
+  name: Грмушка од сасафрас
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Оваа грмушка сака да биде засадена близу мали
+  - водени површини.
+CLT_BUSH_SHALLOT:
+  name: Грмушка од шалот
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Оваа грмушка брзо дава прекрасни мини кромидчиња.
+  - Шалот настрана, баш се вкусни.
+CLT_BUSH_SHISO:
+  name: Грмушка од шисо
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Сакам да мислам дека оваа грмушка е дете на љубовта
+  - меѓу грмушка од нане и грмушка од босилок. Штета
+  - што вкрстување грмушки не постои!
+CLT_BUSH_SOY_BEANS:
+  name: Грмушка од соја
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Оваа грмушка е пријателско задоволство. Ме прави
+  - со-ја среќен.
+CLT_BUSH_SPINACH:
+  name: Грмушка од спанаќ
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Оваа грмушка е најдобриот пријател на Попај.
+CLT_BUSH_STAR_ANISE:
+  name: Грмушка од ѕвездест анасон
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Од оваа грмушка се шири мирис толку својствен
+  - за анасонот, што нема да поверуваш.
+CLT_BUSH_STRAWBERRY:
+  name: Грмушка од јагода
+  type:
+  - '&7&oГрмушка'
+  description: *id001
+CLT_BUSH_SWEETCORN:
+  name: Грмушка од пченка
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Оваа грмушка просто бара да се направи
+  - лавиринт од неа.
+CLT_BUSH_SWEET_POTATO:
+  name: Грмушка од сладок компир
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Оваа грмушка е толку слатка. Ја слушнав како
+  - те фали додека не слушаше.
+CLT_BUSH_TARRAGON:
+  name: Грмушка од естрагон
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Оваа грмушка не сака да привлекува премногу внимание.
+CLT_BUSH_THYME:
+  name: Грмушка од мајчина душица
+  type:
+  - '&7&oГрмушка'
+  description:
+  - На оваа грмушка секогаш ѝ снемува... душица... *кашлица*
+CLT_BUSH_TOMATO:
+  name: Грмушка од домат
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Зрело и спремно.
+CLT_BUSH_TURMERIC:
+  name: Грмушка од куркума
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Само додека ја држиш оваа грмушка,
+  - те удира бран мирис на зачини.
+CLT_BUSH_TURNIP:
+  name: Грмушка од репа
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Според британската влада,
+  - оваа грмушка ќе ги реши сите наши проблеми.
+CLT_BUSH_VANILLA:
+  name: Грмушка од ванила
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Оваа грмушка природно расте близу локалите на Старбакс.
+CLT_BUSH_WASABI:
+  name: Грмушка од васаби
+  type:
+  - '&7&oГрмушка'
+  description:
+  - Уште еден корен што расте на грмушка?
+  - Ех...
+CLT_CABBAGE:
+  name: Зелка
+  type:
+  - '&7&oРод'
+  description:
+  - Цел вагон зелка.
+CLT_CAESAR_SALAD:
+  name: Цезар салата
+  type:
+  - '&7&oХрана'
+  description:
+  - Здрава класика.
+  stats:
+  - '&8⇨ &7Лекување: &b6 срца'
+  - '&8⇨ &bБрзина I &7(10:00)'
+  - '&8⇨ &bНевидливост I &7(10:00)'
+  - '&8⇨ &bБавно паѓање I &7(10:00)'
+CLT_CAJUN_GARLIC_BUTTER_COD:
+  name: Бакалар со каџун путер и лук
+  type:
+  - '&7&oХрана'
+  description:
+  - Многу едноставно јадење што прска од вкус.
+  stats:
+  - '&8⇨ &7Лекување: &b4 срца'
+  - '&8⇨ &bРегенерација II &7(10:00)'
+  - '&8⇨ &bБрзина I &7(10:00)'
+CLT_CAULIFLOWER:
+  name: Карфиол
+  type:
+  - '&7&oРод'
+  description:
+  - Облак за понесување!
+CLT_CAYENNE_PEPPER:
+  name: Кајенски пипер
+  type:
+  - '&7&oРод'
+  description:
+  - Нежна зачинета посластица.
+CLT_CELERIAC:
+  name: Коренест целер
+  type:
+  - '&7&oРод'
+  description:
+  - Издржлив корен што е вкоренет (хе) во многу
+  - традиционални рецепти.
+CLT_CELERY:
+  name: Целер
+  type:
+  - '&7&oРод'
+  description:
+  - Буквално само жилава вода. Убеди
+  - ме во спротивното.
+CLT_CHEESE_BURGER:
+  name: Бургер
+  type:
+  - '&7&oХрана'
+  description:
+  - Обичен чизбургер, но ништо не го надминува!
+  stats:
+  - '&8⇨ &7Лекување: &b4 срца'
+  - '&8⇨ &bРегенерација III &7(10:00)'
+CLT_CHEESY_SCALLOPED_COURGETTE:
+  name: Запечени тиквички со сирење
+  type:
+  - '&7&oХрана'
+  description:
+  - Нискојаглехидратна верзија на неверојатна класика.
+  stats:
+  - '&8⇨ &7Лекување: &b2 срца'
+  - '&8⇨ &bНоќно гледање I &7(10:00)'
+  - '&8⇨ &bНевидливост I &7(10:00)'
+CLT_CHERRY:
+  name: Цреша
+  type:
+  - '&7&oРод'
+  description:
+  - О, мислев дека растат веќе глазирани, штета!
+CLT_CHESTNUT:
+  name: Костен
+  type:
+  - '&7&oРод'
+  description:
+  - Создадено за да се пече, веднаш.
+CLT_CHICKEN_ALFREDO_MAC_AND_CHEESE:
+  name: Макарони со сирење и пилешко алфредо
+  type:
+  - '&7&oХрана'
+  description:
+  - Отмен пресврт на позната класика.
+  stats:
+  - '&8⇨ &7Лекување: &b1 срце'
+  - '&8⇨ &bОтпорност на оган II &7(10:00)'
+  - '&8⇨ &bОтпорност III &7(10:00)'
+CLT_CHICKEN_PASTA_BAKE:
+  name: Запечена паста со пилешко
+  type:
+  - '&7&oХрана'
+  description:
+  - Основна студентска храна.
+  stats:
+  - '&8⇨ &7Лекување: &b5 срца'
+  - '&8⇨ &bНоќно гледање I &7(10:00)'
+  - '&8⇨ &bПодводно дишење I &7(10:00)'
+CLT_CHICKEN_POT_PIE:
+  name: Пита со пилешко
+  type:
+  - '&7&oХрана'
+  description:
+  - Топол оброк што те враќа дома.
+  stats:
+  - '&8⇨ &7Лекување: &b10 срца'
+  - '&8⇨ &bЗасилен скок II &7(10:00)'
+  - '&8⇨ &bСитост I &7(10:00)'
+CLT_CHICKPEAS:
+  name: Наут
+  type:
+  - '&7&oРод'
+  description:
+  - Црноокиот грашок може да испее песна, а наутот само да ја хумус-потпевне.
+CLT_CHICORY:
+  name: Цикорија
+  type:
+  - '&7&oРод'
+  description:
+  - Корен со вкус на ореви и горчина.
+CLT_CHILLY_PEPPER:
+  name: Лута пиперка
+  type:
+  - '&7&oРод'
+  description:
+  - Можам да изедам цела пиперка без да плачам.
+  - Добро, половина.
+  - ДОООБРООО.... 1/4
+  - '...'
+  - Добро, можам да ја допрам со јазикот
+CLT_CHIVES:
+  name: Власец
+  type:
+  - '&7&oРод'
+  description:
+  - Слатка билка со вкус на кромид.
+CLT_CHOPPED_APPLE:
+  name: Сецкано јаболко
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_APRICOT:
+  name: Сецкана кајсија
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_ARTICHOKE:
+  name: Сецкана артичока
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_ASPARAGUS:
+  name: Сецкана шпаргла
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_AUBERGINE:
+  name: Сецкан модар патлиџан
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_AVOCADO:
+  name: Сецкано авокадо
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_BANANA:
+  name: Сецкана банана
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_BASIL:
+  name: Сецкан босилок
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_BAY_LEAF:
+  name: Сецкан ловоров лист
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_BEEF:
+  name: Сецкано говедско месо
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_BEETROOT:
+  name: Сецкано цвекло
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_BELL_PEPPER:
+  name: Сецкана бабура
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_BLACK_BEANS:
+  name: Сецкан црн грав
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_BREAD:
+  name: Сецкан леб
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_BROCCOLI:
+  name: Сецкана брокула
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_BROWN_MUSHROOM:
+  name: Сецкана кафеава печурка
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_BRUSSELS_SPROUTS:
+  name: Сецкан прокељ
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_CABBAGE:
+  name: Сецкана зелка
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_CARROT:
+  name: Сецкан морков
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_CAULIFLOWER:
+  name: Сецкан карфиол
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_CAYENNE_PEPPER:
+  name: Сецкан кајенски пипер
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_CELERIAC:
+  name: Сецкан коренест целер
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_CELERY:
+  name: Сецкан целер
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_CHERRY:
+  name: Сецкана цреша
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_CHESTNUT:
+  name: Сецкан костен
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_CHICKEN:
+  name: Сецкано пилешко месо
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_CHICKPEAS:
+  name: Сецкан наут
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_CHICORY:
+  name: Сецкана цикорија
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_CHILLY_PEPPER:
+  name: Сецкана лута пиперка
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_CHIVES:
+  name: Сецкан власец
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_CHORUS_FRUIT:
+  name: Сецкано хорус овошје
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_CILANTRO:
+  name: Сецкан коријандер
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_CINNAMON:
+  name: Сецкан цимет
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_CLOVE:
+  name: Сецкано каранфилче
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_COCOA_BEANS:
+  name: Сецкани какаови зрна
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_COD:
+  name: Сецкан бакалар
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_COURGETTE:
+  name: Сецкана тиквичка
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_CUCUMBER:
+  name: Сецкана краставица
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_CUMIN:
+  name: Сецкан ким
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_CURRY_LEAF:
+  name: Сецкан лист од кари
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_DILL:
+  name: Сецкан копар
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_EGG:
+  name: Сецкано јајце
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_ENCHANTED_GOLDEN_APPLE:
+  name: Сецкано маѓепсано златно јаболко
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_FENNEL:
+  name: Сецкан морач
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_GARLIC:
+  name: Сецкан лук
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_GINGER:
+  name: Сецкан ѓумбир
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_GLOW_BERRIES:
+  name: Сецкани сјајни бобинки
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_GOLDEN_APPLE:
+  name: Сецкано златно јаболко
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_GOLDEN_CARROT:
+  name: Сецкан златен морков
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_GRAPE:
+  name: Сецкано грозје
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_GREEN_APPLE:
+  name: Сецкано зелено јаболко
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_GREEN_BEANS:
+  name: Сецкана боранија
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_GREEN_ONION:
+  name: Сецкан млад кромид
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_HAZELNUT:
+  name: Сецкан лешник
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_HORSERADISH:
+  name: Сецкан рен
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_JALAPENO:
+  name: Сецкан халапењо
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_JASMINE:
+  name: Сецкан јасмин
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_JUNIPER_BERRY:
+  name: Сецкани бобинки од смрека
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_KAFFIR_LIME:
+  name: Сецкан лист од кафир лимета
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_KALE:
+  name: Сецкан кељ
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_KELP:
+  name: Сецкана алга
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_KIWI:
+  name: Сецкано киви
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_LAVENDER:
+  name: Сецкана лаванда
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_LEEK:
+  name: Сецкан праз
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_LEMON:
+  name: Сецкан лимон
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_LETTUCE:
+  name: Сецкана марула
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_LICORICE:
+  name: Сецкан сладник
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_LIME:
+  name: Сецкана лимета
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_MACE:
+  name: Сецкан мушкатов цвет
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_MANGO:
+  name: Сецкано манго
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_MARJORAM:
+  name: Сецкан мајоран
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_MARROW:
+  name: Сецкана летна тиква
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_MELON:
+  name: Сецкана лубеница
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_MINT:
+  name: Сецкано нане
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_MUSTARD_SEEDS:
+  name: Сецкани зрна синап
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_MUTTON:
+  name: Сецкано овчо месо
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_NETTLES:
+  name: Сецкани коприви
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_OKRA:
+  name: Сецкана бамја
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_ONION:
+  name: Сецкан кромид
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_ORANGE:
+  name: Сецкан портокал
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_OREGANO:
+  name: Сецкано оригано
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_PARSLEY:
+  name: Сецкан магдонос
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_PARSNIP:
+  name: Сецкан пашканат
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_PEA:
+  name: Сецкан грашок
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_PEACH:
+  name: Сецкана праска
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_PEANUT:
+  name: Сецкана кикиритка
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_PEAR:
+  name: Сецкана круша
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_PECAN:
+  name: Сецкан пекан
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_PEPPER:
+  name: Сецкан црн пипер
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_PEPPERONI:
+  name: Сецкани пеперони
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_PINEAPPLE:
+  name: Сецкан ананас
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_PINTO_BEANS:
+  name: Сецкан пинто грав
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_PORKCHOP:
+  name: Сецкано свинско месо
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_POTATO:
+  name: Сецкан компир
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_PUFFERFISH:
+  name: Сецкана риба-балон
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_PUMPKIN:
+  name: Сецкана тиква
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_RABBIT:
+  name: Сецкано зајачко месо
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_RADDISH:
+  name: Сецкана ротквица
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_RADICCHIO:
+  name: Сецкан радич
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_RAPESEED:
+  name: Сецкана маслодајна репка
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_RED_MUSHROOM:
+  name: Сецкана црвена печурка
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_RHUBARB:
+  name: Сецкан равентл
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_RICE:
+  name: Сецкан ориз
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_ROSEMARY:
+  name: Сецкан рузмарин
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_ROTTEN_FLESH:
+  name: Сецкано скапано месо
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_RUNNER_BEANS:
+  name: Сецкан грав пречкар
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_RUTABAGA:
+  name: Сецкана шведска репа
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_SALMON:
+  name: Сецкан лосос
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_SASSAFRAS:
+  name: Сецкан сасафрас
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_SHALLOT:
+  name: Сецкан шалот
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_SHISO:
+  name: Сецкано шисо
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_SOY_BEANS:
+  name: Сецкана соја
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_SPINACH:
+  name: Сецкан спанаќ
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_STAR_ANISE:
+  name: Сецкан ѕвездест анасон
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_STRAWBERRY:
+  name: Сецкана јагода
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_SUGAR:
+  name: Сецкан шеќер
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_SWEETCORN:
+  name: Сецкана пченка
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_SWEET_BERRIES:
+  name: Сецкани слатки бобинки
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_SWEET_POTATO:
+  name: Сецкан сладок компир
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_TARRAGON:
+  name: Сецкан естрагон
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_THYME:
+  name: Сецкана мајчина душица
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_TOMATO:
+  name: Сецкан домат
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_TURMERIC:
+  name: Сецкана куркума
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_TURNIP:
+  name: Сецкана репа
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_VANILLA:
+  name: Сецкана ванила
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_WASABI:
+  name: Сецкано васаби
+  type:
+  - '&7&oНуспроизвод'
+CLT_CHOPPED_WHEAT:
+  name: Сецкана пченица
+  type:
+  - '&7&oНуспроизвод'
+CLT_CILANTRO:
+  name: Коријандер
+  type:
+  - '&7&oРод'
+  description:
+  - Нежен зачин со навестување цитрус.
+CLT_CINNAMON:
+  name: Цимет
+  type:
+  - '&7&oРод'
+  description:
+  - Одлично за џвакање во форма на стапче.
+CLT_CINNAMON_ROLL:
+  name: Полжавче со цимет
+  type:
+  - '&7&oХрана'
+  description:
+  - Слатко задоволство завиткано за забава.
+  - Кога ќе го јадеш, светот се превртува!
+  stats:
+  - '&8⇨ &7Лекување: &b4 срца'
+  - '&8⇨ &bЛевитација I &7(10:00)'
+  - '&8⇨ &bБавно паѓање I &7(10:00)'
+CLT_CLOVE:
+  name: Каранфилче
+  type:
+  - '&7&oРод'
+  description:
+  - Супер топол и интензивен вкус.
+CLT_COMPRESSED_BISCUIT:
+  name: Компресирана погачка
+  type:
+  - '&7&oХрана'
+  description:
+  - Мала грицка со уште поогромен вкус.
+  stats: *id002
+CLT_COOKED_BURGER_PATTY:
+  name: Печено плескавиче за бургер
+  type:
+  - '&7&oРод'
+  description:
+  - Буквално капе
+CLT_COUNTER_BLENDER:
+  name: Кујнски пулт (блендер)
+  type:
+  - '&7&oМашина'
+  description:
+  - Кликни десно на овој блок за да го миксаш родот.
+  usage: &id003
+  - Совет! Откако ќе го поставиш, со шифт + десен
+  - клик блокот(ите) што ги држиш ќе го
+  - сменат изгледот на кујната. Пробај!
+CLT_COUNTER_BOILING:
+  name: Кујнски пулт (тенџере за варење)
+  type:
+  - '&7&oМашина'
+  description:
+  - Може да вари одредени предмети.
+  usage: *id003
+CLT_COUNTER_CHOPPING:
+  name: Кујнски пулт (даска за сецкање)
+  type:
+  - '&7&oМашина'
+  description:
+  - Кликни десно на овој блок за да го сецкаш родот.
+  usage: *id003
+CLT_COUNTER_FINISHING:
+  name: Кујнски пулт (довршување)
+  type:
+  - '&7&oМашина'
+  description:
+  - Служи за изработка на производи/нуспроизводи во
+  - други нуспроизводи или готова храна.
+  usage: *id003
+CLT_COUNTER_FRYING:
+  name: Кујнски пулт (тава)
+  type:
+  - '&7&oМашина'
+  description:
+  - Може да пржи одреден род.
+  usage: *id003
+CLT_COUNTER_GRILL:
+  name: Кујнски пулт (скара)
+  type:
+  - '&7&oМашина'
+  description:
+  - Може да пече на скара одреден род.
+  usage: *id003
+CLT_COUNTER_GRINDER:
+  name: Кујнски пулт (аван и толчник за мелење)
+  type:
+  - '&7&oМашина'
+  description:
+  - Кликни десно на овој блок за да го мелеш родот.
+  usage: *id003
+CLT_COUNTER_MASHER:
+  name: Кујнски пулт (сад за пасирање)
+  type:
+  - '&7&oМашина'
+  description:
+  - Кликни десно на овој блок за да го пасираш родот.
+  usage: *id003
+CLT_COUNTER_NOTHING:
+  name: Кујнски пулт (празен)
+  type:
+  - '&7&oМашина'
+  description:
+  - Само за украс!
+  usage: *id003
+CLT_COUNTER_OVEN:
+  name: Кујнски пулт (рерна)
+  type:
+  - '&7&oМашина'
+  description:
+  - Може да пече одреден род.
+  usage: *id003
+CLT_COUNTER_SLICING:
+  name: Кујнски пулт (даска за нарежување)
+  type:
+  - '&7&oМашина'
+  description:
+  - Кликни десно на овој блок за да го нарежеш родот.
+  usage: *id003
+CLT_COURGETTE:
+  name: Тиквичка
+  type:
+  - '&7&oРод'
+  description:
+  - 'Совет: Изрендај го ова во кој било сос за паста'
+  - за длабочина и текстура.
+CLT_CREAM_CHEESE:
+  name: Крем сирење
+  type:
+  - '&7&oРод'
+  description:
+  - Повеќе кремасто отколку сирењесто.
+CLT_CROP_STICKS:
+  name: Колчиња за посеви
+  type:
+  - '&7&oАлат'
+  description:
+  - Колчињата за посеви мора да се стават на
+  - засадено семе за да може да расте.
+  - Ако ставиш втор пар, растението ќе се
+  - вкрсти, па ќе може да се шири и/или
+  - размножува.
+CLT_CUCUMBER:
+  name: Краставица
+  type:
+  - '&7&oРод'
+  description:
+  - Вода во зелена лушпа, докажи ми
+  - дека грешам.
+CLT_CUMIN:
+  name: Ким
+  type:
+  - '&7&oРод'
+  description:
+  - Топло цитрусно растение.
+CLT_CURRY_LEAF:
+  name: Лист од кари
+  type:
+  - '&7&oРод'
+  description:
+  - Основа на толку многу прекрасни јадења.
+CLT_DILL:
+  name: Копар
+  type:
+  - '&7&oРод'
+  description:
+  - Мене ми има вкус на трева. Зошто
+  - луѓето го сакаат ова?
+CLT_DOUGH:
+  name: Тесто
+  type:
+  - '&7&oРод'
+  description:
+  - Обично, старо тесто!
+CLT_EGG_SALAD:
+  name: Салата од јајца
+  type:
+  - '&7&oРод'
+  description:
+  - Отвори го ова во воз, ако смееш!
+CLT_EGG_SALAD_SANDWICH:
+  name: Сендвич со салата од јајца
+  type:
+  - '&7&oХрана'
+  description:
+  - Малку мириса, но е неверојатно вкусно!
+  stats: &id006
+  - '&8⇨ &7Лекување: &b10 срца'
+  - '&8⇨ &bРегенерација II &7(10:00)'
+CLT_FENNEL:
+  name: Морач
+  type:
+  - '&7&oРод'
+  description:
+  - Како мешавина од анасон и сладник.
+CLT_FRIED_APPLE:
+  name: Пржено јаболко
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_APRICOT:
+  name: Пржена кајсија
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_ARTICHOKE:
+  name: Пржена артичока
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_ASPARAGUS:
+  name: Пржена шпаргла
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_AUBERGINE:
+  name: Пржен модар патлиџан
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_AVOCADO:
+  name: Пржено авокадо
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_BANANA:
+  name: Пржена банана
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_BASIL:
+  name: Пржен босилок
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_BAY_LEAF:
+  name: Пржен ловоров лист
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_BEEF:
+  name: Пржено говедско месо
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_BEETROOT:
+  name: Пржено цвекло
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_BELL_PEPPER:
+  name: Пржена бабура
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_BLACK_BEANS:
+  name: Пржен црн грав
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_BREAD:
+  name: Пржен леб
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_BROCCOLI:
+  name: Пржена брокула
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_BROWN_MUSHROOM:
+  name: Пржена кафеава печурка
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_BRUSSELS_SPROUTS:
+  name: Пржен прокељ
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_CABBAGE:
+  name: Пржена зелка
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_CARROT:
+  name: Пржен морков
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_CAULIFLOWER:
+  name: Пржен карфиол
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_CAYENNE_PEPPER:
+  name: Пржен кајенски пипер
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_CELERIAC:
+  name: Пржен коренест целер
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_CELERY:
+  name: Пржен целер
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_CHERRY:
+  name: Пржена цреша
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_CHESTNUT:
+  name: Пржен костен
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_CHICKEN:
+  name: Пржено пилешко месо
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_CHICKPEAS:
+  name: Пржен наут
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_CHICORY:
+  name: Пржена цикорија
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_CHILLY_PEPPER:
+  name: Пржена лута пиперка
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_CHIVES:
+  name: Пржен власец
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_CHORUS_FRUIT:
+  name: Пржено хорус овошје
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_CILANTRO:
+  name: Пржен коријандер
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_CINNAMON:
+  name: Пржен цимет
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_CLOVE:
+  name: Пржено каранфилче
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_COCOA_BEANS:
+  name: Пржени какаови зрна
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_COD:
+  name: Пржен бакалар
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_COURGETTE:
+  name: Пржена тиквичка
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_CUCUMBER:
+  name: Пржена краставица
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_CUMIN:
+  name: Пржен ким
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_CURRY_LEAF:
+  name: Пржен лист од кари
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_DILL:
+  name: Пржен копар
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_EGG:
+  name: Пржено јајце
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_ENCHANTED_GOLDEN_APPLE:
+  name: Пржено маѓепсано златно јаболко
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_FENNEL:
+  name: Пржен морач
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_GARLIC:
+  name: Пржен лук
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_GINGER:
+  name: Пржен ѓумбир
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_GLOW_BERRIES:
+  name: Пржени сјајни бобинки
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_GOLDEN_APPLE:
+  name: Пржено златно јаболко
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_GOLDEN_CARROT:
+  name: Пржен златен морков
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_GRAPE:
+  name: Пржено грозје
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_GREEN_APPLE:
+  name: Пржено зелено јаболко
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_GREEN_BEANS:
+  name: Пржена боранија
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_GREEN_ONION:
+  name: Пржен млад кромид
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_HAZELNUT:
+  name: Пржен лешник
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_HORSERADISH:
+  name: Пржен рен
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_JALAPENO:
+  name: Пржен халапењо
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_JASMINE:
+  name: Пржен јасмин
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_JUNIPER_BERRY:
+  name: Пржени бобинки од смрека
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_KAFFIR_LIME:
+  name: Пржен лист од кафир лимета
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_KALE:
+  name: Пржен кељ
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_KELP:
+  name: Пржена алга
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_KIWI:
+  name: Пржено киви
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_LAVENDER:
+  name: Пржена лаванда
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_LEEK:
+  name: Пржен праз
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_LEMON:
+  name: Пржен лимон
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_LETTUCE:
+  name: Пржена марула
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_LICORICE:
+  name: Пржен сладник
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_LIME:
+  name: Пржена лимета
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_MACE:
+  name: Пржен мушкатов цвет
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_MANGO:
+  name: Пржено манго
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_MARJORAM:
+  name: Пржен мајоран
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_MARROW:
+  name: Пржена летна тиква
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_MELON:
+  name: Пржена лубеница
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_MINT:
+  name: Пржено нане
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_MUSTARD_SEEDS:
+  name: Пржени зрна синап
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_MUTTON:
+  name: Пржено овчо месо
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_NETTLES:
+  name: Пржени коприви
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_OKRA:
+  name: Пржена бамја
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_ONION:
+  name: Пржен кромид
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_ORANGE:
+  name: Пржен портокал
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_OREGANO:
+  name: Пржено оригано
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_PARSLEY:
+  name: Пржен магдонос
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_PARSNIP:
+  name: Пржен пашканат
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_PEA:
+  name: Пржен грашок
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_PEACH:
+  name: Пржена праска
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_PEANUT:
+  name: Пржена кикиритка
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_PEAR:
+  name: Пржена круша
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_PECAN:
+  name: Пржен пекан
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_PEPPER:
+  name: Пржен црн пипер
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_PEPPERONI:
+  name: Пржени пеперони
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_PINEAPPLE:
+  name: Пржен ананас
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_PINTO_BEANS:
+  name: Пржен пинто грав
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_PORKCHOP:
+  name: Пржено свинско месо
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_POTATO:
+  name: Пржен компир
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_PUFFERFISH:
+  name: Пржена риба-балон
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_PUMPKIN:
+  name: Пржена тиква
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_RABBIT:
+  name: Пржено зајачко месо
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_RADDISH:
+  name: Пржена ротквица
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_RADICCHIO:
+  name: Пржен радич
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_RAPESEED:
+  name: Пржена маслодајна репка
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_RED_MUSHROOM:
+  name: Пржена црвена печурка
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_RHUBARB:
+  name: Пржен равентл
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_RICE:
+  name: Пржен ориз
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_ROSEMARY:
+  name: Пржен рузмарин
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_ROTTEN_FLESH:
+  name: Пржено скапано месо
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_RUNNER_BEANS:
+  name: Пржен грав пречкар
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_RUTABAGA:
+  name: Пржена шведска репа
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_SALMON:
+  name: Пржен лосос
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_SASSAFRAS:
+  name: Пржен сасафрас
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_SHALLOT:
+  name: Пржен шалот
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_SHISO:
+  name: Пржено шисо
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_SOY_BEANS:
+  name: Пржена соја
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_SPINACH:
+  name: Пржен спанаќ
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_STAR_ANISE:
+  name: Пржен ѕвездест анасон
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_STRAWBERRY:
+  name: Пржена јагода
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_SUGAR:
+  name: Пржен шеќер
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_SWEETCORN:
+  name: Пржена пченка
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_SWEET_BERRIES:
+  name: Пржени слатки бобинки
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_SWEET_POTATO:
+  name: Пржен сладок компир
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_TARRAGON:
+  name: Пржен естрагон
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_THYME:
+  name: Пржена мајчина душица
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_TOMATO:
+  name: Пржен домат
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_TURMERIC:
+  name: Пржена куркума
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_TURNIP:
+  name: Пржена репа
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_VANILLA:
+  name: Пржена ванила
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_WASABI:
+  name: Пржено васаби
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRIED_WHEAT:
+  name: Пржена пченица
+  type:
+  - '&7&oНуспроизвод'
+CLT_FRUIT_SALAD:
+  name: Овошна салата
+  type:
+  - '&7&oХрана'
+  description:
+  - Ако го викаш салата, можеш да јадеш колку
+  - што сакаш, зашто е здраво.
+  stats:
+  - '&8⇨ &7Лекување: &b6 срца'
+  - '&8⇨ &bБрзина III &7(10:00)'
+CLT_FUGU:
+  name: Фугу
+  type:
+  - '&7&oХрана'
+  description:
+  - Спремен да ја фрлиш коцката?
+  stats:
+  - '&8⇨ &7Лекување: &b1 срце'
+  - '&8⇨ &bСила V &7(10:00)'
+  - '&8⇨ &733% шанса едноставно да умреш!'
+CLT_GARDEN_CLOCHE:
+  name: Градинарско ѕвоно
+  type:
+  - '&7&oМашина'
+  description:
+  - Автоматски одгледува растенија во себе.
+  stats:
+  - '&8⇨ &7Енергија по тик: &b100'
+CLT_GARLIC:
+  name: Лук
+  type:
+  - '&7&oРод'
+  description:
+  - Брзо, пред да дојдат вампирите!
+CLT_GARLIC_BUTTER_MUSHROOMS:
+  name: Печурки со путер и лук
+  type:
+  - '&7&oХрана'
+  description:
+  - Можеби е најдобрата храна на земјата.
+  stats:
+  - '&8⇨ &7Лекување: &b2 срца'
+  - '&8⇨ &bБлескање I &7(10:00)'
+CLT_GINGER:
+  name: Ѓумбир
+  type:
+  - '&7&oРод'
+  description:
+  - Сецкан ѓумбир во врела вода ги лечи сите болести!
+CLT_GRAPE:
+  name: Грозје
+  type:
+  - '&7&oРод'
+  description:
+  - Толку бујно!
+CLT_GRAPE_JELLY:
+  name: Желе од грозје
+  type:
+  - '&7&oРод'
+  description: &id008
+  - Јадењето со лажица е кривично дело.
+CLT_GREEN_APPLE:
+  name: Зелено јаболко
+  type:
+  - '&7&oРод'
+  description:
+  - Пораката вели... Почитуван учителе?
+CLT_GREEN_BEANS:
+  name: Боранија
+  type:
+  - '&7&oРод'
+  description:
+  - Колку креативно име!
+CLT_GREEN_ONION:
+  name: Млад кромид
+  type:
+  - '&7&oРод'
+  description:
+  - Одлично оди со тако!
+CLT_GRILLED_APPLE:
+  name: Јаболко на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_APRICOT:
+  name: Кајсија на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_ARTICHOKE:
+  name: Артичока на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_ASPARAGUS:
+  name: Шпаргла на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_AUBERGINE:
+  name: Модар патлиџан на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_AVOCADO:
+  name: Авокадо на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_BANANA:
+  name: Банана на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_BASIL:
+  name: Босилок на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_BAY_LEAF:
+  name: Ловоров лист на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_BEEF:
+  name: Говедско месо на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_BEETROOT:
+  name: Цвекло на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_BELL_PEPPER:
+  name: Бабура на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_BLACK_BEANS:
+  name: Црн грав на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_BREAD:
+  name: Леб на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_BROCCOLI:
+  name: Брокула на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_BROWN_MUSHROOM:
+  name: Кафеава печурка на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_BRUSSELS_SPROUTS:
+  name: Прокељ на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_CABBAGE:
+  name: Зелка на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_CARROT:
+  name: Морков на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_CAULIFLOWER:
+  name: Карфиол на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_CAYENNE_PEPPER:
+  name: Кајенски пипер на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_CELERIAC:
+  name: Коренест целер на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_CELERY:
+  name: Целер на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_CHERRY:
+  name: Цреша на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_CHESTNUT:
+  name: Костен на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_CHICKEN:
+  name: Пилешко месо на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_CHICKPEAS:
+  name: Наут на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_CHICORY:
+  name: Цикорија на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_CHILLY_PEPPER:
+  name: Лута пиперка на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_CHIVES:
+  name: Власец на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_CHORUS_FRUIT:
+  name: Хорус овошје на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_CILANTRO:
+  name: Коријандер на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_CINNAMON:
+  name: Цимет на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_CLOVE:
+  name: Каранфилче на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_COCOA_BEANS:
+  name: Какаови зрна на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_COD:
+  name: Бакалар на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_COURGETTE:
+  name: Тиквичка на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_CUCUMBER:
+  name: Краставица на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_CUMIN:
+  name: Ким на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_CURRY_LEAF:
+  name: Лист од кари на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_DILL:
+  name: Копар на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_EGG:
+  name: Јајце на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_ENCHANTED_GOLDEN_APPLE:
+  name: Маѓепсано златно јаболко на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_FENNEL:
+  name: Морач на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_GARLIC:
+  name: Лук на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_GINGER:
+  name: Ѓумбир на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_GLOW_BERRIES:
+  name: Сјајни бобинки на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_GOLDEN_APPLE:
+  name: Златно јаболко на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_GOLDEN_CARROT:
+  name: Златен морков на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_GRAPE:
+  name: Грозје на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_GREEN_APPLE:
+  name: Зелено јаболко на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_GREEN_BEANS:
+  name: Боранија на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_GREEN_ONION:
+  name: Млад кромид на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_HAZELNUT:
+  name: Лешник на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_HORSERADISH:
+  name: Рен на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_JALAPENO:
+  name: Халапењо на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_JASMINE:
+  name: Јасмин на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_JUNIPER_BERRY:
+  name: Бобинки од смрека на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_KAFFIR_LIME:
+  name: Лист од кафир лимета на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_KALE:
+  name: Кељ на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_KELP:
+  name: Алга на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_KIWI:
+  name: Киви на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_LAVENDER:
+  name: Лаванда на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_LEEK:
+  name: Праз на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_LEMON:
+  name: Лимон на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_LETTUCE:
+  name: Марула на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_LICORICE:
+  name: Сладник на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_LIME:
+  name: Лимета на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_MACE:
+  name: Мушкатов цвет на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_MANGO:
+  name: Манго на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_MARJORAM:
+  name: Мајоран на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_MARROW:
+  name: Летна тиква на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_MELON:
+  name: Лубеница на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_MINT:
+  name: Нане на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_MUSTARD_SEEDS:
+  name: Зрна синап на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_MUTTON:
+  name: Овчо месо на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_NETTLES:
+  name: Коприви на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_OKRA:
+  name: Бамја на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_ONION:
+  name: Кромид на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_ORANGE:
+  name: Портокал на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_OREGANO:
+  name: Оригано на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_PARSLEY:
+  name: Магдонос на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_PARSNIP:
+  name: Пашканат на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_PEA:
+  name: Грашок на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_PEACH:
+  name: Праска на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_PEANUT:
+  name: Кикиритка на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_PEAR:
+  name: Круша на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_PECAN:
+  name: Пекан на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_PEPPER:
+  name: Црн пипер на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_PEPPERONI:
+  name: Пеперони на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_PINEAPPLE:
+  name: Ананас на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_PINTO_BEANS:
+  name: Пинто грав на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_PORKCHOP:
+  name: Свинско месо на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_POTATO:
+  name: Компир на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_PUFFERFISH:
+  name: Риба-балон на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_PUMPKIN:
+  name: Тиква на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_RABBIT:
+  name: Зајачко месо на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_RADDISH:
+  name: Ротквица на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_RADICCHIO:
+  name: Радич на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_RAPESEED:
+  name: Маслодајна репка на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_RED_MUSHROOM:
+  name: Црвена печурка на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_RHUBARB:
+  name: Равентл на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_RICE:
+  name: Ориз на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_ROSEMARY:
+  name: Рузмарин на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_ROTTEN_FLESH:
+  name: Скапано месо на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_RUNNER_BEANS:
+  name: Грав пречкар на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_RUTABAGA:
+  name: Шведска репа на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_SALMON:
+  name: Лосос на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_SALMON_SALAD:
+  name: Салата од лосос на скара
+  type:
+  - '&7&oХрана'
+  description:
+  - Прекрасно ронливо и брилијантно зачинето.
+  stats:
+  - '&8⇨ &7Лекување: &b4 срца'
+  - '&8⇨ &bРегенерација I &7(10:00)'
+  - '&8⇨ &bЗасилено здравје V &7(10:00)'
+CLT_GRILLED_SASSAFRAS:
+  name: Сасафрас на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_SHALLOT:
+  name: Шалот на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_SHISO:
+  name: Шисо на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_SOY_BEANS:
+  name: Соја на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_SPINACH:
+  name: Спанаќ на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_STAR_ANISE:
+  name: Ѕвездест анасон на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_STRAWBERRY:
+  name: Јагода на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_SUGAR:
+  name: Шеќер на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_SWEETCORN:
+  name: Пченка на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_SWEET_BERRIES:
+  name: Слатки бобинки на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_SWEET_POTATO:
+  name: Сладок компир на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_TARRAGON:
+  name: Естрагон на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_THYME:
+  name: Мајчина душица на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_TOMATO:
+  name: Домат на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_TURMERIC:
+  name: Куркума на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_TURNIP:
+  name: Репа на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_VANILLA:
+  name: Ванила на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_WASABI:
+  name: Васаби на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GRILLED_WHEAT:
+  name: Пченица на скара
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_APPLE:
+  name: Мелено јаболко
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_APRICOT:
+  name: Мелена кајсија
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_ARTICHOKE:
+  name: Мелена артичока
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_ASPARAGUS:
+  name: Мелена шпаргла
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_AUBERGINE:
+  name: Мелен модар патлиџан
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_AVOCADO:
+  name: Мелено авокадо
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_BANANA:
+  name: Мелена банана
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_BASIL:
+  name: Мелен босилок
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_BAY_LEAF:
+  name: Мелен ловоров лист
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_BEEF:
+  name: Мелено говедско месо
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_BEETROOT:
+  name: Мелено цвекло
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_BELL_PEPPER:
+  name: Мелена бабура
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_BLACK_BEANS:
+  name: Мелен црн грав
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_BREAD:
+  name: Мелен леб
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_BROCCOLI:
+  name: Мелена брокула
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_BROWN_MUSHROOM:
+  name: Мелена кафеава печурка
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_BRUSSELS_SPROUTS:
+  name: Мелен прокељ
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_CABBAGE:
+  name: Мелена зелка
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_CARROT:
+  name: Мелен морков
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_CAULIFLOWER:
+  name: Мелен карфиол
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_CAYENNE_PEPPER:
+  name: Мелен кајенски пипер
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_CELERIAC:
+  name: Мелен коренест целер
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_CELERY:
+  name: Мелен целер
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_CHERRY:
+  name: Мелена цреша
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_CHESTNUT:
+  name: Мелен костен
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_CHICKEN:
+  name: Мелено пилешко месо
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_CHICKPEAS:
+  name: Мелен наут
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_CHICORY:
+  name: Мелена цикорија
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_CHILLY_PEPPER:
+  name: Мелена лута пиперка
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_CHIVES:
+  name: Мелен власец
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_CHORUS_FRUIT:
+  name: Мелено хорус овошје
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_CILANTRO:
+  name: Мелен коријандер
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_CINNAMON:
+  name: Мелен цимет
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_CLOVE:
+  name: Мелено каранфилче
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_COCOA_BEANS:
+  name: Мелени какаови зрна
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_COD:
+  name: Мелен бакалар
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_COURGETTE:
+  name: Мелена тиквичка
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_CUCUMBER:
+  name: Мелена краставица
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_CUMIN:
+  name: Мелен ким
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_CURRY_LEAF:
+  name: Мелен лист од кари
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_DILL:
+  name: Мелен копар
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_EGG:
+  name: Мелено јајце
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_ENCHANTED_GOLDEN_APPLE:
+  name: Мелено маѓепсано златно јаболко
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_FENNEL:
+  name: Мелен морач
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_GARLIC:
+  name: Мелен лук
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_GINGER:
+  name: Мелен ѓумбир
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_GLOW_BERRIES:
+  name: Мелени сјајни бобинки
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_GOLDEN_APPLE:
+  name: Мелено златно јаболко
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_GOLDEN_CARROT:
+  name: Мелен златен морков
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_GRAPE:
+  name: Мелено грозје
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_GREEN_APPLE:
+  name: Мелено зелено јаболко
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_GREEN_BEANS:
+  name: Мелена боранија
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_GREEN_ONION:
+  name: Мелен млад кромид
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_HAZELNUT:
+  name: Мелен лешник
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_HORSERADISH:
+  name: Мелен рен
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_JALAPENO:
+  name: Мелен халапењо
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_JASMINE:
+  name: Мелен јасмин
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_JUNIPER_BERRY:
+  name: Мелени бобинки од смрека
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_KAFFIR_LIME:
+  name: Мелен лист од кафир лимета
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_KALE:
+  name: Мелен кељ
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_KELP:
+  name: Мелена алга
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_KIWI:
+  name: Мелено киви
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_LAVENDER:
+  name: Мелена лаванда
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_LEEK:
+  name: Мелен праз
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_LEMON:
+  name: Мелен лимон
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_LETTUCE:
+  name: Мелена марула
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_LICORICE:
+  name: Мелен сладник
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_LIME:
+  name: Мелена лимета
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_MACE:
+  name: Мелен мушкатов цвет
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_MANGO:
+  name: Мелено манго
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_MARJORAM:
+  name: Мелен мајоран
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_MARROW:
+  name: Мелена летна тиква
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_MELON:
+  name: Мелена лубеница
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_MINT:
+  name: Мелено нане
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_MUSTARD_SEEDS:
+  name: Мелени зрна синап
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_MUTTON:
+  name: Мелено овчо месо
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_NETTLES:
+  name: Мелени коприви
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_OKRA:
+  name: Мелена бамја
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_ONION:
+  name: Мелен кромид
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_ORANGE:
+  name: Мелен портокал
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_OREGANO:
+  name: Мелено оригано
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_PARSLEY:
+  name: Мелен магдонос
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_PARSNIP:
+  name: Мелен пашканат
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_PEA:
+  name: Мелен грашок
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_PEACH:
+  name: Мелена праска
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_PEANUT:
+  name: Мелена кикиритка
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_PEAR:
+  name: Мелена круша
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_PECAN:
+  name: Мелен пекан
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_PEPPER:
+  name: Мелен црн пипер
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_PEPPERONI:
+  name: Мелени пеперони
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_PINEAPPLE:
+  name: Мелен ананас
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_PINTO_BEANS:
+  name: Мелен пинто грав
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_PORKCHOP:
+  name: Мелено свинско месо
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_POTATO:
+  name: Мелен компир
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_PUFFERFISH:
+  name: Мелена риба-балон
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_PUMPKIN:
+  name: Мелена тиква
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_RABBIT:
+  name: Мелено зајачко месо
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_RADDISH:
+  name: Мелена ротквица
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_RADICCHIO:
+  name: Мелен радич
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_RAPESEED:
+  name: Мелена маслодајна репка
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_RED_MUSHROOM:
+  name: Мелена црвена печурка
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_RHUBARB:
+  name: Мелен равентл
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_RICE:
+  name: Мелен ориз
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_ROSEMARY:
+  name: Мелен рузмарин
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_ROTTEN_FLESH:
+  name: Мелено скапано месо
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_RUNNER_BEANS:
+  name: Мелен грав пречкар
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_RUTABAGA:
+  name: Мелена шведска репа
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_SALMON:
+  name: Мелен лосос
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_SASSAFRAS:
+  name: Мелен сасафрас
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_SHALLOT:
+  name: Мелен шалот
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_SHISO:
+  name: Мелено шисо
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_SOY_BEANS:
+  name: Мелена соја
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_SPINACH:
+  name: Мелен спанаќ
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_STAR_ANISE:
+  name: Мелен ѕвездест анасон
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_STRAWBERRY:
+  name: Мелена јагода
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_SUGAR:
+  name: Мелен шеќер
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_SWEETCORN:
+  name: Мелена пченка
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_SWEET_BERRIES:
+  name: Мелени слатки бобинки
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_SWEET_POTATO:
+  name: Мелен сладок компир
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_TARRAGON:
+  name: Мелен естрагон
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_THYME:
+  name: Мелена мајчина душица
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_TOMATO:
+  name: Мелен домат
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_TURMERIC:
+  name: Мелена куркума
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_TURNIP:
+  name: Мелена репа
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_VANILLA:
+  name: Мелена ванила
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_WASABI:
+  name: Мелено васаби
+  type:
+  - '&7&oНуспроизвод'
+CLT_GROUND_WHEAT:
+  name: Мелена пченица
+  type:
+  - '&7&oНуспроизвод'
+CLT_HAZELNUT:
+  name: Лешник
+  type:
+  - '&7&oРод'
+  description:
+  - Направи што треба за ова да стане
+  - кафе за мене, веднаш!
+CLT_HORSERADISH:
+  name: Рен
+  type:
+  - '&7&oРод'
+  description:
+  - $100 ако загризеш директно во него.
+CLT_JALAPENO:
+  name: Халапењо
+  type:
+  - '&7&oРод'
+  description:
+  - ЖЕШКО ЖЕШКО ЖЕШКО.
+CLT_JASMINE:
+  name: Јасмин
+  type:
+  - '&7&oРод'
+  description:
+  - Од него се прави прекрасен чај.
+CLT_JUNIPER_BERRY:
+  name: Бобинки од смрека
+  type:
+  - '&7&oРод'
+  description:
+  - Исушено до пиперливо совршенство.
+CLT_KAFFIR_LIME:
+  name: Лист од кафир лимета
+  type:
+  - '&7&oРод'
+  description:
+  - Лист со моќна свежина.
+CLT_KALE:
+  name: Кељ
+  type:
+  - '&7&oРод'
+  description:
+  - Помош, јас сум хипстер со смути од 2020!
+CLT_KETCHUP:
+  name: Кечап
+  type:
+  - '&7&oРод'
+  description:
+  - Само домати во кремаста форма.
+CLT_KEY_LIME_PIE:
+  name: Пита со лимета
+  type:
+  - '&7&oХрана'
+  description:
+  - Едноставно најдобро!
+  stats:
+  - '&8⇨ &7Лекување: &b6 срца'
+  - '&8⇨ &bБрзо копање IV &7(10:00)'
+CLT_KIWI:
+  name: Киви
+  type:
+  - '&7&oРод'
+  description:
+  - Го ставив ова во додатокот под принуда.
+  - Кивито е зло и секој што
+  - го користи автоматски губи
+  - 100 поени.
+CLT_LASAGNA:
+  name: Лазања
+  type:
+  - '&7&oХрана'
+  description:
+  - Слоеви и слоеви величественост.
+  stats:
+  - '&8⇨ &7Лекување: &bЦелосно'
+  - '&8⇨ &bРегенерација II &7(10:00)'
+  - '&8⇨ &bОтпорност II &7(10:00)'
+CLT_LAVENDER:
+  name: Лаванда
+  type:
+  - '&7&oРод'
+  description:
+  - Мирис што може полека да ме успие.
+CLT_LEAVES_TREE_APRICOT:
+  name: Лисја од кајсија
+  type:
+  - '&7&oЛисја'
+CLT_LEAVES_TREE_BANANA:
+  name: Лисја од банана
+  type:
+  - '&7&oЛисја'
+CLT_LEAVES_TREE_CHERRY:
+  name: Лисја од цреша
+  type:
+  - '&7&oЛисја'
+CLT_LEAVES_TREE_CHESTNUT:
+  name: Лисја од костен
+  type:
+  - '&7&oЛисја'
+CLT_LEAVES_TREE_GREEN_APPLE:
+  name: Лисја од зелено јаболко
+  type:
+  - '&7&oЛисја'
+CLT_LEAVES_TREE_HAZELNUT:
+  name: Лисја од лешник
+  type:
+  - '&7&oЛисја'
+CLT_LEAVES_TREE_KIWI:
+  name: Лисја од киви
+  type:
+  - '&7&oЛисја'
+CLT_LEAVES_TREE_LEMON:
+  name: Лисја од лимон
+  type:
+  - '&7&oЛисја'
+CLT_LEAVES_TREE_LIME:
+  name: Лисја од лимета
+  type:
+  - '&7&oЛисја'
+CLT_LEAVES_TREE_MANGO:
+  name: Лисја од манго
+  type:
+  - '&7&oЛисја'
+CLT_LEAVES_TREE_ORANGE:
+  name: Лисја од портокал
+  type:
+  - '&7&oЛисја'
+CLT_LEAVES_TREE_PEACH:
+  name: Лисја од праска
+  type:
+  - '&7&oЛисја'
+CLT_LEAVES_TREE_PEAR:
+  name: Лисја од круша
+  type:
+  - '&7&oЛисја'
+CLT_LEAVES_TREE_PECAN:
+  name: Лисја од пекан
+  type:
+  - '&7&oЛисја'
+CLT_LEAVES_TREE_PINEAPPLE:
+  name: Лисја од ананас
+  type:
+  - '&7&oЛисја'
+CLT_LEEK:
+  name: Праз
+  type:
+  - '&7&oРод'
+  description:
+  - од некоја причина капе вода?
+  - Можеби има некоја праз-нина?
+CLT_LEMON:
+  name: Лимон
+  type:
+  - '&7&oРод'
+  description:
+  - Зошто толку кисел израз?
+CLT_LEMON_DROP:
+  name: Лимонова бонбона
+  type:
+  - '&7&oХрана'
+  description:
+  - Средство за чистење на непцето.
+  stats:
+  - '&8⇨ &7Ги отстранува сите ефекти и пак те прави гладен.'
+CLT_LETTUCE:
+  name: Марула
+  type:
+  - '&7&oРод'
+  description:
+  - Тенко, водникаво, а сепак вкусно.
+CLT_LICORICE:
+  name: Сладник
+  type:
+  - '&7&oРод'
+  description:
+  - Бегај, бегај веднаш!
+CLT_LIME:
+  name: Лимета
+  type:
+  - '&7&oРод'
+  description:
+  - Си било едно лимета-време, си имало еден вкусен плод...
+CLT_MACE:
+  name: Мушкатов цвет
+  type:
+  - '&7&oРод'
+  description:
+  - Се користи за прскање во лицето на напаѓачите.
+  - '...'
+  - Како мислиш дека тоа не е вистинскиот вид боздоган?
+CLT_MANGO:
+  name: Манго
+  type:
+  - '&7&oРод'
+  description:
+  - МАН-ГОтов сум, одам.
+  - Описите се тешки...
+CLT_MARJORAM:
+  name: Мајоран
+  type:
+  - '&7&oРод'
+  description:
+  - Малку сум во кари-брзање, може да зборуваме подоцна?
+CLT_MARROW:
+  name: Летна тиква
+  type:
+  - '&7&oРод'
+  description:
+  - Дали знаеше дека тиквите се наоѓаат на
+  - твоите рамења?
+  - Аха, Сефи Паметен.
+CLT_MASHED_APPLE:
+  name: Пасирано јаболко
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_APRICOT:
+  name: Пасирана кајсија
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_ARTICHOKE:
+  name: Пасирана артичока
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_ASPARAGUS:
+  name: Пасирана шпаргла
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_AUBERGINE:
+  name: Пасиран модар патлиџан
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_AVOCADO:
+  name: Пасирано авокадо
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_BANANA:
+  name: Пасирана банана
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_BASIL:
+  name: Пасиран босилок
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_BAY_LEAF:
+  name: Пасиран ловоров лист
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_BEEF:
+  name: Пасирано говедско месо
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_BEETROOT:
+  name: Пасирано цвекло
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_BELL_PEPPER:
+  name: Пасирана бабура
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_BLACK_BEANS:
+  name: Пасиран црн грав
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_BREAD:
+  name: Пасиран леб
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_BROCCOLI:
+  name: Пасирана брокула
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_BROWN_MUSHROOM:
+  name: Пасирана кафеава печурка
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_BRUSSELS_SPROUTS:
+  name: Пасиран прокељ
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_CABBAGE:
+  name: Пасирана зелка
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_CARROT:
+  name: Пасиран морков
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_CAULIFLOWER:
+  name: Пасиран карфиол
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_CAYENNE_PEPPER:
+  name: Пасиран кајенски пипер
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_CELERIAC:
+  name: Пасиран коренест целер
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_CELERY:
+  name: Пасиран целер
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_CHERRY:
+  name: Пасирана цреша
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_CHESTNUT:
+  name: Пасиран костен
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_CHICKEN:
+  name: Пасирано пилешко месо
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_CHICKPEAS:
+  name: Пасиран наут
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_CHICORY:
+  name: Пасирана цикорија
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_CHILLY_PEPPER:
+  name: Пасирана лута пиперка
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_CHIVES:
+  name: Пасиран власец
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_CHORUS_FRUIT:
+  name: Пасирано хорус овошје
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_CILANTRO:
+  name: Пасиран коријандер
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_CINNAMON:
+  name: Пасиран цимет
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_CLOVE:
+  name: Пасирано каранфилче
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_COCOA_BEANS:
+  name: Пасирани какаови зрна
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_COD:
+  name: Пасиран бакалар
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_COURGETTE:
+  name: Пасирана тиквичка
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_CUCUMBER:
+  name: Пасирана краставица
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_CUMIN:
+  name: Пасиран ким
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_CURRY_LEAF:
+  name: Пасиран лист од кари
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_DILL:
+  name: Пасиран копар
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_EGG:
+  name: Пасирано јајце
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_ENCHANTED_GOLDEN_APPLE:
+  name: Пасирано маѓепсано златно јаболко
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_FENNEL:
+  name: Пасиран морач
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_GARLIC:
+  name: Пасиран лук
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_GINGER:
+  name: Пасиран ѓумбир
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_GLOW_BERRIES:
+  name: Пасирани сјајни бобинки
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_GOLDEN_APPLE:
+  name: Пасирано златно јаболко
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_GOLDEN_CARROT:
+  name: Пасиран златен морков
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_GRAPE:
+  name: Пасирано грозје
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_GREEN_APPLE:
+  name: Пасирано зелено јаболко
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_GREEN_BEANS:
+  name: Пасирана боранија
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_GREEN_ONION:
+  name: Пасиран млад кромид
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_HAZELNUT:
+  name: Пасиран лешник
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_HORSERADISH:
+  name: Пасиран рен
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_JALAPENO:
+  name: Пасиран халапењо
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_JASMINE:
+  name: Пасиран јасмин
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_JUNIPER_BERRY:
+  name: Пасирани бобинки од смрека
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_KAFFIR_LIME:
+  name: Пасиран лист од кафир лимета
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_KALE:
+  name: Пасиран кељ
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_KELP:
+  name: Пасирана алга
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_KIWI:
+  name: Пасирано киви
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_LAVENDER:
+  name: Пасирана лаванда
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_LEEK:
+  name: Пасиран праз
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_LEMON:
+  name: Пасиран лимон
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_LETTUCE:
+  name: Пасирана марула
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_LICORICE:
+  name: Пасиран сладник
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_LIME:
+  name: Пасирана лимета
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_MACE:
+  name: Пасиран мушкатов цвет
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_MANGO:
+  name: Пасирано манго
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_MARJORAM:
+  name: Пасиран мајоран
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_MARROW:
+  name: Пасирана летна тиква
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_MELON:
+  name: Пасирана лубеница
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_MINT:
+  name: Пасирано нане
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_MUSTARD_SEEDS:
+  name: Пасирани зрна синап
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_MUTTON:
+  name: Пасирано овчо месо
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_NETTLES:
+  name: Пасирани коприви
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_OKRA:
+  name: Пасирана бамја
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_ONION:
+  name: Пасиран кромид
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_ORANGE:
+  name: Пасиран портокал
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_OREGANO:
+  name: Пасирано оригано
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_PARSLEY:
+  name: Пасиран магдонос
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_PARSNIP:
+  name: Пасиран пашканат
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_PEA:
+  name: Пасиран грашок
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_PEACH:
+  name: Пасирана праска
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_PEANUT:
+  name: Пасирана кикиритка
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_PEAR:
+  name: Пасирана круша
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_PECAN:
+  name: Пасиран пекан
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_PEPPER:
+  name: Пасиран црн пипер
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_PEPPERONI:
+  name: Пасирани пеперони
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_PINEAPPLE:
+  name: Пасиран ананас
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_PINTO_BEANS:
+  name: Пасиран пинто грав
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_PORKCHOP:
+  name: Пасирано свинско месо
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_POTATO:
+  name: Пасиран компир
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_PUFFERFISH:
+  name: Пасирана риба-балон
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_PUMPKIN:
+  name: Пасирана тиква
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_RABBIT:
+  name: Пасирано зајачко месо
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_RADDISH:
+  name: Пасирана ротквица
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_RADICCHIO:
+  name: Пасиран радич
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_RAPESEED:
+  name: Пасирана маслодајна репка
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_RED_MUSHROOM:
+  name: Пасирана црвена печурка
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_RHUBARB:
+  name: Пасиран равентл
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_RICE:
+  name: Пасиран ориз
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_ROSEMARY:
+  name: Пасиран рузмарин
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_ROTTEN_FLESH:
+  name: Пасирано скапано месо
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_RUNNER_BEANS:
+  name: Пасиран грав пречкар
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_RUTABAGA:
+  name: Пасирана шведска репа
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_SALMON:
+  name: Пасиран лосос
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_SASSAFRAS:
+  name: Пасиран сасафрас
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_SHALLOT:
+  name: Пасиран шалот
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_SHISO:
+  name: Пасирано шисо
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_SOY_BEANS:
+  name: Пасирана соја
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_SPINACH:
+  name: Пасиран спанаќ
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_STAR_ANISE:
+  name: Пасиран ѕвездест анасон
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_STRAWBERRY:
+  name: Пасирана јагода
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_SUGAR:
+  name: Пасиран шеќер
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_SWEETCORN:
+  name: Пасирана пченка
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_SWEET_BERRIES:
+  name: Пасирани слатки бобинки
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_SWEET_POTATO:
+  name: Пасиран сладок компир
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_TARRAGON:
+  name: Пасиран естрагон
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_THYME:
+  name: Пасирана мајчина душица
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_TOMATO:
+  name: Пасиран домат
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_TURMERIC:
+  name: Пасирана куркума
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_TURNIP:
+  name: Пасирана репа
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_VANILLA:
+  name: Пасирана ванила
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_WASABI:
+  name: Пасирано васаби
+  type:
+  - '&7&oНуспроизвод'
+CLT_MASHED_WHEAT:
+  name: Пасирана пченица
+  type:
+  - '&7&oНуспроизвод'
+CLT_MAYONNAISE:
+  name: Мајонез
+  type:
+  - '&7&oРод'
+  description:
+  - Свиленкаст мајонез што оди речиси со сè.
+CLT_MEATBALLS:
+  name: Ќофтиња
+  type:
+  - '&7&oРод'
+  description:
+  - Топчиња од месо, кој би помислил.
+CLT_MEATLOAF:
+  name: Руло од мелено месо
+  type:
+  - '&7&oХрана'
+  description:
+  - Нема ништо слично! Ајде.
+  stats:
+  - '&8⇨ &7Лекување: &bЦелосно'
+  - '&8⇨ &bЗасилено здравје IV &7(10:00)'
+  - '&8⇨ &bОтпорност III &7(10:00)'
+  - '&8⇨ &bБрзо копање II &7(10:00)'
+  - '&8⇨ &bБавност II &7(10:00)'
+CLT_MINT:
+  name: Нане
+  type:
+  - '&7&oРод'
+  description:
+  - Џвак џвак џвак.
+CLT_MUSTARD:
+  name: Синап
+  type:
+  - '&7&oРод'
+  description:
+  - Има малку лутина!
+CLT_MUSTARD_SEEDS:
+  name: Семиња од синап
+  type:
+  - '&7&oРод'
+  description:
+  - Џвакај ги, ако смееш!
+CLT_NETTLES:
+  name: Коприви
+  type:
+  - '&7&oРод'
+  description:
+  - Те молам, стави ракавици пред да ги држиш.
+CLT_OKRA:
+  name: Бамја
+  type:
+  - '&7&oРод'
+  description:
+  - Многу се одгледува во Окра-хома... нели, НЕЛИ?
+CLT_ONION:
+  name: Кромид
+  type:
+  - '&7&oРод'
+  description:
+  - Чекај, зошто плачеш?
+CLT_ORANGE:
+  name: Портокал
+  type:
+  - '&7&oРод'
+  description:
+  - Зарем овој портокал не треба да е механички?
+CLT_ORANGE_JUICE:
+  name: Сок од портокал
+  type:
+  - '&7&oХрана'
+  description:
+  - Навистина е најдобриот начин да се започне денот.
+  stats:
+  - '&8⇨ &bБрзина IV &7(10:00)'
+CLT_OREGANO:
+  name: Оригано
+  type:
+  - '&7&oРод'
+  description:
+  - Класична билка што секогаш ја има во кујната.
+CLT_PARSLEY:
+  name: Магдонос
+  type:
+  - '&7&oРод'
+  description:
+  - Најлоша. Билка. Икогаш.
+CLT_PARSNIP:
+  name: Пашканат
+  type:
+  - '&7&oРод'
+  description:
+  - Бара веднаш да се испече.
+CLT_PASTA:
+  name: Паста
+  type:
+  - '&7&oРод'
+  description:
+  - Обична паста, едноставна, а прекрасна.
+CLT_PEA:
+  name: Грашок
+  type:
+  - '&7&oРод'
+  description:
+  - Често се наоѓа во парови во мешунка, барем така слушнав.
+CLT_PEACH:
+  name: Праска
+  type:
+  - '&7&oРод'
+  description:
+  - Не зборуваме за емоџито
+CLT_PEANUT:
+  name: Кикиритка
+  type:
+  - '&7&oРод'
+  description:
+  - Рисис, доаѓам!
+CLT_PEANUT_BUTTER:
+  name: Путер од кикиритки
+  type:
+  - '&7&oРод'
+  description:
+  - Споредливо само со течно злато.
+CLT_PEANUT_BUTTER_JELLY_SANDWICH:
+  name: Сендвич со путер од кикиритки и желе
+  type:
+  - '&7&oХрана'
+  description:
+  - Навистина е врвот на сендвич-технологијата.
+  stats:
+  - '&8⇨ &7Лекување: &b5 срца'
+  - '&8⇨ &bСила III &7(10:00)'
+CLT_PEAR:
+  name: Круша
+  type:
+  - '&7&oРод'
+  description:
+  - Зарем не изгледа со-круш-ително добро?
+CLT_PECAN:
+  name: Пекан
+  type:
+  - '&7&oРод'
+  description:
+  - Само моли да се направи пита од него.
+CLT_PECAN_PIE:
+  name: Пита со пекан
+  type:
+  - '&7&oХрана'
+  description:
+  - Единствениот начин да јадеш чист шеќер без
+  - никој да те осудува.
+  stats:
+  - '&8⇨ &7Лекување: &b4 срца'
+  - '&8⇨ &bЛевитација I &7(10:00)'
+CLT_PEPPER:
+  name: Црн пипер
+  type:
+  - '&7&oРод'
+  description:
+  - Полуто од солта.
+CLT_PEPPERONI:
+  name: Пеперони
+  type:
+  - '&7&oРод'
+  description:
+  - Би изел цело руло од ова, лесно.
+CLT_PICO_DE_GALLO:
+  name: Пико де гаљо
+  type:
+  - '&7&oРод'
+  description:
+  - Блага салса полна со чиста вкусотија.
+CLT_PIE_CRUST:
+  name: Кора за пита
+  type:
+  - '&7&oРод'
+  description:
+  - Да беше легално да се јаде само по себе,
+  - ќе ми беше главен извор на храна.
+CLT_PINEAPPLE:
+  name: Ананас
+  type:
+  - '&7&oРод'
+  description:
+  - Ова му припаѓа на секоја пица што постои.
+  - Сакаш да се тепаме за тоа!?
+CLT_PINTO_BEANS:
+  name: Пинто грав
+  type:
+  - '&7&oРод'
+  description:
+  - Ќа-чинг! Време е за бурито.
+CLT_PIZZA_CHEESE:
+  name: Пица со сирење
+  type:
+  - '&7&oХрана'
+  description:
+  - Зошто некој би нарачал само сирење? Не знам.
+  stats:
+  - '&8⇨ &7Лекување: &b4 срца'
+  - '&8⇨ &bБавност I &7(10:00)'
+CLT_PIZZA_MUSHROOM:
+  name: Пица со печурки
+  type:
+  - '&7&oХрана'
+  description:
+  - Едноставна вегетаријанска пица полна со протеини.
+  stats:
+  - '&8⇨ &7Лекување: &b6 срца'
+  - '&8⇨ &bБавност I &7(10:00)'
+  - '&8⇨ &bБрзо копање II &7(10:00)'
+CLT_PIZZA_PEPPERONI:
+  name: Пица со пеперони
+  type:
+  - '&7&oХрана'
+  description:
+  - Њујоршка класика полна со вкус.
+  stats:
+  - '&8⇨ &7Лекување: &b6 срца'
+  - '&8⇨ &bБрзина I &7(10:00)'
+  - '&8⇨ &bБрзо копање I &7(10:00)'
+  - '&8⇨ &bЗасилен скок I &7(10:00)'
+CLT_PLANT_AIR:
+  name: Растение од исконски воздух
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение што тивко потпевнува со
+  - мелодијата на природата околу него.
+  - '&eИсконските растенија не даваат предмети'
+  - '&eи служат само за вкрстување.'
+CLT_PLANT_AMETHYST:
+  name: Растение од аметист
+  type:
+  - '&7&oРастение'
+  description:
+  - Ова растение сака да буја на длабоки, темни
+  - места.
+CLT_PLANT_ANALYSER:
+  name: Анализатор на растенија
+  type:
+  - '&7&oАлат'
+  description:
+  - Многу едноставна алатка што ти овозможува
+  - да ги видиш деталите на растение во раст
+  usage:
+  - '&eДесен клик&7: Ти ги покажува видот и деталите за растот на растението.'
+  - '&eШифт + десен клик&7: Го прикажува името на растението или грмушката.'
+CLT_PLANT_BASALT:
+  name: Растение од базалт
+  type:
+  - '&7&oРастение'
+  description:
+  - Многу досадно и безлично растение.
+CLT_PLANT_BEE:
+  name: Растение од пчела
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение со многу мали, нежни крилца.
+CLT_PLANT_BLACKSTONE:
+  name: Растение од црн камен
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение за кое се знае дека впива светлина.
+CLT_PLANT_BLAZE:
+  name: Растение од пламен
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение што е изгорено по рабовите.
+CLT_PLANT_CHICKEN:
+  name: Растение од кокошка
+  type:
+  - '&7&oРастение'
+  description:
+  - Се шушка дека ако го држиш ова
+  - семе над главата и скокнеш од
+  - високо место, ќе лебдиш наместо
+  - да паднеш.
+CLT_PLANT_CLAY:
+  name: Растение од глина
+  type:
+  - '&7&oРастение'
+  description:
+  - Ова растение може слободно да се обликува и преобликува.
+  - Тоа не значи дека е добра идеја да го правиш,
+  - сепак!
+CLT_PLANT_COAL:
+  name: Растение од јаглен
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение што крие толкав потенцијал.
+CLT_PLANT_COBBLESTONE:
+  name: Растение од калдрма
+  type:
+  - '&7&oРастение'
+  description:
+  - Ова растение е тврдо како камен.
+CLT_PLANT_CONCRETE:
+  name: Растение од бетон
+  type:
+  - '&7&oРастение'
+  description:
+  - Ова растение тешко расте бидејќи
+  - се стврднува толку брзо.
+CLT_PLANT_COW:
+  name: Растение од крава
+  type:
+  - '&7&oРастение'
+  description:
+  - Ако го ставиш ова семе до уво
+  - и слушаш многу внимателно, ќе слушнеш
+  - повремено мукање.
+CLT_PLANT_CREEPER:
+  name: Растение од крипер
+  type:
+  - '&7&oРастение'
+  description:
+  - Тссссссссссттт...
+CLT_PLANT_DARKNESS:
+  name: Растение од исконска темнина
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение што врие од необуздан
+  - бес.
+  - '&eИсконските растенија не даваат предмети'
+  - '&eи служат само за вкрстување.'
+CLT_PLANT_DARK_FLORA:
+  name: Растение од темна флора
+  type:
+  - '&7&oРастение'
+  description:
+  - Тивко зло седи во ова едноставно семе.
+CLT_PLANT_DARK_GRASS:
+  name: Растение од темна трева
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение што навистина го изгубило својот
+  - идентитет.
+CLT_PLANT_DEEPSLATE:
+  name: Растение од шкрилец
+  type:
+  - '&7&oРастение'
+  description:
+  - Длабоко, шкрилесто, <внеси опис тука>.
+CLT_PLANT_DIAMOND:
+  name: Растение од дијамант
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение што просто зборува за богатство.
+CLT_PLANT_DIM_LIT:
+  name: Слабо осветлено растение
+  type:
+  - '&7&oРастение'
+  description:
+  - Многу слаба светлина свети од ова семе.
+CLT_PLANT_DIRT:
+  name: Растение од земја
+  type:
+  - '&7&oРастение'
+  description:
+  - Валкано на површината, но ги чува
+  - градежните блокови на самиот живот.
+CLT_PLANT_DROWNED:
+  name: Растение од удавеник
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение што е мокро до гола кожа,
+  - цело време.
+CLT_PLANT_DUSTY:
+  name: Прашливо растение
+  type:
+  - '&7&oРастение'
+  description:
+  - Ова растение бара посебна грижа, и најмалиот
+  - посилен ветер може да е доволен да се
+  - распадне.
+CLT_PLANT_EARTH:
+  name: Растение од исконска земја
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение што го збогатува светот
+  - околу себе.
+  - '&eИсконските растенија не даваат предмети'
+  - '&eи служат само за вкрстување.'
+CLT_PLANT_ECHO:
+  name: Растение од ехо
+  type:
+  - '&7&oРастение'
+  description:
+  - Ова растение секогаш знае како да го најде
+  - патот до дома.
+CLT_PLANT_ELDER_GUARDIAN:
+  name: Растение од чувар старешина
+  type:
+  - '&7&oРастение'
+  description:
+  - Близината на ова растение ги прави луѓето
+  - мрзливи.
+CLT_PLANT_EMERALD:
+  name: Растение од смарагд
+  type:
+  - '&7&oРастение'
+  description:
+  - Сопствениците на ова растение мора да скокаат
+  - низ обрачи само за да можат да си го дозволат.
+CLT_PLANT_ENDERMAN:
+  name: Растение од ендермен
+  type:
+  - '&7&oРастение'
+  description:
+  - Ако не се постапува внимателно, ова растение
+  - може случајно да се телепортира!
+CLT_PLANT_ENDER_DRAGON:
+  name: Растение од ендер змеј
+  type:
+  - '&7&oРастение'
+  description:
+  - Вистински газда од растение.
+CLT_PLANT_END_STONE:
+  name: Растение од енд камен
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение што бруи со празнината.
+CLT_PLANT_FIRE:
+  name: Растение од исконски оган
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение што ги дава и
+  - изворите на уништувањето и
+  - на повторното раѓање.
+  - '&eИсконските растенија не даваат предмети'
+  - '&eи служат само за вкрстување.'
+CLT_PLANT_FISH:
+  name: Растение од риба
+  type:
+  - '&7&oРастение'
+  description:
+  - Зрел мирис се шири од ова семе.
+CLT_PLANT_FLOWER:
+  name: Цветно растение
+  type:
+  - '&7&oРастение'
+  description:
+  - Прекрасен рог на изобилството, убаво поднесен.
+CLT_PLANT_FROG:
+  name: Растение од жаба
+  type:
+  - '&7&oРастение'
+  description:
+  - Квак!
+CLT_PLANT_GHAST:
+  name: Растение од гаст
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение за кое се знае дека
+  - случајно исфрла огнени топки.
+CLT_PLANT_GLASS:
+  name: Растение од стакло
+  type:
+  - '&7&oРастение'
+  description:
+  - Под вистинскиот агол, би се заколнал
+  - дека гледаш низ ова растение.
+CLT_PLANT_GLAZED:
+  name: Глазирано растение
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение што расте со сложена шара.
+CLT_PLANT_GLOWING_VINE:
+  name: Растение од сјајна лоза
+  type:
+  - '&7&oРастение'
+  description:
+  - Слаба светлина свети од ова семе.
+CLT_PLANT_GLOW_SQUID:
+  name: Растение од сјајна лигња
+  type:
+  - '&7&oРастение'
+  description:
+  - Блескаво растение со слаб сјај.
+CLT_PLANT_GOAT:
+  name: Растение од коза
+  type:
+  - '&7&oРастение'
+  description:
+  - Ненадејно насилно растение што сака
+  - да скока наоколу.
+CLT_PLANT_GRASS:
+  name: Растение од трева
+  type:
+  - '&7&oРастение'
+  description:
+  - Бујниот живот избива нанадвор
+  - од земјата.
+CLT_PLANT_GRAVEL:
+  name: Растение од чакал
+  type:
+  - '&7&oРастение'
+  description:
+  - Ова растение навистина не знае како
+  - да се држи на куп.
+CLT_PLANT_GUARDIAN:
+  name: Растение од чувар
+  type:
+  - '&7&oРастение'
+  description:
+  - Кога ќе се допре, ова растение исфрла
+  - бодли.
+CLT_PLANT_IGNEOUS:
+  name: Вулканско растение
+  type:
+  - '&7&oРастение'
+  description:
+  - Ова растение е создадено од топлина и
+  - притисок. Не гледај ме така! Сите
+  - овие описи на растенија имаат полна смисла.
+CLT_PLANT_LAPIS:
+  name: Растение од лапис
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение со слаба магична аура.
+CLT_PLANT_LIGHT:
+  name: Растение од исконска светлина
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение што исијава аура
+  - на чиста љубов.
+  - '&eИсконските растенија не даваат предмети'
+  - '&eи служат само за вкрстување.'
+CLT_PLANT_MAGMA:
+  name: Растение од магма
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение толку жешко што ја пали
+  - својата околина.
+CLT_PLANT_MAGMA_CUBE:
+  name: Растение од магма коцка
+  type:
+  - '&7&oРастение'
+  description:
+  - Кога никој не гледа, ова растение
+  - сака да потскокнува горе-долу.
+CLT_PLANT_MOSS:
+  name: Растение од мов
+  type:
+  - '&7&oРастение'
+  description:
+  - Ова растение има навика да се шири неконтролирано.
+CLT_PLANT_MUD:
+  name: Растение од кал
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение што е речиси валкано колку
+  - земјата од која потекнува.
+CLT_PLANT_MUSHROOM:
+  name: Растение од печурка
+  type:
+  - '&7&oРастение'
+  description:
+  - Аха, растение што прави печурки.
+  - Сè е тотално нормално тука.
+CLT_PLANT_NETHERRACK:
+  name: Растение од недер камен
+  type:
+  - '&7&oРастение'
+  description:
+  - Цврсто, издржливо растение што може да преживее
+  - на повеќето места.
+CLT_PLANT_NETHER_QUARTZ:
+  name: Растение од недер кварц
+  type:
+  - '&7&oРастение'
+  description:
+  - Ова растение има толку остри трни што
+  - е тешко да се работи со него.
+CLT_PLANT_PHANTOM:
+  name: Растение од фантом
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение со возвишени листови.
+CLT_PLANT_PIG:
+  name: Растение од прасе
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение што одвреме-навреме грокта.
+CLT_PLANT_POWER:
+  name: Растение од исконска моќ
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение што буквално исијава моќ.
+  - '&eИсконските растенија не даваат предмети'
+  - '&eи служат само за вкрстување.'
+CLT_PLANT_PURPUR:
+  name: Растение од пурпур
+  type:
+  - '&7&oРастение'
+  description:
+  - Чудно растение, се чини многу полесно
+  - од повеќето.
+CLT_PLANT_RABBIT:
+  name: Растение од зајак
+  type:
+  - '&7&oРастение'
+  description:
+  - Бубачките би биле горди.
+CLT_PLANT_RAINBOW:
+  name: Растение од виножито
+  type:
+  - '&7&oРастение'
+  description:
+  - Можеби има, а можеби нема ќуп злато
+  - на крајот од ова растение.
+CLT_PLANT_RAW_COPPER:
+  name: Растение од суров бакар
+  type:
+  - '&7&oРастение'
+  description:
+  - Ако се остави само, ова растение понекогаш
+  - привлекува гром.
+CLT_PLANT_RAW_GOLD:
+  name: Растение од сурово злато
+  type:
+  - '&7&oРастение'
+  description:
+  - Ова растение често го крадат Свинските Луѓе
+  - ако се во близина.
+CLT_PLANT_RAW_IRON:
+  name: Растение од сурово железо
+  type:
+  - '&7&oРастение'
+  description:
+  - Цврсто растение што може да издржи повеќето
+  - средини.
+CLT_PLANT_REDSTONE:
+  name: Растение од редстоун
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение што насекаде прелева од моќ.
+CLT_PLANT_RED_SAND:
+  name: Растение од црвен песок
+  type:
+  - '&7&oРастение'
+  description:
+  - Ова растение понекогаш може да се распадне
+  - на едно допирање, но... поцрвено.
+CLT_PLANT_REINFORCED:
+  name: Зајакнато растение
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение што може да се одржи исправено
+  - низ сè.
+CLT_PLANT_SAND:
+  name: Растение од песок
+  type:
+  - '&7&oРастение'
+  description:
+  - Ова растение понекогаш може да се распадне
+  - на едно допирање.
+CLT_PLANT_SAPLING:
+  name: Растение од фиданка
+  type:
+  - '&7&oРастение'
+  description:
+  - Ова растение воопшто нема смисла...
+CLT_PLANT_SCRAPPY:
+  name: Растение од остатоци
+  type:
+  - '&7&oРастение'
+  description:
+  - Ова растение навистина е врвот на
+  - хортикултурата.
+CLT_PLANT_SHEEP:
+  name: Растение од овца
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение со груба волнеста текстура.
+CLT_PLANT_SHULKER:
+  name: Растение од шулкер
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение што често лебди над
+  - земјата.
+CLT_PLANT_SKELETON:
+  name: Растение од скелет
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение што трака додека се ниша.
+CLT_PLANT_SLIME:
+  name: Растение од слуз
+  type:
+  - '&7&oРастение'
+  description:
+  - Зошто е толку лепливо?
+CLT_PLANT_SOUL:
+  name: Растение од душа
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение што може да се слушне како вреска
+  - кога е тивко.
+CLT_PLANT_SPECTRUM:
+  name: Растение од исконски спектар
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение што малку ја менува својата боја.
+  - '&eИсконските растенија не даваат предмети'
+  - '&eи служат само за вкрстување.'
+CLT_PLANT_SPIDER:
+  name: Растение од пајак
+  type:
+  - '&7&oРастение'
+  description:
+  - Убиј го, убиј го ВЕДНАШ!
+CLT_PLANT_SQUID:
+  name: Растение од лигња
+  type:
+  - '&7&oРастение'
+  description:
+  - Внимавај, само допирот на ова растение
+  - може да предизвика експлозија на мастило
+  - насекаде.
+CLT_PLANT_STAINED:
+  name: Обоено растение
+  type:
+  - '&7&oРастение'
+  description:
+  - Ова растение ја разложува светлината во вистински
+  - спектар врз блиските предмети.
+CLT_PLANT_TERRA:
+  name: Растение од тера
+  type:
+  - '&7&oРастение'
+  description:
+  - Тврдо земјено растение што пука под притисок.
+CLT_PLANT_TURTLE:
+  name: Растение од желка
+  type:
+  - '&7&oРастение'
+  description:
+  - Семе обвиткано со лушпа тврда како камен.
+CLT_PLANT_VILLAGER:
+  name: Растение од селанец
+  type:
+  - '&7&oРастение'
+  description:
+  - Аха, ја згуснавме суштината на селанец
+  - во растение. Наводно многу болело.
+CLT_PLANT_VINE:
+  name: Растение од лоза
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение што веднаш се заплеткува
+  - само во себе.
+CLT_PLANT_WATER:
+  name: Растение од исконска вода
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение што негува и дава
+  - живот на околината.
+  - '&eИсконските растенија не даваат предмети'
+  - '&eи служат само за вкрстување.'
+CLT_PLANT_WAXY:
+  name: Восочно растение
+  type:
+  - '&7&oРастение'
+  description:
+  - Сокот од ова растение се претвора во
+  - восок совршено во облик на свеќа.
+CLT_PLANT_WEALTH:
+  name: Растение од исконско богатство
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение што просто извикува раскошно богатство.
+  - '&eИсконските растенија не даваат предмети'
+  - '&eи служат само за вкрстување.'
+CLT_PLANT_WITCH:
+  name: Растение од вештерка
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение што звучи како тивко да
+  - мрмори магии.
+CLT_PLANT_WITHER:
+  name: Растение од видер
+  type:
+  - '&7&oРастение'
+  description:
+  - Смртоносно растение со кое мора да се постапува
+  - внимателно.
+CLT_PLANT_WITHER_ROSE:
+  name: Растение од видер роза
+  type:
+  - '&7&oРастение'
+  description:
+  - Ова растение, некако, пулсира со штетна
+  - аура околу себе.
+CLT_PLANT_WITHER_SKELETON:
+  name: Растение од видер скелет
+  type:
+  - '&7&oРастение'
+  description:
+  - Растение познато како неуловливо и издржливо.
+CLT_PLANT_WOOLLY:
+  name: Волнено растение
+  type:
+  - '&7&oРастение'
+  description:
+  - Волнесто растение, од корен до ливчиња!
+CLT_PLANT_ZOMBIE:
+  name: Растение од зомби
+  type:
+  - '&7&oРастение'
+  description:
+  - Од ова растение капе... нешто...
+CLT_RADDISH:
+  name: Ротквица
+  type:
+  - '&7&oРод'
+  description:
+  - Мали џепчиња свежо, хрскаво сонце.
+CLT_RADICCHIO:
+  name: Радич
+  type:
+  - '&7&oРод'
+  description:
+  - Пишувањето на сите овие описи трае толку долго.
+  - Радич-кулозно е.
+CLT_RAMEN_BEEF:
+  name: Рамен со говедско
+  type:
+  - '&7&oХрана'
+  description:
+  - Не баш здрав избор.
+  stats: &id004
+  - '&8⇨ &bЗасилено здравје I &7(10:00)'
+CLT_RAMEN_BEEF_HEARTY:
+  name: Обилен рамен со говедско
+  type:
+  - '&7&oХрана'
+  description:
+  - Здрав избор.
+  stats: &id005
+  - '&8⇨ &7Лекување: &bЦелосно'
+  - '&8⇨ &bЗасилено здравје II &7(10:00)'
+  - '&8⇨ &bБрзина I &7(10:00)'
+CLT_RAMEN_CHICKEN:
+  name: Рамен со пилешко
+  type:
+  - '&7&oХрана'
+  description:
+  - Не баш заситувачки избор.
+  stats: *id004
+CLT_RAMEN_CHICKEN_HEARTY:
+  name: Обилен рамен со пилешко
+  type:
+  - '&7&oХрана'
+  description:
+  - Заситувачки избор.
+  stats: *id005
+CLT_RAMEN_SEAFOOD:
+  name: Рамен со морска храна
+  type:
+  - '&7&oХрана'
+  description:
+  - Не баш задоволувачки избор.
+  stats: *id004
+CLT_RAMEN_SEAFOOD_HEARTY:
+  name: Обилен рамен со морска храна
+  type:
+  - '&7&oХрана'
+  description:
+  - Задоволувачки избор.
+  stats: *id005
+CLT_RAPESEED:
+  name: Маслодајна репка
+  type:
+  - '&7&oРод'
+  description:
+  - Честопати се користи за правење масла.
+CLT_RECIPE_UNLOCK:
+  name: Свиток со знаење од Култивејшн
+  type:
+  - '&7&oАлат'
+  description:
+  - Кликни десно за да научиш рецепт за
+  - вкрстување од Култивејшн.
+CLT_RHUBARB:
+  name: Равентл
+  type:
+  - '&7&oРод'
+  description:
+  - Само не заборавај да ги извадиш листовите!
+CLT_RICE:
+  name: Ориз
+  type:
+  - '&7&oРод'
+  description:
+  - Запамти, ориз се живее!
+CLT_ROSEMARY:
+  name: Рузмарин
+  type:
+  - '&7&oРод'
+  description:
+  - Секогаш ѝ фали малку душица.
+CLT_RUNNER_BEANS:
+  name: Грав пречкар
+  type:
+  - '&7&oРод'
+  description:
+  - Секогаш се обидува да избега.
+CLT_RUTABAGA:
+  name: Шведска репа
+  type:
+  - '&7&oРод'
+  description:
+  - Навистина боли што ова не го викам шведска.
+CLT_SALMON_NIGIRI:
+  name: Нигири со лосос
+  type:
+  - '&7&oХрана'
+  description:
+  - Прекрасен, а сепак суптилен вкус.
+  stats:
+  - '&8⇨ &7Лекување: &b2 срца'
+  - '&8⇨ &bРегенерација I &7(10:00)'
+CLT_SASSAFRAS:
+  name: Сасафрас
+  type:
+  - '&7&oРод'
+  description:
+  - Пиво од корен што се јаде, сериозно, гугни
+  - го, сега постојано го купувам.
+CLT_SAUSAGE:
+  name: Колбас
+  type:
+  - '&7&oХрана'
+  description:
+  - Братот на сланината.
+  stats: &id007
+  - '&8⇨ &7Лекување: &b1 срце'
+CLT_SEED_PACK:
+  name: Пакет семиња
+  type:
+  - '&7&oАлат'
+  description:
+  - Кликни десно за да го отвориш пакетот.
+  stats:
+  - '&8⇨ &7Поставено на: &bНишто'
+CLT_SHAKSHUKA:
+  name: Шакшука
+  type:
+  - '&7&oХрана'
+  description:
+  - Јадење што го грее срцето, со јајца за цели денови.
+  stats:
+  - '&8⇨ &7Лекување: &b4 срца'
+  - '&8⇨ &bСелски јунак I &7(10:00)'
+  - '&8⇨ &bСреќа I &7(10:00)'
+CLT_SHALLOT:
+  name: Шалот
+  type:
+  - '&7&oРод'
+  description:
+  - Шалот ми е слабост, без шала.
+CLT_SHEPHERDS_PIE:
+  name: Овчарска пита
+  type:
+  - '&7&oХрана'
+  description:
+  - Топло, обилно и едноставно прекрасно.
+  stats: *id006
+CLT_SHISO:
+  name: Шисо
+  type:
+  - '&7&oРод'
+  description:
+  - Нане со прилог од љубов.
+CLT_SLICED_APPLE:
+  name: Нарежано јаболко
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_APRICOT:
+  name: Нарежана кајсија
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_ARTICHOKE:
+  name: Нарежана артичока
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_ASPARAGUS:
+  name: Нарежана шпаргла
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_AUBERGINE:
+  name: Нарежан модар патлиџан
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_AVOCADO:
+  name: Нарежано авокадо
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_BANANA:
+  name: Нарежана банана
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_BASIL:
+  name: Нарежан босилок
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_BAY_LEAF:
+  name: Нарежан ловоров лист
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_BEEF:
+  name: Нарежано говедско месо
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_BEETROOT:
+  name: Нарежано цвекло
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_BELL_PEPPER:
+  name: Нарежана бабура
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_BLACK_BEANS:
+  name: Нарежан црн грав
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_BREAD:
+  name: Нарежан леб
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_BROCCOLI:
+  name: Нарежана брокула
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_BROWN_MUSHROOM:
+  name: Нарежана кафеава печурка
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_BRUSSELS_SPROUTS:
+  name: Нарежан прокељ
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_CABBAGE:
+  name: Нарежана зелка
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_CARROT:
+  name: Нарежан морков
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_CAULIFLOWER:
+  name: Нарежан карфиол
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_CAYENNE_PEPPER:
+  name: Нарежан кајенски пипер
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_CELERIAC:
+  name: Нарежан коренест целер
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_CELERY:
+  name: Нарежан целер
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_CHERRY:
+  name: Нарежана цреша
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_CHESTNUT:
+  name: Нарежан костен
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_CHICKEN:
+  name: Нарежано пилешко месо
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_CHICKPEAS:
+  name: Нарежан наут
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_CHICORY:
+  name: Нарежана цикорија
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_CHILLY_PEPPER:
+  name: Нарежана лута пиперка
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_CHIVES:
+  name: Нарежан власец
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_CHORUS_FRUIT:
+  name: Нарежано хорус овошје
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_CILANTRO:
+  name: Нарежан коријандер
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_CINNAMON:
+  name: Нарежан цимет
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_CLOVE:
+  name: Нарежано каранфилче
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_COCOA_BEANS:
+  name: Нарежани какаови зрна
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_COD:
+  name: Нарежан бакалар
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_COURGETTE:
+  name: Нарежана тиквичка
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_CUCUMBER:
+  name: Нарежана краставица
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_CUMIN:
+  name: Нарежан ким
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_CURRY_LEAF:
+  name: Нарежан лист од кари
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_DILL:
+  name: Нарежан копар
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_EGG:
+  name: Нарежано јајце
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_ENCHANTED_GOLDEN_APPLE:
+  name: Нарежано маѓепсано златно јаболко
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_FENNEL:
+  name: Нарежан морач
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_GARLIC:
+  name: Нарежан лук
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_GINGER:
+  name: Нарежан ѓумбир
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_GLOW_BERRIES:
+  name: Нарежани сјајни бобинки
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_GOLDEN_APPLE:
+  name: Нарежано златно јаболко
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_GOLDEN_CARROT:
+  name: Нарежан златен морков
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_GRAPE:
+  name: Нарежано грозје
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_GREEN_APPLE:
+  name: Нарежано зелено јаболко
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_GREEN_BEANS:
+  name: Нарежана боранија
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_GREEN_ONION:
+  name: Нарежан млад кромид
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_HAZELNUT:
+  name: Нарежан лешник
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_HORSERADISH:
+  name: Нарежан рен
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_JALAPENO:
+  name: Нарежан халапењо
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_JASMINE:
+  name: Нарежан јасмин
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_JUNIPER_BERRY:
+  name: Нарежани бобинки од смрека
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_KAFFIR_LIME:
+  name: Нарежан лист од кафир лимета
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_KALE:
+  name: Нарежан кељ
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_KELP:
+  name: Нарежана алга
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_KIWI:
+  name: Нарежано киви
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_LAVENDER:
+  name: Нарежана лаванда
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_LEEK:
+  name: Нарежан праз
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_LEMON:
+  name: Нарежан лимон
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_LETTUCE:
+  name: Нарежана марула
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_LICORICE:
+  name: Нарежан сладник
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_LIME:
+  name: Нарежана лимета
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_MACE:
+  name: Нарежан мушкатов цвет
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_MANGO:
+  name: Нарежано манго
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_MARJORAM:
+  name: Нарежан мајоран
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_MARROW:
+  name: Нарежана летна тиква
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_MELON:
+  name: Нарежана лубеница
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_MINT:
+  name: Нарежано нане
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_MUSTARD_SEEDS:
+  name: Нарежани зрна синап
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_MUTTON:
+  name: Нарежано овчо месо
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_NETTLES:
+  name: Нарежани коприви
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_OKRA:
+  name: Нарежана бамја
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_ONION:
+  name: Нарежан кромид
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_ORANGE:
+  name: Нарежан портокал
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_OREGANO:
+  name: Нарежано оригано
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_PARSLEY:
+  name: Нарежан магдонос
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_PARSNIP:
+  name: Нарежан пашканат
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_PEA:
+  name: Нарежан грашок
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_PEACH:
+  name: Нарежана праска
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_PEANUT:
+  name: Нарежана кикиритка
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_PEAR:
+  name: Нарежана круша
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_PECAN:
+  name: Нарежан пекан
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_PEPPER:
+  name: Нарежан црн пипер
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_PEPPERONI:
+  name: Нарежани пеперони
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_PINEAPPLE:
+  name: Нарежан ананас
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_PINTO_BEANS:
+  name: Нарежан пинто грав
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_PORKCHOP:
+  name: Нарежано свинско месо
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_POTATO:
+  name: Нарежан компир
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_PUFFERFISH:
+  name: Нарежана риба-балон
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_PUMPKIN:
+  name: Нарежана тиква
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_RABBIT:
+  name: Нарежано зајачко месо
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_RADDISH:
+  name: Нарежана ротквица
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_RADICCHIO:
+  name: Нарежан радич
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_RAPESEED:
+  name: Нарежана маслодајна репка
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_RED_MUSHROOM:
+  name: Нарежана црвена печурка
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_RHUBARB:
+  name: Нарежан равентл
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_RICE:
+  name: Нарежан ориз
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_ROSEMARY:
+  name: Нарежан рузмарин
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_ROTTEN_FLESH:
+  name: Нарежано скапано месо
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_RUNNER_BEANS:
+  name: Нарежан грав пречкар
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_RUTABAGA:
+  name: Нарежана шведска репа
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_SALMON:
+  name: Нарежан лосос
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_SASSAFRAS:
+  name: Нарежан сасафрас
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_SHALLOT:
+  name: Нарежан шалот
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_SHISO:
+  name: Нарежано шисо
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_SOY_BEANS:
+  name: Нарежана соја
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_SPINACH:
+  name: Нарежан спанаќ
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_STAR_ANISE:
+  name: Нарежан ѕвездест анасон
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_STRAWBERRY:
+  name: Нарежана јагода
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_SUGAR:
+  name: Нарежан шеќер
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_SWEETCORN:
+  name: Нарежана пченка
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_SWEET_BERRIES:
+  name: Нарежани слатки бобинки
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_SWEET_POTATO:
+  name: Нарежан сладок компир
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_TARRAGON:
+  name: Нарежан естрагон
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_THYME:
+  name: Нарежана мајчина душица
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_TOMATO:
+  name: Нарежан домат
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_TURMERIC:
+  name: Нарежана куркума
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_TURNIP:
+  name: Нарежана репа
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_VANILLA:
+  name: Нарежана ванила
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_WASABI:
+  name: Нарежано васаби
+  type:
+  - '&7&oНуспроизвод'
+CLT_SLICED_WHEAT:
+  name: Нарежана пченица
+  type:
+  - '&7&oНуспроизвод'
+CLT_SOFT_BOILED_EGG:
+  name: Ровито јајце
+  type:
+  - '&7&oХрана'
+  description:
+  - Само варено јајце, што друго да се каже.
+  stats:
+  - '&8⇨ &7Лекување: &b1 срце'
+  - '&8⇨ &7Понекогаш може да повика кокошка на помош.'
+CLT_SOYLENT:
+  name: Сојлент
+  type:
+  - '&7&oХрана'
+  description:
+  - Сè што му треба на телото!
+  stats:
+  - '&8⇨ &bЛош предзнак I &7(10:00)'
+  - '&8⇨ &bСлабост IV &7(10:00)'
+CLT_SOY_BEANS:
+  name: Соја
+  type:
+  - '&7&oРод'
+  description:
+  - Сојиното млеко доаѓа.
+CLT_SPAGHETTI:
+  name: Шпагети
+  type:
+  - '&7&oХрана'
+  description:
+  - Само продолжи да срчеш.
+  stats: *id007
+CLT_SPAGHETTI_AND_MEATBALLS:
+  name: Шпагети со ќофтиња
+  type:
+  - '&7&oХрана'
+  description:
+  - Едноставно, класично и обилно.
+  stats:
+  - '&8⇨ &7Лекување: &b1 срце'
+  - '&8⇨ &bЛош предзнак I &7(10:00)'
+CLT_SPINACH:
+  name: Спанаќ
+  type:
+  - '&7&oРод'
+  description:
+  - Свенато со љубов.
+CLT_STAR_ANISE:
+  name: Ѕвездест анасон
+  type:
+  - '&7&oРод'
+  description:
+  - Еден од најдобрите и најуникатните вкусови.
+CLT_STRAWBERRY:
+  name: Јагода
+  type:
+  - '&7&oРод'
+  description:
+  - Само додај павлака!
+CLT_STRAWBERRY_JELLY:
+  name: Желе од јагоди
+  type:
+  - '&7&oРод'
+  description: *id008
+CLT_SUGARED_SKULL:
+  name: Шеќерен череп
+  type:
+  - '&7&oХрана'
+  description:
+  - Дали ова воопшто е храна...?
+  stats:
+  - '&8⇨ &bТемнина III &7(10:00)'
+CLT_SWEETCORN:
+  name: Пченка
+  type:
+  - '&7&oРод'
+  description:
+  - Можеби најдобриот зеленчук наоколу.
+CLT_SWEET_BEEHIVE:
+  name: Слатка кошница
+  type:
+  - '&7&oХрана'
+  description:
+  - Не знам што те натера да го готвиш ова!
+  stats:
+  - '&8⇨ &7Повикува неколку пчели!'
+CLT_SWEET_POTATO:
+  name: Сладок компир
+  type:
+  - '&7&oРод'
+  description:
+  - Јам јам јам.
+CLT_TAQUITO:
+  name: Такито
+  type:
+  - '&7&oХрана'
+  description:
+  - Зим би бил горд!
+  stats:
+  - '&8⇨ &7Лекување: &b4 срца'
+  - '&8⇨ &7Го повикува Гир да помогне (Тоа е Железен голем, опушти се).'
+CLT_TARRAGON:
+  name: Естрагон
+  type:
+  - '&7&oРод'
+  description:
+  - Буквално го ставам ова на сè.
+  - 'Спојлер: Не сум добар готвач.'
+CLT_TATER_TOTS:
+  name: Компирчиња крокети
+  type:
+  - '&7&oХрана'
+  description:
+  - Мали компирчиња за грицкање.
+  stats:
+  - '&8⇨ &7Лекување: &b0.5 срца'
+  - '&8⇨ &bБрзина II &7(10:00)'
+CLT_THYME:
+  name: Мајчина душица
+  type:
+  - '&7&oРод'
+  description:
+  - Честопати пропуштен рузмарин.
+CLT_TOMATO:
+  name: Домат
+  type:
+  - '&7&oРод'
+  description:
+  - Директно од лозата.... ах... грмушката?
+CLT_TORTILLAS:
+  name: Тортиљи
+  type:
+  - '&7&oРод'
+  description:
+  - Задоволства од пченкарно брашно
+CLT_TREE_APRICOT:
+  name: Дрво кајсија
+  type:
+  - '&7&oФиданка'
+  description:
+  - Внатре е една единствена коска на очајот.
+  stats: &id009
+  - '&8⇨ &7Дизајн: &bБиВајт'
+CLT_TREE_BANANA:
+  name: Дрво банана
+  type:
+  - '&7&oФиданка'
+  description:
+  - Дрво на кое растат прсти, морничаво!
+  stats:
+  - '&8⇨ &7Дизајн: &bСефираат'
+CLT_TREE_CHERRY:
+  name: Дрво цреша
+  type:
+  - '&7&oФиданка'
+  description:
+  - Врзи го јазолот!
+  stats:
+  - '&8⇨ &7Дизајн: &bРизонФаундДекој'
+CLT_TREE_CHESTNUT:
+  name: Дрво костен
+  type:
+  - '&7&oФиданка'
+  description:
+  - Дрво очигледно создадено за качување.
+  stats: &id010
+  - '&8⇨ &7Дизајн: &bАБитОдиш'
+CLT_TREE_GREEN_APPLE:
+  name: Дрво зелено јаболко
+  type:
+  - '&7&oФиданка'
+  description:
+  - Раѓа големи и хрскави зелени јаболка.
+  stats: *id009
+CLT_TREE_HAZELNUT:
+  name: Дрво лешник
+  type:
+  - '&7&oФиданка'
+  description:
+  - Тресењето на ова дрво е детска забава.
+  stats: *id010
+CLT_TREE_KIWI:
+  name: Дрво киви
+  type:
+  - '&7&oФиданка'
+  description:
+  - Дрво од Нов Зеланд? Дали добро погодив?
+  stats: *id010
+CLT_TREE_LEMON:
+  name: Дрво лимон
+  type:
+  - '&7&oФиданка'
+  description:
+  - Само гледањето во ова дрво има кисел вкус.
+  stats: &id011
+  - '&8⇨ &7Дизајн: &bЏеф'
+CLT_TREE_LIME:
+  name: Дрво лимета
+  type:
+  - '&7&oФиданка'
+  description:
+  - Дали знаеше дека лиметите се само лимони што го задржуваат здивот?
+  stats: *id010
+CLT_TREE_MANGO:
+  name: Дрво манго
+  type:
+  - '&7&oФиданка'
+  description:
+  - Најдобро кога е најзрело.
+  stats: *id009
+CLT_TREE_ORANGE:
+  name: Дрво портокал
+  type:
+  - '&7&oФиданка'
+  description:
+  - Мали топчиња сонце.
+  stats: *id011
+CLT_TREE_PEACH:
+  name: Дрво праска
+  type:
+  - '&7&oФиданка'
+  description:
+  - Џејмс го бараше ова, мислам?
+  stats: *id010
+CLT_TREE_PEAR:
+  name: Дрво круша
+  type:
+  - '&7&oФиданка'
+  description:
+  - Пар круши се спарија во парови за парност.
+  stats: *id009
+CLT_TREE_PECAN:
+  name: Дрво пекан
+  type:
+  - '&7&oФиданка'
+  description:
+  - Може ли да го одгледаме ова дрво? Пе-како да не!
+  stats: *id009
+CLT_TREE_PINEAPPLE:
+  name: Дрво ананас
+  type:
+  - '&7&oФиданка'
+  description:
+  - КАДЕ МИ Е ПИЦАТА?
+  stats: *id010
+CLT_TURMERIC:
+  name: Куркума
+  type:
+  - '&7&oРод'
+  description:
+  - Силно мошусно присуство што исполнува многу јадења.
+CLT_TURNIP:
+  name: Репа
+  type:
+  - '&7&oРод'
+  description:
+  - Ќе ги реши сите животни проблеми.
+CLT_VANILLA:
+  name: Ванила
+  type:
+  - '&7&oРод'
+  description:
+  - 'Упатство: Потопи директно во лате'
+CLT_WASABI:
+  name: Васаби
+  type:
+  - '&7&oРод'
+  description:
+  - Помош... васаби...
+CLT_WITHER_ROSE_SALAD:
+  name: Салата од видер роза
+  type:
+  - '&7&oХрана'
+  description:
+  - Полно со моќ, но со суров несакан ефект.
+  stats:
+  - '&8⇨ &7Лекување: &bЦелосно'
+  - '&8⇨ &bВидер II &7(10:00)'
+  - '&8⇨ &bЗасилено здравје XX &7(10:00)'
