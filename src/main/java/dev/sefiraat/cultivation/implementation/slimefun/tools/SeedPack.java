@@ -9,8 +9,6 @@ import io.github.thebusybiscuit.slimefun5.api.items.ItemGroup;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItem;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
 import io.github.thebusybiscuit.slimefun5.api.recipes.RecipeType;
-import io.github.thebusybiscuit.slimefun5.core.attributes.NotPlaceable;
-import io.github.thebusybiscuit.slimefun5.core.handlers.BlockPlaceHandler;
 import io.github.thebusybiscuit.slimefun5.core.handlers.ItemUseHandler;
 import io.github.thebusybiscuit.slimefun5.libraries.dough.data.persistent.PersistentDataAPI;
 import io.github.thebusybiscuit.slimefun5.libraries.dough.items.CustomItemStack;
@@ -19,15 +17,12 @@ import me.mrCookieSlime.CSCoreLibPlugin.general.Inventory.ChestMenu;
 import me.mrCookieSlime.CSCoreLibPlugin.general.Inventory.ClickAction;
 import org.bukkit.Material;
 import org.bukkit.entity.Player;
-import org.bukkit.event.block.BlockPlaceEvent;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.ItemMeta;
 import javax.annotation.Nonnull;
 
 import javax.annotation.Nonnull;
-import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.List;
 
 public class SeedPack extends SlimefunItem {
 
@@ -254,15 +249,6 @@ public class SeedPack extends SlimefunItem {
             ItemMeta itemMeta = this.packStack.getItemMeta();
             if (itemMeta != null) {
                 PersistentDataAPI.set(itemMeta, SeedPackDataType.KEY, SeedPackDataType.TYPE, this.instance);
-                List<String> lore = itemMeta.hasLore() && itemMeta.getLore() != null
-                    ? new ArrayList<>(itemMeta.getLore())
-                    : new ArrayList<>();
-                if (lore.size() > 3) {
-                    lore.set(3, Theme.CLICK_INFO.asTitle("Set to", plant.getItemName()));
-                } else {
-                    lore.add(Theme.CLICK_INFO.asTitle("Set to", plant.getItemName()));
-                }
-                itemMeta.setLore(lore);
                 this.packStack.setItemMeta(itemMeta);
             }
         }

@@ -1,7 +1,7 @@
 package dev.sefiraat.cultivation.implementation.slimefun.tools;
 
 
-import com.google.common.collect.ImmutableList;
+import io.github.thebusybiscuit.slimefun5.implementation.Slimefun;
 import com.google.common.base.Preconditions;
 import dev.sefiraat.cultivation.Registry;
 import dev.sefiraat.cultivation.api.slimefun.groups.CultivationGroups;
@@ -21,8 +21,6 @@ import org.bukkit.persistence.PersistentDataType;
 
 import javax.annotation.Nonnull;
 import javax.annotation.Nullable;
-import java.util.ArrayList;
-import java.util.List;
 import java.util.concurrent.ThreadLocalRandom;
 
 public class RecipeUnlock extends SlimefunItem {
@@ -49,7 +47,7 @@ public class RecipeUnlock extends SlimefunItem {
                 return;
             }
             StatisticUtils.unlockDiscovery(player, possibleId);
-            String message = "You have successfully learned how to breed: " + slimefunItem.getItemName();
+            String message = "You have successfully learned how to breed: " + Slimefun.getItemTranslationService().getName(player, slimefunItem);
             itemStack.setAmount(0);
             player.sendMessage(Theme.SUCCESS.apply(message));
         };
@@ -65,23 +63,10 @@ public class RecipeUnlock extends SlimefunItem {
 
         Preconditions.checkArgument(itemMeta != null, "Shouldn't be possible, but ItemMeta is null.");
 
-        setLore(itemMeta, pair.getChild().getItemName());
         setPersistence(itemMeta, childId);
 
         itemStack.setItemMeta(itemMeta);
         return itemStack;
-    }
-
-    private void setLore(@Nonnull ItemMeta itemMeta, @Nonnull String childName) {
-        // Setup the lore
-        List<String> lore = itemMeta.hasLore() && itemMeta.getLore() != null ? itemMeta.getLore() : ImmutableList.of();
-        List<String> newLore = new ArrayList<>();
-
-        for (String string : lore) {
-            newLore.add(string.replace("{0}", childName));
-        }
-
-        itemMeta.setLore(newLore);
     }
 
     private void setPersistence(@Nonnull ItemMeta itemMeta, @Nonnull String id) {

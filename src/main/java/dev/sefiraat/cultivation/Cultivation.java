@@ -9,6 +9,8 @@ import dev.sefiraat.cultivation.implementation.slimefun.items.Plants;
 import dev.sefiraat.cultivation.implementation.slimefun.items.Products;
 import dev.sefiraat.cultivation.implementation.slimefun.items.Tools;
 import dev.sefiraat.cultivation.implementation.slimefun.items.Trees;
+import dev.sefiraat.cultivation.implementation.localization.CultivationTextResolver;
+import dev.sefiraat.cultivation.implementation.localization.ResolverTexts;
 import dev.sefiraat.cultivation.managers.ConfigManager;
 import dev.sefiraat.cultivation.managers.DispatchManager;
 import dev.sefiraat.cultivation.managers.ListenerManager;
@@ -61,6 +63,7 @@ public class Cultivation extends JavaPlugin implements SlimefunAddon {
         setupStats();
 
         Slimefun.getItemTranslationService().registerTranslations(this);
+        Slimefun.getItemTranslationService().registerResolver(new CultivationTextResolver(ResolverTexts.load(this, "messages.yml")));
         Slimefun.getLocalization().registerItemGroupTranslations(this);
         Slimefun.getLocalization().registerRecipeTypeTranslations(this);
     }

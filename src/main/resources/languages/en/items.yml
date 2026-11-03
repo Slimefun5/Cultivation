@@ -7053,8 +7053,6 @@ CLT_RECIPE_UNLOCK:
   description:
     - 'Right click to learn a Cultivation'
     - 'breeding recipe.'
-  stats:
-    - '&8⇨ &7Unlocks: &b{0}'
 
 CLT_RHUBARB:
   name: 'Rhubarb'

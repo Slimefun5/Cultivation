@@ -1,5 +1,7 @@
 package dev.sefiraat.cultivation.implementation.slimefun.tools;
 
+import org.bukkit.ChatColor;
+import io.github.thebusybiscuit.slimefun5.implementation.Slimefun;
 import dev.sefiraat.cultivation.api.datatypes.instances.FloraLevelProfile;
 import dev.sefiraat.cultivation.api.interfaces.CultivationBushHolder;
 import dev.sefiraat.cultivation.api.interfaces.CultivationLevelProfileHolder;
@@ -65,7 +67,7 @@ public class PlantAnalyser extends SimpleSlimefunItem<ItemUseHandler> implements
             profile.setAnalyzed(true);
             profileHolder.setLevelProfile(block.getLocation(), profile);
             Player player = event.getPlayer();
-            player.sendMessage(Theme.CLICK_INFO.apply(item.getItemName()));
+            player.sendMessage(Theme.CLICK_INFO.apply(Slimefun.getItemTranslationService().getName(player, item)));
             player.sendMessage(Theme.CLICK_INFO.asTitle("Drop Level", profile.getLevel()));
             player.sendMessage(Theme.CLICK_INFO.asTitle("Growth Speed", profile.getSpeed()));
             player.sendMessage(Theme.CLICK_INFO.asTitle("Breed Strength", profile.getStrength()));
@@ -77,17 +79,20 @@ public class PlantAnalyser extends SimpleSlimefunItem<ItemUseHandler> implements
         if (group == null) {
             return;
         }
-        String name = item.getItemName();
-        String[] split = name.split(":");
-        if (split.length > 1) {
-            name = split[1].trim();
-        }
+        String name = displayedName(item);
 
         if (DisplayGroupGenerators.hasName(group)) {
             DisplayGroupGenerators.removeNameFromGroup(group);
         } else {
             DisplayGroupGenerators.addNameToGroup(group, name);
         }
+    }
+
+    /** The name floats above the plant for everyone at once, so it is in the server's language, not a viewer's. */
+    @Nonnull
+    private static String displayedName(@Nonnull SlimefunItem item) {
+        String name = Slimefun.getItemTranslationService().getNameForLanguage(null, item.getId());
+        return ChatColor.stripColor(name != null ? name : item.getId());
     }
 
     @Nullable

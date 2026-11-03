@@ -21,7 +21,6 @@ import dev.sefiraat.cultivation.api.utils.StatisticUtils;
 import dev.sefiraat.cultivation.implementation.utils.Keys;
 import dev.sefiraat.cultivation.libs.sefilib.entity.display.DisplayInteractable;
 import dev.sefiraat.cultivation.libs.sefilib.misc.ParticleUtils;
-import dev.sefiraat.cultivation.libs.sefilib.string.Theme;
 import dev.sefiraat.cultivation.libs.sefilib.world.LocationUtils;
 import io.github.thebusybiscuit.slimefun5.libraries.dough.data.persistent.PersistentDataAPI;
 import io.github.thebusybiscuit.slimefun5.api.SlimefunAddon;
@@ -47,7 +46,6 @@ import javax.annotation.Nonnull;
 import javax.annotation.Nullable;
 import javax.annotation.OverridingMethodsMustInvokeSuper;
 import javax.annotation.ParametersAreNonnullByDefault;
-import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
@@ -312,17 +310,6 @@ public abstract class CultivationPlant extends CultivationFloraItem<CultivationP
             FloraLevelProfileDataType.TYPE,
             profile
         );
-
-        if (profile.isAnalyzed()) {
-            List<String> lore = itemMeta.hasLore() && itemMeta.getLore() != null
-                ? new ArrayList<>(itemMeta.getLore())
-                : new ArrayList<>();
-            lore.add("");
-            lore.add(Theme.CLICK_INFO.asTitle("Drop Level", profile.getLevel()));
-            lore.add(Theme.CLICK_INFO.asTitle("Speed", profile.getSpeed()));
-            lore.add(Theme.CLICK_INFO.asTitle("Breed Strength", profile.getStrength()));
-            itemMeta.setLore(lore);
-        }
 
         itemToDrop.setItemMeta(itemMeta);
         return itemToDrop;

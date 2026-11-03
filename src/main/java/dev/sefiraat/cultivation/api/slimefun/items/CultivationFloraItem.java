@@ -27,17 +27,12 @@ import io.github.thebusybiscuit.slimefun5.core.handlers.BlockUseHandler;
 import me.mrCookieSlime.CSCoreLibPlugin.Configuration.Config;
 import me.mrCookieSlime.Slimefun.Objects.handlers.BlockTicker;
 import me.mrCookieSlime.Slimefun.api.BlockStorage;
-import me.mrCookieSlime.Slimefun.api.inventory.BlockMenu;
-import me.mrCookieSlime.Slimefun.api.inventory.BlockMenuPreset;
-import me.mrCookieSlime.Slimefun.api.item_transport.ItemTransportFlow;
 import org.bukkit.Bukkit;
 import org.bukkit.Location;
 import org.bukkit.Material;
 import org.bukkit.Particle;
 import org.bukkit.block.Block;
 import org.bukkit.block.BlockFace;
-import org.bukkit.entity.HumanEntity;
-import org.bukkit.entity.Player;
 import org.bukkit.event.block.BlockPlaceEvent;
 import org.bukkit.inventory.ItemStack;
 import javax.annotation.Nullable;
@@ -95,42 +90,6 @@ public abstract class CultivationFloraItem<T extends CultivationFloraItem<T>> ex
             },
             (BlockUseHandler) this::onBlockUse
         );
-    }
-
-    @Override
-    public void postRegister() {
-        new BlockMenuPreset(this.getId(), this.getItemName()) {
-
-            @Override
-            public void init() {
-                optOutOfHeaderItem();
-                setSize(9);
-                addMenuOpeningHandler(HumanEntity::closeInventory);
-            }
-
-            @Override
-            public boolean canOpen(@Nonnull Block block, @Nonnull Player player) {
-                return true;
-            }
-
-            @Override
-            public int[] getSlotsAccessedByItemTransport(ItemTransportFlow itemTransportFlow) {
-                return new int[0];
-            }
-
-            @Override
-            public void newInstance(@Nonnull BlockMenu menu, @Nonnull Block block) {
-                String owner = BlockStorage.getLocationInfo(block.getLocation(), Keys.FLORA_OWNER);
-                if (owner != null) {
-                    UUID uuid = UUID.fromString(owner);
-                    addOwner(block.getLocation(), uuid);
-                }
-            }
-        };
-    }
-
-    public void addOwner(@Nonnull Location location, @Nonnull UUID uuid) {
-        ownerCache.put(location, uuid);
     }
 
     @ParametersAreNonnullByDefault
@@ -211,12 +170,21 @@ public abstract class CultivationFloraItem<T extends CultivationFloraItem<T>> ex
 
     protected abstract void updateGrowthStage(@Nonnull Block block, int growthStage);
 
+    /**
+     * @implNote Read from block storage the first time a location is asked for, so the cache needs no hook when a
+     *           chunk loads; upstream registered a menu that closed itself on open just to get that hook.
+     */
     @Nonnull
     public UUID getOwner(@Nonnull Location location) {
-        UUID uuid = ownerCache.get(location);
-        // Owner cannot be null if called correctly
+        UUID uuid = ownerCache.computeIfAbsent(location, CultivationFloraItem::storedOwner);
         Preconditions.checkNotNull(uuid, "Owner is null, has this been called correctly");
         return uuid;
+    }
+
+    @Nullable
+    private static UUID storedOwner(@Nonnull Location location) {
+        String owner = BlockStorage.getLocationInfo(location, Keys.FLORA_OWNER);
+        return owner == null ? null : UUID.fromString(owner);
     }
 
     protected void finalGrowthDisplay(@Nonnull Location location) {

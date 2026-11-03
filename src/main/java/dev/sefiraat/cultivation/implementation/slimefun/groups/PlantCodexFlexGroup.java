@@ -1,6 +1,7 @@
 package dev.sefiraat.cultivation.implementation.slimefun.groups;
 
 
+import io.github.thebusybiscuit.slimefun5.implementation.Slimefun;
 import com.google.common.collect.ImmutableList;
 import dev.sefiraat.cultivation.Registry;
 import dev.sefiraat.cultivation.api.slimefun.groups.CultivationGroups;
@@ -163,7 +164,7 @@ public class PlantCodexFlexGroup extends NestedItemGroup {
                         return false;
                     });
                 } else {
-                    menu.replaceExistingItem(slot, getUndiscovered(child));
+                    menu.replaceExistingItem(slot, getUndiscovered(player, child));
                     menu.addMenuClickHandler(slot, ChestMenuUtils.getEmptyClickHandler());
                 }
             } else {
@@ -274,11 +275,11 @@ public class PlantCodexFlexGroup extends NestedItemGroup {
     }
 
     @Nonnull
-    public static ItemStack getUndiscovered(@Nonnull CultivationPlant seed) {
+    public static ItemStack getUndiscovered(@Nonnull Player player, @Nonnull CultivationPlant seed) {
         return Theme.themedItemStack(
             Material.BARRIER,
             CultivationThemes.DISCOVEREY,
-            seed.getItemName(),
+            Slimefun.getItemTranslationService().getName(player, seed),
             ImmutableList.of(
                 Theme.ERROR + "Not Discovered",
                 "You have not yet discovered how",
