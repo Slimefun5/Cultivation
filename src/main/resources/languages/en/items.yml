@@ -66,7 +66,7 @@ CLT_BAGEL_BITE:
     - '&8⇨ &7Burns your mouth with every bite!'
 
 CLT_BAGEL_CREAM_CHEESE:
-  name: 'Bagel (Cream Cheese)'
+  name: 'Cream Cheese Bagel'
   type:
     - '&7&oFood'
   description:
@@ -770,7 +770,7 @@ CLT_BLENDED_WHEAT:
     - '&7&oBy-Product'
 
 CLT_BLUE_CANDY:
-  name: 'Candy (Blue)'
+  name: 'Blue Candy'
   type:
     - '&7&oFood'
   description:
@@ -6980,7 +6980,7 @@ CLT_RADICCHIO:
     - 'It''s radicchio-less.'
 
 CLT_RAMEN_BEEF:
-  name: 'Ramen (Beef)'
+  name: 'Beef Ramen'
   type:
     - '&7&oFood'
   description:
@@ -6989,7 +6989,7 @@ CLT_RAMEN_BEEF:
     - '&8⇨ &bHealth Boost I &7(10:00)'
 
 CLT_RAMEN_BEEF_HEARTY:
-  name: 'Ramen (Beef) (Hearty)'
+  name: 'Hearty Beef Ramen'
   type:
     - '&7&oFood'
   description:
@@ -7000,7 +7000,7 @@ CLT_RAMEN_BEEF_HEARTY:
     - '&8⇨ &bSpeed I &7(10:00)'
 
 CLT_RAMEN_CHICKEN:
-  name: 'Ramen (Chicken)'
+  name: 'Chicken Ramen'
   type:
     - '&7&oFood'
   description:
@@ -7009,7 +7009,7 @@ CLT_RAMEN_CHICKEN:
     - '&8⇨ &bHealth Boost I &7(10:00)'
 
 CLT_RAMEN_CHICKEN_HEARTY:
-  name: 'Ramen (Chicken) (Hearty)'
+  name: 'Hearty Chicken Ramen'
   type:
     - '&7&oFood'
   description:
@@ -7020,7 +7020,7 @@ CLT_RAMEN_CHICKEN_HEARTY:
     - '&8⇨ &bSpeed I &7(10:00)'
 
 CLT_RAMEN_SEAFOOD:
-  name: 'Ramen (Seafood)'
+  name: 'Seafood Ramen'
   type:
     - '&7&oFood'
   description:
@@ -7029,7 +7029,7 @@ CLT_RAMEN_SEAFOOD:
     - '&8⇨ &bHealth Boost I &7(10:00)'
 
 CLT_RAMEN_SEAFOOD_HEARTY:
-  name: 'Ramen (Seafood) (Hearty)'
+  name: 'Hearty Seafood Ramen'
   type:
     - '&7&oFood'
   description:
