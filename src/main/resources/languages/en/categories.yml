@@ -1,0 +1,13 @@
+cultivation:
+  main: 'Cultivation'
+  hidden: 'Hidden'
+  crafting: 'Crafting Items'
+  tools: 'Tools'
+  machines: 'Machines'
+  plants: 'Plants'
+  bushes: 'Bushes'
+  trees: 'Trees'
+  produce: 'Produce'
+  by-products: 'By-Products'
+  foods: 'Foods'
+  plant_codex: 'Plants Codex'

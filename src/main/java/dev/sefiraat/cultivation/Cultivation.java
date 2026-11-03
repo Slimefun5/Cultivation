@@ -60,9 +60,9 @@ public class Cultivation extends JavaPlugin implements SlimefunAddon {
         setupItems();
         setupStats();
 
-        // Register translations with Slimefun5
         Slimefun.getItemTranslationService().registerTranslations(this);
-        Slimefun.getMenuTranslationService().registerTranslations(this);
+        Slimefun.getLocalization().registerItemGroupTranslations(this);
+        Slimefun.getLocalization().registerRecipeTypeTranslations(this);
     }
 
     private void setupItems() {

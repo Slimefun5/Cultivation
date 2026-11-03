@@ -2,7 +2,6 @@ package dev.sefiraat.cultivation.api.slimefun.items.produce;
 
 import dev.sefiraat.cultivation.Cultivation;
 import dev.sefiraat.cultivation.api.slimefun.RecipeTypes;
-import dev.sefiraat.cultivation.api.utils.CultivationThemes;
 import dev.sefiraat.cultivation.libs.sefilib.string.Theme;
 import io.github.thebusybiscuit.slimefun5.api.SlimefunAddon;
 import io.github.thebusybiscuit.slimefun5.api.items.ItemGroup;
@@ -137,12 +136,7 @@ public class ProduceCore extends SlimefunItem {
     @ParametersAreNonnullByDefault
     private ByProduct registerByProduct(String name, RecipeType recipeType, Material material) {
         ByProduct byProduct = new ByProduct(
-            CultivationThemes.themedSlimefunItemStack(
-                "CLT_" + name.toUpperCase(Locale.ROOT) + "_" + this.getId().substring(4),
-                material,
-                CultivationThemes.BY_PRODUCT,
-                name + " " + this.getItemName()
-            ),
+            new SlimefunItemStack("CLT_" + name.toUpperCase(Locale.ROOT) + "_" + this.getId().substring(4), new ItemStack(material)),
             recipeType,
             this.getItem()
         );

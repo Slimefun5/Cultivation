@@ -1,0 +1,104 @@
+cultivation:
+  bush_harvest:
+    name: 'Bush Harvesting'
+    lore:
+    - 'This item can be harvested from a'
+    - 'Cultivation Bush'
+
+  tree_harvest:
+    name: 'Tree Harvesting'
+    lore:
+    - 'This item can be harvested from a'
+    - 'Cultivation Tree'
+
+  trading_farmer:
+    name: 'Villager Trading'
+    lore:
+    - 'This item can be bought from a'
+    - 'farming villager.'
+
+  trading_fletcher:
+    name: 'Villager Trading'
+    lore:
+    - 'This item can be bought from a'
+    - 'fletching villager.'
+
+  mob:
+    name: 'Mob Drop'
+    lore:
+    - 'This item has a chance to drop from'
+    - 'the following mob(s).'
+
+  plant_breeding:
+    name: 'Plant Breeding'
+    lore:
+    - 'This seed is found via breeding.'
+    - 'You breed plants by placing'
+    - 'two plants down with an air block'
+    - 'between them.'
+    - ''
+    - 'The breeding dictionary can be used'
+    - 'to track your discoveries.'
+    - ''
+    - 'Hint: Black particles mean the'
+    - 'two plants CANNOT breed.'
+
+  vanilla_block_drop:
+    name: 'World Drop'
+    lore:
+    - 'Drops from blocks when broken in the world.'
+
+  bucketing:
+    name: 'World Drop'
+    lore:
+    - 'Drops from the world when using a bucket.'
+
+  chopped:
+    name: 'Chopped'
+    lore:
+    - 'Simply chop with a knife!'
+
+  mashed:
+    name: 'Mashed'
+    lore:
+    - 'Mash Mash Mash'
+
+  blended:
+    name: 'Blended'
+    lore:
+    - 'Is made by putting an item in the blender.'
+
+  sliced:
+    name: 'Sliced'
+    lore:
+    - 'So thin and delicate'
+
+  ground:
+    name: 'Ground'
+    lore:
+    - 'To a fine degree'
+
+  boiled:
+    name: 'Boiled'
+    lore:
+    - 'Hot hot hot!'
+
+  fried:
+    name: 'Fried'
+    lore:
+    - 'Crispy Perfection.'
+
+  grilled:
+    name: 'Grilled'
+    lore:
+    - 'Juicy and Tender.'
+
+  finishing:
+    name: 'Finishing'
+    lore:
+    - 'Use the kitchen''s finishing counter to make this item.'
+
+  baking:
+    name: 'Baking'
+    lore:
+    - 'Use the kitchen''s oven counter to make this item.'

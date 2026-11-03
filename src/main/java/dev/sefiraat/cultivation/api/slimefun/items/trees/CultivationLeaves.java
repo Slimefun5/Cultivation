@@ -21,10 +21,7 @@ public class CultivationLeaves extends SlimefunItem {
     public CultivationLeaves(CultivationTree tree) {
         super(
             CultivationGroups.HIDDEN_CONTENT,
-            new SlimefunItemStack("CLT_LEAVES_" + tree.getId().substring(4),
-                                  Material.ACACIA_LEAVES,
-                                  "Cultivation Leaves"
-            ),
+            new SlimefunItemStack("CLT_LEAVES_" + tree.getId().substring(4), new ItemStack(Material.ACACIA_LEAVES)),
             RecipeType.NULL,
             new ItemStack[0]
         );

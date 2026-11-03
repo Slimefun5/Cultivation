@@ -5,18 +5,14 @@ import dev.sefiraat.cultivation.Registry;
 import dev.sefiraat.cultivation.api.slimefun.RecipeTypes;
 import dev.sefiraat.cultivation.api.slimefun.items.produce.ProduceCore;
 import dev.sefiraat.cultivation.api.utils.Skins;
-import dev.sefiraat.cultivation.libs.sefilib.string.Theme;
 import io.github.thebusybiscuit.slimefun5.api.SlimefunAddon;
 import io.github.thebusybiscuit.slimefun5.api.items.ItemGroup;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItem;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
 import org.bukkit.Location;
 import org.bukkit.inventory.ItemStack;
-import org.bukkit.inventory.meta.ItemMeta;
 
 import javax.annotation.Nonnull;
-import java.util.ArrayList;
-import java.util.List;
 
 public class CultivationTree extends SlimefunItem {
     private final ProduceCore produce;
@@ -35,17 +31,6 @@ public class CultivationTree extends SlimefunItem {
         this.produce = produce;
         this.skin = skin;
         leaves = new CultivationLeaves(this).buildRegister(Cultivation.getInstance());
-
-        ItemMeta itemMeta = this.getItem().getItemMeta();
-        if (itemMeta != null) {
-            List<String> lore = itemMeta.hasLore() && itemMeta.getLore() != null
-                ? new ArrayList<>(itemMeta.getLore())
-                : new ArrayList<>();
-            lore.add("");
-            lore.add(Theme.CLICK_INFO.asTitle("Design By", treeDesign.author));
-            itemMeta.setLore(lore);
-            this.getItem().setItemMeta(itemMeta);
-        }
     }
 
     public boolean testBuild(@Nonnull Location location) {

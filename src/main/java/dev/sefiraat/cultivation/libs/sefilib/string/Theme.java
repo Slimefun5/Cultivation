@@ -92,44 +92,4 @@ public class Theme {
         finalLore.add(CLICK_INFO.getColor() + themeType.getLoreLine());
         return CustomItemStack.create(material, applyThemeToString(themeType, name), finalLore.toArray(new String[0]));
     }
-
-    @Nonnull
-    public static SlimefunItemStack themedSlimefunItemStack(String id, ItemStack item, Theme theme, String name, String... lore) {
-        List<String> finalLore = new ArrayList<>();
-        for (String s : lore) {
-            finalLore.add(PASSIVE.getColor() + s);
-        }
-        finalLore.add(CLICK_INFO.getColor() + theme.getLoreLine());
-        return new SlimefunItemStack(id, item, applyThemeToString(theme, name), finalLore.toArray(new String[0]));
-    }
-
-    @Nonnull
-    public static SlimefunItemStack themedSlimefunItemStack(String id, ItemStack item, Theme theme, String name, List<String> lore) {
-        return themedSlimefunItemStack(id, item, theme, name, lore.toArray(new String[0]));
-    }
-
-    @Nonnull
-    public static SlimefunItemStack themedSlimefunItemStack(String id, Material material, Theme theme, String name, String... lore) {
-        return themedSlimefunItemStack(id, new ItemStack(material), theme, name, lore);
-    }
-
-    @Nonnull
-    public static SlimefunItemStack themedSeed(String id, ItemStack item, Theme theme, String name, String[] stats, String[] lore) {
-        List<String> finalLore = new ArrayList<>();
-        for (String s : stats) {
-            finalLore.add(s);
-        }
-        if (lore != null) {
-            for (String s : lore) {
-                finalLore.add(PASSIVE.getColor() + s);
-            }
-        }
-        finalLore.add(CLICK_INFO.getColor() + theme.getLoreLine());
-        return new SlimefunItemStack(id, item, applyThemeToString(theme, name), finalLore.toArray(new String[0]));
-    }
-
-    @Nonnull
-    public static SlimefunItemStack themedSeed(String id, ItemStack item, Theme theme, String name, List<String> stats, List<String> lore) {
-        return themedSeed(id, item, theme, name, stats.toArray(new String[0]), lore != null ? lore.toArray(new String[0]) : null);
-    }
 }
