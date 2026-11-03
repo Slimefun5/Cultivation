@@ -1441,7 +1441,7 @@ CLT_BRUSSELS_SPROUTS:
     - 'A gassious delight.'
 
 CLT_BUSH_ARTICHOKE:
-  name: 'Cultivation Bush: Artichoke'
+  name: 'Artichoke Bush'
   type:
     - '&7&oBush'
   description:
@@ -1449,7 +1449,7 @@ CLT_BUSH_ARTICHOKE:
     - 'artist with. Sigh. Puns be hard.'
 
 CLT_BUSH_ASPARAGUS:
-  name: 'Cultivation Bush: Asparagus'
+  name: 'Asparagus Bush'
   type:
     - '&7&oBush'
   description:
@@ -1457,14 +1457,14 @@ CLT_BUSH_ASPARAGUS:
     - 'stalker!'
 
 CLT_BUSH_AUBERGINE:
-  name: 'Cultivation Bush: Aubergine'
+  name: 'Aubergine Bush'
   type:
     - '&7&oBush'
   description:
     - 'I refuse to use the word eggplant. I just do.'
 
 CLT_BUSH_AVOCADO:
-  name: 'Cultivation Bush: Avocado'
+  name: 'Avocado Bush'
   type:
     - '&7&oBush'
   description:
@@ -1472,21 +1472,21 @@ CLT_BUSH_AVOCADO:
     - 'use too much water.'
 
 CLT_BUSH_BASIL:
-  name: 'Cultivation Bush: Basil'
+  name: 'Basil Bush'
   type:
     - '&7&oBush'
   description:
     - 'A light hearted bush full of whimsy.'
 
 CLT_BUSH_BAY_LEAF:
-  name: 'Cultivation Bush: Bay Leaf'
+  name: 'Bay Leaf Bush'
   type:
     - '&7&oBush'
   description:
     - 'The smell of this bush travels for miles.'
 
 CLT_BUSH_BELL_PEPPER:
-  name: 'Cultivation Bush: Bell Pepper'
+  name: 'Bell Pepper Bush'
   type:
     - '&7&oBush'
   description:
@@ -1494,7 +1494,7 @@ CLT_BUSH_BELL_PEPPER:
     - 'the bell.'
 
 CLT_BUSH_BLACK_BEANS:
-  name: 'Cultivation Bush: Black Beans'
+  name: 'Black Beans Bush'
   type:
     - '&7&oBush'
   description:
@@ -1502,14 +1502,14 @@ CLT_BUSH_BLACK_BEANS:
     - 'You are a great human bean.'
 
 CLT_BUSH_BROCCOLI:
-  name: 'Cultivation Bush: Broccoli'
+  name: 'Broccoli Bush'
   type:
     - '&7&oBush'
   description:
     - 'Tiny trees you can eat? Who invented this!?'
 
 CLT_BUSH_BRUSSELS_SPROUTS:
-  name: 'Cultivation Bush: Brussels Sprouts'
+  name: 'Brussels Sprouts Bush'
   type:
     - '&7&oBush'
   description:
@@ -1517,7 +1517,7 @@ CLT_BUSH_BRUSSELS_SPROUTS:
     - 'gas.'
 
 CLT_BUSH_CABBAGE:
-  name: 'Cultivation Bush: Cabbage'
+  name: 'Cabbage Bush'
   type:
     - '&7&oBush'
   description:
@@ -1525,7 +1525,7 @@ CLT_BUSH_CABBAGE:
     - 'emotional cabbage.'
 
 CLT_BUSH_CAULIFLOWER:
-  name: 'Cultivation Bush: Cauliflower'
+  name: 'Cauliflower Bush'
   type:
     - '&7&oBush'
   description:
@@ -1533,14 +1533,14 @@ CLT_BUSH_CAULIFLOWER:
     - 'of delight.'
 
 CLT_BUSH_CAYENNE_PEPPER:
-  name: 'Cultivation Bush: Cayenne Pepper'
+  name: 'Cayenne Pepper Bush'
   type:
     - '&7&oBush'
   description:
     - 'A bush with a peppery attitude.'
 
 CLT_BUSH_CELERIAC:
-  name: 'Cultivation Bush: Celeriac'
+  name: 'Celeriac Bush'
   type:
     - '&7&oBush'
   description:
@@ -1548,7 +1548,7 @@ CLT_BUSH_CELERIAC:
     - 'SefiDumb™'
 
 CLT_BUSH_CELERY:
-  name: 'Cultivation Bush: Celery'
+  name: 'Celery Bush'
   type:
     - '&7&oBush'
   description:
@@ -1556,7 +1556,7 @@ CLT_BUSH_CELERY:
     - 'Sefi doesn''t like Celery.'
 
 CLT_BUSH_CHICKPEAS:
-  name: 'Cultivation Bush: Chickpeas'
+  name: 'Chickpeas Bush'
   type:
     - '&7&oBush'
   description:
@@ -1564,7 +1564,7 @@ CLT_BUSH_CHICKPEAS:
     - 'a pea. SCIENCE.'
 
 CLT_BUSH_CHICORY:
-  name: 'Cultivation Bush: Chicory'
+  name: 'Chicory Bush'
   type:
     - '&7&oBush'
   description:
@@ -1572,14 +1572,14 @@ CLT_BUSH_CHICORY:
     - 'even do it''s research!?'
 
 CLT_BUSH_CHILLI_PEPPER:
-  name: 'Cultivation Bush: Chilli Pepper'
+  name: 'Chilli Pepper Bush'
   type:
     - '&7&oBush'
   description:
     - 'Just looking at this bush burns my tongue.'
 
 CLT_BUSH_CHIVES:
-  name: 'Cultivation Bush: Chives'
+  name: 'Chives Bush'
   type:
     - '&7&oBush'
   description:
@@ -1587,28 +1587,28 @@ CLT_BUSH_CHIVES:
     - 'smallest onion.'
 
 CLT_BUSH_CILANTRO:
-  name: 'Cultivation Bush: Cilantro'
+  name: 'Cilantro Bush'
   type:
     - '&7&oBush'
   description:
     - 'A faint citrus and spice smell comes from this bush.'
 
 CLT_BUSH_CINNAMON:
-  name: 'Cultivation Bush: Cinnamon'
+  name: 'Cinnamon Bush'
   type:
     - '&7&oBush'
   description:
     - 'A delightfully fragrant bush.'
 
 CLT_BUSH_CLOVE:
-  name: 'Cultivation Bush: Clove'
+  name: 'Clove Bush'
   type:
     - '&7&oBush'
   description:
     - 'A bush that just reminds me of Christmas.'
 
 CLT_BUSH_COURGETTE:
-  name: 'Cultivation Bush: Courgette'
+  name: 'Courgette Bush'
   type:
     - '&7&oBush'
   description:
@@ -1616,7 +1616,7 @@ CLT_BUSH_COURGETTE:
     - 'word Zucchini? I guess it must be american?'
 
 CLT_BUSH_CUCUMBER:
-  name: 'Cultivation Bush: Cucumber'
+  name: 'Cucumber Bush'
   type:
     - '&7&oBush'
   description:
@@ -1624,49 +1624,49 @@ CLT_BUSH_CUCUMBER:
     - 'of your lovely summer salads.'
 
 CLT_BUSH_CUMIN:
-  name: 'Cultivation Bush: Cumin'
+  name: 'Cumin Bush'
   type:
     - '&7&oBush'
   description:
     - 'A bush that lets of a warm citrus aroma.'
 
 CLT_BUSH_CURRY_LEAF:
-  name: 'Cultivation Bush: Curry Leaf'
+  name: 'Curry Leaf Bush'
   type:
     - '&7&oBush'
   description:
     - 'Best when dry roasted.'
 
 CLT_BUSH_DILL:
-  name: 'Cultivation Bush: Dill'
+  name: 'Dill Bush'
   type:
     - '&7&oBush'
   description:
     - 'This bush grows much faster than others.'
 
 CLT_BUSH_FENNEL:
-  name: 'Cultivation Bush: Fennel'
+  name: 'Fennel Bush'
   type:
     - '&7&oBush'
   description:
     - 'Why does this bush repel bugs!?'
 
 CLT_BUSH_GARLIC:
-  name: 'Cultivation Bush: Garlic'
+  name: 'Garlic Bush'
   type:
     - '&7&oBush'
   description:
     - 'This bush has simply the worst breath.'
 
 CLT_BUSH_GINGER:
-  name: 'Cultivation Bush: Ginger'
+  name: 'Ginger Bush'
   type:
     - '&7&oBush'
   description:
     - 'This bush is nice when boiled whole.'
 
 CLT_BUSH_GRAPE:
-  name: 'Cultivation Bush: Grape'
+  name: 'Grape Bush'
   type:
     - '&7&oBush'
   description:
@@ -1674,7 +1674,7 @@ CLT_BUSH_GRAPE:
     - 'off the bush.'
 
 CLT_BUSH_GREEN_BEANS:
-  name: 'Cultivation Bush: Green Beans'
+  name: 'Green Beans Bush'
   type:
     - '&7&oBush'
   description:
@@ -1682,7 +1682,7 @@ CLT_BUSH_GREEN_BEANS:
     - 'baked beans.'
 
 CLT_BUSH_GREEN_ONION:
-  name: 'Cultivation Bush: Green Onion'
+  name: 'Green Onion Bush'
   type:
     - '&7&oBush'
   description:
@@ -1691,14 +1691,14 @@ CLT_BUSH_GREEN_ONION:
     - 'milder taste than most onions.'
 
 CLT_BUSH_HORSERADISH:
-  name: 'Cultivation Bush: Horseradish'
+  name: 'Horseradish Bush'
   type:
     - '&7&oBush'
   description:
     - 'Again, this growing on a bush just doesn''t make sense.'
 
 CLT_BUSH_JALAPENO:
-  name: 'Cultivation Bush: Jalapeno'
+  name: 'Jalapeno Bush'
   type:
     - '&7&oBush'
   description:
@@ -1706,28 +1706,28 @@ CLT_BUSH_JALAPENO:
     - '1% change to set ablaze.'
 
 CLT_BUSH_JASMINE:
-  name: 'Cultivation Bush: Jasmine'
+  name: 'Jasmine Bush'
   type:
     - '&7&oBush'
   description:
     - 'The scent from this bush is so soft and mellow.'
 
 CLT_BUSH_JUNIPER_BERRY:
-  name: 'Cultivation Bush: Juniper Berry'
+  name: 'Juniper Berry Bush'
   type:
     - '&7&oBush'
   description:
     - 'So sweet on the bush, peppery when dried.'
 
 CLT_BUSH_KAFFIR_LIME:
-  name: 'Cultivation Bush: Kaffir Lime'
+  name: 'Kaffir Lime Bush'
   type:
     - '&7&oBush'
   description:
     - 'A bush whose leafs are more wanted than it''s fruit.'
 
 CLT_BUSH_KALE:
-  name: 'Cultivation Bush: Kale'
+  name: 'Kale Bush'
   type:
     - '&7&oBush'
   description:
@@ -1735,14 +1735,14 @@ CLT_BUSH_KALE:
     - 'that everything is going to be o-kale.'
 
 CLT_BUSH_LAVENDER:
-  name: 'Cultivation Bush: Lavender'
+  name: 'Lavender Bush'
   type:
     - '&7&oBush'
   description:
     - 'This bush wafts it''s smell everywhere.'
 
 CLT_BUSH_LEEK:
-  name: 'Cultivation Bush: Leek'
+  name: 'Leek Bush'
   type:
     - '&7&oBush'
   description:
@@ -1750,7 +1750,7 @@ CLT_BUSH_LEEK:
     - 'wears a corset? True story.'
 
 CLT_BUSH_LETTUCE:
-  name: 'Cultivation Bush: Lettuce'
+  name: 'Lettuce Bush'
   type:
     - '&7&oBush'
   description:
@@ -1758,28 +1758,28 @@ CLT_BUSH_LETTUCE:
     - 'Spoiler: No, it doesn''t.'
 
 CLT_BUSH_LICORICE:
-  name: 'Cultivation Bush: Licorice'
+  name: 'Licorice Bush'
   type:
     - '&7&oBush'
   description:
     - 'Gross'
 
 CLT_BUSH_MACE:
-  name: 'Cultivation Bush: Mace'
+  name: 'Mace Bush'
   type:
     - '&7&oBush'
   description:
     - 'This bush seems to be repelling attackers?'
 
 CLT_BUSH_MARJORAM:
-  name: 'Cultivation Bush: Marjoram'
+  name: 'Marjoram Bush'
   type:
     - '&7&oBush'
   description:
     - 'A large woody smelling bush.'
 
 CLT_BUSH_MARROW:
-  name: 'Cultivation Bush: Marrow'
+  name: 'Marrow Bush'
   type:
     - '&7&oBush'
   description:
@@ -1787,28 +1787,28 @@ CLT_BUSH_MARROW:
     - 'own weight.'
 
 CLT_BUSH_MINT:
-  name: 'Cultivation Bush: Mint'
+  name: 'Mint Bush'
   type:
     - '&7&oBush'
   description:
     - 'Simply the best smelling bush.'
 
 CLT_BUSH_MUSTARD:
-  name: 'Cultivation Bush: Mustard Seeds'
+  name: 'Mustard Seeds Bush'
   type:
     - '&7&oBush'
   description:
     - 'Like fire in your mouth.'
 
 CLT_BUSH_NETTLES:
-  name: 'Cultivation Bush: Nettles'
+  name: 'Nettles Bush'
   type:
     - '&7&oBush'
   description:
     - 'Be careful when walking through this bush!'
 
 CLT_BUSH_OKRA:
-  name: 'Cultivation Bush: Okra'
+  name: 'Okra Bush'
   type:
     - '&7&oBush'
   description:
@@ -1816,28 +1816,28 @@ CLT_BUSH_OKRA:
     - 'Okra Winfrey''s Vegetable Club.'
 
 CLT_BUSH_ONION:
-  name: 'Cultivation Bush: Onion'
+  name: 'Onion Bush'
   type:
     - '&7&oBush'
   description:
     - 'Does this bush look like it''s tearing up?'
 
 CLT_BUSH_OREGANO:
-  name: 'Cultivation Bush: Oregano'
+  name: 'Oregano Bush'
   type:
     - '&7&oBush'
   description:
     - 'This pungent smelling bush deters visitors.'
 
 CLT_BUSH_PARSLEY:
-  name: 'Cultivation Bush: Parsley'
+  name: 'Parsley Bush'
   type:
     - '&7&oBush'
   description:
     - 'Throw this bush in lava, now :D'
 
 CLT_BUSH_PARSNIP:
-  name: 'Cultivation Bush: Parsnip'
+  name: 'Parsnip Bush'
   type:
     - '&7&oBush'
   description:
@@ -1845,21 +1845,21 @@ CLT_BUSH_PARSNIP:
     - 'directly.'
 
 CLT_BUSH_PEA:
-  name: 'Cultivation Bush: Peas'
+  name: 'Peas Bush'
   type:
     - '&7&oBush'
   description:
     - 'I prefer Q''s'
 
 CLT_BUSH_PEANUTS:
-  name: 'Cultivation Bush: Peanuts'
+  name: 'Peanuts Bush'
   type:
     - '&7&oBush'
   description:
     - 'Solid and fragrant and full of protein.'
 
 CLT_BUSH_PEPPER:
-  name: 'Cultivation Bush: Black Pepper'
+  name: 'Black Pepper Bush'
   type:
     - '&7&oBush'
   description:
@@ -1868,7 +1868,7 @@ CLT_BUSH_PEPPER:
     - 'as early as Greek and Roman times.'
 
 CLT_BUSH_PINTO_BEANS:
-  name: 'Cultivation Bush: Pinto Beans'
+  name: 'Pinto Beans Bush'
   type:
     - '&7&oBush'
   description:
@@ -1876,7 +1876,7 @@ CLT_BUSH_PINTO_BEANS:
     - 'a direct-burrito bush, right?'
 
 CLT_BUSH_RADDISH:
-  name: 'Cultivation Bush: Raddish'
+  name: 'Raddish Bush'
   type:
     - '&7&oBush'
   description:
@@ -1884,7 +1884,7 @@ CLT_BUSH_RADDISH:
     - 'Totally Rad...ish.'
 
 CLT_BUSH_RADICCHIO:
-  name: 'Cultivation Bush: Radicchio'
+  name: 'Radicchio Bush'
   type:
     - '&7&oBush'
   description:
@@ -1893,14 +1893,14 @@ CLT_BUSH_RADICCHIO:
     - 'makes you seem refined.'
 
 CLT_BUSH_RAPESEED:
-  name: 'Cultivation Bush: Rapeseed'
+  name: 'Rapeseed Bush'
   type:
     - '&7&oBush'
   description:
     - 'This bush is exuding some oily substance.'
 
 CLT_BUSH_RHUBARB:
-  name: 'Cultivation Bush: Rhubarb'
+  name: 'Rhubarb Bush'
   type:
     - '&7&oBush'
   description:
@@ -1908,35 +1908,35 @@ CLT_BUSH_RHUBARB:
     - 'I thought it was a type of hammer.'
 
 CLT_BUSH_RICE:
-  name: 'Cultivation Bush: Rice'
+  name: 'Rice Bush'
   type:
     - '&7&oBush'
   description:
     - 'The ultimate staple food.'
 
 CLT_BUSH_ROSEMARY:
-  name: 'Cultivation Bush: Rosemary'
+  name: 'Rosemary Bush'
   type:
     - '&7&oBush'
   description:
     - 'A bush whose smell reminds people of sunday lunches.'
 
 CLT_BUSH_RUNNER_BEANS:
-  name: 'Cultivation Bush: Runner Beans'
+  name: 'Runner Beans Bush'
   type:
     - '&7&oBush'
   description:
     - 'This bush has feet o.o?'
 
 CLT_BUSH_RUTABAGA:
-  name: 'Cultivation Bush: Rutabaga'
+  name: 'Rutabaga Bush'
   type:
     - '&7&oBush'
   description:
     - 'Swede. Its a swede.'
 
 CLT_BUSH_SASSAFRAS:
-  name: 'Cultivation Bush: Sassafras'
+  name: 'Sassafras Bush'
   type:
     - '&7&oBush'
   description:
@@ -1944,7 +1944,7 @@ CLT_BUSH_SASSAFRAS:
     - 'of water.'
 
 CLT_BUSH_SHALLOT:
-  name: 'Cultivation Bush: Shallot'
+  name: 'Shallot Bush'
   type:
     - '&7&oBush'
   description:
@@ -1952,7 +1952,7 @@ CLT_BUSH_SHALLOT:
     - 'Luckily you don''t need a shallot.'
 
 CLT_BUSH_SHISO:
-  name: 'Cultivation Bush: Shiso'
+  name: 'Shiso Bush'
   type:
     - '&7&oBush'
   description:
@@ -1961,7 +1961,7 @@ CLT_BUSH_SHISO:
     - 'bush breeding isn''t a thing!'
 
 CLT_BUSH_SOY_BEANS:
-  name: 'Cultivation Bush: Soy Beans'
+  name: 'Soy Beans Bush'
   type:
     - '&7&oBush'
   description:
@@ -1969,14 +1969,14 @@ CLT_BUSH_SOY_BEANS:
     - 'me soy happy.'
 
 CLT_BUSH_SPINACH:
-  name: 'Cultivation Bush: Spinach'
+  name: 'Spinach Bush'
   type:
     - '&7&oBush'
   description:
     - 'This bush is Popeye''s best friend.'
 
 CLT_BUSH_STAR_ANISE:
-  name: 'Cultivation Bush: Star Anise'
+  name: 'Star Anise Bush'
   type:
     - '&7&oBush'
   description:
@@ -1984,14 +1984,14 @@ CLT_BUSH_STAR_ANISE:
     - 'to anise, you can''t even believe.'
 
 CLT_BUSH_STRAWBERRY:
-  name: 'Cultivation Bush: Strawberry'
+  name: 'Strawberry Bush'
   type:
     - '&7&oBush'
   description:
     - 'Solid and fragrant and full of protein.'
 
 CLT_BUSH_SWEETCORN:
-  name: 'Cultivation Bush: Sweetcorn'
+  name: 'Sweetcorn Bush'
   type:
     - '&7&oBush'
   description:
@@ -1999,7 +1999,7 @@ CLT_BUSH_SWEETCORN:
     - 'a maze.'
 
 CLT_BUSH_SWEET_POTATO:
-  name: 'Cultivation Bush: Sweet Potato'
+  name: 'Sweet Potato Bush'
   type:
     - '&7&oBush'
   description:
@@ -2007,28 +2007,28 @@ CLT_BUSH_SWEET_POTATO:
     - 'complimenting you while you weren''t listening.'
 
 CLT_BUSH_TARRAGON:
-  name: 'Cultivation Bush: Tarragon'
+  name: 'Tarragon Bush'
   type:
     - '&7&oBush'
   description:
     - 'This bush doesn''t like to draw too much attention.'
 
 CLT_BUSH_THYME:
-  name: 'Cultivation Bush: Thyme'
+  name: 'Thyme Bush'
   type:
     - '&7&oBush'
   description:
     - 'This bush is always running out of... Thyme... *cough*'
 
 CLT_BUSH_TOMATO:
-  name: 'Cultivation Bush: Tomato'
+  name: 'Tomato Bush'
   type:
     - '&7&oBush'
   description:
     - 'Ripe and ready.'
 
 CLT_BUSH_TURMERIC:
-  name: 'Cultivation Bush: Turmeric'
+  name: 'Turmeric Bush'
   type:
     - '&7&oBush'
   description:
@@ -2036,7 +2036,7 @@ CLT_BUSH_TURMERIC:
     - 'holding this bush.'
 
 CLT_BUSH_TURNIP:
-  name: 'Cultivation Bush: Turnip'
+  name: 'Turnip Bush'
   type:
     - '&7&oBush'
   description:
@@ -2044,14 +2044,14 @@ CLT_BUSH_TURNIP:
     - 'this bush will solve all our problems.'
 
 CLT_BUSH_VANILLA:
-  name: 'Cultivation Bush: Vanilla'
+  name: 'Vanilla Bush'
   type:
     - '&7&oBush'
   description:
     - 'This bush grows natively near StarBucks locations.'
 
 CLT_BUSH_WASABI:
-  name: 'Cultivation Bush: Wasabi'
+  name: 'Wasabi Bush'
   type:
     - '&7&oBush'
   description:
@@ -2903,7 +2903,7 @@ CLT_COOKED_BURGER_PATTY:
     - 'Practically dripping'
 
 CLT_COUNTER_BLENDER:
-  name: 'Kitchen Counter: Blender'
+  name: 'Kitchen Counter (Blender)'
   type:
     - '&7&oMachine'
   description:
@@ -2914,7 +2914,7 @@ CLT_COUNTER_BLENDER:
     - 'change the kitchen design. Try it out!'
 
 CLT_COUNTER_BOILING:
-  name: 'Kitchen Counter: Boiling Pot'
+  name: 'Kitchen Counter (Boiling Pot)'
   type:
     - '&7&oMachine'
   description:
@@ -2925,7 +2925,7 @@ CLT_COUNTER_BOILING:
     - 'change the kitchen design. Try it out!'
 
 CLT_COUNTER_CHOPPING:
-  name: 'Kitchen Counter: Chopping Board'
+  name: 'Kitchen Counter (Chopping Board)'
   type:
     - '&7&oMachine'
   description:
@@ -2936,7 +2936,7 @@ CLT_COUNTER_CHOPPING:
     - 'change the kitchen design. Try it out!'
 
 CLT_COUNTER_FINISHING:
-  name: 'Kitchen Counter: Finishing'
+  name: 'Kitchen Counter (Finishing)'
   type:
     - '&7&oMachine'
   description:
@@ -2948,7 +2948,7 @@ CLT_COUNTER_FINISHING:
     - 'change the kitchen design. Try it out!'
 
 CLT_COUNTER_FRYING:
-  name: 'Kitchen Counter: Frying Pan'
+  name: 'Kitchen Counter (Frying Pan)'
   type:
     - '&7&oMachine'
   description:
@@ -2959,7 +2959,7 @@ CLT_COUNTER_FRYING:
     - 'change the kitchen design. Try it out!'
 
 CLT_COUNTER_GRILL:
-  name: 'Kitchen Counter: Grill'
+  name: 'Kitchen Counter (Grill)'
   type:
     - '&7&oMachine'
   description:
@@ -2970,7 +2970,7 @@ CLT_COUNTER_GRILL:
     - 'change the kitchen design. Try it out!'
 
 CLT_COUNTER_GRINDER:
-  name: 'Kitchen Counter: Grinding Pestle and Mortar'
+  name: 'Kitchen Counter (Grinding Pestle and Mortar)'
   type:
     - '&7&oMachine'
   description:
@@ -2981,7 +2981,7 @@ CLT_COUNTER_GRINDER:
     - 'change the kitchen design. Try it out!'
 
 CLT_COUNTER_MASHER:
-  name: 'Kitchen Counter: Mashing Bowl'
+  name: 'Kitchen Counter (Mashing Bowl)'
   type:
     - '&7&oMachine'
   description:
@@ -2992,7 +2992,7 @@ CLT_COUNTER_MASHER:
     - 'change the kitchen design. Try it out!'
 
 CLT_COUNTER_NOTHING:
-  name: 'Kitchen Counter: Empty'
+  name: 'Kitchen Counter (Empty)'
   type:
     - '&7&oMachine'
   description:
@@ -3003,7 +3003,7 @@ CLT_COUNTER_NOTHING:
     - 'change the kitchen design. Try it out!'
 
 CLT_COUNTER_OVEN:
-  name: 'Kitchen Counter: Oven'
+  name: 'Kitchen Counter (Oven)'
   type:
     - '&7&oMachine'
   description:
@@ -3014,7 +3014,7 @@ CLT_COUNTER_OVEN:
     - 'change the kitchen design. Try it out!'
 
 CLT_COUNTER_SLICING:
-  name: 'Kitchen Counter: Slicing Board'
+  name: 'Kitchen Counter (Slicing Board)'
   type:
     - '&7&oMachine'
   description:
@@ -5213,77 +5213,77 @@ CLT_LAVENDER:
     - 'A smell that can make me drift slowly to sleep.'
 
 CLT_LEAVES_TREE_APRICOT:
-  name: 'Cultivation Tree: Apricot Leaves'
+  name: 'Apricot Tree Leaves'
   type:
     - '&7&oLeaves'
 
 CLT_LEAVES_TREE_BANANA:
-  name: 'Cultivation Tree: Banana Leaves'
+  name: 'Banana Tree Leaves'
   type:
     - '&7&oLeaves'
 
 CLT_LEAVES_TREE_CHERRY:
-  name: 'Cultivation Tree: Cherry Leaves'
+  name: 'Cherry Tree Leaves'
   type:
     - '&7&oLeaves'
 
 CLT_LEAVES_TREE_CHESTNUT:
-  name: 'Cultivation Tree: Chestnut Leaves'
+  name: 'Chestnut Tree Leaves'
   type:
     - '&7&oLeaves'
 
 CLT_LEAVES_TREE_GREEN_APPLE:
-  name: 'Cultivation Tree: Green Apple Leaves'
+  name: 'Green Apple Tree Leaves'
   type:
     - '&7&oLeaves'
 
 CLT_LEAVES_TREE_HAZELNUT:
-  name: 'Cultivation Tree: Hazelnut Leaves'
+  name: 'Hazelnut Tree Leaves'
   type:
     - '&7&oLeaves'
 
 CLT_LEAVES_TREE_KIWI:
-  name: 'Cultivation Tree: Kiwi Leaves'
+  name: 'Kiwi Tree Leaves'
   type:
     - '&7&oLeaves'
 
 CLT_LEAVES_TREE_LEMON:
-  name: 'Cultivation Tree: Lemon Leaves'
+  name: 'Lemon Tree Leaves'
   type:
     - '&7&oLeaves'
 
 CLT_LEAVES_TREE_LIME:
-  name: 'Cultivation Tree: Lime Leaves'
+  name: 'Lime Tree Leaves'
   type:
     - '&7&oLeaves'
 
 CLT_LEAVES_TREE_MANGO:
-  name: 'Cultivation Tree: Mango Leaves'
+  name: 'Mango Tree Leaves'
   type:
     - '&7&oLeaves'
 
 CLT_LEAVES_TREE_ORANGE:
-  name: 'Cultivation Tree: Orange Leaves'
+  name: 'Orange Tree Leaves'
   type:
     - '&7&oLeaves'
 
 CLT_LEAVES_TREE_PEACH:
-  name: 'Cultivation Tree: Peach Leaves'
+  name: 'Peach Tree Leaves'
   type:
     - '&7&oLeaves'
 
 CLT_LEAVES_TREE_PEAR:
-  name: 'Cultivation Tree: Pear Leaves'
+  name: 'Pear Tree Leaves'
   type:
     - '&7&oLeaves'
 
 CLT_LEAVES_TREE_PECAN:
-  name: 'Cultivation Tree: Pecan Leaves'
+  name: 'Pecan Tree Leaves'
   type:
     - '&7&oLeaves'
 
 CLT_LEAVES_TREE_PINEAPPLE:
-  name: 'Cultivation Tree: Pineapple Leaves'
+  name: 'Pineapple Tree Leaves'
   type:
     - '&7&oLeaves'
 
@@ -6254,7 +6254,7 @@ CLT_PIZZA_PEPPERONI:
     - '&8⇨ &7Effect 1: &bJump + 1'
 
 CLT_PLANT_AIR:
-  name: 'Primal Plant: Air'
+  name: 'Primal Air Plant'
   type:
     - '&7&oPlant'
   description:
@@ -6264,7 +6264,7 @@ CLT_PLANT_AIR:
     - '&eand are just for breeding.'
 
 CLT_PLANT_AMETHYST:
-  name: 'Cultivation Plant: Amethyst'
+  name: 'Amethyst Plant'
   type:
     - '&7&oPlant'
   description:
@@ -6283,35 +6283,35 @@ CLT_PLANT_ANALYSER:
     - '&eShift Right Click&7: Displays a plant or bushes name.'
 
 CLT_PLANT_BASALT:
-  name: 'Cultivation Plant: Basalt'
+  name: 'Basalt Plant'
   type:
     - '&7&oPlant'
   description:
     - 'A very boring and dull plant.'
 
 CLT_PLANT_BEE:
-  name: 'Cultivation Plant: Bee'
+  name: 'Bee Plant'
   type:
     - '&7&oPlant'
   description:
     - 'A plant with a very small, delicate, set of wings.'
 
 CLT_PLANT_BLACKSTONE:
-  name: 'Cultivation Plant: Blackstone'
+  name: 'Blackstone Plant'
   type:
     - '&7&oPlant'
   description:
     - 'A plant that has been known to absorb light.'
 
 CLT_PLANT_BLAZE:
-  name: 'Cultivation Plant: Blaze'
+  name: 'Blaze Plant'
   type:
     - '&7&oPlant'
   description:
     - 'A plant that is scorched around the edges.'
 
 CLT_PLANT_CHICKEN:
-  name: 'Cultivation Plant: Chicken'
+  name: 'Chicken Plant'
   type:
     - '&7&oPlant'
   description:
@@ -6321,7 +6321,7 @@ CLT_PLANT_CHICKEN:
     - 'fall.'
 
 CLT_PLANT_CLAY:
-  name: 'Cultivation Plant: Clay'
+  name: 'Clay Plant'
   type:
     - '&7&oPlant'
   description:
@@ -6330,21 +6330,21 @@ CLT_PLANT_CLAY:
     - 'though!'
 
 CLT_PLANT_COAL:
-  name: 'Cultivation Plant: Coal'
+  name: 'Coal Plant'
   type:
     - '&7&oPlant'
   description:
     - 'A plant that holds such potential.'
 
 CLT_PLANT_COBBLESTONE:
-  name: 'Cultivation Plant: Cobblestone'
+  name: 'Cobblestone Plant'
   type:
     - '&7&oPlant'
   description:
     - 'This plant is hard as a rock.'
 
 CLT_PLANT_CONCRETE:
-  name: 'Cultivation Plant: Concrete'
+  name: 'Concrete Plant'
   type:
     - '&7&oPlant'
   description:
@@ -6352,7 +6352,7 @@ CLT_PLANT_CONCRETE:
     - 'hardens so quickly.'
 
 CLT_PLANT_COW:
-  name: 'Cultivation Plant: Cow'
+  name: 'Cow Plant'
   type:
     - '&7&oPlant'
   description:
@@ -6361,14 +6361,14 @@ CLT_PLANT_COW:
     - 'an occasional mooing.'
 
 CLT_PLANT_CREEPER:
-  name: 'Cultivation Plant: Creeper'
+  name: 'Creeper Plant'
   type:
     - '&7&oPlant'
   description:
     - 'Tsssssssssttt...'
 
 CLT_PLANT_DARKNESS:
-  name: 'Primal Plant: Darkness'
+  name: 'Primal Darkness Plant'
   type:
     - '&7&oPlant'
   description:
@@ -6378,14 +6378,14 @@ CLT_PLANT_DARKNESS:
     - '&eand are just for breeding.'
 
 CLT_PLANT_DARK_FLORA:
-  name: 'Cultivation Plant: Dark Flora'
+  name: 'Dark Flora Plant'
   type:
     - '&7&oPlant'
   description:
     - 'A silent evil sits within this simple seed.'
 
 CLT_PLANT_DARK_GRASS:
-  name: 'Cultivation Plant: Dark Grass'
+  name: 'Dark Grass Plant'
   type:
     - '&7&oPlant'
   description:
@@ -6393,28 +6393,28 @@ CLT_PLANT_DARK_GRASS:
     - 'identity.'
 
 CLT_PLANT_DEEPSLATE:
-  name: 'Cultivation Plant: Deepslate'
+  name: 'Deepslate Plant'
   type:
     - '&7&oPlant'
   description:
     - 'Deep, slatey, <insert lore here>.'
 
 CLT_PLANT_DIAMOND:
-  name: 'Cultivation Plant: Diamond'
+  name: 'Diamond Plant'
   type:
     - '&7&oPlant'
   description:
     - 'A plant that just speaks of riches.'
 
 CLT_PLANT_DIM_LIT:
-  name: 'Cultivation Plant: Dim Lit'
+  name: 'Dim Lit Plant'
   type:
     - '&7&oPlant'
   description:
     - 'A very dim light emits from within this seed.'
 
 CLT_PLANT_DIRT:
-  name: 'Cultivation Plant: Dirt'
+  name: 'Dirt Plant'
   type:
     - '&7&oPlant'
   description:
@@ -6422,7 +6422,7 @@ CLT_PLANT_DIRT:
     - 'building blocks for life itself.'
 
 CLT_PLANT_DROWNED:
-  name: 'Cultivation Plant: Drowned'
+  name: 'Drowned Plant'
   type:
     - '&7&oPlant'
   description:
@@ -6430,7 +6430,7 @@ CLT_PLANT_DROWNED:
     - 'the time.'
 
 CLT_PLANT_DUSTY:
-  name: 'Cultivation Plant: Dusty'
+  name: 'Dusty Plant'
   type:
     - '&7&oPlant'
   description:
@@ -6439,7 +6439,7 @@ CLT_PLANT_DUSTY:
     - 'apart.'
 
 CLT_PLANT_EARTH:
-  name: 'Primal Plant: Earth'
+  name: 'Primal Earth Plant'
   type:
     - '&7&oPlant'
   description:
@@ -6449,7 +6449,7 @@ CLT_PLANT_EARTH:
     - '&eand are just for breeding.'
 
 CLT_PLANT_ECHO:
-  name: 'Cultivation Plant: Echo'
+  name: 'Echo Plant'
   type:
     - '&7&oPlant'
   description:
@@ -6457,7 +6457,7 @@ CLT_PLANT_ECHO:
     - 'its way home.'
 
 CLT_PLANT_ELDER_GUARDIAN:
-  name: 'Cultivation Plant: Elder Guardian'
+  name: 'Elder Guardian Plant'
   type:
     - '&7&oPlant'
   description:
@@ -6465,7 +6465,7 @@ CLT_PLANT_ELDER_GUARDIAN:
     - 'sluggish.'
 
 CLT_PLANT_EMERALD:
-  name: 'Cultivation Plant: Emerald'
+  name: 'Emerald Plant'
   type:
     - '&7&oPlant'
   description:
@@ -6473,7 +6473,7 @@ CLT_PLANT_EMERALD:
     - 'through hoops just to be able to afford it.'
 
 CLT_PLANT_ENDERMAN:
-  name: 'Cultivation Plant: Enderman'
+  name: 'Enderman Plant'
   type:
     - '&7&oPlant'
   description:
@@ -6481,21 +6481,21 @@ CLT_PLANT_ENDERMAN:
     - 'may teleport randomly!'
 
 CLT_PLANT_ENDER_DRAGON:
-  name: 'Cultivation Plant: Ender Dragon'
+  name: 'Ender Dragon Plant'
   type:
     - '&7&oPlant'
   description:
     - 'A real boss of a plant.'
 
 CLT_PLANT_END_STONE:
-  name: 'Cultivation Plant: End Stone'
+  name: 'End Stone Plant'
   type:
     - '&7&oPlant'
   description:
     - 'A plant that hums with the void.'
 
 CLT_PLANT_FIRE:
-  name: 'Primal Plant: Fire'
+  name: 'Primal Fire Plant'
   type:
     - '&7&oPlant'
   description:
@@ -6506,28 +6506,28 @@ CLT_PLANT_FIRE:
     - '&eand are just for breeding.'
 
 CLT_PLANT_FISH:
-  name: 'Cultivation Plant: Fish'
+  name: 'Fish Plant'
   type:
     - '&7&oPlant'
   description:
     - 'A ripe smell emanates from this seed.'
 
 CLT_PLANT_FLOWER:
-  name: 'Cultivation Plant: Flowering'
+  name: 'Flowering Plant'
   type:
     - '&7&oPlant'
   description:
     - 'A beautiful cornucopia presented well.'
 
 CLT_PLANT_FROG:
-  name: 'Cultivation Plant: Frog'
+  name: 'Frog Plant'
   type:
     - '&7&oPlant'
   description:
     - 'Ribbit!'
 
 CLT_PLANT_GHAST:
-  name: 'Cultivation Plant: Ghast'
+  name: 'Ghast Plant'
   type:
     - '&7&oPlant'
   description:
@@ -6535,7 +6535,7 @@ CLT_PLANT_GHAST:
     - 'randomly shoot fire balls.'
 
 CLT_PLANT_GLASS:
-  name: 'Cultivation Plant: Glass'
+  name: 'Glass Plant'
   type:
     - '&7&oPlant'
   description:
@@ -6543,28 +6543,28 @@ CLT_PLANT_GLASS:
     - 'swear you can see through this plant.'
 
 CLT_PLANT_GLAZED:
-  name: 'Cultivation Plant: Glazed'
+  name: 'Glazed Plant'
   type:
     - '&7&oPlant'
   description:
     - 'A plant that grows with an intricate design.'
 
 CLT_PLANT_GLOWING_VINE:
-  name: 'Cultivation Plant: Glowing Vine'
+  name: 'Glowing Vine Plant'
   type:
     - '&7&oPlant'
   description:
     - 'A faint light emits from within this seed.'
 
 CLT_PLANT_GLOW_SQUID:
-  name: 'Cultivation Plant: Glow Squid'
+  name: 'Glow Squid Plant'
   type:
     - '&7&oPlant'
   description:
     - 'A glittering plant with a faint glow.'
 
 CLT_PLANT_GOAT:
-  name: 'Cultivation Plant: Goat'
+  name: 'Goat Plant'
   type:
     - '&7&oPlant'
   description:
@@ -6572,7 +6572,7 @@ CLT_PLANT_GOAT:
     - 'to jump around.'
 
 CLT_PLANT_GRASS:
-  name: 'Cultivation Plant: Grass'
+  name: 'Grass Plant'
   type:
     - '&7&oPlant'
   description:
@@ -6580,7 +6580,7 @@ CLT_PLANT_GRASS:
     - 'from the ground.'
 
 CLT_PLANT_GRAVEL:
-  name: 'Cultivation Plant: Gravel'
+  name: 'Gravel Plant'
   type:
     - '&7&oPlant'
   description:
@@ -6588,7 +6588,7 @@ CLT_PLANT_GRAVEL:
     - 'to keep itself together.'
 
 CLT_PLANT_GUARDIAN:
-  name: 'Cultivation Plant: Guardian'
+  name: 'Guardian Plant'
   type:
     - '&7&oPlant'
   description:
@@ -6596,7 +6596,7 @@ CLT_PLANT_GUARDIAN:
     - 'spines.'
 
 CLT_PLANT_IGNEOUS:
-  name: 'Cultivation Plant: Igneous'
+  name: 'Igneous Plant'
   type:
     - '&7&oPlant'
   description:
@@ -6605,14 +6605,14 @@ CLT_PLANT_IGNEOUS:
     - 'these plant descriptions make total sense.'
 
 CLT_PLANT_LAPIS:
-  name: 'Cultivation Plant: Lapis'
+  name: 'Lapis Plant'
   type:
     - '&7&oPlant'
   description:
     - 'A plant with a faint magical aura.'
 
 CLT_PLANT_LIGHT:
-  name: 'Primal Plant: Light'
+  name: 'Primal Light Plant'
   type:
     - '&7&oPlant'
   description:
@@ -6622,7 +6622,7 @@ CLT_PLANT_LIGHT:
     - '&eand are just for breeding.'
 
 CLT_PLANT_MAGMA:
-  name: 'Cultivation Plant: Magma'
+  name: 'Magma Plant'
   type:
     - '&7&oPlant'
   description:
@@ -6630,7 +6630,7 @@ CLT_PLANT_MAGMA:
     - 'surroundings.'
 
 CLT_PLANT_MAGMA_CUBE:
-  name: 'Cultivation Plant: Magma Cube'
+  name: 'Magma Cube Plant'
   type:
     - '&7&oPlant'
   description:
@@ -6638,14 +6638,14 @@ CLT_PLANT_MAGMA_CUBE:
     - 'likes to bounce up and down.'
 
 CLT_PLANT_MOSS:
-  name: 'Cultivation Plant: Moss'
+  name: 'Moss Plant'
   type:
     - '&7&oPlant'
   description:
     - 'This plant tends to spread uncontrollably.'
 
 CLT_PLANT_MUD:
-  name: 'Cultivation Plant: Mud'
+  name: 'Mud Plant'
   type:
     - '&7&oPlant'
   description:
@@ -6653,7 +6653,7 @@ CLT_PLANT_MUD:
     - 'the ground it comes from.'
 
 CLT_PLANT_MUSHROOM:
-  name: 'Cultivation Plant: Mushroom'
+  name: 'Mushroom Plant'
   type:
     - '&7&oPlant'
   description:
@@ -6661,7 +6661,7 @@ CLT_PLANT_MUSHROOM:
     - 'Everything is totally normal over here.'
 
 CLT_PLANT_NETHERRACK:
-  name: 'Cultivation Plant: Netherrack'
+  name: 'Netherrack Plant'
   type:
     - '&7&oPlant'
   description:
@@ -6669,7 +6669,7 @@ CLT_PLANT_NETHERRACK:
     - 'in most locales.'
 
 CLT_PLANT_NETHER_QUARTZ:
-  name: 'Cultivation Plant: Nether Quartz'
+  name: 'Nether Quartz Plant'
   type:
     - '&7&oPlant'
   description:
@@ -6677,21 +6677,21 @@ CLT_PLANT_NETHER_QUARTZ:
     - 'it''s hard to work with.'
 
 CLT_PLANT_PHANTOM:
-  name: 'Cultivation Plant: Phantom'
+  name: 'Phantom Plant'
   type:
     - '&7&oPlant'
   description:
     - 'A plant with lofty leaves.'
 
 CLT_PLANT_PIG:
-  name: 'Cultivation Plant: Pig'
+  name: 'Pig Plant'
   type:
     - '&7&oPlant'
   description:
     - 'A plant that snorts randomly.'
 
 CLT_PLANT_POWER:
-  name: 'Primal Plant: Power'
+  name: 'Primal Power Plant'
   type:
     - '&7&oPlant'
   description:
@@ -6700,7 +6700,7 @@ CLT_PLANT_POWER:
     - '&eand are just for breeding.'
 
 CLT_PLANT_PURPUR:
-  name: 'Cultivation Plant: Purpur'
+  name: 'Purpur Plant'
   type:
     - '&7&oPlant'
   description:
@@ -6708,14 +6708,14 @@ CLT_PLANT_PURPUR:
     - 'than most.'
 
 CLT_PLANT_RABBIT:
-  name: 'Cultivation Plant: Rabbit'
+  name: 'Rabbit Plant'
   type:
     - '&7&oPlant'
   description:
     - 'Bugs would be proud.'
 
 CLT_PLANT_RAINBOW:
-  name: 'Cultivation Plant: Rainbow'
+  name: 'Rainbow Plant'
   type:
     - '&7&oPlant'
   description:
@@ -6723,7 +6723,7 @@ CLT_PLANT_RAINBOW:
     - 'at the end of this plant.'
 
 CLT_PLANT_RAW_COPPER:
-  name: 'Cultivation Plant: Raw Copper'
+  name: 'Raw Copper Plant'
   type:
     - '&7&oPlant'
   description:
@@ -6731,7 +6731,7 @@ CLT_PLANT_RAW_COPPER:
     - 'attracts lightning.'
 
 CLT_PLANT_RAW_GOLD:
-  name: 'Cultivation Plant: Raw Gold'
+  name: 'Raw Gold Plant'
   type:
     - '&7&oPlant'
   description:
@@ -6739,7 +6739,7 @@ CLT_PLANT_RAW_GOLD:
     - 'if nearby.'
 
 CLT_PLANT_RAW_IRON:
-  name: 'Cultivation Plant: Raw Iron'
+  name: 'Raw Iron Plant'
   type:
     - '&7&oPlant'
   description:
@@ -6747,14 +6747,14 @@ CLT_PLANT_RAW_IRON:
     - 'environments.'
 
 CLT_PLANT_REDSTONE:
-  name: 'Cultivation Plant: Redstone'
+  name: 'Redstone Plant'
   type:
     - '&7&oPlant'
   description:
     - 'A plant brimming with power throughout.'
 
 CLT_PLANT_RED_SAND:
-  name: 'Cultivation Plant: Red Sand'
+  name: 'Red Sand Plant'
   type:
     - '&7&oPlant'
   description:
@@ -6762,7 +6762,7 @@ CLT_PLANT_RED_SAND:
     - 'at a single touch - but... red-er.'
 
 CLT_PLANT_REINFORCED:
-  name: 'Cultivation Plant: Reinforced'
+  name: 'Reinforced Plant'
   type:
     - '&7&oPlant'
   description:
@@ -6770,7 +6770,7 @@ CLT_PLANT_REINFORCED:
     - 'through anything.'
 
 CLT_PLANT_SAND:
-  name: 'Cultivation Plant: Sand'
+  name: 'Sand Plant'
   type:
     - '&7&oPlant'
   description:
@@ -6778,14 +6778,14 @@ CLT_PLANT_SAND:
     - 'at a single touch.'
 
 CLT_PLANT_SAPLING:
-  name: 'Cultivation Plant: Sapling'
+  name: 'Sapling Plant'
   type:
     - '&7&oPlant'
   description:
     - 'This plant doesn''t even make sense...'
 
 CLT_PLANT_SCRAPPY:
-  name: 'Cultivation Plant: Scrappy'
+  name: 'Scrappy Plant'
   type:
     - '&7&oPlant'
   description:
@@ -6793,14 +6793,14 @@ CLT_PLANT_SCRAPPY:
     - 'horticulturalism.'
 
 CLT_PLANT_SHEEP:
-  name: 'Cultivation Plant: Sheep'
+  name: 'Sheep Plant'
   type:
     - '&7&oPlant'
   description:
     - 'A plant with a coarse woolly texture.'
 
 CLT_PLANT_SHULKER:
-  name: 'Cultivation Plant: Shulker'
+  name: 'Shulker Plant'
   type:
     - '&7&oPlant'
   description:
@@ -6808,21 +6808,21 @@ CLT_PLANT_SHULKER:
     - 'of the ground.'
 
 CLT_PLANT_SKELETON:
-  name: 'Cultivation Plant: Skeleton'
+  name: 'Skeleton Plant'
   type:
     - '&7&oPlant'
   description:
     - 'A plant that rattles as it sways.'
 
 CLT_PLANT_SLIME:
-  name: 'Cultivation Plant: Slime'
+  name: 'Slime Plant'
   type:
     - '&7&oPlant'
   description:
     - 'Why is it so sticky?'
 
 CLT_PLANT_SOUL:
-  name: 'Cultivation Plant: Soul'
+  name: 'Soul Plant'
   type:
     - '&7&oPlant'
   description:
@@ -6830,7 +6830,7 @@ CLT_PLANT_SOUL:
     - 'when its quiet.'
 
 CLT_PLANT_SPECTRUM:
-  name: 'Primal Plant: Spectrum'
+  name: 'Primal Spectrum Plant'
   type:
     - '&7&oPlant'
   description:
@@ -6839,14 +6839,14 @@ CLT_PLANT_SPECTRUM:
     - '&eand are just for breeding.'
 
 CLT_PLANT_SPIDER:
-  name: 'Cultivation Plant: Spider'
+  name: 'Spider Plant'
   type:
     - '&7&oPlant'
   description:
     - 'Kill it, kill it NAO!'
 
 CLT_PLANT_SQUID:
-  name: 'Cultivation Plant: Squid'
+  name: 'Squid Plant'
   type:
     - '&7&oPlant'
   description:
@@ -6855,7 +6855,7 @@ CLT_PLANT_SQUID:
     - 'the place.'
 
 CLT_PLANT_STAINED:
-  name: 'Cultivation Plant: Stained'
+  name: 'Stained Plant'
   type:
     - '&7&oPlant'
   description:
@@ -6863,21 +6863,21 @@ CLT_PLANT_STAINED:
     - 'spectrum to nearby objects.'
 
 CLT_PLANT_TERRA:
-  name: 'Cultivation Plant: Terra'
+  name: 'Terra Plant'
   type:
     - '&7&oPlant'
   description:
     - 'A hard earthy plant that cracks under pressure.'
 
 CLT_PLANT_TURTLE:
-  name: 'Cultivation Plant: Turtle'
+  name: 'Turtle Plant'
   type:
     - '&7&oPlant'
   description:
     - 'A seed surrounded by a rock hard shell.'
 
 CLT_PLANT_VILLAGER:
-  name: 'Cultivation Plant: Villager'
+  name: 'Villager Plant'
   type:
     - '&7&oPlant'
   description:
@@ -6885,7 +6885,7 @@ CLT_PLANT_VILLAGER:
     - 'into a plant. Apparently it hurt a lot.'
 
 CLT_PLANT_VINE:
-  name: 'Cultivation Plant: Vine'
+  name: 'Vine Plant'
   type:
     - '&7&oPlant'
   description:
@@ -6893,7 +6893,7 @@ CLT_PLANT_VINE:
     - 'up.'
 
 CLT_PLANT_WATER:
-  name: 'Primal Plant: Water'
+  name: 'Primal Water Plant'
   type:
     - '&7&oPlant'
   description:
@@ -6903,7 +6903,7 @@ CLT_PLANT_WATER:
     - '&eand are just for breeding.'
 
 CLT_PLANT_WAXY:
-  name: 'Cultivation Plant: Waxy'
+  name: 'Waxy Plant'
   type:
     - '&7&oPlant'
   description:
@@ -6911,7 +6911,7 @@ CLT_PLANT_WAXY:
     - 'perfect candle shaped wax.'
 
 CLT_PLANT_WEALTH:
-  name: 'Primal Plant: Wealth'
+  name: 'Primal Wealth Plant'
   type:
     - '&7&oPlant'
   description:
@@ -6920,7 +6920,7 @@ CLT_PLANT_WEALTH:
     - '&eand are just for breeding.'
 
 CLT_PLANT_WITCH:
-  name: 'Cultivation Plant: Witch'
+  name: 'Witch Plant'
   type:
     - '&7&oPlant'
   description:
@@ -6928,7 +6928,7 @@ CLT_PLANT_WITCH:
     - 'muttering spells.'
 
 CLT_PLANT_WITHER:
-  name: 'Cultivation Plant: Wither'
+  name: 'Wither Plant'
   type:
     - '&7&oPlant'
   description:
@@ -6936,7 +6936,7 @@ CLT_PLANT_WITHER:
     - 'with care.'
 
 CLT_PLANT_WITHER_ROSE:
-  name: 'Cultivation Plant: Wither Rose'
+  name: 'Wither Rose Plant'
   type:
     - '&7&oPlant'
   description:
@@ -6944,21 +6944,21 @@ CLT_PLANT_WITHER_ROSE:
     - 'aura around itself.'
 
 CLT_PLANT_WITHER_SKELETON:
-  name: 'Cultivation Plant: Wither Skeleton'
+  name: 'Wither Skeleton Plant'
   type:
     - '&7&oPlant'
   description:
     - 'A plant known to be elusive and hardy.'
 
 CLT_PLANT_WOOLLY:
-  name: 'Cultivation Plant: Woolly'
+  name: 'Woolly Plant'
   type:
     - '&7&oPlant'
   description:
     - 'A woolly plant, from root to petals!.'
 
 CLT_PLANT_ZOMBIE:
-  name: 'Cultivation Plant: Zombie'
+  name: 'Zombie Plant'
   type:
     - '&7&oPlant'
   description:
@@ -7953,7 +7953,7 @@ CLT_TORTILLAS:
     - 'Corn-flour delights'
 
 CLT_TREE_APRICOT:
-  name: 'Cultivation Tree: Apricot'
+  name: 'Apricot Tree'
   type:
     - '&7&oSapling'
   description:
@@ -7962,7 +7962,7 @@ CLT_TREE_APRICOT:
     - '&8⇨ &7Design By: &bBWhite'
 
 CLT_TREE_BANANA:
-  name: 'Cultivation Tree: Banana'
+  name: 'Banana Tree'
   type:
     - '&7&oSapling'
   description:
@@ -7971,7 +7971,7 @@ CLT_TREE_BANANA:
     - '&8⇨ &7Design By: &bSefiraat'
 
 CLT_TREE_CHERRY:
-  name: 'Cultivation Tree: Cherry'
+  name: 'Cherry Tree'
   type:
     - '&7&oSapling'
   description:
@@ -7980,7 +7980,7 @@ CLT_TREE_CHERRY:
     - '&8⇨ &7Design By: &bReasonFoundDecoy'
 
 CLT_TREE_CHESTNUT:
-  name: 'Cultivation Tree: Chestnut'
+  name: 'Chestnut Tree'
   type:
     - '&7&oSapling'
   description:
@@ -7989,7 +7989,7 @@ CLT_TREE_CHESTNUT:
     - '&8⇨ &7Design By: &bABitOddish'
 
 CLT_TREE_GREEN_APPLE:
-  name: 'Cultivation Tree: Green Apple'
+  name: 'Green Apple Tree'
   type:
     - '&7&oSapling'
   description:
@@ -7998,7 +7998,7 @@ CLT_TREE_GREEN_APPLE:
     - '&8⇨ &7Design By: &bBWhite'
 
 CLT_TREE_HAZELNUT:
-  name: 'Cultivation Tree: Hazelnut'
+  name: 'Hazelnut Tree'
   type:
     - '&7&oSapling'
   description:
@@ -8007,7 +8007,7 @@ CLT_TREE_HAZELNUT:
     - '&8⇨ &7Design By: &bABitOddish'
 
 CLT_TREE_KIWI:
-  name: 'Cultivation Tree: Kiwi'
+  name: 'Kiwi Tree'
   type:
     - '&7&oSapling'
   description:
@@ -8016,7 +8016,7 @@ CLT_TREE_KIWI:
     - '&8⇨ &7Design By: &bABitOddish'
 
 CLT_TREE_LEMON:
-  name: 'Cultivation Tree: Lemon'
+  name: 'Lemon Tree'
   type:
     - '&7&oSapling'
   description:
@@ -8025,7 +8025,7 @@ CLT_TREE_LEMON:
     - '&8⇨ &7Design By: &bJeff'
 
 CLT_TREE_LIME:
-  name: 'Cultivation Tree: Lime'
+  name: 'Lime Tree'
   type:
     - '&7&oSapling'
   description:
@@ -8034,7 +8034,7 @@ CLT_TREE_LIME:
     - '&8⇨ &7Design By: &bABitOddish'
 
 CLT_TREE_MANGO:
-  name: 'Cultivation Tree: Mango'
+  name: 'Mango Tree'
   type:
     - '&7&oSapling'
   description:
@@ -8043,7 +8043,7 @@ CLT_TREE_MANGO:
     - '&8⇨ &7Design By: &bBWhite'
 
 CLT_TREE_ORANGE:
-  name: 'Cultivation Tree: Orange'
+  name: 'Orange Tree'
   type:
     - '&7&oSapling'
   description:
@@ -8052,7 +8052,7 @@ CLT_TREE_ORANGE:
     - '&8⇨ &7Design By: &bJeff'
 
 CLT_TREE_PEACH:
-  name: 'Cultivation Tree: Peach'
+  name: 'Peach Tree'
   type:
     - '&7&oSapling'
   description:
@@ -8061,7 +8061,7 @@ CLT_TREE_PEACH:
     - '&8⇨ &7Design By: &bABitOddish'
 
 CLT_TREE_PEAR:
-  name: 'Cultivation Tree: Pear'
+  name: 'Pear Tree'
   type:
     - '&7&oSapling'
   description:
@@ -8070,7 +8070,7 @@ CLT_TREE_PEAR:
     - '&8⇨ &7Design By: &bBWhite'
 
 CLT_TREE_PECAN:
-  name: 'Cultivation Tree: Pecan'
+  name: 'Pecan Tree'
   type:
     - '&7&oSapling'
   description:
@@ -8079,7 +8079,7 @@ CLT_TREE_PECAN:
     - '&8⇨ &7Design By: &bBWhite'
 
 CLT_TREE_PINEAPPLE:
-  name: 'Cultivation Tree: Pineapple'
+  name: 'Pineapple Tree'
   type:
     - '&7&oSapling'
   description:
