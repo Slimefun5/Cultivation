@@ -1,0 +1,87 @@
+cultivation:
+  bush_harvest:
+    name: Krūmu ražas novākšana
+    lore:
+    - Šo priekšmetu var novākt no
+    - Cultivation krūma
+  tree_harvest:
+    name: Koku ražas novākšana
+    lore:
+    - Šo priekšmetu var novākt no
+    - Cultivation koka
+  trading_farmer:
+    name: Tirdzniecība ar ciemata iedzīvotājiem
+    lore:
+    - Šo priekšmetu var nopirkt no
+    - zemnieka ciemata iedzīvotāja.
+  trading_fletcher:
+    name: Tirdzniecība ar ciemata iedzīvotājiem
+    lore:
+    - Šo priekšmetu var nopirkt no
+    - bultu meistara ciemata iedzīvotāja.
+  mob:
+    name: Radījumu laupījums
+    lore:
+    - Šis priekšmets var izkrist no
+    - šādiem radījumiem.
+  plant_breeding:
+    name: Augu krustošana
+    lore:
+    - Šo sēklu iegūst krustojot.
+    - Augus krusto, novietojot
+    - divus augus ar gaisa bloku
+    - starp tiem.
+    - ''
+    - Krustošanas vārdnīcu var izmantot,
+    - lai sekotu saviem atklājumiem.
+    - ''
+    - 'Padoms: Melnas daļiņas nozīmē, ka'
+    - abus augus NEVAR krustot.
+  vanilla_block_drop:
+    name: Pasaules laupījums
+    lore:
+    - Izkrīt no blokiem, tos izlaužot pasaulē.
+  bucketing:
+    name: Pasaules laupījums
+    lore:
+    - Iegūstams pasaulē, izmantojot spaini.
+  chopped:
+    name: Sakapāts
+    lore:
+    - Vienkārši sakapā ar nazi!
+  mashed:
+    name: Sagrūsts
+    lore:
+    - Grūd grūd grūd
+  blended:
+    name: Blenderēts
+    lore:
+    - Top, ieliekot priekšmetu blenderī.
+  sliced:
+    name: Šķēlēs sagriezts
+    lore:
+    - Tik plāns un smalks
+  ground:
+    name: Samalts
+    lore:
+    - Līdz smalkumam
+  boiled:
+    name: Vārīts
+    lore:
+    - Karsts karsts karsts!
+  fried:
+    name: Cepts
+    lore:
+    - Kraukšķīga pilnība.
+  grilled:
+    name: Grilēts
+    lore:
+    - Sulīgs un maigs.
+  finishing:
+    name: Pabeigšana
+    lore:
+    - Izmanto virtuves pabeigšanas galdu, lai pagatavotu šo priekšmetu.
+  baking:
+    name: Cepšana cepeškrāsnī
+    lore:
+    - Izmanto virtuves cepeškrāsns galdu, lai pagatavotu šo priekšmetu.

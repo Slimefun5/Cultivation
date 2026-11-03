@@ -1,0 +1,13 @@
+cultivation:
+  main: คัลทิเวชัน
+  hidden: ซ่อนอยู่
+  crafting: ไอเท็มคราฟต์
+  tools: เครื่องมือ
+  machines: เครื่องจักร
+  plants: พืช
+  bushes: พุ่มไม้
+  trees: ต้นไม้
+  produce: ผลผลิต
+  by-products: ผลพลอยได้
+  foods: อาหาร
+  plant_codex: สารานุกรมพืช

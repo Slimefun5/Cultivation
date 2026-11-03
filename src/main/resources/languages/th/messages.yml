@@ -1,0 +1,65 @@
+lore:
+  seed-pack-set-to: ตั้งค่าเป็น
+  knowledge-script-unlocks: ปลดล็อก
+  drop-level: ระดับดรอป
+  growth-speed: ความเร็วการเติบโต
+  breed-strength: ความแรงการผสมพันธุ์
+command:
+  no-permission: คุณไม่มีสิทธิ์ทำสิ่งนี้
+  invalid-subcommand: โปรดระบุคำสั่งย่อยที่ถูกต้อง
+  players-only: คำสั่งนี้ใช้ได้เฉพาะผู้เล่นเท่านั้น
+  hold-seed-pack: คุณต้องถือซองเมล็ดพันธุ์ไว้ก่อน
+  pack-empty: ซองนี้ว่างเปล่า!
+  pack-contents: สิ่งที่อยู่ข้างใน
+  pack-entry: ระดับ %level%, ความเร็ว %speed%, ความแรง %strength%
+kitchen:
+  recipe-disabled: สูตรนี้ถูกปิดใช้งาน
+  no-recipe: ไม่มีสูตรที่ตรงกัน
+  not-enough-power: พลังงานไม่พอ
+  input-empty: ใส่ไอเท็มลงในช่องรับเข้า
+  cooked: อร่อย!
+food:
+  eaten: เยี่ยม! คุณอิ่มแล้ว
+  not-hungry: คุณยังไม่หิวเลย! กินได้ครั้งเดียวทุกครึ่งวัน (10 นาที)
+  palate-cleansed: คุณรู้สึกว่าปากของคุณสะอาดสดชื่น
+  ouch: โอ๊ย!
+knowledge-script:
+  learned: คุณได้เรียนรู้วิธีผสมพันธุ์ %plant% แล้ว
+seed-pack:
+  title: ซองเมล็ดพันธุ์
+  unstack-first: คุณต้องแยกซองเมล็ดพันธุ์ออกจากกองก่อน
+  not-a-seed: ไอเท็มต้องเป็นเมล็ดพืชของคัลทิเวชัน
+  empty-before-change: คุณต้องเทซองให้ว่างก่อนเปลี่ยนพืช
+  no-plant-set: คุณยังไม่ได้ตั้งค่าพืช
+  none-stored: คุณไม่มีเมล็ดนี้ในระดับเหล่านี้
+  set-here: ตั้งค่าเมล็ดที่นี่
+  retrieve-here: นำออกที่นี่
+  no-seed-set: ยังไม่ได้ตั้งค่าเมล็ด
+  no-seed-set-lore:
+  - คลิกไอคอนทางซ้าย
+  - ขณะถือเมล็ดเพื่อตั้งค่าซอง
+  empty-set: ชุดว่าง
+  empty-set-lore:
+  - คุณไม่มีเมล็ดที่ตรงกับ
+  - ระดับเหล่านี้
+  stored-seed: ชนิดเมล็ดที่เก็บไว้
+  take-seed: หยิบเมล็ดออกจากซอง
+  level: ระดับ
+  speed: ความเร็ว
+  strength: ความแรง
+  left-click: คลิกซ้าย
+  right-click: คลิกขวา
+  increase: เพิ่ม %stat%
+  decrease: ลด %stat%
+  current: ปัจจุบัน
+codex:
+  title: คู่มือพืช
+  child: พืชลูก
+  mother: พืชแม่
+  father: พืชพ่อ
+  growth-rate: อัตราการเติบโต
+  not-discovered: ยังไม่ค้นพบ
+  not-discovered-lore:
+  - คุณยังไม่ได้ค้นพบวิธี
+  - ผสมพันธุ์พืชนี้!
+  discovery: การค้นพบ

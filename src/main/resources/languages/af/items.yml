@@ -1,0 +1,6674 @@
+CLT_APRICOT:
+  name: Appelkoos
+  type:
+  - '&7&oOes'
+  description:
+  - Jy kan Pokéballe hiervan maak.
+  - '...'
+  - Wat bedoel jy dis 'n ander ding...?
+CLT_ARTICHOKE:
+  name: Artisjok
+  type:
+  - '&7&oOes'
+  description:
+  - Ruk sy HART uit!
+CLT_ASPARAGUS:
+  name: Aspersie
+  type:
+  - '&7&oOes'
+  description:
+  - Pasop as jy later badkamer toe gaan.
+CLT_AUBERGINE:
+  name: Eiervrug
+  type:
+  - '&7&oOes'
+  description:
+  - Helder pers en 100% NIE eiervormig nie.
+  - Noem dit maar 'n eiervrug, reg?
+CLT_AVOCADO:
+  name: Avokado
+  type:
+  - '&7&oOes'
+  description:
+  - Waarvan hipsters droom.
+CLT_BACON_SANDWICH:
+  name: Spektoebroodjie
+  type:
+  - '&7&oKos'
+  description:
+  - '''n Eenvoudige klassieker!'
+  stats:
+  - '&8⇨ &7Genesing: &b2 Harte'
+  - '&8⇨ &bMag I &7(10:00)'
+  - '&8⇨ &bSpoed I &7(10:00)'
+CLT_BAGEL:
+  name: Bagel
+  type:
+  - '&7&oKos'
+  description:
+  - Gerooster? of...
+  stats:
+  - '&8⇨ &7Genesing: &b2.5 Harte'
+CLT_BAGEL_BITE:
+  name: Bagelhappie
+  type:
+  - '&7&oKos'
+  description:
+  - Eet enige tyd pizza!
+  stats:
+  - '&8⇨ &7Brand jou mond met elke hap!'
+CLT_BAGEL_CREAM_CHEESE:
+  name: Roomkaasbagel
+  type:
+  - '&7&oKos'
+  description:
+  - Dis so lekker, jy sal seker nog een wil hê.
+  stats:
+  - '&8⇨ &7Genesing: &b5 Harte'
+  - '&8⇨ &bTydelike Taaiheid I &7(10:00)'
+CLT_BANANA:
+  name: Piesang
+  type:
+  - '&7&oOes'
+  description:
+  - Dit skeel my niks, solank ek dit kan skil!
+CLT_BASIL:
+  name: Basilikum
+  type:
+  - '&7&oOes'
+  description:
+  - '''n Soet blaar met ''n sagte peperagtige nasmaak.'
+CLT_BAY_LEAF:
+  name: Lourierblaar
+  type:
+  - '&7&oOes'
+  description:
+  - '''n Sterk aromaat met baie gebruike.'
+CLT_BELL_PEPPER:
+  name: Soetrissie
+  type:
+  - '&7&oOes'
+  description:
+  - Lui regtig waar.
+CLT_BISCUIT:
+  name: Skon
+  type:
+  - '&7&oKos'
+  description:
+  - '''n Klein peuselhappie met ''n reuse smaak.'
+  stats: &id002
+  - '&8⇨ &7Skiet jou die lug in'
+CLT_BISCUIT_BASE:
+  name: Skonbasis
+  type:
+  - '&7&oOes'
+  description:
+  - Net omdat dit nou plat is, beteken dit
+  - nie jy kan dit rou eet nie.
+CLT_BISCUIT_DOUGH:
+  name: Skondeeg
+  type:
+  - '&7&oOes'
+  description:
+  - 'Herinner jouself net: "Moenie dit rou eet nie."'
+CLT_BLACK_BEANS:
+  name: Swartbone
+  type:
+  - '&7&oOes'
+  description:
+  - '''n Heerlike vegetariese proteïen.'
+CLT_BLENDED_APPLE:
+  name: Gepureerde Appel
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_APRICOT:
+  name: Gepureerde Appelkoos
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_ARTICHOKE:
+  name: Gepureerde Artisjok
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_ASPARAGUS:
+  name: Gepureerde Aspersie
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_AUBERGINE:
+  name: Gepureerde Eiervrug
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_AVOCADO:
+  name: Gepureerde Avokado
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_BANANA:
+  name: Gepureerde Piesang
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_BASIL:
+  name: Gepureerde Basilikum
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_BAY_LEAF:
+  name: Gepureerde Lourierblaar
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_BEEF:
+  name: Gepureerde Beesvleis
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_BEETROOT:
+  name: Gepureerde Beet
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_BELL_PEPPER:
+  name: Gepureerde Soetrissie
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_BLACK_BEANS:
+  name: Gepureerde Swartbone
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_BREAD:
+  name: Gepureerde Brood
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_BROCCOLI:
+  name: Gepureerde Broccoli
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_BROWN_MUSHROOM:
+  name: Gepureerde Bruin Sampioen
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_BRUSSELS_SPROUTS:
+  name: Gepureerde Spruitkool
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_CABBAGE:
+  name: Gepureerde Kool
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_CARROT:
+  name: Gepureerde Wortel
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_CAULIFLOWER:
+  name: Gepureerde Blomkool
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_CAYENNE_PEPPER:
+  name: Gepureerde Cayennepeper
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_CELERIAC:
+  name: Gepureerde Knolselder
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_CELERY:
+  name: Gepureerde Seldery
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_CHERRY:
+  name: Gepureerde Kersie
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_CHESTNUT:
+  name: Gepureerde Kastaiing
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_CHICKEN:
+  name: Gepureerde Hoender
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_CHICKPEAS:
+  name: Gepureerde Kekerertjies
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_CHICORY:
+  name: Gepureerde Sigorei
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_CHILLY_PEPPER:
+  name: Gepureerde Brandrissie
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_CHIVES:
+  name: Gepureerde Grasuie
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_CHORUS_FRUIT:
+  name: Gepureerde Refrein Vrug
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_CILANTRO:
+  name: Gepureerde Koljander
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_CINNAMON:
+  name: Gepureerde Kaneel
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_CLOVE:
+  name: Gepureerde Naeltjie
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_COCOA_BEANS:
+  name: Gepureerde Kakao Bone
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_COD:
+  name: Gepureerde Kabeljou
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_COURGETTE:
+  name: Gepureerde Courgette
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_CUCUMBER:
+  name: Gepureerde Komkommer
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_CUMIN:
+  name: Gepureerde Komyn
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_CURRY_LEAF:
+  name: Gepureerde Kerrieblaar
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_DILL:
+  name: Gepureerde Dille
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_EGG:
+  name: Gepureerde Eier
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_ENCHANTED_GOLDEN_APPLE:
+  name: Gepureerde Betowerde Goue Appel
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_FENNEL:
+  name: Gepureerde Vinkel
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_GARLIC:
+  name: Gepureerde Knoffel
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_GINGER:
+  name: Gepureerde Gemmer
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_GLOW_BERRIES:
+  name: Gepureerde Gloeibessies
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_GOLDEN_APPLE:
+  name: Gepureerde Goue Appel
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_GOLDEN_CARROT:
+  name: Gepureerde Goue Wortel
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_GRAPE:
+  name: Gepureerde Druif
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_GREEN_APPLE:
+  name: Gepureerde Groen Appel
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_GREEN_BEANS:
+  name: Gepureerde Groenbone
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_GREEN_ONION:
+  name: Gepureerde Sprietui
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_HAZELNUT:
+  name: Gepureerde Haselneut
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_HORSERADISH:
+  name: Gepureerde Peperwortel
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_JALAPENO:
+  name: Gepureerde Jalapeño
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_JASMINE:
+  name: Gepureerde Jasmyn
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_JUNIPER_BERRY:
+  name: Gepureerde Jenewerbessies
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_KAFFIR_LIME:
+  name: Gepureerde Makrutlemmetjieblaar
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_KALE:
+  name: Gepureerde Boerkool
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_KELP:
+  name: Gepureerde Kelp
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_KIWI:
+  name: Gepureerde Kiwi
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_LAVENDER:
+  name: Gepureerde Laventel
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_LEEK:
+  name: Gepureerde Prei
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_LEMON:
+  name: Gepureerde Suurlemoen
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_LETTUCE:
+  name: Gepureerde Blaarslaai
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_LICORICE:
+  name: Gepureerde Soethout
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_LIME:
+  name: Gepureerde Lemmetjie
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_MACE:
+  name: Gepureerde Foelie
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_MANGO:
+  name: Gepureerde Mango
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_MARJORAM:
+  name: Gepureerde Marjolein
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_MARROW:
+  name: Gepureerde Murgpampoen
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_MELON:
+  name: Gepureerde Waatlemoen
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_MINT:
+  name: Gepureerde Kruisement
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_MUSTARD_SEEDS:
+  name: Gepureerde Mosterdsaadjies
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_MUTTON:
+  name: Gepureerde Skaapvleis
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_NETTLES:
+  name: Gepureerde Brandnetels
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_OKRA:
+  name: Gepureerde Okra
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_ONION:
+  name: Gepureerde Ui
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_ORANGE:
+  name: Gepureerde Lemoen
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_OREGANO:
+  name: Gepureerde Origanum
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_PARSLEY:
+  name: Gepureerde Pietersielie
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_PARSNIP:
+  name: Gepureerde Pastinaak
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_PEA:
+  name: Gepureerde Ertjies
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_PEACH:
+  name: Gepureerde Perske
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_PEANUT:
+  name: Gepureerde Grondboontjie
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_PEAR:
+  name: Gepureerde Peer
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_PECAN:
+  name: Gepureerde Pekanneut
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_PEPPER:
+  name: Gepureerde Swartpeper
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_PEPPERONI:
+  name: Gepureerde Pepperoni
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_PINEAPPLE:
+  name: Gepureerde Pynappel
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_PINTO_BEANS:
+  name: Gepureerde Pintobone
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_PORKCHOP:
+  name: Gepureerde Varktjop
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_POTATO:
+  name: Gepureerde Aartappel
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_PUFFERFISH:
+  name: Gepureerde Blaasoppie
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_PUMPKIN:
+  name: Gepureerde Pampoen
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_RABBIT:
+  name: Gepureerde Konyn
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_RADDISH:
+  name: Gepureerde Radys
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_RADICCHIO:
+  name: Gepureerde Radicchio
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_RAPESEED:
+  name: Gepureerde Kanola
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_RED_MUSHROOM:
+  name: Gepureerde Rooi Sampioen
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_RHUBARB:
+  name: Gepureerde Rabarber
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_RICE:
+  name: Gepureerde Rys
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_ROSEMARY:
+  name: Gepureerde Roosmaryn
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_ROTTEN_FLESH:
+  name: Gepureerde Vrot Vleis
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_RUNNER_BEANS:
+  name: Gepureerde Rankbone
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_RUTABAGA:
+  name: Gepureerde Koolraap
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_SALMON:
+  name: Gepureerde Salm
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_SASSAFRAS:
+  name: Gepureerde Sassafras
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_SHALLOT:
+  name: Gepureerde Sjalot
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_SHISO:
+  name: Gepureerde Shiso
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_SOY_BEANS:
+  name: Gepureerde Sojabone
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_SPINACH:
+  name: Gepureerde Spinasie
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_STAR_ANISE:
+  name: Gepureerde Steranys
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_STRAWBERRY:
+  name: Gepureerde Aarbei
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_SUGAR:
+  name: Gepureerde Suiker
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_SWEETCORN:
+  name: Gepureerde Suikermielies
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_SWEET_BERRIES:
+  name: Gepureerde Soetbessies
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_SWEET_POTATO:
+  name: Gepureerde Patat
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_TARRAGON:
+  name: Gepureerde Dragon
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_THYME:
+  name: Gepureerde Tiemie
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_TOMATO:
+  name: Gepureerde Tamatie
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_TURMERIC:
+  name: Gepureerde Borrie
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_TURNIP:
+  name: Gepureerde Raap
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_VANILLA:
+  name: Gepureerde Vanielje
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_WASABI:
+  name: Gepureerde Wasabi
+  type:
+  - '&7&oNeweproduk'
+CLT_BLENDED_WHEAT:
+  name: Gepureerde Koring
+  type:
+  - '&7&oNeweproduk'
+CLT_BLUE_CANDY:
+  name: Blou Lekker
+  type:
+  - '&7&oKos'
+  description:
+  - '''n Heerlik soet lekkergoedjie.'
+  stats:
+  - '&8⇨ &7Roep ''n Helpertjie op'
+CLT_BOILED_APPLE:
+  name: Gekookte Appel
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_APRICOT:
+  name: Gekookte Appelkoos
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_ARTICHOKE:
+  name: Gekookte Artisjok
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_ASPARAGUS:
+  name: Gekookte Aspersie
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_AUBERGINE:
+  name: Gekookte Eiervrug
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_AVOCADO:
+  name: Gekookte Avokado
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_BANANA:
+  name: Gekookte Piesang
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_BASIL:
+  name: Gekookte Basilikum
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_BAY_LEAF:
+  name: Gekookte Lourierblaar
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_BEEF:
+  name: Gekookte Beesvleis
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_BEETROOT:
+  name: Gekookte Beet
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_BELL_PEPPER:
+  name: Gekookte Soetrissie
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_BLACK_BEANS:
+  name: Gekookte Swartbone
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_BREAD:
+  name: Gekookte Brood
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_BROCCOLI:
+  name: Gekookte Broccoli
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_BROWN_MUSHROOM:
+  name: Gekookte Bruin Sampioen
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_BRUSSELS_SPROUTS:
+  name: Gekookte Spruitkool
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_CABBAGE:
+  name: Gekookte Kool
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_CARROT:
+  name: Gekookte Wortel
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_CAULIFLOWER:
+  name: Gekookte Blomkool
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_CAYENNE_PEPPER:
+  name: Gekookte Cayennepeper
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_CELERIAC:
+  name: Gekookte Knolselder
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_CELERY:
+  name: Gekookte Seldery
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_CHERRY:
+  name: Gekookte Kersie
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_CHESTNUT:
+  name: Gekookte Kastaiing
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_CHICKEN:
+  name: Gekookte Hoender
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_CHICKPEAS:
+  name: Gekookte Kekerertjies
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_CHICORY:
+  name: Gekookte Sigorei
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_CHILLY_PEPPER:
+  name: Gekookte Brandrissie
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_CHIVES:
+  name: Gekookte Grasuie
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_CHORUS_FRUIT:
+  name: Gekookte Refrein Vrug
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_CILANTRO:
+  name: Gekookte Koljander
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_CINNAMON:
+  name: Gekookte Kaneel
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_CLOVE:
+  name: Gekookte Naeltjie
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_COCOA_BEANS:
+  name: Gekookte Kakao Bone
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_COD:
+  name: Gekookte Kabeljou
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_COURGETTE:
+  name: Gekookte Courgette
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_CUCUMBER:
+  name: Gekookte Komkommer
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_CUMIN:
+  name: Gekookte Komyn
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_CURRY_LEAF:
+  name: Gekookte Kerrieblaar
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_DILL:
+  name: Gekookte Dille
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_EGG:
+  name: Gekookte Eier
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_ENCHANTED_GOLDEN_APPLE:
+  name: Gekookte Betowerde Goue Appel
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_FENNEL:
+  name: Gekookte Vinkel
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_GARLIC:
+  name: Gekookte Knoffel
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_GINGER:
+  name: Gekookte Gemmer
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_GLOW_BERRIES:
+  name: Gekookte Gloeibessies
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_GOLDEN_APPLE:
+  name: Gekookte Goue Appel
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_GOLDEN_CARROT:
+  name: Gekookte Goue Wortel
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_GRAPE:
+  name: Gekookte Druif
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_GREEN_APPLE:
+  name: Gekookte Groen Appel
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_GREEN_BEANS:
+  name: Gekookte Groenbone
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_GREEN_ONION:
+  name: Gekookte Sprietui
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_HAZELNUT:
+  name: Gekookte Haselneut
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_HORSERADISH:
+  name: Gekookte Peperwortel
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_JALAPENO:
+  name: Gekookte Jalapeño
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_JASMINE:
+  name: Gekookte Jasmyn
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_JUNIPER_BERRY:
+  name: Gekookte Jenewerbessies
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_KAFFIR_LIME:
+  name: Gekookte Makrutlemmetjieblaar
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_KALE:
+  name: Gekookte Boerkool
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_KELP:
+  name: Gekookte Kelp
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_KIWI:
+  name: Gekookte Kiwi
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_LAVENDER:
+  name: Gekookte Laventel
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_LEEK:
+  name: Gekookte Prei
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_LEMON:
+  name: Gekookte Suurlemoen
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_LETTUCE:
+  name: Gekookte Blaarslaai
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_LICORICE:
+  name: Gekookte Soethout
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_LIME:
+  name: Gekookte Lemmetjie
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_MACE:
+  name: Gekookte Foelie
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_MANGO:
+  name: Gekookte Mango
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_MARJORAM:
+  name: Gekookte Marjolein
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_MARROW:
+  name: Gekookte Murgpampoen
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_MELON:
+  name: Gekookte Waatlemoen
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_MINT:
+  name: Gekookte Kruisement
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_MUSTARD_SEEDS:
+  name: Gekookte Mosterdsaadjies
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_MUTTON:
+  name: Gekookte Skaapvleis
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_NETTLES:
+  name: Gekookte Brandnetels
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_OKRA:
+  name: Gekookte Okra
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_ONION:
+  name: Gekookte Ui
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_ORANGE:
+  name: Gekookte Lemoen
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_OREGANO:
+  name: Gekookte Origanum
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_PARSLEY:
+  name: Gekookte Pietersielie
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_PARSNIP:
+  name: Gekookte Pastinaak
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_PEA:
+  name: Gekookte Ertjies
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_PEACH:
+  name: Gekookte Perske
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_PEANUT:
+  name: Gekookte Grondboontjie
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_PEAR:
+  name: Gekookte Peer
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_PECAN:
+  name: Gekookte Pekanneut
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_PEPPER:
+  name: Gekookte Swartpeper
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_PEPPERONI:
+  name: Gekookte Pepperoni
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_PINEAPPLE:
+  name: Gekookte Pynappel
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_PINTO_BEANS:
+  name: Gekookte Pintobone
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_PORKCHOP:
+  name: Gekookte Varktjop
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_POTATO:
+  name: Gekookte Aartappel
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_PUFFERFISH:
+  name: Gekookte Blaasoppie
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_PUMPKIN:
+  name: Gekookte Pampoen
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_RABBIT:
+  name: Gekookte Konyn
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_RADDISH:
+  name: Gekookte Radys
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_RADICCHIO:
+  name: Gekookte Radicchio
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_RAPESEED:
+  name: Gekookte Kanola
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_RED_MUSHROOM:
+  name: Gekookte Rooi Sampioen
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_RHUBARB:
+  name: Gekookte Rabarber
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_RICE:
+  name: Gekookte Rys
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_ROSEMARY:
+  name: Gekookte Roosmaryn
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_ROTTEN_FLESH:
+  name: Gekookte Vrot Vleis
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_RUNNER_BEANS:
+  name: Gekookte Rankbone
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_RUTABAGA:
+  name: Gekookte Koolraap
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_SALMON:
+  name: Gekookte Salm
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_SASSAFRAS:
+  name: Gekookte Sassafras
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_SHALLOT:
+  name: Gekookte Sjalot
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_SHISO:
+  name: Gekookte Shiso
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_SOY_BEANS:
+  name: Gekookte Sojabone
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_SPINACH:
+  name: Gekookte Spinasie
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_STAR_ANISE:
+  name: Gekookte Steranys
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_STRAWBERRY:
+  name: Gekookte Aarbei
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_SUGAR:
+  name: Gekookte Suiker
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_SWEETCORN:
+  name: Gekookte Suikermielies
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_SWEET_BERRIES:
+  name: Gekookte Soetbessies
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_SWEET_POTATO:
+  name: Gekookte Patat
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_TARRAGON:
+  name: Gekookte Dragon
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_THYME:
+  name: Gekookte Tiemie
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_TOMATO:
+  name: Gekookte Tamatie
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_TURMERIC:
+  name: Gekookte Borrie
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_TURNIP:
+  name: Gekookte Raap
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_VANILLA:
+  name: Gekookte Vanielje
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_WASABI:
+  name: Gekookte Wasabi
+  type:
+  - '&7&oNeweproduk'
+CLT_BOILED_WHEAT:
+  name: Gekookte Koring
+  type:
+  - '&7&oNeweproduk'
+CLT_BOWL_OF_STEVE:
+  name: Bak... Steve?
+  type:
+  - '&7&oKos'
+  description:
+  - Wat de &%£$
+  stats:
+  - '&8⇨ &bMyn-uitputting X &7(10:00)'
+  - '&8⇨ &bTraagheid VI &7(10:00)'
+  - '&8⇨ &bMag X &7(10:00)'
+  - '&8⇨ &7Bring jou af tot 1/2 hart'
+CLT_BROCCOLI:
+  name: Broccoli
+  type:
+  - '&7&oOes'
+  description:
+  - Is jy 'n reus wat 'n boom vashou?
+  - Nee wat, net 'n piepklein boompie :)
+CLT_BRUSSELS_SPROUTS:
+  name: Spruitkool
+  type:
+  - '&7&oOes'
+  description:
+  - '''n Winderige lekkerny.'
+CLT_BUSH_ARTICHOKE:
+  name: Artisjokstruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Die beste struik om vir 'n kunstenaar mee
+  - 'te jok: Arti-sjok. Sug. Woordspel is moeilik.'
+CLT_BUSH_ASPARAGUS:
+  name: Aspersiestruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Hierdie aspersiestruik werp nooit
+  - aspersies op ander nie!
+CLT_BUSH_AUBERGINE:
+  name: Eiervrugstruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Ek weier om die woord brinjal te gebruik. Ek weier net.
+CLT_BUSH_AVOCADO:
+  name: Avokadostruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Hierdie struik is spesifiek geteel om nie
+  - te veel water te gebruik nie.
+CLT_BUSH_BASIL:
+  name: Basilikumstruik
+  type:
+  - '&7&oStruik'
+  description:
+  - '''n Ligsinnige struik vol grille en giere.'
+CLT_BUSH_BAY_LEAF:
+  name: Lourierstruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Die reuk van hierdie struik trek kilometers ver.
+CLT_BUSH_BELL_PEPPER:
+  name: Soetrissiestruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Pasop as jy hier verbyloop, jy kan dalk
+  - die klokkie lui.
+CLT_BUSH_BLACK_BEANS:
+  name: Swartboonstruik
+  type:
+  - '&7&oStruik'
+  description:
+  - 'Hierdie struik fluister saggies vir jou:'
+  - Elke boontjie kry sy loontjie, en jy's 'n goeie een.
+CLT_BUSH_BROCCOLI:
+  name: Broccolistruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Klein boompies wat jy kan eet? Wie het dit uitgedink!?
+CLT_BUSH_BRUSSELS_SPROUTS:
+  name: Spruitkoolstruik
+  type:
+  - '&7&oStruik'
+  description:
+  - '''n Struik wat soms skadelike gasse'
+  - kan afgee.
+CLT_BUSH_CABBAGE:
+  name: Koolstruik
+  type:
+  - '&7&oStruik'
+  description:
+  - '''n Struik wat met ''n groot klomp'
+  - emosionele kool-bagasie kom.
+CLT_BUSH_CAULIFLOWER:
+  name: Blomkoolstruik
+  type:
+  - '&7&oStruik'
+  description:
+  - '''n Struik wat klein wolkies van'
+  - genot kan voortbring.
+CLT_BUSH_CAYENNE_PEPPER:
+  name: Cayennepeperstruik
+  type:
+  - '&7&oStruik'
+  description:
+  - '''n Struik met ''n peperige houding.'
+CLT_BUSH_CELERIAC:
+  name: Knolselderstruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Nog 'n wortel wat aan 'n struik groei?
+  - SefiDom™
+CLT_BUSH_CELERY:
+  name: Selderystruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Hierdie struik is oorbodig.
+  - Sefi hou nie van Seldery nie.
+CLT_BUSH_CHICKPEAS:
+  name: Kekerertjiestruik
+  type:
+  - '&7&oStruik'
+  description:
+  - '''n Struik geteel deur ''n hoender met'
+  - '''n ertjie te kruis. WETENSKAP.'
+CLT_BUSH_CHICORY:
+  name: Sigoreistruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Ek het gedink sigorei is 'n wortel? Doen hierdie addon
+  - eens sy navorsing!?
+CLT_BUSH_CHILLI_PEPPER:
+  name: Brandrissiestruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Net om na hierdie struik te kyk, brand my tong.
+CLT_BUSH_CHIVES:
+  name: Grasuistruik
+  type:
+  - '&7&oStruik'
+  description:
+  - '''n Struik wat, prakties gesproke, die wêreld se'
+  - kleinste ui voortbring.
+CLT_BUSH_CILANTRO:
+  name: Koljanderstruik
+  type:
+  - '&7&oStruik'
+  description:
+  - '''n Flou sitrus- en speserygeur kom van hierdie struik af.'
+CLT_BUSH_CINNAMON:
+  name: Kaneelstruik
+  type:
+  - '&7&oStruik'
+  description:
+  - '''n Heerlik geurige struik.'
+CLT_BUSH_CLOVE:
+  name: Naeltjiestruik
+  type:
+  - '&7&oStruik'
+  description:
+  - '''n Struik wat my net aan Kersfees herinner.'
+CLT_BUSH_COURGETTE:
+  name: Courgettestruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Hoekom skree hierdie struik aanhoudend die
+  - woord Zucchini? Dit moet seker Amerikaans wees?
+CLT_BUSH_CUCUMBER:
+  name: Komkommerstruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Hierdie struik is uitsluitlik ontwerp vir
+  - jou heerlike someraand-slaaie.
+CLT_BUSH_CUMIN:
+  name: Komynstruik
+  type:
+  - '&7&oStruik'
+  description:
+  - '''n Struik wat ''n warm sitrusgeur afgee.'
+CLT_BUSH_CURRY_LEAF:
+  name: Kerrieblaarstruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Die beste as dit droog gerooster is.
+CLT_BUSH_DILL:
+  name: Dillestruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Hierdie struik groei baie vinniger as ander.
+CLT_BUSH_FENNEL:
+  name: Vinkelstruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Hoekom hou hierdie struik goggas weg!?
+CLT_BUSH_GARLIC:
+  name: Knoffelstruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Hierdie struik het eenvoudig die slegste asem.
+CLT_BUSH_GINGER:
+  name: Gemmerstruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Hierdie struik is lekker as dit heel gekook word.
+CLT_BUSH_GRAPE:
+  name: Druifstruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Ryp en sappige druiwe wat amper van
+  - die struik af val.
+CLT_BUSH_GREEN_BEANS:
+  name: Groenboonstruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Gooi tamatiesous oor hierdie struik om
+  - gebakte boontjies te maak.
+CLT_BUSH_GREEN_ONION:
+  name: Sprietuistruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Ook bekend as Salotjies.
+  - Sprietuie het oor die algemeen 'n
+  - sagter smaak as die meeste uie.
+CLT_BUSH_HORSERADISH:
+  name: Peperwortelstruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Weereens, dat dit aan 'n struik groei, maak net nie sin nie.
+CLT_BUSH_JALAPENO:
+  name: Jalapeñostruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Net om hierdie struik vas te hou, gee jou 'n
+  - 1% kans om aan die brand te slaan.
+CLT_BUSH_JASMINE:
+  name: Jasmynstruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Die geur van hierdie struik is so sag en mild.
+CLT_BUSH_JUNIPER_BERRY:
+  name: Jenewerbessiestruik
+  type:
+  - '&7&oStruik'
+  description:
+  - So soet aan die struik, peperig as dit gedroog is.
+CLT_BUSH_KAFFIR_LIME:
+  name: Makrutlemmetjiestruik
+  type:
+  - '&7&oStruik'
+  description:
+  - '''n Struik waarvan die blare meer gesog is as sy vrugte.'
+CLT_BUSH_KALE:
+  name: Boerkoolstruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Wanneer jy hierdie struik plant, voel jy
+  - sommer soos 'n regte boer. Boerkool, kry jy?
+CLT_BUSH_LAVENDER:
+  name: Laventelstruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Hierdie struik waai sy reuk oral heen.
+CLT_BUSH_LEEK:
+  name: Preistruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Het jy geweet 'n prei is net 'n ui wat
+  - '''n korset dra? Ware verhaal.'
+CLT_BUSH_LETTUCE:
+  name: Blaarslaaistruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Groei blaarslaai eens aan struike?
+  - 'Verklapper: Nee, dit doen nie.'
+CLT_BUSH_LICORICE:
+  name: Soethoutstruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Walglik
+CLT_BUSH_MACE:
+  name: Foeliestruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Dit lyk of hierdie struik aanvallers afweer?
+CLT_BUSH_MARJORAM:
+  name: Marjoleinstruik
+  type:
+  - '&7&oStruik'
+  description:
+  - '''n Groot struik wat na hout ruik.'
+CLT_BUSH_MARROW:
+  name: Murgpampoenstruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Ek is verbaas dat hierdie struik sy eie
+  - gewig kan dra.
+CLT_BUSH_MINT:
+  name: Kruisementstruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Eenvoudig die lekkerste ruikende struik.
+CLT_BUSH_MUSTARD:
+  name: Mosterdsaadjiestruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Soos vuur in jou mond.
+CLT_BUSH_NETTLES:
+  name: Brandnetelstruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Wees versigtig as jy deur hierdie struik loop!
+CLT_BUSH_OKRA:
+  name: Okrastruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Aangewys as die nommer 1 groente volgens
+  - Okra Winfrey se Groenteklub.
+CLT_BUSH_ONION:
+  name: Uistruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Lyk dit of hierdie struik begin huil?
+CLT_BUSH_OREGANO:
+  name: Origanumstruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Hierdie skerpruikende struik skrik besoekers af.
+CLT_BUSH_PARSLEY:
+  name: Pietersieliestruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Gooi hierdie struik in lava, nou :D
+CLT_BUSH_PARSNIP:
+  name: Pastinaakstruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Slaan sommer die middelman oor en rooster
+  - die struik direk.
+CLT_BUSH_PEA:
+  name: Ertjiestruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Ek verkies Q's
+CLT_BUSH_PEANUTS:
+  name: Grondboontjiestruik
+  type:
+  - '&7&oStruik'
+  description: &id001
+  - Stewig, geurig en vol proteïen.
+CLT_BUSH_PEPPER:
+  name: Swartpeperstruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Swartpeper was 'n belangrike deel van die
+  - speseryhandel tussen Indië en Europa,
+  - reeds in die Griekse en Romeinse tyd.
+CLT_BUSH_PINTO_BEANS:
+  name: Pintoboonstruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Dit sal nie lank wees voor ons suksesvol 'n
+  - regstreekse-burrito-struik teel nie, reg?
+CLT_BUSH_RADDISH:
+  name: Radysstruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Hierdie plant het pas 'n skaatsplanktoertjie gedoen.
+  - Heeltemal Rad...ys.
+CLT_BUSH_RADICCHIO:
+  name: Radicchiostruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Wil jy deftig klink? Sit Radicchio in enige
+  - ete, dis basies soos kool maar dit
+  - laat jou verfynd lyk.
+CLT_BUSH_RAPESEED:
+  name: Kanolastruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Hierdie struik skei een of ander olierige stof af.
+CLT_BUSH_RHUBARB:
+  name: Rabarberstruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Het jy geweet rabarber is 'n groente?
+  - Ek het gedink dis 'n soort hamer.
+CLT_BUSH_RICE:
+  name: Rysstruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Die ultieme stapelvoedsel.
+CLT_BUSH_ROSEMARY:
+  name: Roosmarynstruik
+  type:
+  - '&7&oStruik'
+  description:
+  - '''n Struik waarvan die reuk mense aan Sondagmiddagetes herinner.'
+CLT_BUSH_RUNNER_BEANS:
+  name: Rankboonstruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Hierdie struik het voete o.o?
+CLT_BUSH_RUTABAGA:
+  name: Koolraapstruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Koolraap. Dis 'n koolraap.
+CLT_BUSH_SASSAFRAS:
+  name: Sassafrasstruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Hierdie struik word graag naby klein
+  - watertjies geplant.
+CLT_BUSH_SHALLOT:
+  name: Sjalotstruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Hierdie struik maak vinnig heerlike mini-uitjies.
+  - Gelukkig hoef jy nie sjaloers te wees nie.
+CLT_BUSH_SHISO:
+  name: Shisostruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Ek dink graag hierdie struik is die liefdeskind
+  - van 'n kruisementstruik en 'n basilikumstruik. Jammer
+  - dat struike teel nie 'n ding is nie!
+CLT_BUSH_SOY_BEANS:
+  name: Sojaboonstruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Hierdie struik is 'n vriendelike lekkerny. Dit maak
+  - my so-ja bly.
+CLT_BUSH_SPINACH:
+  name: Spinasiestruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Hierdie struik is Popeye se beste vriend.
+CLT_BUSH_STAR_ANISE:
+  name: Steranysstruik
+  type:
+  - '&7&oStruik'
+  description:
+  - '''n Reuk kom van hierdie struik af wat so eie'
+  - aan anys is, jy sal dit nie glo nie.
+CLT_BUSH_STRAWBERRY:
+  name: Aarbeistruik
+  type:
+  - '&7&oStruik'
+  description: *id001
+CLT_BUSH_SWEETCORN:
+  name: Suikermieliestruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Hierdie struik smeek net om in 'n
+  - mieliedoolhof omskep te word.
+CLT_BUSH_SWEET_POTATO:
+  name: Patatstruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Hierdie struik is net so soet. Ek het gehoor hoe
+  - dit jou komplimenteer toe jy nie geluister het nie.
+CLT_BUSH_TARRAGON:
+  name: Dragonstruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Hierdie struik hou nie daarvan om te veel aandag te trek nie.
+CLT_BUSH_THYME:
+  name: Tiemiestruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Hierdie struik het nooit genoeg... Tiem... Tyd nie... *hoes*
+CLT_BUSH_TOMATO:
+  name: Tamatiestruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Ryp en gereed.
+CLT_BUSH_TURMERIC:
+  name: Borriestruik
+  type:
+  - '&7&oStruik'
+  description:
+  - '''n Vlaag speserye tref jou neus net deur'
+  - hierdie struik vas te hou.
+CLT_BUSH_TURNIP:
+  name: Raapstruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Volgens die Britse Regering sal
+  - hierdie struik al ons probleme oplos.
+CLT_BUSH_VANILLA:
+  name: Vanieljestruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Hierdie struik groei inheems naby StarBucks-takke.
+CLT_BUSH_WASABI:
+  name: Wasabistruik
+  type:
+  - '&7&oStruik'
+  description:
+  - Nog 'n wortel wat aan 'n struik groei?
+  - Sug...
+CLT_CABBAGE:
+  name: Kool
+  type:
+  - '&7&oOes'
+  description:
+  - '''n Hele vrag kool-bagasie.'
+CLT_CAESAR_SALAD:
+  name: Caesarslaai
+  type:
+  - '&7&oKos'
+  description:
+  - '''n Gesonde klassieker.'
+  stats:
+  - '&8⇨ &7Genesing: &b6 Harte'
+  - '&8⇨ &bSpoed I &7(10:00)'
+  - '&8⇨ &bOnsigbaarheid I &7(10:00)'
+  - '&8⇨ &bStadig Val I &7(10:00)'
+CLT_CAJUN_GARLIC_BUTTER_COD:
+  name: Kabeljou in Cajun-knoffelbotter
+  type:
+  - '&7&oKos'
+  description:
+  - '''n Baie eenvoudige gereg wat oorloop van geur.'
+  stats:
+  - '&8⇨ &7Genesing: &b4 Harte'
+  - '&8⇨ &bRegenerasie II &7(10:00)'
+  - '&8⇨ &bSpoed I &7(10:00)'
+CLT_CAULIFLOWER:
+  name: Blomkool
+  type:
+  - '&7&oOes'
+  description:
+  - '''n Draagbare wolk!'
+CLT_CAYENNE_PEPPER:
+  name: Cayennepeper
+  type:
+  - '&7&oOes'
+  description:
+  - '''n Sagte, pikante lekkerny.'
+CLT_CELERIAC:
+  name: Knolselder
+  type:
+  - '&7&oOes'
+  description:
+  - '''n Stewige wortel wat (heh) gewortel is in baie'
+  - tradisionele resepte.
+CLT_CELERY:
+  name: Seldery
+  type:
+  - '&7&oOes'
+  description:
+  - Letterlik net draderige water. Oortuig
+  - my van die teendeel.
+CLT_CHEESE_BURGER:
+  name: Burger
+  type:
+  - '&7&oKos'
+  description:
+  - '''n Eenvoudige kaasburger, maar niks klop dit nie!'
+  stats:
+  - '&8⇨ &7Genesing: &b4 Harte'
+  - '&8⇨ &bRegenerasie III &7(10:00)'
+CLT_CHEESY_SCALLOPED_COURGETTE:
+  name: Courgette-oondgereg met Kaas
+  type:
+  - '&7&oKos'
+  description:
+  - '''n Lae-koolhidraat-weergawe van ''n wonderlike klassieker.'
+  stats:
+  - '&8⇨ &7Genesing: &b2 Harte'
+  - '&8⇨ &bNagsig I &7(10:00)'
+  - '&8⇨ &bOnsigbaarheid I &7(10:00)'
+CLT_CHERRY:
+  name: Kersie
+  type:
+  - '&7&oOes'
+  description:
+  - O, ek het gedink hulle groei klaar geglaseer, jammer!
+CLT_CHESTNUT:
+  name: Kastaiing
+  type:
+  - '&7&oOes'
+  description:
+  - Ontwerp om dadelik gebak te word.
+CLT_CHICKEN_ALFREDO_MAC_AND_CHEESE:
+  name: Hoender-Alfredo Macaroni en Kaas
+  type:
+  - '&7&oKos'
+  description:
+  - '''n Deftige draai aan ''n gewone klassieker.'
+  stats:
+  - '&8⇨ &7Genesing: &b1 Hart'
+  - '&8⇨ &bBrandbestandheid II &7(10:00)'
+  - '&8⇨ &bWeerstand III &7(10:00)'
+CLT_CHICKEN_PASTA_BAKE:
+  name: Hoenderpasta-oondgereg
+  type:
+  - '&7&oKos'
+  description:
+  - '''n Studente-stapelvoedsel.'
+  stats:
+  - '&8⇨ &7Genesing: &b5 Harte'
+  - '&8⇨ &bNagsig I &7(10:00)'
+  - '&8⇨ &bOnderwater Asemhaling I &7(10:00)'
+CLT_CHICKEN_POT_PIE:
+  name: Hoenderpotpastei
+  type:
+  - '&7&oKos'
+  description:
+  - '''n Verwarmende maaltyd wat jou sommer tuis laat voel.'
+  stats:
+  - '&8⇨ &7Genesing: &b10 Harte'
+  - '&8⇨ &bHoogspring II &7(10:00)'
+  - '&8⇨ &bKleurvolheid I &7(10:00)'
+CLT_CHICKPEAS:
+  name: Kekerertjies
+  type:
+  - '&7&oOes'
+  description:
+  - Swartoogbone kan 'n deuntjie sing, kekerertjies kan dit net hummus.
+CLT_CHICORY:
+  name: Sigorei
+  type:
+  - '&7&oOes'
+  description:
+  - '''n Neutagtige, bitter wortel.'
+CLT_CHILLY_PEPPER:
+  name: Brandrissie
+  type:
+  - '&7&oOes'
+  description:
+  - Ek kan 'n hele brandrissie eet sonder om te huil.
+  - Wel, 'n halwe.
+  - WEEEEEL.... 1/4
+  - '...'
+  - Ok, ek kan net een met my tong aanraak
+CLT_CHIVES:
+  name: Grasuie
+  type:
+  - '&7&oOes'
+  description:
+  - '''n Soet kruid wat na ui smaak.'
+CLT_CHOPPED_APPLE:
+  name: Gekapte Appel
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_APRICOT:
+  name: Gekapte Appelkoos
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_ARTICHOKE:
+  name: Gekapte Artisjok
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_ASPARAGUS:
+  name: Gekapte Aspersie
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_AUBERGINE:
+  name: Gekapte Eiervrug
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_AVOCADO:
+  name: Gekapte Avokado
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_BANANA:
+  name: Gekapte Piesang
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_BASIL:
+  name: Gekapte Basilikum
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_BAY_LEAF:
+  name: Gekapte Lourierblaar
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_BEEF:
+  name: Gekapte Beesvleis
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_BEETROOT:
+  name: Gekapte Beet
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_BELL_PEPPER:
+  name: Gekapte Soetrissie
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_BLACK_BEANS:
+  name: Gekapte Swartbone
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_BREAD:
+  name: Gekapte Brood
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_BROCCOLI:
+  name: Gekapte Broccoli
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_BROWN_MUSHROOM:
+  name: Gekapte Bruin Sampioen
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_BRUSSELS_SPROUTS:
+  name: Gekapte Spruitkool
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_CABBAGE:
+  name: Gekapte Kool
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_CARROT:
+  name: Gekapte Wortel
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_CAULIFLOWER:
+  name: Gekapte Blomkool
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_CAYENNE_PEPPER:
+  name: Gekapte Cayennepeper
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_CELERIAC:
+  name: Gekapte Knolselder
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_CELERY:
+  name: Gekapte Seldery
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_CHERRY:
+  name: Gekapte Kersie
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_CHESTNUT:
+  name: Gekapte Kastaiing
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_CHICKEN:
+  name: Gekapte Hoender
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_CHICKPEAS:
+  name: Gekapte Kekerertjies
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_CHICORY:
+  name: Gekapte Sigorei
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_CHILLY_PEPPER:
+  name: Gekapte Brandrissie
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_CHIVES:
+  name: Gekapte Grasuie
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_CHORUS_FRUIT:
+  name: Gekapte Refrein Vrug
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_CILANTRO:
+  name: Gekapte Koljander
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_CINNAMON:
+  name: Gekapte Kaneel
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_CLOVE:
+  name: Gekapte Naeltjie
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_COCOA_BEANS:
+  name: Gekapte Kakao Bone
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_COD:
+  name: Gekapte Kabeljou
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_COURGETTE:
+  name: Gekapte Courgette
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_CUCUMBER:
+  name: Gekapte Komkommer
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_CUMIN:
+  name: Gekapte Komyn
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_CURRY_LEAF:
+  name: Gekapte Kerrieblaar
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_DILL:
+  name: Gekapte Dille
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_EGG:
+  name: Gekapte Eier
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_ENCHANTED_GOLDEN_APPLE:
+  name: Gekapte Betowerde Goue Appel
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_FENNEL:
+  name: Gekapte Vinkel
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_GARLIC:
+  name: Gekapte Knoffel
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_GINGER:
+  name: Gekapte Gemmer
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_GLOW_BERRIES:
+  name: Gekapte Gloeibessies
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_GOLDEN_APPLE:
+  name: Gekapte Goue Appel
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_GOLDEN_CARROT:
+  name: Gekapte Goue Wortel
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_GRAPE:
+  name: Gekapte Druif
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_GREEN_APPLE:
+  name: Gekapte Groen Appel
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_GREEN_BEANS:
+  name: Gekapte Groenbone
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_GREEN_ONION:
+  name: Gekapte Sprietui
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_HAZELNUT:
+  name: Gekapte Haselneut
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_HORSERADISH:
+  name: Gekapte Peperwortel
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_JALAPENO:
+  name: Gekapte Jalapeño
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_JASMINE:
+  name: Gekapte Jasmyn
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_JUNIPER_BERRY:
+  name: Gekapte Jenewerbessies
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_KAFFIR_LIME:
+  name: Gekapte Makrutlemmetjieblaar
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_KALE:
+  name: Gekapte Boerkool
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_KELP:
+  name: Gekapte Kelp
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_KIWI:
+  name: Gekapte Kiwi
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_LAVENDER:
+  name: Gekapte Laventel
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_LEEK:
+  name: Gekapte Prei
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_LEMON:
+  name: Gekapte Suurlemoen
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_LETTUCE:
+  name: Gekapte Blaarslaai
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_LICORICE:
+  name: Gekapte Soethout
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_LIME:
+  name: Gekapte Lemmetjie
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_MACE:
+  name: Gekapte Foelie
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_MANGO:
+  name: Gekapte Mango
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_MARJORAM:
+  name: Gekapte Marjolein
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_MARROW:
+  name: Gekapte Murgpampoen
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_MELON:
+  name: Gekapte Waatlemoen
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_MINT:
+  name: Gekapte Kruisement
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_MUSTARD_SEEDS:
+  name: Gekapte Mosterdsaadjies
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_MUTTON:
+  name: Gekapte Skaapvleis
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_NETTLES:
+  name: Gekapte Brandnetels
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_OKRA:
+  name: Gekapte Okra
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_ONION:
+  name: Gekapte Ui
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_ORANGE:
+  name: Gekapte Lemoen
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_OREGANO:
+  name: Gekapte Origanum
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_PARSLEY:
+  name: Gekapte Pietersielie
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_PARSNIP:
+  name: Gekapte Pastinaak
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_PEA:
+  name: Gekapte Ertjies
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_PEACH:
+  name: Gekapte Perske
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_PEANUT:
+  name: Gekapte Grondboontjie
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_PEAR:
+  name: Gekapte Peer
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_PECAN:
+  name: Gekapte Pekanneut
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_PEPPER:
+  name: Gekapte Swartpeper
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_PEPPERONI:
+  name: Gekapte Pepperoni
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_PINEAPPLE:
+  name: Gekapte Pynappel
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_PINTO_BEANS:
+  name: Gekapte Pintobone
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_PORKCHOP:
+  name: Gekapte Varktjop
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_POTATO:
+  name: Gekapte Aartappel
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_PUFFERFISH:
+  name: Gekapte Blaasoppie
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_PUMPKIN:
+  name: Gekapte Pampoen
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_RABBIT:
+  name: Gekapte Konyn
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_RADDISH:
+  name: Gekapte Radys
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_RADICCHIO:
+  name: Gekapte Radicchio
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_RAPESEED:
+  name: Gekapte Kanola
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_RED_MUSHROOM:
+  name: Gekapte Rooi Sampioen
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_RHUBARB:
+  name: Gekapte Rabarber
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_RICE:
+  name: Gekapte Rys
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_ROSEMARY:
+  name: Gekapte Roosmaryn
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_ROTTEN_FLESH:
+  name: Gekapte Vrot Vleis
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_RUNNER_BEANS:
+  name: Gekapte Rankbone
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_RUTABAGA:
+  name: Gekapte Koolraap
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_SALMON:
+  name: Gekapte Salm
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_SASSAFRAS:
+  name: Gekapte Sassafras
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_SHALLOT:
+  name: Gekapte Sjalot
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_SHISO:
+  name: Gekapte Shiso
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_SOY_BEANS:
+  name: Gekapte Sojabone
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_SPINACH:
+  name: Gekapte Spinasie
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_STAR_ANISE:
+  name: Gekapte Steranys
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_STRAWBERRY:
+  name: Gekapte Aarbei
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_SUGAR:
+  name: Gekapte Suiker
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_SWEETCORN:
+  name: Gekapte Suikermielies
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_SWEET_BERRIES:
+  name: Gekapte Soetbessies
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_SWEET_POTATO:
+  name: Gekapte Patat
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_TARRAGON:
+  name: Gekapte Dragon
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_THYME:
+  name: Gekapte Tiemie
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_TOMATO:
+  name: Gekapte Tamatie
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_TURMERIC:
+  name: Gekapte Borrie
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_TURNIP:
+  name: Gekapte Raap
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_VANILLA:
+  name: Gekapte Vanielje
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_WASABI:
+  name: Gekapte Wasabi
+  type:
+  - '&7&oNeweproduk'
+CLT_CHOPPED_WHEAT:
+  name: Gekapte Koring
+  type:
+  - '&7&oNeweproduk'
+CLT_CILANTRO:
+  name: Koljander
+  type:
+  - '&7&oOes'
+  description:
+  - '''n Sagte spesery met ''n tikkie sitrus.'
+CLT_CINNAMON:
+  name: Kaneel
+  type:
+  - '&7&oOes'
+  description:
+  - Lekker om op te kou in sy stokkievorm.
+CLT_CINNAMON_ROLL:
+  name: Kaneelbroodjie
+  type:
+  - '&7&oKos'
+  description:
+  - '''n Soet lekkerny wat vir die pret opgerol is.'
+  - As jy dit eet, keer die wêreld onderstebo!
+  stats:
+  - '&8⇨ &7Genesing: &b4 Harte'
+  - '&8⇨ &bLevitasie I &7(10:00)'
+  - '&8⇨ &bStadig Val I &7(10:00)'
+CLT_CLOVE:
+  name: Naeltjie
+  type:
+  - '&7&oOes'
+  description:
+  - '''n Baie warm en intense geur.'
+CLT_COMPRESSED_BISCUIT:
+  name: Saamgeperste Skon
+  type:
+  - '&7&oKos'
+  description:
+  - '''n Klein peuselhappie met ''n nog reuser smaak.'
+  stats: *id002
+CLT_COOKED_BURGER_PATTY:
+  name: Gaar Burgerpatty
+  type:
+  - '&7&oOes'
+  description:
+  - Drup sommer
+CLT_COUNTER_BLENDER:
+  name: Kombuistoonbank (Menger)
+  type:
+  - '&7&oMasjien'
+  description:
+  - Regsklik hierdie blok om produkte te pureer.
+  usage: &id003
+  - Wenk! Wanneer dit geplaas is, kan jy shift + regs
+  - klik, en die blok(ke) wat jy vashou sal
+  - die kombuisontwerp verander. Probeer dit!
+CLT_COUNTER_BOILING:
+  name: Kombuistoonbank (Kookpot)
+  type:
+  - '&7&oMasjien'
+  description:
+  - Kan sekere items kook.
+  usage: *id003
+CLT_COUNTER_CHOPPING:
+  name: Kombuistoonbank (Kapplank)
+  type:
+  - '&7&oMasjien'
+  description:
+  - Regsklik hierdie blok om produkte te kap.
+  usage: *id003
+CLT_COUNTER_FINISHING:
+  name: Kombuistoonbank (Afronding)
+  type:
+  - '&7&oMasjien'
+  description:
+  - Word gebruik om produkte/neweprodukte te verwerk tot
+  - ander neweprodukte of klaar kosse.
+  usage: *id003
+CLT_COUNTER_FRYING:
+  name: Kombuistoonbank (Braaipan)
+  type:
+  - '&7&oMasjien'
+  description:
+  - Kan sekere produkte braai.
+  usage: *id003
+CLT_COUNTER_GRILL:
+  name: Kombuistoonbank (Rooster)
+  type:
+  - '&7&oMasjien'
+  description:
+  - Kan sekere produkte grilleer.
+  usage: *id003
+CLT_COUNTER_GRINDER:
+  name: Kombuistoonbank (Stamper en Vysel)
+  type:
+  - '&7&oMasjien'
+  description:
+  - Regsklik hierdie blok om produkte te maal.
+  usage: *id003
+CLT_COUNTER_MASHER:
+  name: Kombuistoonbank (Fyndrukbak)
+  type:
+  - '&7&oMasjien'
+  description:
+  - Regsklik hierdie blok om produkte fyn te druk.
+  usage: *id003
+CLT_COUNTER_NOTHING:
+  name: Kombuistoonbank (Leeg)
+  type:
+  - '&7&oMasjien'
+  description:
+  - Net vir versiering!
+  usage: *id003
+CLT_COUNTER_OVEN:
+  name: Kombuistoonbank (Oond)
+  type:
+  - '&7&oMasjien'
+  description:
+  - Kan sekere produkte bak.
+  usage: *id003
+CLT_COUNTER_SLICING:
+  name: Kombuistoonbank (Snyplank)
+  type:
+  - '&7&oMasjien'
+  description:
+  - Regsklik hierdie blok om produkte te sny.
+  usage: *id003
+CLT_COURGETTE:
+  name: Courgette
+  type:
+  - '&7&oOes'
+  description:
+  - 'Wenk: Rasper dit in enige pastasous'
+  - vir diepte en tekstuur.
+CLT_CREAM_CHEESE:
+  name: Roomkaas
+  type:
+  - '&7&oOes'
+  description:
+  - Meer romerig as kaasagtig.
+CLT_CROP_STICKS:
+  name: Oesstokke
+  type:
+  - '&7&oGereedskap'
+  description:
+  - Oesstokke moet by 'n geplante
+  - saad aangebring word sodat dit kan groei.
+  - As jy 'n tweede stel plaas, kruis dit
+  - die plant sodat dit kan versprei en/of
+  - teel.
+CLT_CUCUMBER:
+  name: Komkommer
+  type:
+  - '&7&oOes'
+  description:
+  - Water in 'n groen dop, bewys my
+  - verkeerd.
+CLT_CUMIN:
+  name: Komyn
+  type:
+  - '&7&oOes'
+  description:
+  - '''n Warm sitrusagtige plant.'
+CLT_CURRY_LEAF:
+  name: Kerrieblaar
+  type:
+  - '&7&oOes'
+  description:
+  - Die basis van soveel wonderlike kosse.
+CLT_DILL:
+  name: Dille
+  type:
+  - '&7&oOes'
+  description:
+  - Smaak vir my net soos gras. Hoekom
+  - hou mense hiervan?
+CLT_DOUGH:
+  name: Deeg
+  type:
+  - '&7&oOes'
+  description:
+  - Net gewone ou deeg!
+CLT_EGG_SALAD:
+  name: Eierslaai
+  type:
+  - '&7&oOes'
+  description:
+  - Maak dit oop in 'n trein, ek daag jou uit!
+CLT_EGG_SALAD_SANDWICH:
+  name: Eierslaaitoebroodjie
+  type:
+  - '&7&oKos'
+  description:
+  - Ruik effens, maar smaak wonderlik!
+  stats: &id006
+  - '&8⇨ &7Genesing: &b10 Harte'
+  - '&8⇨ &bRegenerasie II &7(10:00)'
+CLT_FENNEL:
+  name: Vinkel
+  type:
+  - '&7&oOes'
+  description:
+  - Soos 'n mengsel van Anys en Drop.
+CLT_FRIED_APPLE:
+  name: Gebraaide Appel
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_APRICOT:
+  name: Gebraaide Appelkoos
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_ARTICHOKE:
+  name: Gebraaide Artisjok
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_ASPARAGUS:
+  name: Gebraaide Aspersie
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_AUBERGINE:
+  name: Gebraaide Eiervrug
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_AVOCADO:
+  name: Gebraaide Avokado
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_BANANA:
+  name: Gebraaide Piesang
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_BASIL:
+  name: Gebraaide Basilikum
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_BAY_LEAF:
+  name: Gebraaide Lourierblaar
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_BEEF:
+  name: Gebraaide Beesvleis
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_BEETROOT:
+  name: Gebraaide Beet
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_BELL_PEPPER:
+  name: Gebraaide Soetrissie
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_BLACK_BEANS:
+  name: Gebraaide Swartbone
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_BREAD:
+  name: Gebraaide Brood
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_BROCCOLI:
+  name: Gebraaide Broccoli
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_BROWN_MUSHROOM:
+  name: Gebraaide Bruin Sampioen
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_BRUSSELS_SPROUTS:
+  name: Gebraaide Spruitkool
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_CABBAGE:
+  name: Gebraaide Kool
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_CARROT:
+  name: Gebraaide Wortel
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_CAULIFLOWER:
+  name: Gebraaide Blomkool
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_CAYENNE_PEPPER:
+  name: Gebraaide Cayennepeper
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_CELERIAC:
+  name: Gebraaide Knolselder
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_CELERY:
+  name: Gebraaide Seldery
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_CHERRY:
+  name: Gebraaide Kersie
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_CHESTNUT:
+  name: Gebraaide Kastaiing
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_CHICKEN:
+  name: Gebraaide Hoender
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_CHICKPEAS:
+  name: Gebraaide Kekerertjies
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_CHICORY:
+  name: Gebraaide Sigorei
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_CHILLY_PEPPER:
+  name: Gebraaide Brandrissie
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_CHIVES:
+  name: Gebraaide Grasuie
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_CHORUS_FRUIT:
+  name: Gebraaide Refrein Vrug
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_CILANTRO:
+  name: Gebraaide Koljander
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_CINNAMON:
+  name: Gebraaide Kaneel
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_CLOVE:
+  name: Gebraaide Naeltjie
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_COCOA_BEANS:
+  name: Gebraaide Kakao Bone
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_COD:
+  name: Gebraaide Kabeljou
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_COURGETTE:
+  name: Gebraaide Courgette
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_CUCUMBER:
+  name: Gebraaide Komkommer
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_CUMIN:
+  name: Gebraaide Komyn
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_CURRY_LEAF:
+  name: Gebraaide Kerrieblaar
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_DILL:
+  name: Gebraaide Dille
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_EGG:
+  name: Gebraaide Eier
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_ENCHANTED_GOLDEN_APPLE:
+  name: Gebraaide Betowerde Goue Appel
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_FENNEL:
+  name: Gebraaide Vinkel
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_GARLIC:
+  name: Gebraaide Knoffel
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_GINGER:
+  name: Gebraaide Gemmer
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_GLOW_BERRIES:
+  name: Gebraaide Gloeibessies
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_GOLDEN_APPLE:
+  name: Gebraaide Goue Appel
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_GOLDEN_CARROT:
+  name: Gebraaide Goue Wortel
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_GRAPE:
+  name: Gebraaide Druif
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_GREEN_APPLE:
+  name: Gebraaide Groen Appel
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_GREEN_BEANS:
+  name: Gebraaide Groenbone
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_GREEN_ONION:
+  name: Gebraaide Sprietui
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_HAZELNUT:
+  name: Gebraaide Haselneut
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_HORSERADISH:
+  name: Gebraaide Peperwortel
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_JALAPENO:
+  name: Gebraaide Jalapeño
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_JASMINE:
+  name: Gebraaide Jasmyn
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_JUNIPER_BERRY:
+  name: Gebraaide Jenewerbessies
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_KAFFIR_LIME:
+  name: Gebraaide Makrutlemmetjieblaar
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_KALE:
+  name: Gebraaide Boerkool
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_KELP:
+  name: Gebraaide Kelp
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_KIWI:
+  name: Gebraaide Kiwi
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_LAVENDER:
+  name: Gebraaide Laventel
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_LEEK:
+  name: Gebraaide Prei
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_LEMON:
+  name: Gebraaide Suurlemoen
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_LETTUCE:
+  name: Gebraaide Blaarslaai
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_LICORICE:
+  name: Gebraaide Soethout
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_LIME:
+  name: Gebraaide Lemmetjie
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_MACE:
+  name: Gebraaide Foelie
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_MANGO:
+  name: Gebraaide Mango
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_MARJORAM:
+  name: Gebraaide Marjolein
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_MARROW:
+  name: Gebraaide Murgpampoen
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_MELON:
+  name: Gebraaide Waatlemoen
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_MINT:
+  name: Gebraaide Kruisement
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_MUSTARD_SEEDS:
+  name: Gebraaide Mosterdsaadjies
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_MUTTON:
+  name: Gebraaide Skaapvleis
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_NETTLES:
+  name: Gebraaide Brandnetels
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_OKRA:
+  name: Gebraaide Okra
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_ONION:
+  name: Gebraaide Ui
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_ORANGE:
+  name: Gebraaide Lemoen
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_OREGANO:
+  name: Gebraaide Origanum
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_PARSLEY:
+  name: Gebraaide Pietersielie
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_PARSNIP:
+  name: Gebraaide Pastinaak
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_PEA:
+  name: Gebraaide Ertjies
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_PEACH:
+  name: Gebraaide Perske
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_PEANUT:
+  name: Gebraaide Grondboontjie
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_PEAR:
+  name: Gebraaide Peer
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_PECAN:
+  name: Gebraaide Pekanneut
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_PEPPER:
+  name: Gebraaide Swartpeper
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_PEPPERONI:
+  name: Gebraaide Pepperoni
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_PINEAPPLE:
+  name: Gebraaide Pynappel
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_PINTO_BEANS:
+  name: Gebraaide Pintobone
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_PORKCHOP:
+  name: Gebraaide Varktjop
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_POTATO:
+  name: Gebraaide Aartappel
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_PUFFERFISH:
+  name: Gebraaide Blaasoppie
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_PUMPKIN:
+  name: Gebraaide Pampoen
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_RABBIT:
+  name: Gebraaide Konyn
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_RADDISH:
+  name: Gebraaide Radys
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_RADICCHIO:
+  name: Gebraaide Radicchio
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_RAPESEED:
+  name: Gebraaide Kanola
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_RED_MUSHROOM:
+  name: Gebraaide Rooi Sampioen
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_RHUBARB:
+  name: Gebraaide Rabarber
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_RICE:
+  name: Gebraaide Rys
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_ROSEMARY:
+  name: Gebraaide Roosmaryn
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_ROTTEN_FLESH:
+  name: Gebraaide Vrot Vleis
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_RUNNER_BEANS:
+  name: Gebraaide Rankbone
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_RUTABAGA:
+  name: Gebraaide Koolraap
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_SALMON:
+  name: Gebraaide Salm
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_SASSAFRAS:
+  name: Gebraaide Sassafras
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_SHALLOT:
+  name: Gebraaide Sjalot
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_SHISO:
+  name: Gebraaide Shiso
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_SOY_BEANS:
+  name: Gebraaide Sojabone
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_SPINACH:
+  name: Gebraaide Spinasie
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_STAR_ANISE:
+  name: Gebraaide Steranys
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_STRAWBERRY:
+  name: Gebraaide Aarbei
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_SUGAR:
+  name: Gebraaide Suiker
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_SWEETCORN:
+  name: Gebraaide Suikermielies
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_SWEET_BERRIES:
+  name: Gebraaide Soetbessies
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_SWEET_POTATO:
+  name: Gebraaide Patat
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_TARRAGON:
+  name: Gebraaide Dragon
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_THYME:
+  name: Gebraaide Tiemie
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_TOMATO:
+  name: Gebraaide Tamatie
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_TURMERIC:
+  name: Gebraaide Borrie
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_TURNIP:
+  name: Gebraaide Raap
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_VANILLA:
+  name: Gebraaide Vanielje
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_WASABI:
+  name: Gebraaide Wasabi
+  type:
+  - '&7&oNeweproduk'
+CLT_FRIED_WHEAT:
+  name: Gebraaide Koring
+  type:
+  - '&7&oNeweproduk'
+CLT_FRUIT_SALAD:
+  name: Vrugteslaai
+  type:
+  - '&7&oKos'
+  description:
+  - As jy dit 'n slaai noem, kan jy soveel eet
+  - as wat jy wil, want dis gesond.
+  stats:
+  - '&8⇨ &7Genesing: &b6 Harte'
+  - '&8⇨ &bSpoed III &7(10:00)'
+CLT_FUGU:
+  name: Fugu
+  type:
+  - '&7&oKos'
+  description:
+  - Gereed om die dobbelsteen te gooi?
+  stats:
+  - '&8⇨ &7Genesing: &b1 Hart'
+  - '&8⇨ &bMag V &7(10:00)'
+  - '&8⇨ &733% Kans om sommer net dood te gaan!'
+CLT_GARDEN_CLOCHE:
+  name: Tuinklok
+  type:
+  - '&7&oMasjien'
+  description:
+  - Kweek plante outomaties binne-in.
+  stats:
+  - '&8⇨ &7Krag per Tik: &b100'
+CLT_GARLIC:
+  name: Knoffel
+  type:
+  - '&7&oOes'
+  description:
+  - Gou, voor die vampiere kom!
+CLT_GARLIC_BUTTER_MUSHROOMS:
+  name: Knoffelbottersampioene
+  type:
+  - '&7&oKos'
+  description:
+  - Is dalk maklik die beste kos op aarde.
+  stats:
+  - '&8⇨ &7Genesing: &b2 Harte'
+  - '&8⇨ &bGloeiende I &7(10:00)'
+CLT_GINGER:
+  name: Gemmer
+  type:
+  - '&7&oOes'
+  description:
+  - Gekapte Gemmer in kookwater genees alle kwale!
+CLT_GRAPE:
+  name: Druif
+  type:
+  - '&7&oOes'
+  description:
+  - So mollig!
+CLT_GRAPE_JELLY:
+  name: Druiwejellie
+  type:
+  - '&7&oOes'
+  description: &id008
+  - Om dit met 'n lepel te eet, is 'n misdaad.
+CLT_GREEN_APPLE:
+  name: Groen Appel
+  type:
+  - '&7&oOes'
+  description:
+  - Die briefie sê... Liewe Juffrou?
+CLT_GREEN_BEANS:
+  name: Groenbone
+  type:
+  - '&7&oOes'
+  description:
+  - Hoe kreatief benoem!
+CLT_GREEN_ONION:
+  name: Sprietui
+  type:
+  - '&7&oOes'
+  description:
+  - Gaan wonderlik op taco's!
+CLT_GRILLED_APPLE:
+  name: Gegrilleerde Appel
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_APRICOT:
+  name: Gegrilleerde Appelkoos
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_ARTICHOKE:
+  name: Gegrilleerde Artisjok
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_ASPARAGUS:
+  name: Gegrilleerde Aspersie
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_AUBERGINE:
+  name: Gegrilleerde Eiervrug
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_AVOCADO:
+  name: Gegrilleerde Avokado
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_BANANA:
+  name: Gegrilleerde Piesang
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_BASIL:
+  name: Gegrilleerde Basilikum
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_BAY_LEAF:
+  name: Gegrilleerde Lourierblaar
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_BEEF:
+  name: Gegrilleerde Beesvleis
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_BEETROOT:
+  name: Gegrilleerde Beet
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_BELL_PEPPER:
+  name: Gegrilleerde Soetrissie
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_BLACK_BEANS:
+  name: Gegrilleerde Swartbone
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_BREAD:
+  name: Gegrilleerde Brood
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_BROCCOLI:
+  name: Gegrilleerde Broccoli
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_BROWN_MUSHROOM:
+  name: Gegrilleerde Bruin Sampioen
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_BRUSSELS_SPROUTS:
+  name: Gegrilleerde Spruitkool
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_CABBAGE:
+  name: Gegrilleerde Kool
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_CARROT:
+  name: Gegrilleerde Wortel
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_CAULIFLOWER:
+  name: Gegrilleerde Blomkool
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_CAYENNE_PEPPER:
+  name: Gegrilleerde Cayennepeper
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_CELERIAC:
+  name: Gegrilleerde Knolselder
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_CELERY:
+  name: Gegrilleerde Seldery
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_CHERRY:
+  name: Gegrilleerde Kersie
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_CHESTNUT:
+  name: Gegrilleerde Kastaiing
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_CHICKEN:
+  name: Gegrilleerde Hoender
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_CHICKPEAS:
+  name: Gegrilleerde Kekerertjies
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_CHICORY:
+  name: Gegrilleerde Sigorei
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_CHILLY_PEPPER:
+  name: Gegrilleerde Brandrissie
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_CHIVES:
+  name: Gegrilleerde Grasuie
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_CHORUS_FRUIT:
+  name: Gegrilleerde Refrein Vrug
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_CILANTRO:
+  name: Gegrilleerde Koljander
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_CINNAMON:
+  name: Gegrilleerde Kaneel
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_CLOVE:
+  name: Gegrilleerde Naeltjie
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_COCOA_BEANS:
+  name: Gegrilleerde Kakao Bone
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_COD:
+  name: Gegrilleerde Kabeljou
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_COURGETTE:
+  name: Gegrilleerde Courgette
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_CUCUMBER:
+  name: Gegrilleerde Komkommer
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_CUMIN:
+  name: Gegrilleerde Komyn
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_CURRY_LEAF:
+  name: Gegrilleerde Kerrieblaar
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_DILL:
+  name: Gegrilleerde Dille
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_EGG:
+  name: Gegrilleerde Eier
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_ENCHANTED_GOLDEN_APPLE:
+  name: Gegrilleerde Betowerde Goue Appel
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_FENNEL:
+  name: Gegrilleerde Vinkel
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_GARLIC:
+  name: Gegrilleerde Knoffel
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_GINGER:
+  name: Gegrilleerde Gemmer
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_GLOW_BERRIES:
+  name: Gegrilleerde Gloeibessies
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_GOLDEN_APPLE:
+  name: Gegrilleerde Goue Appel
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_GOLDEN_CARROT:
+  name: Gegrilleerde Goue Wortel
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_GRAPE:
+  name: Gegrilleerde Druif
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_GREEN_APPLE:
+  name: Gegrilleerde Groen Appel
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_GREEN_BEANS:
+  name: Gegrilleerde Groenbone
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_GREEN_ONION:
+  name: Gegrilleerde Sprietui
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_HAZELNUT:
+  name: Gegrilleerde Haselneut
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_HORSERADISH:
+  name: Gegrilleerde Peperwortel
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_JALAPENO:
+  name: Gegrilleerde Jalapeño
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_JASMINE:
+  name: Gegrilleerde Jasmyn
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_JUNIPER_BERRY:
+  name: Gegrilleerde Jenewerbessies
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_KAFFIR_LIME:
+  name: Gegrilleerde Makrutlemmetjieblaar
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_KALE:
+  name: Gegrilleerde Boerkool
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_KELP:
+  name: Gegrilleerde Kelp
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_KIWI:
+  name: Gegrilleerde Kiwi
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_LAVENDER:
+  name: Gegrilleerde Laventel
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_LEEK:
+  name: Gegrilleerde Prei
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_LEMON:
+  name: Gegrilleerde Suurlemoen
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_LETTUCE:
+  name: Gegrilleerde Blaarslaai
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_LICORICE:
+  name: Gegrilleerde Soethout
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_LIME:
+  name: Gegrilleerde Lemmetjie
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_MACE:
+  name: Gegrilleerde Foelie
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_MANGO:
+  name: Gegrilleerde Mango
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_MARJORAM:
+  name: Gegrilleerde Marjolein
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_MARROW:
+  name: Gegrilleerde Murgpampoen
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_MELON:
+  name: Gegrilleerde Waatlemoen
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_MINT:
+  name: Gegrilleerde Kruisement
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_MUSTARD_SEEDS:
+  name: Gegrilleerde Mosterdsaadjies
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_MUTTON:
+  name: Gegrilleerde Skaapvleis
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_NETTLES:
+  name: Gegrilleerde Brandnetels
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_OKRA:
+  name: Gegrilleerde Okra
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_ONION:
+  name: Gegrilleerde Ui
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_ORANGE:
+  name: Gegrilleerde Lemoen
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_OREGANO:
+  name: Gegrilleerde Origanum
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_PARSLEY:
+  name: Gegrilleerde Pietersielie
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_PARSNIP:
+  name: Gegrilleerde Pastinaak
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_PEA:
+  name: Gegrilleerde Ertjies
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_PEACH:
+  name: Gegrilleerde Perske
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_PEANUT:
+  name: Gegrilleerde Grondboontjie
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_PEAR:
+  name: Gegrilleerde Peer
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_PECAN:
+  name: Gegrilleerde Pekanneut
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_PEPPER:
+  name: Gegrilleerde Swartpeper
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_PEPPERONI:
+  name: Gegrilleerde Pepperoni
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_PINEAPPLE:
+  name: Gegrilleerde Pynappel
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_PINTO_BEANS:
+  name: Gegrilleerde Pintobone
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_PORKCHOP:
+  name: Gegrilleerde Varktjop
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_POTATO:
+  name: Gegrilleerde Aartappel
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_PUFFERFISH:
+  name: Gegrilleerde Blaasoppie
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_PUMPKIN:
+  name: Gegrilleerde Pampoen
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_RABBIT:
+  name: Gegrilleerde Konyn
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_RADDISH:
+  name: Gegrilleerde Radys
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_RADICCHIO:
+  name: Gegrilleerde Radicchio
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_RAPESEED:
+  name: Gegrilleerde Kanola
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_RED_MUSHROOM:
+  name: Gegrilleerde Rooi Sampioen
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_RHUBARB:
+  name: Gegrilleerde Rabarber
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_RICE:
+  name: Gegrilleerde Rys
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_ROSEMARY:
+  name: Gegrilleerde Roosmaryn
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_ROTTEN_FLESH:
+  name: Gegrilleerde Vrot Vleis
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_RUNNER_BEANS:
+  name: Gegrilleerde Rankbone
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_RUTABAGA:
+  name: Gegrilleerde Koolraap
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_SALMON:
+  name: Gegrilleerde Salm
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_SALMON_SALAD:
+  name: Gegrilleerde Salmslaai
+  type:
+  - '&7&oKos'
+  description:
+  - Heerlik skilferig en briljant gegeur.
+  stats:
+  - '&8⇨ &7Genesing: &b4 Harte'
+  - '&8⇨ &bRegenerasie I &7(10:00)'
+  - '&8⇨ &bTydelike Taaiheid V &7(10:00)'
+CLT_GRILLED_SASSAFRAS:
+  name: Gegrilleerde Sassafras
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_SHALLOT:
+  name: Gegrilleerde Sjalot
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_SHISO:
+  name: Gegrilleerde Shiso
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_SOY_BEANS:
+  name: Gegrilleerde Sojabone
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_SPINACH:
+  name: Gegrilleerde Spinasie
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_STAR_ANISE:
+  name: Gegrilleerde Steranys
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_STRAWBERRY:
+  name: Gegrilleerde Aarbei
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_SUGAR:
+  name: Gegrilleerde Suiker
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_SWEETCORN:
+  name: Gegrilleerde Suikermielies
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_SWEET_BERRIES:
+  name: Gegrilleerde Soetbessies
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_SWEET_POTATO:
+  name: Gegrilleerde Patat
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_TARRAGON:
+  name: Gegrilleerde Dragon
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_THYME:
+  name: Gegrilleerde Tiemie
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_TOMATO:
+  name: Gegrilleerde Tamatie
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_TURMERIC:
+  name: Gegrilleerde Borrie
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_TURNIP:
+  name: Gegrilleerde Raap
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_VANILLA:
+  name: Gegrilleerde Vanielje
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_WASABI:
+  name: Gegrilleerde Wasabi
+  type:
+  - '&7&oNeweproduk'
+CLT_GRILLED_WHEAT:
+  name: Gegrilleerde Koring
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_APPLE:
+  name: Gemaalde Appel
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_APRICOT:
+  name: Gemaalde Appelkoos
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_ARTICHOKE:
+  name: Gemaalde Artisjok
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_ASPARAGUS:
+  name: Gemaalde Aspersie
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_AUBERGINE:
+  name: Gemaalde Eiervrug
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_AVOCADO:
+  name: Gemaalde Avokado
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_BANANA:
+  name: Gemaalde Piesang
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_BASIL:
+  name: Gemaalde Basilikum
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_BAY_LEAF:
+  name: Gemaalde Lourierblaar
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_BEEF:
+  name: Gemaalde Beesvleis
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_BEETROOT:
+  name: Gemaalde Beet
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_BELL_PEPPER:
+  name: Gemaalde Soetrissie
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_BLACK_BEANS:
+  name: Gemaalde Swartbone
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_BREAD:
+  name: Gemaalde Brood
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_BROCCOLI:
+  name: Gemaalde Broccoli
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_BROWN_MUSHROOM:
+  name: Gemaalde Bruin Sampioen
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_BRUSSELS_SPROUTS:
+  name: Gemaalde Spruitkool
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_CABBAGE:
+  name: Gemaalde Kool
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_CARROT:
+  name: Gemaalde Wortel
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_CAULIFLOWER:
+  name: Gemaalde Blomkool
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_CAYENNE_PEPPER:
+  name: Gemaalde Cayennepeper
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_CELERIAC:
+  name: Gemaalde Knolselder
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_CELERY:
+  name: Gemaalde Seldery
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_CHERRY:
+  name: Gemaalde Kersie
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_CHESTNUT:
+  name: Gemaalde Kastaiing
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_CHICKEN:
+  name: Gemaalde Hoender
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_CHICKPEAS:
+  name: Gemaalde Kekerertjies
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_CHICORY:
+  name: Gemaalde Sigorei
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_CHILLY_PEPPER:
+  name: Gemaalde Brandrissie
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_CHIVES:
+  name: Gemaalde Grasuie
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_CHORUS_FRUIT:
+  name: Gemaalde Refrein Vrug
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_CILANTRO:
+  name: Gemaalde Koljander
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_CINNAMON:
+  name: Gemaalde Kaneel
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_CLOVE:
+  name: Gemaalde Naeltjie
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_COCOA_BEANS:
+  name: Gemaalde Kakao Bone
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_COD:
+  name: Gemaalde Kabeljou
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_COURGETTE:
+  name: Gemaalde Courgette
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_CUCUMBER:
+  name: Gemaalde Komkommer
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_CUMIN:
+  name: Gemaalde Komyn
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_CURRY_LEAF:
+  name: Gemaalde Kerrieblaar
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_DILL:
+  name: Gemaalde Dille
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_EGG:
+  name: Gemaalde Eier
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_ENCHANTED_GOLDEN_APPLE:
+  name: Gemaalde Betowerde Goue Appel
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_FENNEL:
+  name: Gemaalde Vinkel
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_GARLIC:
+  name: Gemaalde Knoffel
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_GINGER:
+  name: Gemaalde Gemmer
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_GLOW_BERRIES:
+  name: Gemaalde Gloeibessies
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_GOLDEN_APPLE:
+  name: Gemaalde Goue Appel
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_GOLDEN_CARROT:
+  name: Gemaalde Goue Wortel
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_GRAPE:
+  name: Gemaalde Druif
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_GREEN_APPLE:
+  name: Gemaalde Groen Appel
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_GREEN_BEANS:
+  name: Gemaalde Groenbone
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_GREEN_ONION:
+  name: Gemaalde Sprietui
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_HAZELNUT:
+  name: Gemaalde Haselneut
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_HORSERADISH:
+  name: Gemaalde Peperwortel
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_JALAPENO:
+  name: Gemaalde Jalapeño
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_JASMINE:
+  name: Gemaalde Jasmyn
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_JUNIPER_BERRY:
+  name: Gemaalde Jenewerbessies
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_KAFFIR_LIME:
+  name: Gemaalde Makrutlemmetjieblaar
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_KALE:
+  name: Gemaalde Boerkool
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_KELP:
+  name: Gemaalde Kelp
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_KIWI:
+  name: Gemaalde Kiwi
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_LAVENDER:
+  name: Gemaalde Laventel
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_LEEK:
+  name: Gemaalde Prei
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_LEMON:
+  name: Gemaalde Suurlemoen
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_LETTUCE:
+  name: Gemaalde Blaarslaai
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_LICORICE:
+  name: Gemaalde Soethout
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_LIME:
+  name: Gemaalde Lemmetjie
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_MACE:
+  name: Gemaalde Foelie
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_MANGO:
+  name: Gemaalde Mango
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_MARJORAM:
+  name: Gemaalde Marjolein
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_MARROW:
+  name: Gemaalde Murgpampoen
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_MELON:
+  name: Gemaalde Waatlemoen
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_MINT:
+  name: Gemaalde Kruisement
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_MUSTARD_SEEDS:
+  name: Gemaalde Mosterdsaadjies
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_MUTTON:
+  name: Gemaalde Skaapvleis
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_NETTLES:
+  name: Gemaalde Brandnetels
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_OKRA:
+  name: Gemaalde Okra
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_ONION:
+  name: Gemaalde Ui
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_ORANGE:
+  name: Gemaalde Lemoen
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_OREGANO:
+  name: Gemaalde Origanum
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_PARSLEY:
+  name: Gemaalde Pietersielie
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_PARSNIP:
+  name: Gemaalde Pastinaak
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_PEA:
+  name: Gemaalde Ertjies
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_PEACH:
+  name: Gemaalde Perske
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_PEANUT:
+  name: Gemaalde Grondboontjie
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_PEAR:
+  name: Gemaalde Peer
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_PECAN:
+  name: Gemaalde Pekanneut
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_PEPPER:
+  name: Gemaalde Swartpeper
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_PEPPERONI:
+  name: Gemaalde Pepperoni
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_PINEAPPLE:
+  name: Gemaalde Pynappel
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_PINTO_BEANS:
+  name: Gemaalde Pintobone
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_PORKCHOP:
+  name: Gemaalde Varktjop
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_POTATO:
+  name: Gemaalde Aartappel
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_PUFFERFISH:
+  name: Gemaalde Blaasoppie
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_PUMPKIN:
+  name: Gemaalde Pampoen
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_RABBIT:
+  name: Gemaalde Konyn
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_RADDISH:
+  name: Gemaalde Radys
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_RADICCHIO:
+  name: Gemaalde Radicchio
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_RAPESEED:
+  name: Gemaalde Kanola
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_RED_MUSHROOM:
+  name: Gemaalde Rooi Sampioen
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_RHUBARB:
+  name: Gemaalde Rabarber
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_RICE:
+  name: Gemaalde Rys
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_ROSEMARY:
+  name: Gemaalde Roosmaryn
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_ROTTEN_FLESH:
+  name: Gemaalde Vrot Vleis
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_RUNNER_BEANS:
+  name: Gemaalde Rankbone
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_RUTABAGA:
+  name: Gemaalde Koolraap
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_SALMON:
+  name: Gemaalde Salm
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_SASSAFRAS:
+  name: Gemaalde Sassafras
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_SHALLOT:
+  name: Gemaalde Sjalot
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_SHISO:
+  name: Gemaalde Shiso
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_SOY_BEANS:
+  name: Gemaalde Sojabone
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_SPINACH:
+  name: Gemaalde Spinasie
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_STAR_ANISE:
+  name: Gemaalde Steranys
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_STRAWBERRY:
+  name: Gemaalde Aarbei
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_SUGAR:
+  name: Gemaalde Suiker
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_SWEETCORN:
+  name: Gemaalde Suikermielies
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_SWEET_BERRIES:
+  name: Gemaalde Soetbessies
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_SWEET_POTATO:
+  name: Gemaalde Patat
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_TARRAGON:
+  name: Gemaalde Dragon
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_THYME:
+  name: Gemaalde Tiemie
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_TOMATO:
+  name: Gemaalde Tamatie
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_TURMERIC:
+  name: Gemaalde Borrie
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_TURNIP:
+  name: Gemaalde Raap
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_VANILLA:
+  name: Gemaalde Vanielje
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_WASABI:
+  name: Gemaalde Wasabi
+  type:
+  - '&7&oNeweproduk'
+CLT_GROUND_WHEAT:
+  name: Gemaalde Koring
+  type:
+  - '&7&oNeweproduk'
+CLT_HAZELNUT:
+  name: Haselneut
+  type:
+  - '&7&oOes'
+  description:
+  - Doen wat jy moet om dit vir my in
+  - '''n koffie te verander, nou!'
+CLT_HORSERADISH:
+  name: Peperwortel
+  type:
+  - '&7&oOes'
+  description:
+  - $100 as jy reg daarin byt.
+CLT_JALAPENO:
+  name: Jalapeño
+  type:
+  - '&7&oOes'
+  description:
+  - WARM WARM WARM.
+CLT_JASMINE:
+  name: Jasmyn
+  type:
+  - '&7&oOes'
+  description:
+  - Maak 'n wonderlike tee.
+CLT_JUNIPER_BERRY:
+  name: Jenewerbessies
+  type:
+  - '&7&oOes'
+  description:
+  - Gedroog tot peperige perfeksie.
+CLT_KAFFIR_LIME:
+  name: Makrutlemmetjieblaar
+  type:
+  - '&7&oOes'
+  description:
+  - '''n Blaar met ''n kragtige sitrusskop.'
+CLT_KALE:
+  name: Boerkool
+  type:
+  - '&7&oOes'
+  description:
+  - Help, ek's 'n 2020-smoothie-hipster!
+CLT_KETCHUP:
+  name: Tamatiesous
+  type:
+  - '&7&oOes'
+  description:
+  - Net tamaties in 'n romerige vorm.
+CLT_KEY_LIME_PIE:
+  name: Lemmetjietert
+  type:
+  - '&7&oKos'
+  description:
+  - Eenvoudig die beste!
+  stats:
+  - '&8⇨ &7Genesing: &b6 Harte'
+  - '&8⇨ &bHaastigheid IV &7(10:00)'
+CLT_KIWI:
+  name: Kiwi
+  type:
+  - '&7&oOes'
+  description:
+  - Ek het dit onder dwang in die addon gesit.
+  - Kiwi's is boos en enigiemand wat
+  - hulle gebruik, sal outomaties
+  - 100 punte verloor.
+CLT_LASAGNA:
+  name: Lasagne
+  type:
+  - '&7&oKos'
+  description:
+  - Lae en lae van wonderlikheid.
+  stats:
+  - '&8⇨ &7Genesing: &bVol'
+  - '&8⇨ &bRegenerasie II &7(10:00)'
+  - '&8⇨ &bWeerstand II &7(10:00)'
+CLT_LAVENDER:
+  name: Laventel
+  type:
+  - '&7&oOes'
+  description:
+  - '''n Reuk wat my stadig aan die slaap kan sus.'
+CLT_LEAVES_TREE_APRICOT:
+  name: Appelkoosboomblare
+  type:
+  - '&7&oBlare'
+CLT_LEAVES_TREE_BANANA:
+  name: Piesangboomblare
+  type:
+  - '&7&oBlare'
+CLT_LEAVES_TREE_CHERRY:
+  name: Kersieboomblare
+  type:
+  - '&7&oBlare'
+CLT_LEAVES_TREE_CHESTNUT:
+  name: Kastaiingboomblare
+  type:
+  - '&7&oBlare'
+CLT_LEAVES_TREE_GREEN_APPLE:
+  name: Groenappelboomblare
+  type:
+  - '&7&oBlare'
+CLT_LEAVES_TREE_HAZELNUT:
+  name: Haselneutboomblare
+  type:
+  - '&7&oBlare'
+CLT_LEAVES_TREE_KIWI:
+  name: Kiwiboomblare
+  type:
+  - '&7&oBlare'
+CLT_LEAVES_TREE_LEMON:
+  name: Suurlemoenboomblare
+  type:
+  - '&7&oBlare'
+CLT_LEAVES_TREE_LIME:
+  name: Lemmetjieboomblare
+  type:
+  - '&7&oBlare'
+CLT_LEAVES_TREE_MANGO:
+  name: Mangoboomblare
+  type:
+  - '&7&oBlare'
+CLT_LEAVES_TREE_ORANGE:
+  name: Lemoenboomblare
+  type:
+  - '&7&oBlare'
+CLT_LEAVES_TREE_PEACH:
+  name: Perskeboomblare
+  type:
+  - '&7&oBlare'
+CLT_LEAVES_TREE_PEAR:
+  name: Peerboomblare
+  type:
+  - '&7&oBlare'
+CLT_LEAVES_TREE_PECAN:
+  name: Pekanneutboomblare
+  type:
+  - '&7&oBlare'
+CLT_LEAVES_TREE_PINEAPPLE:
+  name: Pynappelboomblare
+  type:
+  - '&7&oBlare'
+CLT_LEEK:
+  name: Prei
+  type:
+  - '&7&oOes'
+  description:
+  - om een of ander rede drup dit van die water?
+  - Dalk het dit 'n lek... 'n prei-lek?
+CLT_LEMON:
+  name: Suurlemoen
+  type:
+  - '&7&oOes'
+  description:
+  - Hoekom so suur?
+CLT_LEMON_DROP:
+  name: Suurlemoenlekker
+  type:
+  - '&7&oKos'
+  description:
+  - '''n Verhemelte-skoonmaker.'
+  stats:
+  - '&8⇨ &7Verwyder alle effekte en maak jou weer honger.'
+CLT_LETTUCE:
+  name: Blaarslaai
+  type:
+  - '&7&oOes'
+  description:
+  - Dun, waterig en tog heerlik.
+CLT_LICORICE:
+  name: Soethout
+  type:
+  - '&7&oOes'
+  description:
+  - Hardloop, hardloop nou weg!
+CLT_LIME:
+  name: Lemmetjie
+  type:
+  - '&7&oOes'
+  description:
+  - Eens op 'n lemmetyd was daar 'n heerlike vrug...
+CLT_MACE:
+  name: Foelie
+  type:
+  - '&7&oOes'
+  description:
+  - Perfek om oorskietkos in toe te draai.
+  - '...'
+  - Wat bedoel jy dis nie die regte soort foelie nie?
+CLT_MANGO:
+  name: Mango
+  type:
+  - '&7&oOes'
+  description:
+  - MAN, ek moet GO.
+  - Beskrywings skryf is moeilik...
+CLT_MARJORAM:
+  name: Marjolein
+  type:
+  - '&7&oOes'
+  description:
+  - Ek is in 'n bietjie van 'n kerrie-haas, kan ons later praat?
+CLT_MARROW:
+  name: Murgpampoen
+  type:
+  - '&7&oOes'
+  description:
+  - Het jy geweet murg word binne-in
+  - jou bene gevind?
+  - Jip, Sefi Sliem.
+CLT_MASHED_APPLE:
+  name: Fyngedrukte Appel
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_APRICOT:
+  name: Fyngedrukte Appelkoos
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_ARTICHOKE:
+  name: Fyngedrukte Artisjok
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_ASPARAGUS:
+  name: Fyngedrukte Aspersie
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_AUBERGINE:
+  name: Fyngedrukte Eiervrug
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_AVOCADO:
+  name: Fyngedrukte Avokado
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_BANANA:
+  name: Fyngedrukte Piesang
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_BASIL:
+  name: Fyngedrukte Basilikum
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_BAY_LEAF:
+  name: Fyngedrukte Lourierblaar
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_BEEF:
+  name: Fyngedrukte Beesvleis
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_BEETROOT:
+  name: Fyngedrukte Beet
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_BELL_PEPPER:
+  name: Fyngedrukte Soetrissie
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_BLACK_BEANS:
+  name: Fyngedrukte Swartbone
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_BREAD:
+  name: Fyngedrukte Brood
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_BROCCOLI:
+  name: Fyngedrukte Broccoli
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_BROWN_MUSHROOM:
+  name: Fyngedrukte Bruin Sampioen
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_BRUSSELS_SPROUTS:
+  name: Fyngedrukte Spruitkool
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_CABBAGE:
+  name: Fyngedrukte Kool
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_CARROT:
+  name: Fyngedrukte Wortel
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_CAULIFLOWER:
+  name: Fyngedrukte Blomkool
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_CAYENNE_PEPPER:
+  name: Fyngedrukte Cayennepeper
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_CELERIAC:
+  name: Fyngedrukte Knolselder
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_CELERY:
+  name: Fyngedrukte Seldery
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_CHERRY:
+  name: Fyngedrukte Kersie
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_CHESTNUT:
+  name: Fyngedrukte Kastaiing
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_CHICKEN:
+  name: Fyngedrukte Hoender
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_CHICKPEAS:
+  name: Fyngedrukte Kekerertjies
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_CHICORY:
+  name: Fyngedrukte Sigorei
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_CHILLY_PEPPER:
+  name: Fyngedrukte Brandrissie
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_CHIVES:
+  name: Fyngedrukte Grasuie
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_CHORUS_FRUIT:
+  name: Fyngedrukte Refrein Vrug
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_CILANTRO:
+  name: Fyngedrukte Koljander
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_CINNAMON:
+  name: Fyngedrukte Kaneel
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_CLOVE:
+  name: Fyngedrukte Naeltjie
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_COCOA_BEANS:
+  name: Fyngedrukte Kakao Bone
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_COD:
+  name: Fyngedrukte Kabeljou
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_COURGETTE:
+  name: Fyngedrukte Courgette
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_CUCUMBER:
+  name: Fyngedrukte Komkommer
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_CUMIN:
+  name: Fyngedrukte Komyn
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_CURRY_LEAF:
+  name: Fyngedrukte Kerrieblaar
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_DILL:
+  name: Fyngedrukte Dille
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_EGG:
+  name: Fyngedrukte Eier
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_ENCHANTED_GOLDEN_APPLE:
+  name: Fyngedrukte Betowerde Goue Appel
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_FENNEL:
+  name: Fyngedrukte Vinkel
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_GARLIC:
+  name: Fyngedrukte Knoffel
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_GINGER:
+  name: Fyngedrukte Gemmer
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_GLOW_BERRIES:
+  name: Fyngedrukte Gloeibessies
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_GOLDEN_APPLE:
+  name: Fyngedrukte Goue Appel
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_GOLDEN_CARROT:
+  name: Fyngedrukte Goue Wortel
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_GRAPE:
+  name: Fyngedrukte Druif
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_GREEN_APPLE:
+  name: Fyngedrukte Groen Appel
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_GREEN_BEANS:
+  name: Fyngedrukte Groenbone
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_GREEN_ONION:
+  name: Fyngedrukte Sprietui
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_HAZELNUT:
+  name: Fyngedrukte Haselneut
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_HORSERADISH:
+  name: Fyngedrukte Peperwortel
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_JALAPENO:
+  name: Fyngedrukte Jalapeño
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_JASMINE:
+  name: Fyngedrukte Jasmyn
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_JUNIPER_BERRY:
+  name: Fyngedrukte Jenewerbessies
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_KAFFIR_LIME:
+  name: Fyngedrukte Makrutlemmetjieblaar
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_KALE:
+  name: Fyngedrukte Boerkool
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_KELP:
+  name: Fyngedrukte Kelp
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_KIWI:
+  name: Fyngedrukte Kiwi
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_LAVENDER:
+  name: Fyngedrukte Laventel
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_LEEK:
+  name: Fyngedrukte Prei
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_LEMON:
+  name: Fyngedrukte Suurlemoen
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_LETTUCE:
+  name: Fyngedrukte Blaarslaai
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_LICORICE:
+  name: Fyngedrukte Soethout
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_LIME:
+  name: Fyngedrukte Lemmetjie
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_MACE:
+  name: Fyngedrukte Foelie
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_MANGO:
+  name: Fyngedrukte Mango
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_MARJORAM:
+  name: Fyngedrukte Marjolein
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_MARROW:
+  name: Fyngedrukte Murgpampoen
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_MELON:
+  name: Fyngedrukte Waatlemoen
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_MINT:
+  name: Fyngedrukte Kruisement
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_MUSTARD_SEEDS:
+  name: Fyngedrukte Mosterdsaadjies
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_MUTTON:
+  name: Fyngedrukte Skaapvleis
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_NETTLES:
+  name: Fyngedrukte Brandnetels
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_OKRA:
+  name: Fyngedrukte Okra
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_ONION:
+  name: Fyngedrukte Ui
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_ORANGE:
+  name: Fyngedrukte Lemoen
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_OREGANO:
+  name: Fyngedrukte Origanum
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_PARSLEY:
+  name: Fyngedrukte Pietersielie
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_PARSNIP:
+  name: Fyngedrukte Pastinaak
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_PEA:
+  name: Fyngedrukte Ertjies
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_PEACH:
+  name: Fyngedrukte Perske
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_PEANUT:
+  name: Fyngedrukte Grondboontjie
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_PEAR:
+  name: Fyngedrukte Peer
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_PECAN:
+  name: Fyngedrukte Pekanneut
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_PEPPER:
+  name: Fyngedrukte Swartpeper
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_PEPPERONI:
+  name: Fyngedrukte Pepperoni
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_PINEAPPLE:
+  name: Fyngedrukte Pynappel
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_PINTO_BEANS:
+  name: Fyngedrukte Pintobone
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_PORKCHOP:
+  name: Fyngedrukte Varktjop
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_POTATO:
+  name: Fyngedrukte Aartappel
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_PUFFERFISH:
+  name: Fyngedrukte Blaasoppie
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_PUMPKIN:
+  name: Fyngedrukte Pampoen
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_RABBIT:
+  name: Fyngedrukte Konyn
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_RADDISH:
+  name: Fyngedrukte Radys
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_RADICCHIO:
+  name: Fyngedrukte Radicchio
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_RAPESEED:
+  name: Fyngedrukte Kanola
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_RED_MUSHROOM:
+  name: Fyngedrukte Rooi Sampioen
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_RHUBARB:
+  name: Fyngedrukte Rabarber
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_RICE:
+  name: Fyngedrukte Rys
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_ROSEMARY:
+  name: Fyngedrukte Roosmaryn
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_ROTTEN_FLESH:
+  name: Fyngedrukte Vrot Vleis
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_RUNNER_BEANS:
+  name: Fyngedrukte Rankbone
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_RUTABAGA:
+  name: Fyngedrukte Koolraap
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_SALMON:
+  name: Fyngedrukte Salm
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_SASSAFRAS:
+  name: Fyngedrukte Sassafras
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_SHALLOT:
+  name: Fyngedrukte Sjalot
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_SHISO:
+  name: Fyngedrukte Shiso
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_SOY_BEANS:
+  name: Fyngedrukte Sojabone
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_SPINACH:
+  name: Fyngedrukte Spinasie
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_STAR_ANISE:
+  name: Fyngedrukte Steranys
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_STRAWBERRY:
+  name: Fyngedrukte Aarbei
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_SUGAR:
+  name: Fyngedrukte Suiker
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_SWEETCORN:
+  name: Fyngedrukte Suikermielies
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_SWEET_BERRIES:
+  name: Fyngedrukte Soetbessies
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_SWEET_POTATO:
+  name: Fyngedrukte Patat
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_TARRAGON:
+  name: Fyngedrukte Dragon
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_THYME:
+  name: Fyngedrukte Tiemie
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_TOMATO:
+  name: Fyngedrukte Tamatie
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_TURMERIC:
+  name: Fyngedrukte Borrie
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_TURNIP:
+  name: Fyngedrukte Raap
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_VANILLA:
+  name: Fyngedrukte Vanielje
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_WASABI:
+  name: Fyngedrukte Wasabi
+  type:
+  - '&7&oNeweproduk'
+CLT_MASHED_WHEAT:
+  name: Fyngedrukte Koring
+  type:
+  - '&7&oNeweproduk'
+CLT_MAYONNAISE:
+  name: Mayonnaise
+  type:
+  - '&7&oOes'
+  description:
+  - '''n Syglad mayo wat by amper enigiets pas.'
+CLT_MEATBALLS:
+  name: Frikkadelle
+  type:
+  - '&7&oOes'
+  description:
+  - Balle van vleis, wie sou dit nou kon dink.
+CLT_MEATLOAF:
+  name: Vleisbrood
+  type:
+  - '&7&oKos'
+  description:
+  - Niks soos dit nie! Kom ons gaan.
+  stats:
+  - '&8⇨ &7Genesing: &bVol'
+  - '&8⇨ &bTydelike Taaiheid IV &7(10:00)'
+  - '&8⇨ &bWeerstand III &7(10:00)'
+  - '&8⇨ &bHaastigheid II &7(10:00)'
+  - '&8⇨ &bTraagheid II &7(10:00)'
+CLT_MINT:
+  name: Kruisement
+  type:
+  - '&7&oOes'
+  description:
+  - Kou kou kou.
+CLT_MUSTARD:
+  name: Mosterd
+  type:
+  - '&7&oOes'
+  description:
+  - Het 'n klein skop!
+CLT_MUSTARD_SEEDS:
+  name: Mosterdsaad
+  type:
+  - '&7&oOes'
+  description:
+  - Kou hulle, ek daag jou uit!
+CLT_NETTLES:
+  name: Brandnetels
+  type:
+  - '&7&oOes'
+  description:
+  - Trek asseblief jou handskoene aan voor jy hierdie vashou.
+CLT_OKRA:
+  name: Okra
+  type:
+  - '&7&oOes'
+  description:
+  - Word baie in Okra-homa gekweek... reg, REG?
+CLT_ONION:
+  name: Ui
+  type:
+  - '&7&oOes'
+  description:
+  - Wag, hoekom huil jy?
+CLT_ORANGE:
+  name: Lemoen
+  type:
+  - '&7&oOes'
+  description:
+  - Is dit nie veronderstel om meganies te wees nie?
+CLT_ORANGE_JUICE:
+  name: Lemoensap
+  type:
+  - '&7&oKos'
+  description:
+  - Dit is regtig die beste manier om die dag te begin.
+  stats:
+  - '&8⇨ &bSpoed IV &7(10:00)'
+CLT_OREGANO:
+  name: Origanum
+  type:
+  - '&7&oOes'
+  description:
+  - '''n Klassieke kruid uit elke spenskas.'
+CLT_PARSLEY:
+  name: Pietersielie
+  type:
+  - '&7&oOes'
+  description:
+  - Slegste. Kruid. Ooit.
+CLT_PARSNIP:
+  name: Pastinaak
+  type:
+  - '&7&oOes'
+  description:
+  - Moet dadelik gerooster word.
+CLT_PASTA:
+  name: Pasta
+  type:
+  - '&7&oOes'
+  description:
+  - Net gewone pasta, eenvoudig maar wonderlik.
+CLT_PEA:
+  name: Ertjies
+  type:
+  - '&7&oOes'
+  description:
+  - Word dikwels in pare in 'n peul gevind, of so hoor ek.
+CLT_PEACH:
+  name: Perske
+  type:
+  - '&7&oOes'
+  description:
+  - Ons praat nie oor die Emoji nie
+CLT_PEANUT:
+  name: Grondboontjie
+  type:
+  - '&7&oOes'
+  description:
+  - Reece's, hier kom ek!
+CLT_PEANUT_BUTTER:
+  name: Grondboontjiebotter
+  type:
+  - '&7&oOes'
+  description:
+  - Net vergelykbaar met vloeibare goud.
+CLT_PEANUT_BUTTER_JELLY_SANDWICH:
+  name: Grondboontjiebotter-en-jellietoebroodjie
+  type:
+  - '&7&oKos'
+  description:
+  - Dit is regtig die toppunt van toebroodjie-tegnologie.
+  stats:
+  - '&8⇨ &7Genesing: &b5 Harte'
+  - '&8⇨ &bMag III &7(10:00)'
+CLT_PEAR:
+  name: Peer
+  type:
+  - '&7&oOes'
+  description:
+  - Sou jy nie sê dit lyk peer-fek nie?
+CLT_PECAN:
+  name: Pekanneut
+  type:
+  - '&7&oOes'
+  description:
+  - Smeek net om in 'n tert verander te word.
+CLT_PECAN_PIE:
+  name: Pekanneuttert
+  type:
+  - '&7&oKos'
+  description:
+  - Die enigste manier om suiwer suiker te eet sonder
+  - om heeltemal veroordeel te word.
+  stats:
+  - '&8⇨ &7Genesing: &b4 Harte'
+  - '&8⇨ &bLevitasie I &7(10:00)'
+CLT_PEPPER:
+  name: Swartpeper
+  type:
+  - '&7&oOes'
+  description:
+  - Pikanter as sout.
+CLT_PEPPERONI:
+  name: Pepperoni
+  type:
+  - '&7&oOes'
+  description:
+  - Ek kan maklik 'n hele stomp hiervan eet.
+CLT_PICO_DE_GALLO:
+  name: Pico de Gallo
+  type:
+  - '&7&oOes'
+  description:
+  - '''n Sagte salsa vol pure heerlikheid.'
+CLT_PIE_CRUST:
+  name: Pasteikors
+  type:
+  - '&7&oOes'
+  description:
+  - As dit wettig was om dit op sy eie te eet,
+  - sou dit my hoofvoedselbron wees.
+CLT_PINEAPPLE:
+  name: Pynappel
+  type:
+  - '&7&oOes'
+  description:
+  - Dit hoort op elke pizza wat bestaan.
+  - Wil jy daaroor baklei!?
+CLT_PINTO_BEANS:
+  name: Pintobone
+  type:
+  - '&7&oOes'
+  description:
+  - Kaching! Dis burrito-tyd.
+CLT_PIZZA_CHEESE:
+  name: Kaaspizza
+  type:
+  - '&7&oKos'
+  description:
+  - Hoekom sal enigiemand net kaas bestel? Ek weet nie.
+  stats:
+  - '&8⇨ &7Genesing: &b4 Harte'
+  - '&8⇨ &bTraagheid I &7(10:00)'
+CLT_PIZZA_MUSHROOM:
+  name: Sampioenpizza
+  type:
+  - '&7&oKos'
+  description:
+  - '''n Eenvoudige vegetariese pizza vol proteïene.'
+  stats:
+  - '&8⇨ &7Genesing: &b6 Harte'
+  - '&8⇨ &bTraagheid I &7(10:00)'
+  - '&8⇨ &bHaastigheid II &7(10:00)'
+CLT_PIZZA_PEPPERONI:
+  name: Pepperonipizza
+  type:
+  - '&7&oKos'
+  description:
+  - '''n New Yorkse klassieker vol geur.'
+  stats:
+  - '&8⇨ &7Genesing: &b6 Harte'
+  - '&8⇨ &bSpoed I &7(10:00)'
+  - '&8⇨ &bHaastigheid I &7(10:00)'
+  - '&8⇨ &bHoogspring I &7(10:00)'
+CLT_PLANT_AIR:
+  name: Oerlugplant
+  type:
+  - '&7&oPlant'
+  description:
+  - '''n Plant wat stil neurie saam met'
+  - die melodie van die natuur rondom.
+  - '&eOerplante lewer geen items nie'
+  - '&een is net vir teel.'
+CLT_PLANT_AMETHYST:
+  name: Ametisplant
+  type:
+  - '&7&oPlant'
+  description:
+  - Hierdie plant floreer graag in diep, donker
+  - oorde.
+CLT_PLANT_ANALYSER:
+  name: Plantontleder
+  type:
+  - '&7&oGereedskap'
+  description:
+  - '''n Baie basiese stuk gereedskap waarmee'
+  - jy 'n groeiende plant se besonderhede kan sien
+  usage:
+  - '&eRegsklik&7: Wys jou die spesie en groeibesonderhede van ''n plant.'
+  - '&eShift Regsklik&7: Wys ''n plant of struik se naam.'
+CLT_PLANT_BASALT:
+  name: Basaltplant
+  type:
+  - '&7&oPlant'
+  description:
+  - '''n Baie vervelige en dowwe plant.'
+CLT_PLANT_BEE:
+  name: Byplant
+  type:
+  - '&7&oPlant'
+  description:
+  - '''n Plant met ''n baie klein, delikate stel vlerkies.'
+CLT_PLANT_BLACKSTONE:
+  name: Swartsteenplant
+  type:
+  - '&7&oPlant'
+  description:
+  - '''n Plant wat bekend is daarvoor dat dit lig absorbeer.'
+CLT_PLANT_BLAZE:
+  name: Opvlammerplant
+  type:
+  - '&7&oPlant'
+  description:
+  - '''n Plant wat om die kante geskroei is.'
+CLT_PLANT_CHICKEN:
+  name: Hoenderplant
+  type:
+  - '&7&oPlant'
+  description:
+  - Die gerug lui dat as jy hierdie
+  - saad bo jou kop hou en van 'n
+  - hoë plek af spring, jy sal sweef eerder
+  - as val.
+CLT_PLANT_CLAY:
+  name: Kleiplant
+  type:
+  - '&7&oPlant'
+  description:
+  - Hierdie plant kan vrylik gevorm en hervorm word.
+  - Dit beteken nie dat dit 'n goeie idee is nie,
+  - hoor!
+CLT_PLANT_COAL:
+  name: Steenkoolplant
+  type:
+  - '&7&oPlant'
+  description:
+  - '''n Plant wat soveel potensiaal inhou.'
+CLT_PLANT_COBBLESTONE:
+  name: Steengruisplant
+  type:
+  - '&7&oPlant'
+  description:
+  - Hierdie plant is so hard soos klip.
+CLT_PLANT_CONCRETE:
+  name: Betonplant
+  type:
+  - '&7&oPlant'
+  description:
+  - Hierdie plant sukkel om te groei omdat dit
+  - so vinnig verhard.
+CLT_PLANT_COW:
+  name: Koeiplant
+  type:
+  - '&7&oPlant'
+  description:
+  - As jy hierdie saad teen jou oor hou
+  - en baie mooi luister, kan jy
+  - af en toe 'n geloei hoor.
+CLT_PLANT_CREEPER:
+  name: Creeperplant
+  type:
+  - '&7&oPlant'
+  description:
+  - Tsssssssssttt...
+CLT_PLANT_DARKNESS:
+  name: Oerduisternisplant
+  type:
+  - '&7&oPlant'
+  description:
+  - '''n Plant wat kook van ongebreidelde'
+  - woede.
+  - '&eOerplante lewer geen items nie'
+  - '&een is net vir teel.'
+CLT_PLANT_DARK_FLORA:
+  name: Donkerfloraplant
+  type:
+  - '&7&oPlant'
+  description:
+  - '''n Stille kwaad skuil in hierdie eenvoudige saad.'
+CLT_PLANT_DARK_GRASS:
+  name: Donkergrasplant
+  type:
+  - '&7&oPlant'
+  description:
+  - '''n Plant wat regtig sy'
+  - identiteit verloor het.
+CLT_PLANT_DEEPSLATE:
+  name: Leisteenplant
+  type:
+  - '&7&oPlant'
+  description:
+  - Diep, leiagtig, <voeg beskrywing hier in>.
+CLT_PLANT_DIAMOND:
+  name: Diamantplant
+  type:
+  - '&7&oPlant'
+  description:
+  - '''n Plant wat net van rykdom spreek.'
+CLT_PLANT_DIM_LIT:
+  name: Skemerplant
+  type:
+  - '&7&oPlant'
+  description:
+  - '''n Baie dowwe lig straal van binne hierdie saad uit.'
+CLT_PLANT_DIRT:
+  name: Grondplant
+  type:
+  - '&7&oPlant'
+  description:
+  - Vuil aan die oppervlak, maar dit hou die
+  - boustene vir die lewe self.
+CLT_PLANT_DROWNED:
+  name: Drenkelingplant
+  type:
+  - '&7&oPlant'
+  description:
+  - '''n Plant wat die hele tyd'
+  - sopnat drup.
+CLT_PLANT_DUSTY:
+  name: Stofplant
+  type:
+  - '&7&oPlant'
+  description:
+  - Hierdie plant het spesiale sorg nodig, die geringste
+  - sterk briesie kan genoeg wees om dit te laat
+  - uitmekaar val.
+CLT_PLANT_EARTH:
+  name: Oeraardeplant
+  type:
+  - '&7&oPlant'
+  description:
+  - '''n Plant wat die wêreld rondom'
+  - hom verryk.
+  - '&eOerplante lewer geen items nie'
+  - '&een is net vir teel.'
+CLT_PLANT_ECHO:
+  name: Eggoplant
+  type:
+  - '&7&oPlant'
+  description:
+  - Hierdie plant weet altyd hoe om
+  - sy pad huis toe te vind.
+CLT_PLANT_ELDER_GUARDIAN:
+  name: Oerwagplant
+  type:
+  - '&7&oPlant'
+  description:
+  - Om naby hierdie plant te wees, maak mense
+  - traag.
+CLT_PLANT_EMERALD:
+  name: Smaragplant
+  type:
+  - '&7&oPlant'
+  description:
+  - Eienaars van hierdie plant moet deur hoepels
+  - spring net om dit te kan bekostig.
+CLT_PLANT_ENDERMAN:
+  name: Endermanplant
+  type:
+  - '&7&oPlant'
+  description:
+  - As dit nie versigtig hanteer word nie, kan
+  - hierdie plant lukraak teleporteer!
+CLT_PLANT_ENDER_DRAGON:
+  name: Enderdraakplant
+  type:
+  - '&7&oPlant'
+  description:
+  - '''n Ware baas van ''n plant.'
+CLT_PLANT_END_STONE:
+  name: Endsteenplant
+  type:
+  - '&7&oPlant'
+  description:
+  - '''n Plant wat saam met die leemte neurie.'
+CLT_PLANT_FIRE:
+  name: Oervuurplant
+  type:
+  - '&7&oPlant'
+  description:
+  - '''n Plant wat sowel die'
+  - bronne van vernietiging as van
+  - wedergeboorte voorsien.
+  - '&eOerplante lewer geen items nie'
+  - '&een is net vir teel.'
+CLT_PLANT_FISH:
+  name: Visplant
+  type:
+  - '&7&oPlant'
+  description:
+  - '''n Ryp reuk kom uit hierdie saad.'
+CLT_PLANT_FLOWER:
+  name: Bloeiplant
+  type:
+  - '&7&oPlant'
+  description:
+  - '''n Pragtige horing van oorvloed, mooi aangebied.'
+CLT_PLANT_FROG:
+  name: Paddaplant
+  type:
+  - '&7&oPlant'
+  description:
+  - Kwaak!
+CLT_PLANT_GHAST:
+  name: Ghastplant
+  type:
+  - '&7&oPlant'
+  description:
+  - '''n Plant wat bekend is daarvoor om'
+  - lukraak vuurballe te skiet.
+CLT_PLANT_GLASS:
+  name: Glasplant
+  type:
+  - '&7&oPlant'
+  description:
+  - Uit die regte hoek kan jy
+  - sweer jy sien deur hierdie plant.
+CLT_PLANT_GLAZED:
+  name: Glasuurplant
+  type:
+  - '&7&oPlant'
+  description:
+  - '''n Plant wat met ''n ingewikkelde ontwerp groei.'
+CLT_PLANT_GLOWING_VINE:
+  name: Gloeirankplant
+  type:
+  - '&7&oPlant'
+  description:
+  - '''n Flou lig straal van binne hierdie saad uit.'
+CLT_PLANT_GLOW_SQUID:
+  name: Gloei-inkvisplant
+  type:
+  - '&7&oPlant'
+  description:
+  - '''n Glinsterende plant met ''n flou gloed.'
+CLT_PLANT_GOAT:
+  name: Bokplant
+  type:
+  - '&7&oPlant'
+  description:
+  - '''n Lukraak gewelddadige plant wat'
+  - graag rondspring.
+CLT_PLANT_GRASS:
+  name: Grasplant
+  type:
+  - '&7&oPlant'
+  description:
+  - Die ontluikende lewe bars voort
+  - uit die grond.
+CLT_PLANT_GRAVEL:
+  name: Gruisplant
+  type:
+  - '&7&oPlant'
+  description:
+  - Hierdie plant weet regtig nie hoe
+  - om homself bymekaar te hou nie.
+CLT_PLANT_GUARDIAN:
+  name: Bewakerplant
+  type:
+  - '&7&oPlant'
+  description:
+  - Wanneer dit aangeraak word, skiet hierdie
+  - plant stekels af.
+CLT_PLANT_IGNEOUS:
+  name: Vulkaanplant
+  type:
+  - '&7&oPlant'
+  description:
+  - Hierdie plant is deur hitte en druk
+  - gevorm. Moenie so na my kyk nie! Al
+  - hierdie plantbeskrywings maak volkome sin.
+CLT_PLANT_LAPIS:
+  name: Lapisplant
+  type:
+  - '&7&oPlant'
+  description:
+  - '''n Plant met ''n flou magiese aura.'
+CLT_PLANT_LIGHT:
+  name: Oerligplant
+  type:
+  - '&7&oPlant'
+  description:
+  - '''n Plant wat ''n aura van'
+  - pure liefde uitstraal.
+  - '&eOerplante lewer geen items nie'
+  - '&een is net vir teel.'
+CLT_PLANT_MAGMA:
+  name: Magmaplant
+  type:
+  - '&7&oPlant'
+  description:
+  - '''n Plant wat so warm is dat dit sy'
+  - omgewing verbrand.
+CLT_PLANT_MAGMA_CUBE:
+  name: Magmakubusplant
+  type:
+  - '&7&oPlant'
+  description:
+  - Wanneer niemand kyk nie, hou hierdie plant
+  - daarvan om op en af te bons.
+CLT_PLANT_MOSS:
+  name: Mosplant
+  type:
+  - '&7&oPlant'
+  description:
+  - Hierdie plant neig om onbeheerbaar te versprei.
+CLT_PLANT_MUD:
+  name: Modderplant
+  type:
+  - '&7&oPlant'
+  description:
+  - '''n Plant wat amper so vuil is soos'
+  - die grond waaruit dit kom.
+CLT_PLANT_MUSHROOM:
+  name: Sampioenplant
+  type:
+  - '&7&oPlant'
+  description:
+  - Jip, 'n plant wat sampioene maak.
+  - Alles is heeltemal normaal hier.
+CLT_PLANT_NETHERRACK:
+  name: Netherrackplant
+  type:
+  - '&7&oPlant'
+  description:
+  - '''n Taai, geharde plant wat in die meeste'
+  - oorde kan oorleef.
+CLT_PLANT_NETHER_QUARTZ:
+  name: Netherkwartsplant
+  type:
+  - '&7&oPlant'
+  description:
+  - Hierdie plant het dorings so skerp dat
+  - dit moeilik is om mee te werk.
+CLT_PLANT_PHANTOM:
+  name: Spookplant
+  type:
+  - '&7&oPlant'
+  description:
+  - '''n Plant met verhewe blare.'
+CLT_PLANT_PIG:
+  name: Varkplant
+  type:
+  - '&7&oPlant'
+  description:
+  - '''n Plant wat lukraak snork.'
+CLT_PLANT_POWER:
+  name: Oerkragplant
+  type:
+  - '&7&oPlant'
+  description:
+  - '''n Plant wat werklik krag uitstraal.'
+  - '&eOerplante lewer geen items nie'
+  - '&een is net vir teel.'
+CLT_PLANT_PURPUR:
+  name: Purpurplant
+  type:
+  - '&7&oPlant'
+  description:
+  - '''n Vreemde plant, dit lyk baie ligter'
+  - as die meeste.
+CLT_PLANT_RABBIT:
+  name: Konynplant
+  type:
+  - '&7&oPlant'
+  description:
+  - Goggas sou trots wees.
+CLT_PLANT_RAINBOW:
+  name: Reënboogplant
+  type:
+  - '&7&oPlant'
+  description:
+  - Daar mag dalk 'n pot goud wees
+  - aan die einde van hierdie plant.
+CLT_PLANT_RAW_COPPER:
+  name: Koperplant
+  type:
+  - '&7&oPlant'
+  description:
+  - As dit alleen gelaat word, trek hierdie
+  - plant soms weerlig aan.
+CLT_PLANT_RAW_GOLD:
+  name: Goudplant
+  type:
+  - '&7&oPlant'
+  description:
+  - Hierdie plant word dikwels deur Piglins
+  - gesteel as hulle naby is.
+CLT_PLANT_RAW_IRON:
+  name: Ysterplant
+  type:
+  - '&7&oPlant'
+  description:
+  - '''n Stewige plant wat die meeste'
+  - omgewings kan weerstaan.
+CLT_PLANT_REDSTONE:
+  name: Redstoneplant
+  type:
+  - '&7&oPlant'
+  description:
+  - '''n Plant wat deur en deur van krag oorloop.'
+CLT_PLANT_RED_SAND:
+  name: Rooisandplant
+  type:
+  - '&7&oPlant'
+  description:
+  - Hierdie plant kan soms by 'n enkele
+  - aanraking uitmekaar krummel, maar... rooier.
+CLT_PLANT_REINFORCED:
+  name: Versterkte Plant
+  type:
+  - '&7&oPlant'
+  description:
+  - '''n Plant wat homself deur enigiets'
+  - regop kan hou.
+CLT_PLANT_SAND:
+  name: Sandplant
+  type:
+  - '&7&oPlant'
+  description:
+  - Hierdie plant kan soms by 'n enkele
+  - aanraking uitmekaar krummel.
+CLT_PLANT_SAPLING:
+  name: Saailingplant
+  type:
+  - '&7&oPlant'
+  description:
+  - Hierdie plant maak nie eens sin nie...
+CLT_PLANT_SCRAPPY:
+  name: Rommelplant
+  type:
+  - '&7&oPlant'
+  description:
+  - Hierdie plant is regtig die toppunt van
+  - tuinboukunde.
+CLT_PLANT_SHEEP:
+  name: Skaapplant
+  type:
+  - '&7&oPlant'
+  description:
+  - '''n Plant met ''n growwe, wollerige tekstuur.'
+CLT_PLANT_SHULKER:
+  name: Shulkerplant
+  type:
+  - '&7&oPlant'
+  description:
+  - '''n Plant wat dikwels van die'
+  - grond af sweef.
+CLT_PLANT_SKELETON:
+  name: Geraamteplant
+  type:
+  - '&7&oPlant'
+  description:
+  - '''n Plant wat ratel terwyl dit swaai.'
+CLT_PLANT_SLIME:
+  name: Slymplant
+  type:
+  - '&7&oPlant'
+  description:
+  - Hoekom is dit so taai?
+CLT_PLANT_SOUL:
+  name: Sielplant
+  type:
+  - '&7&oPlant'
+  description:
+  - '''n Plant wat jy kan hoor skree'
+  - wanneer dit stil is.
+CLT_PLANT_SPECTRUM:
+  name: Oerspektrumplant
+  type:
+  - '&7&oPlant'
+  description:
+  - '''n Plant wat effens van kleur verander.'
+  - '&eOerplante lewer geen items nie'
+  - '&een is net vir teel.'
+CLT_PLANT_SPIDER:
+  name: Spinnekopplant
+  type:
+  - '&7&oPlant'
+  description:
+  - Maak dit dood, maak dit dood NOUUU!
+CLT_PLANT_SQUID:
+  name: Inkvisplant
+  type:
+  - '&7&oPlant'
+  description:
+  - Wees versigtig, net om hierdie plant aan te raak,
+  - kan veroorsaak dat ink oral
+  - rondspat.
+CLT_PLANT_STAINED:
+  name: Vlekplant
+  type:
+  - '&7&oPlant'
+  description:
+  - Hierdie plant breek lig op in 'n ware
+  - spektrum op nabygeleë voorwerpe.
+CLT_PLANT_TERRA:
+  name: Terraplant
+  type:
+  - '&7&oPlant'
+  description:
+  - '''n Harde, aardse plant wat onder druk kraak.'
+CLT_PLANT_TURTLE:
+  name: Skilpadplant
+  type:
+  - '&7&oPlant'
+  description:
+  - '''n Saad omring deur ''n klipharde dop.'
+CLT_PLANT_VILLAGER:
+  name: Villagerplant
+  type:
+  - '&7&oPlant'
+  description:
+  - Jip, ons het die essensie van 'n Villager
+  - in 'n plant gekondenseer. Glo dit het baie seergemaak.
+CLT_PLANT_VINE:
+  name: Rankplant
+  type:
+  - '&7&oPlant'
+  description:
+  - '''n Plant wat homself onmiddellik'
+  - verstrengel.
+CLT_PLANT_WATER:
+  name: Oerwaterplant
+  type:
+  - '&7&oPlant'
+  description:
+  - '''n Plant wat die omgewing koester'
+  - en dit van lewe voorsien.
+  - '&eOerplante lewer geen items nie'
+  - '&een is net vir teel.'
+CLT_PLANT_WAXY:
+  name: Wasplant
+  type:
+  - '&7&oPlant'
+  description:
+  - Die sap van hierdie plant vorm
+  - perfekte kersvormige was.
+CLT_PLANT_WEALTH:
+  name: Oerrykdomplant
+  type:
+  - '&7&oPlant'
+  description:
+  - '''n Plant wat net uitbundige rykdom uitskree.'
+  - '&eOerplante lewer geen items nie'
+  - '&een is net vir teel.'
+CLT_PLANT_WITCH:
+  name: Heksplant
+  type:
+  - '&7&oPlant'
+  description:
+  - '''n Plant wat klink of dit saggies'
+  - towerspreuke prewel.
+CLT_PLANT_WITHER:
+  name: Witherplant
+  type:
+  - '&7&oPlant'
+  description:
+  - '''n Dodelike plant wat met'
+  - sorg hanteer moet word.
+CLT_PLANT_WITHER_ROSE:
+  name: Verwelkroosplant
+  type:
+  - '&7&oPlant'
+  description:
+  - Hierdie plant pulseer op een of ander manier
+  - '''n skadelike aura om homself.'
+CLT_PLANT_WITHER_SKELETON:
+  name: Withergeraamteplant
+  type:
+  - '&7&oPlant'
+  description:
+  - '''n Plant wat bekend is as ontwykend en gehard.'
+CLT_PLANT_WOOLLY:
+  name: Wolplant
+  type:
+  - '&7&oPlant'
+  description:
+  - '''n Wollerige plant, van wortel tot blomblare!'
+CLT_PLANT_ZOMBIE:
+  name: Zombieplant
+  type:
+  - '&7&oPlant'
+  description:
+  - Hierdie plant drup... iets...
+CLT_RADDISH:
+  name: Radys
+  type:
+  - '&7&oOes'
+  description:
+  - Klein sakkies vars, bros sonskyn.
+CLT_RADICCHIO:
+  name: Radicchio
+  type:
+  - '&7&oOes'
+  description:
+  - Om al hierdie beskrywings te skryf, duur so lank.
+  - Dis radi-kaal belaglik.
+CLT_RAMEN_BEEF:
+  name: Beesvleisramen
+  type:
+  - '&7&oKos'
+  description:
+  - '''n Nie-so-gesonde keuse.'
+  stats: &id004
+  - '&8⇨ &bTydelike Taaiheid I &7(10:00)'
+CLT_RAMEN_BEEF_HEARTY:
+  name: Stewige Beesvleisramen
+  type:
+  - '&7&oKos'
+  description:
+  - '''n Gesonde keuse.'
+  stats: &id005
+  - '&8⇨ &7Genesing: &bVol'
+  - '&8⇨ &bTydelike Taaiheid II &7(10:00)'
+  - '&8⇨ &bSpoed I &7(10:00)'
+CLT_RAMEN_CHICKEN:
+  name: Hoenderramen
+  type:
+  - '&7&oKos'
+  description:
+  - '''n Nie-so-versadigende keuse.'
+  stats: *id004
+CLT_RAMEN_CHICKEN_HEARTY:
+  name: Stewige Hoenderramen
+  type:
+  - '&7&oKos'
+  description:
+  - '''n Versadigende keuse.'
+  stats: *id005
+CLT_RAMEN_SEAFOOD:
+  name: Seekosramen
+  type:
+  - '&7&oKos'
+  description:
+  - '''n Nie-so-bevredigende keuse.'
+  stats: *id004
+CLT_RAMEN_SEAFOOD_HEARTY:
+  name: Stewige Seekosramen
+  type:
+  - '&7&oKos'
+  description:
+  - '''n Bevredigende keuse.'
+  stats: *id005
+CLT_RAPESEED:
+  name: Kanola
+  type:
+  - '&7&oOes'
+  description:
+  - Word dikwels gebruik om olies te maak.
+CLT_RECIPE_UNLOCK:
+  name: Cultivation-kennisrol
+  type:
+  - '&7&oGereedskap'
+  description:
+  - Regsklik om 'n Cultivation-
+  - teelresep te leer.
+CLT_RHUBARB:
+  name: Rabarber
+  type:
+  - '&7&oOes'
+  description:
+  - Maak net seker jy verwyder die blare!
+CLT_RICE:
+  name: Rys
+  type:
+  - '&7&oOes'
+  description:
+  - Onthou, jy leef net een rys!
+CLT_ROSEMARY:
+  name: Roosmaryn
+  type:
+  - '&7&oOes'
+  description:
+  - Is altyd 'n tiemie te laat.
+CLT_RUNNER_BEANS:
+  name: Rankbone
+  type:
+  - '&7&oOes'
+  description:
+  - Probeer altyd weghardloop.
+CLT_RUTABAGA:
+  name: Koolraap
+  type:
+  - '&7&oOes'
+  description:
+  - Dit maak regtig seer om dit nie 'n Sweedse raap te noem nie.
+CLT_SALMON_NIGIRI:
+  name: Salm-nigiri
+  type:
+  - '&7&oKos'
+  description:
+  - '''n Heerlike dog subtiele geur.'
+  stats:
+  - '&8⇨ &7Genesing: &b2 Harte'
+  - '&8⇨ &bRegenerasie I &7(10:00)'
+CLT_SASSAFRAS:
+  name: Sassafras
+  type:
+  - '&7&oOes'
+  description:
+  - Eetbare Root Beer, regtig, google
+  - dit, ek koop dit nou heeltyd.
+CLT_SAUSAGE:
+  name: Wors
+  type:
+  - '&7&oKos'
+  description:
+  - Spek se boetie.
+  stats: &id007
+  - '&8⇨ &7Genesing: &b1 Hart'
+CLT_SEED_PACK:
+  name: Saadpakkie
+  type:
+  - '&7&oGereedskap'
+  description:
+  - Regsklik om hierdie pakkie oop te maak.
+  stats:
+  - '&8⇨ &7Gestel op: &bNiks'
+CLT_SHAKSHUKA:
+  name: Shakshuka
+  type:
+  - '&7&oKos'
+  description:
+  - '''n Hartverwarmende gereg met eiers vir dae.'
+  stats:
+  - '&8⇨ &7Genesing: &b4 Harte'
+  - '&8⇨ &bDorpsheld I &7(10:00)'
+  - '&8⇨ &bGeluk I &7(10:00)'
+CLT_SHALLOT:
+  name: Sjalot
+  type:
+  - '&7&oOes'
+  description:
+  - Ek is mal oor 'n hele sjalot-klomp.
+CLT_SHEPHERDS_PIE:
+  name: Herderspastei
+  type:
+  - '&7&oKos'
+  description:
+  - Warm, stewig en eenvoudig wonderlik.
+  stats: *id006
+CLT_SHISO:
+  name: Shiso
+  type:
+  - '&7&oOes'
+  description:
+  - Kruisement met 'n bietjie liefde aan die kant.
+CLT_SLICED_APPLE:
+  name: Gesnyde Appel
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_APRICOT:
+  name: Gesnyde Appelkoos
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_ARTICHOKE:
+  name: Gesnyde Artisjok
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_ASPARAGUS:
+  name: Gesnyde Aspersie
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_AUBERGINE:
+  name: Gesnyde Eiervrug
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_AVOCADO:
+  name: Gesnyde Avokado
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_BANANA:
+  name: Gesnyde Piesang
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_BASIL:
+  name: Gesnyde Basilikum
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_BAY_LEAF:
+  name: Gesnyde Lourierblaar
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_BEEF:
+  name: Gesnyde Beesvleis
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_BEETROOT:
+  name: Gesnyde Beet
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_BELL_PEPPER:
+  name: Gesnyde Soetrissie
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_BLACK_BEANS:
+  name: Gesnyde Swartbone
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_BREAD:
+  name: Gesnyde Brood
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_BROCCOLI:
+  name: Gesnyde Broccoli
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_BROWN_MUSHROOM:
+  name: Gesnyde Bruin Sampioen
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_BRUSSELS_SPROUTS:
+  name: Gesnyde Spruitkool
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_CABBAGE:
+  name: Gesnyde Kool
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_CARROT:
+  name: Gesnyde Wortel
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_CAULIFLOWER:
+  name: Gesnyde Blomkool
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_CAYENNE_PEPPER:
+  name: Gesnyde Cayennepeper
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_CELERIAC:
+  name: Gesnyde Knolselder
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_CELERY:
+  name: Gesnyde Seldery
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_CHERRY:
+  name: Gesnyde Kersie
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_CHESTNUT:
+  name: Gesnyde Kastaiing
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_CHICKEN:
+  name: Gesnyde Hoender
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_CHICKPEAS:
+  name: Gesnyde Kekerertjies
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_CHICORY:
+  name: Gesnyde Sigorei
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_CHILLY_PEPPER:
+  name: Gesnyde Brandrissie
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_CHIVES:
+  name: Gesnyde Grasuie
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_CHORUS_FRUIT:
+  name: Gesnyde Refrein Vrug
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_CILANTRO:
+  name: Gesnyde Koljander
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_CINNAMON:
+  name: Gesnyde Kaneel
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_CLOVE:
+  name: Gesnyde Naeltjie
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_COCOA_BEANS:
+  name: Gesnyde Kakao Bone
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_COD:
+  name: Gesnyde Kabeljou
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_COURGETTE:
+  name: Gesnyde Courgette
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_CUCUMBER:
+  name: Gesnyde Komkommer
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_CUMIN:
+  name: Gesnyde Komyn
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_CURRY_LEAF:
+  name: Gesnyde Kerrieblaar
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_DILL:
+  name: Gesnyde Dille
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_EGG:
+  name: Gesnyde Eier
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_ENCHANTED_GOLDEN_APPLE:
+  name: Gesnyde Betowerde Goue Appel
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_FENNEL:
+  name: Gesnyde Vinkel
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_GARLIC:
+  name: Gesnyde Knoffel
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_GINGER:
+  name: Gesnyde Gemmer
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_GLOW_BERRIES:
+  name: Gesnyde Gloeibessies
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_GOLDEN_APPLE:
+  name: Gesnyde Goue Appel
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_GOLDEN_CARROT:
+  name: Gesnyde Goue Wortel
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_GRAPE:
+  name: Gesnyde Druif
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_GREEN_APPLE:
+  name: Gesnyde Groen Appel
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_GREEN_BEANS:
+  name: Gesnyde Groenbone
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_GREEN_ONION:
+  name: Gesnyde Sprietui
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_HAZELNUT:
+  name: Gesnyde Haselneut
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_HORSERADISH:
+  name: Gesnyde Peperwortel
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_JALAPENO:
+  name: Gesnyde Jalapeño
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_JASMINE:
+  name: Gesnyde Jasmyn
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_JUNIPER_BERRY:
+  name: Gesnyde Jenewerbessies
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_KAFFIR_LIME:
+  name: Gesnyde Makrutlemmetjieblaar
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_KALE:
+  name: Gesnyde Boerkool
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_KELP:
+  name: Gesnyde Kelp
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_KIWI:
+  name: Gesnyde Kiwi
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_LAVENDER:
+  name: Gesnyde Laventel
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_LEEK:
+  name: Gesnyde Prei
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_LEMON:
+  name: Gesnyde Suurlemoen
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_LETTUCE:
+  name: Gesnyde Blaarslaai
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_LICORICE:
+  name: Gesnyde Soethout
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_LIME:
+  name: Gesnyde Lemmetjie
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_MACE:
+  name: Gesnyde Foelie
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_MANGO:
+  name: Gesnyde Mango
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_MARJORAM:
+  name: Gesnyde Marjolein
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_MARROW:
+  name: Gesnyde Murgpampoen
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_MELON:
+  name: Gesnyde Waatlemoen
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_MINT:
+  name: Gesnyde Kruisement
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_MUSTARD_SEEDS:
+  name: Gesnyde Mosterdsaadjies
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_MUTTON:
+  name: Gesnyde Skaapvleis
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_NETTLES:
+  name: Gesnyde Brandnetels
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_OKRA:
+  name: Gesnyde Okra
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_ONION:
+  name: Gesnyde Ui
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_ORANGE:
+  name: Gesnyde Lemoen
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_OREGANO:
+  name: Gesnyde Origanum
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_PARSLEY:
+  name: Gesnyde Pietersielie
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_PARSNIP:
+  name: Gesnyde Pastinaak
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_PEA:
+  name: Gesnyde Ertjies
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_PEACH:
+  name: Gesnyde Perske
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_PEANUT:
+  name: Gesnyde Grondboontjie
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_PEAR:
+  name: Gesnyde Peer
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_PECAN:
+  name: Gesnyde Pekanneut
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_PEPPER:
+  name: Gesnyde Swartpeper
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_PEPPERONI:
+  name: Gesnyde Pepperoni
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_PINEAPPLE:
+  name: Gesnyde Pynappel
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_PINTO_BEANS:
+  name: Gesnyde Pintobone
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_PORKCHOP:
+  name: Gesnyde Varktjop
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_POTATO:
+  name: Gesnyde Aartappel
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_PUFFERFISH:
+  name: Gesnyde Blaasoppie
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_PUMPKIN:
+  name: Gesnyde Pampoen
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_RABBIT:
+  name: Gesnyde Konyn
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_RADDISH:
+  name: Gesnyde Radys
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_RADICCHIO:
+  name: Gesnyde Radicchio
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_RAPESEED:
+  name: Gesnyde Kanola
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_RED_MUSHROOM:
+  name: Gesnyde Rooi Sampioen
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_RHUBARB:
+  name: Gesnyde Rabarber
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_RICE:
+  name: Gesnyde Rys
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_ROSEMARY:
+  name: Gesnyde Roosmaryn
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_ROTTEN_FLESH:
+  name: Gesnyde Vrot Vleis
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_RUNNER_BEANS:
+  name: Gesnyde Rankbone
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_RUTABAGA:
+  name: Gesnyde Koolraap
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_SALMON:
+  name: Gesnyde Salm
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_SASSAFRAS:
+  name: Gesnyde Sassafras
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_SHALLOT:
+  name: Gesnyde Sjalot
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_SHISO:
+  name: Gesnyde Shiso
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_SOY_BEANS:
+  name: Gesnyde Sojabone
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_SPINACH:
+  name: Gesnyde Spinasie
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_STAR_ANISE:
+  name: Gesnyde Steranys
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_STRAWBERRY:
+  name: Gesnyde Aarbei
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_SUGAR:
+  name: Gesnyde Suiker
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_SWEETCORN:
+  name: Gesnyde Suikermielies
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_SWEET_BERRIES:
+  name: Gesnyde Soetbessies
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_SWEET_POTATO:
+  name: Gesnyde Patat
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_TARRAGON:
+  name: Gesnyde Dragon
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_THYME:
+  name: Gesnyde Tiemie
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_TOMATO:
+  name: Gesnyde Tamatie
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_TURMERIC:
+  name: Gesnyde Borrie
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_TURNIP:
+  name: Gesnyde Raap
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_VANILLA:
+  name: Gesnyde Vanielje
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_WASABI:
+  name: Gesnyde Wasabi
+  type:
+  - '&7&oNeweproduk'
+CLT_SLICED_WHEAT:
+  name: Gesnyde Koring
+  type:
+  - '&7&oNeweproduk'
+CLT_SOFT_BOILED_EGG:
+  name: Sagtegekookte Eier
+  type:
+  - '&7&oKos'
+  description:
+  - Net 'n gekookte eier, wat is daar meer om te sê.
+  stats:
+  - '&8⇨ &7Genesing: &b1 Hart'
+  - '&8⇨ &7Kan soms ''n hoender te hulp roep.'
+CLT_SOYLENT:
+  name: Soylent
+  type:
+  - '&7&oKos'
+  description:
+  - Alles wat die liggaam nodig het!
+  stats:
+  - '&8⇨ &bStout Omen I &7(10:00)'
+  - '&8⇨ &bSwakheid IV &7(10:00)'
+CLT_SOY_BEANS:
+  name: Sojabone
+  type:
+  - '&7&oOes'
+  description:
+  - Die sojamelk nader.
+CLT_SPAGHETTI:
+  name: Spaghetti
+  type:
+  - '&7&oKos'
+  description:
+  - Hou net aan slurp.
+  stats: *id007
+CLT_SPAGHETTI_AND_MEATBALLS:
+  name: Spaghetti en Frikkadelle
+  type:
+  - '&7&oKos'
+  description:
+  - Eenvoudig, klassiek en stewig.
+  stats:
+  - '&8⇨ &7Genesing: &b1 Hart'
+  - '&8⇨ &bStout Omen I &7(10:00)'
+CLT_SPINACH:
+  name: Spinasie
+  type:
+  - '&7&oOes'
+  description:
+  - Met liefde verlep.
+CLT_STAR_ANISE:
+  name: Steranys
+  type:
+  - '&7&oOes'
+  description:
+  - Een van die beste en mees unieke geure.
+CLT_STRAWBERRY:
+  name: Aarbei
+  type:
+  - '&7&oOes'
+  description:
+  - Voeg net room by!
+CLT_STRAWBERRY_JELLY:
+  name: Aarbeijellie
+  type:
+  - '&7&oOes'
+  description: *id008
+CLT_SUGARED_SKULL:
+  name: Versuikerde Skedel
+  type:
+  - '&7&oKos'
+  description:
+  - Is dit eens kos...?
+  stats:
+  - '&8⇨ &bDuisternis III &7(10:00)'
+CLT_SWEETCORN:
+  name: Suikermielies
+  type:
+  - '&7&oOes'
+  description:
+  - Dalk die beste groente wat daar is.
+CLT_SWEET_BEEHIVE:
+  name: Soet Byekorf
+  type:
+  - '&7&oKos'
+  description:
+  - Nie seker wat jou laat besluit het om dit te kook nie!
+  stats:
+  - '&8⇨ &7Roep ''n paar bye op!'
+CLT_SWEET_POTATO:
+  name: Patat
+  type:
+  - '&7&oOes'
+  description:
+  - Njam njam njam.
+CLT_TAQUITO:
+  name: Taquito
+  type:
+  - '&7&oKos'
+  description:
+  - Zim sou trots wees!
+  stats:
+  - '&8⇨ &7Genesing: &b4 Harte'
+  - '&8⇨ &7Roep Gir op om te help (Dis ''n Ystersoldaat, ontspan).'
+CLT_TARRAGON:
+  name: Dragon
+  type:
+  - '&7&oOes'
+  description:
+  - Ek sit dit letterlik op enigiets.
+  - 'Verklapper: Ek is nie ''n goeie sjef nie.'
+CLT_TATER_TOTS:
+  name: Aartappelbolletjies
+  type:
+  - '&7&oKos'
+  description:
+  - Klein aartappelhappies om in te gooi.
+  stats:
+  - '&8⇨ &7Genesing: &b0.5 Harte'
+  - '&8⇨ &bSpoed II &7(10:00)'
+CLT_THYME:
+  name: Tiemie
+  type:
+  - '&7&oOes'
+  description:
+  - Arme roosmaryn, word so dikwels misgekyk.
+CLT_TOMATO:
+  name: Tamatie
+  type:
+  - '&7&oOes'
+  description:
+  - Reg van die wingerdstok af.... ehm... struik?
+CLT_TORTILLAS:
+  name: Tortillas
+  type:
+  - '&7&oOes'
+  description:
+  - Mieliemeel-lekkernye
+CLT_TREE_APRICOT:
+  name: Appelkoosboom
+  type:
+  - '&7&oSaailing'
+  description:
+  - Binne-in is 'n enkele pit van wanhoop.
+  stats: &id009
+  - '&8⇨ &7Ontwerp Deur: &bBWhite'
+CLT_TREE_BANANA:
+  name: Piesangboom
+  type:
+  - '&7&oSaailing'
+  description:
+  - '''n Boom wat vingers groei, grillerig!'
+  stats:
+  - '&8⇨ &7Ontwerp Deur: &bSefiraat'
+CLT_TREE_CHERRY:
+  name: Kersieboom
+  type:
+  - '&7&oSaailing'
+  description:
+  - Hak die knoop deur!
+  stats:
+  - '&8⇨ &7Ontwerp Deur: &bReasonFoundDecoy'
+CLT_TREE_CHESTNUT:
+  name: Kastaiingboom
+  type:
+  - '&7&oSaailing'
+  description:
+  - '''n Boom wat duidelik ontwerp is om in te klim.'
+  stats: &id010
+  - '&8⇨ &7Ontwerp Deur: &bABitOddish'
+CLT_TREE_GREEN_APPLE:
+  name: Groenappelboom
+  type:
+  - '&7&oSaailing'
+  description:
+  - Groei groot en bros groen appels.
+  stats: *id009
+CLT_TREE_HAZELNUT:
+  name: Haselneutboom
+  type:
+  - '&7&oSaailing'
+  description:
+  - Om hierdie boom te skud, is 'n kindertydse tydverdryf.
+  stats: *id010
+CLT_TREE_KIWI:
+  name: Kiwiboom
+  type:
+  - '&7&oSaailing'
+  description:
+  - '''n Nieu-Seelandse Boom? Het ek dit reg?'
+  stats: *id010
+CLT_TREE_LEMON:
+  name: Suurlemoenboom
+  type:
+  - '&7&oSaailing'
+  description:
+  - Net om na hierdie boom te kyk, smaak suur.
+  stats: &id011
+  - '&8⇨ &7Ontwerp Deur: &bJeff'
+CLT_TREE_LIME:
+  name: Lemmetjieboom
+  type:
+  - '&7&oSaailing'
+  description:
+  - Het jy geweet Lemmetjies is net Suurlemoene wat hul asem ophou?
+  stats: *id010
+CLT_TREE_MANGO:
+  name: Mangoboom
+  type:
+  - '&7&oSaailing'
+  description:
+  - Die beste wanneer dit op sy rypste is.
+  stats: *id009
+CLT_TREE_ORANGE:
+  name: Lemoenboom
+  type:
+  - '&7&oSaailing'
+  description:
+  - Klein bolletjies sonskyn.
+  stats: *id011
+CLT_TREE_PEACH:
+  name: Perskeboom
+  type:
+  - '&7&oSaailing'
+  description:
+  - James het hierna gesoek, dink ek?
+  stats: *id010
+CLT_TREE_PEAR:
+  name: Peerboom
+  type:
+  - '&7&oSaailing'
+  description:
+  - '''n Paar Pere is in pare gepaar vir pariteit.'
+  stats: *id009
+CLT_TREE_PECAN:
+  name: Pekanneutboom
+  type:
+  - '&7&oSaailing'
+  description:
+  - Kan ons hierdie boom kweek? Ja, ons pe-kan!
+  stats: *id009
+CLT_TREE_PINEAPPLE:
+  name: Pynappelboom
+  type:
+  - '&7&oSaailing'
+  description:
+  - WAAR IS MY PIZZA?
+  stats: *id010
+CLT_TURMERIC:
+  name: Borrie
+  type:
+  - '&7&oOes'
+  description:
+  - '''n Sterk muskusagtige teenwoordigheid wat baie geregte aanvul.'
+CLT_TURNIP:
+  name: Raap
+  type:
+  - '&7&oOes'
+  description:
+  - Sal al die lewe se probleme oplos.
+CLT_VANILLA:
+  name: Vanielje
+  type:
+  - '&7&oOes'
+  description:
+  - 'Instruksies: Doop direk in ''n Latte'
+CLT_WASABI:
+  name: Wasabi
+  type:
+  - '&7&oOes'
+  description:
+  - Help... wasabi...
+CLT_WITHER_ROSE_SALAD:
+  name: Verwelkroosslaai
+  type:
+  - '&7&oKos'
+  description:
+  - Wemel van krag, maar met 'n harde newe-effek.
+  stats:
+  - '&8⇨ &7Genesing: &bVol'
+  - '&8⇨ &bVerwelk II &7(10:00)'
+  - '&8⇨ &bTydelike Taaiheid XX &7(10:00)'

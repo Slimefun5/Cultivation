@@ -1,0 +1,65 @@
+lore:
+  seed-pack-set-to: Gestel op
+  knowledge-script-unlocks: Ontsluit
+  drop-level: Opbrengsvlak
+  growth-speed: Groeispoed
+  breed-strength: Teelkrag
+command:
+  no-permission: Jy het nie toestemming om dit te doen nie.
+  invalid-subcommand: Verskaf asseblief 'n geldige subopdrag.
+  players-only: Hierdie opdrag kan slegs deur 'n speler uitgevoer word.
+  hold-seed-pack: Jy moet hiervoor 'n Saadpakkie vashou.
+  pack-empty: Hierdie pakkie is leeg!
+  pack-contents: Inhoud
+  pack-entry: Vlak %level%, spoed %speed%, krag %strength%
+kitchen:
+  recipe-disabled: Hierdie resep is gedeaktiveer.
+  no-recipe: Geen passende resep nie.
+  not-enough-power: Nie genoeg krag nie.
+  input-empty: Sit 'n item in die invoergleuf.
+  cooked: Smaaklik!
+food:
+  eaten: Heerlik! Jy is heeltemal versadig.
+  not-hungry: Jy is nog nie honger nie! Jy kan net een keer elke halwe dag eet (10 minute).
+  palate-cleansed: Jy voel hoe jou verhemelte skoongemaak word.
+  ouch: Eina!
+knowledge-script:
+  learned: Jy het geleer hoe om %plant% te teel.
+seed-pack:
+  title: Saadpakkie
+  unstack-first: Jy moet eers jou Saadpakkies van mekaar skei.
+  not-a-seed: Die item moet 'n Cultivation-plantsaad wees.
+  empty-before-change: Jy moet 'n pakkie leegmaak voordat jy sy plant verander.
+  no-plant-set: Jy het nog nie 'n plant gestel nie.
+  none-stored: Jy het niks van hierdie saad op hierdie vlakke nie.
+  set-here: Stel saad hier
+  retrieve-here: Haal hier uit
+  no-seed-set: Geen Saad Gestel
+  no-seed-set-lore:
+  - Klik op die ikoon aan die linkerkant
+  - terwyl jy 'n saad vashou om die pakkie te stel.
+  empty-set: Leë Stel
+  empty-set-lore:
+  - Jy het geen sade wat by
+  - hierdie vlakke pas nie.
+  stored-seed: Gebergde Saadsoort
+  take-seed: Neem 'n saad uit die pakkie
+  level: Vlak
+  speed: Spoed
+  strength: Krag
+  left-click: Linksklik
+  right-click: Regsklik
+  increase: Verhoog %stat%
+  decrease: Verlaag %stat%
+  current: Huidig
+codex:
+  title: Plantkodeks
+  child: Kindplant
+  mother: Moederplant
+  father: Vaderplant
+  growth-rate: Groeitempo
+  not-discovered: Nie Ontdek Nie
+  not-discovered-lore:
+  - Jy het nog nie ontdek hoe
+  - om hierdie plant te teel nie!
+  discovery: Ontdekking

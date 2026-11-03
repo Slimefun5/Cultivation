@@ -1,0 +1,6674 @@
+CLT_APRICOT:
+  name: Aprikoze
+  type:
+  - '&7&oRaža'
+  description:
+  - No šiem var taisīt pokebolus.
+  - '...'
+  - Ko nozīmē, tas ir kaut kas cits...?
+CLT_ARTICHOKE:
+  name: Artišoks
+  type:
+  - '&7&oRaža'
+  description:
+  - Izrauj tam SIRDI!
+CLT_ASPARAGUS:
+  name: Sparģelis
+  type:
+  - '&7&oRaža'
+  description:
+  - Uzmanīgi, vēlāk apmeklējot tualeti.
+CLT_AUBERGINE:
+  name: Baklažāns
+  type:
+  - '&7&oRaža'
+  description:
+  - Spilgti violets un 100% NAV olas formā.
+  - Labāk sauksim to par olu augu, vai ne?
+CLT_AVOCADO:
+  name: Avokado
+  type:
+  - '&7&oRaža'
+  description:
+  - Tas, par ko sapņo hipsteri.
+CLT_BACON_SANDWICH:
+  name: Bekona sviestmaize
+  type:
+  - '&7&oĒdiens'
+  description:
+  - Vienkārša klasika!
+  stats:
+  - '&8⇨ &7Dziedināšana: &b2 sirdis'
+  - '&8⇨ &bSpēks I &7(10:00)'
+  - '&8⇨ &bĀtrums I &7(10:00)'
+CLT_BAGEL:
+  name: Beigelis
+  type:
+  - '&7&oĒdiens'
+  description:
+  - Grauzdēts? vai...
+  stats:
+  - '&8⇨ &7Dziedināšana: &b2.5 sirdis'
+CLT_BAGEL_BITE:
+  name: Beigeļa kumoss
+  type:
+  - '&7&oĒdiens'
+  description:
+  - Ēd picu jebkurā laikā!
+  stats:
+  - '&8⇨ &7Apdedzina muti ar katru kumosu!'
+CLT_BAGEL_CREAM_CHEESE:
+  name: Beigelis ar krēmsieru
+  type:
+  - '&7&oĒdiens'
+  description:
+  - Tik garšīgs, ka noteikti gribēsi vēl vienu.
+  stats:
+  - '&8⇨ &7Dziedināšana: &b5 sirdis'
+  - '&8⇨ &bVeselības veicināšana I &7(10:00)'
+CLT_BANANA:
+  name: Banāns
+  type:
+  - '&7&oRaža'
+  description:
+  - Man patīk tā izskats, bet miza vēl vairāk!
+CLT_BASIL:
+  name: Baziliks
+  type:
+  - '&7&oRaža'
+  description:
+  - Salda lapa ar maigu piparu piegaršu.
+CLT_BAY_LEAF:
+  name: Lauru lapa
+  type:
+  - '&7&oRaža'
+  description:
+  - Spēcīgs aromāts ar daudziem pielietojumiem.
+CLT_BELL_PEPPER:
+  name: Paprika
+  type:
+  - '&7&oRaža'
+  description:
+  - Skan patiesi kā zvans.
+CLT_BISCUIT:
+  name: Cepums
+  type:
+  - '&7&oĒdiens'
+  description:
+  - Maza uzkoda ar milzīgu garšu.
+  stats: &id002
+  - '&8⇨ &7Izšauj tevi gaisā'
+CLT_BISCUIT_BASE:
+  name: Cepumu pamatne
+  type:
+  - '&7&oRaža'
+  description:
+  - Tas, ka tas tagad ir plakans, nenozīmē,
+  - ka to var ēst jēlu.
+CLT_BISCUIT_DOUGH:
+  name: Cepumu mīkla
+  type:
+  - '&7&oRaža'
+  description:
+  - 'Tikai atgādini sev: "Neēd to jēlu."'
+CLT_BLACK_BEANS:
+  name: Melnās pupiņas
+  type:
+  - '&7&oRaža'
+  description:
+  - Garšīgs veģetārs proteīns.
+CLT_BLENDED_APPLE:
+  name: Blenderēts ābols
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_APRICOT:
+  name: Blenderēta aprikoze
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_ARTICHOKE:
+  name: Blenderēts artišoks
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_ASPARAGUS:
+  name: Blenderēts sparģelis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_AUBERGINE:
+  name: Blenderēts baklažāns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_AVOCADO:
+  name: Blenderēts avokado
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_BANANA:
+  name: Blenderēts banāns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_BASIL:
+  name: Blenderēts baziliks
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_BAY_LEAF:
+  name: Blenderēta lauru lapa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_BEEF:
+  name: Blenderēta liellopa gaļa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_BEETROOT:
+  name: Blenderēta biete
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_BELL_PEPPER:
+  name: Blenderēta paprika
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_BLACK_BEANS:
+  name: Blenderētas melnās pupiņas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_BREAD:
+  name: Blenderēta maize
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_BROCCOLI:
+  name: Blenderēts brokolis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_BROWN_MUSHROOM:
+  name: Blenderēta brūna sēne
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_BRUSSELS_SPROUTS:
+  name: Blenderēti rožu kāposti
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_CABBAGE:
+  name: Blenderēts kāposts
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_CARROT:
+  name: Blenderēts burkāns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_CAULIFLOWER:
+  name: Blenderēts ziedkāposts
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_CAYENNE_PEPPER:
+  name: Blenderēts kajēnas pipars
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_CELERIAC:
+  name: Blenderēta sakņu selerija
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_CELERY:
+  name: Blenderēta selerija
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_CHERRY:
+  name: Blenderēts ķirsis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_CHESTNUT:
+  name: Blenderēts kastanis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_CHICKEN:
+  name: Blenderēta vista
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_CHICKPEAS:
+  name: Blenderēti aunazirņi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_CHICORY:
+  name: Blenderēts cigoriņš
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_CHILLY_PEPPER:
+  name: Blenderēts čili pipars
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_CHIVES:
+  name: Blenderēti maurloki
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_CHORUS_FRUIT:
+  name: Blenderēts kora auglis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_CILANTRO:
+  name: Blenderēts koriandrs
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_CINNAMON:
+  name: Blenderēts kanēlis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_CLOVE:
+  name: Blenderēta krustnagliņa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_COCOA_BEANS:
+  name: Blenderētas kakao pupiņas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_COD:
+  name: Blenderēta menca
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_COURGETTE:
+  name: Blenderēts cukini
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_CUCUMBER:
+  name: Blenderēts gurķis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_CUMIN:
+  name: Blenderēts kumīns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_CURRY_LEAF:
+  name: Blenderēta karija lapa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_DILL:
+  name: Blenderētas dilles
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_EGG:
+  name: Blenderēta ola
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_ENCHANTED_GOLDEN_APPLE:
+  name: Blenderēts uzlabots zelta ābols
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_FENNEL:
+  name: Blenderēts fenhelis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_GARLIC:
+  name: Blenderēts ķiploks
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_GINGER:
+  name: Blenderēts ingvers
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_GLOW_BERRIES:
+  name: Blenderētas spīdošās ogas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_GOLDEN_APPLE:
+  name: Blenderēts zelta ābols
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_GOLDEN_CARROT:
+  name: Blenderēts zelta burkāns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_GRAPE:
+  name: Blenderēta vīnoga
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_GREEN_APPLE:
+  name: Blenderēts zaļais ābols
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_GREEN_BEANS:
+  name: Blenderētas zaļās pupiņas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_GREEN_ONION:
+  name: Blenderēts zaļais sīpols
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_HAZELNUT:
+  name: Blenderēts lazdu rieksts
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_HORSERADISH:
+  name: Blenderēts mārrutks
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_JALAPENO:
+  name: Blenderēts halapenjo pipars
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_JASMINE:
+  name: Blenderēts jasmīns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_JUNIPER_BERRY:
+  name: Blenderētas kadiķogas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_KAFFIR_LIME:
+  name: Blenderēta kafrlaima lapa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_KALE:
+  name: Blenderēts lapu kāposts
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_KELP:
+  name: Blenderēta brūnaļģe
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_KIWI:
+  name: Blenderēts kivi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_LAVENDER:
+  name: Blenderēta lavanda
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_LEEK:
+  name: Blenderēts puravs
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_LEMON:
+  name: Blenderēts citrons
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_LETTUCE:
+  name: Blenderēti salāti
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_LICORICE:
+  name: Blenderēta lakrica
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_LIME:
+  name: Blenderēts laims
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_MACE:
+  name: Blenderēti muskatziedi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_MANGO:
+  name: Blenderēts mango
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_MARJORAM:
+  name: Blenderēts majorāns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_MARROW:
+  name: Blenderēts kabacis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_MELON:
+  name: Blenderēts arbūzs
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_MINT:
+  name: Blenderēta piparmētra
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_MUSTARD_SEEDS:
+  name: Blenderēti sinepju graudi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_MUTTON:
+  name: Blenderēta aitas gaļa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_NETTLES:
+  name: Blenderētas nātres
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_OKRA:
+  name: Blenderēta okra
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_ONION:
+  name: Blenderēts sīpols
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_ORANGE:
+  name: Blenderēts apelsīns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_OREGANO:
+  name: Blenderēts oregano
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_PARSLEY:
+  name: Blenderēti pētersīļi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_PARSNIP:
+  name: Blenderēts pastinaks
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_PEA:
+  name: Blenderēti zirņi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_PEACH:
+  name: Blenderēts persiks
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_PEANUT:
+  name: Blenderēts zemesrieksts
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_PEAR:
+  name: Blenderēts bumbieris
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_PECAN:
+  name: Blenderēts pekanrieksts
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_PEPPER:
+  name: Blenderēti melnie pipari
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_PEPPERONI:
+  name: Blenderēta peperoni desa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_PINEAPPLE:
+  name: Blenderēts ananass
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_PINTO_BEANS:
+  name: Blenderētas pinto pupiņas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_PORKCHOP:
+  name: Blenderēta cūkgaļas karbonāde
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_POTATO:
+  name: Blenderēts kartupelis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_PUFFERFISH:
+  name: Blenderēta pūšļa zivs
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_PUMPKIN:
+  name: Blenderēts ķirbis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_RABBIT:
+  name: Blenderēts trusis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_RADDISH:
+  name: Blenderēts redīss
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_RADICCHIO:
+  name: Blenderēts radičo
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_RAPESEED:
+  name: Blenderēts rapsis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_RED_MUSHROOM:
+  name: Blenderēta sarkana sēne
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_RHUBARB:
+  name: Blenderēts rabarbers
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_RICE:
+  name: Blenderēti rīsi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_ROSEMARY:
+  name: Blenderēts rozmarīns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_ROTTEN_FLESH:
+  name: Blenderēta sapuvusi gaļa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_RUNNER_BEANS:
+  name: Blenderētas daudzziedu pupiņas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_RUTABAGA:
+  name: Blenderēts kālis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_SALMON:
+  name: Blenderēts lasis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_SASSAFRAS:
+  name: Blenderēts sasafrass
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_SHALLOT:
+  name: Blenderēts šalotsīpols
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_SHISO:
+  name: Blenderēts šiso
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_SOY_BEANS:
+  name: Blenderētas sojas pupiņas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_SPINACH:
+  name: Blenderēti spināti
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_STAR_ANISE:
+  name: Blenderēts zvaigžņu anīss
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_STRAWBERRY:
+  name: Blenderēta zemene
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_SUGAR:
+  name: Blenderēts cukurs
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_SWEETCORN:
+  name: Blenderēta cukurkukurūza
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_SWEET_BERRIES:
+  name: Blenderētas saldās ogas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_SWEET_POTATO:
+  name: Blenderēts saldais kartupelis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_TARRAGON:
+  name: Blenderēts estragons
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_THYME:
+  name: Blenderēts timiāns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_TOMATO:
+  name: Blenderēts tomāts
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_TURMERIC:
+  name: Blenderēta kurkuma
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_TURNIP:
+  name: Blenderēts rācenis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_VANILLA:
+  name: Blenderēta vaniļa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_WASABI:
+  name: Blenderēts vasabi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLENDED_WHEAT:
+  name: Blenderēti kvieši
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BLUE_CANDY:
+  name: Zilā konfekte
+  type:
+  - '&7&oĒdiens'
+  description:
+  - Apburoši salda konfekte.
+  stats:
+  - '&8⇨ &7Izsauc Allaju'
+CLT_BOILED_APPLE:
+  name: Vārīts ābols
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_APRICOT:
+  name: Vārīta aprikoze
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_ARTICHOKE:
+  name: Vārīts artišoks
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_ASPARAGUS:
+  name: Vārīts sparģelis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_AUBERGINE:
+  name: Vārīts baklažāns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_AVOCADO:
+  name: Vārīts avokado
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_BANANA:
+  name: Vārīts banāns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_BASIL:
+  name: Vārīts baziliks
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_BAY_LEAF:
+  name: Vārīta lauru lapa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_BEEF:
+  name: Vārīta liellopa gaļa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_BEETROOT:
+  name: Vārīta biete
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_BELL_PEPPER:
+  name: Vārīta paprika
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_BLACK_BEANS:
+  name: Vārītas melnās pupiņas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_BREAD:
+  name: Vārīta maize
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_BROCCOLI:
+  name: Vārīts brokolis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_BROWN_MUSHROOM:
+  name: Vārīta brūna sēne
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_BRUSSELS_SPROUTS:
+  name: Vārīti rožu kāposti
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_CABBAGE:
+  name: Vārīts kāposts
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_CARROT:
+  name: Vārīts burkāns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_CAULIFLOWER:
+  name: Vārīts ziedkāposts
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_CAYENNE_PEPPER:
+  name: Vārīts kajēnas pipars
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_CELERIAC:
+  name: Vārīta sakņu selerija
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_CELERY:
+  name: Vārīta selerija
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_CHERRY:
+  name: Vārīts ķirsis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_CHESTNUT:
+  name: Vārīts kastanis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_CHICKEN:
+  name: Vārīta vista
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_CHICKPEAS:
+  name: Vārīti aunazirņi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_CHICORY:
+  name: Vārīts cigoriņš
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_CHILLY_PEPPER:
+  name: Vārīts čili pipars
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_CHIVES:
+  name: Vārīti maurloki
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_CHORUS_FRUIT:
+  name: Vārīts kora auglis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_CILANTRO:
+  name: Vārīts koriandrs
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_CINNAMON:
+  name: Vārīts kanēlis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_CLOVE:
+  name: Vārīta krustnagliņa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_COCOA_BEANS:
+  name: Vārītas kakao pupiņas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_COD:
+  name: Vārīta menca
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_COURGETTE:
+  name: Vārīts cukini
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_CUCUMBER:
+  name: Vārīts gurķis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_CUMIN:
+  name: Vārīts kumīns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_CURRY_LEAF:
+  name: Vārīta karija lapa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_DILL:
+  name: Vārītas dilles
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_EGG:
+  name: Vārīta ola
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_ENCHANTED_GOLDEN_APPLE:
+  name: Vārīts uzlabots zelta ābols
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_FENNEL:
+  name: Vārīts fenhelis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_GARLIC:
+  name: Vārīts ķiploks
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_GINGER:
+  name: Vārīts ingvers
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_GLOW_BERRIES:
+  name: Vārītas spīdošās ogas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_GOLDEN_APPLE:
+  name: Vārīts zelta ābols
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_GOLDEN_CARROT:
+  name: Vārīts zelta burkāns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_GRAPE:
+  name: Vārīta vīnoga
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_GREEN_APPLE:
+  name: Vārīts zaļais ābols
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_GREEN_BEANS:
+  name: Vārītas zaļās pupiņas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_GREEN_ONION:
+  name: Vārīts zaļais sīpols
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_HAZELNUT:
+  name: Vārīts lazdu rieksts
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_HORSERADISH:
+  name: Vārīts mārrutks
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_JALAPENO:
+  name: Vārīts halapenjo pipars
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_JASMINE:
+  name: Vārīts jasmīns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_JUNIPER_BERRY:
+  name: Vārītas kadiķogas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_KAFFIR_LIME:
+  name: Vārīta kafrlaima lapa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_KALE:
+  name: Vārīts lapu kāposts
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_KELP:
+  name: Vārīta brūnaļģe
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_KIWI:
+  name: Vārīts kivi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_LAVENDER:
+  name: Vārīta lavanda
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_LEEK:
+  name: Vārīts puravs
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_LEMON:
+  name: Vārīts citrons
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_LETTUCE:
+  name: Vārīti salāti
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_LICORICE:
+  name: Vārīta lakrica
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_LIME:
+  name: Vārīts laims
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_MACE:
+  name: Vārīti muskatziedi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_MANGO:
+  name: Vārīts mango
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_MARJORAM:
+  name: Vārīts majorāns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_MARROW:
+  name: Vārīts kabacis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_MELON:
+  name: Vārīts arbūzs
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_MINT:
+  name: Vārīta piparmētra
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_MUSTARD_SEEDS:
+  name: Vārīti sinepju graudi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_MUTTON:
+  name: Vārīta aitas gaļa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_NETTLES:
+  name: Vārītas nātres
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_OKRA:
+  name: Vārīta okra
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_ONION:
+  name: Vārīts sīpols
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_ORANGE:
+  name: Vārīts apelsīns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_OREGANO:
+  name: Vārīts oregano
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_PARSLEY:
+  name: Vārīti pētersīļi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_PARSNIP:
+  name: Vārīts pastinaks
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_PEA:
+  name: Vārīti zirņi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_PEACH:
+  name: Vārīts persiks
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_PEANUT:
+  name: Vārīts zemesrieksts
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_PEAR:
+  name: Vārīts bumbieris
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_PECAN:
+  name: Vārīts pekanrieksts
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_PEPPER:
+  name: Vārīti melnie pipari
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_PEPPERONI:
+  name: Vārīta peperoni desa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_PINEAPPLE:
+  name: Vārīts ananass
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_PINTO_BEANS:
+  name: Vārītas pinto pupiņas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_PORKCHOP:
+  name: Vārīta cūkgaļas karbonāde
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_POTATO:
+  name: Vārīts kartupelis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_PUFFERFISH:
+  name: Vārīta pūšļa zivs
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_PUMPKIN:
+  name: Vārīts ķirbis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_RABBIT:
+  name: Vārīts trusis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_RADDISH:
+  name: Vārīts redīss
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_RADICCHIO:
+  name: Vārīts radičo
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_RAPESEED:
+  name: Vārīts rapsis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_RED_MUSHROOM:
+  name: Vārīta sarkana sēne
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_RHUBARB:
+  name: Vārīts rabarbers
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_RICE:
+  name: Vārīti rīsi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_ROSEMARY:
+  name: Vārīts rozmarīns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_ROTTEN_FLESH:
+  name: Vārīta sapuvusi gaļa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_RUNNER_BEANS:
+  name: Vārītas daudzziedu pupiņas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_RUTABAGA:
+  name: Vārīts kālis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_SALMON:
+  name: Vārīts lasis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_SASSAFRAS:
+  name: Vārīts sasafrass
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_SHALLOT:
+  name: Vārīts šalotsīpols
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_SHISO:
+  name: Vārīts šiso
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_SOY_BEANS:
+  name: Vārītas sojas pupiņas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_SPINACH:
+  name: Vārīti spināti
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_STAR_ANISE:
+  name: Vārīts zvaigžņu anīss
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_STRAWBERRY:
+  name: Vārīta zemene
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_SUGAR:
+  name: Vārīts cukurs
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_SWEETCORN:
+  name: Vārīta cukurkukurūza
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_SWEET_BERRIES:
+  name: Vārītas saldās ogas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_SWEET_POTATO:
+  name: Vārīts saldais kartupelis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_TARRAGON:
+  name: Vārīts estragons
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_THYME:
+  name: Vārīts timiāns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_TOMATO:
+  name: Vārīts tomāts
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_TURMERIC:
+  name: Vārīta kurkuma
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_TURNIP:
+  name: Vārīts rācenis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_VANILLA:
+  name: Vārīta vaniļa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_WASABI:
+  name: Vārīts vasabi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOILED_WHEAT:
+  name: Vārīti kvieši
+  type:
+  - '&7&oBlakusprodukts'
+CLT_BOWL_OF_STEVE:
+  name: Bļoda ar... Steve?
+  type:
+  - '&7&oĒdiens'
+  description:
+  - Kas pie visiem &%£$
+  stats:
+  - '&8⇨ &bRakšanas nogurums X &7(10:00)'
+  - '&8⇨ &bLēnums VI &7(10:00)'
+  - '&8⇨ &bSpēks X &7(10:00)'
+  - '&8⇨ &7Samazina tevi līdz 1/2 sirdij'
+CLT_BROCCOLI:
+  name: Brokolis
+  type:
+  - '&7&oRaža'
+  description:
+  - Vai tu esi milzis, kas tur rokā koku?
+  - Nē, tikai sīks kociņš :)
+CLT_BRUSSELS_SPROUTS:
+  name: Rožu kāposti
+  type:
+  - '&7&oRaža'
+  description:
+  - Gāzains prieks.
+CLT_BUSH_ARTICHOKE:
+  name: Artišoka krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Labākais krūms, ar ko nožņaugt
+  - mākslinieku. Ehh. Vārdu spēles ir grūtas.
+CLT_BUSH_ASPARAGUS:
+  name: Sparģeļa krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Šis sparģeļu krūms ir īsts
+  - stiebru stalkeris!
+CLT_BUSH_AUBERGINE:
+  name: Baklažāna krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Es atsakos lietot vārdu "olu augs". Vienkārši atsakos.
+CLT_BUSH_AVOCADO:
+  name: Avokado krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Šis krūms ir īpaši izaudzēts tā, lai
+  - neizlietotu pārāk daudz ūdens.
+CLT_BUSH_BASIL:
+  name: Bazilika krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Vieglprātīgs krūms, pilns kaprīžu.
+CLT_BUSH_BAY_LEAF:
+  name: Lauru krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Šī krūma smarža aizceļo kilometriem tālu.
+CLT_BUSH_BELL_PEPPER:
+  name: Paprikas krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Uzmanīgi, ejot tam garām, tu vari
+  - nejauši nozvanīt zvanu.
+CLT_BUSH_BLACK_BEANS:
+  name: Melno pupiņu krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - 'Šis krūms tev maigi čukst:'
+  - Tu esi lieliska cilvēku pupiņa.
+CLT_BUSH_BROCCOLI:
+  name: Brokoļa krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Sīki kociņi, ko var ēst? Kas to izdomāja!?
+CLT_BUSH_BRUSSELS_SPROUTS:
+  name: Rožu kāpostu krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Krūms, kas dažkārt izdala smirdīgu
+  - gāzi.
+CLT_BUSH_CABBAGE:
+  name: Kāposta krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Krūms, kuram līdzi nāk krietna deva
+  - emocionālo kāpostu.
+CLT_BUSH_CAULIFLOWER:
+  name: Ziedkāposta krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Krūms, kas spēj radīt mazus
+  - prieka mākonīšus.
+CLT_BUSH_CAYENNE_PEPPER:
+  name: Kajēnas pipara krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Krūms ar piparotu attieksmi.
+CLT_BUSH_CELERIAC:
+  name: Sakņu selerijas krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Vēl viena sakne, kas aug no krūma?
+  - SefiDumb™
+CLT_BUSH_CELERY:
+  name: Selerijas krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Šis krūms ir lieks.
+  - Sefi nepatīk selerija.
+CLT_BUSH_CHICKPEAS:
+  name: Aunazirņu krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Krūms, kas radīts, krustojot vistu ar
+  - zirni. ZINĀTNE.
+CLT_BUSH_CHICORY:
+  name: Cigoriņa krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Es domāju, ka cigoriņš ir sakne? Vai šis papildinājums
+  - vispār ir izpētījis savu tēmu!?
+CLT_BUSH_CHILLI_PEPPER:
+  name: Čili pipara krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Jau tikai skatoties uz šo krūmu, man deg mēle.
+CLT_BUSH_CHIVES:
+  name: Maurloku krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Krūms, kas faktiski ražo pasaulē
+  - mazāko sīpolu.
+CLT_BUSH_CILANTRO:
+  name: Koriandra krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - No šī krūma nāk viegla citrusu un garšvielu smarža.
+CLT_BUSH_CINNAMON:
+  name: Kanēļa krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Apburoši smaržīgs krūms.
+CLT_BUSH_CLOVE:
+  name: Krustnagliņu krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Krūms, kas man vienkārši atgādina Ziemassvētkus.
+CLT_BUSH_COURGETTE:
+  name: Cukini krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Kāpēc šis krūms visu laiku kliedz vārdu
+  - Zucchini? Laikam jau amerikānis?
+CLT_BUSH_CUCUMBER:
+  name: Gurķa krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Šis krūms radīts vienīgi tavu
+  - jauko vasaras salātu dēļ.
+CLT_BUSH_CUMIN:
+  name: Kumīna krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Krūms, kas izdala siltu citrusu aromātu.
+CLT_BUSH_CURRY_LEAF:
+  name: Karija krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Vislabākais, ja apgrauzdēts bez eļļas.
+CLT_BUSH_DILL:
+  name: Diļļu krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Šis krūms aug daudz ātrāk nekā citi.
+CLT_BUSH_FENNEL:
+  name: Fenheļa krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Kāpēc šis krūms atbaida kukaiņus!?
+CLT_BUSH_GARLIC:
+  name: Ķiploka krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Šim krūmam ir vienkārši visnejaukākā elpa.
+CLT_BUSH_GINGER:
+  name: Ingvera krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Šis krūms ir garšīgs, ja to vāra veselu.
+CLT_BUSH_GRAPE:
+  name: Vīnogu krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Gatavas un sulīgas vīnogas, kas praktiski pašas krīt
+  - nost no krūma.
+CLT_BUSH_GREEN_BEANS:
+  name: Zaļo pupiņu krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Pārlej šo krūmu ar tomātu mērci, un būs
+  - ceptas pupiņas.
+CLT_BUSH_GREEN_ONION:
+  name: Zaļā sīpola krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Zināms arī kā lociņi.
+  - Zaļajiem sīpoliem parasti ir
+  - maigāka garša nekā vairumam sīpolu.
+CLT_BUSH_HORSERADISH:
+  name: Mārrutka krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Atkal, tas, ka tas aug uz krūma, vienkārši nav loģiski.
+CLT_BUSH_JALAPENO:
+  name: Halapenjo pipara krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Jau tikai turot šo krūmu, ir
+  - 1% iespēja aizdegties.
+CLT_BUSH_JASMINE:
+  name: Jasmīna krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Šī krūma aromāts ir tik maigs un mīlīgs.
+CLT_BUSH_JUNIPER_BERRY:
+  name: Kadiķogu krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Uz krūma tik salds, izžāvēts piparots.
+CLT_BUSH_KAFFIR_LIME:
+  name: Kafrlaima krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Krūms, kura lapas ir kārotākas par tā augļiem.
+CLT_BUSH_KALE:
+  name: Lapu kāposta krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Iestādot šo krūmu, rodas sajūta,
+  - ka viss būs kāpostu kārtībā.
+CLT_BUSH_LAVENDER:
+  name: Lavandas krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Šis krūms izplata savu smaržu visur.
+CLT_BUSH_LEEK:
+  name: Purava krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Vai zināji, ka puravs ir vienkārši sīpols,
+  - kas valkā korseti? Patiess stāsts.
+CLT_BUSH_LETTUCE:
+  name: Salātu krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Vai salāti vispār aug uz krūmiem?
+  - 'Spoileris: Nē, neaug.'
+CLT_BUSH_LICORICE:
+  name: Lakricas krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Pretīgi
+CLT_BUSH_MACE:
+  name: Muskatziedu krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Šķiet, ka šis krūms atbaida uzbrucējus?
+CLT_BUSH_MARJORAM:
+  name: Majorāna krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Liels krūms ar koksnes smaržu.
+CLT_BUSH_MARROW:
+  name: Kabača krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Esmu pārsteigts, ka šis krūms spēj noturēt
+  - pats savu svaru.
+CLT_BUSH_MINT:
+  name: Piparmētras krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Vienkārši vislabāk smaržojošais krūms.
+CLT_BUSH_MUSTARD:
+  name: Sinepju graudu krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Kā uguns mutē.
+CLT_BUSH_NETTLES:
+  name: Nātru krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Uzmanies, ejot cauri šim krūmam!
+CLT_BUSH_OKRA:
+  name: Okras krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Atzīts par 1. numura dārzeni saskaņā ar
+  - Okras Vinfrijas Dārzeņu klubu.
+CLT_BUSH_ONION:
+  name: Sīpola krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Vai šis krūms neizskatās tā, it kā raudātu?
+CLT_BUSH_OREGANO:
+  name: Oregano krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Šis asi smaržojošais krūms atbaida viesus.
+CLT_BUSH_PARSLEY:
+  name: Pētersīļu krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Iemet šo krūmu lavā, tūlīt :D
+CLT_BUSH_PARSNIP:
+  name: Pastinaka krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Izlaid starpnieku un cep
+  - pašu krūmu.
+CLT_BUSH_PEA:
+  name: Zirņu krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Man labāk patīk Q burti
+CLT_BUSH_PEANUTS:
+  name: Zemesriekstu krūms
+  type:
+  - '&7&oKrūms'
+  description: &id001
+  - Stingras, smaržīgas un pilnas ar proteīnu.
+CLT_BUSH_PEPPER:
+  name: Melno piparu krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Melnie pipari bija svarīga daļa no
+  - garšvielu tirdzniecības starp Indiju un Eiropu
+  - jau sengrieķu un romiešu laikos.
+CLT_BUSH_PINTO_BEANS:
+  name: Pinto pupiņu krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Drīz mums izdosies izaudzēt
+  - krūmu, uz kura aug gatavi burito, vai ne?
+CLT_BUSH_RADDISH:
+  name: Redīsa krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Šis augs tikko izpildīja skeitborda triku.
+  - Pilnīgi Rad...īss.
+CLT_BUSH_RADICCHIO:
+  name: Radičo krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Gribi izklausīties smalki? Pievieno radičo jebkurai
+  - maltītei, tas būtībā ir tas pats kāposts, bet
+  - liek tev izskatīties izsmalcinātam.
+CLT_BUSH_RAPESEED:
+  name: Rapša krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - No šī krūma izdalās kāda eļļaina viela.
+CLT_BUSH_RHUBARB:
+  name: Rabarbera krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Vai zināji, ka rabarbers ir dārzenis?
+  - Es domāju, ka tas ir kāds āmura veids.
+CLT_BUSH_RICE:
+  name: Rīsu krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Pamatēdiens pār visiem pamatēdieniem.
+CLT_BUSH_ROSEMARY:
+  name: Rozmarīna krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Krūms, kura smarža atgādina svētdienas pusdienas.
+CLT_BUSH_RUNNER_BEANS:
+  name: Daudzziedu pupiņu krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Šim krūmam ir kājas o.o?
+CLT_BUSH_RUTABAGA:
+  name: Kāļa krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Kālis. Tas ir kālis.
+CLT_BUSH_SASSAFRAS:
+  name: Sasafrasa krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Šim krūmam patīk augt netālu no mazām
+  - ūdenstilpēm.
+CLT_BUSH_SHALLOT:
+  name: Šalotsīpola krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Šis krūms ātri ražo jaukus mini sīpoliņus.
+  - Šaubu nav, tās ir šalotes.
+CLT_BUSH_SHISO:
+  name: Šiso krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Man patīk iedomāties, ka šis krūms ir piparmētras
+  - krūma un bazilika krūma mīlas bērns. Žēl, ka
+  - krūmu krustošana nav iespējama!
+CLT_BUSH_SOY_BEANS:
+  name: Sojas pupiņu krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Šis krūms ir draudzīgs prieks. Ar to
+  - man ir sojaaa labi.
+CLT_BUSH_SPINACH:
+  name: Spinātu krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Šis krūms ir Popaja labākais draugs.
+CLT_BUSH_STAR_ANISE:
+  name: Zvaigžņu anīsa krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - No šī krūma nāk smarža, tik raksturīga
+  - anīsam, ka tam grūti pat noticēt.
+CLT_BUSH_STRAWBERRY:
+  name: Zemeņu krūms
+  type:
+  - '&7&oKrūms'
+  description: *id001
+CLT_BUSH_SWEETCORN:
+  name: Cukurkukurūzas krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Šis krūms vienkārši lūdzas, lai no tā
+  - uzbūvē labirintu.
+CLT_BUSH_SWEET_POTATO:
+  name: Saldā kartupeļa krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Šis krūms ir tik salds. Dzirdēju, kā tas
+  - tev teica komplimentus, kamēr tu neklausījies.
+CLT_BUSH_TARRAGON:
+  name: Estragona krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Šim krūmam nepatīk piesaistīt pārāk daudz uzmanības.
+CLT_BUSH_THYME:
+  name: Timiāna krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Šim krūmam vienmēr pietrūkst... timiāna... tas ir, laika... *klep*
+CLT_BUSH_TOMATO:
+  name: Tomāta krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Nogatavojies un gatavs.
+CLT_BUSH_TURMERIC:
+  name: Kurkumas krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Garšvielu vēsma iesitas degunā, jau tikai
+  - turot šo krūmu.
+CLT_BUSH_TURNIP:
+  name: Rāceņa krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Saskaņā ar Lielbritānijas valdību
+  - šis krūms atrisinās visas mūsu problēmas.
+CLT_BUSH_VANILLA:
+  name: Vaniļas krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Šis krūms savvaļā aug pie StarBucks kafejnīcām.
+CLT_BUSH_WASABI:
+  name: Vasabi krūms
+  type:
+  - '&7&oKrūms'
+  description:
+  - Vēl viena sakne, kas aug uz krūma?
+  - Nopūta...
+CLT_CABBAGE:
+  name: Kāposts
+  type:
+  - '&7&oRaža'
+  description:
+  - Kāpostu bagāža.
+CLT_CAESAR_SALAD:
+  name: Cēzara salāti
+  type:
+  - '&7&oĒdiens'
+  description:
+  - Veselīga klasika.
+  stats:
+  - '&8⇨ &7Dziedināšana: &b6 sirdis'
+  - '&8⇨ &bĀtrums I &7(10:00)'
+  - '&8⇨ &bNeredzamība I &7(10:00)'
+  - '&8⇨ &bLēnā krišana I &7(10:00)'
+CLT_CAJUN_GARLIC_BUTTER_COD:
+  name: Kadžūnu menca ķiploku sviestā
+  type:
+  - '&7&oĒdiens'
+  description:
+  - Ļoti vienkāršs ēdiens, kas plīst no garšas.
+  stats:
+  - '&8⇨ &7Dziedināšana: &b4 sirdis'
+  - '&8⇨ &bReģenerācija II &7(10:00)'
+  - '&8⇨ &bĀtrums I &7(10:00)'
+CLT_CAULIFLOWER:
+  name: Ziedkāposts
+  type:
+  - '&7&oRaža'
+  description:
+  - Pārnēsājams mākonis!
+CLT_CAYENNE_PEPPER:
+  name: Kajēnas pipars
+  type:
+  - '&7&oRaža'
+  description:
+  - Maigs, ass gardums.
+CLT_CELERIAC:
+  name: Sakņu selerija
+  type:
+  - '&7&oRaža'
+  description:
+  - Sātīga sakne, kas sakņojas (hehe) daudzās
+  - tradicionālās receptēs.
+CLT_CELERY:
+  name: Selerija
+  type:
+  - '&7&oRaža'
+  description:
+  - Burtiski tikai šķiedrains ūdens. Pārliecini
+  - mani par pretējo.
+CLT_CHEESE_BURGER:
+  name: Burgers
+  type:
+  - '&7&oĒdiens'
+  description:
+  - Vienkāršs siera burgers, bet nekas to nepārspēj!
+  stats:
+  - '&8⇨ &7Dziedināšana: &b4 sirdis'
+  - '&8⇨ &bReģenerācija III &7(10:00)'
+CLT_CHEESY_SCALLOPED_COURGETTE:
+  name: Ar sieru gratinēti cukini
+  type:
+  - '&7&oĒdiens'
+  description:
+  - Brīnišķīgas klasikas versija ar maz ogļhidrātu.
+  stats:
+  - '&8⇨ &7Dziedināšana: &b2 sirdis'
+  - '&8⇨ &bNakts redze I &7(10:00)'
+  - '&8⇨ &bNeredzamība I &7(10:00)'
+CLT_CHERRY:
+  name: Ķirsis
+  type:
+  - '&7&oRaža'
+  description:
+  - Ak, es domāju, ka tie aug jau glazēti, žēl!
+CLT_CHESTNUT:
+  name: Kastanis
+  type:
+  - '&7&oRaža'
+  description:
+  - Radīts tam, lai to tūlīt pat izceptu.
+CLT_CHICKEN_ALFREDO_MAC_AND_CHEESE:
+  name: Vistas Alfredo makaroni ar sieru
+  type:
+  - '&7&oĒdiens'
+  description:
+  - Smalks pavērsiens ierastai klasikai.
+  stats:
+  - '&8⇨ &7Dziedināšana: &b1 sirds'
+  - '&8⇨ &bUguns noturība II &7(10:00)'
+  - '&8⇨ &bNoturība III &7(10:00)'
+CLT_CHICKEN_PASTA_BAKE:
+  name: Vistas makaronu sacepums
+  type:
+  - '&7&oĒdiens'
+  description:
+  - Studentu pamatēdiens.
+  stats:
+  - '&8⇨ &7Dziedināšana: &b5 sirdis'
+  - '&8⇨ &bNakts redze I &7(10:00)'
+  - '&8⇨ &bZemūdens elpošana I &7(10:00)'
+CLT_CHICKEN_POT_PIE:
+  name: Vistas pīrāgs
+  type:
+  - '&7&oĒdiens'
+  description:
+  - Sildoša maltīte, pēc kuras jūties kā mājās.
+  stats:
+  - '&8⇨ &7Dziedināšana: &b10 sirdis'
+  - '&8⇨ &bLēciena pastiprinājums II &7(10:00)'
+  - '&8⇨ &bPiesātinājums I &7(10:00)'
+CLT_CHICKPEAS:
+  name: Aunazirņi
+  type:
+  - '&7&oRaža'
+  description:
+  - Melnacainie zirņi prot nodziedāt dziesmu, aunazirņi to var tikai humusēt.
+CLT_CHICORY:
+  name: Cigoriņš
+  type:
+  - '&7&oRaža'
+  description:
+  - Riekstaina, rūgta sakne.
+CLT_CHILLY_PEPPER:
+  name: Čili pipars
+  type:
+  - '&7&oRaža'
+  description:
+  - Es varu apēst veselu piparu neraudot.
+  - Nu, pusi.
+  - NUUUU.... 1/4
+  - '...'
+  - Labi, es varu tam pieskarties ar mēli
+CLT_CHIVES:
+  name: Maurloki
+  type:
+  - '&7&oRaža'
+  description:
+  - Salds garšaugs ar sīpolu garšu.
+CLT_CHOPPED_APPLE:
+  name: Sakapāts ābols
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_APRICOT:
+  name: Sakapāta aprikoze
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_ARTICHOKE:
+  name: Sakapāts artišoks
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_ASPARAGUS:
+  name: Sakapāts sparģelis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_AUBERGINE:
+  name: Sakapāts baklažāns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_AVOCADO:
+  name: Sakapāts avokado
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_BANANA:
+  name: Sakapāts banāns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_BASIL:
+  name: Sakapāts baziliks
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_BAY_LEAF:
+  name: Sakapāta lauru lapa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_BEEF:
+  name: Sakapāta liellopa gaļa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_BEETROOT:
+  name: Sakapāta biete
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_BELL_PEPPER:
+  name: Sakapāta paprika
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_BLACK_BEANS:
+  name: Sakapātas melnās pupiņas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_BREAD:
+  name: Sakapāta maize
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_BROCCOLI:
+  name: Sakapāts brokolis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_BROWN_MUSHROOM:
+  name: Sakapāta brūna sēne
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_BRUSSELS_SPROUTS:
+  name: Sakapāti rožu kāposti
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_CABBAGE:
+  name: Sakapāts kāposts
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_CARROT:
+  name: Sakapāts burkāns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_CAULIFLOWER:
+  name: Sakapāts ziedkāposts
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_CAYENNE_PEPPER:
+  name: Sakapāts kajēnas pipars
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_CELERIAC:
+  name: Sakapāta sakņu selerija
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_CELERY:
+  name: Sakapāta selerija
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_CHERRY:
+  name: Sakapāts ķirsis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_CHESTNUT:
+  name: Sakapāts kastanis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_CHICKEN:
+  name: Sakapāta vista
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_CHICKPEAS:
+  name: Sakapāti aunazirņi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_CHICORY:
+  name: Sakapāts cigoriņš
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_CHILLY_PEPPER:
+  name: Sakapāts čili pipars
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_CHIVES:
+  name: Sakapāti maurloki
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_CHORUS_FRUIT:
+  name: Sakapāts kora auglis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_CILANTRO:
+  name: Sakapāts koriandrs
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_CINNAMON:
+  name: Sakapāts kanēlis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_CLOVE:
+  name: Sakapāta krustnagliņa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_COCOA_BEANS:
+  name: Sakapātas kakao pupiņas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_COD:
+  name: Sakapāta menca
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_COURGETTE:
+  name: Sakapāts cukini
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_CUCUMBER:
+  name: Sakapāts gurķis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_CUMIN:
+  name: Sakapāts kumīns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_CURRY_LEAF:
+  name: Sakapāta karija lapa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_DILL:
+  name: Sakapātas dilles
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_EGG:
+  name: Sakapāta ola
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_ENCHANTED_GOLDEN_APPLE:
+  name: Sakapāts uzlabots zelta ābols
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_FENNEL:
+  name: Sakapāts fenhelis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_GARLIC:
+  name: Sakapāts ķiploks
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_GINGER:
+  name: Sakapāts ingvers
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_GLOW_BERRIES:
+  name: Sakapātas spīdošās ogas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_GOLDEN_APPLE:
+  name: Sakapāts zelta ābols
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_GOLDEN_CARROT:
+  name: Sakapāts zelta burkāns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_GRAPE:
+  name: Sakapāta vīnoga
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_GREEN_APPLE:
+  name: Sakapāts zaļais ābols
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_GREEN_BEANS:
+  name: Sakapātas zaļās pupiņas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_GREEN_ONION:
+  name: Sakapāts zaļais sīpols
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_HAZELNUT:
+  name: Sakapāts lazdu rieksts
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_HORSERADISH:
+  name: Sakapāts mārrutks
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_JALAPENO:
+  name: Sakapāts halapenjo pipars
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_JASMINE:
+  name: Sakapāts jasmīns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_JUNIPER_BERRY:
+  name: Sakapātas kadiķogas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_KAFFIR_LIME:
+  name: Sakapāta kafrlaima lapa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_KALE:
+  name: Sakapāts lapu kāposts
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_KELP:
+  name: Sakapāta brūnaļģe
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_KIWI:
+  name: Sakapāts kivi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_LAVENDER:
+  name: Sakapāta lavanda
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_LEEK:
+  name: Sakapāts puravs
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_LEMON:
+  name: Sakapāts citrons
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_LETTUCE:
+  name: Sakapāti salāti
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_LICORICE:
+  name: Sakapāta lakrica
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_LIME:
+  name: Sakapāts laims
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_MACE:
+  name: Sakapāti muskatziedi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_MANGO:
+  name: Sakapāts mango
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_MARJORAM:
+  name: Sakapāts majorāns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_MARROW:
+  name: Sakapāts kabacis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_MELON:
+  name: Sakapāts arbūzs
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_MINT:
+  name: Sakapāta piparmētra
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_MUSTARD_SEEDS:
+  name: Sakapāti sinepju graudi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_MUTTON:
+  name: Sakapāta aitas gaļa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_NETTLES:
+  name: Sakapātas nātres
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_OKRA:
+  name: Sakapāta okra
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_ONION:
+  name: Sakapāts sīpols
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_ORANGE:
+  name: Sakapāts apelsīns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_OREGANO:
+  name: Sakapāts oregano
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_PARSLEY:
+  name: Sakapāti pētersīļi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_PARSNIP:
+  name: Sakapāts pastinaks
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_PEA:
+  name: Sakapāti zirņi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_PEACH:
+  name: Sakapāts persiks
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_PEANUT:
+  name: Sakapāts zemesrieksts
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_PEAR:
+  name: Sakapāts bumbieris
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_PECAN:
+  name: Sakapāts pekanrieksts
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_PEPPER:
+  name: Sakapāti melnie pipari
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_PEPPERONI:
+  name: Sakapāta peperoni desa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_PINEAPPLE:
+  name: Sakapāts ananass
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_PINTO_BEANS:
+  name: Sakapātas pinto pupiņas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_PORKCHOP:
+  name: Sakapāta cūkgaļas karbonāde
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_POTATO:
+  name: Sakapāts kartupelis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_PUFFERFISH:
+  name: Sakapāta pūšļa zivs
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_PUMPKIN:
+  name: Sakapāts ķirbis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_RABBIT:
+  name: Sakapāts trusis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_RADDISH:
+  name: Sakapāts redīss
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_RADICCHIO:
+  name: Sakapāts radičo
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_RAPESEED:
+  name: Sakapāts rapsis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_RED_MUSHROOM:
+  name: Sakapāta sarkana sēne
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_RHUBARB:
+  name: Sakapāts rabarbers
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_RICE:
+  name: Sakapāti rīsi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_ROSEMARY:
+  name: Sakapāts rozmarīns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_ROTTEN_FLESH:
+  name: Sakapāta sapuvusi gaļa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_RUNNER_BEANS:
+  name: Sakapātas daudzziedu pupiņas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_RUTABAGA:
+  name: Sakapāts kālis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_SALMON:
+  name: Sakapāts lasis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_SASSAFRAS:
+  name: Sakapāts sasafrass
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_SHALLOT:
+  name: Sakapāts šalotsīpols
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_SHISO:
+  name: Sakapāts šiso
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_SOY_BEANS:
+  name: Sakapātas sojas pupiņas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_SPINACH:
+  name: Sakapāti spināti
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_STAR_ANISE:
+  name: Sakapāts zvaigžņu anīss
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_STRAWBERRY:
+  name: Sakapāta zemene
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_SUGAR:
+  name: Sakapāts cukurs
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_SWEETCORN:
+  name: Sakapāta cukurkukurūza
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_SWEET_BERRIES:
+  name: Sakapātas saldās ogas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_SWEET_POTATO:
+  name: Sakapāts saldais kartupelis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_TARRAGON:
+  name: Sakapāts estragons
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_THYME:
+  name: Sakapāts timiāns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_TOMATO:
+  name: Sakapāts tomāts
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_TURMERIC:
+  name: Sakapāta kurkuma
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_TURNIP:
+  name: Sakapāts rācenis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_VANILLA:
+  name: Sakapāta vaniļa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_WASABI:
+  name: Sakapāts vasabi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CHOPPED_WHEAT:
+  name: Sakapāti kvieši
+  type:
+  - '&7&oBlakusprodukts'
+CLT_CILANTRO:
+  name: Koriandrs
+  type:
+  - '&7&oRaža'
+  description:
+  - Maiga garšviela ar citrusu noti.
+CLT_CINNAMON:
+  name: Kanēlis
+  type:
+  - '&7&oRaža'
+  description:
+  - Lieliski košļāt, kamēr tas ir standziņā.
+CLT_CINNAMON_ROLL:
+  name: Kanēļmaizīte
+  type:
+  - '&7&oĒdiens'
+  description:
+  - Salds gardums, sarullēts prieka pēc.
+  - To ēdot, pasaule apgriežas kājām gaisā!
+  stats:
+  - '&8⇨ &7Dziedināšana: &b4 sirdis'
+  - '&8⇨ &bLevitācija I &7(10:00)'
+  - '&8⇨ &bLēnā krišana I &7(10:00)'
+CLT_CLOVE:
+  name: Krustnagliņa
+  type:
+  - '&7&oRaža'
+  description:
+  - Ļoti silta un intensīva garša.
+CLT_COMPRESSED_BISCUIT:
+  name: Saspiests cepums
+  type:
+  - '&7&oĒdiens'
+  description:
+  - Maza uzkoda ar vēl milzīgāku garšu.
+  stats: *id002
+CLT_COOKED_BURGER_PATTY:
+  name: Cepta burgera kotlete
+  type:
+  - '&7&oRaža'
+  description:
+  - Praktiski pil
+CLT_COUNTER_BLENDER:
+  name: Virtuves galds (Blenderis)
+  type:
+  - '&7&oIekārta'
+  description:
+  - Ar labo klikšķi uz šī bloka blenderē ražu.
+  usage: &id003
+  - Padoms! Kad bloks novietots, vari nospiest shift + labo
+  - klikšķi, un bloks(-i), ko turi rokā,
+  - mainīs virtuves dizainu. Izmēģini!
+CLT_COUNTER_BOILING:
+  name: Virtuves galds (Vārīšanas katls)
+  type:
+  - '&7&oIekārta'
+  description:
+  - Var vārīt noteiktas lietas.
+  usage: *id003
+CLT_COUNTER_CHOPPING:
+  name: Virtuves galds (Kapājamais dēlis)
+  type:
+  - '&7&oIekārta'
+  description:
+  - Ar labo klikšķi uz šī bloka kapā ražu.
+  usage: *id003
+CLT_COUNTER_FINISHING:
+  name: Virtuves galds (Pabeigšana)
+  type:
+  - '&7&oIekārta'
+  description:
+  - Izmanto, lai no produktiem/blakusproduktiem izgatavotu
+  - citus blakusproduktus vai gatavus ēdienus.
+  usage: *id003
+CLT_COUNTER_FRYING:
+  name: Virtuves galds (Panna)
+  type:
+  - '&7&oIekārta'
+  description:
+  - Var cept noteiktu ražu.
+  usage: *id003
+CLT_COUNTER_GRILL:
+  name: Virtuves galds (Grils)
+  type:
+  - '&7&oIekārta'
+  description:
+  - Var grilēt noteiktu ražu.
+  usage: *id003
+CLT_COUNTER_GRINDER:
+  name: Virtuves galds (Piesta un grūdenis malšanai)
+  type:
+  - '&7&oIekārta'
+  description:
+  - Ar labo klikšķi uz šī bloka maļ ražu.
+  usage: *id003
+CLT_COUNTER_MASHER:
+  name: Virtuves galds (Grūšanas bļoda)
+  type:
+  - '&7&oIekārta'
+  description:
+  - Ar labo klikšķi uz šī bloka grūd ražu.
+  usage: *id003
+CLT_COUNTER_NOTHING:
+  name: Virtuves galds (Tukšs)
+  type:
+  - '&7&oIekārta'
+  description:
+  - Tikai dekorācijai!
+  usage: *id003
+CLT_COUNTER_OVEN:
+  name: Virtuves galds (Cepeškrāsns)
+  type:
+  - '&7&oIekārta'
+  description:
+  - Var cept cepeškrāsnī noteiktu ražu.
+  usage: *id003
+CLT_COUNTER_SLICING:
+  name: Virtuves galds (Griešanas dēlis)
+  type:
+  - '&7&oIekārta'
+  description:
+  - Ar labo klikšķi uz šī bloka griez ražu šķēlēs.
+  usage: *id003
+CLT_COURGETTE:
+  name: Cukini
+  type:
+  - '&7&oRaža'
+  description:
+  - 'Padoms: Sarīvē šo jebkurā makaronu mērcē'
+  - dziļumam un tekstūrai.
+CLT_CREAM_CHEESE:
+  name: Krēmsiers
+  type:
+  - '&7&oRaža'
+  description:
+  - Vairāk krēmīgs nekā sierains.
+CLT_CROP_STICKS:
+  name: Kultūraugu mietiņi
+  type:
+  - '&7&oRīks'
+  description:
+  - Kultūraugu mietiņi jānovieto uz
+  - iestādītas sēklas, lai tā augtu.
+  - Novietojot otru komplektu, augs tiks
+  - krustots, ļaujot tam izplatīties un/vai
+  - vairoties.
+CLT_CUCUMBER:
+  name: Gurķis
+  type:
+  - '&7&oRaža'
+  description:
+  - Ūdens zaļā čaulā, pierādi, ka
+  - kļūdos.
+CLT_CUMIN:
+  name: Kumīns
+  type:
+  - '&7&oRaža'
+  description:
+  - Silts augs ar citrusu smaržu.
+CLT_CURRY_LEAF:
+  name: Karija lapa
+  type:
+  - '&7&oRaža'
+  description:
+  - Tik daudzu brīnišķīgu ēdienu pamats.
+CLT_DILL:
+  name: Dilles
+  type:
+  - '&7&oRaža'
+  description:
+  - Man garšo vienkārši pēc zāles. Kāpēc
+  - cilvēkiem tas patīk?
+CLT_DOUGH:
+  name: Mīkla
+  type:
+  - '&7&oRaža'
+  description:
+  - Vienkārši parasta mīkla!
+CLT_EGG_SALAD:
+  name: Olu salāti
+  type:
+  - '&7&oRaža'
+  description:
+  - Atver šo vilcienā, ja uzdrošinies!
+CLT_EGG_SALAD_SANDWICH:
+  name: Olu salātu sviestmaize
+  type:
+  - '&7&oĒdiens'
+  description:
+  - Mazliet smird, bet garšo lieliski!
+  stats: &id006
+  - '&8⇨ &7Dziedināšana: &b10 sirdis'
+  - '&8⇨ &bReģenerācija II &7(10:00)'
+CLT_FENNEL:
+  name: Fenhelis
+  type:
+  - '&7&oRaža'
+  description:
+  - Kā anīsa un lakricas sajaukums.
+CLT_FRIED_APPLE:
+  name: Cepts ābols
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_APRICOT:
+  name: Cepta aprikoze
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_ARTICHOKE:
+  name: Cepts artišoks
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_ASPARAGUS:
+  name: Cepts sparģelis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_AUBERGINE:
+  name: Cepts baklažāns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_AVOCADO:
+  name: Cepts avokado
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_BANANA:
+  name: Cepts banāns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_BASIL:
+  name: Cepts baziliks
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_BAY_LEAF:
+  name: Cepta lauru lapa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_BEEF:
+  name: Cepta liellopa gaļa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_BEETROOT:
+  name: Cepta biete
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_BELL_PEPPER:
+  name: Cepta paprika
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_BLACK_BEANS:
+  name: Ceptas melnās pupiņas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_BREAD:
+  name: Cepta maize
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_BROCCOLI:
+  name: Cepts brokolis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_BROWN_MUSHROOM:
+  name: Cepta brūna sēne
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_BRUSSELS_SPROUTS:
+  name: Cepti rožu kāposti
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_CABBAGE:
+  name: Cepts kāposts
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_CARROT:
+  name: Cepts burkāns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_CAULIFLOWER:
+  name: Cepts ziedkāposts
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_CAYENNE_PEPPER:
+  name: Cepts kajēnas pipars
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_CELERIAC:
+  name: Cepta sakņu selerija
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_CELERY:
+  name: Cepta selerija
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_CHERRY:
+  name: Cepts ķirsis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_CHESTNUT:
+  name: Cepts kastanis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_CHICKEN:
+  name: Cepta vista
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_CHICKPEAS:
+  name: Cepti aunazirņi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_CHICORY:
+  name: Cepts cigoriņš
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_CHILLY_PEPPER:
+  name: Cepts čili pipars
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_CHIVES:
+  name: Cepti maurloki
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_CHORUS_FRUIT:
+  name: Cepts kora auglis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_CILANTRO:
+  name: Cepts koriandrs
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_CINNAMON:
+  name: Cepts kanēlis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_CLOVE:
+  name: Cepta krustnagliņa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_COCOA_BEANS:
+  name: Ceptas kakao pupiņas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_COD:
+  name: Cepta menca
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_COURGETTE:
+  name: Cepts cukini
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_CUCUMBER:
+  name: Cepts gurķis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_CUMIN:
+  name: Cepts kumīns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_CURRY_LEAF:
+  name: Cepta karija lapa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_DILL:
+  name: Ceptas dilles
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_EGG:
+  name: Cepta ola
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_ENCHANTED_GOLDEN_APPLE:
+  name: Cepts uzlabots zelta ābols
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_FENNEL:
+  name: Cepts fenhelis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_GARLIC:
+  name: Cepts ķiploks
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_GINGER:
+  name: Cepts ingvers
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_GLOW_BERRIES:
+  name: Ceptas spīdošās ogas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_GOLDEN_APPLE:
+  name: Cepts zelta ābols
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_GOLDEN_CARROT:
+  name: Cepts zelta burkāns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_GRAPE:
+  name: Cepta vīnoga
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_GREEN_APPLE:
+  name: Cepts zaļais ābols
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_GREEN_BEANS:
+  name: Ceptas zaļās pupiņas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_GREEN_ONION:
+  name: Cepts zaļais sīpols
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_HAZELNUT:
+  name: Cepts lazdu rieksts
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_HORSERADISH:
+  name: Cepts mārrutks
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_JALAPENO:
+  name: Cepts halapenjo pipars
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_JASMINE:
+  name: Cepts jasmīns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_JUNIPER_BERRY:
+  name: Ceptas kadiķogas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_KAFFIR_LIME:
+  name: Cepta kafrlaima lapa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_KALE:
+  name: Cepts lapu kāposts
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_KELP:
+  name: Cepta brūnaļģe
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_KIWI:
+  name: Cepts kivi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_LAVENDER:
+  name: Cepta lavanda
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_LEEK:
+  name: Cepts puravs
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_LEMON:
+  name: Cepts citrons
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_LETTUCE:
+  name: Cepti salāti
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_LICORICE:
+  name: Cepta lakrica
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_LIME:
+  name: Cepts laims
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_MACE:
+  name: Cepti muskatziedi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_MANGO:
+  name: Cepts mango
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_MARJORAM:
+  name: Cepts majorāns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_MARROW:
+  name: Cepts kabacis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_MELON:
+  name: Cepts arbūzs
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_MINT:
+  name: Cepta piparmētra
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_MUSTARD_SEEDS:
+  name: Cepti sinepju graudi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_MUTTON:
+  name: Cepta aitas gaļa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_NETTLES:
+  name: Ceptas nātres
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_OKRA:
+  name: Cepta okra
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_ONION:
+  name: Cepts sīpols
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_ORANGE:
+  name: Cepts apelsīns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_OREGANO:
+  name: Cepts oregano
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_PARSLEY:
+  name: Cepti pētersīļi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_PARSNIP:
+  name: Cepts pastinaks
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_PEA:
+  name: Cepti zirņi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_PEACH:
+  name: Cepts persiks
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_PEANUT:
+  name: Cepts zemesrieksts
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_PEAR:
+  name: Cepts bumbieris
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_PECAN:
+  name: Cepts pekanrieksts
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_PEPPER:
+  name: Cepti melnie pipari
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_PEPPERONI:
+  name: Cepta peperoni desa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_PINEAPPLE:
+  name: Cepts ananass
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_PINTO_BEANS:
+  name: Ceptas pinto pupiņas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_PORKCHOP:
+  name: Cepta cūkgaļas karbonāde
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_POTATO:
+  name: Cepts kartupelis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_PUFFERFISH:
+  name: Cepta pūšļa zivs
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_PUMPKIN:
+  name: Cepts ķirbis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_RABBIT:
+  name: Cepts trusis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_RADDISH:
+  name: Cepts redīss
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_RADICCHIO:
+  name: Cepts radičo
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_RAPESEED:
+  name: Cepts rapsis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_RED_MUSHROOM:
+  name: Cepta sarkana sēne
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_RHUBARB:
+  name: Cepts rabarbers
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_RICE:
+  name: Cepti rīsi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_ROSEMARY:
+  name: Cepts rozmarīns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_ROTTEN_FLESH:
+  name: Cepta sapuvusi gaļa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_RUNNER_BEANS:
+  name: Ceptas daudzziedu pupiņas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_RUTABAGA:
+  name: Cepts kālis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_SALMON:
+  name: Cepts lasis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_SASSAFRAS:
+  name: Cepts sasafrass
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_SHALLOT:
+  name: Cepts šalotsīpols
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_SHISO:
+  name: Cepts šiso
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_SOY_BEANS:
+  name: Ceptas sojas pupiņas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_SPINACH:
+  name: Cepti spināti
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_STAR_ANISE:
+  name: Cepts zvaigžņu anīss
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_STRAWBERRY:
+  name: Cepta zemene
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_SUGAR:
+  name: Cepts cukurs
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_SWEETCORN:
+  name: Cepta cukurkukurūza
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_SWEET_BERRIES:
+  name: Ceptas saldās ogas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_SWEET_POTATO:
+  name: Cepts saldais kartupelis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_TARRAGON:
+  name: Cepts estragons
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_THYME:
+  name: Cepts timiāns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_TOMATO:
+  name: Cepts tomāts
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_TURMERIC:
+  name: Cepta kurkuma
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_TURNIP:
+  name: Cepts rācenis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_VANILLA:
+  name: Cepta vaniļa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_WASABI:
+  name: Cepts vasabi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRIED_WHEAT:
+  name: Cepti kvieši
+  type:
+  - '&7&oBlakusprodukts'
+CLT_FRUIT_SALAD:
+  name: Augļu salāti
+  type:
+  - '&7&oĒdiens'
+  description:
+  - Ja to sauc par salātiem, vari ēst, cik
+  - vien gribi, jo tas taču ir veselīgi.
+  stats:
+  - '&8⇨ &7Dziedināšana: &b6 sirdis'
+  - '&8⇨ &bĀtrums III &7(10:00)'
+CLT_FUGU:
+  name: Fugu
+  type:
+  - '&7&oĒdiens'
+  description:
+  - Gatavs mest kauliņus?
+  stats:
+  - '&8⇨ &7Dziedināšana: &b1 sirds'
+  - '&8⇨ &bSpēks V &7(10:00)'
+  - '&8⇨ &733% iespēja vienkārši nomirt!'
+CLT_GARDEN_CLOCHE:
+  name: Dārza stikla kupols
+  type:
+  - '&7&oIekārta'
+  description:
+  - Automātiski audzē augus sevī.
+  stats:
+  - '&8⇨ &7Enerģija tikā: &b100'
+CLT_GARLIC:
+  name: Ķiploks
+  type:
+  - '&7&oRaža'
+  description:
+  - Ātri, pirms ieradušies vampīri!
+CLT_GARLIC_BUTTER_MUSHROOMS:
+  name: Sēnes ķiploku sviestā
+  type:
+  - '&7&oĒdiens'
+  description:
+  - Iespējams, labākais ēdiens uz zemes.
+  stats:
+  - '&8⇨ &7Dziedināšana: &b2 sirdis'
+  - '&8⇨ &bSpīdēsāna I &7(10:00)'
+CLT_GINGER:
+  name: Ingvers
+  type:
+  - '&7&oRaža'
+  description:
+  - Sakapāts ingvers verdošā ūdenī dziedē visas kaites!
+CLT_GRAPE:
+  name: Vīnoga
+  type:
+  - '&7&oRaža'
+  description:
+  - Tik apaļīgas!
+CLT_GRAPE_JELLY:
+  name: Vīnogu želeja
+  type:
+  - '&7&oRaža'
+  description: &id008
+  - Ēst to ar karoti ir noziegums.
+CLT_GREEN_APPLE:
+  name: Zaļais ābols
+  type:
+  - '&7&oRaža'
+  description:
+  - Zīmītē rakstīts... Dārgā skolotāja?
+CLT_GREEN_BEANS:
+  name: Zaļās pupiņas
+  type:
+  - '&7&oRaža'
+  description:
+  - Cik radošs nosaukums!
+CLT_GREEN_ONION:
+  name: Zaļais sīpols
+  type:
+  - '&7&oRaža'
+  description:
+  - Lieliski der pie tako!
+CLT_GRILLED_APPLE:
+  name: Grilēts ābols
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_APRICOT:
+  name: Grilēta aprikoze
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_ARTICHOKE:
+  name: Grilēts artišoks
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_ASPARAGUS:
+  name: Grilēts sparģelis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_AUBERGINE:
+  name: Grilēts baklažāns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_AVOCADO:
+  name: Grilēts avokado
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_BANANA:
+  name: Grilēts banāns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_BASIL:
+  name: Grilēts baziliks
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_BAY_LEAF:
+  name: Grilēta lauru lapa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_BEEF:
+  name: Grilēta liellopa gaļa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_BEETROOT:
+  name: Grilēta biete
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_BELL_PEPPER:
+  name: Grilēta paprika
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_BLACK_BEANS:
+  name: Grilētas melnās pupiņas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_BREAD:
+  name: Grilēta maize
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_BROCCOLI:
+  name: Grilēts brokolis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_BROWN_MUSHROOM:
+  name: Grilēta brūna sēne
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_BRUSSELS_SPROUTS:
+  name: Grilēti rožu kāposti
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_CABBAGE:
+  name: Grilēts kāposts
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_CARROT:
+  name: Grilēts burkāns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_CAULIFLOWER:
+  name: Grilēts ziedkāposts
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_CAYENNE_PEPPER:
+  name: Grilēts kajēnas pipars
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_CELERIAC:
+  name: Grilēta sakņu selerija
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_CELERY:
+  name: Grilēta selerija
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_CHERRY:
+  name: Grilēts ķirsis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_CHESTNUT:
+  name: Grilēts kastanis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_CHICKEN:
+  name: Grilēta vista
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_CHICKPEAS:
+  name: Grilēti aunazirņi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_CHICORY:
+  name: Grilēts cigoriņš
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_CHILLY_PEPPER:
+  name: Grilēts čili pipars
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_CHIVES:
+  name: Grilēti maurloki
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_CHORUS_FRUIT:
+  name: Grilēts kora auglis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_CILANTRO:
+  name: Grilēts koriandrs
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_CINNAMON:
+  name: Grilēts kanēlis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_CLOVE:
+  name: Grilēta krustnagliņa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_COCOA_BEANS:
+  name: Grilētas kakao pupiņas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_COD:
+  name: Grilēta menca
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_COURGETTE:
+  name: Grilēts cukini
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_CUCUMBER:
+  name: Grilēts gurķis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_CUMIN:
+  name: Grilēts kumīns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_CURRY_LEAF:
+  name: Grilēta karija lapa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_DILL:
+  name: Grilētas dilles
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_EGG:
+  name: Grilēta ola
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_ENCHANTED_GOLDEN_APPLE:
+  name: Grilēts uzlabots zelta ābols
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_FENNEL:
+  name: Grilēts fenhelis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_GARLIC:
+  name: Grilēts ķiploks
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_GINGER:
+  name: Grilēts ingvers
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_GLOW_BERRIES:
+  name: Grilētas spīdošās ogas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_GOLDEN_APPLE:
+  name: Grilēts zelta ābols
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_GOLDEN_CARROT:
+  name: Grilēts zelta burkāns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_GRAPE:
+  name: Grilēta vīnoga
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_GREEN_APPLE:
+  name: Grilēts zaļais ābols
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_GREEN_BEANS:
+  name: Grilētas zaļās pupiņas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_GREEN_ONION:
+  name: Grilēts zaļais sīpols
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_HAZELNUT:
+  name: Grilēts lazdu rieksts
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_HORSERADISH:
+  name: Grilēts mārrutks
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_JALAPENO:
+  name: Grilēts halapenjo pipars
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_JASMINE:
+  name: Grilēts jasmīns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_JUNIPER_BERRY:
+  name: Grilētas kadiķogas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_KAFFIR_LIME:
+  name: Grilēta kafrlaima lapa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_KALE:
+  name: Grilēts lapu kāposts
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_KELP:
+  name: Grilēta brūnaļģe
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_KIWI:
+  name: Grilēts kivi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_LAVENDER:
+  name: Grilēta lavanda
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_LEEK:
+  name: Grilēts puravs
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_LEMON:
+  name: Grilēts citrons
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_LETTUCE:
+  name: Grilēti salāti
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_LICORICE:
+  name: Grilēta lakrica
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_LIME:
+  name: Grilēts laims
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_MACE:
+  name: Grilēti muskatziedi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_MANGO:
+  name: Grilēts mango
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_MARJORAM:
+  name: Grilēts majorāns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_MARROW:
+  name: Grilēts kabacis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_MELON:
+  name: Grilēts arbūzs
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_MINT:
+  name: Grilēta piparmētra
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_MUSTARD_SEEDS:
+  name: Grilēti sinepju graudi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_MUTTON:
+  name: Grilēta aitas gaļa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_NETTLES:
+  name: Grilētas nātres
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_OKRA:
+  name: Grilēta okra
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_ONION:
+  name: Grilēts sīpols
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_ORANGE:
+  name: Grilēts apelsīns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_OREGANO:
+  name: Grilēts oregano
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_PARSLEY:
+  name: Grilēti pētersīļi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_PARSNIP:
+  name: Grilēts pastinaks
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_PEA:
+  name: Grilēti zirņi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_PEACH:
+  name: Grilēts persiks
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_PEANUT:
+  name: Grilēts zemesrieksts
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_PEAR:
+  name: Grilēts bumbieris
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_PECAN:
+  name: Grilēts pekanrieksts
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_PEPPER:
+  name: Grilēti melnie pipari
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_PEPPERONI:
+  name: Grilēta peperoni desa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_PINEAPPLE:
+  name: Grilēts ananass
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_PINTO_BEANS:
+  name: Grilētas pinto pupiņas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_PORKCHOP:
+  name: Grilēta cūkgaļas karbonāde
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_POTATO:
+  name: Grilēts kartupelis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_PUFFERFISH:
+  name: Grilēta pūšļa zivs
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_PUMPKIN:
+  name: Grilēts ķirbis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_RABBIT:
+  name: Grilēts trusis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_RADDISH:
+  name: Grilēts redīss
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_RADICCHIO:
+  name: Grilēts radičo
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_RAPESEED:
+  name: Grilēts rapsis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_RED_MUSHROOM:
+  name: Grilēta sarkana sēne
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_RHUBARB:
+  name: Grilēts rabarbers
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_RICE:
+  name: Grilēti rīsi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_ROSEMARY:
+  name: Grilēts rozmarīns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_ROTTEN_FLESH:
+  name: Grilēta sapuvusi gaļa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_RUNNER_BEANS:
+  name: Grilētas daudzziedu pupiņas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_RUTABAGA:
+  name: Grilēts kālis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_SALMON:
+  name: Grilēts lasis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_SALMON_SALAD:
+  name: Grilēti laša salāti
+  type:
+  - '&7&oĒdiens'
+  description:
+  - Apburoši kārtains un lieliski garšvielots.
+  stats:
+  - '&8⇨ &7Dziedināšana: &b4 sirdis'
+  - '&8⇨ &bReģenerācija I &7(10:00)'
+  - '&8⇨ &bVeselības veicināšana V &7(10:00)'
+CLT_GRILLED_SASSAFRAS:
+  name: Grilēts sasafrass
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_SHALLOT:
+  name: Grilēts šalotsīpols
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_SHISO:
+  name: Grilēts šiso
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_SOY_BEANS:
+  name: Grilētas sojas pupiņas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_SPINACH:
+  name: Grilēti spināti
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_STAR_ANISE:
+  name: Grilēts zvaigžņu anīss
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_STRAWBERRY:
+  name: Grilēta zemene
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_SUGAR:
+  name: Grilēts cukurs
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_SWEETCORN:
+  name: Grilēta cukurkukurūza
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_SWEET_BERRIES:
+  name: Grilētas saldās ogas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_SWEET_POTATO:
+  name: Grilēts saldais kartupelis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_TARRAGON:
+  name: Grilēts estragons
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_THYME:
+  name: Grilēts timiāns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_TOMATO:
+  name: Grilēts tomāts
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_TURMERIC:
+  name: Grilēta kurkuma
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_TURNIP:
+  name: Grilēts rācenis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_VANILLA:
+  name: Grilēta vaniļa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_WASABI:
+  name: Grilēts vasabi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GRILLED_WHEAT:
+  name: Grilēti kvieši
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_APPLE:
+  name: Samalts ābols
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_APRICOT:
+  name: Samalta aprikoze
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_ARTICHOKE:
+  name: Samalts artišoks
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_ASPARAGUS:
+  name: Samalts sparģelis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_AUBERGINE:
+  name: Samalts baklažāns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_AVOCADO:
+  name: Samalts avokado
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_BANANA:
+  name: Samalts banāns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_BASIL:
+  name: Samalts baziliks
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_BAY_LEAF:
+  name: Samalta lauru lapa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_BEEF:
+  name: Samalta liellopa gaļa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_BEETROOT:
+  name: Samalta biete
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_BELL_PEPPER:
+  name: Samalta paprika
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_BLACK_BEANS:
+  name: Samaltas melnās pupiņas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_BREAD:
+  name: Samalta maize
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_BROCCOLI:
+  name: Samalts brokolis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_BROWN_MUSHROOM:
+  name: Samalta brūna sēne
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_BRUSSELS_SPROUTS:
+  name: Samalti rožu kāposti
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_CABBAGE:
+  name: Samalts kāposts
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_CARROT:
+  name: Samalts burkāns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_CAULIFLOWER:
+  name: Samalts ziedkāposts
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_CAYENNE_PEPPER:
+  name: Samalts kajēnas pipars
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_CELERIAC:
+  name: Samalta sakņu selerija
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_CELERY:
+  name: Samalta selerija
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_CHERRY:
+  name: Samalts ķirsis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_CHESTNUT:
+  name: Samalts kastanis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_CHICKEN:
+  name: Samalta vista
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_CHICKPEAS:
+  name: Samalti aunazirņi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_CHICORY:
+  name: Samalts cigoriņš
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_CHILLY_PEPPER:
+  name: Samalts čili pipars
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_CHIVES:
+  name: Samalti maurloki
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_CHORUS_FRUIT:
+  name: Samalts kora auglis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_CILANTRO:
+  name: Samalts koriandrs
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_CINNAMON:
+  name: Samalts kanēlis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_CLOVE:
+  name: Samalta krustnagliņa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_COCOA_BEANS:
+  name: Samaltas kakao pupiņas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_COD:
+  name: Samalta menca
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_COURGETTE:
+  name: Samalts cukini
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_CUCUMBER:
+  name: Samalts gurķis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_CUMIN:
+  name: Samalts kumīns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_CURRY_LEAF:
+  name: Samalta karija lapa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_DILL:
+  name: Samaltas dilles
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_EGG:
+  name: Samalta ola
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_ENCHANTED_GOLDEN_APPLE:
+  name: Samalts uzlabots zelta ābols
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_FENNEL:
+  name: Samalts fenhelis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_GARLIC:
+  name: Samalts ķiploks
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_GINGER:
+  name: Samalts ingvers
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_GLOW_BERRIES:
+  name: Samaltas spīdošās ogas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_GOLDEN_APPLE:
+  name: Samalts zelta ābols
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_GOLDEN_CARROT:
+  name: Samalts zelta burkāns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_GRAPE:
+  name: Samalta vīnoga
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_GREEN_APPLE:
+  name: Samalts zaļais ābols
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_GREEN_BEANS:
+  name: Samaltas zaļās pupiņas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_GREEN_ONION:
+  name: Samalts zaļais sīpols
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_HAZELNUT:
+  name: Samalts lazdu rieksts
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_HORSERADISH:
+  name: Samalts mārrutks
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_JALAPENO:
+  name: Samalts halapenjo pipars
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_JASMINE:
+  name: Samalts jasmīns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_JUNIPER_BERRY:
+  name: Samaltas kadiķogas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_KAFFIR_LIME:
+  name: Samalta kafrlaima lapa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_KALE:
+  name: Samalts lapu kāposts
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_KELP:
+  name: Samalta brūnaļģe
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_KIWI:
+  name: Samalts kivi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_LAVENDER:
+  name: Samalta lavanda
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_LEEK:
+  name: Samalts puravs
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_LEMON:
+  name: Samalts citrons
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_LETTUCE:
+  name: Samalti salāti
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_LICORICE:
+  name: Samalta lakrica
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_LIME:
+  name: Samalts laims
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_MACE:
+  name: Samalti muskatziedi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_MANGO:
+  name: Samalts mango
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_MARJORAM:
+  name: Samalts majorāns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_MARROW:
+  name: Samalts kabacis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_MELON:
+  name: Samalts arbūzs
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_MINT:
+  name: Samalta piparmētra
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_MUSTARD_SEEDS:
+  name: Samalti sinepju graudi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_MUTTON:
+  name: Samalta aitas gaļa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_NETTLES:
+  name: Samaltas nātres
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_OKRA:
+  name: Samalta okra
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_ONION:
+  name: Samalts sīpols
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_ORANGE:
+  name: Samalts apelsīns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_OREGANO:
+  name: Samalts oregano
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_PARSLEY:
+  name: Samalti pētersīļi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_PARSNIP:
+  name: Samalts pastinaks
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_PEA:
+  name: Samalti zirņi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_PEACH:
+  name: Samalts persiks
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_PEANUT:
+  name: Samalts zemesrieksts
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_PEAR:
+  name: Samalts bumbieris
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_PECAN:
+  name: Samalts pekanrieksts
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_PEPPER:
+  name: Samalti melnie pipari
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_PEPPERONI:
+  name: Samalta peperoni desa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_PINEAPPLE:
+  name: Samalts ananass
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_PINTO_BEANS:
+  name: Samaltas pinto pupiņas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_PORKCHOP:
+  name: Samalta cūkgaļas karbonāde
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_POTATO:
+  name: Samalts kartupelis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_PUFFERFISH:
+  name: Samalta pūšļa zivs
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_PUMPKIN:
+  name: Samalts ķirbis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_RABBIT:
+  name: Samalts trusis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_RADDISH:
+  name: Samalts redīss
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_RADICCHIO:
+  name: Samalts radičo
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_RAPESEED:
+  name: Samalts rapsis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_RED_MUSHROOM:
+  name: Samalta sarkana sēne
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_RHUBARB:
+  name: Samalts rabarbers
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_RICE:
+  name: Samalti rīsi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_ROSEMARY:
+  name: Samalts rozmarīns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_ROTTEN_FLESH:
+  name: Samalta sapuvusi gaļa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_RUNNER_BEANS:
+  name: Samaltas daudzziedu pupiņas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_RUTABAGA:
+  name: Samalts kālis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_SALMON:
+  name: Samalts lasis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_SASSAFRAS:
+  name: Samalts sasafrass
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_SHALLOT:
+  name: Samalts šalotsīpols
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_SHISO:
+  name: Samalts šiso
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_SOY_BEANS:
+  name: Samaltas sojas pupiņas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_SPINACH:
+  name: Samalti spināti
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_STAR_ANISE:
+  name: Samalts zvaigžņu anīss
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_STRAWBERRY:
+  name: Samalta zemene
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_SUGAR:
+  name: Samalts cukurs
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_SWEETCORN:
+  name: Samalta cukurkukurūza
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_SWEET_BERRIES:
+  name: Samaltas saldās ogas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_SWEET_POTATO:
+  name: Samalts saldais kartupelis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_TARRAGON:
+  name: Samalts estragons
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_THYME:
+  name: Samalts timiāns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_TOMATO:
+  name: Samalts tomāts
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_TURMERIC:
+  name: Samalta kurkuma
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_TURNIP:
+  name: Samalts rācenis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_VANILLA:
+  name: Samalta vaniļa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_WASABI:
+  name: Samalts vasabi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_GROUND_WHEAT:
+  name: Samalti kvieši
+  type:
+  - '&7&oBlakusprodukts'
+CLT_HAZELNUT:
+  name: Lazdu rieksts
+  type:
+  - '&7&oRaža'
+  description:
+  - Dari, ko vajag, lai pārvērstu šo par
+  - kafiju man, tūlīt!
+CLT_HORSERADISH:
+  name: Mārrutks
+  type:
+  - '&7&oRaža'
+  description:
+  - $100, ja iekodīsi tieši tajā.
+CLT_JALAPENO:
+  name: Halapenjo pipars
+  type:
+  - '&7&oRaža'
+  description:
+  - KARSTS KARSTS KARSTS.
+CLT_JASMINE:
+  name: Jasmīns
+  type:
+  - '&7&oRaža'
+  description:
+  - Sanāk brīnišķīga tēja.
+CLT_JUNIPER_BERRY:
+  name: Kadiķogas
+  type:
+  - '&7&oRaža'
+  description:
+  - Izžāvēts līdz piparotai pilnībai.
+CLT_KAFFIR_LIME:
+  name: Kafrlaima lapa
+  type:
+  - '&7&oRaža'
+  description:
+  - Lapa ar varenu svaigumu.
+CLT_KALE:
+  name: Lapu kāposts
+  type:
+  - '&7&oRaža'
+  description:
+  - Palīgā, es esmu 2020. gada smūtiju hipsteris!
+CLT_KETCHUP:
+  name: Kečups
+  type:
+  - '&7&oRaža'
+  description:
+  - Vienkārši tomāti krēmīgā formā.
+CLT_KEY_LIME_PIE:
+  name: Laimu pīrāgs
+  type:
+  - '&7&oĒdiens'
+  description:
+  - Vienkārši labākais!
+  stats:
+  - '&8⇨ &7Dziedināšana: &b6 sirdis'
+  - '&8⇨ &bSteiga IV &7(10:00)'
+CLT_KIWI:
+  name: Kivi
+  type:
+  - '&7&oRaža'
+  description:
+  - Es ieliku šo papildinājumā piespiedu kārtā.
+  - Kivi ir ļauni, un ikviens, kas
+  - tos izmanto, automātiski zaudē
+  - 100 punktus.
+CLT_LASAGNA:
+  name: Lazanja
+  type:
+  - '&7&oĒdiens'
+  description:
+  - Lieliskuma kārtas.
+  stats:
+  - '&8⇨ &7Dziedināšana: &bPilna'
+  - '&8⇨ &bReģenerācija II &7(10:00)'
+  - '&8⇨ &bNoturība II &7(10:00)'
+CLT_LAVENDER:
+  name: Lavanda
+  type:
+  - '&7&oRaža'
+  description:
+  - Smarža, no kuras es lēnām aizslīdu miegā.
+CLT_LEAVES_TREE_APRICOT:
+  name: Aprikožu koka lapas
+  type:
+  - '&7&oLapas'
+CLT_LEAVES_TREE_BANANA:
+  name: Banānu koka lapas
+  type:
+  - '&7&oLapas'
+CLT_LEAVES_TREE_CHERRY:
+  name: Ķiršu koka lapas
+  type:
+  - '&7&oLapas'
+CLT_LEAVES_TREE_CHESTNUT:
+  name: Kastaņu koka lapas
+  type:
+  - '&7&oLapas'
+CLT_LEAVES_TREE_GREEN_APPLE:
+  name: Zaļo ābolu koka lapas
+  type:
+  - '&7&oLapas'
+CLT_LEAVES_TREE_HAZELNUT:
+  name: Lazdu riekstu koka lapas
+  type:
+  - '&7&oLapas'
+CLT_LEAVES_TREE_KIWI:
+  name: Kivi koka lapas
+  type:
+  - '&7&oLapas'
+CLT_LEAVES_TREE_LEMON:
+  name: Citronu koka lapas
+  type:
+  - '&7&oLapas'
+CLT_LEAVES_TREE_LIME:
+  name: Laimu koka lapas
+  type:
+  - '&7&oLapas'
+CLT_LEAVES_TREE_MANGO:
+  name: Mango koka lapas
+  type:
+  - '&7&oLapas'
+CLT_LEAVES_TREE_ORANGE:
+  name: Apelsīnu koka lapas
+  type:
+  - '&7&oLapas'
+CLT_LEAVES_TREE_PEACH:
+  name: Persiku koka lapas
+  type:
+  - '&7&oLapas'
+CLT_LEAVES_TREE_PEAR:
+  name: Bumbieru koka lapas
+  type:
+  - '&7&oLapas'
+CLT_LEAVES_TREE_PECAN:
+  name: Pekanriekstu koka lapas
+  type:
+  - '&7&oLapas'
+CLT_LEAVES_TREE_PINEAPPLE:
+  name: Ananasu koka lapas
+  type:
+  - '&7&oLapas'
+CLT_LEEK:
+  name: Puravs
+  type:
+  - '&7&oRaža'
+  description:
+  - Kaut kādu iemeslu dēļ tas pil ar ūdeni?
+  - Varbūt tas ir pārpuravojies?
+CLT_LEMON:
+  name: Citrons
+  type:
+  - '&7&oRaža'
+  description:
+  - Kāpēc tik skāba sejas izteiksme?
+CLT_LEMON_DROP:
+  name: Citronu konfekte
+  type:
+  - '&7&oĒdiens'
+  description:
+  - Garšas kārpiņu atsvaidzinātājs.
+  stats:
+  - '&8⇨ &7Noņem visus efektus un atkal padara tevi izsalkušu.'
+CLT_LETTUCE:
+  name: Salāti
+  type:
+  - '&7&oRaža'
+  description:
+  - Plāni, ūdeņaini un tomēr garšīgi.
+CLT_LICORICE:
+  name: Lakrica
+  type:
+  - '&7&oRaža'
+  description:
+  - Bēdz, bēdz tūlīt!
+CLT_LIME:
+  name: Laims
+  type:
+  - '&7&oRaža'
+  description:
+  - Reiz senos laimos bija garšīgs auglis...
+CLT_MACE:
+  name: Muskatziedi
+  type:
+  - '&7&oRaža'
+  description:
+  - Lieliski izsmidzināms uzbrucējiem acīs.
+  - '...'
+  - Ko nozīmē, tā nav pipargāze?
+CLT_MANGO:
+  name: Mango
+  type:
+  - '&7&oRaža'
+  description:
+  - MAN GO-dīgi jāiet.
+  - Aprakstus rakstīt ir grūti...
+CLT_MARJORAM:
+  name: Majorāns
+  type:
+  - '&7&oRaža'
+  description:
+  - Man ir karija steiga, varam parunāt vēlāk?
+CLT_MARROW:
+  name: Kabacis
+  type:
+  - '&7&oRaža'
+  description:
+  - Vai zināji, ka kabači atrodas tavu
+  - kaulu smadzenēs?
+  - Jā, Sefi Gudrs.
+CLT_MASHED_APPLE:
+  name: Sagrūsts ābols
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_APRICOT:
+  name: Sagrūsta aprikoze
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_ARTICHOKE:
+  name: Sagrūsts artišoks
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_ASPARAGUS:
+  name: Sagrūsts sparģelis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_AUBERGINE:
+  name: Sagrūsts baklažāns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_AVOCADO:
+  name: Sagrūsts avokado
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_BANANA:
+  name: Sagrūsts banāns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_BASIL:
+  name: Sagrūsts baziliks
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_BAY_LEAF:
+  name: Sagrūsta lauru lapa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_BEEF:
+  name: Sagrūsta liellopa gaļa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_BEETROOT:
+  name: Sagrūsta biete
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_BELL_PEPPER:
+  name: Sagrūsta paprika
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_BLACK_BEANS:
+  name: Sagrūstas melnās pupiņas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_BREAD:
+  name: Sagrūsta maize
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_BROCCOLI:
+  name: Sagrūsts brokolis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_BROWN_MUSHROOM:
+  name: Sagrūsta brūna sēne
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_BRUSSELS_SPROUTS:
+  name: Sagrūsti rožu kāposti
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_CABBAGE:
+  name: Sagrūsts kāposts
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_CARROT:
+  name: Sagrūsts burkāns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_CAULIFLOWER:
+  name: Sagrūsts ziedkāposts
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_CAYENNE_PEPPER:
+  name: Sagrūsts kajēnas pipars
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_CELERIAC:
+  name: Sagrūsta sakņu selerija
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_CELERY:
+  name: Sagrūsta selerija
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_CHERRY:
+  name: Sagrūsts ķirsis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_CHESTNUT:
+  name: Sagrūsts kastanis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_CHICKEN:
+  name: Sagrūsta vista
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_CHICKPEAS:
+  name: Sagrūsti aunazirņi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_CHICORY:
+  name: Sagrūsts cigoriņš
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_CHILLY_PEPPER:
+  name: Sagrūsts čili pipars
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_CHIVES:
+  name: Sagrūsti maurloki
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_CHORUS_FRUIT:
+  name: Sagrūsts kora auglis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_CILANTRO:
+  name: Sagrūsts koriandrs
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_CINNAMON:
+  name: Sagrūsts kanēlis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_CLOVE:
+  name: Sagrūsta krustnagliņa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_COCOA_BEANS:
+  name: Sagrūstas kakao pupiņas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_COD:
+  name: Sagrūsta menca
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_COURGETTE:
+  name: Sagrūsts cukini
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_CUCUMBER:
+  name: Sagrūsts gurķis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_CUMIN:
+  name: Sagrūsts kumīns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_CURRY_LEAF:
+  name: Sagrūsta karija lapa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_DILL:
+  name: Sagrūstas dilles
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_EGG:
+  name: Sagrūsta ola
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_ENCHANTED_GOLDEN_APPLE:
+  name: Sagrūsts uzlabots zelta ābols
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_FENNEL:
+  name: Sagrūsts fenhelis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_GARLIC:
+  name: Sagrūsts ķiploks
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_GINGER:
+  name: Sagrūsts ingvers
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_GLOW_BERRIES:
+  name: Sagrūstas spīdošās ogas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_GOLDEN_APPLE:
+  name: Sagrūsts zelta ābols
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_GOLDEN_CARROT:
+  name: Sagrūsts zelta burkāns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_GRAPE:
+  name: Sagrūsta vīnoga
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_GREEN_APPLE:
+  name: Sagrūsts zaļais ābols
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_GREEN_BEANS:
+  name: Sagrūstas zaļās pupiņas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_GREEN_ONION:
+  name: Sagrūsts zaļais sīpols
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_HAZELNUT:
+  name: Sagrūsts lazdu rieksts
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_HORSERADISH:
+  name: Sagrūsts mārrutks
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_JALAPENO:
+  name: Sagrūsts halapenjo pipars
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_JASMINE:
+  name: Sagrūsts jasmīns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_JUNIPER_BERRY:
+  name: Sagrūstas kadiķogas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_KAFFIR_LIME:
+  name: Sagrūsta kafrlaima lapa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_KALE:
+  name: Sagrūsts lapu kāposts
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_KELP:
+  name: Sagrūsta brūnaļģe
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_KIWI:
+  name: Sagrūsts kivi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_LAVENDER:
+  name: Sagrūsta lavanda
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_LEEK:
+  name: Sagrūsts puravs
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_LEMON:
+  name: Sagrūsts citrons
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_LETTUCE:
+  name: Sagrūsti salāti
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_LICORICE:
+  name: Sagrūsta lakrica
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_LIME:
+  name: Sagrūsts laims
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_MACE:
+  name: Sagrūsti muskatziedi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_MANGO:
+  name: Sagrūsts mango
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_MARJORAM:
+  name: Sagrūsts majorāns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_MARROW:
+  name: Sagrūsts kabacis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_MELON:
+  name: Sagrūsts arbūzs
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_MINT:
+  name: Sagrūsta piparmētra
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_MUSTARD_SEEDS:
+  name: Sagrūsti sinepju graudi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_MUTTON:
+  name: Sagrūsta aitas gaļa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_NETTLES:
+  name: Sagrūstas nātres
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_OKRA:
+  name: Sagrūsta okra
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_ONION:
+  name: Sagrūsts sīpols
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_ORANGE:
+  name: Sagrūsts apelsīns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_OREGANO:
+  name: Sagrūsts oregano
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_PARSLEY:
+  name: Sagrūsti pētersīļi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_PARSNIP:
+  name: Sagrūsts pastinaks
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_PEA:
+  name: Sagrūsti zirņi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_PEACH:
+  name: Sagrūsts persiks
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_PEANUT:
+  name: Sagrūsts zemesrieksts
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_PEAR:
+  name: Sagrūsts bumbieris
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_PECAN:
+  name: Sagrūsts pekanrieksts
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_PEPPER:
+  name: Sagrūsti melnie pipari
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_PEPPERONI:
+  name: Sagrūsta peperoni desa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_PINEAPPLE:
+  name: Sagrūsts ananass
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_PINTO_BEANS:
+  name: Sagrūstas pinto pupiņas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_PORKCHOP:
+  name: Sagrūsta cūkgaļas karbonāde
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_POTATO:
+  name: Sagrūsts kartupelis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_PUFFERFISH:
+  name: Sagrūsta pūšļa zivs
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_PUMPKIN:
+  name: Sagrūsts ķirbis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_RABBIT:
+  name: Sagrūsts trusis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_RADDISH:
+  name: Sagrūsts redīss
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_RADICCHIO:
+  name: Sagrūsts radičo
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_RAPESEED:
+  name: Sagrūsts rapsis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_RED_MUSHROOM:
+  name: Sagrūsta sarkana sēne
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_RHUBARB:
+  name: Sagrūsts rabarbers
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_RICE:
+  name: Sagrūsti rīsi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_ROSEMARY:
+  name: Sagrūsts rozmarīns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_ROTTEN_FLESH:
+  name: Sagrūsta sapuvusi gaļa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_RUNNER_BEANS:
+  name: Sagrūstas daudzziedu pupiņas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_RUTABAGA:
+  name: Sagrūsts kālis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_SALMON:
+  name: Sagrūsts lasis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_SASSAFRAS:
+  name: Sagrūsts sasafrass
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_SHALLOT:
+  name: Sagrūsts šalotsīpols
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_SHISO:
+  name: Sagrūsts šiso
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_SOY_BEANS:
+  name: Sagrūstas sojas pupiņas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_SPINACH:
+  name: Sagrūsti spināti
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_STAR_ANISE:
+  name: Sagrūsts zvaigžņu anīss
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_STRAWBERRY:
+  name: Sagrūsta zemene
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_SUGAR:
+  name: Sagrūsts cukurs
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_SWEETCORN:
+  name: Sagrūsta cukurkukurūza
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_SWEET_BERRIES:
+  name: Sagrūstas saldās ogas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_SWEET_POTATO:
+  name: Sagrūsts saldais kartupelis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_TARRAGON:
+  name: Sagrūsts estragons
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_THYME:
+  name: Sagrūsts timiāns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_TOMATO:
+  name: Sagrūsts tomāts
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_TURMERIC:
+  name: Sagrūsta kurkuma
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_TURNIP:
+  name: Sagrūsts rācenis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_VANILLA:
+  name: Sagrūsta vaniļa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_WASABI:
+  name: Sagrūsts vasabi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MASHED_WHEAT:
+  name: Sagrūsti kvieši
+  type:
+  - '&7&oBlakusprodukts'
+CLT_MAYONNAISE:
+  name: Majonēze
+  type:
+  - '&7&oRaža'
+  description:
+  - Zīdaini gluda majonēze, kas der gandrīz pie visa.
+CLT_MEATBALLS:
+  name: Gaļas bumbiņas
+  type:
+  - '&7&oRaža'
+  description:
+  - Gaļas bumbas, kurš gan to būtu domājis.
+CLT_MEATLOAF:
+  name: Gaļas klaips
+  type:
+  - '&7&oĒdiens'
+  description:
+  - Nekā tamlīdzīga! Aiziet.
+  stats:
+  - '&8⇨ &7Dziedināšana: &bPilna'
+  - '&8⇨ &bVeselības veicināšana IV &7(10:00)'
+  - '&8⇨ &bNoturība III &7(10:00)'
+  - '&8⇨ &bSteiga II &7(10:00)'
+  - '&8⇨ &bLēnums II &7(10:00)'
+CLT_MINT:
+  name: Piparmētra
+  type:
+  - '&7&oRaža'
+  description:
+  - Košļā, košļā, košļā.
+CLT_MUSTARD:
+  name: Sinepes
+  type:
+  - '&7&oRaža'
+  description:
+  - Tam ir neliels asums!
+CLT_MUSTARD_SEEDS:
+  name: Sinepju sēklas
+  type:
+  - '&7&oRaža'
+  description:
+  - Sakošļā tās, ja uzdrošinies!
+CLT_NETTLES:
+  name: Nātres
+  type:
+  - '&7&oRaža'
+  description:
+  - Lūdzu, uzvelc cimdus, pirms tās ņem rokā.
+CLT_OKRA:
+  name: Okra
+  type:
+  - '&7&oRaža'
+  description:
+  - Daudz audzē Okra-homā... vai ne, VAI NE?
+CLT_ONION:
+  name: Sīpols
+  type:
+  - '&7&oRaža'
+  description:
+  - Pagaidi, kāpēc tu raudi?
+CLT_ORANGE:
+  name: Apelsīns
+  type:
+  - '&7&oRaža'
+  description:
+  - Vai tam nevajadzētu būt mehāniskam?
+CLT_ORANGE_JUICE:
+  name: Apelsīnu sula
+  type:
+  - '&7&oĒdiens'
+  description:
+  - Tas tiešām ir labākais veids, kā sākt dienu.
+  stats:
+  - '&8⇨ &bĀtrums IV &7(10:00)'
+CLT_OREGANO:
+  name: Oregano
+  type:
+  - '&7&oRaža'
+  description:
+  - Klasisks virtuves skapīša garšaugs.
+CLT_PARSLEY:
+  name: Pētersīļi
+  type:
+  - '&7&oRaža'
+  description:
+  - Sliktākais. Garšaugs. Jebkad.
+CLT_PARSNIP:
+  name: Pastinaks
+  type:
+  - '&7&oRaža'
+  description:
+  - Nekavējoties jācep.
+CLT_PASTA:
+  name: Makaroni
+  type:
+  - '&7&oRaža'
+  description:
+  - Vienkārši parasti makaroni, vienkārši, tomēr brīnišķīgi.
+CLT_PEA:
+  name: Zirņi
+  type:
+  - '&7&oRaža'
+  description:
+  - Bieži atrodami pa pāriem pākstī, vai tā vismaz runā.
+CLT_PEACH:
+  name: Persiks
+  type:
+  - '&7&oRaža'
+  description:
+  - Par emocijzīmi mēs nerunājam
+CLT_PEANUT:
+  name: Zemesrieksts
+  type:
+  - '&7&oRaža'
+  description:
+  - Reece's, es nāku!
+CLT_PEANUT_BUTTER:
+  name: Zemesriekstu sviests
+  type:
+  - '&7&oRaža'
+  description:
+  - Līdzinās vienīgi šķidram zeltam.
+CLT_PEANUT_BUTTER_JELLY_SANDWICH:
+  name: Zemesriekstu sviesta un želejas sviestmaize
+  type:
+  - '&7&oĒdiens'
+  description:
+  - Tā tiešām ir sviestmaižu tehnoloģiju virsotne.
+  stats:
+  - '&8⇨ &7Dziedināšana: &b5 sirdis'
+  - '&8⇨ &bSpēks III &7(10:00)'
+CLT_PEAR:
+  name: Bumbieris
+  type:
+  - '&7&oRaža'
+  description:
+  - Vai tev nešķiet, ka tas izskatās bumbierlieliski?
+CLT_PECAN:
+  name: Pekanrieksts
+  type:
+  - '&7&oRaža'
+  description:
+  - Vienkārši lūdzas, lai no tā izceptu pīrāgu.
+CLT_PECAN_PIE:
+  name: Pekanriekstu pīrāgs
+  type:
+  - '&7&oĒdiens'
+  description:
+  - Vienīgais veids, kā ēst tīru cukuru tā,
+  - lai neviens tevi par to nenosodītu.
+  stats:
+  - '&8⇨ &7Dziedināšana: &b4 sirdis'
+  - '&8⇨ &bLevitācija I &7(10:00)'
+CLT_PEPPER:
+  name: Melnie pipari
+  type:
+  - '&7&oRaža'
+  description:
+  - Asāks par sāli.
+CLT_PEPPERONI:
+  name: Peperoni desa
+  type:
+  - '&7&oRaža'
+  description:
+  - Es bez problēmām varētu apēst veselu šādu desas baļķi.
+CLT_PICO_DE_GALLO:
+  name: Pico de Gallo
+  type:
+  - '&7&oRaža'
+  description:
+  - Maiga salsa, pilna tīras garšības.
+CLT_PIE_CRUST:
+  name: Pīrāga garoza
+  type:
+  - '&7&oRaža'
+  description:
+  - Ja būtu likumīgi to ēst vienu pašu,
+  - tas būtu mans galvenais pārtikas avots.
+CLT_PINEAPPLE:
+  name: Ananass
+  type:
+  - '&7&oRaža'
+  description:
+  - Tam ir jābūt uz katras picas pasaulē.
+  - Gribi par to pastrīdēties!?
+CLT_PINTO_BEANS:
+  name: Pinto pupiņas
+  type:
+  - '&7&oRaža'
+  description:
+  - Kačing! Ir burito laiks.
+CLT_PIZZA_CHEESE:
+  name: Siera pica
+  type:
+  - '&7&oĒdiens'
+  description:
+  - Kāpēc kāds pasūtītu tikai sieru? Nezinu.
+  stats:
+  - '&8⇨ &7Dziedināšana: &b4 sirdis'
+  - '&8⇨ &bLēnums I &7(10:00)'
+CLT_PIZZA_MUSHROOM:
+  name: Sēņu pica
+  type:
+  - '&7&oĒdiens'
+  description:
+  - Vienkārša veģetārā pica, pilna ar proteīniem.
+  stats:
+  - '&8⇨ &7Dziedināšana: &b6 sirdis'
+  - '&8⇨ &bLēnums I &7(10:00)'
+  - '&8⇨ &bSteiga II &7(10:00)'
+CLT_PIZZA_PEPPERONI:
+  name: Peperoni pica
+  type:
+  - '&7&oĒdiens'
+  description:
+  - Ņujorkas klasika, pilna ar garšu.
+  stats:
+  - '&8⇨ &7Dziedināšana: &b6 sirdis'
+  - '&8⇨ &bĀtrums I &7(10:00)'
+  - '&8⇨ &bSteiga I &7(10:00)'
+  - '&8⇨ &bLēciena pastiprinājums I &7(10:00)'
+CLT_PLANT_AIR:
+  name: Pirmatnējā gaisa augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Augs, kas klusi dūc līdzi
+  - apkārtējās dabas melodijai.
+  - '&ePirmatnējie augi neražo priekšmetus'
+  - '&eun ir paredzēti tikai krustošanai.'
+CLT_PLANT_AMETHYST:
+  name: Ametista augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Šim augam patīk zelt dziļās, tumšās
+  - vietās.
+CLT_PLANT_ANALYSER:
+  name: Augu analizators
+  type:
+  - '&7&oRīks'
+  description:
+  - Ļoti vienkāršs rīks, kas ļauj
+  - apskatīt augoša auga datus
+  usage:
+  - '&eLabais klikšķis&7: Parāda auga sugu un augšanas datus.'
+  - '&eShift + labais klikšķis&7: Parāda auga vai krūma nosaukumu.'
+CLT_PLANT_BASALT:
+  name: Bazalta augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Ļoti garlaicīgs un blāvs augs.
+CLT_PLANT_BEE:
+  name: Bites augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Augs ar ļoti maziem, trausliem spārniņiem.
+CLT_PLANT_BLACKSTONE:
+  name: Melnakmens augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Augs, par kuru zināms, ka tas absorbē gaismu.
+CLT_PLANT_BLAZE:
+  name: Liesmekļa augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Augs, kas ir apdedzis gar malām.
+CLT_PLANT_CHICKEN:
+  name: Vistas augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Baumo, ka, turot šo sēklu
+  - virs galvas un lecot no
+  - augstas vietas, tu slīdēsi, nevis
+  - kritīsi.
+CLT_PLANT_CLAY:
+  name: Māla augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Šo augu var brīvi veidot un pārveidot.
+  - Tomēr tas nenozīmē, ka tā darīt ir
+  - laba doma!
+CLT_PLANT_COAL:
+  name: Ogļu augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Augs ar tik lielu potenciālu.
+CLT_PLANT_COBBLESTONE:
+  name: Bruģakmens augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Šis augs ir ciets kā akmens.
+CLT_PLANT_CONCRETE:
+  name: Betona augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Šim augam ir grūti augt, jo tas
+  - tik ātri sacietē.
+CLT_PLANT_COW:
+  name: Govs augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Ja pieliksi šo sēklu pie auss
+  - un ļoti uzmanīgi klausīsies, dzirdēsi
+  - pa laikam kādu "mū".
+CLT_PLANT_CREEPER:
+  name: Creeper augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Tsssssssssttt...
+CLT_PLANT_DARKNESS:
+  name: Pirmatnējās tumsas augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Augs, kas vārās nevaldāmās
+  - dusmās.
+  - '&ePirmatnējie augi neražo priekšmetus'
+  - '&eun ir paredzēti tikai krustošanai.'
+CLT_PLANT_DARK_FLORA:
+  name: Tumšās floras augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Šajā vienkāršajā sēklā mīt kluss ļaunums.
+CLT_PLANT_DARK_GRASS:
+  name: Tumšās zāles augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Augs, kas tiešām ir zaudējis savu
+  - identitāti.
+CLT_PLANT_DEEPSLATE:
+  name: Dziļslānekļa augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Dziļš, slānains, <ievieto aprakstu šeit>.
+CLT_PLANT_DIAMOND:
+  name: Dimanta augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Augs, kas vienkārši vēsta par bagātību.
+CLT_PLANT_DIM_LIT:
+  name: Blāvās gaismas augs
+  type:
+  - '&7&oAugs'
+  description:
+  - No šīs sēklas plūst ļoti blāva gaisma.
+CLT_PLANT_DIRT:
+  name: Zemes augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Netīrs virspusē, bet glabā
+  - pašas dzīvības celtniecības blokus.
+CLT_PLANT_DROWNED:
+  name: Slīkoņa augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Augs, kas ir slapjš visu
+  - laiku.
+CLT_PLANT_DUSTY:
+  name: Putekļu augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Šim augam vajag īpašu aprūpi, pat neliela
+  - stiprāka vēja brāzma var likt tam sabirt
+  - putekļos.
+CLT_PLANT_EARTH:
+  name: Pirmatnējās zemes augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Augs, kas bagātina pasauli
+  - sev apkārt.
+  - '&ePirmatnējie augi neražo priekšmetus'
+  - '&eun ir paredzēti tikai krustošanai.'
+CLT_PLANT_ECHO:
+  name: Atbalss augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Šis augs vienmēr zina, kā atrast
+  - ceļu uz mājām.
+CLT_PLANT_ELDER_GUARDIAN:
+  name: Vecākā sarga augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Atrodoties šī auga tuvumā, cilvēki kļūst
+  - gausi.
+CLT_PLANT_EMERALD:
+  name: Smaragda augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Šī auga īpašniekiem jāpārvar daudz
+  - šķēršļu, lai vispār varētu to atļauties.
+CLT_PLANT_ENDERMAN:
+  name: Enderman augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Ja ar to neapietas uzmanīgi, šis augs
+  - var nejauši teleportēties!
+CLT_PLANT_ENDER_DRAGON:
+  name: Ender pūķa augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Īsts boss augu pasaulē.
+CLT_PLANT_END_STONE:
+  name: End akmens augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Augs, kas dūc līdz ar tukšumu.
+CLT_PLANT_FIRE:
+  name: Pirmatnējās uguns augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Augs, kas sniedz gan
+  - iznīcības avotus, gan
+  - atdzimšanu.
+  - '&ePirmatnējie augi neražo priekšmetus'
+  - '&eun ir paredzēti tikai krustošanai.'
+CLT_PLANT_FISH:
+  name: Zivs augs
+  type:
+  - '&7&oAugs'
+  description:
+  - No šīs sēklas nāk pamatīga smaka.
+CLT_PLANT_FLOWER:
+  name: Ziedu augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Skaists, labi pasniegts pārpilnības rags.
+CLT_PLANT_FROG:
+  name: Vardes augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Kvak!
+CLT_PLANT_GHAST:
+  name: Ghast augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Augs, par kuru zināms, ka tas
+  - nejauši šauj uguns bumbas.
+CLT_PLANT_GLASS:
+  name: Stikla augs
+  type:
+  - '&7&oAugs'
+  description:
+  - No pareizā leņķa varētu
+  - zvērēt, ka redzi cauri šim augam.
+CLT_PLANT_GLAZED:
+  name: Glazūras augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Augs, kas aug ar sarežģītu rakstu.
+CLT_PLANT_GLOWING_VINE:
+  name: Spīdošā vīteņa augs
+  type:
+  - '&7&oAugs'
+  description:
+  - No šīs sēklas plūst vāja gaisma.
+CLT_PLANT_GLOW_SQUID:
+  name: Spīdošā kalmāra augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Mirdzošs augs ar vāju spīdumu.
+CLT_PLANT_GOAT:
+  name: Kazas augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Neprognozējami vardarbīgs augs, kam patīk
+  - lēkāt apkārt.
+CLT_PLANT_GRASS:
+  name: Zāles augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Plaukstoša dzīvība, kas izlaužas
+  - no zemes.
+CLT_PLANT_GRAVEL:
+  name: Grants augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Šis augs tiešām nezina, kā
+  - saturēt sevi kopā.
+CLT_PLANT_GUARDIAN:
+  name: Sarga augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Kad tam pieskaras, šis augs izšauj
+  - dzeloņus.
+CLT_PLANT_IGNEOUS:
+  name: Vulkāna augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Šis augs radies karstuma un
+  - spiediena ietekmē. Neskaties uz mani tā! Visi
+  - šie augu apraksti ir pilnīgi loģiski.
+CLT_PLANT_LAPIS:
+  name: Lazurīta augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Augs ar vāju maģisku auru.
+CLT_PLANT_LIGHT:
+  name: Pirmatnējās gaismas augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Augs, kas izstaro tīras
+  - mīlestības auru.
+  - '&ePirmatnējie augi neražo priekšmetus'
+  - '&eun ir paredzēti tikai krustošanai.'
+CLT_PLANT_MAGMA:
+  name: Magmas augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Augs, kas ir tik karsts, ka apdedzina
+  - savu apkārtni.
+CLT_PLANT_MAGMA_CUBE:
+  name: Magmas kuba augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Kad neviens neskatās, šim augam
+  - patīk lēkāt augšā un lejā.
+CLT_PLANT_MOSS:
+  name: Sūnu augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Šim augam ir tieksme nekontrolējami izplatīties.
+CLT_PLANT_MUD:
+  name: Dubļu augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Augs, kas ir gandrīz tikpat netīrs kā
+  - zeme, no kuras tas nāk.
+CLT_PLANT_MUSHROOM:
+  name: Sēņu augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Jā, augs, kas taisa sēnes.
+  - Te viss ir pilnīgi normāli.
+CLT_PLANT_NETHERRACK:
+  name: Netherrack augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Izturīgs, nepretenciozs augs, kas spēj izdzīvot
+  - vairumā vietu.
+CLT_PLANT_NETHER_QUARTZ:
+  name: Nether kvarca augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Šim augam ir tik asi ērkšķi, ka
+  - ar to ir grūti strādāt.
+CLT_PLANT_PHANTOM:
+  name: Fantoma augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Augs ar debesīs paceltām lapām.
+CLT_PLANT_PIG:
+  name: Cūkas augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Augs, kas pēkšņi rukšķ.
+CLT_PLANT_POWER:
+  name: Pirmatnējā spēka augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Augs, kas burtiski izstaro spēku.
+  - '&ePirmatnējie augi neražo priekšmetus'
+  - '&eun ir paredzēti tikai krustošanai.'
+CLT_PLANT_PURPUR:
+  name: Purpura augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Dīvains augs, šķiet daudz vieglāks
+  - nekā vairums citu.
+CLT_PLANT_RABBIT:
+  name: Truša augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Kukaiņi būtu lepni.
+CLT_PLANT_RAINBOW:
+  name: Varavīksnes augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Var būt, ka šī auga galā ir
+  - zelta pods, bet var arī nebūt.
+CLT_PLANT_RAW_COPPER:
+  name: Neapstrādāta vara augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Ja to atstāj vienu, šis augs dažkārt
+  - pievelk zibeni.
+CLT_PLANT_RAW_GOLD:
+  name: Neapstrādāta zelta augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Piglini bieži nozog šo augu,
+  - ja ir tuvumā.
+CLT_PLANT_RAW_IRON:
+  name: Neapstrādātas dzelzs augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Stabils augs, kas spēj izturēt vairumu
+  - vides apstākļu.
+CLT_PLANT_REDSTONE:
+  name: Sarkanakmens augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Augs, kas līdz pēdējai šūnai pilns ar enerģiju.
+CLT_PLANT_RED_SAND:
+  name: Sarkano smilšu augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Šis augs dažkārt var sabirt
+  - no viena pieskāriena, bet... sarkanāk.
+CLT_PLANT_REINFORCED:
+  name: Bruņu augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Augs, kas spēj noturēties
+  - pret jebko.
+CLT_PLANT_SAND:
+  name: Smilšu augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Šis augs dažkārt var sabirt
+  - no viena pieskāriena.
+CLT_PLANT_SAPLING:
+  name: Stādu augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Šim augam pat nav nekādas jēgas...
+CLT_PLANT_SCRAPPY:
+  name: Lūžņu augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Šis augs patiešām ir
+  - dārzkopības virsotne.
+CLT_PLANT_SHEEP:
+  name: Aitas augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Augs ar raupju, vilnainu tekstūru.
+CLT_PLANT_SHULKER:
+  name: Shulker augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Augs, kas bieži levitē virs
+  - zemes.
+CLT_PLANT_SKELETON:
+  name: Skeleta augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Augs, kas šūpojoties grab.
+CLT_PLANT_SLIME:
+  name: Gļotu augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Kāpēc tas ir tik lipīgs?
+CLT_PLANT_SOUL:
+  name: Dvēseļu augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Augs, kura kliedzienus var dzirdēt,
+  - kad apkārt valda klusums.
+CLT_PLANT_SPECTRUM:
+  name: Pirmatnējā spektra augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Augs, kas nedaudz maina savu krāsu.
+  - '&ePirmatnējie augi neražo priekšmetus'
+  - '&eun ir paredzēti tikai krustošanai.'
+CLT_PLANT_SPIDER:
+  name: Zirnekļa augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Nogalini to, nogalini TŪLĪT!
+CLT_PLANT_SQUID:
+  name: Kalmāra augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Uzmanies, jau pieskaroties šim augam,
+  - ir iespēja, ka tas izšļāks tinti pa visu
+  - apkārtni.
+CLT_PLANT_STAINED:
+  name: Krāsu augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Šis augs sadala gaismu īstā
+  - spektrā uz tuvākajiem objektiem.
+CLT_PLANT_TERRA:
+  name: Terras augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Ciets, zemes augs, kas plaisā zem spiediena.
+CLT_PLANT_TURTLE:
+  name: Bruņurupuča augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Sēkla akmenscietā čaulā.
+CLT_PLANT_VILLAGER:
+  name: Ciemata iedzīvotāja augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Jā, mēs iebiezinājām ciemata iedzīvotāja būtību
+  - augā. Izrādās, tas ļoti sāpēja.
+CLT_PLANT_VINE:
+  name: Vīteņa augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Augs, kas uzreiz sapinas
+  - pats sevī.
+CLT_PLANT_WATER:
+  name: Pirmatnējā ūdens augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Augs, kas lolo un sniedz
+  - dzīvību apkārtnei.
+  - '&ePirmatnējie augi neražo priekšmetus'
+  - '&eun ir paredzēti tikai krustošanai.'
+CLT_PLANT_WAXY:
+  name: Vaska augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Šī auga sula sacietē
+  - perfektā sveces formas vaskā.
+CLT_PLANT_WEALTH:
+  name: Pirmatnējās bagātības augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Augs, kas vienkārši kliedz pēc pārpilnīgas bagātības.
+  - '&ePirmatnējie augi neražo priekšmetus'
+  - '&eun ir paredzēti tikai krustošanai.'
+CLT_PLANT_WITCH:
+  name: Raganas augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Augs, kas izklausās tā, it kā klusi
+  - murminātu buramvārdus.
+CLT_PLANT_WITHER:
+  name: Wither augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Nāvējošs augs, ar kuru jāapietas
+  - uzmanīgi.
+CLT_PLANT_WITHER_ROSE:
+  name: Wither rozes augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Šis augs kaut kādā veidā izstaro kaitīgu
+  - auru ap sevi.
+CLT_PLANT_WITHER_SKELETON:
+  name: Wither skeleta augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Augs, kas zināms kā netverams un izturīgs.
+CLT_PLANT_WOOLLY:
+  name: Vilnas augs
+  type:
+  - '&7&oAugs'
+  description:
+  - Vilnains augs, no saknes līdz ziedlapiņām!
+CLT_PLANT_ZOMBIE:
+  name: Zombija augs
+  type:
+  - '&7&oAugs'
+  description:
+  - No šī auga pil... kaut kas...
+CLT_RADDISH:
+  name: Redīss
+  type:
+  - '&7&oRaža'
+  description:
+  - Mazas svaigas, kraukšķīgas saules kabatiņas.
+CLT_RADICCHIO:
+  name: Radičo
+  type:
+  - '&7&oRaža'
+  description:
+  - Visu šo aprakstu rakstīšana prasa tik daudz laika.
+  - Tas ir radičulozi.
+CLT_RAMEN_BEEF:
+  name: Liellopa gaļas ramens
+  type:
+  - '&7&oĒdiens'
+  description:
+  - Ne pārāk veselīga izvēle.
+  stats: &id004
+  - '&8⇨ &bVeselības veicināšana I &7(10:00)'
+CLT_RAMEN_BEEF_HEARTY:
+  name: Sātīgs liellopa gaļas ramens
+  type:
+  - '&7&oĒdiens'
+  description:
+  - Veselīga izvēle.
+  stats: &id005
+  - '&8⇨ &7Dziedināšana: &bPilna'
+  - '&8⇨ &bVeselības veicināšana II &7(10:00)'
+  - '&8⇨ &bĀtrums I &7(10:00)'
+CLT_RAMEN_CHICKEN:
+  name: Vistas ramens
+  type:
+  - '&7&oĒdiens'
+  description:
+  - Ne pārāk sātīga izvēle.
+  stats: *id004
+CLT_RAMEN_CHICKEN_HEARTY:
+  name: Sātīgs vistas ramens
+  type:
+  - '&7&oĒdiens'
+  description:
+  - Sātīga izvēle.
+  stats: *id005
+CLT_RAMEN_SEAFOOD:
+  name: Jūras velšu ramens
+  type:
+  - '&7&oĒdiens'
+  description:
+  - Ne pārāk apmierinoša izvēle.
+  stats: *id004
+CLT_RAMEN_SEAFOOD_HEARTY:
+  name: Sātīgs jūras velšu ramens
+  type:
+  - '&7&oĒdiens'
+  description:
+  - Apmierinoša izvēle.
+  stats: *id005
+CLT_RAPESEED:
+  name: Rapsis
+  type:
+  - '&7&oRaža'
+  description:
+  - Bieži izmanto eļļu ražošanai.
+CLT_RECIPE_UNLOCK:
+  name: Cultivation zināšanu tīstoklis
+  type:
+  - '&7&oRīks'
+  description:
+  - Ar labo klikšķi apgūsti Cultivation
+  - krustošanas recepti.
+CLT_RHUBARB:
+  name: Rabarbers
+  type:
+  - '&7&oRaža'
+  description:
+  - Tikai neaizmirsti noņemt lapas!
+CLT_RICE:
+  name: Rīsi
+  type:
+  - '&7&oRaža'
+  description:
+  - Atceries, dzīvo tikai vienu rīsi!
+CLT_ROSEMARY:
+  name: Rozmarīns
+  type:
+  - '&7&oRaža'
+  description:
+  - Bieži nokavē timiānu.
+CLT_RUNNER_BEANS:
+  name: Daudzziedu pupiņas
+  type:
+  - '&7&oRaža'
+  description:
+  - Vienmēr cenšas aizbēgt.
+CLT_RUTABAGA:
+  name: Kālis
+  type:
+  - '&7&oRaža'
+  description:
+  - Tiešām sāp to nesaukt par zviedru rāceni.
+CLT_SALMON_NIGIRI:
+  name: Laša nigiri
+  type:
+  - '&7&oĒdiens'
+  description:
+  - Apburoša, tomēr smalka garša.
+  stats:
+  - '&8⇨ &7Dziedināšana: &b2 sirdis'
+  - '&8⇨ &bReģenerācija I &7(10:00)'
+CLT_SASSAFRAS:
+  name: Sasafrass
+  type:
+  - '&7&oRaža'
+  description:
+  - Ēdams sakņu alus, nopietni, pagūglē
+  - to, es tagad to pērku visu laiku.
+CLT_SAUSAGE:
+  name: Desa
+  type:
+  - '&7&oĒdiens'
+  description:
+  - Bekona brālis.
+  stats: &id007
+  - '&8⇨ &7Dziedināšana: &b1 sirds'
+CLT_SEED_PACK:
+  name: Sēklu paciņa
+  type:
+  - '&7&oRīks'
+  description:
+  - Ar labo klikšķi atver šo paciņu.
+  stats:
+  - '&8⇨ &7Iestatīts: &bNekas'
+CLT_SHAKSHUKA:
+  name: Šakšuka
+  type:
+  - '&7&oĒdiens'
+  description:
+  - Sirdi sildošs ēdiens ar olām bez gala.
+  stats:
+  - '&8⇨ &7Dziedināšana: &b4 sirdis'
+  - '&8⇨ &bCiema Varonis I &7(10:00)'
+  - '&8⇨ &bVeiksme I &7(10:00)'
+CLT_SHALLOT:
+  name: Šalotsīpols
+  type:
+  - '&7&oRaža'
+  description:
+  - Šalotes man nekad nav par daudz.
+CLT_SHEPHERDS_PIE:
+  name: Ganu pīrāgs
+  type:
+  - '&7&oĒdiens'
+  description:
+  - Silts, sātīgs un vienkārši brīnišķīgs.
+  stats: *id006
+CLT_SHISO:
+  name: Šiso
+  type:
+  - '&7&oRaža'
+  description:
+  - Piparmētra ar mīlestības piedevu.
+CLT_SLICED_APPLE:
+  name: Šķēlēs sagriezts ābols
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_APRICOT:
+  name: Šķēlēs sagriezta aprikoze
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_ARTICHOKE:
+  name: Šķēlēs sagriezts artišoks
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_ASPARAGUS:
+  name: Šķēlēs sagriezts sparģelis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_AUBERGINE:
+  name: Šķēlēs sagriezts baklažāns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_AVOCADO:
+  name: Šķēlēs sagriezts avokado
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_BANANA:
+  name: Šķēlēs sagriezts banāns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_BASIL:
+  name: Šķēlēs sagriezts baziliks
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_BAY_LEAF:
+  name: Šķēlēs sagriezta lauru lapa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_BEEF:
+  name: Šķēlēs sagriezta liellopa gaļa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_BEETROOT:
+  name: Šķēlēs sagriezta biete
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_BELL_PEPPER:
+  name: Šķēlēs sagriezta paprika
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_BLACK_BEANS:
+  name: Šķēlēs sagrieztas melnās pupiņas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_BREAD:
+  name: Šķēlēs sagriezta maize
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_BROCCOLI:
+  name: Šķēlēs sagriezts brokolis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_BROWN_MUSHROOM:
+  name: Šķēlēs sagriezta brūna sēne
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_BRUSSELS_SPROUTS:
+  name: Šķēlēs sagriezti rožu kāposti
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_CABBAGE:
+  name: Šķēlēs sagriezts kāposts
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_CARROT:
+  name: Šķēlēs sagriezts burkāns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_CAULIFLOWER:
+  name: Šķēlēs sagriezts ziedkāposts
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_CAYENNE_PEPPER:
+  name: Šķēlēs sagriezts kajēnas pipars
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_CELERIAC:
+  name: Šķēlēs sagriezta sakņu selerija
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_CELERY:
+  name: Šķēlēs sagriezta selerija
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_CHERRY:
+  name: Šķēlēs sagriezts ķirsis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_CHESTNUT:
+  name: Šķēlēs sagriezts kastanis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_CHICKEN:
+  name: Šķēlēs sagriezta vista
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_CHICKPEAS:
+  name: Šķēlēs sagriezti aunazirņi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_CHICORY:
+  name: Šķēlēs sagriezts cigoriņš
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_CHILLY_PEPPER:
+  name: Šķēlēs sagriezts čili pipars
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_CHIVES:
+  name: Šķēlēs sagriezti maurloki
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_CHORUS_FRUIT:
+  name: Šķēlēs sagriezts kora auglis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_CILANTRO:
+  name: Šķēlēs sagriezts koriandrs
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_CINNAMON:
+  name: Šķēlēs sagriezts kanēlis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_CLOVE:
+  name: Šķēlēs sagriezta krustnagliņa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_COCOA_BEANS:
+  name: Šķēlēs sagrieztas kakao pupiņas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_COD:
+  name: Šķēlēs sagriezta menca
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_COURGETTE:
+  name: Šķēlēs sagriezts cukini
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_CUCUMBER:
+  name: Šķēlēs sagriezts gurķis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_CUMIN:
+  name: Šķēlēs sagriezts kumīns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_CURRY_LEAF:
+  name: Šķēlēs sagriezta karija lapa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_DILL:
+  name: Šķēlēs sagrieztas dilles
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_EGG:
+  name: Šķēlēs sagriezta ola
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_ENCHANTED_GOLDEN_APPLE:
+  name: Šķēlēs sagriezts uzlabots zelta ābols
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_FENNEL:
+  name: Šķēlēs sagriezts fenhelis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_GARLIC:
+  name: Šķēlēs sagriezts ķiploks
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_GINGER:
+  name: Šķēlēs sagriezts ingvers
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_GLOW_BERRIES:
+  name: Šķēlēs sagrieztas spīdošās ogas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_GOLDEN_APPLE:
+  name: Šķēlēs sagriezts zelta ābols
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_GOLDEN_CARROT:
+  name: Šķēlēs sagriezts zelta burkāns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_GRAPE:
+  name: Šķēlēs sagriezta vīnoga
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_GREEN_APPLE:
+  name: Šķēlēs sagriezts zaļais ābols
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_GREEN_BEANS:
+  name: Šķēlēs sagrieztas zaļās pupiņas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_GREEN_ONION:
+  name: Šķēlēs sagriezts zaļais sīpols
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_HAZELNUT:
+  name: Šķēlēs sagriezts lazdu rieksts
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_HORSERADISH:
+  name: Šķēlēs sagriezts mārrutks
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_JALAPENO:
+  name: Šķēlēs sagriezts halapenjo pipars
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_JASMINE:
+  name: Šķēlēs sagriezts jasmīns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_JUNIPER_BERRY:
+  name: Šķēlēs sagrieztas kadiķogas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_KAFFIR_LIME:
+  name: Šķēlēs sagriezta kafrlaima lapa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_KALE:
+  name: Šķēlēs sagriezts lapu kāposts
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_KELP:
+  name: Šķēlēs sagriezta brūnaļģe
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_KIWI:
+  name: Šķēlēs sagriezts kivi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_LAVENDER:
+  name: Šķēlēs sagriezta lavanda
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_LEEK:
+  name: Šķēlēs sagriezts puravs
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_LEMON:
+  name: Šķēlēs sagriezts citrons
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_LETTUCE:
+  name: Šķēlēs sagriezti salāti
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_LICORICE:
+  name: Šķēlēs sagriezta lakrica
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_LIME:
+  name: Šķēlēs sagriezts laims
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_MACE:
+  name: Šķēlēs sagriezti muskatziedi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_MANGO:
+  name: Šķēlēs sagriezts mango
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_MARJORAM:
+  name: Šķēlēs sagriezts majorāns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_MARROW:
+  name: Šķēlēs sagriezts kabacis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_MELON:
+  name: Šķēlēs sagriezts arbūzs
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_MINT:
+  name: Šķēlēs sagriezta piparmētra
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_MUSTARD_SEEDS:
+  name: Šķēlēs sagriezti sinepju graudi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_MUTTON:
+  name: Šķēlēs sagriezta aitas gaļa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_NETTLES:
+  name: Šķēlēs sagrieztas nātres
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_OKRA:
+  name: Šķēlēs sagriezta okra
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_ONION:
+  name: Šķēlēs sagriezts sīpols
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_ORANGE:
+  name: Šķēlēs sagriezts apelsīns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_OREGANO:
+  name: Šķēlēs sagriezts oregano
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_PARSLEY:
+  name: Šķēlēs sagriezti pētersīļi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_PARSNIP:
+  name: Šķēlēs sagriezts pastinaks
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_PEA:
+  name: Šķēlēs sagriezti zirņi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_PEACH:
+  name: Šķēlēs sagriezts persiks
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_PEANUT:
+  name: Šķēlēs sagriezts zemesrieksts
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_PEAR:
+  name: Šķēlēs sagriezts bumbieris
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_PECAN:
+  name: Šķēlēs sagriezts pekanrieksts
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_PEPPER:
+  name: Šķēlēs sagriezti melnie pipari
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_PEPPERONI:
+  name: Šķēlēs sagriezta peperoni desa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_PINEAPPLE:
+  name: Šķēlēs sagriezts ananass
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_PINTO_BEANS:
+  name: Šķēlēs sagrieztas pinto pupiņas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_PORKCHOP:
+  name: Šķēlēs sagriezta cūkgaļas karbonāde
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_POTATO:
+  name: Šķēlēs sagriezts kartupelis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_PUFFERFISH:
+  name: Šķēlēs sagriezta pūšļa zivs
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_PUMPKIN:
+  name: Šķēlēs sagriezts ķirbis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_RABBIT:
+  name: Šķēlēs sagriezts trusis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_RADDISH:
+  name: Šķēlēs sagriezts redīss
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_RADICCHIO:
+  name: Šķēlēs sagriezts radičo
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_RAPESEED:
+  name: Šķēlēs sagriezts rapsis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_RED_MUSHROOM:
+  name: Šķēlēs sagriezta sarkana sēne
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_RHUBARB:
+  name: Šķēlēs sagriezts rabarbers
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_RICE:
+  name: Šķēlēs sagriezti rīsi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_ROSEMARY:
+  name: Šķēlēs sagriezts rozmarīns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_ROTTEN_FLESH:
+  name: Šķēlēs sagriezta sapuvusi gaļa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_RUNNER_BEANS:
+  name: Šķēlēs sagrieztas daudzziedu pupiņas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_RUTABAGA:
+  name: Šķēlēs sagriezts kālis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_SALMON:
+  name: Šķēlēs sagriezts lasis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_SASSAFRAS:
+  name: Šķēlēs sagriezts sasafrass
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_SHALLOT:
+  name: Šķēlēs sagriezts šalotsīpols
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_SHISO:
+  name: Šķēlēs sagriezts šiso
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_SOY_BEANS:
+  name: Šķēlēs sagrieztas sojas pupiņas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_SPINACH:
+  name: Šķēlēs sagriezti spināti
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_STAR_ANISE:
+  name: Šķēlēs sagriezts zvaigžņu anīss
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_STRAWBERRY:
+  name: Šķēlēs sagriezta zemene
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_SUGAR:
+  name: Šķēlēs sagriezts cukurs
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_SWEETCORN:
+  name: Šķēlēs sagriezta cukurkukurūza
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_SWEET_BERRIES:
+  name: Šķēlēs sagrieztas saldās ogas
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_SWEET_POTATO:
+  name: Šķēlēs sagriezts saldais kartupelis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_TARRAGON:
+  name: Šķēlēs sagriezts estragons
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_THYME:
+  name: Šķēlēs sagriezts timiāns
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_TOMATO:
+  name: Šķēlēs sagriezts tomāts
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_TURMERIC:
+  name: Šķēlēs sagriezta kurkuma
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_TURNIP:
+  name: Šķēlēs sagriezts rācenis
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_VANILLA:
+  name: Šķēlēs sagriezta vaniļa
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_WASABI:
+  name: Šķēlēs sagriezts vasabi
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SLICED_WHEAT:
+  name: Šķēlēs sagriezti kvieši
+  type:
+  - '&7&oBlakusprodukts'
+CLT_SOFT_BOILED_EGG:
+  name: Mīksti vārīta ola
+  type:
+  - '&7&oĒdiens'
+  description:
+  - Vienkārši vārīta ola, ko gan vairāk teikt.
+  stats:
+  - '&8⇨ &7Dziedināšana: &b1 sirds'
+  - '&8⇨ &7Dažkārt var pasaukt tev palīgā vistu.'
+CLT_SOYLENT:
+  name: Soylent
+  type:
+  - '&7&oĒdiens'
+  description:
+  - Viss, kas ķermenim vajadzīgs!
+  stats:
+  - '&8⇨ &bSlikta vēsts I &7(10:00)'
+  - '&8⇨ &bVājums IV &7(10:00)'
+CLT_SOY_BEANS:
+  name: Sojas pupiņas
+  type:
+  - '&7&oRaža'
+  description:
+  - Nāk sojas piens.
+CLT_SPAGHETTI:
+  name: Spageti
+  type:
+  - '&7&oĒdiens'
+  description:
+  - Tikai turpini srēbt.
+  stats: *id007
+CLT_SPAGHETTI_AND_MEATBALLS:
+  name: Spageti ar gaļas bumbiņām
+  type:
+  - '&7&oĒdiens'
+  description:
+  - Vienkāršs, klasisks un sātīgs.
+  stats:
+  - '&8⇨ &7Dziedināšana: &b1 sirds'
+  - '&8⇨ &bSlikta vēsts I &7(10:00)'
+CLT_SPINACH:
+  name: Spināti
+  type:
+  - '&7&oRaža'
+  description:
+  - Ar mīlestību apvītināts.
+CLT_STAR_ANISE:
+  name: Zvaigžņu anīss
+  type:
+  - '&7&oRaža'
+  description:
+  - Viena no labākajām un unikālākajām garšām.
+CLT_STRAWBERRY:
+  name: Zemene
+  type:
+  - '&7&oRaža'
+  description:
+  - Tikai pievieno putukrējumu!
+CLT_STRAWBERRY_JELLY:
+  name: Zemeņu želeja
+  type:
+  - '&7&oRaža'
+  description: *id008
+CLT_SUGARED_SKULL:
+  name: Cukurots galvaskauss
+  type:
+  - '&7&oĒdiens'
+  description:
+  - Vai tas vispār ir ēdiens...?
+  stats:
+  - '&8⇨ &bTumsa III &7(10:00)'
+CLT_SWEETCORN:
+  name: Cukurkukurūza
+  type:
+  - '&7&oRaža'
+  description:
+  - Iespējams, labākais dārzenis pasaulē.
+CLT_SWEET_BEEHIVE:
+  name: Saldais bišu strops
+  type:
+  - '&7&oĒdiens'
+  description:
+  - Nezinu, kas lika tev gribēt šo pagatavot!
+  stats:
+  - '&8⇨ &7Izsauc dažas bites!'
+CLT_SWEET_POTATO:
+  name: Saldais kartupelis
+  type:
+  - '&7&oRaža'
+  description:
+  - Ņam ņam ņam.
+CLT_TAQUITO:
+  name: Takito
+  type:
+  - '&7&oĒdiens'
+  description:
+  - Zims būtu lepns!
+  stats:
+  - '&8⇨ &7Dziedināšana: &b4 sirdis'
+  - '&8⇨ &7Izsauc Giru palīgā (tas ir dzelzs golems, nomierinies).'
+CLT_TARRAGON:
+  name: Estragons
+  type:
+  - '&7&oRaža'
+  description:
+  - Es burtiski lieku šo uz visa.
+  - 'Spoileris: es neesmu labs pavārs.'
+CLT_TATER_TOTS:
+  name: Kartupeļu kroketes
+  type:
+  - '&7&oĒdiens'
+  description:
+  - Mazi kartupeļu kumosiņi.
+  stats:
+  - '&8⇨ &7Dziedināšana: &b0.5 sirds'
+  - '&8⇨ &bĀtrums II &7(10:00)'
+CLT_THYME:
+  name: Timiāns
+  type:
+  - '&7&oRaža'
+  description:
+  - Bieži ilgojas pēc rozmarīna.
+CLT_TOMATO:
+  name: Tomāts
+  type:
+  - '&7&oRaža'
+  description:
+  - Tieši no vīteņa.... ēē... krūma?
+CLT_TORTILLAS:
+  name: Tortiljas
+  type:
+  - '&7&oRaža'
+  description:
+  - Kukurūzas miltu gardumi
+CLT_TREE_APRICOT:
+  name: Aprikožu koks
+  type:
+  - '&7&oStāds'
+  description:
+  - Iekšā ir viens vienīgs izmisuma kauliņš.
+  stats: &id009
+  - '&8⇨ &7Dizains: &bBWhite'
+CLT_TREE_BANANA:
+  name: Banānu koks
+  type:
+  - '&7&oStāds'
+  description:
+  - Koks, kuram aug pirksti, šausmas!
+  stats:
+  - '&8⇨ &7Dizains: &bSefiraat'
+CLT_TREE_CHERRY:
+  name: Ķiršu koks
+  type:
+  - '&7&oStāds'
+  description:
+  - Sasien mezglu!
+  stats:
+  - '&8⇨ &7Dizains: &bReasonFoundDecoy'
+CLT_TREE_CHESTNUT:
+  name: Kastaņu koks
+  type:
+  - '&7&oStāds'
+  description:
+  - Koks, kas acīmredzami radīts, lai tajā kāptu.
+  stats: &id010
+  - '&8⇨ &7Dizains: &bABitOddish'
+CLT_TREE_GREEN_APPLE:
+  name: Zaļo ābolu koks
+  type:
+  - '&7&oStāds'
+  description:
+  - Izaudzē lielus un kraukšķīgus zaļos ābolus.
+  stats: *id009
+CLT_TREE_HAZELNUT:
+  name: Lazdu riekstu koks
+  type:
+  - '&7&oStāds'
+  description:
+  - Šī koka kratīšana ir bērnības izklaide.
+  stats: *id010
+CLT_TREE_KIWI:
+  name: Kivi koks
+  type:
+  - '&7&oStāds'
+  description:
+  - Jaunzēlandes koks? Vai es pareizi sapratu?
+  stats: *id010
+CLT_TREE_LEMON:
+  name: Citronu koks
+  type:
+  - '&7&oStāds'
+  description:
+  - Jau tikai skatoties uz šo koku, mutē kļūst skābi.
+  stats: &id011
+  - '&8⇨ &7Dizains: &bJeff'
+CLT_TREE_LIME:
+  name: Laimu koks
+  type:
+  - '&7&oStāds'
+  description:
+  - Vai zināji, ka laimi ir vienkārši citroni, kas aiztur elpu?
+  stats: *id010
+CLT_TREE_MANGO:
+  name: Mango koks
+  type:
+  - '&7&oStāds'
+  description:
+  - Vislabākais, kad ir pašā briedumā.
+  stats: *id009
+CLT_TREE_ORANGE:
+  name: Apelsīnu koks
+  type:
+  - '&7&oStāds'
+  description:
+  - Mazas saules lodītes.
+  stats: *id011
+CLT_TREE_PEACH:
+  name: Persiku koks
+  type:
+  - '&7&oStāds'
+  description:
+  - Džeimss, šķiet, meklēja tieši šo?
+  stats: *id010
+CLT_TREE_PEAR:
+  name: Bumbieru koks
+  type:
+  - '&7&oStāds'
+  description:
+  - Bumbieru pāris tika sapārots pārības pēc.
+  stats: *id009
+CLT_TREE_PECAN:
+  name: Pekanriekstu koks
+  type:
+  - '&7&oStāds'
+  description:
+  - Vai varam izaudzēt šo koku? Jā, pekanoti varam!
+  stats: *id009
+CLT_TREE_PINEAPPLE:
+  name: Ananasu koks
+  type:
+  - '&7&oStāds'
+  description:
+  - KUR IR MANA PICA?
+  stats: *id010
+CLT_TURMERIC:
+  name: Kurkuma
+  type:
+  - '&7&oRaža'
+  description:
+  - Spēcīga muskusa klātbūtne, kas papildina daudzus ēdienus.
+CLT_TURNIP:
+  name: Rācenis
+  type:
+  - '&7&oRaža'
+  description:
+  - Atrisinās visas dzīves problēmas.
+CLT_VANILLA:
+  name: Vaniļa
+  type:
+  - '&7&oRaža'
+  description:
+  - 'Instrukcija: Iemērc tieši latē'
+CLT_WASABI:
+  name: Vasabi
+  type:
+  - '&7&oRaža'
+  description:
+  - Palīgā... vasabi...
+CLT_WITHER_ROSE_SALAD:
+  name: Wither rozes salāti
+  type:
+  - '&7&oĒdiens'
+  description:
+  - Spēka pārpilns, bet ar skarbu blakusefektu.
+  stats:
+  - '&8⇨ &7Dziedināšana: &bPilna'
+  - '&8⇨ &bKalte II &7(10:00)'
+  - '&8⇨ &bVeselības veicināšana XX &7(10:00)'

@@ -1,0 +1,13 @@
+cultivation:
+  main: Cultivation
+  hidden: Paslēpts
+  crafting: Izgatavošanas priekšmeti
+  tools: Rīki
+  machines: Iekārtas
+  plants: Augi
+  bushes: Krūmi
+  trees: Koki
+  produce: Raža
+  by-products: Blakusprodukti
+  foods: Ēdieni
+  plant_codex: Augu kodekss

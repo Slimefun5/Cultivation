@@ -1,0 +1,87 @@
+cultivation:
+  bush_harvest:
+    name: Struikoes
+    lore:
+    - Hierdie item kan van 'n
+    - Cultivation-struik geoes word
+  tree_harvest:
+    name: Boomoes
+    lore:
+    - Hierdie item kan van 'n
+    - Cultivation-boom geoes word
+  trading_farmer:
+    name: Villager-handel
+    lore:
+    - Hierdie item kan by 'n
+    - boer-Villager gekoop word.
+  trading_fletcher:
+    name: Villager-handel
+    lore:
+    - Hierdie item kan by 'n
+    - pylmaker-Villager gekoop word.
+  mob:
+    name: Wesebuit
+    lore:
+    - Hierdie item het 'n kans om te val van
+    - die volgende wese(s).
+  plant_breeding:
+    name: Plantteling
+    lore:
+    - Hierdie saad word deur teling gevind.
+    - Jy teel plante deur twee
+    - plante neer te sit met 'n lugblok
+    - tussen hulle.
+    - ''
+    - Die teelwoordeboek kan gebruik word
+    - om jou ontdekkings by te hou.
+    - ''
+    - 'Wenk: Swart deeltjies beteken die'
+    - twee plante KAN NIE teel nie.
+  vanilla_block_drop:
+    name: Wêreldbuit
+    lore:
+    - Val uit blokke wanneer hulle in die wêreld gebreek word.
+  bucketing:
+    name: Wêreldbuit
+    lore:
+    - Kom uit die wêreld wanneer jy 'n emmer gebruik.
+  chopped:
+    name: Gekap
+    lore:
+    - Kap dit sommer met 'n mes!
+  mashed:
+    name: Fyngedruk
+    lore:
+    - Druk Druk Druk
+  blended:
+    name: Gepureer
+    lore:
+    - Word gemaak deur 'n item in die menger te sit.
+  sliced:
+    name: Gesny
+    lore:
+    - So dun en delikaat
+  ground:
+    name: Gemaal
+    lore:
+    - Tot 'n fyn graad
+  boiled:
+    name: Gekook
+    lore:
+    - Warm warm warm!
+  fried:
+    name: Gebraai
+    lore:
+    - Bros Perfeksie.
+  grilled:
+    name: Gegrilleer
+    lore:
+    - Sappig en Sag.
+  finishing:
+    name: Afronding
+    lore:
+    - Gebruik die kombuis se afrondingstoonbank om hierdie item te maak.
+  baking:
+    name: Bak
+    lore:
+    - Gebruik die kombuis se oondtoonbank om hierdie item te maak.

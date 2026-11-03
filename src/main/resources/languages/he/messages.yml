@@ -1,0 +1,65 @@
+lore:
+  seed-pack-set-to: מוגדר ל
+  knowledge-script-unlocks: פותח
+  drop-level: רמת שלל
+  growth-speed: מהירות גדילה
+  breed-strength: עוצמת הכלאה
+command:
+  no-permission: אין לך הרשאה לעשות את זה.
+  invalid-subcommand: נא לציין תת-פקודה תקינה.
+  players-only: רק שחקן יכול להריץ את הפקודה הזו.
+  hold-seed-pack: בשביל זה צריך להחזיק חבילת זרעים.
+  pack-empty: החבילה הזו ריקה!
+  pack-contents: תוכן
+  pack-entry: רמה %level%, מהירות %speed%, עוצמה %strength%
+kitchen:
+  recipe-disabled: המתכון הזה מושבת.
+  no-recipe: אין מתכון מתאים.
+  not-enough-power: אין מספיק אנרגיה.
+  input-empty: הניחו פריט במשבצת הקלט.
+  cooked: טעים!
+food:
+  eaten: נהדר! אתם שבעים לגמרי.
+  not-hungry: אתם עוד לא רעבים! אפשר לאכול רק פעם בחצי יום (10 דקות).
+  palate-cleansed: אתם מרגישים את החך שלכם מתנקה.
+  ouch: איי!
+knowledge-script:
+  learned: למדת איך להכליא %plant%.
+seed-pack:
+  title: חבילת זרעים
+  unstack-first: קודם צריך לפרק את ערימת חבילות הזרעים.
+  not-a-seed: הפריט חייב להיות זרע של צמח קולטיביישן.
+  empty-before-change: צריך לרוקן חבילה לפני שמחליפים את הצמח שלה.
+  no-plant-set: עוד לא הגדרת צמח.
+  none-stored: אין לך אף זרע כזה ברמות האלה.
+  set-here: הגדרת זרע כאן
+  retrieve-here: הוצאה כאן
+  no-seed-set: לא הוגדר זרע
+  no-seed-set-lore:
+  - לחצו על הסמל משמאל
+  - כשאתם מחזיקים זרע כדי להגדיר את החבילה.
+  empty-set: סט ריק
+  empty-set-lore:
+  - אין לך זרעים שמתאימים
+  - לרמות האלה.
+  stored-seed: סוג הזרע השמור
+  take-seed: לקחת זרע מהחבילה
+  level: רמה
+  speed: מהירות
+  strength: עוצמה
+  left-click: לחיצה שמאלית
+  right-click: לחיצה ימנית
+  increase: הגדלת %stat%
+  decrease: הקטנת %stat%
+  current: נוכחי
+codex:
+  title: מדריך צמחים
+  child: צמח צאצא
+  mother: צמח אם
+  father: צמח אב
+  growth-rate: קצב גדילה
+  not-discovered: לא התגלה
+  not-discovered-lore:
+  - עוד לא גילית איך
+  - להכליא את הצמח הזה!
+  discovery: תגלית

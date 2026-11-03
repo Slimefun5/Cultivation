@@ -1,0 +1,65 @@
+lore:
+  seed-pack-set-to: مضبوط على
+  knowledge-script-unlocks: يفتح
+  drop-level: مستوى السقوط
+  growth-speed: سرعة النمو
+  breed-strength: قوة التهجين
+command:
+  no-permission: ليست لديك صلاحية لفعل هذا.
+  invalid-subcommand: الرجاء تقديم أمر فرعي صالح.
+  players-only: لا يمكن تنفيذ هذا الأمر إلا من قِبل لاعب.
+  hold-seed-pack: يجب أن تحمل كيس بذور لفعل هذا.
+  pack-empty: هذا الكيس فارغ!
+  pack-contents: المحتويات
+  pack-entry: المستوى %level%، السرعة %speed%، القوة %strength%
+kitchen:
+  recipe-disabled: هذه الوصفة معطلة.
+  no-recipe: لا توجد وصفة مطابقة.
+  not-enough-power: الطاقة غير كافية.
+  input-empty: ضع عنصرًا في خانة الإدخال.
+  cooked: لذيذ!
+food:
+  eaten: رائع! لقد شبعت تمامًا.
+  not-hungry: لست جائعًا بعد! يمكنك الأكل مرة واحدة كل نصف يوم (10 دقائق).
+  palate-cleansed: تشعر بأن حاسة ذوقك تتجدد.
+  ouch: آخ!
+knowledge-script:
+  learned: لقد تعلمت كيفية تهجين %plant%.
+seed-pack:
+  title: كيس بذور
+  unstack-first: يجب أن تفصل أكياس البذور المكدسة أولًا.
+  not-a-seed: يجب أن يكون العنصر بذرة نبتة من كالتيفيشن.
+  empty-before-change: يجب أن تفرغ الكيس قبل تغيير نبتته.
+  no-plant-set: لم تحدد نبتة بعد.
+  none-stored: ليس لديك أي من هذه البذرة بهذه المستويات.
+  set-here: ضع البذرة هنا
+  retrieve-here: استرجع من هنا
+  no-seed-set: لا توجد بذرة محددة
+  no-seed-set-lore:
+  - انقر على الأيقونة على اليسار
+  - وأنت تحمل بذرة لضبط الكيس.
+  empty-set: مجموعة فارغة
+  empty-set-lore:
+  - ليس لديك بذور تطابق
+  - هذه المستويات.
+  stored-seed: نوع البذرة المخزنة
+  take-seed: خذ بذرة من الكيس
+  level: المستوى
+  speed: السرعة
+  strength: القوة
+  left-click: نقر أيسر
+  right-click: نقر أيمن
+  increase: زيادة %stat%
+  decrease: إنقاص %stat%
+  current: الحالي
+codex:
+  title: موسوعة النبات
+  child: النبتة الناتجة
+  mother: النبتة الأم
+  father: النبتة الأب
+  growth-rate: معدل النمو
+  not-discovered: غير مكتشف
+  not-discovered-lore:
+  - لم تكتشف بعد كيفية
+  - تهجين هذه النبتة!
+  discovery: الاكتشاف

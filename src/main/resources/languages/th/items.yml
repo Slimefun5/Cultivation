@@ -1,0 +1,6674 @@
+CLT_APRICOT:
+  name: แอปริคอต
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - เอาไปทำโปเกบอลได้นะ
+  - '...'
+  - อะไรนะ ไม่ใช่อันเดียวกันเหรอ...?
+CLT_ARTICHOKE:
+  name: อาร์ติโชก
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - ควักหัวใจมันออกมาเลย!
+CLT_ASPARAGUS:
+  name: หน่อไม้ฝรั่ง
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - เดี๋ยวเข้าห้องน้ำทีหลังระวังด้วยล่ะ
+CLT_AUBERGINE:
+  name: มะเขือม่วง
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - สีม่วงสด และไม่ได้เป็นรูปไข่ 100%
+  - แต่ฝรั่งดันเรียกมันว่ามะเขือไข่ซะงั้น
+CLT_AVOCADO:
+  name: อะโวคาโด
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - ความฝันของเหล่าฮิปสเตอร์
+CLT_BACON_SANDWICH:
+  name: แซนด์วิชเบคอน
+  type:
+  - '&7&oอาหาร'
+  description:
+  - คลาสสิกแบบเรียบง่าย!
+  stats:
+  - '&8⇨ &7ฟื้นฟู: &b2 หัวใจ'
+  - '&8⇨ &bโจมตีแรง I &7(10:00)'
+  - '&8⇨ &bวิ่งเร็ว I &7(10:00)'
+CLT_BAGEL:
+  name: เบเกิล
+  type:
+  - '&7&oอาหาร'
+  description:
+  - ปิ้งแล้ว? หรือว่า...
+  stats:
+  - '&8⇨ &7ฟื้นฟู: &b2.5 หัวใจ'
+CLT_BAGEL_BITE:
+  name: เบเกิลไบต์
+  type:
+  - '&7&oอาหาร'
+  description:
+  - กินพิซซ่าได้ทุกเวลา!
+  stats:
+  - '&8⇨ &7ลวกปากทุกคำที่กัด!'
+CLT_BAGEL_CREAM_CHEESE:
+  name: เบเกิลครีมชีส
+  type:
+  - '&7&oอาหาร'
+  description:
+  - อร่อยจนต้องขออีกชิ้นแน่นอน
+  stats:
+  - '&8⇨ &7ฟื้นฟู: &b5 หัวใจ'
+  - '&8⇨ &bเพิ่มเลือด I &7(10:00)'
+CLT_BANANA:
+  name: กล้วย
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - กล้วยๆ แบบนี้ ใครๆ ก็ชอบ!
+CLT_BASIL:
+  name: โหระพา
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - ใบหอมหวาน ตามด้วยรสเผ็ดอ่อนๆ แบบพริกไทย
+CLT_BAY_LEAF:
+  name: ใบกระวาน
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - เครื่องเทศกลิ่นแรงที่ใช้ได้สารพัด
+CLT_BELL_PEPPER:
+  name: พริกหวาน
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - หวานจริง ไม่อิงนิยาย
+CLT_BISCUIT:
+  name: บิสกิต
+  type:
+  - '&7&oอาหาร'
+  description:
+  - ของว่างชิ้นเล็ก แต่รสชาติยิ่งใหญ่
+  stats: &id002
+  - '&8⇨ &7ส่งคุณพุ่งขึ้นฟ้า'
+CLT_BISCUIT_BASE:
+  name: ฐานบิสกิต
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - แค่แบนแล้ว ไม่ได้แปลว่า
+  - จะกินดิบได้นะ
+CLT_BISCUIT_DOUGH:
+  name: แป้งบิสกิต
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - เตือนตัวเองไว้เสมอ "ห้ามกินดิบ"
+CLT_BLACK_BEANS:
+  name: ถั่วดำ
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - โปรตีนมังสวิรัติแสนอร่อย
+CLT_BLENDED_APPLE:
+  name: แอปเปิ้ลปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_APRICOT:
+  name: แอปริคอตปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_ARTICHOKE:
+  name: อาร์ติโชกปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_ASPARAGUS:
+  name: หน่อไม้ฝรั่งปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_AUBERGINE:
+  name: มะเขือม่วงปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_AVOCADO:
+  name: อะโวคาโดปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_BANANA:
+  name: กล้วยปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_BASIL:
+  name: โหระพาปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_BAY_LEAF:
+  name: ใบกระวานปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_BEEF:
+  name: เนื้อวัวปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_BEETROOT:
+  name: บีตรูตปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_BELL_PEPPER:
+  name: พริกหวานปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_BLACK_BEANS:
+  name: ถั่วดำปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_BREAD:
+  name: ขนมปังปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_BROCCOLI:
+  name: บรอกโคลีปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_BROWN_MUSHROOM:
+  name: เห็ดน้ำตาลปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_BRUSSELS_SPROUTS:
+  name: กะหล่ำดาวปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_CABBAGE:
+  name: กะหล่ำปลีปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_CARROT:
+  name: แคร์รอตปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_CAULIFLOWER:
+  name: กะหล่ำดอกปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_CAYENNE_PEPPER:
+  name: พริกคาเยนปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_CELERIAC:
+  name: เซเลอริแอกปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_CELERY:
+  name: คื่นฉ่ายปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_CHERRY:
+  name: เชอร์รีปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_CHESTNUT:
+  name: เกาลัดปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_CHICKEN:
+  name: ไก่ปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_CHICKPEAS:
+  name: ถั่วลูกไก่ปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_CHICORY:
+  name: ชิคอรีปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_CHILLY_PEPPER:
+  name: พริกขี้หนูปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_CHIVES:
+  name: กุยช่ายปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_CHORUS_FRUIT:
+  name: ผลคอรัสปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_CILANTRO:
+  name: ผักชีปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_CINNAMON:
+  name: อบเชยปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_CLOVE:
+  name: กานพลูปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_COCOA_BEANS:
+  name: เมล็ดโกโก้ปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_COD:
+  name: ปลาค็อดปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_COURGETTE:
+  name: ซูกินีปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_CUCUMBER:
+  name: แตงกวาปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_CUMIN:
+  name: ยี่หร่าปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_CURRY_LEAF:
+  name: ใบแกงปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_DILL:
+  name: ผักชีลาวปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_EGG:
+  name: ไข่ปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_ENCHANTED_GOLDEN_APPLE:
+  name: แอปเปิ้ลทองร่ายมนตร์ปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_FENNEL:
+  name: เฟนเนลปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_GARLIC:
+  name: กระเทียมปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_GINGER:
+  name: ขิงปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_GLOW_BERRIES:
+  name: เบอร์รี่เรืองแสงปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_GOLDEN_APPLE:
+  name: แอปเปิ้ลทองปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_GOLDEN_CARROT:
+  name: แคร์รอตทองปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_GRAPE:
+  name: องุ่นปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_GREEN_APPLE:
+  name: แอปเปิ้ลเขียวปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_GREEN_BEANS:
+  name: ถั่วแขกปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_GREEN_ONION:
+  name: ต้นหอมปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_HAZELNUT:
+  name: เฮเซลนัตปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_HORSERADISH:
+  name: ฮอร์สแรดิชปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_JALAPENO:
+  name: พริกฮาลาเปโนปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_JASMINE:
+  name: มะลิปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_JUNIPER_BERRY:
+  name: ลูกจูนิเปอร์ปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_KAFFIR_LIME:
+  name: ใบมะกรูดปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_KALE:
+  name: เคลปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_KELP:
+  name: สาหร่ายทะเลปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_KIWI:
+  name: กีวีปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_LAVENDER:
+  name: ลาเวนเดอร์ปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_LEEK:
+  name: กระเทียมต้นปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_LEMON:
+  name: เลมอนปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_LETTUCE:
+  name: ผักกาดหอมปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_LICORICE:
+  name: ชะเอมเทศปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_LIME:
+  name: มะนาวปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_MACE:
+  name: ดอกจันทน์ปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_MANGO:
+  name: มะม่วงปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_MARJORAM:
+  name: มาจอแรมปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_MARROW:
+  name: ฟักมาร์โรว์ปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_MELON:
+  name: แตงโมปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_MINT:
+  name: สะระแหน่ปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_MUSTARD_SEEDS:
+  name: เมล็ดมัสตาร์ดปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_MUTTON:
+  name: เนื้อแกะปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_NETTLES:
+  name: ตำแยปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_OKRA:
+  name: กระเจี๊ยบเขียวปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_ONION:
+  name: หัวหอมปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_ORANGE:
+  name: ส้มปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_OREGANO:
+  name: ออริกาโนปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_PARSLEY:
+  name: พาร์สลีย์ปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_PARSNIP:
+  name: พาร์สนิปปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_PEA:
+  name: ถั่วลันเตาปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_PEACH:
+  name: พีชปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_PEANUT:
+  name: ถั่วลิสงปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_PEAR:
+  name: ลูกแพร์ปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_PECAN:
+  name: พีแคนปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_PEPPER:
+  name: พริกไทยดำปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_PEPPERONI:
+  name: เปปเปอโรนีปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_PINEAPPLE:
+  name: สับปะรดปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_PINTO_BEANS:
+  name: ถั่วพินโตปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_PORKCHOP:
+  name: เนื้อหมูปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_POTATO:
+  name: มันฝรั่งปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_PUFFERFISH:
+  name: ปลาปักเป้าปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_PUMPKIN:
+  name: ฟักทองปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_RABBIT:
+  name: กระต่ายปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_RADDISH:
+  name: หัวไชเท้าปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_RADICCHIO:
+  name: ราดิกคิโอปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_RAPESEED:
+  name: เรพซีดปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_RED_MUSHROOM:
+  name: เห็ดแดงปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_RHUBARB:
+  name: รูบาร์บปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_RICE:
+  name: ข้าวปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_ROSEMARY:
+  name: โรสแมรีปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_ROTTEN_FLESH:
+  name: เนื้อเน่าปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_RUNNER_BEANS:
+  name: ถั่วรันเนอร์ปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_RUTABAGA:
+  name: รูทาบากาปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_SALMON:
+  name: ปลาแซลมอนปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_SASSAFRAS:
+  name: แซสซาฟราสปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_SHALLOT:
+  name: หอมแดงปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_SHISO:
+  name: ชิโสะปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_SOY_BEANS:
+  name: ถั่วเหลืองปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_SPINACH:
+  name: ผักโขมปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_STAR_ANISE:
+  name: โป๊ยกั๊กปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_STRAWBERRY:
+  name: สตรอว์เบอร์รีปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_SUGAR:
+  name: น้ำตาลปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_SWEETCORN:
+  name: ข้าวโพดหวานปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_SWEET_BERRIES:
+  name: เบอร์รี่หวานปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_SWEET_POTATO:
+  name: มันเทศปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_TARRAGON:
+  name: ทาร์รากอนปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_THYME:
+  name: ไทม์ปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_TOMATO:
+  name: มะเขือเทศปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_TURMERIC:
+  name: ขมิ้นปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_TURNIP:
+  name: เทอร์นิปปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_VANILLA:
+  name: วานิลลาปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_WASABI:
+  name: วาซาบิปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLENDED_WHEAT:
+  name: ข้าวสาลีปั่น
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BLUE_CANDY:
+  name: ลูกอมสีฟ้า
+  type:
+  - '&7&oอาหาร'
+  description:
+  - ลูกอมหวานชื่นใจ
+  stats:
+  - '&8⇨ &7เรียกอัลเลย์ออกมา'
+CLT_BOILED_APPLE:
+  name: แอปเปิ้ลต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_APRICOT:
+  name: แอปริคอตต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_ARTICHOKE:
+  name: อาร์ติโชกต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_ASPARAGUS:
+  name: หน่อไม้ฝรั่งต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_AUBERGINE:
+  name: มะเขือม่วงต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_AVOCADO:
+  name: อะโวคาโดต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_BANANA:
+  name: กล้วยต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_BASIL:
+  name: โหระพาต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_BAY_LEAF:
+  name: ใบกระวานต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_BEEF:
+  name: เนื้อวัวต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_BEETROOT:
+  name: บีตรูตต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_BELL_PEPPER:
+  name: พริกหวานต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_BLACK_BEANS:
+  name: ถั่วดำต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_BREAD:
+  name: ขนมปังต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_BROCCOLI:
+  name: บรอกโคลีต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_BROWN_MUSHROOM:
+  name: เห็ดน้ำตาลต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_BRUSSELS_SPROUTS:
+  name: กะหล่ำดาวต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_CABBAGE:
+  name: กะหล่ำปลีต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_CARROT:
+  name: แคร์รอตต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_CAULIFLOWER:
+  name: กะหล่ำดอกต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_CAYENNE_PEPPER:
+  name: พริกคาเยนต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_CELERIAC:
+  name: เซเลอริแอกต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_CELERY:
+  name: คื่นฉ่ายต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_CHERRY:
+  name: เชอร์รีต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_CHESTNUT:
+  name: เกาลัดต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_CHICKEN:
+  name: ไก่ต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_CHICKPEAS:
+  name: ถั่วลูกไก่ต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_CHICORY:
+  name: ชิคอรีต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_CHILLY_PEPPER:
+  name: พริกขี้หนูต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_CHIVES:
+  name: กุยช่ายต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_CHORUS_FRUIT:
+  name: ผลคอรัสต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_CILANTRO:
+  name: ผักชีต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_CINNAMON:
+  name: อบเชยต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_CLOVE:
+  name: กานพลูต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_COCOA_BEANS:
+  name: เมล็ดโกโก้ต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_COD:
+  name: ปลาค็อดต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_COURGETTE:
+  name: ซูกินีต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_CUCUMBER:
+  name: แตงกวาต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_CUMIN:
+  name: ยี่หร่าต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_CURRY_LEAF:
+  name: ใบแกงต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_DILL:
+  name: ผักชีลาวต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_EGG:
+  name: ไข่ต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_ENCHANTED_GOLDEN_APPLE:
+  name: แอปเปิ้ลทองร่ายมนตร์ต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_FENNEL:
+  name: เฟนเนลต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_GARLIC:
+  name: กระเทียมต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_GINGER:
+  name: ขิงต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_GLOW_BERRIES:
+  name: เบอร์รี่เรืองแสงต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_GOLDEN_APPLE:
+  name: แอปเปิ้ลทองต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_GOLDEN_CARROT:
+  name: แคร์รอตทองต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_GRAPE:
+  name: องุ่นต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_GREEN_APPLE:
+  name: แอปเปิ้ลเขียวต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_GREEN_BEANS:
+  name: ถั่วแขกต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_GREEN_ONION:
+  name: ต้นหอมต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_HAZELNUT:
+  name: เฮเซลนัตต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_HORSERADISH:
+  name: ฮอร์สแรดิชต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_JALAPENO:
+  name: พริกฮาลาเปโนต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_JASMINE:
+  name: มะลิต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_JUNIPER_BERRY:
+  name: ลูกจูนิเปอร์ต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_KAFFIR_LIME:
+  name: ใบมะกรูดต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_KALE:
+  name: เคลต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_KELP:
+  name: สาหร่ายทะเลต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_KIWI:
+  name: กีวีต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_LAVENDER:
+  name: ลาเวนเดอร์ต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_LEEK:
+  name: กระเทียมต้นต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_LEMON:
+  name: เลมอนต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_LETTUCE:
+  name: ผักกาดหอมต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_LICORICE:
+  name: ชะเอมเทศต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_LIME:
+  name: มะนาวต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_MACE:
+  name: ดอกจันทน์ต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_MANGO:
+  name: มะม่วงต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_MARJORAM:
+  name: มาจอแรมต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_MARROW:
+  name: ฟักมาร์โรว์ต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_MELON:
+  name: แตงโมต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_MINT:
+  name: สะระแหน่ต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_MUSTARD_SEEDS:
+  name: เมล็ดมัสตาร์ดต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_MUTTON:
+  name: เนื้อแกะต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_NETTLES:
+  name: ตำแยต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_OKRA:
+  name: กระเจี๊ยบเขียวต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_ONION:
+  name: หัวหอมต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_ORANGE:
+  name: ส้มต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_OREGANO:
+  name: ออริกาโนต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_PARSLEY:
+  name: พาร์สลีย์ต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_PARSNIP:
+  name: พาร์สนิปต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_PEA:
+  name: ถั่วลันเตาต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_PEACH:
+  name: พีชต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_PEANUT:
+  name: ถั่วลิสงต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_PEAR:
+  name: ลูกแพร์ต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_PECAN:
+  name: พีแคนต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_PEPPER:
+  name: พริกไทยดำต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_PEPPERONI:
+  name: เปปเปอโรนีต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_PINEAPPLE:
+  name: สับปะรดต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_PINTO_BEANS:
+  name: ถั่วพินโตต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_PORKCHOP:
+  name: เนื้อหมูต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_POTATO:
+  name: มันฝรั่งต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_PUFFERFISH:
+  name: ปลาปักเป้าต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_PUMPKIN:
+  name: ฟักทองต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_RABBIT:
+  name: กระต่ายต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_RADDISH:
+  name: หัวไชเท้าต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_RADICCHIO:
+  name: ราดิกคิโอต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_RAPESEED:
+  name: เรพซีดต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_RED_MUSHROOM:
+  name: เห็ดแดงต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_RHUBARB:
+  name: รูบาร์บต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_RICE:
+  name: ข้าวต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_ROSEMARY:
+  name: โรสแมรีต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_ROTTEN_FLESH:
+  name: เนื้อเน่าต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_RUNNER_BEANS:
+  name: ถั่วรันเนอร์ต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_RUTABAGA:
+  name: รูทาบากาต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_SALMON:
+  name: ปลาแซลมอนต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_SASSAFRAS:
+  name: แซสซาฟราสต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_SHALLOT:
+  name: หอมแดงต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_SHISO:
+  name: ชิโสะต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_SOY_BEANS:
+  name: ถั่วเหลืองต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_SPINACH:
+  name: ผักโขมต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_STAR_ANISE:
+  name: โป๊ยกั๊กต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_STRAWBERRY:
+  name: สตรอว์เบอร์รีต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_SUGAR:
+  name: น้ำตาลต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_SWEETCORN:
+  name: ข้าวโพดหวานต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_SWEET_BERRIES:
+  name: เบอร์รี่หวานต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_SWEET_POTATO:
+  name: มันเทศต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_TARRAGON:
+  name: ทาร์รากอนต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_THYME:
+  name: ไทม์ต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_TOMATO:
+  name: มะเขือเทศต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_TURMERIC:
+  name: ขมิ้นต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_TURNIP:
+  name: เทอร์นิปต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_VANILLA:
+  name: วานิลลาต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_WASABI:
+  name: วาซาบิต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOILED_WHEAT:
+  name: ข้าวสาลีต้ม
+  type:
+  - '&7&oผลพลอยได้'
+CLT_BOWL_OF_STEVE:
+  name: ชามใส่... สตีฟ?
+  type:
+  - '&7&oอาหาร'
+  description:
+  - นี่มันอะไรกันวะ &%£$
+  stats:
+  - '&8⇨ &bขุดช้า X &7(10:00)'
+  - '&8⇨ &bวิ่งช้า VI &7(10:00)'
+  - '&8⇨ &bโจมตีแรง X &7(10:00)'
+  - '&8⇨ &7ลดเลือดคุณเหลือ 1/2 หัวใจ'
+CLT_BROCCOLI:
+  name: บรอกโคลี
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - คุณเป็นยักษ์ที่ถือต้นไม้อยู่เหรอ?
+  - เปล่าหรอก แค่ต้นไม้จิ๋วเอง :)
+CLT_BRUSSELS_SPROUTS:
+  name: กะหล่ำดาว
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - ความอร่อยที่มาพร้อมแก๊ส
+CLT_BUSH_ARTICHOKE:
+  name: พุ่มอาร์ติโชก
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - พุ่มไม้ที่ทำให้อาร์ติสต์โช้ก
+  - ได้ดีที่สุด เฮ้อ เล่นมุกนี่ยากจัง
+CLT_BUSH_ASPARAGUS:
+  name: พุ่มหน่อไม้ฝรั่ง
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - พุ่มหน่อไม้ฝรั่งนี้เป็นสตอล์กเกอร์
+  - ตัวยงเลย ก้านเยอะขนาดนี้!
+CLT_BUSH_AUBERGINE:
+  name: พุ่มมะเขือม่วง
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - ฉันไม่ยอมเรียกมันว่ามะเขือไข่ ก็แค่ไม่ยอม
+CLT_BUSH_AVOCADO:
+  name: พุ่มอะโวคาโด
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - พุ่มนี้ถูกผสมพันธุ์มาโดยเฉพาะ
+  - ให้ไม่ใช้น้ำมากเกินไป
+CLT_BUSH_BASIL:
+  name: พุ่มโหระพา
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - พุ่มไม้อารมณ์ดี เต็มไปด้วยความขี้เล่น
+CLT_BUSH_BAY_LEAF:
+  name: พุ่มใบกระวาน
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - กลิ่นของพุ่มนี้ลอยไปไกลหลายไมล์
+CLT_BUSH_BELL_PEPPER:
+  name: พุ่มพริกหวาน
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - เดินผ่านพุ่มนี้ระวังด้วย เดี๋ยว
+  - กระดิ่งจะดังนะ
+CLT_BUSH_BLACK_BEANS:
+  name: พุ่มถั่วดำ
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - 'พุ่มนี้กระซิบกับคุณเบาๆ ว่า:'
+  - คุณเป็นมนุษย์ถั่วที่ยอดเยี่ยมที่สุด
+CLT_BUSH_BROCCOLI:
+  name: พุ่มบรอกโคลี
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - ต้นไม้จิ๋วที่กินได้? ใครคิดค้นเนี่ย!?
+CLT_BUSH_BRUSSELS_SPROUTS:
+  name: พุ่มกะหล่ำดาว
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - พุ่มไม้ที่บางครั้งก็ปล่อย
+  - แก๊สพิษออกมา
+CLT_BUSH_CABBAGE:
+  name: พุ่มกะหล่ำปลี
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - พุ่มไม้ที่แบกกะหล่ำทางใจ
+  - มาเต็มกระเป๋า
+CLT_BUSH_CAULIFLOWER:
+  name: พุ่มกะหล่ำดอก
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - พุ่มไม้ที่ออกก้อนเมฆน้อยๆ
+  - แสนน่ารัก
+CLT_BUSH_CAYENNE_PEPPER:
+  name: พุ่มพริกคาเยน
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - พุ่มไม้นิสัยเผ็ดร้อน
+CLT_BUSH_CELERIAC:
+  name: พุ่มเซเลอริแอก
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - หัวรากงอกจากพุ่มไม้อีกแล้วเหรอ?
+  - เซฟิโง่™
+CLT_BUSH_CELERY:
+  name: พุ่มคื่นฉ่าย
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - พุ่มนี้ไม่มีประโยชน์อะไรเลย
+  - เซฟิไม่ชอบคื่นฉ่าย
+CLT_BUSH_CHICKPEAS:
+  name: พุ่มถั่วลูกไก่
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - พุ่มไม้ที่เกิดจากการผสมไก่
+  - กับถั่ว วิทยาศาสตร์ล้วนๆ
+CLT_BUSH_CHICORY:
+  name: พุ่มชิคอรี
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - นึกว่าชิคอรีเป็นรากซะอีก? แอดออนนี้
+  - หาข้อมูลมาบ้างไหมเนี่ย!?
+CLT_BUSH_CHILLI_PEPPER:
+  name: พุ่มพริกขี้หนู
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - แค่มองพุ่มนี้ลิ้นก็พองแล้ว
+CLT_BUSH_CHIVES:
+  name: พุ่มกุยช่าย
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - พุ่มไม้ที่ออกผลเป็นสิ่งที่เรียกได้ว่า
+  - หัวหอมที่เล็กที่สุดในโลก
+CLT_BUSH_CILANTRO:
+  name: พุ่มผักชี
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - มีกลิ่นส้มและเครื่องเทศจางๆ ลอยมาจากพุ่มนี้
+CLT_BUSH_CINNAMON:
+  name: พุ่มอบเชย
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - พุ่มไม้กลิ่นหอมชื่นใจ
+CLT_BUSH_CLOVE:
+  name: พุ่มกานพลู
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - พุ่มไม้ที่ทำให้นึกถึงคริสต์มาส
+CLT_BUSH_COURGETTE:
+  name: พุ่มซูกินี
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - ทำไมพุ่มนี้ตะโกนว่า "คูร์เจ็ต" ไม่หยุด?
+  - สงสัยจะเป็นคนอังกฤษล่ะมั้ง?
+CLT_BUSH_CUCUMBER:
+  name: พุ่มแตงกวา
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - พุ่มนี้ถูกออกแบบมาเพื่อสลัด
+  - หน้าร้อนแสนอร่อยของคุณโดยเฉพาะ
+CLT_BUSH_CUMIN:
+  name: พุ่มยี่หร่า
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - พุ่มไม้ที่ส่งกลิ่นส้มอุ่นๆ ออกมา
+CLT_BUSH_CURRY_LEAF:
+  name: พุ่มใบแกง
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - อร่อยที่สุดเมื่อคั่วแห้ง
+CLT_BUSH_DILL:
+  name: พุ่มผักชีลาว
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - พุ่มนี้โตเร็วกว่าพุ่มอื่นมาก
+CLT_BUSH_FENNEL:
+  name: พุ่มเฟนเนล
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - ทำไมพุ่มนี้ไล่แมลงได้ล่ะ!?
+CLT_BUSH_GARLIC:
+  name: พุ่มกระเทียม
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - พุ่มนี้กลิ่นปากแย่ที่สุดในโลก
+CLT_BUSH_GINGER:
+  name: พุ่มขิง
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - พุ่มนี้อร่อยเมื่อต้มทั้งต้น
+CLT_BUSH_GRAPE:
+  name: พุ่มองุ่น
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - องุ่นสุกฉ่ำน้ำที่แทบจะร่วง
+  - หล่นจากพุ่มเอง
+CLT_BUSH_GREEN_BEANS:
+  name: พุ่มถั่วแขก
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - ราดซอสมะเขือเทศใส่พุ่มนี้
+  - ก็ได้ถั่วอบแล้ว
+CLT_BUSH_GREEN_ONION:
+  name: พุ่มต้นหอม
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - หรือที่เรียกกันว่าหอมใบ
+  - ต้นหอมมักมีรสชาติ
+  - อ่อนกว่าหัวหอมส่วนใหญ่
+CLT_BUSH_HORSERADISH:
+  name: พุ่มฮอร์สแรดิช
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - ย้ำอีกที ไอ้นี่งอกบนพุ่มไม้มันไม่สมเหตุสมผลเลย
+CLT_BUSH_JALAPENO:
+  name: พุ่มพริกฮาลาเปโน
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - แค่ถือพุ่มนี้ก็มีโอกาส
+  - 1% ที่จะลุกเป็นไฟ
+CLT_BUSH_JASMINE:
+  name: พุ่มมะลิ
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - กลิ่นจากพุ่มนี้นุ่มนวลละมุนมาก
+CLT_BUSH_JUNIPER_BERRY:
+  name: พุ่มจูนิเปอร์
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - หวานตอนอยู่บนพุ่ม เผ็ดเมื่อตากแห้ง
+CLT_BUSH_KAFFIR_LIME:
+  name: พุ่มมะกรูด
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - พุ่มไม้ที่คนอยากได้ใบมากกว่าผล
+CLT_BUSH_KALE:
+  name: พุ่มเคล
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - เมื่อปลูกพุ่มนี้ คุณจะรู้สึกได้เลยว่า
+  - ทุกอย่างจะเคล...ียร์ไปได้ด้วยดี
+CLT_BUSH_LAVENDER:
+  name: พุ่มลาเวนเดอร์
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - พุ่มนี้ส่งกลิ่นฟุ้งไปทั่ว
+CLT_BUSH_LEEK:
+  name: พุ่มกระเทียมต้น
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - รู้ไหม กระเทียมต้นก็คือหัวหอม
+  - ที่ใส่ชุดรัดตัว เรื่องจริงนะ
+CLT_BUSH_LETTUCE:
+  name: พุ่มผักกาดหอม
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - ผักกาดหอมงอกบนพุ่มได้ด้วยเหรอ?
+  - 'สปอยล์: ไม่ได้'
+CLT_BUSH_LICORICE:
+  name: พุ่มชะเอมเทศ
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - แหวะ
+CLT_BUSH_MACE:
+  name: พุ่มดอกจันทน์
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - พุ่มนี้ดูเหมือนจะไล่ผู้บุกรุกได้นะ?
+CLT_BUSH_MARJORAM:
+  name: พุ่มมาจอแรม
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - พุ่มไม้ใหญ่ที่กลิ่นเหมือนเนื้อไม้
+CLT_BUSH_MARROW:
+  name: พุ่มฟักมาร์โรว์
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - แปลกใจที่พุ่มนี้รับน้ำหนัก
+  - ตัวเองไหว
+CLT_BUSH_MINT:
+  name: พุ่มสะระแหน่
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - พุ่มไม้ที่กลิ่นหอมที่สุด
+CLT_BUSH_MUSTARD:
+  name: พุ่มเมล็ดมัสตาร์ด
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - เหมือนมีไฟอยู่ในปาก
+CLT_BUSH_NETTLES:
+  name: พุ่มตำแย
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - ระวังตอนเดินผ่านพุ่มนี้ด้วย!
+CLT_BUSH_OKRA:
+  name: พุ่มกระเจี๊ยบเขียว
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - ได้รับโหวตเป็นผักอันดับ 1 จาก
+  - ชมรมผักของโอครา วินฟรีย์
+CLT_BUSH_ONION:
+  name: พุ่มหัวหอม
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - พุ่มนี้ดูเหมือนกำลังจะร้องไห้ไหม?
+CLT_BUSH_OREGANO:
+  name: พุ่มออริกาโน
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - พุ่มกลิ่นฉุนนี้ไล่แขกได้ชะงัด
+CLT_BUSH_PARSLEY:
+  name: พุ่มพาร์สลีย์
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - โยนพุ่มนี้ลงลาวาเดี๋ยวนี้เลย 555
+CLT_BUSH_PARSNIP:
+  name: พุ่มพาร์สนิป
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - ข้ามขั้นตอนไปเลย เอาพุ่มไป
+  - ย่างตรงๆ ซะ
+CLT_BUSH_PEA:
+  name: พุ่มถั่วลันเตา
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - ลันเตาเหรอ? เคยไปแต่เกาะลันตา
+CLT_BUSH_PEANUTS:
+  name: พุ่มถั่วลิสง
+  type:
+  - '&7&oพุ่มไม้'
+  description: &id001
+  - แน่น หอม และเต็มไปด้วยโปรตีน
+CLT_BUSH_PEPPER:
+  name: พุ่มพริกไทยดำ
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - พริกไทยดำเป็นส่วนสำคัญของ
+  - การค้าเครื่องเทศระหว่างอินเดียกับยุโรป
+  - มาตั้งแต่สมัยกรีกและโรมัน
+CLT_BUSH_PINTO_BEANS:
+  name: พุ่มถั่วพินโต
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - อีกไม่นานเราคงผสมพันธุ์
+  - พุ่มเบอร์ริโตสำเร็จรูปได้ ใช่ไหม?
+CLT_BUSH_RADDISH:
+  name: พุ่มหัวไชเท้า
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - ต้นนี้เพิ่งเล่นท่าสเกตบอร์ดไป
+  - สุดจะแรด...ดิช
+CLT_BUSH_RADICCHIO:
+  name: พุ่มราดิกคิโอ
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - อยากดูหรูใช่ไหม? ใส่ราดิกคิโอลงไป
+  - ในอาหารสิ มันก็คล้ายกะหล่ำปลีนั่นแหละ
+  - แต่ทำให้คุณดูมีระดับขึ้นมาทันที
+CLT_BUSH_RAPESEED:
+  name: พุ่มเรพซีด
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - พุ่มนี้มีสารมันๆ ซึมออกมา
+CLT_BUSH_RHUBARB:
+  name: พุ่มรูบาร์บ
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - รู้ไหมว่ารูบาร์บเป็นผัก?
+  - นึกว่าเป็นค้อนชนิดหนึ่งซะอีก
+CLT_BUSH_RICE:
+  name: พุ่มข้าว
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - อาหารหลักขั้นสุดยอด
+CLT_BUSH_ROSEMARY:
+  name: พุ่มโรสแมรี
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - พุ่มไม้ที่กลิ่นชวนให้นึกถึงมื้อเที่ยงวันอาทิตย์
+CLT_BUSH_RUNNER_BEANS:
+  name: พุ่มถั่วรันเนอร์
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - พุ่มนี้มีขาด้วย (⊙.⊙)?
+CLT_BUSH_RUTABAGA:
+  name: พุ่มรูทาบากา
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - สวีดน่ะ มันคือสวีด
+CLT_BUSH_SASSAFRAS:
+  name: พุ่มแซสซาฟราส
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - พุ่มนี้ชอบให้ปลูกใกล้แหล่ง
+  - น้ำเล็กๆ
+CLT_BUSH_SHALLOT:
+  name: พุ่มหอมแดง
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - พุ่มนี้ออกหัวหอมจิ๋วน่ารักอย่างรวดเร็ว
+  - หอมแดงนี้ไม่ต้องแดงก็หอมได้
+CLT_BUSH_SHISO:
+  name: พุ่มชิโสะ
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - ฉันชอบคิดว่าพุ่มนี้เป็นลูกรัก
+  - ของพุ่มสะระแหน่กับพุ่มโหระพา น่าเสียดาย
+  - ที่ผสมพันธุ์พุ่มไม้กันไม่ได้!
+CLT_BUSH_SOY_BEANS:
+  name: พุ่มถั่วเหลือง
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - พุ่มนี้น่ารักน่าชัง ทำให้
+  - ฉันสุขใจซะเหลือ...ง
+CLT_BUSH_SPINACH:
+  name: พุ่มผักโขม
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - พุ่มนี้คือเพื่อนรักของป๊อปอาย
+CLT_BUSH_STAR_ANISE:
+  name: พุ่มโป๊ยกั๊ก
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - กลิ่นที่ลอยมาจากพุ่มนี้เป็นเอกลักษณ์
+  - ของโป๊ยกั๊กจนไม่น่าเชื่อ
+CLT_BUSH_STRAWBERRY:
+  name: พุ่มสตรอว์เบอร์รี
+  type:
+  - '&7&oพุ่มไม้'
+  description: *id001
+CLT_BUSH_SWEETCORN:
+  name: พุ่มข้าวโพดหวาน
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - พุ่มนี้แทบร้องขอให้เอาไป
+  - สร้างเป็นเขาวงกต
+CLT_BUSH_SWEET_POTATO:
+  name: พุ่มมันเทศ
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - พุ่มนี้หวานซะเหลือเกิน ได้ยินมาว่า
+  - มันแอบชมคุณตอนคุณไม่ได้ฟัง
+CLT_BUSH_TARRAGON:
+  name: พุ่มทาร์รากอน
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - พุ่มนี้ไม่ชอบเป็นจุดสนใจเท่าไหร่
+CLT_BUSH_THYME:
+  name: พุ่มไทม์
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - พุ่มนี้ไม่เคยมีไทม์... เอ้ย ไทม์มิ่ง... *แค่กๆ*
+CLT_BUSH_TOMATO:
+  name: พุ่มมะเขือเทศ
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - สุกพร้อมกิน
+CLT_BUSH_TURMERIC:
+  name: พุ่มขมิ้น
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - แค่ถือพุ่มนี้ กลิ่นเครื่องเทศ
+  - ก็ฟุ้งเข้าจมูกแล้ว
+CLT_BUSH_TURNIP:
+  name: พุ่มเทอร์นิป
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - ตามที่รัฐบาลอังกฤษว่าไว้
+  - พุ่มนี้จะแก้ปัญหาของเราได้ทุกอย่าง
+CLT_BUSH_VANILLA:
+  name: พุ่มวานิลลา
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - พุ่มนี้ขึ้นเองตามธรรมชาติใกล้ร้านสตาร์บัคส์
+CLT_BUSH_WASABI:
+  name: พุ่มวาซาบิ
+  type:
+  - '&7&oพุ่มไม้'
+  description:
+  - รากงอกจากพุ่มไม้อีกแล้วเหรอ?
+  - เฮ้อ...
+CLT_CABBAGE:
+  name: กะหล่ำปลี
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - กะหล่ำเต็มกระเป๋า
+CLT_CAESAR_SALAD:
+  name: ซีซาร์สลัด
+  type:
+  - '&7&oอาหาร'
+  description:
+  - คลาสสิกเพื่อสุขภาพ
+  stats:
+  - '&8⇨ &7ฟื้นฟู: &b6 หัวใจ'
+  - '&8⇨ &bวิ่งเร็ว I &7(10:00)'
+  - '&8⇨ &bล่องหน I &7(10:00)'
+  - '&8⇨ &bตกนุ่มนวล I &7(10:00)'
+CLT_CAJUN_GARLIC_BUTTER_COD:
+  name: ปลาค็อดเนยกระเทียมเคจัน
+  type:
+  - '&7&oอาหาร'
+  description:
+  - อาหารเรียบง่ายแต่รสชาติจัดจ้าน
+  stats:
+  - '&8⇨ &7ฟื้นฟู: &b4 หัวใจ'
+  - '&8⇨ &bฟื้นฟูต่อเนื่อง II &7(10:00)'
+  - '&8⇨ &bวิ่งเร็ว I &7(10:00)'
+CLT_CAULIFLOWER:
+  name: กะหล่ำดอก
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - ก้อนเมฆพกพา!
+CLT_CAYENNE_PEPPER:
+  name: พริกคาเยน
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - ของอร่อยรสเผ็ดอ่อนๆ
+CLT_CELERIAC:
+  name: เซเลอริแอก
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - หัวรากแสนอิ่มที่หยั่งราก (ฮา) ลึกอยู่ใน
+  - สูตรอาหารดั้งเดิมมากมาย
+CLT_CELERY:
+  name: คื่นฉ่าย
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - ก็แค่น้ำที่เป็นเส้นๆ เถียง
+  - มาสิ
+CLT_CHEESE_BURGER:
+  name: เบอร์เกอร์
+  type:
+  - '&7&oอาหาร'
+  description:
+  - ชีสเบอร์เกอร์ธรรมดา แต่ไม่มีอะไรสู้ได้!
+  stats:
+  - '&8⇨ &7ฟื้นฟู: &b4 หัวใจ'
+  - '&8⇨ &bฟื้นฟูต่อเนื่อง III &7(10:00)'
+CLT_CHEESY_SCALLOPED_COURGETTE:
+  name: ซูกินีอบชีส
+  type:
+  - '&7&oอาหาร'
+  description:
+  - เวอร์ชันโลว์คาร์บของเมนูคลาสสิกสุดเจ๋ง
+  stats:
+  - '&8⇨ &7ฟื้นฟู: &b2 หัวใจ'
+  - '&8⇨ &bมองกลางคืน I &7(10:00)'
+  - '&8⇨ &bล่องหน I &7(10:00)'
+CLT_CHERRY:
+  name: เชอร์รี
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - อ้าว นึกว่ามันงอกมาเคลือบน้ำตาลเสร็จสรรพ น่าเสียดาย!
+CLT_CHESTNUT:
+  name: เกาลัด
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - ออกแบบมาเพื่อให้อบทันที
+CLT_CHICKEN_ALFREDO_MAC_AND_CHEESE:
+  name: มักกะโรนีชีสไก่อัลเฟรโด
+  type:
+  - '&7&oอาหาร'
+  description:
+  - ลูกเล่นหรูๆ บนเมนูคลาสสิกธรรมดา
+  stats:
+  - '&8⇨ &7ฟื้นฟู: &b1 หัวใจ'
+  - '&8⇨ &bกันไฟ II &7(10:00)'
+  - '&8⇨ &bทนทาน III &7(10:00)'
+CLT_CHICKEN_PASTA_BAKE:
+  name: พาสต้าไก่อบ
+  type:
+  - '&7&oอาหาร'
+  description:
+  - อาหารหลักของนักศึกษา
+  stats:
+  - '&8⇨ &7ฟื้นฟู: &b5 หัวใจ'
+  - '&8⇨ &bมองกลางคืน I &7(10:00)'
+  - '&8⇨ &bหายใจใต้น้ำ I &7(10:00)'
+CLT_CHICKEN_POT_PIE:
+  name: พ็อตพายไก่
+  type:
+  - '&7&oอาหาร'
+  description:
+  - มื้ออุ่นๆ ที่ให้ความรู้สึกเหมือนอยู่บ้าน
+  stats:
+  - '&8⇨ &7ฟื้นฟู: &b10 หัวใจ'
+  - '&8⇨ &bกระโดดสูง II &7(10:00)'
+  - '&8⇨ &bอิ่มหนำ I &7(10:00)'
+CLT_CHICKPEAS:
+  name: ถั่วลูกไก่
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - ถั่วตาดำร้องเพลงได้ทั้งเพลง แต่ถั่วลูกไก่ได้แค่ฮัมมัสเบาๆ
+CLT_CHICORY:
+  name: ชิคอรี
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - รากรสขมติดกลิ่นถั่ว
+CLT_CHILLY_PEPPER:
+  name: พริกขี้หนู
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - ฉันกินพริกได้ทั้งเม็ดโดยไม่ร้องไห้
+  - ก็... ครึ่งเม็ด
+  - เอ่อออ.... 1/4
+  - '...'
+  - โอเค แค่แตะลิ้นได้ก็พอ
+CLT_CHIVES:
+  name: กุยช่าย
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - สมุนไพรรสหวานคล้ายหัวหอม
+CLT_CHOPPED_APPLE:
+  name: แอปเปิ้ลสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_APRICOT:
+  name: แอปริคอตสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_ARTICHOKE:
+  name: อาร์ติโชกสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_ASPARAGUS:
+  name: หน่อไม้ฝรั่งสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_AUBERGINE:
+  name: มะเขือม่วงสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_AVOCADO:
+  name: อะโวคาโดสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_BANANA:
+  name: กล้วยสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_BASIL:
+  name: โหระพาสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_BAY_LEAF:
+  name: ใบกระวานสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_BEEF:
+  name: เนื้อวัวสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_BEETROOT:
+  name: บีตรูตสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_BELL_PEPPER:
+  name: พริกหวานสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_BLACK_BEANS:
+  name: ถั่วดำสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_BREAD:
+  name: ขนมปังสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_BROCCOLI:
+  name: บรอกโคลีสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_BROWN_MUSHROOM:
+  name: เห็ดน้ำตาลสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_BRUSSELS_SPROUTS:
+  name: กะหล่ำดาวสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_CABBAGE:
+  name: กะหล่ำปลีสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_CARROT:
+  name: แคร์รอตสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_CAULIFLOWER:
+  name: กะหล่ำดอกสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_CAYENNE_PEPPER:
+  name: พริกคาเยนสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_CELERIAC:
+  name: เซเลอริแอกสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_CELERY:
+  name: คื่นฉ่ายสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_CHERRY:
+  name: เชอร์รีสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_CHESTNUT:
+  name: เกาลัดสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_CHICKEN:
+  name: ไก่สับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_CHICKPEAS:
+  name: ถั่วลูกไก่สับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_CHICORY:
+  name: ชิคอรีสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_CHILLY_PEPPER:
+  name: พริกขี้หนูสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_CHIVES:
+  name: กุยช่ายสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_CHORUS_FRUIT:
+  name: ผลคอรัสสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_CILANTRO:
+  name: ผักชีสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_CINNAMON:
+  name: อบเชยสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_CLOVE:
+  name: กานพลูสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_COCOA_BEANS:
+  name: เมล็ดโกโก้สับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_COD:
+  name: ปลาค็อดสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_COURGETTE:
+  name: ซูกินีสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_CUCUMBER:
+  name: แตงกวาสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_CUMIN:
+  name: ยี่หร่าสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_CURRY_LEAF:
+  name: ใบแกงสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_DILL:
+  name: ผักชีลาวสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_EGG:
+  name: ไข่สับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_ENCHANTED_GOLDEN_APPLE:
+  name: แอปเปิ้ลทองร่ายมนตร์สับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_FENNEL:
+  name: เฟนเนลสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_GARLIC:
+  name: กระเทียมสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_GINGER:
+  name: ขิงสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_GLOW_BERRIES:
+  name: เบอร์รี่เรืองแสงสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_GOLDEN_APPLE:
+  name: แอปเปิ้ลทองสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_GOLDEN_CARROT:
+  name: แคร์รอตทองสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_GRAPE:
+  name: องุ่นสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_GREEN_APPLE:
+  name: แอปเปิ้ลเขียวสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_GREEN_BEANS:
+  name: ถั่วแขกสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_GREEN_ONION:
+  name: ต้นหอมสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_HAZELNUT:
+  name: เฮเซลนัตสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_HORSERADISH:
+  name: ฮอร์สแรดิชสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_JALAPENO:
+  name: พริกฮาลาเปโนสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_JASMINE:
+  name: มะลิสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_JUNIPER_BERRY:
+  name: ลูกจูนิเปอร์สับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_KAFFIR_LIME:
+  name: ใบมะกรูดสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_KALE:
+  name: เคลสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_KELP:
+  name: สาหร่ายทะเลสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_KIWI:
+  name: กีวีสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_LAVENDER:
+  name: ลาเวนเดอร์สับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_LEEK:
+  name: กระเทียมต้นสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_LEMON:
+  name: เลมอนสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_LETTUCE:
+  name: ผักกาดหอมสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_LICORICE:
+  name: ชะเอมเทศสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_LIME:
+  name: มะนาวสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_MACE:
+  name: ดอกจันทน์สับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_MANGO:
+  name: มะม่วงสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_MARJORAM:
+  name: มาจอแรมสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_MARROW:
+  name: ฟักมาร์โรว์สับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_MELON:
+  name: แตงโมสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_MINT:
+  name: สะระแหน่สับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_MUSTARD_SEEDS:
+  name: เมล็ดมัสตาร์ดสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_MUTTON:
+  name: เนื้อแกะสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_NETTLES:
+  name: ตำแยสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_OKRA:
+  name: กระเจี๊ยบเขียวสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_ONION:
+  name: หัวหอมสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_ORANGE:
+  name: ส้มสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_OREGANO:
+  name: ออริกาโนสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_PARSLEY:
+  name: พาร์สลีย์สับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_PARSNIP:
+  name: พาร์สนิปสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_PEA:
+  name: ถั่วลันเตาสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_PEACH:
+  name: พีชสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_PEANUT:
+  name: ถั่วลิสงสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_PEAR:
+  name: ลูกแพร์สับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_PECAN:
+  name: พีแคนสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_PEPPER:
+  name: พริกไทยดำสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_PEPPERONI:
+  name: เปปเปอโรนีสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_PINEAPPLE:
+  name: สับปะรดสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_PINTO_BEANS:
+  name: ถั่วพินโตสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_PORKCHOP:
+  name: เนื้อหมูสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_POTATO:
+  name: มันฝรั่งสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_PUFFERFISH:
+  name: ปลาปักเป้าสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_PUMPKIN:
+  name: ฟักทองสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_RABBIT:
+  name: กระต่ายสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_RADDISH:
+  name: หัวไชเท้าสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_RADICCHIO:
+  name: ราดิกคิโอสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_RAPESEED:
+  name: เรพซีดสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_RED_MUSHROOM:
+  name: เห็ดแดงสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_RHUBARB:
+  name: รูบาร์บสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_RICE:
+  name: ข้าวสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_ROSEMARY:
+  name: โรสแมรีสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_ROTTEN_FLESH:
+  name: เนื้อเน่าสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_RUNNER_BEANS:
+  name: ถั่วรันเนอร์สับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_RUTABAGA:
+  name: รูทาบากาสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_SALMON:
+  name: ปลาแซลมอนสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_SASSAFRAS:
+  name: แซสซาฟราสสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_SHALLOT:
+  name: หอมแดงสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_SHISO:
+  name: ชิโสะสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_SOY_BEANS:
+  name: ถั่วเหลืองสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_SPINACH:
+  name: ผักโขมสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_STAR_ANISE:
+  name: โป๊ยกั๊กสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_STRAWBERRY:
+  name: สตรอว์เบอร์รีสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_SUGAR:
+  name: น้ำตาลสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_SWEETCORN:
+  name: ข้าวโพดหวานสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_SWEET_BERRIES:
+  name: เบอร์รี่หวานสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_SWEET_POTATO:
+  name: มันเทศสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_TARRAGON:
+  name: ทาร์รากอนสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_THYME:
+  name: ไทม์สับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_TOMATO:
+  name: มะเขือเทศสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_TURMERIC:
+  name: ขมิ้นสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_TURNIP:
+  name: เทอร์นิปสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_VANILLA:
+  name: วานิลลาสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_WASABI:
+  name: วาซาบิสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CHOPPED_WHEAT:
+  name: ข้าวสาลีสับ
+  type:
+  - '&7&oผลพลอยได้'
+CLT_CILANTRO:
+  name: ผักชี
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - เครื่องเทศอ่อนๆ ที่มีกลิ่นส้มนิดๆ
+CLT_CINNAMON:
+  name: อบเชย
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - เคี้ยวแบบเป็นแท่งก็อร่อยดี
+CLT_CINNAMON_ROLL:
+  name: ซินนามอนโรล
+  type:
+  - '&7&oอาหาร'
+  description:
+  - ความหวานม้วนกลมเพื่อความสนุก
+  - กินแล้วโลกจะกลับหัว!
+  stats:
+  - '&8⇨ &7ฟื้นฟู: &b4 หัวใจ'
+  - '&8⇨ &bลอยตัว I &7(10:00)'
+  - '&8⇨ &bตกนุ่มนวล I &7(10:00)'
+CLT_CLOVE:
+  name: กานพลู
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - รสชาติอุ่นร้อนและเข้มข้นสุดๆ
+CLT_COMPRESSED_BISCUIT:
+  name: บิสกิตอัด
+  type:
+  - '&7&oอาหาร'
+  description:
+  - ของว่างชิ้นเล็ก แต่รสชาติยิ่งใหญ่กว่าเดิมอีก
+  stats: *id002
+CLT_COOKED_BURGER_PATTY:
+  name: แพตตี้เบอร์เกอร์สุก
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - ฉ่ำจนแทบหยด
+CLT_COUNTER_BLENDER:
+  name: เคาน์เตอร์ครัว (เครื่องปั่น)
+  type:
+  - '&7&oเครื่องจักร'
+  description:
+  - คลิกขวาที่บล็อกนี้เพื่อปั่นผลผลิต
+  usage: &id003
+  - เคล็ดลับ! หลังวางแล้ว กดชิฟต์ + คลิกขวา
+  - บล็อกที่คุณถืออยู่จะเปลี่ยน
+  - ดีไซน์ของครัว ลองดูสิ!
+CLT_COUNTER_BOILING:
+  name: เคาน์เตอร์ครัว (หม้อต้ม)
+  type:
+  - '&7&oเครื่องจักร'
+  description:
+  - ต้มไอเท็มบางชนิดได้
+  usage: *id003
+CLT_COUNTER_CHOPPING:
+  name: เคาน์เตอร์ครัว (เขียงสับ)
+  type:
+  - '&7&oเครื่องจักร'
+  description:
+  - คลิกขวาที่บล็อกนี้เพื่อสับผลผลิต
+  usage: *id003
+CLT_COUNTER_FINISHING:
+  name: เคาน์เตอร์ครัว (จัดจาน)
+  type:
+  - '&7&oเครื่องจักร'
+  description:
+  - ใช้แปรรูปผลผลิต/ผลพลอยได้เป็น
+  - ผลพลอยได้อื่นหรืออาหารสำเร็จ
+  usage: *id003
+CLT_COUNTER_FRYING:
+  name: เคาน์เตอร์ครัว (กระทะทอด)
+  type:
+  - '&7&oเครื่องจักร'
+  description:
+  - ทอดผลผลิตบางชนิดได้
+  usage: *id003
+CLT_COUNTER_GRILL:
+  name: เคาน์เตอร์ครัว (เตาย่าง)
+  type:
+  - '&7&oเครื่องจักร'
+  description:
+  - ย่างผลผลิตบางชนิดได้
+  usage: *id003
+CLT_COUNTER_GRINDER:
+  name: เคาน์เตอร์ครัว (ครกและสาก)
+  type:
+  - '&7&oเครื่องจักร'
+  description:
+  - คลิกขวาที่บล็อกนี้เพื่อโขลกผลผลิต
+  usage: *id003
+CLT_COUNTER_MASHER:
+  name: เคาน์เตอร์ครัว (ชามบด)
+  type:
+  - '&7&oเครื่องจักร'
+  description:
+  - คลิกขวาที่บล็อกนี้เพื่อบดผลผลิต
+  usage: *id003
+CLT_COUNTER_NOTHING:
+  name: เคาน์เตอร์ครัว (ว่าง)
+  type:
+  - '&7&oเครื่องจักร'
+  description:
+  - ไว้ตกแต่งเท่านั้น!
+  usage: *id003
+CLT_COUNTER_OVEN:
+  name: เคาน์เตอร์ครัว (เตาอบ)
+  type:
+  - '&7&oเครื่องจักร'
+  description:
+  - อบผลผลิตบางชนิดได้
+  usage: *id003
+CLT_COUNTER_SLICING:
+  name: เคาน์เตอร์ครัว (เขียงหั่น)
+  type:
+  - '&7&oเครื่องจักร'
+  description:
+  - คลิกขวาที่บล็อกนี้เพื่อหั่นผลผลิต
+  usage: *id003
+CLT_COURGETTE:
+  name: ซูกินี
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - 'เคล็ดลับ: ขูดใส่ซอสพาสต้า'
+  - เพื่อเพิ่มมิติและเนื้อสัมผัส
+CLT_CREAM_CHEESE:
+  name: ครีมชีส
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - ครีมมี่มากกว่าชีสซี่
+CLT_CROP_STICKS:
+  name: ไม้ค้ำพืช
+  type:
+  - '&7&oเครื่องมือ'
+  description:
+  - ต้องใช้ไม้ค้ำพืชกับเมล็ด
+  - ที่วางไว้แล้วจึงจะเติบโตได้
+  - การวางชุดที่สองจะผสมข้าม
+  - ต้นพืช ทำให้มันแพร่พันธุ์และ/หรือ
+  - ผสมพันธุ์ได้
+CLT_CUCUMBER:
+  name: แตงกวา
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - น้ำในเปลือกสีเขียว เถียง
+  - มาสิ
+CLT_CUMIN:
+  name: ยี่หร่า
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - พืชกลิ่นส้มอบอุ่น
+CLT_CURRY_LEAF:
+  name: ใบแกง
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - พื้นฐานของอาหารแสนอร่อยมากมาย
+CLT_DILL:
+  name: ผักชีลาว
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - สำหรับฉันมันรสเหมือนหญ้า
+  - ทำไมคนถึงชอบกันนะ?
+CLT_DOUGH:
+  name: แป้งโดว์
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - แป้งโดว์ธรรมดาๆ!
+CLT_EGG_SALAD:
+  name: สลัดไข่
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - ลองแกะกินบนรถไฟดูสิ ท้าเลย!
+CLT_EGG_SALAD_SANDWICH:
+  name: แซนด์วิชสลัดไข่
+  type:
+  - '&7&oอาหาร'
+  description:
+  - กลิ่นแรงนิดหน่อย แต่รสชาติสุดยอด!
+  stats: &id006
+  - '&8⇨ &7ฟื้นฟู: &b10 หัวใจ'
+  - '&8⇨ &bฟื้นฟูต่อเนื่อง II &7(10:00)'
+CLT_FENNEL:
+  name: เฟนเนล
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - เหมือนส่วนผสมของโป๊ยกั๊กกับชะเอมเทศ
+CLT_FRIED_APPLE:
+  name: แอปเปิ้ลทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_APRICOT:
+  name: แอปริคอตทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_ARTICHOKE:
+  name: อาร์ติโชกทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_ASPARAGUS:
+  name: หน่อไม้ฝรั่งทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_AUBERGINE:
+  name: มะเขือม่วงทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_AVOCADO:
+  name: อะโวคาโดทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_BANANA:
+  name: กล้วยทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_BASIL:
+  name: โหระพาทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_BAY_LEAF:
+  name: ใบกระวานทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_BEEF:
+  name: เนื้อวัวทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_BEETROOT:
+  name: บีตรูตทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_BELL_PEPPER:
+  name: พริกหวานทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_BLACK_BEANS:
+  name: ถั่วดำทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_BREAD:
+  name: ขนมปังทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_BROCCOLI:
+  name: บรอกโคลีทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_BROWN_MUSHROOM:
+  name: เห็ดน้ำตาลทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_BRUSSELS_SPROUTS:
+  name: กะหล่ำดาวทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_CABBAGE:
+  name: กะหล่ำปลีทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_CARROT:
+  name: แคร์รอตทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_CAULIFLOWER:
+  name: กะหล่ำดอกทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_CAYENNE_PEPPER:
+  name: พริกคาเยนทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_CELERIAC:
+  name: เซเลอริแอกทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_CELERY:
+  name: คื่นฉ่ายทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_CHERRY:
+  name: เชอร์รีทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_CHESTNUT:
+  name: เกาลัดทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_CHICKEN:
+  name: ไก่ทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_CHICKPEAS:
+  name: ถั่วลูกไก่ทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_CHICORY:
+  name: ชิคอรีทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_CHILLY_PEPPER:
+  name: พริกขี้หนูทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_CHIVES:
+  name: กุยช่ายทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_CHORUS_FRUIT:
+  name: ผลคอรัสทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_CILANTRO:
+  name: ผักชีทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_CINNAMON:
+  name: อบเชยทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_CLOVE:
+  name: กานพลูทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_COCOA_BEANS:
+  name: เมล็ดโกโก้ทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_COD:
+  name: ปลาค็อดทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_COURGETTE:
+  name: ซูกินีทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_CUCUMBER:
+  name: แตงกวาทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_CUMIN:
+  name: ยี่หร่าทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_CURRY_LEAF:
+  name: ใบแกงทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_DILL:
+  name: ผักชีลาวทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_EGG:
+  name: ไข่ทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_ENCHANTED_GOLDEN_APPLE:
+  name: แอปเปิ้ลทองร่ายมนตร์ทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_FENNEL:
+  name: เฟนเนลทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_GARLIC:
+  name: กระเทียมทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_GINGER:
+  name: ขิงทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_GLOW_BERRIES:
+  name: เบอร์รี่เรืองแสงทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_GOLDEN_APPLE:
+  name: แอปเปิ้ลทองทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_GOLDEN_CARROT:
+  name: แคร์รอตทองทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_GRAPE:
+  name: องุ่นทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_GREEN_APPLE:
+  name: แอปเปิ้ลเขียวทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_GREEN_BEANS:
+  name: ถั่วแขกทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_GREEN_ONION:
+  name: ต้นหอมทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_HAZELNUT:
+  name: เฮเซลนัตทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_HORSERADISH:
+  name: ฮอร์สแรดิชทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_JALAPENO:
+  name: พริกฮาลาเปโนทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_JASMINE:
+  name: มะลิทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_JUNIPER_BERRY:
+  name: ลูกจูนิเปอร์ทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_KAFFIR_LIME:
+  name: ใบมะกรูดทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_KALE:
+  name: เคลทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_KELP:
+  name: สาหร่ายทะเลทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_KIWI:
+  name: กีวีทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_LAVENDER:
+  name: ลาเวนเดอร์ทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_LEEK:
+  name: กระเทียมต้นทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_LEMON:
+  name: เลมอนทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_LETTUCE:
+  name: ผักกาดหอมทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_LICORICE:
+  name: ชะเอมเทศทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_LIME:
+  name: มะนาวทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_MACE:
+  name: ดอกจันทน์ทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_MANGO:
+  name: มะม่วงทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_MARJORAM:
+  name: มาจอแรมทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_MARROW:
+  name: ฟักมาร์โรว์ทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_MELON:
+  name: แตงโมทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_MINT:
+  name: สะระแหน่ทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_MUSTARD_SEEDS:
+  name: เมล็ดมัสตาร์ดทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_MUTTON:
+  name: เนื้อแกะทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_NETTLES:
+  name: ตำแยทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_OKRA:
+  name: กระเจี๊ยบเขียวทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_ONION:
+  name: หัวหอมทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_ORANGE:
+  name: ส้มทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_OREGANO:
+  name: ออริกาโนทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_PARSLEY:
+  name: พาร์สลีย์ทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_PARSNIP:
+  name: พาร์สนิปทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_PEA:
+  name: ถั่วลันเตาทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_PEACH:
+  name: พีชทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_PEANUT:
+  name: ถั่วลิสงทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_PEAR:
+  name: ลูกแพร์ทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_PECAN:
+  name: พีแคนทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_PEPPER:
+  name: พริกไทยดำทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_PEPPERONI:
+  name: เปปเปอโรนีทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_PINEAPPLE:
+  name: สับปะรดทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_PINTO_BEANS:
+  name: ถั่วพินโตทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_PORKCHOP:
+  name: เนื้อหมูทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_POTATO:
+  name: มันฝรั่งทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_PUFFERFISH:
+  name: ปลาปักเป้าทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_PUMPKIN:
+  name: ฟักทองทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_RABBIT:
+  name: กระต่ายทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_RADDISH:
+  name: หัวไชเท้าทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_RADICCHIO:
+  name: ราดิกคิโอทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_RAPESEED:
+  name: เรพซีดทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_RED_MUSHROOM:
+  name: เห็ดแดงทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_RHUBARB:
+  name: รูบาร์บทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_RICE:
+  name: ข้าวทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_ROSEMARY:
+  name: โรสแมรีทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_ROTTEN_FLESH:
+  name: เนื้อเน่าทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_RUNNER_BEANS:
+  name: ถั่วรันเนอร์ทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_RUTABAGA:
+  name: รูทาบากาทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_SALMON:
+  name: ปลาแซลมอนทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_SASSAFRAS:
+  name: แซสซาฟราสทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_SHALLOT:
+  name: หอมแดงทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_SHISO:
+  name: ชิโสะทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_SOY_BEANS:
+  name: ถั่วเหลืองทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_SPINACH:
+  name: ผักโขมทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_STAR_ANISE:
+  name: โป๊ยกั๊กทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_STRAWBERRY:
+  name: สตรอว์เบอร์รีทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_SUGAR:
+  name: น้ำตาลทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_SWEETCORN:
+  name: ข้าวโพดหวานทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_SWEET_BERRIES:
+  name: เบอร์รี่หวานทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_SWEET_POTATO:
+  name: มันเทศทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_TARRAGON:
+  name: ทาร์รากอนทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_THYME:
+  name: ไทม์ทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_TOMATO:
+  name: มะเขือเทศทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_TURMERIC:
+  name: ขมิ้นทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_TURNIP:
+  name: เทอร์นิปทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_VANILLA:
+  name: วานิลลาทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_WASABI:
+  name: วาซาบิทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRIED_WHEAT:
+  name: ข้าวสาลีทอด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_FRUIT_SALAD:
+  name: สลัดผลไม้
+  type:
+  - '&7&oอาหาร'
+  description:
+  - ถ้าเรียกว่าสลัด จะกินเท่าไหร่ก็ได้
+  - เพราะมันดีต่อสุขภาพไง
+  stats:
+  - '&8⇨ &7ฟื้นฟู: &b6 หัวใจ'
+  - '&8⇨ &bวิ่งเร็ว III &7(10:00)'
+CLT_FUGU:
+  name: ฟุกุ
+  type:
+  - '&7&oอาหาร'
+  description:
+  - พร้อมทอยลูกเต๋าหรือยัง?
+  stats:
+  - '&8⇨ &7ฟื้นฟู: &b1 หัวใจ'
+  - '&8⇨ &bโจมตีแรง V &7(10:00)'
+  - '&8⇨ &7มีโอกาส 33% ที่จะตายไปเลย!'
+CLT_GARDEN_CLOCHE:
+  name: ฝาครอบต้นไม้
+  type:
+  - '&7&oเครื่องจักร'
+  description:
+  - ปลูกพืชข้างในได้โดยอัตโนมัติ
+  stats:
+  - '&8⇨ &7พลังงานต่อติก: &b100'
+CLT_GARLIC:
+  name: กระเทียม
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - เร็วเข้า ก่อนแวมไพร์จะมา!
+CLT_GARLIC_BUTTER_MUSHROOMS:
+  name: เห็ดผัดเนยกระเทียม
+  type:
+  - '&7&oอาหาร'
+  description:
+  - อาจเป็นอาหารที่ดีที่สุดในโลกเลยก็ได้
+  stats:
+  - '&8⇨ &7ฟื้นฟู: &b2 หัวใจ'
+  - '&8⇨ &bเรืองแสง I &7(10:00)'
+CLT_GINGER:
+  name: ขิง
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - ขิงสับใส่น้ำเดือด รักษาได้ทุกโรค!
+CLT_GRAPE:
+  name: องุ่น
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - อวบอิ่มสุดๆ!
+CLT_GRAPE_JELLY:
+  name: เยลลี่องุ่น
+  type:
+  - '&7&oผลผลิต'
+  description: &id008
+  - กินด้วยช้อนถือเป็นความผิดทางอาญา
+CLT_GREEN_APPLE:
+  name: แอปเปิ้ลเขียว
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - ในโน้ตเขียนว่า... ถึงคุณครู?
+CLT_GREEN_BEANS:
+  name: ถั่วแขก
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - ตั้งชื่อได้สร้างสรรค์มาก!
+CLT_GREEN_ONION:
+  name: ต้นหอม
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - ใส่ทาโก้แล้วเข้ากันสุดๆ!
+CLT_GRILLED_APPLE:
+  name: แอปเปิ้ลย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_APRICOT:
+  name: แอปริคอตย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_ARTICHOKE:
+  name: อาร์ติโชกย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_ASPARAGUS:
+  name: หน่อไม้ฝรั่งย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_AUBERGINE:
+  name: มะเขือม่วงย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_AVOCADO:
+  name: อะโวคาโดย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_BANANA:
+  name: กล้วยย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_BASIL:
+  name: โหระพาย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_BAY_LEAF:
+  name: ใบกระวานย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_BEEF:
+  name: เนื้อวัวย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_BEETROOT:
+  name: บีตรูตย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_BELL_PEPPER:
+  name: พริกหวานย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_BLACK_BEANS:
+  name: ถั่วดำย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_BREAD:
+  name: ขนมปังย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_BROCCOLI:
+  name: บรอกโคลีย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_BROWN_MUSHROOM:
+  name: เห็ดน้ำตาลย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_BRUSSELS_SPROUTS:
+  name: กะหล่ำดาวย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_CABBAGE:
+  name: กะหล่ำปลีย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_CARROT:
+  name: แคร์รอตย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_CAULIFLOWER:
+  name: กะหล่ำดอกย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_CAYENNE_PEPPER:
+  name: พริกคาเยนย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_CELERIAC:
+  name: เซเลอริแอกย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_CELERY:
+  name: คื่นฉ่ายย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_CHERRY:
+  name: เชอร์รีย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_CHESTNUT:
+  name: เกาลัดย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_CHICKEN:
+  name: ไก่ย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_CHICKPEAS:
+  name: ถั่วลูกไก่ย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_CHICORY:
+  name: ชิคอรีย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_CHILLY_PEPPER:
+  name: พริกขี้หนูย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_CHIVES:
+  name: กุยช่ายย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_CHORUS_FRUIT:
+  name: ผลคอรัสย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_CILANTRO:
+  name: ผักชีย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_CINNAMON:
+  name: อบเชยย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_CLOVE:
+  name: กานพลูย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_COCOA_BEANS:
+  name: เมล็ดโกโก้ย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_COD:
+  name: ปลาค็อดย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_COURGETTE:
+  name: ซูกินีย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_CUCUMBER:
+  name: แตงกวาย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_CUMIN:
+  name: ยี่หร่าย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_CURRY_LEAF:
+  name: ใบแกงย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_DILL:
+  name: ผักชีลาวย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_EGG:
+  name: ไข่ย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_ENCHANTED_GOLDEN_APPLE:
+  name: แอปเปิ้ลทองร่ายมนตร์ย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_FENNEL:
+  name: เฟนเนลย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_GARLIC:
+  name: กระเทียมย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_GINGER:
+  name: ขิงย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_GLOW_BERRIES:
+  name: เบอร์รี่เรืองแสงย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_GOLDEN_APPLE:
+  name: แอปเปิ้ลทองย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_GOLDEN_CARROT:
+  name: แคร์รอตทองย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_GRAPE:
+  name: องุ่นย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_GREEN_APPLE:
+  name: แอปเปิ้ลเขียวย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_GREEN_BEANS:
+  name: ถั่วแขกย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_GREEN_ONION:
+  name: ต้นหอมย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_HAZELNUT:
+  name: เฮเซลนัตย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_HORSERADISH:
+  name: ฮอร์สแรดิชย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_JALAPENO:
+  name: พริกฮาลาเปโนย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_JASMINE:
+  name: มะลิย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_JUNIPER_BERRY:
+  name: ลูกจูนิเปอร์ย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_KAFFIR_LIME:
+  name: ใบมะกรูดย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_KALE:
+  name: เคลย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_KELP:
+  name: สาหร่ายทะเลย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_KIWI:
+  name: กีวีย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_LAVENDER:
+  name: ลาเวนเดอร์ย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_LEEK:
+  name: กระเทียมต้นย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_LEMON:
+  name: เลมอนย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_LETTUCE:
+  name: ผักกาดหอมย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_LICORICE:
+  name: ชะเอมเทศย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_LIME:
+  name: มะนาวย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_MACE:
+  name: ดอกจันทน์ย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_MANGO:
+  name: มะม่วงย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_MARJORAM:
+  name: มาจอแรมย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_MARROW:
+  name: ฟักมาร์โรว์ย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_MELON:
+  name: แตงโมย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_MINT:
+  name: สะระแหน่ย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_MUSTARD_SEEDS:
+  name: เมล็ดมัสตาร์ดย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_MUTTON:
+  name: เนื้อแกะย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_NETTLES:
+  name: ตำแยย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_OKRA:
+  name: กระเจี๊ยบเขียวย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_ONION:
+  name: หัวหอมย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_ORANGE:
+  name: ส้มย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_OREGANO:
+  name: ออริกาโนย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_PARSLEY:
+  name: พาร์สลีย์ย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_PARSNIP:
+  name: พาร์สนิปย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_PEA:
+  name: ถั่วลันเตาย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_PEACH:
+  name: พีชย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_PEANUT:
+  name: ถั่วลิสงย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_PEAR:
+  name: ลูกแพร์ย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_PECAN:
+  name: พีแคนย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_PEPPER:
+  name: พริกไทยดำย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_PEPPERONI:
+  name: เปปเปอโรนีย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_PINEAPPLE:
+  name: สับปะรดย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_PINTO_BEANS:
+  name: ถั่วพินโตย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_PORKCHOP:
+  name: เนื้อหมูย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_POTATO:
+  name: มันฝรั่งย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_PUFFERFISH:
+  name: ปลาปักเป้าย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_PUMPKIN:
+  name: ฟักทองย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_RABBIT:
+  name: กระต่ายย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_RADDISH:
+  name: หัวไชเท้าย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_RADICCHIO:
+  name: ราดิกคิโอย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_RAPESEED:
+  name: เรพซีดย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_RED_MUSHROOM:
+  name: เห็ดแดงย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_RHUBARB:
+  name: รูบาร์บย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_RICE:
+  name: ข้าวย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_ROSEMARY:
+  name: โรสแมรีย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_ROTTEN_FLESH:
+  name: เนื้อเน่าย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_RUNNER_BEANS:
+  name: ถั่วรันเนอร์ย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_RUTABAGA:
+  name: รูทาบากาย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_SALMON:
+  name: ปลาแซลมอนย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_SALMON_SALAD:
+  name: สลัดแซลมอนย่าง
+  type:
+  - '&7&oอาหาร'
+  description:
+  - กรอบร่วนกำลังดี ปรุงรสได้ยอดเยี่ยม
+  stats:
+  - '&8⇨ &7ฟื้นฟู: &b4 หัวใจ'
+  - '&8⇨ &bฟื้นฟูต่อเนื่อง I &7(10:00)'
+  - '&8⇨ &bเพิ่มเลือด V &7(10:00)'
+CLT_GRILLED_SASSAFRAS:
+  name: แซสซาฟราสย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_SHALLOT:
+  name: หอมแดงย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_SHISO:
+  name: ชิโสะย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_SOY_BEANS:
+  name: ถั่วเหลืองย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_SPINACH:
+  name: ผักโขมย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_STAR_ANISE:
+  name: โป๊ยกั๊กย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_STRAWBERRY:
+  name: สตรอว์เบอร์รีย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_SUGAR:
+  name: น้ำตาลย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_SWEETCORN:
+  name: ข้าวโพดหวานย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_SWEET_BERRIES:
+  name: เบอร์รี่หวานย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_SWEET_POTATO:
+  name: มันเทศย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_TARRAGON:
+  name: ทาร์รากอนย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_THYME:
+  name: ไทม์ย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_TOMATO:
+  name: มะเขือเทศย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_TURMERIC:
+  name: ขมิ้นย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_TURNIP:
+  name: เทอร์นิปย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_VANILLA:
+  name: วานิลลาย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_WASABI:
+  name: วาซาบิย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GRILLED_WHEAT:
+  name: ข้าวสาลีย่าง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_APPLE:
+  name: แอปเปิ้ลโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_APRICOT:
+  name: แอปริคอตโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_ARTICHOKE:
+  name: อาร์ติโชกโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_ASPARAGUS:
+  name: หน่อไม้ฝรั่งโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_AUBERGINE:
+  name: มะเขือม่วงโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_AVOCADO:
+  name: อะโวคาโดโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_BANANA:
+  name: กล้วยโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_BASIL:
+  name: โหระพาโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_BAY_LEAF:
+  name: ใบกระวานโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_BEEF:
+  name: เนื้อวัวโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_BEETROOT:
+  name: บีตรูตโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_BELL_PEPPER:
+  name: พริกหวานโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_BLACK_BEANS:
+  name: ถั่วดำโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_BREAD:
+  name: ขนมปังโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_BROCCOLI:
+  name: บรอกโคลีโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_BROWN_MUSHROOM:
+  name: เห็ดน้ำตาลโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_BRUSSELS_SPROUTS:
+  name: กะหล่ำดาวโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_CABBAGE:
+  name: กะหล่ำปลีโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_CARROT:
+  name: แคร์รอตโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_CAULIFLOWER:
+  name: กะหล่ำดอกโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_CAYENNE_PEPPER:
+  name: พริกคาเยนโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_CELERIAC:
+  name: เซเลอริแอกโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_CELERY:
+  name: คื่นฉ่ายโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_CHERRY:
+  name: เชอร์รีโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_CHESTNUT:
+  name: เกาลัดโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_CHICKEN:
+  name: ไก่โขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_CHICKPEAS:
+  name: ถั่วลูกไก่โขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_CHICORY:
+  name: ชิคอรีโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_CHILLY_PEPPER:
+  name: พริกขี้หนูโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_CHIVES:
+  name: กุยช่ายโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_CHORUS_FRUIT:
+  name: ผลคอรัสโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_CILANTRO:
+  name: ผักชีโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_CINNAMON:
+  name: อบเชยโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_CLOVE:
+  name: กานพลูโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_COCOA_BEANS:
+  name: เมล็ดโกโก้โขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_COD:
+  name: ปลาค็อดโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_COURGETTE:
+  name: ซูกินีโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_CUCUMBER:
+  name: แตงกวาโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_CUMIN:
+  name: ยี่หร่าโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_CURRY_LEAF:
+  name: ใบแกงโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_DILL:
+  name: ผักชีลาวโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_EGG:
+  name: ไข่โขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_ENCHANTED_GOLDEN_APPLE:
+  name: แอปเปิ้ลทองร่ายมนตร์โขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_FENNEL:
+  name: เฟนเนลโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_GARLIC:
+  name: กระเทียมโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_GINGER:
+  name: ขิงโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_GLOW_BERRIES:
+  name: เบอร์รี่เรืองแสงโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_GOLDEN_APPLE:
+  name: แอปเปิ้ลทองโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_GOLDEN_CARROT:
+  name: แคร์รอตทองโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_GRAPE:
+  name: องุ่นโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_GREEN_APPLE:
+  name: แอปเปิ้ลเขียวโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_GREEN_BEANS:
+  name: ถั่วแขกโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_GREEN_ONION:
+  name: ต้นหอมโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_HAZELNUT:
+  name: เฮเซลนัตโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_HORSERADISH:
+  name: ฮอร์สแรดิชโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_JALAPENO:
+  name: พริกฮาลาเปโนโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_JASMINE:
+  name: มะลิโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_JUNIPER_BERRY:
+  name: ลูกจูนิเปอร์โขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_KAFFIR_LIME:
+  name: ใบมะกรูดโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_KALE:
+  name: เคลโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_KELP:
+  name: สาหร่ายทะเลโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_KIWI:
+  name: กีวีโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_LAVENDER:
+  name: ลาเวนเดอร์โขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_LEEK:
+  name: กระเทียมต้นโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_LEMON:
+  name: เลมอนโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_LETTUCE:
+  name: ผักกาดหอมโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_LICORICE:
+  name: ชะเอมเทศโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_LIME:
+  name: มะนาวโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_MACE:
+  name: ดอกจันทน์โขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_MANGO:
+  name: มะม่วงโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_MARJORAM:
+  name: มาจอแรมโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_MARROW:
+  name: ฟักมาร์โรว์โขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_MELON:
+  name: แตงโมโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_MINT:
+  name: สะระแหน่โขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_MUSTARD_SEEDS:
+  name: เมล็ดมัสตาร์ดโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_MUTTON:
+  name: เนื้อแกะโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_NETTLES:
+  name: ตำแยโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_OKRA:
+  name: กระเจี๊ยบเขียวโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_ONION:
+  name: หัวหอมโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_ORANGE:
+  name: ส้มโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_OREGANO:
+  name: ออริกาโนโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_PARSLEY:
+  name: พาร์สลีย์โขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_PARSNIP:
+  name: พาร์สนิปโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_PEA:
+  name: ถั่วลันเตาโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_PEACH:
+  name: พีชโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_PEANUT:
+  name: ถั่วลิสงโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_PEAR:
+  name: ลูกแพร์โขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_PECAN:
+  name: พีแคนโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_PEPPER:
+  name: พริกไทยดำโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_PEPPERONI:
+  name: เปปเปอโรนีโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_PINEAPPLE:
+  name: สับปะรดโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_PINTO_BEANS:
+  name: ถั่วพินโตโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_PORKCHOP:
+  name: เนื้อหมูโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_POTATO:
+  name: มันฝรั่งโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_PUFFERFISH:
+  name: ปลาปักเป้าโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_PUMPKIN:
+  name: ฟักทองโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_RABBIT:
+  name: กระต่ายโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_RADDISH:
+  name: หัวไชเท้าโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_RADICCHIO:
+  name: ราดิกคิโอโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_RAPESEED:
+  name: เรพซีดโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_RED_MUSHROOM:
+  name: เห็ดแดงโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_RHUBARB:
+  name: รูบาร์บโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_RICE:
+  name: ข้าวโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_ROSEMARY:
+  name: โรสแมรีโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_ROTTEN_FLESH:
+  name: เนื้อเน่าโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_RUNNER_BEANS:
+  name: ถั่วรันเนอร์โขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_RUTABAGA:
+  name: รูทาบากาโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_SALMON:
+  name: ปลาแซลมอนโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_SASSAFRAS:
+  name: แซสซาฟราสโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_SHALLOT:
+  name: หอมแดงโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_SHISO:
+  name: ชิโสะโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_SOY_BEANS:
+  name: ถั่วเหลืองโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_SPINACH:
+  name: ผักโขมโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_STAR_ANISE:
+  name: โป๊ยกั๊กโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_STRAWBERRY:
+  name: สตรอว์เบอร์รีโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_SUGAR:
+  name: น้ำตาลโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_SWEETCORN:
+  name: ข้าวโพดหวานโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_SWEET_BERRIES:
+  name: เบอร์รี่หวานโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_SWEET_POTATO:
+  name: มันเทศโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_TARRAGON:
+  name: ทาร์รากอนโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_THYME:
+  name: ไทม์โขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_TOMATO:
+  name: มะเขือเทศโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_TURMERIC:
+  name: ขมิ้นโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_TURNIP:
+  name: เทอร์นิปโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_VANILLA:
+  name: วานิลลาโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_WASABI:
+  name: วาซาบิโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_GROUND_WHEAT:
+  name: ข้าวสาลีโขลก
+  type:
+  - '&7&oผลพลอยได้'
+CLT_HAZELNUT:
+  name: เฮเซลนัต
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - ทำยังไงก็ได้ให้มันกลายเป็น
+  - กาแฟให้ฉันเดี๋ยวนี้!
+CLT_HORSERADISH:
+  name: ฮอร์สแรดิช
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - ให้ $100 ถ้ากัดเข้าไปตรงๆ
+CLT_JALAPENO:
+  name: พริกฮาลาเปโน
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - ร้อน ร้อน ร้อน
+CLT_JASMINE:
+  name: มะลิ
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - ชงเป็นชาได้ยอดเยี่ยม
+CLT_JUNIPER_BERRY:
+  name: ลูกจูนิเปอร์
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - ตากแห้งจนเผ็ดร้อนกำลังดี
+CLT_KAFFIR_LIME:
+  name: ใบมะกรูด
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - ใบไม้ที่หอมสดชื่นทรงพลัง
+CLT_KALE:
+  name: เคล
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - ช่วยด้วย ฉันกลายเป็นฮิปสเตอร์สมูทตี้ปี 2020!
+CLT_KETCHUP:
+  name: ซอสมะเขือเทศ
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - ก็แค่มะเขือเทศในรูปแบบครีม
+CLT_KEY_LIME_PIE:
+  name: พายคีย์ไลม์
+  type:
+  - '&7&oอาหาร'
+  description:
+  - ดีที่สุดแล้ว!
+  stats:
+  - '&8⇨ &7ฟื้นฟู: &b6 หัวใจ'
+  - '&8⇨ &bขุดเร็ว IV &7(10:00)'
+CLT_KIWI:
+  name: กีวี
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - ฉันใส่สิ่งนี้ในแอดออนเพราะถูกบังคับ
+  - กีวีคือตัวร้าย และใครก็ตามที่
+  - ใช้มันจะเสียคะแนนทันที
+  - 100 คะแนน
+CLT_LASAGNA:
+  name: ลาซานญา
+  type:
+  - '&7&oอาหาร'
+  description:
+  - ความเจ๋งซ้อนกันหลายชั้น
+  stats:
+  - '&8⇨ &7ฟื้นฟู: &bเต็ม'
+  - '&8⇨ &bฟื้นฟูต่อเนื่อง II &7(10:00)'
+  - '&8⇨ &bทนทาน II &7(10:00)'
+CLT_LAVENDER:
+  name: ลาเวนเดอร์
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - กลิ่นที่ทำให้ฉันค่อยๆ เคลิ้มหลับ
+CLT_LEAVES_TREE_APRICOT:
+  name: ใบแอปริคอต
+  type:
+  - '&7&oใบไม้'
+CLT_LEAVES_TREE_BANANA:
+  name: ใบกล้วย
+  type:
+  - '&7&oใบไม้'
+CLT_LEAVES_TREE_CHERRY:
+  name: ใบเชอร์รี
+  type:
+  - '&7&oใบไม้'
+CLT_LEAVES_TREE_CHESTNUT:
+  name: ใบเกาลัด
+  type:
+  - '&7&oใบไม้'
+CLT_LEAVES_TREE_GREEN_APPLE:
+  name: ใบแอปเปิ้ลเขียว
+  type:
+  - '&7&oใบไม้'
+CLT_LEAVES_TREE_HAZELNUT:
+  name: ใบเฮเซลนัต
+  type:
+  - '&7&oใบไม้'
+CLT_LEAVES_TREE_KIWI:
+  name: ใบกีวี
+  type:
+  - '&7&oใบไม้'
+CLT_LEAVES_TREE_LEMON:
+  name: ใบเลมอน
+  type:
+  - '&7&oใบไม้'
+CLT_LEAVES_TREE_LIME:
+  name: ใบมะนาว
+  type:
+  - '&7&oใบไม้'
+CLT_LEAVES_TREE_MANGO:
+  name: ใบมะม่วง
+  type:
+  - '&7&oใบไม้'
+CLT_LEAVES_TREE_ORANGE:
+  name: ใบส้ม
+  type:
+  - '&7&oใบไม้'
+CLT_LEAVES_TREE_PEACH:
+  name: ใบพีช
+  type:
+  - '&7&oใบไม้'
+CLT_LEAVES_TREE_PEAR:
+  name: ใบแพร์
+  type:
+  - '&7&oใบไม้'
+CLT_LEAVES_TREE_PECAN:
+  name: ใบพีแคน
+  type:
+  - '&7&oใบไม้'
+CLT_LEAVES_TREE_PINEAPPLE:
+  name: ใบสับปะรด
+  type:
+  - '&7&oใบไม้'
+CLT_LEEK:
+  name: กระเทียมต้น
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - ทำไมมันมีน้ำหยดอยู่ล่ะ?
+  - หรือว่ามันรั่ว... เอ้ย ลีค?
+CLT_LEMON:
+  name: เลมอน
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - ทำหน้าเปรี้ยวทำไมจ๊ะ?
+CLT_LEMON_DROP:
+  name: ลูกอมเลมอน
+  type:
+  - '&7&oอาหาร'
+  description:
+  - ของล้างปาก
+  stats:
+  - '&8⇨ &7ล้างเอฟเฟกต์ทั้งหมดและทำให้คุณหิวอีกครั้ง'
+CLT_LETTUCE:
+  name: ผักกาดหอม
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - บาง ฉ่ำน้ำ แต่ก็ยังอร่อย
+CLT_LICORICE:
+  name: ชะเอมเทศ
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - วิ่ง วิ่งหนีไปเดี๋ยวนี้!
+CLT_LIME:
+  name: มะนาว
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - กาลครั้งหนึ่งนานมะนาวมาแล้ว มีผลไม้แสนอร่อยอยู่ลูกหนึ่ง...
+CLT_MACE:
+  name: ดอกจันทน์
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - ใช้ฉีดใส่หน้าคนร้าย
+  - '...'
+  - อะไรนะ ไม่ใช่สเปรย์พริกไทยแบบนั้นเหรอ?
+CLT_MANGO:
+  name: มะม่วง
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - แมน ฉันต้องโกแล้ว
+  - เขียนเนื้อเรื่องนี่ยากจัง...
+CLT_MARJORAM:
+  name: มาจอแรม
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - ตอนนี้ยุ่งแกงๆ อยู่ ไว้คุยทีหลังได้ไหม?
+CLT_MARROW:
+  name: ฟักมาร์โรว์
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - รู้ไหม มาร์โรว์มีอยู่ใน
+  - กระดูกของคุณด้วยนะ
+  - ใช่แล้ว เซฟิฉลาด
+CLT_MASHED_APPLE:
+  name: แอปเปิ้ลบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_APRICOT:
+  name: แอปริคอตบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_ARTICHOKE:
+  name: อาร์ติโชกบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_ASPARAGUS:
+  name: หน่อไม้ฝรั่งบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_AUBERGINE:
+  name: มะเขือม่วงบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_AVOCADO:
+  name: อะโวคาโดบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_BANANA:
+  name: กล้วยบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_BASIL:
+  name: โหระพาบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_BAY_LEAF:
+  name: ใบกระวานบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_BEEF:
+  name: เนื้อวัวบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_BEETROOT:
+  name: บีตรูตบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_BELL_PEPPER:
+  name: พริกหวานบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_BLACK_BEANS:
+  name: ถั่วดำบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_BREAD:
+  name: ขนมปังบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_BROCCOLI:
+  name: บรอกโคลีบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_BROWN_MUSHROOM:
+  name: เห็ดน้ำตาลบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_BRUSSELS_SPROUTS:
+  name: กะหล่ำดาวบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_CABBAGE:
+  name: กะหล่ำปลีบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_CARROT:
+  name: แคร์รอตบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_CAULIFLOWER:
+  name: กะหล่ำดอกบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_CAYENNE_PEPPER:
+  name: พริกคาเยนบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_CELERIAC:
+  name: เซเลอริแอกบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_CELERY:
+  name: คื่นฉ่ายบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_CHERRY:
+  name: เชอร์รีบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_CHESTNUT:
+  name: เกาลัดบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_CHICKEN:
+  name: ไก่บด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_CHICKPEAS:
+  name: ถั่วลูกไก่บด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_CHICORY:
+  name: ชิคอรีบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_CHILLY_PEPPER:
+  name: พริกขี้หนูบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_CHIVES:
+  name: กุยช่ายบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_CHORUS_FRUIT:
+  name: ผลคอรัสบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_CILANTRO:
+  name: ผักชีบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_CINNAMON:
+  name: อบเชยบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_CLOVE:
+  name: กานพลูบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_COCOA_BEANS:
+  name: เมล็ดโกโก้บด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_COD:
+  name: ปลาค็อดบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_COURGETTE:
+  name: ซูกินีบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_CUCUMBER:
+  name: แตงกวาบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_CUMIN:
+  name: ยี่หร่าบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_CURRY_LEAF:
+  name: ใบแกงบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_DILL:
+  name: ผักชีลาวบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_EGG:
+  name: ไข่บด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_ENCHANTED_GOLDEN_APPLE:
+  name: แอปเปิ้ลทองร่ายมนตร์บด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_FENNEL:
+  name: เฟนเนลบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_GARLIC:
+  name: กระเทียมบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_GINGER:
+  name: ขิงบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_GLOW_BERRIES:
+  name: เบอร์รี่เรืองแสงบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_GOLDEN_APPLE:
+  name: แอปเปิ้ลทองบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_GOLDEN_CARROT:
+  name: แคร์รอตทองบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_GRAPE:
+  name: องุ่นบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_GREEN_APPLE:
+  name: แอปเปิ้ลเขียวบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_GREEN_BEANS:
+  name: ถั่วแขกบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_GREEN_ONION:
+  name: ต้นหอมบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_HAZELNUT:
+  name: เฮเซลนัตบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_HORSERADISH:
+  name: ฮอร์สแรดิชบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_JALAPENO:
+  name: พริกฮาลาเปโนบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_JASMINE:
+  name: มะลิบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_JUNIPER_BERRY:
+  name: ลูกจูนิเปอร์บด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_KAFFIR_LIME:
+  name: ใบมะกรูดบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_KALE:
+  name: เคลบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_KELP:
+  name: สาหร่ายทะเลบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_KIWI:
+  name: กีวีบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_LAVENDER:
+  name: ลาเวนเดอร์บด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_LEEK:
+  name: กระเทียมต้นบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_LEMON:
+  name: เลมอนบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_LETTUCE:
+  name: ผักกาดหอมบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_LICORICE:
+  name: ชะเอมเทศบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_LIME:
+  name: มะนาวบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_MACE:
+  name: ดอกจันทน์บด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_MANGO:
+  name: มะม่วงบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_MARJORAM:
+  name: มาจอแรมบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_MARROW:
+  name: ฟักมาร์โรว์บด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_MELON:
+  name: แตงโมบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_MINT:
+  name: สะระแหน่บด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_MUSTARD_SEEDS:
+  name: เมล็ดมัสตาร์ดบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_MUTTON:
+  name: เนื้อแกะบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_NETTLES:
+  name: ตำแยบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_OKRA:
+  name: กระเจี๊ยบเขียวบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_ONION:
+  name: หัวหอมบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_ORANGE:
+  name: ส้มบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_OREGANO:
+  name: ออริกาโนบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_PARSLEY:
+  name: พาร์สลีย์บด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_PARSNIP:
+  name: พาร์สนิปบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_PEA:
+  name: ถั่วลันเตาบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_PEACH:
+  name: พีชบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_PEANUT:
+  name: ถั่วลิสงบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_PEAR:
+  name: ลูกแพร์บด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_PECAN:
+  name: พีแคนบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_PEPPER:
+  name: พริกไทยดำบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_PEPPERONI:
+  name: เปปเปอโรนีบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_PINEAPPLE:
+  name: สับปะรดบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_PINTO_BEANS:
+  name: ถั่วพินโตบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_PORKCHOP:
+  name: เนื้อหมูบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_POTATO:
+  name: มันฝรั่งบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_PUFFERFISH:
+  name: ปลาปักเป้าบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_PUMPKIN:
+  name: ฟักทองบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_RABBIT:
+  name: กระต่ายบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_RADDISH:
+  name: หัวไชเท้าบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_RADICCHIO:
+  name: ราดิกคิโอบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_RAPESEED:
+  name: เรพซีดบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_RED_MUSHROOM:
+  name: เห็ดแดงบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_RHUBARB:
+  name: รูบาร์บบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_RICE:
+  name: ข้าวบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_ROSEMARY:
+  name: โรสแมรีบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_ROTTEN_FLESH:
+  name: เนื้อเน่าบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_RUNNER_BEANS:
+  name: ถั่วรันเนอร์บด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_RUTABAGA:
+  name: รูทาบากาบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_SALMON:
+  name: ปลาแซลมอนบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_SASSAFRAS:
+  name: แซสซาฟราสบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_SHALLOT:
+  name: หอมแดงบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_SHISO:
+  name: ชิโสะบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_SOY_BEANS:
+  name: ถั่วเหลืองบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_SPINACH:
+  name: ผักโขมบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_STAR_ANISE:
+  name: โป๊ยกั๊กบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_STRAWBERRY:
+  name: สตรอว์เบอร์รีบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_SUGAR:
+  name: น้ำตาลบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_SWEETCORN:
+  name: ข้าวโพดหวานบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_SWEET_BERRIES:
+  name: เบอร์รี่หวานบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_SWEET_POTATO:
+  name: มันเทศบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_TARRAGON:
+  name: ทาร์รากอนบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_THYME:
+  name: ไทม์บด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_TOMATO:
+  name: มะเขือเทศบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_TURMERIC:
+  name: ขมิ้นบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_TURNIP:
+  name: เทอร์นิปบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_VANILLA:
+  name: วานิลลาบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_WASABI:
+  name: วาซาบิบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MASHED_WHEAT:
+  name: ข้าวสาลีบด
+  type:
+  - '&7&oผลพลอยได้'
+CLT_MAYONNAISE:
+  name: มายองเนส
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - มายองเนสเนียนนุ่มที่เข้ากับแทบทุกอย่าง
+CLT_MEATBALLS:
+  name: มีตบอล
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - ก้อนกลมๆ ทำจากเนื้อ ใครจะไปคิด
+CLT_MEATLOAF:
+  name: มีตโลฟ
+  type:
+  - '&7&oอาหาร'
+  description:
+  - ไม่มีอะไรเหมือน! ไปกันเลย
+  stats:
+  - '&8⇨ &7ฟื้นฟู: &bเต็ม'
+  - '&8⇨ &bเพิ่มเลือด IV &7(10:00)'
+  - '&8⇨ &bทนทาน III &7(10:00)'
+  - '&8⇨ &bขุดเร็ว II &7(10:00)'
+  - '&8⇨ &bวิ่งช้า II &7(10:00)'
+CLT_MINT:
+  name: สะระแหน่
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - เคี้ยว เคี้ยว เคี้ยว
+CLT_MUSTARD:
+  name: มัสตาร์ด
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - มีความแซ่บนิดๆ!
+CLT_MUSTARD_SEEDS:
+  name: เมล็ดพันธุ์มัสตาร์ด
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - ลองเคี้ยวดูสิ ท้าเลย!
+CLT_NETTLES:
+  name: ตำแย
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - กรุณาใส่ถุงมือก่อนจับ
+CLT_OKRA:
+  name: กระเจี๊ยบเขียว
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - ปลูกกันเยอะในโอครา-โฮมา... ใช่ไหม ใช่ไหม?
+CLT_ONION:
+  name: หัวหอม
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - เดี๋ยวนะ ร้องไห้ทำไม?
+CLT_ORANGE:
+  name: ส้ม
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - ไม่ใช่ว่าต้องเป็นส้มไขลานเหรอ?
+CLT_ORANGE_JUICE:
+  name: น้ำส้ม
+  type:
+  - '&7&oอาหาร'
+  description:
+  - เป็นวิธีเริ่มต้นวันที่ดีที่สุดจริงๆ
+  stats:
+  - '&8⇨ &bวิ่งเร็ว IV &7(10:00)'
+CLT_OREGANO:
+  name: ออริกาโน
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - สมุนไพรติดครัวคลาสสิก
+CLT_PARSLEY:
+  name: พาร์สลีย์
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - สมุนไพร ที่แย่ ที่สุด
+CLT_PARSNIP:
+  name: พาร์สนิป
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - ต้องเอาไปย่างทันที
+CLT_PASTA:
+  name: พาสต้า
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - พาสต้าธรรมดาๆ เรียบง่ายแต่ยอดเยี่ยม
+CLT_PEA:
+  name: ถั่วลันเตา
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - มักพบเป็นคู่ในฝัก ฉันได้ยินมาแบบนั้นนะ
+CLT_PEACH:
+  name: พีช
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - เราไม่พูดถึงอีโมจินั่นกัน
+CLT_PEANUT:
+  name: ถั่วลิสง
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - รีสเซส ฉันมาแล้ว!
+CLT_PEANUT_BUTTER:
+  name: เนยถั่ว
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - เทียบได้กับทองคำเหลวเท่านั้น
+CLT_PEANUT_BUTTER_JELLY_SANDWICH:
+  name: แซนด์วิชเนยถั่วเยลลี่
+  type:
+  - '&7&oอาหาร'
+  description:
+  - สุดยอดเทคโนโลยีแซนด์วิชจริงๆ
+  stats:
+  - '&8⇨ &7ฟื้นฟู: &b5 หัวใจ'
+  - '&8⇨ &bโจมตีแรง III &7(10:00)'
+CLT_PEAR:
+  name: ลูกแพร์
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - ดูแพร์เฟกต์ไหมล่ะ?
+CLT_PECAN:
+  name: พีแคน
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - แทบขอร้องให้เอาไปทำพาย
+CLT_PECAN_PIE:
+  name: พายพีแคน
+  type:
+  - '&7&oอาหาร'
+  description:
+  - วิธีเดียวที่จะกินน้ำตาลล้วนๆ
+  - โดยไม่โดนใครตัดสิน
+  stats:
+  - '&8⇨ &7ฟื้นฟู: &b4 หัวใจ'
+  - '&8⇨ &bลอยตัว I &7(10:00)'
+CLT_PEPPER:
+  name: พริกไทยดำ
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - เผ็ดกว่าเกลือ
+CLT_PEPPERONI:
+  name: เปปเปอโรนี
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - กินหมดทั้งแท่งก็ยังไหว สบายมาก
+CLT_PICO_DE_GALLO:
+  name: ปิโกเดกาโย
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - ซัลซารสอ่อนที่อร่อยล้วนๆ
+CLT_PIE_CRUST:
+  name: แป้งพาย
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - ถ้ากินเปล่าๆ ได้ถูกกฎหมายนะ
+  - นี่คงเป็นอาหารหลักของฉันไปแล้ว
+CLT_PINEAPPLE:
+  name: สับปะรด
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - นี่ควรอยู่บนพิซซ่าทุกถาดบนโลก
+  - อยากมีเรื่องเหรอ!?
+CLT_PINTO_BEANS:
+  name: ถั่วพินโต
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - ชิ้ง! ได้เวลาเบอร์ริโตแล้ว
+CLT_PIZZA_CHEESE:
+  name: พิซซ่าชีส
+  type:
+  - '&7&oอาหาร'
+  description:
+  - ทำไมใครจะสั่งแค่ชีส? ไม่รู้สิ
+  stats:
+  - '&8⇨ &7ฟื้นฟู: &b4 หัวใจ'
+  - '&8⇨ &bวิ่งช้า I &7(10:00)'
+CLT_PIZZA_MUSHROOM:
+  name: พิซซ่าเห็ด
+  type:
+  - '&7&oอาหาร'
+  description:
+  - พิซซ่ามังสวิรัติเรียบง่ายเต็มไปด้วยโปรตีน
+  stats:
+  - '&8⇨ &7ฟื้นฟู: &b6 หัวใจ'
+  - '&8⇨ &bวิ่งช้า I &7(10:00)'
+  - '&8⇨ &bขุดเร็ว II &7(10:00)'
+CLT_PIZZA_PEPPERONI:
+  name: พิซซ่าเปปเปอโรนี
+  type:
+  - '&7&oอาหาร'
+  description:
+  - คลาสสิกแห่งนิวยอร์ก รสชาติจัดเต็ม
+  stats:
+  - '&8⇨ &7ฟื้นฟู: &b6 หัวใจ'
+  - '&8⇨ &bวิ่งเร็ว I &7(10:00)'
+  - '&8⇨ &bขุดเร็ว I &7(10:00)'
+  - '&8⇨ &bกระโดดสูง I &7(10:00)'
+CLT_PLANT_AIR:
+  name: ต้นอากาศปฐมกาล
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชที่ฮัมเพลงเบาๆ ตาม
+  - ท่วงทำนองของธรรมชาติรอบตัว
+  - '&eพืชปฐมกาลไม่ให้ผลผลิต'
+  - '&eมีไว้เพื่อผสมพันธุ์เท่านั้น'
+CLT_PLANT_AMETHYST:
+  name: ต้นอเมทิสต์
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชนี้ชอบเติบโตในที่ลึก
+  - และมืด
+CLT_PLANT_ANALYSER:
+  name: เครื่องวิเคราะห์พืช
+  type:
+  - '&7&oเครื่องมือ'
+  description:
+  - เครื่องมือพื้นฐานที่ช่วยให้
+  - คุณดูรายละเอียดของพืชที่กำลังโต
+  usage:
+  - '&eคลิกขวา&7: บอกสายพันธุ์และรายละเอียดการเติบโตของพืช'
+  - '&eชิฟต์ + คลิกขวา&7: แสดงชื่อของพืชหรือพุ่มไม้'
+CLT_PLANT_BASALT:
+  name: ต้นหินบะซอลต์
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชที่น่าเบื่อและจืดชืดมาก
+CLT_PLANT_BEE:
+  name: ต้นผึ้ง
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชที่มีปีกเล็กๆ บอบบางคู่หนึ่ง
+CLT_PLANT_BLACKSTONE:
+  name: ต้นหินดำ
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชที่ขึ้นชื่อว่าดูดกลืนแสง
+CLT_PLANT_BLAZE:
+  name: ต้นเบลซ
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชที่ไหม้เกรียมตามขอบ
+CLT_PLANT_CHICKEN:
+  name: ต้นไก่
+  type:
+  - '&7&oพืช'
+  description:
+  - ลือกันว่าถ้าถือเมล็ดนี้
+  - ไว้เหนือหัวแล้วกระโดดจาก
+  - ที่สูง คุณจะร่อนลงแทนที่จะ
+  - ร่วงตกลงไป
+CLT_PLANT_CLAY:
+  name: ต้นดินเหนียว
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชนี้ปั้นและเปลี่ยนรูปทรงได้อิสระ
+  - แต่ก็ไม่ได้แปลว่าควรทำ
+  - นะ!
+CLT_PLANT_COAL:
+  name: ต้นถ่านหิน
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชที่เปี่ยมด้วยศักยภาพ
+CLT_PLANT_COBBLESTONE:
+  name: ต้นหินหยาบ
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชนี้แข็งเหมือนหิน
+CLT_PLANT_CONCRETE:
+  name: ต้นคอนกรีต
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชนี้โตยากเพราะ
+  - มันแข็งตัวเร็วมาก
+CLT_PLANT_COW:
+  name: ต้นวัว
+  type:
+  - '&7&oพืช'
+  description:
+  - ถ้าเอาเมล็ดนี้แนบหู
+  - แล้วตั้งใจฟังดีๆ จะได้ยิน
+  - เสียงมอๆ เป็นระยะ
+CLT_PLANT_CREEPER:
+  name: ต้นครีปเปอร์
+  type:
+  - '&7&oพืช'
+  description:
+  - ฟ่อออออออออ...
+CLT_PLANT_DARKNESS:
+  name: ต้นความมืดปฐมกาล
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชที่เดือดดาลด้วยความโกรธ
+  - อย่างไร้ขีดจำกัด
+  - '&eพืชปฐมกาลไม่ให้ผลผลิต'
+  - '&eมีไว้เพื่อผสมพันธุ์เท่านั้น'
+CLT_PLANT_DARK_FLORA:
+  name: ต้นพืชพรรณมืด
+  type:
+  - '&7&oพืช'
+  description:
+  - ความชั่วร้ายเงียบงันซ่อนอยู่ในเมล็ดธรรมดานี้
+CLT_PLANT_DARK_GRASS:
+  name: ต้นหญ้ามืด
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชที่สูญเสียตัวตน
+  - ไปแล้วจริงๆ
+CLT_PLANT_DEEPSLATE:
+  name: ต้นหินชนวนลึก
+  type:
+  - '&7&oพืช'
+  description:
+  - ลึก เป็นชนวน <ใส่เนื้อเรื่องตรงนี้>
+CLT_PLANT_DIAMOND:
+  name: ต้นเพชร
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชที่บ่งบอกถึงความร่ำรวย
+CLT_PLANT_DIM_LIT:
+  name: ต้นแสงสลัว
+  type:
+  - '&7&oพืช'
+  description:
+  - แสงสลัวมากเปล่งออกมาจากในเมล็ดนี้
+CLT_PLANT_DIRT:
+  name: ต้นดิน
+  type:
+  - '&7&oพืช'
+  description:
+  - ภายนอกดูสกปรก แต่ภายในมี
+  - องค์ประกอบพื้นฐานของชีวิต
+CLT_PLANT_DROWNED:
+  name: ต้นซอมบี้ใต้น้ำ
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชที่เปียกโชก
+  - ตลอดเวลา
+CLT_PLANT_DUSTY:
+  name: ต้นฝุ่นเขรอะ
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชนี้ต้องดูแลเป็นพิเศษ แค่ลม
+  - แรงนิดเดียวก็อาจทำให้มันแตก
+  - ละเอียดได้
+CLT_PLANT_EARTH:
+  name: ต้นปฐพีปฐมกาล
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชที่ทำให้โลก
+  - รอบตัวอุดมสมบูรณ์
+  - '&eพืชปฐมกาลไม่ให้ผลผลิต'
+  - '&eมีไว้เพื่อผสมพันธุ์เท่านั้น'
+CLT_PLANT_ECHO:
+  name: ต้นเสียงสะท้อน
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชนี้รู้เสมอว่าจะหา
+  - ทางกลับบ้านได้อย่างไร
+CLT_PLANT_ELDER_GUARDIAN:
+  name: ต้นพญาการ์เดี้ยน
+  type:
+  - '&7&oพืช'
+  description:
+  - อยู่ใกล้พืชนี้แล้วผู้คน
+  - จะเฉื่อยชา
+CLT_PLANT_EMERALD:
+  name: ต้นมรกต
+  type:
+  - '&7&oพืช'
+  description:
+  - เจ้าของพืชนี้ต้องฝ่าด่านมากมาย
+  - กว่าจะมีปัญญาซื้อมันได้
+CLT_PLANT_ENDERMAN:
+  name: ต้นเอนเดอร์แมน
+  type:
+  - '&7&oพืช'
+  description:
+  - ถ้าดูแลไม่ดี พืชนี้
+  - อาจวาร์ปไปมั่วๆ!
+CLT_PLANT_ENDER_DRAGON:
+  name: ต้นมังกรเอนเดอร์
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชระดับบอสของแท้
+CLT_PLANT_END_STONE:
+  name: ต้นหินเอนด์
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชที่ส่งเสียงฮัมแห่งความว่างเปล่า
+CLT_PLANT_FIRE:
+  name: ต้นไฟปฐมกาล
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชที่เป็นทั้ง
+  - ต้นกำเนิดของการทำลายล้าง
+  - และการเกิดใหม่
+  - '&eพืชปฐมกาลไม่ให้ผลผลิต'
+  - '&eมีไว้เพื่อผสมพันธุ์เท่านั้น'
+CLT_PLANT_FISH:
+  name: ต้นปลา
+  type:
+  - '&7&oพืช'
+  description:
+  - กลิ่นสุกงอมลอยออกมาจากเมล็ดนี้
+CLT_PLANT_FLOWER:
+  name: ต้นออกดอก
+  type:
+  - '&7&oพืช'
+  description:
+  - ความอุดมสมบูรณ์อันงดงามที่จัดวางไว้อย่างดี
+CLT_PLANT_FROG:
+  name: ต้นกบ
+  type:
+  - '&7&oพืช'
+  description:
+  - อ๊บ อ๊บ!
+CLT_PLANT_GHAST:
+  name: ต้นแก๊สต์
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชที่ขึ้นชื่อว่า
+  - ชอบยิงลูกไฟมั่วๆ
+CLT_PLANT_GLASS:
+  name: ต้นกระจก
+  type:
+  - '&7&oพืช'
+  description:
+  - ถ้ามองในมุมที่ใช่ คุณจะ
+  - สาบานได้เลยว่ามองทะลุพืชนี้ได้
+CLT_PLANT_GLAZED:
+  name: ต้นเคลือบเงา
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชที่เติบโตด้วยลวดลายอันประณีต
+CLT_PLANT_GLOWING_VINE:
+  name: ต้นเถาวัลย์เรืองแสง
+  type:
+  - '&7&oพืช'
+  description:
+  - แสงจางๆ เปล่งออกมาจากในเมล็ดนี้
+CLT_PLANT_GLOW_SQUID:
+  name: ต้นหมึกเรืองแสง
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชระยิบระยับที่เรืองแสงจางๆ
+CLT_PLANT_GOAT:
+  name: ต้นแพะ
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชที่ดุร้ายแบบสุ่มและชอบ
+  - กระโดดไปมา
+CLT_PLANT_GRASS:
+  name: ต้นหญ้า
+  type:
+  - '&7&oพืช'
+  description:
+  - ชีวิตที่ผลิบานพุ่ง
+  - ขึ้นมาจากพื้นดิน
+CLT_PLANT_GRAVEL:
+  name: ต้นกรวด
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชนี้ไม่รู้จริงๆ ว่าจะ
+  - ประคองตัวเองยังไง
+CLT_PLANT_GUARDIAN:
+  name: ต้นการ์เดี้ยน
+  type:
+  - '&7&oพืช'
+  description:
+  - เมื่อถูกสัมผัส พืชนี้จะ
+  - ปล่อยหนามออกมา
+CLT_PLANT_IGNEOUS:
+  name: ต้นหินอัคนี
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชนี้ก่อตัวจากความร้อนและ
+  - แรงดัน อย่ามองฉันแบบนั้นสิ! คำบรรยาย
+  - พืชพวกนี้สมเหตุสมผลทุกอย่างแหละ
+CLT_PLANT_LAPIS:
+  name: ต้นลาพิส
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชที่มีออร่าเวทมนตร์จางๆ
+CLT_PLANT_LIGHT:
+  name: ต้นแสงปฐมกาล
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชที่แผ่ออร่า
+  - แห่งความรักบริสุทธิ์
+  - '&eพืชปฐมกาลไม่ให้ผลผลิต'
+  - '&eมีไว้เพื่อผสมพันธุ์เท่านั้น'
+CLT_PLANT_MAGMA:
+  name: ต้นแมกมา
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชที่ร้อนจนเผาไหม้
+  - สิ่งรอบตัว
+CLT_PLANT_MAGMA_CUBE:
+  name: ต้นสไลม์ไฟ
+  type:
+  - '&7&oพืช'
+  description:
+  - ตอนไม่มีใครมอง พืชนี้
+  - ชอบเด้งขึ้นลง
+CLT_PLANT_MOSS:
+  name: ต้นมอส
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชนี้มักแพร่กระจายอย่างควบคุมไม่ได้
+CLT_PLANT_MUD:
+  name: ต้นโคลน
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชที่สกปรกพอๆ กับ
+  - ดินที่มันงอกขึ้นมา
+CLT_PLANT_MUSHROOM:
+  name: ต้นเห็ด
+  type:
+  - '&7&oพืช'
+  description:
+  - ใช่แล้ว พืชที่ออกเห็ด
+  - ทุกอย่างที่นี่ปกติดีทุกประการ
+CLT_PLANT_NETHERRACK:
+  name: ต้นหินเนเธอร์
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชที่แข็งแกร่งทนทาน อยู่รอดได้
+  - ในแทบทุกพื้นที่
+CLT_PLANT_NETHER_QUARTZ:
+  name: ต้นควอตซ์เนเธอร์
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชนี้มีหนามแหลมคมจน
+  - ทำงานด้วยยาก
+CLT_PLANT_PHANTOM:
+  name: ต้นแฟนท่อม
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชที่มีใบสูงเสียดฟ้า
+CLT_PLANT_PIG:
+  name: ต้นหมู
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชที่ส่งเสียงฟุดฟิดมั่วๆ
+CLT_PLANT_POWER:
+  name: ต้นพลังปฐมกาล
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชที่เปี่ยมพลังอย่างเห็นได้ชัด
+  - '&eพืชปฐมกาลไม่ให้ผลผลิต'
+  - '&eมีไว้เพื่อผสมพันธุ์เท่านั้น'
+CLT_PLANT_PURPUR:
+  name: ต้นเพอร์เพอร์
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชแปลกๆ ที่ดูเบากว่า
+  - พืชส่วนใหญ่มาก
+CLT_PLANT_RABBIT:
+  name: ต้นกระต่าย
+  type:
+  - '&7&oพืช'
+  description:
+  - แมลงคงภูมิใจ
+CLT_PLANT_RAINBOW:
+  name: ต้นสายรุ้ง
+  type:
+  - '&7&oพืช'
+  description:
+  - อาจจะมีหรือไม่มีหม้อทองคำ
+  - อยู่ที่ปลายพืชนี้ก็ได้
+CLT_PLANT_RAW_COPPER:
+  name: ต้นทองแดงดิบ
+  type:
+  - '&7&oพืช'
+  description:
+  - ถ้าปล่อยไว้ พืชนี้บางครั้ง
+  - ก็ดึงดูดฟ้าผ่า
+CLT_PLANT_RAW_GOLD:
+  name: ต้นทองดิบ
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชนี้มักถูกพิกลินขโมย
+  - ถ้าอยู่ใกล้ๆ
+CLT_PLANT_RAW_IRON:
+  name: ต้นเหล็กดิบ
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชแข็งแรงที่ทนทาน
+  - ได้แทบทุกสภาพแวดล้อม
+CLT_PLANT_REDSTONE:
+  name: ต้นเรดสโตน
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชที่เปี่ยมพลังไปทั่วทั้งต้น
+CLT_PLANT_RED_SAND:
+  name: ต้นทรายแดง
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชนี้บางครั้งก็แตกร่วนแค่
+  - สัมผัสเดียว แต่... แดงกว่า
+CLT_PLANT_REINFORCED:
+  name: ต้นเสริมแกร่ง
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชที่ยืนหยัดได้
+  - ไม่ว่าจะเจออะไร
+CLT_PLANT_SAND:
+  name: ต้นทราย
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชนี้บางครั้งก็แตกร่วน
+  - แค่สัมผัสเดียว
+CLT_PLANT_SAPLING:
+  name: ต้นกล้าไม้
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชนี้ไม่สมเหตุสมผลเลยสักนิด...
+CLT_PLANT_SCRAPPY:
+  name: ต้นเศษซาก
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชนี้คือจุดสูงสุดของ
+  - ศาสตร์แห่งการปลูกพืชจริงๆ
+CLT_PLANT_SHEEP:
+  name: ต้นแกะ
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชที่มีเนื้อสัมผัสหยาบเหมือนขนสัตว์
+CLT_PLANT_SHULKER:
+  name: ต้นชัลเกอร์
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชที่มักลอยตัว
+  - ขึ้นจากพื้น
+CLT_PLANT_SKELETON:
+  name: ต้นโครงกระดูก
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชที่ส่งเสียงกุกกักเวลาไหวตามลม
+CLT_PLANT_SLIME:
+  name: ต้นสไลม์
+  type:
+  - '&7&oพืช'
+  description:
+  - ทำไมมันเหนียวหนึบขนาดนี้?
+CLT_PLANT_SOUL:
+  name: ต้นวิญญาณ
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชที่ได้ยินเสียงกรีดร้อง
+  - ตอนที่เงียบสงัด
+CLT_PLANT_SPECTRUM:
+  name: ต้นสเปกตรัมปฐมกาล
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชที่เปลี่ยนสีไปมาเล็กน้อย
+  - '&eพืชปฐมกาลไม่ให้ผลผลิต'
+  - '&eมีไว้เพื่อผสมพันธุ์เท่านั้น'
+CLT_PLANT_SPIDER:
+  name: ต้นแมงมุม
+  type:
+  - '&7&oพืช'
+  description:
+  - ฆ่ามัน ฆ่ามันเดี๋ยวนี้!
+CLT_PLANT_SQUID:
+  name: ต้นหมึก
+  type:
+  - '&7&oพืช'
+  description:
+  - ระวังนะ แค่แตะพืชนี้ก็มีโอกาส
+  - ที่หมึกจะระเบิดกระจาย
+  - เลอะไปทั่ว
+CLT_PLANT_STAINED:
+  name: ต้นย้อมสี
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชนี้แยกแสงออกเป็นสเปกตรัม
+  - ส่องไปยังสิ่งของรอบๆ
+CLT_PLANT_TERRA:
+  name: ต้นเทอร์รา
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชดินแข็งที่แตกร้าวเมื่อเจอแรงกดดัน
+CLT_PLANT_TURTLE:
+  name: ต้นเต่า
+  type:
+  - '&7&oพืช'
+  description:
+  - เมล็ดที่หุ้มด้วยเปลือกแข็งเหมือนหิน
+CLT_PLANT_VILLAGER:
+  name: ต้นชาวบ้าน
+  type:
+  - '&7&oพืช'
+  description:
+  - ใช่แล้ว เราสกัดแก่นแท้ของชาวบ้าน
+  - ลงในพืช เห็นว่าเจ็บมากเลยนะ
+CLT_PLANT_VINE:
+  name: ต้นเถาวัลย์
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชที่พันตัวเองยุ่งเหยิง
+  - ทันที
+CLT_PLANT_WATER:
+  name: ต้นน้ำปฐมกาล
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชที่หล่อเลี้ยงและมอบ
+  - ชีวิตให้พื้นที่รอบๆ
+  - '&eพืชปฐมกาลไม่ให้ผลผลิต'
+  - '&eมีไว้เพื่อผสมพันธุ์เท่านั้น'
+CLT_PLANT_WAXY:
+  name: ต้นขี้ผึ้ง
+  type:
+  - '&7&oพืช'
+  description:
+  - ยางจากพืชนี้ก่อตัวเป็น
+  - ขี้ผึ้งรูปเทียนเป๊ะๆ
+CLT_PLANT_WEALTH:
+  name: ต้นความมั่งคั่งปฐมกาล
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชที่ตะโกนบอกถึงความร่ำรวยล้นเหลือ
+  - '&eพืชปฐมกาลไม่ให้ผลผลิต'
+  - '&eมีไว้เพื่อผสมพันธุ์เท่านั้น'
+CLT_PLANT_WITCH:
+  name: ต้นแม่มด
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชที่ฟังดูเหมือนกำลังพึมพำ
+  - ร่ายคาถาเบาๆ
+CLT_PLANT_WITHER:
+  name: ต้นวิทเธอร์
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชมรณะที่ต้องดูแล
+  - ด้วยความระมัดระวัง
+CLT_PLANT_WITHER_ROSE:
+  name: ต้นกุหลาบวิทเธอร์
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชนี้แผ่ออร่าอันตราย
+  - รอบตัวเป็นจังหวะ ไม่รู้ทำได้ไง
+CLT_PLANT_WITHER_SKELETON:
+  name: ต้นโครงกระดูกวิทเธอร์
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชที่ขึ้นชื่อว่าหายากและทนทาน
+CLT_PLANT_WOOLLY:
+  name: ต้นขนปุย
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชขนปุย ตั้งแต่รากจรดกลีบ!
+CLT_PLANT_ZOMBIE:
+  name: ต้นซอมบี้
+  type:
+  - '&7&oพืช'
+  description:
+  - พืชนี้มีอะไรบางอย่างหยดอยู่...
+CLT_RADDISH:
+  name: หัวไชเท้า
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - กระเป๋าแสงแดดเล็กๆ สดกรอบ
+CLT_RADICCHIO:
+  name: ราดิกคิโอ
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - เขียนเนื้อเรื่องทั้งหมดนี่ใช้เวลานานมาก
+  - มันราดิกคิโอ...สุดๆ
+CLT_RAMEN_BEEF:
+  name: ราเมนเนื้อ
+  type:
+  - '&7&oอาหาร'
+  description:
+  - ทางเลือกที่ไม่ค่อยดีต่อสุขภาพ
+  stats: &id004
+  - '&8⇨ &bเพิ่มเลือด I &7(10:00)'
+CLT_RAMEN_BEEF_HEARTY:
+  name: ราเมนเนื้อจัดเต็ม
+  type:
+  - '&7&oอาหาร'
+  description:
+  - ทางเลือกที่ดีต่อสุขภาพ
+  stats: &id005
+  - '&8⇨ &7ฟื้นฟู: &bเต็ม'
+  - '&8⇨ &bเพิ่มเลือด II &7(10:00)'
+  - '&8⇨ &bวิ่งเร็ว I &7(10:00)'
+CLT_RAMEN_CHICKEN:
+  name: ราเมนไก่
+  type:
+  - '&7&oอาหาร'
+  description:
+  - ทางเลือกที่ไม่ค่อยอิ่มท้อง
+  stats: *id004
+CLT_RAMEN_CHICKEN_HEARTY:
+  name: ราเมนไก่จัดเต็ม
+  type:
+  - '&7&oอาหาร'
+  description:
+  - ทางเลือกที่อิ่มท้อง
+  stats: *id005
+CLT_RAMEN_SEAFOOD:
+  name: ราเมนซีฟู้ด
+  type:
+  - '&7&oอาหาร'
+  description:
+  - ทางเลือกที่ไม่ค่อยน่าพอใจ
+  stats: *id004
+CLT_RAMEN_SEAFOOD_HEARTY:
+  name: ราเมนซีฟู้ดจัดเต็ม
+  type:
+  - '&7&oอาหาร'
+  description:
+  - ทางเลือกที่น่าพอใจ
+  stats: *id005
+CLT_RAPESEED:
+  name: เรพซีด
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - มักใช้สกัดน้ำมัน
+CLT_RECIPE_UNLOCK:
+  name: คัมภีร์ความรู้คัลทิเวชัน
+  type:
+  - '&7&oเครื่องมือ'
+  description:
+  - คลิกขวาเพื่อเรียนรู้สูตรผสมพันธุ์
+  - ของคัลทิเวชัน
+CLT_RHUBARB:
+  name: รูบาร์บ
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - อย่าลืมเด็ดใบออกด้วยล่ะ!
+CLT_RICE:
+  name: ข้าว
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - จำไว้ ชีวิตมีครั้งเดียว กินข้าวให้คุ้ม!
+CLT_ROSEMARY:
+  name: โรสแมรี
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - มักพลาดไทม์มิ่ง
+CLT_RUNNER_BEANS:
+  name: ถั่วรันเนอร์
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - ชอบวิ่งหนีอยู่เรื่อย
+CLT_RUTABAGA:
+  name: รูทาบากา
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - เจ็บใจจริงๆ ที่ไม่ได้เรียกมันว่าสวีด
+CLT_SALMON_NIGIRI:
+  name: นิกิริแซลมอน
+  type:
+  - '&7&oอาหาร'
+  description:
+  - รสชาติละมุนแต่ลึกซึ้ง
+  stats:
+  - '&8⇨ &7ฟื้นฟู: &b2 หัวใจ'
+  - '&8⇨ &bฟื้นฟูต่อเนื่อง I &7(10:00)'
+CLT_SASSAFRAS:
+  name: แซสซาฟราส
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - รูทเบียร์ที่กินได้ เอาจริง ลองกูเกิล
+  - ดูสิ ตอนนี้ฉันซื้อมันตลอดเลย
+CLT_SAUSAGE:
+  name: ไส้กรอก
+  type:
+  - '&7&oอาหาร'
+  description:
+  - พี่น้องของเบคอน
+  stats: &id007
+  - '&8⇨ &7ฟื้นฟู: &b1 หัวใจ'
+CLT_SEED_PACK:
+  name: ซองเมล็ดพันธุ์
+  type:
+  - '&7&oเครื่องมือ'
+  description:
+  - คลิกขวาเพื่อเปิดซองนี้
+  stats:
+  - '&8⇨ &7ตั้งค่าเป็น: &bไม่มี'
+CLT_SHAKSHUKA:
+  name: ชักชูกา
+  type:
+  - '&7&oอาหาร'
+  description:
+  - อาหารอุ่นใจที่มีไข่เยอะจนกินไม่หมด
+  stats:
+  - '&8⇨ &7ฟื้นฟู: &b4 หัวใจ'
+  - '&8⇨ &bฮีโร่ของหมู่บ้าน I &7(10:00)'
+  - '&8⇨ &bโชค I &7(10:00)'
+CLT_SHALLOT:
+  name: หอมแดง
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - ฉันรักหอมแดง หอมจนแดงเลย
+CLT_SHEPHERDS_PIE:
+  name: พายเชพเพิร์ด
+  type:
+  - '&7&oอาหาร'
+  description:
+  - อุ่น อิ่ม และยอดเยี่ยม
+  stats: *id006
+CLT_SHISO:
+  name: ชิโสะ
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - สะระแหน่เสิร์ฟพร้อมความรัก
+CLT_SLICED_APPLE:
+  name: แอปเปิ้ลหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_APRICOT:
+  name: แอปริคอตหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_ARTICHOKE:
+  name: อาร์ติโชกหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_ASPARAGUS:
+  name: หน่อไม้ฝรั่งหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_AUBERGINE:
+  name: มะเขือม่วงหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_AVOCADO:
+  name: อะโวคาโดหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_BANANA:
+  name: กล้วยหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_BASIL:
+  name: โหระพาหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_BAY_LEAF:
+  name: ใบกระวานหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_BEEF:
+  name: เนื้อวัวหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_BEETROOT:
+  name: บีตรูตหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_BELL_PEPPER:
+  name: พริกหวานหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_BLACK_BEANS:
+  name: ถั่วดำหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_BREAD:
+  name: ขนมปังหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_BROCCOLI:
+  name: บรอกโคลีหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_BROWN_MUSHROOM:
+  name: เห็ดน้ำตาลหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_BRUSSELS_SPROUTS:
+  name: กะหล่ำดาวหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_CABBAGE:
+  name: กะหล่ำปลีหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_CARROT:
+  name: แคร์รอตหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_CAULIFLOWER:
+  name: กะหล่ำดอกหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_CAYENNE_PEPPER:
+  name: พริกคาเยนหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_CELERIAC:
+  name: เซเลอริแอกหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_CELERY:
+  name: คื่นฉ่ายหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_CHERRY:
+  name: เชอร์รีหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_CHESTNUT:
+  name: เกาลัดหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_CHICKEN:
+  name: ไก่หั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_CHICKPEAS:
+  name: ถั่วลูกไก่หั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_CHICORY:
+  name: ชิคอรีหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_CHILLY_PEPPER:
+  name: พริกขี้หนูหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_CHIVES:
+  name: กุยช่ายหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_CHORUS_FRUIT:
+  name: ผลคอรัสหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_CILANTRO:
+  name: ผักชีหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_CINNAMON:
+  name: อบเชยหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_CLOVE:
+  name: กานพลูหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_COCOA_BEANS:
+  name: เมล็ดโกโก้หั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_COD:
+  name: ปลาค็อดหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_COURGETTE:
+  name: ซูกินีหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_CUCUMBER:
+  name: แตงกวาหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_CUMIN:
+  name: ยี่หร่าหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_CURRY_LEAF:
+  name: ใบแกงหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_DILL:
+  name: ผักชีลาวหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_EGG:
+  name: ไข่หั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_ENCHANTED_GOLDEN_APPLE:
+  name: แอปเปิ้ลทองร่ายมนตร์หั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_FENNEL:
+  name: เฟนเนลหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_GARLIC:
+  name: กระเทียมหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_GINGER:
+  name: ขิงหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_GLOW_BERRIES:
+  name: เบอร์รี่เรืองแสงหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_GOLDEN_APPLE:
+  name: แอปเปิ้ลทองหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_GOLDEN_CARROT:
+  name: แคร์รอตทองหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_GRAPE:
+  name: องุ่นหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_GREEN_APPLE:
+  name: แอปเปิ้ลเขียวหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_GREEN_BEANS:
+  name: ถั่วแขกหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_GREEN_ONION:
+  name: ต้นหอมหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_HAZELNUT:
+  name: เฮเซลนัตหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_HORSERADISH:
+  name: ฮอร์สแรดิชหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_JALAPENO:
+  name: พริกฮาลาเปโนหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_JASMINE:
+  name: มะลิหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_JUNIPER_BERRY:
+  name: ลูกจูนิเปอร์หั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_KAFFIR_LIME:
+  name: ใบมะกรูดหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_KALE:
+  name: เคลหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_KELP:
+  name: สาหร่ายทะเลหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_KIWI:
+  name: กีวีหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_LAVENDER:
+  name: ลาเวนเดอร์หั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_LEEK:
+  name: กระเทียมต้นหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_LEMON:
+  name: เลมอนหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_LETTUCE:
+  name: ผักกาดหอมหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_LICORICE:
+  name: ชะเอมเทศหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_LIME:
+  name: มะนาวหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_MACE:
+  name: ดอกจันทน์หั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_MANGO:
+  name: มะม่วงหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_MARJORAM:
+  name: มาจอแรมหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_MARROW:
+  name: ฟักมาร์โรว์หั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_MELON:
+  name: แตงโมหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_MINT:
+  name: สะระแหน่หั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_MUSTARD_SEEDS:
+  name: เมล็ดมัสตาร์ดหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_MUTTON:
+  name: เนื้อแกะหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_NETTLES:
+  name: ตำแยหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_OKRA:
+  name: กระเจี๊ยบเขียวหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_ONION:
+  name: หัวหอมหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_ORANGE:
+  name: ส้มหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_OREGANO:
+  name: ออริกาโนหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_PARSLEY:
+  name: พาร์สลีย์หั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_PARSNIP:
+  name: พาร์สนิปหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_PEA:
+  name: ถั่วลันเตาหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_PEACH:
+  name: พีชหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_PEANUT:
+  name: ถั่วลิสงหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_PEAR:
+  name: ลูกแพร์หั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_PECAN:
+  name: พีแคนหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_PEPPER:
+  name: พริกไทยดำหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_PEPPERONI:
+  name: เปปเปอโรนีหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_PINEAPPLE:
+  name: สับปะรดหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_PINTO_BEANS:
+  name: ถั่วพินโตหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_PORKCHOP:
+  name: เนื้อหมูหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_POTATO:
+  name: มันฝรั่งหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_PUFFERFISH:
+  name: ปลาปักเป้าหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_PUMPKIN:
+  name: ฟักทองหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_RABBIT:
+  name: กระต่ายหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_RADDISH:
+  name: หัวไชเท้าหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_RADICCHIO:
+  name: ราดิกคิโอหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_RAPESEED:
+  name: เรพซีดหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_RED_MUSHROOM:
+  name: เห็ดแดงหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_RHUBARB:
+  name: รูบาร์บหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_RICE:
+  name: ข้าวหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_ROSEMARY:
+  name: โรสแมรีหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_ROTTEN_FLESH:
+  name: เนื้อเน่าหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_RUNNER_BEANS:
+  name: ถั่วรันเนอร์หั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_RUTABAGA:
+  name: รูทาบากาหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_SALMON:
+  name: ปลาแซลมอนหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_SASSAFRAS:
+  name: แซสซาฟราสหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_SHALLOT:
+  name: หอมแดงหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_SHISO:
+  name: ชิโสะหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_SOY_BEANS:
+  name: ถั่วเหลืองหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_SPINACH:
+  name: ผักโขมหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_STAR_ANISE:
+  name: โป๊ยกั๊กหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_STRAWBERRY:
+  name: สตรอว์เบอร์รีหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_SUGAR:
+  name: น้ำตาลหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_SWEETCORN:
+  name: ข้าวโพดหวานหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_SWEET_BERRIES:
+  name: เบอร์รี่หวานหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_SWEET_POTATO:
+  name: มันเทศหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_TARRAGON:
+  name: ทาร์รากอนหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_THYME:
+  name: ไทม์หั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_TOMATO:
+  name: มะเขือเทศหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_TURMERIC:
+  name: ขมิ้นหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_TURNIP:
+  name: เทอร์นิปหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_VANILLA:
+  name: วานิลลาหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_WASABI:
+  name: วาซาบิหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SLICED_WHEAT:
+  name: ข้าวสาลีหั่นบาง
+  type:
+  - '&7&oผลพลอยได้'
+CLT_SOFT_BOILED_EGG:
+  name: ไข่ลวก
+  type:
+  - '&7&oอาหาร'
+  description:
+  - ก็แค่ไข่ต้ม จะพูดอะไรอีกล่ะ
+  stats:
+  - '&8⇨ &7ฟื้นฟู: &b1 หัวใจ'
+  - '&8⇨ &7บางครั้งก็เรียกไก่มาช่วยคุณได้'
+CLT_SOYLENT:
+  name: ซอยเลนต์
+  type:
+  - '&7&oอาหาร'
+  description:
+  - ทุกอย่างที่ร่างกายต้องการ!
+  stats:
+  - '&8⇨ &bลางร้าย I &7(10:00)'
+  - '&8⇨ &bโจมตีเบา IV &7(10:00)'
+CLT_SOY_BEANS:
+  name: ถั่วเหลือง
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - นมถั่วเหลืองมาแล้ว
+CLT_SPAGHETTI:
+  name: สปาเกตตี
+  type:
+  - '&7&oอาหาร'
+  description:
+  - ซดต่อไปเรื่อยๆ
+  stats: *id007
+CLT_SPAGHETTI_AND_MEATBALLS:
+  name: สปาเกตตีมีตบอล
+  type:
+  - '&7&oอาหาร'
+  description:
+  - เรียบง่าย คลาสสิก และอิ่มท้อง
+  stats:
+  - '&8⇨ &7ฟื้นฟู: &b1 หัวใจ'
+  - '&8⇨ &bลางร้าย I &7(10:00)'
+CLT_SPINACH:
+  name: ผักโขม
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - เหี่ยวด้วยความรัก
+CLT_STAR_ANISE:
+  name: โป๊ยกั๊ก
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - หนึ่งในรสชาติที่ดีที่สุดและมีเอกลักษณ์ที่สุด
+CLT_STRAWBERRY:
+  name: สตรอว์เบอร์รี
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - แค่เติมครีม!
+CLT_STRAWBERRY_JELLY:
+  name: เยลลี่สตรอว์เบอร์รี
+  type:
+  - '&7&oผลผลิต'
+  description: *id008
+CLT_SUGARED_SKULL:
+  name: หัวกะโหลกน้ำตาล
+  type:
+  - '&7&oอาหาร'
+  description:
+  - นี่มันอาหารจริงเหรอ...?
+  stats:
+  - '&8⇨ &bมืดมิด III &7(10:00)'
+CLT_SWEETCORN:
+  name: ข้าวโพดหวาน
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - อาจเป็นผักที่ดีที่สุดแล้วก็ได้
+CLT_SWEET_BEEHIVE:
+  name: รังผึ้งหวาน
+  type:
+  - '&7&oอาหาร'
+  description:
+  - ไม่รู้ว่าอะไรทำให้คุณอยากทำเมนูนี้!
+  stats:
+  - '&8⇨ &7เรียกผึ้งออกมา!'
+CLT_SWEET_POTATO:
+  name: มันเทศ
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - ยำ ยำ ยำ
+CLT_TAQUITO:
+  name: ทาคิโตะ
+  type:
+  - '&7&oอาหาร'
+  description:
+  - ซิมคงภูมิใจ!
+  stats:
+  - '&8⇨ &7ฟื้นฟู: &b4 หัวใจ'
+  - '&8⇨ &7เรียกเกอร์มาช่วย (มันคือโกเลมเหล็ก ใจเย็นๆ)'
+CLT_TARRAGON:
+  name: ทาร์รากอน
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - ฉันใส่สิ่งนี้กับทุกอย่างจริงๆ
+  - 'สปอยล์: ฉันไม่ใช่เชฟที่เก่ง'
+CLT_TATER_TOTS:
+  name: มันฝรั่งทอดก้อนจิ๋ว
+  type:
+  - '&7&oอาหาร'
+  description:
+  - มันฝรั่งก้อนจิ๋วกินเพลิน
+  stats:
+  - '&8⇨ &7ฟื้นฟู: &b0.5 หัวใจ'
+  - '&8⇨ &bวิ่งเร็ว II &7(10:00)'
+CLT_THYME:
+  name: ไทม์
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - มักคิดถึงโรสแมรี
+CLT_TOMATO:
+  name: มะเขือเทศ
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - สดจากเถา.... เอ่อ... พุ่ม?
+CLT_TORTILLAS:
+  name: ตอร์ตียา
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - ความอร่อยจากแป้งข้าวโพด
+CLT_TREE_APRICOT:
+  name: ต้นแอปริคอต
+  type:
+  - '&7&oกล้าไม้'
+  description:
+  - ข้างในมีเมล็ดแห่งความสิ้นหวังอยู่หนึ่งเม็ด
+  stats: &id009
+  - '&8⇨ &7ออกแบบโดย: &bบีไวต์'
+CLT_TREE_BANANA:
+  name: ต้นกล้วย
+  type:
+  - '&7&oกล้าไม้'
+  description:
+  - ต้นไม้ที่งอกนิ้วออกมา น่าขนลุก!
+  stats:
+  - '&8⇨ &7ออกแบบโดย: &bเซฟิราต'
+CLT_TREE_CHERRY:
+  name: ต้นเชอร์รี
+  type:
+  - '&7&oกล้าไม้'
+  description:
+  - ผูกปมกันเลย!
+  stats:
+  - '&8⇨ &7ออกแบบโดย: &bรีซันฟาวด์ดีคอย'
+CLT_TREE_CHESTNUT:
+  name: ต้นเกาลัด
+  type:
+  - '&7&oกล้าไม้'
+  description:
+  - ต้นไม้ที่ออกแบบมาให้ปีนชัดๆ
+  stats: &id010
+  - '&8⇨ &7ออกแบบโดย: &bอะบิตออดดิช'
+CLT_TREE_GREEN_APPLE:
+  name: ต้นแอปเปิ้ลเขียว
+  type:
+  - '&7&oกล้าไม้'
+  description:
+  - ออกผลแอปเปิ้ลเขียวลูกใหญ่กรอบอร่อย
+  stats: *id009
+CLT_TREE_HAZELNUT:
+  name: ต้นเฮเซลนัต
+  type:
+  - '&7&oกล้าไม้'
+  description:
+  - เขย่าต้นนี้คืองานอดิเรกวัยเด็ก
+  stats: *id010
+CLT_TREE_KIWI:
+  name: ต้นกีวี
+  type:
+  - '&7&oกล้าไม้'
+  description:
+  - ต้นไม้นิวซีแลนด์? ฉันพูดถูกใช่ไหม?
+  stats: *id010
+CLT_TREE_LEMON:
+  name: ต้นเลมอน
+  type:
+  - '&7&oกล้าไม้'
+  description:
+  - แค่มองต้นนี้ก็รู้สึกเปรี้ยวแล้ว
+  stats: &id011
+  - '&8⇨ &7ออกแบบโดย: &bเจฟ'
+CLT_TREE_LIME:
+  name: ต้นมะนาว
+  type:
+  - '&7&oกล้าไม้'
+  description:
+  - รู้ไหม มะนาวก็คือเลมอนที่กำลังกลั้นหายใจอยู่
+  stats: *id010
+CLT_TREE_MANGO:
+  name: ต้นมะม่วง
+  type:
+  - '&7&oกล้าไม้'
+  description:
+  - อร่อยที่สุดตอนสุกเต็มที่
+  stats: *id009
+CLT_TREE_ORANGE:
+  name: ต้นส้ม
+  type:
+  - '&7&oกล้าไม้'
+  description:
+  - ลูกกลมๆ แห่งแสงแดด
+  stats: *id011
+CLT_TREE_PEACH:
+  name: ต้นพีช
+  type:
+  - '&7&oกล้าไม้'
+  description:
+  - เจมส์ตามหาสิ่งนี้อยู่ ใช่ไหมนะ?
+  stats: *id010
+CLT_TREE_PEAR:
+  name: ต้นแพร์
+  type:
+  - '&7&oกล้าไม้'
+  description:
+  - แพร์สองลูกจับคู่กันเป็นแพร์อย่างแฟร์ๆ
+  stats: *id009
+CLT_TREE_PECAN:
+  name: ต้นพีแคน
+  type:
+  - '&7&oกล้าไม้'
+  description:
+  - ปลูกต้นนี้ได้ไหม? ได้สิ พีแคนทำได้!
+  stats: *id009
+CLT_TREE_PINEAPPLE:
+  name: ต้นสับปะรด
+  type:
+  - '&7&oกล้าไม้'
+  description:
+  - พิซซ่าของฉันอยู่ไหน?
+  stats: *id010
+CLT_TURMERIC:
+  name: ขมิ้น
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - กลิ่นมัสก์เข้มข้นที่เติมเต็มอาหารได้หลายจาน
+CLT_TURNIP:
+  name: เทอร์นิป
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - จะแก้ปัญหาชีวิตได้ทุกอย่าง
+CLT_VANILLA:
+  name: วานิลลา
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - 'วิธีใช้: จุ่มลงในลาเต้โดยตรง'
+CLT_WASABI:
+  name: วาซาบิ
+  type:
+  - '&7&oผลผลิต'
+  description:
+  - ช่วยด้วย... วาซาบิ...
+CLT_WITHER_ROSE_SALAD:
+  name: สลัดกุหลาบวิทเธอร์
+  type:
+  - '&7&oอาหาร'
+  description:
+  - เปี่ยมพลัง แต่มีผลข้างเคียงรุนแรง
+  stats:
+  - '&8⇨ &7ฟื้นฟู: &bเต็ม'
+  - '&8⇨ &bเหี่ยวเฉา II &7(10:00)'
+  - '&8⇨ &bเพิ่มเลือด XX &7(10:00)'

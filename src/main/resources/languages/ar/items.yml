@@ -1,0 +1,6674 @@
+CLT_APRICOT:
+  name: مشمشة
+  type:
+  - '&7&oمحصول'
+  description:
+  - يمكنك صنع كرات بوكيمون من هذا.
+  - '...'
+  - ماذا تقصد أن هذا شيء مختلف...؟
+CLT_ARTICHOKE:
+  name: خرشوف
+  type:
+  - '&7&oمحصول'
+  description:
+  - انتزع قلبه!
+CLT_ASPARAGUS:
+  name: هليون
+  type:
+  - '&7&oمحصول'
+  description:
+  - احذر عند زيارة الحمام لاحقًا.
+CLT_AUBERGINE:
+  name: باذنجان
+  type:
+  - '&7&oمحصول'
+  description:
+  - بنفسجي فاقع وليس على شكل بيضة بنسبة 100%.
+  - الأفضل أن نسميه باذنجانًا، أليس كذلك؟
+CLT_AVOCADO:
+  name: أفوكادو
+  type:
+  - '&7&oمحصول'
+  description:
+  - ما يحلم به الهيبستر.
+CLT_BACON_SANDWICH:
+  name: شطيرة لحم مقدد
+  type:
+  - '&7&oطعام'
+  description:
+  - كلاسيكي بسيط!
+  stats:
+  - '&8⇨ &7الشفاء: &b2 قلوب'
+  - '&8⇨ &bقوّة I &7(10:00)'
+  - '&8⇨ &bسرعة I &7(10:00)'
+CLT_BAGEL:
+  name: خبز بيغل
+  type:
+  - '&7&oطعام'
+  description:
+  - محمص؟ أم...
+  stats:
+  - '&8⇨ &7الشفاء: &b2.5 قلوب'
+CLT_BAGEL_BITE:
+  name: لقمة بيغل
+  type:
+  - '&7&oطعام'
+  description:
+  - كل البيتزا في أي وقت!
+  stats:
+  - '&8⇨ &7يحرق فمك مع كل قضمة!'
+CLT_BAGEL_CREAM_CHEESE:
+  name: خبز بيغل بالجبن الكريمي
+  type:
+  - '&7&oطعام'
+  description:
+  - لذيذ لدرجة أنك ستريد واحدًا آخر غالبًا.
+  stats:
+  - '&8⇨ &7الشفاء: &b5 قلوب'
+  - '&8⇨ &bتعزيز الصّحة I &7(10:00)'
+CLT_BANANA:
+  name: موزة
+  type:
+  - '&7&oمحصول'
+  description:
+  - يعجبني شكله، وقشرته تقشر الهموم!
+CLT_BASIL:
+  name: ريحان
+  type:
+  - '&7&oمحصول'
+  description:
+  - ورقة حلوة بمذاق فلفلي خفيف في النهاية.
+CLT_BAY_LEAF:
+  name: ورقة غار
+  type:
+  - '&7&oمحصول'
+  description:
+  - نكهة عطرية قوية لها استخدامات كثيرة.
+CLT_BELL_PEPPER:
+  name: فلفل حلو
+  type:
+  - '&7&oمحصول'
+  description:
+  - يرن بصدق فعلًا.
+CLT_BISCUIT:
+  name: بسكويت
+  type:
+  - '&7&oطعام'
+  description:
+  - وجبة خفيفة صغيرة بطعم هائل.
+  stats: &id002
+  - '&8⇨ &7يقذفك في الهواء'
+CLT_BISCUIT_BASE:
+  name: قاعدة بسكويت
+  type:
+  - '&7&oمحصول'
+  description:
+  - كونه صار مسطحًا الآن لا يعني
+  - أنك تستطيع أكله نيئًا.
+CLT_BISCUIT_DOUGH:
+  name: عجينة بسكويت
+  type:
+  - '&7&oمحصول'
+  description:
+  - 'فقط ذكّر نفسك: "لا تأكله نيئًا."'
+CLT_BLACK_BEANS:
+  name: فاصولياء سوداء
+  type:
+  - '&7&oمحصول'
+  description:
+  - بروتين نباتي لذيذ.
+CLT_BLENDED_APPLE:
+  name: تفاحة مخلوطة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_APRICOT:
+  name: مشمشة مخلوطة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_ARTICHOKE:
+  name: خرشوف مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_ASPARAGUS:
+  name: هليون مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_AUBERGINE:
+  name: باذنجان مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_AVOCADO:
+  name: أفوكادو مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_BANANA:
+  name: موزة مخلوطة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_BASIL:
+  name: ريحان مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_BAY_LEAF:
+  name: ورقة غار مخلوطة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_BEEF:
+  name: لحم بقري مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_BEETROOT:
+  name: شمندر مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_BELL_PEPPER:
+  name: فلفل حلو مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_BLACK_BEANS:
+  name: فاصولياء سوداء مخلوطة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_BREAD:
+  name: خبز مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_BROCCOLI:
+  name: بروكلي مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_BROWN_MUSHROOM:
+  name: فطر بني مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_BRUSSELS_SPROUTS:
+  name: كرنب بروكسلي مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_CABBAGE:
+  name: ملفوف مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_CARROT:
+  name: جزرة مخلوطة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_CAULIFLOWER:
+  name: قرنبيط مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_CAYENNE_PEPPER:
+  name: فلفل كايين مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_CELERIAC:
+  name: كرفس جذري مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_CELERY:
+  name: كرفس مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_CHERRY:
+  name: كرز مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_CHESTNUT:
+  name: كستناء مخلوطة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_CHICKEN:
+  name: دجاج مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_CHICKPEAS:
+  name: حمص مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_CHICORY:
+  name: هندباء مخلوطة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_CHILLY_PEPPER:
+  name: فلفل حار مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_CHIVES:
+  name: ثوم معمر مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_CHORUS_FRUIT:
+  name: فاكهة الكورس المخلوطة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_CILANTRO:
+  name: كزبرة مخلوطة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_CINNAMON:
+  name: قرفة مخلوطة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_CLOVE:
+  name: قرنفل مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_COCOA_BEANS:
+  name: حبوب الكاكاو المخلوطة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_COD:
+  name: سمكة القد المخلوطة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_COURGETTE:
+  name: كوسة مخلوطة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_CUCUMBER:
+  name: خيار مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_CUMIN:
+  name: كمون مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_CURRY_LEAF:
+  name: ورقة كاري مخلوطة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_DILL:
+  name: شبت مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_EGG:
+  name: بيضة مخلوطة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_ENCHANTED_GOLDEN_APPLE:
+  name: تفاحة ذهبية مسحورة مخلوطة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_FENNEL:
+  name: شمر مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_GARLIC:
+  name: ثوم مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_GINGER:
+  name: زنجبيل مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_GLOW_BERRIES:
+  name: توت مُشع مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_GOLDEN_APPLE:
+  name: تفاحة ذهبية مخلوطة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_GOLDEN_CARROT:
+  name: جزرة ذهبية مخلوطة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_GRAPE:
+  name: عنب مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_GREEN_APPLE:
+  name: تفاحة خضراء مخلوطة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_GREEN_BEANS:
+  name: فاصولياء خضراء مخلوطة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_GREEN_ONION:
+  name: بصل أخضر مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_HAZELNUT:
+  name: بندق مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_HORSERADISH:
+  name: فجل حار مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_JALAPENO:
+  name: هالابينو مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_JASMINE:
+  name: ياسمين مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_JUNIPER_BERRY:
+  name: حبات عرعر مخلوطة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_KAFFIR_LIME:
+  name: ورقة ليمون كفيري مخلوطة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_KALE:
+  name: كرنب أجعد مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_KELP:
+  name: عشب البحر المخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_KIWI:
+  name: كيوي مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_LAVENDER:
+  name: خزامى مخلوطة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_LEEK:
+  name: كراث مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_LEMON:
+  name: ليمون مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_LETTUCE:
+  name: خس مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_LICORICE:
+  name: عرق السوس المخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_LIME:
+  name: ليمون أخضر مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_MACE:
+  name: بسباسة مخلوطة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_MANGO:
+  name: مانجو مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_MARJORAM:
+  name: مردقوش مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_MARROW:
+  name: كوسة كبيرة مخلوطة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_MELON:
+  name: بطيخة مخلوطة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_MINT:
+  name: نعناع مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_MUSTARD_SEEDS:
+  name: بذور خردل مخلوطة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_MUTTON:
+  name: لحم ضأن مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_NETTLES:
+  name: قراص مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_OKRA:
+  name: بامية مخلوطة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_ONION:
+  name: بصل مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_ORANGE:
+  name: برتقال مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_OREGANO:
+  name: أوريغانو مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_PARSLEY:
+  name: بقدونس مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_PARSNIP:
+  name: جزر أبيض مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_PEA:
+  name: بازلاء مخلوطة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_PEACH:
+  name: خوخ مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_PEANUT:
+  name: حبة فول سوداني مخلوطة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_PEAR:
+  name: كمثرى مخلوطة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_PECAN:
+  name: جوز بقان مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_PEPPER:
+  name: فلفل أسود مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_PEPPERONI:
+  name: بيبروني مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_PINEAPPLE:
+  name: أناناس مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_PINTO_BEANS:
+  name: فاصولياء بينتو مخلوطة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_PORKCHOP:
+  name: ضلع خنزير مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_POTATO:
+  name: بطاطس مخلوطة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_PUFFERFISH:
+  name: سمكة منتفخة مخلوطة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_PUMPKIN:
+  name: يقطين مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_RABBIT:
+  name: أرنب مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_RADDISH:
+  name: فجل مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_RADICCHIO:
+  name: هندباء حمراء مخلوطة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_RAPESEED:
+  name: سلجم مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_RED_MUSHROOM:
+  name: فطر أحمر مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_RHUBARB:
+  name: راوند مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_RICE:
+  name: أرز مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_ROSEMARY:
+  name: إكليل الجبل المخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_ROTTEN_FLESH:
+  name: لحم فاسد مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_RUNNER_BEANS:
+  name: فاصولياء متسلقة مخلوطة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_RUTABAGA:
+  name: لفت سويدي مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_SALMON:
+  name: سلمون مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_SASSAFRAS:
+  name: ساسافراس مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_SHALLOT:
+  name: بصل شالوت مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_SHISO:
+  name: شيسو مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_SOY_BEANS:
+  name: فول الصويا المخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_SPINACH:
+  name: سبانخ مخلوطة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_STAR_ANISE:
+  name: يانسون نجمي مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_STRAWBERRY:
+  name: فراولة مخلوطة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_SUGAR:
+  name: سكر مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_SWEETCORN:
+  name: ذرة حلوة مخلوطة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_SWEET_BERRIES:
+  name: توت حلو مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_SWEET_POTATO:
+  name: بطاطا حلوة مخلوطة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_TARRAGON:
+  name: طرخون مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_THYME:
+  name: زعتر مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_TOMATO:
+  name: طماطم مخلوطة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_TURMERIC:
+  name: كركم مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_TURNIP:
+  name: لفت مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_VANILLA:
+  name: فانيليا مخلوطة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_WASABI:
+  name: واسابي مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLENDED_WHEAT:
+  name: قمح مخلوط
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BLUE_CANDY:
+  name: حلوى زرقاء
+  type:
+  - '&7&oطعام'
+  description:
+  - حلوى سكرية مبهجة.
+  stats:
+  - '&8⇨ &7يستدعي المساعد الأزرق'
+CLT_BOILED_APPLE:
+  name: تفاحة مسلوقة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_APRICOT:
+  name: مشمشة مسلوقة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_ARTICHOKE:
+  name: خرشوف مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_ASPARAGUS:
+  name: هليون مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_AUBERGINE:
+  name: باذنجان مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_AVOCADO:
+  name: أفوكادو مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_BANANA:
+  name: موزة مسلوقة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_BASIL:
+  name: ريحان مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_BAY_LEAF:
+  name: ورقة غار مسلوقة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_BEEF:
+  name: لحم بقري مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_BEETROOT:
+  name: شمندر مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_BELL_PEPPER:
+  name: فلفل حلو مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_BLACK_BEANS:
+  name: فاصولياء سوداء مسلوقة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_BREAD:
+  name: خبز مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_BROCCOLI:
+  name: بروكلي مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_BROWN_MUSHROOM:
+  name: فطر بني مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_BRUSSELS_SPROUTS:
+  name: كرنب بروكسلي مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_CABBAGE:
+  name: ملفوف مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_CARROT:
+  name: جزرة مسلوقة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_CAULIFLOWER:
+  name: قرنبيط مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_CAYENNE_PEPPER:
+  name: فلفل كايين مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_CELERIAC:
+  name: كرفس جذري مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_CELERY:
+  name: كرفس مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_CHERRY:
+  name: كرز مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_CHESTNUT:
+  name: كستناء مسلوقة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_CHICKEN:
+  name: دجاج مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_CHICKPEAS:
+  name: حمص مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_CHICORY:
+  name: هندباء مسلوقة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_CHILLY_PEPPER:
+  name: فلفل حار مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_CHIVES:
+  name: ثوم معمر مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_CHORUS_FRUIT:
+  name: فاكهة الكورس المسلوقة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_CILANTRO:
+  name: كزبرة مسلوقة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_CINNAMON:
+  name: قرفة مسلوقة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_CLOVE:
+  name: قرنفل مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_COCOA_BEANS:
+  name: حبوب الكاكاو المسلوقة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_COD:
+  name: سمكة القد المسلوقة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_COURGETTE:
+  name: كوسة مسلوقة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_CUCUMBER:
+  name: خيار مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_CUMIN:
+  name: كمون مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_CURRY_LEAF:
+  name: ورقة كاري مسلوقة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_DILL:
+  name: شبت مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_EGG:
+  name: بيضة مسلوقة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_ENCHANTED_GOLDEN_APPLE:
+  name: تفاحة ذهبية مسحورة مسلوقة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_FENNEL:
+  name: شمر مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_GARLIC:
+  name: ثوم مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_GINGER:
+  name: زنجبيل مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_GLOW_BERRIES:
+  name: توت مُشع مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_GOLDEN_APPLE:
+  name: تفاحة ذهبية مسلوقة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_GOLDEN_CARROT:
+  name: جزرة ذهبية مسلوقة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_GRAPE:
+  name: عنب مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_GREEN_APPLE:
+  name: تفاحة خضراء مسلوقة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_GREEN_BEANS:
+  name: فاصولياء خضراء مسلوقة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_GREEN_ONION:
+  name: بصل أخضر مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_HAZELNUT:
+  name: بندق مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_HORSERADISH:
+  name: فجل حار مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_JALAPENO:
+  name: هالابينو مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_JASMINE:
+  name: ياسمين مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_JUNIPER_BERRY:
+  name: حبات عرعر مسلوقة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_KAFFIR_LIME:
+  name: ورقة ليمون كفيري مسلوقة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_KALE:
+  name: كرنب أجعد مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_KELP:
+  name: عشب البحر المسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_KIWI:
+  name: كيوي مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_LAVENDER:
+  name: خزامى مسلوقة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_LEEK:
+  name: كراث مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_LEMON:
+  name: ليمون مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_LETTUCE:
+  name: خس مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_LICORICE:
+  name: عرق السوس المسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_LIME:
+  name: ليمون أخضر مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_MACE:
+  name: بسباسة مسلوقة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_MANGO:
+  name: مانجو مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_MARJORAM:
+  name: مردقوش مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_MARROW:
+  name: كوسة كبيرة مسلوقة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_MELON:
+  name: بطيخة مسلوقة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_MINT:
+  name: نعناع مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_MUSTARD_SEEDS:
+  name: بذور خردل مسلوقة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_MUTTON:
+  name: لحم ضأن مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_NETTLES:
+  name: قراص مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_OKRA:
+  name: بامية مسلوقة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_ONION:
+  name: بصل مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_ORANGE:
+  name: برتقال مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_OREGANO:
+  name: أوريغانو مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_PARSLEY:
+  name: بقدونس مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_PARSNIP:
+  name: جزر أبيض مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_PEA:
+  name: بازلاء مسلوقة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_PEACH:
+  name: خوخ مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_PEANUT:
+  name: حبة فول سوداني مسلوقة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_PEAR:
+  name: كمثرى مسلوقة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_PECAN:
+  name: جوز بقان مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_PEPPER:
+  name: فلفل أسود مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_PEPPERONI:
+  name: بيبروني مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_PINEAPPLE:
+  name: أناناس مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_PINTO_BEANS:
+  name: فاصولياء بينتو مسلوقة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_PORKCHOP:
+  name: ضلع خنزير مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_POTATO:
+  name: بطاطس مسلوقة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_PUFFERFISH:
+  name: سمكة منتفخة مسلوقة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_PUMPKIN:
+  name: يقطين مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_RABBIT:
+  name: أرنب مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_RADDISH:
+  name: فجل مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_RADICCHIO:
+  name: هندباء حمراء مسلوقة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_RAPESEED:
+  name: سلجم مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_RED_MUSHROOM:
+  name: فطر أحمر مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_RHUBARB:
+  name: راوند مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_RICE:
+  name: أرز مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_ROSEMARY:
+  name: إكليل الجبل المسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_ROTTEN_FLESH:
+  name: لحم فاسد مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_RUNNER_BEANS:
+  name: فاصولياء متسلقة مسلوقة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_RUTABAGA:
+  name: لفت سويدي مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_SALMON:
+  name: سلمون مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_SASSAFRAS:
+  name: ساسافراس مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_SHALLOT:
+  name: بصل شالوت مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_SHISO:
+  name: شيسو مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_SOY_BEANS:
+  name: فول الصويا المسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_SPINACH:
+  name: سبانخ مسلوقة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_STAR_ANISE:
+  name: يانسون نجمي مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_STRAWBERRY:
+  name: فراولة مسلوقة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_SUGAR:
+  name: سكر مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_SWEETCORN:
+  name: ذرة حلوة مسلوقة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_SWEET_BERRIES:
+  name: توت حلو مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_SWEET_POTATO:
+  name: بطاطا حلوة مسلوقة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_TARRAGON:
+  name: طرخون مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_THYME:
+  name: زعتر مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_TOMATO:
+  name: طماطم مسلوقة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_TURMERIC:
+  name: كركم مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_TURNIP:
+  name: لفت مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_VANILLA:
+  name: فانيليا مسلوقة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_WASABI:
+  name: واسابي مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOILED_WHEAT:
+  name: قمح مسلوق
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_BOWL_OF_STEVE:
+  name: وعاء من... ستيف؟
+  type:
+  - '&7&oطعام'
+  description:
+  - ما هذا بحق &%£$
+  stats:
+  - '&8⇨ &bإجهاد التعدين X &7(10:00)'
+  - '&8⇨ &bبطء VI &7(10:00)'
+  - '&8⇨ &bقوّة X &7(10:00)'
+  - '&8⇨ &7يُنقصك إلى 1/2 قلب'
+CLT_BROCCOLI:
+  name: بروكلي
+  type:
+  - '&7&oمحصول'
+  description:
+  - هل أنت عملاق يحمل شجرة؟
+  - لا، إنها مجرد شجرة صغيرة :)
+CLT_BRUSSELS_SPROUTS:
+  name: كرنب بروكسلي
+  type:
+  - '&7&oمحصول'
+  description:
+  - متعة غازية بامتياز.
+CLT_BUSH_ARTICHOKE:
+  name: شجيرة الخرشوف
+  type:
+  - '&7&oشجيرة'
+  description:
+  - أفضل شجيرة على الإطلاق لخنق
+  - فنان بها. آه. التورية صعبة.
+CLT_BUSH_ASPARAGUS:
+  name: شجيرة الهليون
+  type:
+  - '&7&oشجيرة'
+  description:
+  - شجيرة الهليون هذه تجيد
+  - التلصص من بين سيقانها!
+CLT_BUSH_AUBERGINE:
+  name: شجيرة الباذنجان
+  type:
+  - '&7&oشجيرة'
+  description:
+  - أرفض استخدام كلمة "بيض النبات". هكذا فقط.
+CLT_BUSH_AVOCADO:
+  name: شجيرة الأفوكادو
+  type:
+  - '&7&oشجيرة'
+  description:
+  - هذه الشجيرة رُبّيت خصيصًا كي لا
+  - تستهلك الكثير من الماء.
+CLT_BUSH_BASIL:
+  name: شجيرة الريحان
+  type:
+  - '&7&oشجيرة'
+  description:
+  - شجيرة خفيفة الظل مليئة بالمرح.
+CLT_BUSH_BAY_LEAF:
+  name: شجيرة الغار
+  type:
+  - '&7&oشجيرة'
+  description:
+  - رائحة هذه الشجيرة تسافر لأميال.
+CLT_BUSH_BELL_PEPPER:
+  name: شجيرة الفلفل الحلو
+  type:
+  - '&7&oشجيرة'
+  description:
+  - انتبه وأنت تمر بجانبها، فقد تقرع
+  - الجرس.
+CLT_BUSH_BLACK_BEANS:
+  name: شجيرة الفاصولياء السوداء
+  type:
+  - '&7&oشجيرة'
+  description:
+  - 'تهمس لك هذه الشجيرة بلطف:'
+  - أنت حبة فاصولياء رائعة.
+CLT_BUSH_BROCCOLI:
+  name: شجيرة البروكلي
+  type:
+  - '&7&oشجيرة'
+  description:
+  - أشجار صغيرة تؤكل؟ من اخترع هذا!؟
+CLT_BUSH_BRUSSELS_SPROUTS:
+  name: شجيرة كرنب بروكسل
+  type:
+  - '&7&oشجيرة'
+  description:
+  - شجيرة قد تطلق أحيانًا غازًا
+  - كريه الرائحة.
+CLT_BUSH_CABBAGE:
+  name: شجيرة الملفوف
+  type:
+  - '&7&oشجيرة'
+  description:
+  - شجيرة تأتي مع كمية كبيرة من
+  - الملفوف العاطفي.
+CLT_BUSH_CAULIFLOWER:
+  name: شجيرة القرنبيط
+  type:
+  - '&7&oشجيرة'
+  description:
+  - شجيرة قادرة على إنتاج سحب صغيرة
+  - من البهجة.
+CLT_BUSH_CAYENNE_PEPPER:
+  name: شجيرة فلفل الكايين
+  type:
+  - '&7&oشجيرة'
+  description:
+  - شجيرة بمزاج فلفلي حاد.
+CLT_BUSH_CELERIAC:
+  name: شجيرة الكرفس الجذري
+  type:
+  - '&7&oشجيرة'
+  description:
+  - جذر آخر ينمو على شجيرة؟
+  - سيفي الغبي™
+CLT_BUSH_CELERY:
+  name: شجيرة الكرفس
+  type:
+  - '&7&oشجيرة'
+  description:
+  - هذه الشجيرة زائدة عن الحاجة.
+  - سيفي لا يحب الكرفس.
+CLT_BUSH_CHICKPEAS:
+  name: شجيرة الحمص
+  type:
+  - '&7&oشجيرة'
+  description:
+  - شجيرة صُنعت بتهجين دجاجة مع
+  - حبة بازلاء. إنه العلم.
+CLT_BUSH_CHICORY:
+  name: شجيرة الهندباء
+  type:
+  - '&7&oشجيرة'
+  description:
+  - ظننت أن الهندباء جذر؟ هل تقوم هذه الإضافة
+  - ببحثها أصلًا!؟
+CLT_BUSH_CHILLI_PEPPER:
+  name: شجيرة الفلفل الحار
+  type:
+  - '&7&oشجيرة'
+  description:
+  - مجرد النظر إلى هذه الشجيرة يحرق لساني.
+CLT_BUSH_CHIVES:
+  name: شجيرة الثوم المعمر
+  type:
+  - '&7&oشجيرة'
+  description:
+  - شجيرة تنتج ما هو، فعليًا، أصغر
+  - بصلة في العالم.
+CLT_BUSH_CILANTRO:
+  name: شجيرة الكزبرة
+  type:
+  - '&7&oشجيرة'
+  description:
+  - تفوح من هذه الشجيرة رائحة خفيفة من الحمضيات والتوابل.
+CLT_BUSH_CINNAMON:
+  name: شجيرة القرفة
+  type:
+  - '&7&oشجيرة'
+  description:
+  - شجيرة عطرة بشكل مبهج.
+CLT_BUSH_CLOVE:
+  name: شجيرة القرنفل
+  type:
+  - '&7&oشجيرة'
+  description:
+  - شجيرة تذكرني بعيد الميلاد.
+CLT_BUSH_COURGETTE:
+  name: شجيرة الكوسة
+  type:
+  - '&7&oشجيرة'
+  description:
+  - لماذا تصرخ هذه الشجيرة باستمرار بكلمة
+  - زوكيني؟ لا بد أنها أمريكية؟
+CLT_BUSH_CUCUMBER:
+  name: شجيرة الخيار
+  type:
+  - '&7&oشجيرة'
+  description:
+  - صُممت هذه الشجيرة لغرض واحد فقط
+  - هو سلطاتك الصيفية اللذيذة.
+CLT_BUSH_CUMIN:
+  name: شجيرة الكمون
+  type:
+  - '&7&oشجيرة'
+  description:
+  - شجيرة تطلق رائحة حمضيات دافئة.
+CLT_BUSH_CURRY_LEAF:
+  name: شجيرة الكاري
+  type:
+  - '&7&oشجيرة'
+  description:
+  - أفضل ما يكون عند تحميصه جافًا.
+CLT_BUSH_DILL:
+  name: شجيرة الشبت
+  type:
+  - '&7&oشجيرة'
+  description:
+  - تنمو هذه الشجيرة أسرع بكثير من غيرها.
+CLT_BUSH_FENNEL:
+  name: شجيرة الشمر
+  type:
+  - '&7&oشجيرة'
+  description:
+  - لماذا تطرد هذه الشجيرة الحشرات!؟
+CLT_BUSH_GARLIC:
+  name: شجيرة الثوم
+  type:
+  - '&7&oشجيرة'
+  description:
+  - لهذه الشجيرة أسوأ رائحة فم على الإطلاق.
+CLT_BUSH_GINGER:
+  name: شجيرة الزنجبيل
+  type:
+  - '&7&oشجيرة'
+  description:
+  - هذه الشجيرة لذيذة عند سلقها كاملة.
+CLT_BUSH_GRAPE:
+  name: شجيرة العنب
+  type:
+  - '&7&oشجيرة'
+  description:
+  - عنب ناضج وعصيري يكاد يسقط
+  - من الشجيرة وحده.
+CLT_BUSH_GREEN_BEANS:
+  name: شجيرة الفاصولياء الخضراء
+  type:
+  - '&7&oشجيرة'
+  description:
+  - اسكب صلصة الطماطم على هذه الشجيرة
+  - لتحصل على فاصولياء مطبوخة.
+CLT_BUSH_GREEN_ONION:
+  name: شجيرة البصل الأخضر
+  type:
+  - '&7&oشجيرة'
+  description:
+  - يُعرف أيضًا بالبصل الأخضر الطري.
+  - البصل الأخضر عمومًا مذاقه
+  - ألطف من معظم أنواع البصل.
+CLT_BUSH_HORSERADISH:
+  name: شجيرة الفجل الحار
+  type:
+  - '&7&oشجيرة'
+  description:
+  - مرة أخرى، نمو هذا على شجيرة لا معنى له إطلاقًا.
+CLT_BUSH_JALAPENO:
+  name: شجيرة الهالابينو
+  type:
+  - '&7&oشجيرة'
+  description:
+  - مجرد حمل هذه الشجيرة يمنحك
+  - فرصة 1% لتشتعل.
+CLT_BUSH_JASMINE:
+  name: شجيرة الياسمين
+  type:
+  - '&7&oشجيرة'
+  description:
+  - عبير هذه الشجيرة ناعم وهادئ جدًا.
+CLT_BUSH_JUNIPER_BERRY:
+  name: شجيرة العرعر
+  type:
+  - '&7&oشجيرة'
+  description:
+  - حلوة جدًا على الشجيرة، وفلفلية عند تجفيفها.
+CLT_BUSH_KAFFIR_LIME:
+  name: شجيرة الليمون الكفيري
+  type:
+  - '&7&oشجيرة'
+  description:
+  - شجيرة أوراقها مطلوبة أكثر من ثمارها.
+CLT_BUSH_KALE:
+  name: شجيرة الكرنب الأجعد
+  type:
+  - '&7&oشجيرة'
+  description:
+  - عندما تزرع هذه الشجيرة، تشعر أن كل شيء
+  - سيكون على ما يرام، كرنب بال.
+CLT_BUSH_LAVENDER:
+  name: شجيرة الخزامى
+  type:
+  - '&7&oشجيرة'
+  description:
+  - هذه الشجيرة تنشر رائحتها في كل مكان.
+CLT_BUSH_LEEK:
+  name: شجيرة الكراث
+  type:
+  - '&7&oشجيرة'
+  description:
+  - هل تعلم أن الكراث مجرد بصلة
+  - ترتدي مشدًا؟ قصة حقيقية.
+CLT_BUSH_LETTUCE:
+  name: شجيرة الخس
+  type:
+  - '&7&oشجيرة'
+  description:
+  - هل ينمو الخس على الشجيرات أصلًا؟
+  - 'حرق للأحداث: لا، لا ينمو.'
+CLT_BUSH_LICORICE:
+  name: شجيرة عرق السوس
+  type:
+  - '&7&oشجيرة'
+  description:
+  - مقرف
+CLT_BUSH_MACE:
+  name: شجيرة البسباسة
+  type:
+  - '&7&oشجيرة'
+  description:
+  - يبدو أن هذه الشجيرة تصد المهاجمين؟
+CLT_BUSH_MARJORAM:
+  name: شجيرة المردقوش
+  type:
+  - '&7&oشجيرة'
+  description:
+  - شجيرة كبيرة برائحة خشبية.
+CLT_BUSH_MARROW:
+  name: شجيرة الكوسة الكبيرة
+  type:
+  - '&7&oشجيرة'
+  description:
+  - أنا مندهش أن هذه الشجيرة تستطيع حمل
+  - وزنها.
+CLT_BUSH_MINT:
+  name: شجيرة النعناع
+  type:
+  - '&7&oشجيرة'
+  description:
+  - ببساطة، أطيب شجيرة رائحةً.
+CLT_BUSH_MUSTARD:
+  name: شجيرة حب الخردل
+  type:
+  - '&7&oشجيرة'
+  description:
+  - كالنار في فمك.
+CLT_BUSH_NETTLES:
+  name: شجيرة القراص
+  type:
+  - '&7&oشجيرة'
+  description:
+  - احذر عند المشي عبر هذه الشجيرة!
+CLT_BUSH_OKRA:
+  name: شجيرة البامية
+  type:
+  - '&7&oشجيرة'
+  description:
+  - صُوّتت الخضار رقم 1 حسب
+  - نادي الخضار لأوكرا وينفري.
+CLT_BUSH_ONION:
+  name: شجيرة البصل
+  type:
+  - '&7&oشجيرة'
+  description:
+  - هل تبدو هذه الشجيرة وكأنها تذرف الدموع؟
+CLT_BUSH_OREGANO:
+  name: شجيرة الأوريغانو
+  type:
+  - '&7&oشجيرة'
+  description:
+  - هذه الشجيرة النفاذة الرائحة تُبعد الزوار.
+CLT_BUSH_PARSLEY:
+  name: شجيرة البقدونس
+  type:
+  - '&7&oشجيرة'
+  description:
+  - ارمِ هذه الشجيرة في الحمم، الآن :)
+CLT_BUSH_PARSNIP:
+  name: شجيرة الجزر الأبيض
+  type:
+  - '&7&oشجيرة'
+  description:
+  - تخطَّ الوسيط واشوِ الشجيرة
+  - مباشرة.
+CLT_BUSH_PEA:
+  name: شجيرة البازلاء
+  type:
+  - '&7&oشجيرة'
+  description:
+  - أفضّل الكيو
+CLT_BUSH_PEANUTS:
+  name: شجيرة الفول السوداني
+  type:
+  - '&7&oشجيرة'
+  description: &id001
+  - متماسك وعطر ومليء بالبروتين.
+CLT_BUSH_PEPPER:
+  name: شجيرة الفلفل الأسود
+  type:
+  - '&7&oشجيرة'
+  description:
+  - كان الفلفل الأسود جزءًا مهمًا من
+  - تجارة التوابل بين الهند وأوروبا
+  - منذ عصر الإغريق والرومان.
+CLT_BUSH_PINTO_BEANS:
+  name: شجيرة فاصولياء البينتو
+  type:
+  - '&7&oشجيرة'
+  description:
+  - لن يطول الأمر حتى ننجح في تهجين
+  - شجيرة بوريتو جاهز، صحيح؟
+CLT_BUSH_RADDISH:
+  name: شجيرة الفجل
+  type:
+  - '&7&oشجيرة'
+  description:
+  - هذه النبتة أدّت للتو حركة تزلج.
+  - فُجلة... أقصد فخمة جدًا.
+CLT_BUSH_RADICCHIO:
+  name: شجيرة الهندباء الحمراء
+  type:
+  - '&7&oشجيرة'
+  description:
+  - تريد أن تبدو راقيًا؟ ضع الهندباء الحمراء في أي
+  - وجبة، فهي أساسًا مثل الملفوف لكنها
+  - تجعلك تبدو مهذبًا.
+CLT_BUSH_RAPESEED:
+  name: شجيرة السلجم
+  type:
+  - '&7&oشجيرة'
+  description:
+  - هذه الشجيرة ترشح مادة زيتية.
+CLT_BUSH_RHUBARB:
+  name: شجيرة الراوند
+  type:
+  - '&7&oشجيرة'
+  description:
+  - هل تعلم أن الراوند من الخضار؟
+  - ظننته نوعًا من المطارق.
+CLT_BUSH_RICE:
+  name: شجيرة الأرز
+  type:
+  - '&7&oشجيرة'
+  description:
+  - الغذاء الأساسي المطلق.
+CLT_BUSH_ROSEMARY:
+  name: شجيرة إكليل الجبل
+  type:
+  - '&7&oشجيرة'
+  description:
+  - شجيرة تذكّر رائحتها الناس بغداء يوم الجمعة.
+CLT_BUSH_RUNNER_BEANS:
+  name: شجيرة الفاصولياء المتسلقة
+  type:
+  - '&7&oشجيرة'
+  description:
+  - لهذه الشجيرة أقدام 0_0؟
+CLT_BUSH_RUTABAGA:
+  name: شجيرة اللفت السويدي
+  type:
+  - '&7&oشجيرة'
+  description:
+  - لفت سويدي. إنه لفت سويدي.
+CLT_BUSH_SASSAFRAS:
+  name: شجيرة الساسافراس
+  type:
+  - '&7&oشجيرة'
+  description:
+  - تحب هذه الشجيرة أن تُزرع قرب المسطحات
+  - المائية الصغيرة.
+CLT_BUSH_SHALLOT:
+  name: شجيرة بصل الشالوت
+  type:
+  - '&7&oشجيرة'
+  description:
+  - تنتج هذه الشجيرة بسرعة بصلات صغيرة لطيفة.
+  - لحسن الحظ، لن تحتاج إلى شالوت... أقصد شال.
+CLT_BUSH_SHISO:
+  name: شجيرة الشيسو
+  type:
+  - '&7&oشجيرة'
+  description:
+  - أحب أن أتخيل أن هذه الشجيرة ابنة الحب
+  - بين شجيرة نعناع وشجيرة ريحان. للأسف
+  - تزاوج الشجيرات ليس أمرًا حقيقيًا!
+CLT_BUSH_SOY_BEANS:
+  name: شجيرة فول الصويا
+  type:
+  - '&7&oشجيرة'
+  description:
+  - هذه الشجيرة متعة ودودة. إنها
+  - تجعلني صويا سعيدًا.
+CLT_BUSH_SPINACH:
+  name: شجيرة السبانخ
+  type:
+  - '&7&oشجيرة'
+  description:
+  - هذه الشجيرة أعز أصدقاء باباي.
+CLT_BUSH_STAR_ANISE:
+  name: شجيرة اليانسون النجمي
+  type:
+  - '&7&oشجيرة'
+  description:
+  - تفوح من هذه الشجيرة رائحة فريدة جدًا
+  - لليانسون، لن تصدقها.
+CLT_BUSH_STRAWBERRY:
+  name: شجيرة الفراولة
+  type:
+  - '&7&oشجيرة'
+  description: *id001
+CLT_BUSH_SWEETCORN:
+  name: شجيرة الذرة الحلوة
+  type:
+  - '&7&oشجيرة'
+  description:
+  - هذه الشجيرة تتوسل لتُبنى منها
+  - متاهة.
+CLT_BUSH_SWEET_POTATO:
+  name: شجيرة البطاطا الحلوة
+  type:
+  - '&7&oشجيرة'
+  description:
+  - هذه الشجيرة لطيفة جدًا. سمعتها
+  - تمدحك بينما لم تكن تستمع.
+CLT_BUSH_TARRAGON:
+  name: شجيرة الطرخون
+  type:
+  - '&7&oشجيرة'
+  description:
+  - هذه الشجيرة لا تحب لفت الانتباه كثيرًا.
+CLT_BUSH_THYME:
+  name: شجيرة الزعتر
+  type:
+  - '&7&oشجيرة'
+  description:
+  - هذه الشجيرة دائمًا ينفد منها... الزعتر... أقصد الوقت... *كح*
+CLT_BUSH_TOMATO:
+  name: شجيرة الطماطم
+  type:
+  - '&7&oشجيرة'
+  description:
+  - ناضج وجاهز.
+CLT_BUSH_TURMERIC:
+  name: شجيرة الكركم
+  type:
+  - '&7&oشجيرة'
+  description:
+  - نفحة من التوابل تضرب أنفك بمجرد
+  - حمل هذه الشجيرة.
+CLT_BUSH_TURNIP:
+  name: شجيرة اللفت
+  type:
+  - '&7&oشجيرة'
+  description:
+  - حسب الحكومة البريطانية،
+  - هذه الشجيرة ستحل كل مشاكلنا.
+CLT_BUSH_VANILLA:
+  name: شجيرة الفانيليا
+  type:
+  - '&7&oشجيرة'
+  description:
+  - تنمو هذه الشجيرة طبيعيًا قرب فروع ستاربكس.
+CLT_BUSH_WASABI:
+  name: شجيرة الواسابي
+  type:
+  - '&7&oشجيرة'
+  description:
+  - جذر آخر ينمو على شجيرة؟
+  - آه...
+CLT_CABBAGE:
+  name: ملفوف
+  type:
+  - '&7&oمحصول'
+  description:
+  - حقيبة من الملفوف.
+CLT_CAESAR_SALAD:
+  name: سلطة سيزر
+  type:
+  - '&7&oطعام'
+  description:
+  - كلاسيكي صحي.
+  stats:
+  - '&8⇨ &7الشفاء: &b6 قلوب'
+  - '&8⇨ &bسرعة I &7(10:00)'
+  - '&8⇨ &bالتخفي I &7(10:00)'
+  - '&8⇨ &bسقوط بطيء I &7(10:00)'
+CLT_CAJUN_GARLIC_BUTTER_COD:
+  name: سمك القد بزبدة الثوم الكاجونية
+  type:
+  - '&7&oطعام'
+  description:
+  - طبق بسيط جدًا ينفجر بالنكهة.
+  stats:
+  - '&8⇨ &7الشفاء: &b4 قلوب'
+  - '&8⇨ &bتجدد الصحة II &7(10:00)'
+  - '&8⇨ &bسرعة I &7(10:00)'
+CLT_CAULIFLOWER:
+  name: قرنبيط
+  type:
+  - '&7&oمحصول'
+  description:
+  - سحابة محمولة!
+CLT_CAYENNE_PEPPER:
+  name: فلفل كايين
+  type:
+  - '&7&oمحصول'
+  description:
+  - حلوى حارة ناعمة.
+CLT_CELERIAC:
+  name: كرفس جذري
+  type:
+  - '&7&oمحصول'
+  description:
+  - جذر مشبع متجذر (هه) في كثير من
+  - الوصفات التقليدية.
+CLT_CELERY:
+  name: كرفس
+  type:
+  - '&7&oمحصول'
+  description:
+  - حرفيًا مجرد ماء بخيوط. أقنعني
+  - بغير ذلك.
+CLT_CHEESE_BURGER:
+  name: برغر
+  type:
+  - '&7&oطعام'
+  description:
+  - برغر جبن بسيط، لكن لا شيء يتفوق عليه!
+  stats:
+  - '&8⇨ &7الشفاء: &b4 قلوب'
+  - '&8⇨ &bتجدد الصحة III &7(10:00)'
+CLT_CHEESY_SCALLOPED_COURGETTE:
+  name: كوسة مخبوزة بالجبن
+  type:
+  - '&7&oطعام'
+  description:
+  - نسخة قليلة الكربوهيدرات من كلاسيكي رائع.
+  stats:
+  - '&8⇨ &7الشفاء: &b2 قلوب'
+  - '&8⇨ &bالرؤية الليلية I &7(10:00)'
+  - '&8⇨ &bالتخفي I &7(10:00)'
+CLT_CHERRY:
+  name: كرز
+  type:
+  - '&7&oمحصول'
+  description:
+  - آه، ظننتها تنمو مُسكّرة جاهزة، يا للأسف!
+CLT_CHESTNUT:
+  name: كستناء
+  type:
+  - '&7&oمحصول'
+  description:
+  - صُمم ليُخبز، فورًا.
+CLT_CHICKEN_ALFREDO_MAC_AND_CHEESE:
+  name: معكرونة بالجبن مع دجاج ألفريدو
+  type:
+  - '&7&oطعام'
+  description:
+  - لمسة راقية على كلاسيكي شائع.
+  stats:
+  - '&8⇨ &7الشفاء: &b1 قلب'
+  - '&8⇨ &bمقاومة النار II &7(10:00)'
+  - '&8⇨ &bمقاومة III &7(10:00)'
+CLT_CHICKEN_PASTA_BAKE:
+  name: معكرونة الدجاج بالفرن
+  type:
+  - '&7&oطعام'
+  description:
+  - غذاء الطلاب الأساسي.
+  stats:
+  - '&8⇨ &7الشفاء: &b5 قلوب'
+  - '&8⇨ &bالرؤية الليلية I &7(10:00)'
+  - '&8⇨ &bتنفس تحت المياه I &7(10:00)'
+CLT_CHICKEN_POT_PIE:
+  name: فطيرة الدجاج
+  type:
+  - '&7&oطعام'
+  description:
+  - وجبة دافئة تشعرك وكأنك في بيتك.
+  stats:
+  - '&8⇨ &7الشفاء: &b10 قلوب'
+  - '&8⇨ &bتعزيز القفز II &7(10:00)'
+  - '&8⇨ &bالتشبع I &7(10:00)'
+CLT_CHICKPEAS:
+  name: حمص
+  type:
+  - '&7&oمحصول'
+  description:
+  - اللوبيا تعزف لحنًا كاملًا، أما الحمص فلا يجيد إلا الدندنة.
+CLT_CHICORY:
+  name: هندباء
+  type:
+  - '&7&oمحصول'
+  description:
+  - جذر مرّ بنكهة الجوز.
+CLT_CHILLY_PEPPER:
+  name: فلفل حار
+  type:
+  - '&7&oمحصول'
+  description:
+  - أستطيع أكل فلفلة كاملة دون أن أبكي.
+  - حسنًا، نصفها.
+  - طيييب.... 1/4
+  - '...'
+  - حسنًا، أستطيع لمس واحدة بلساني
+CLT_CHIVES:
+  name: ثوم معمر
+  type:
+  - '&7&oمحصول'
+  description:
+  - عشبة حلوة بطعم البصل.
+CLT_CHOPPED_APPLE:
+  name: تفاحة مفرومة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_APRICOT:
+  name: مشمشة مفرومة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_ARTICHOKE:
+  name: خرشوف مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_ASPARAGUS:
+  name: هليون مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_AUBERGINE:
+  name: باذنجان مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_AVOCADO:
+  name: أفوكادو مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_BANANA:
+  name: موزة مفرومة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_BASIL:
+  name: ريحان مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_BAY_LEAF:
+  name: ورقة غار مفرومة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_BEEF:
+  name: لحم بقري مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_BEETROOT:
+  name: شمندر مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_BELL_PEPPER:
+  name: فلفل حلو مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_BLACK_BEANS:
+  name: فاصولياء سوداء مفرومة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_BREAD:
+  name: خبز مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_BROCCOLI:
+  name: بروكلي مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_BROWN_MUSHROOM:
+  name: فطر بني مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_BRUSSELS_SPROUTS:
+  name: كرنب بروكسلي مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_CABBAGE:
+  name: ملفوف مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_CARROT:
+  name: جزرة مفرومة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_CAULIFLOWER:
+  name: قرنبيط مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_CAYENNE_PEPPER:
+  name: فلفل كايين مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_CELERIAC:
+  name: كرفس جذري مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_CELERY:
+  name: كرفس مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_CHERRY:
+  name: كرز مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_CHESTNUT:
+  name: كستناء مفرومة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_CHICKEN:
+  name: دجاج مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_CHICKPEAS:
+  name: حمص مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_CHICORY:
+  name: هندباء مفرومة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_CHILLY_PEPPER:
+  name: فلفل حار مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_CHIVES:
+  name: ثوم معمر مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_CHORUS_FRUIT:
+  name: فاكهة الكورس المفرومة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_CILANTRO:
+  name: كزبرة مفرومة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_CINNAMON:
+  name: قرفة مفرومة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_CLOVE:
+  name: قرنفل مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_COCOA_BEANS:
+  name: حبوب الكاكاو المفرومة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_COD:
+  name: سمكة القد المفرومة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_COURGETTE:
+  name: كوسة مفرومة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_CUCUMBER:
+  name: خيار مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_CUMIN:
+  name: كمون مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_CURRY_LEAF:
+  name: ورقة كاري مفرومة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_DILL:
+  name: شبت مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_EGG:
+  name: بيضة مفرومة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_ENCHANTED_GOLDEN_APPLE:
+  name: تفاحة ذهبية مسحورة مفرومة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_FENNEL:
+  name: شمر مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_GARLIC:
+  name: ثوم مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_GINGER:
+  name: زنجبيل مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_GLOW_BERRIES:
+  name: توت مُشع مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_GOLDEN_APPLE:
+  name: تفاحة ذهبية مفرومة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_GOLDEN_CARROT:
+  name: جزرة ذهبية مفرومة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_GRAPE:
+  name: عنب مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_GREEN_APPLE:
+  name: تفاحة خضراء مفرومة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_GREEN_BEANS:
+  name: فاصولياء خضراء مفرومة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_GREEN_ONION:
+  name: بصل أخضر مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_HAZELNUT:
+  name: بندق مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_HORSERADISH:
+  name: فجل حار مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_JALAPENO:
+  name: هالابينو مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_JASMINE:
+  name: ياسمين مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_JUNIPER_BERRY:
+  name: حبات عرعر مفرومة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_KAFFIR_LIME:
+  name: ورقة ليمون كفيري مفرومة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_KALE:
+  name: كرنب أجعد مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_KELP:
+  name: عشب البحر المفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_KIWI:
+  name: كيوي مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_LAVENDER:
+  name: خزامى مفرومة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_LEEK:
+  name: كراث مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_LEMON:
+  name: ليمون مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_LETTUCE:
+  name: خس مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_LICORICE:
+  name: عرق السوس المفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_LIME:
+  name: ليمون أخضر مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_MACE:
+  name: بسباسة مفرومة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_MANGO:
+  name: مانجو مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_MARJORAM:
+  name: مردقوش مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_MARROW:
+  name: كوسة كبيرة مفرومة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_MELON:
+  name: بطيخة مفرومة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_MINT:
+  name: نعناع مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_MUSTARD_SEEDS:
+  name: بذور خردل مفرومة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_MUTTON:
+  name: لحم ضأن مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_NETTLES:
+  name: قراص مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_OKRA:
+  name: بامية مفرومة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_ONION:
+  name: بصل مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_ORANGE:
+  name: برتقال مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_OREGANO:
+  name: أوريغانو مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_PARSLEY:
+  name: بقدونس مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_PARSNIP:
+  name: جزر أبيض مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_PEA:
+  name: بازلاء مفرومة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_PEACH:
+  name: خوخ مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_PEANUT:
+  name: حبة فول سوداني مفرومة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_PEAR:
+  name: كمثرى مفرومة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_PECAN:
+  name: جوز بقان مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_PEPPER:
+  name: فلفل أسود مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_PEPPERONI:
+  name: بيبروني مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_PINEAPPLE:
+  name: أناناس مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_PINTO_BEANS:
+  name: فاصولياء بينتو مفرومة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_PORKCHOP:
+  name: ضلع خنزير مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_POTATO:
+  name: بطاطس مفرومة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_PUFFERFISH:
+  name: سمكة منتفخة مفرومة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_PUMPKIN:
+  name: يقطين مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_RABBIT:
+  name: أرنب مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_RADDISH:
+  name: فجل مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_RADICCHIO:
+  name: هندباء حمراء مفرومة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_RAPESEED:
+  name: سلجم مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_RED_MUSHROOM:
+  name: فطر أحمر مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_RHUBARB:
+  name: راوند مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_RICE:
+  name: أرز مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_ROSEMARY:
+  name: إكليل الجبل المفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_ROTTEN_FLESH:
+  name: لحم فاسد مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_RUNNER_BEANS:
+  name: فاصولياء متسلقة مفرومة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_RUTABAGA:
+  name: لفت سويدي مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_SALMON:
+  name: سلمون مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_SASSAFRAS:
+  name: ساسافراس مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_SHALLOT:
+  name: بصل شالوت مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_SHISO:
+  name: شيسو مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_SOY_BEANS:
+  name: فول الصويا المفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_SPINACH:
+  name: سبانخ مفرومة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_STAR_ANISE:
+  name: يانسون نجمي مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_STRAWBERRY:
+  name: فراولة مفرومة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_SUGAR:
+  name: سكر مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_SWEETCORN:
+  name: ذرة حلوة مفرومة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_SWEET_BERRIES:
+  name: توت حلو مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_SWEET_POTATO:
+  name: بطاطا حلوة مفرومة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_TARRAGON:
+  name: طرخون مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_THYME:
+  name: زعتر مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_TOMATO:
+  name: طماطم مفرومة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_TURMERIC:
+  name: كركم مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_TURNIP:
+  name: لفت مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_VANILLA:
+  name: فانيليا مفرومة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_WASABI:
+  name: واسابي مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CHOPPED_WHEAT:
+  name: قمح مفروم
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_CILANTRO:
+  name: كزبرة
+  type:
+  - '&7&oمحصول'
+  description:
+  - تابل ناعم بلمسة من الحمضيات.
+CLT_CINNAMON:
+  name: قرفة
+  type:
+  - '&7&oمحصول'
+  description:
+  - رائعة للمضغ وهي على شكل أعواد.
+CLT_CINNAMON_ROLL:
+  name: لفافة القرفة
+  type:
+  - '&7&oطعام'
+  description:
+  - متعة حلوة ملفوفة للتسلية.
+  - أكلها يقلب العالم رأسًا على عقب!
+  stats:
+  - '&8⇨ &7الشفاء: &b4 قلوب'
+  - '&8⇨ &bالطوفان I &7(10:00)'
+  - '&8⇨ &bسقوط بطيء I &7(10:00)'
+CLT_CLOVE:
+  name: قرنفل
+  type:
+  - '&7&oمحصول'
+  description:
+  - نكهة دافئة جدًا ومكثفة.
+CLT_COMPRESSED_BISCUIT:
+  name: بسكويت مضغوط
+  type:
+  - '&7&oطعام'
+  description:
+  - وجبة خفيفة صغيرة بطعم أهول وأهول.
+  stats: *id002
+CLT_COOKED_BURGER_PATTY:
+  name: قرص برغر مطهو
+  type:
+  - '&7&oمحصول'
+  description:
+  - يكاد يقطر
+CLT_COUNTER_BLENDER:
+  name: منضدة المطبخ (خلاط)
+  type:
+  - '&7&oآلة'
+  description:
+  - انقر بزر الفأرة الأيمن على هذه الكتلة لخلط المحاصيل.
+  usage: &id003
+  - نصيحة احترافية! بعد وضعها، يمكنك الضغط على شيفت + النقر
+  - الأيمن وستغيّر الكتلة (الكتل) التي تحملها
+  - تصميم المطبخ. جرّبها!
+CLT_COUNTER_BOILING:
+  name: منضدة المطبخ (قدر الغلي)
+  type:
+  - '&7&oآلة'
+  description:
+  - يمكنها سلق عناصر معينة.
+  usage: *id003
+CLT_COUNTER_CHOPPING:
+  name: منضدة المطبخ (لوح الفرم)
+  type:
+  - '&7&oآلة'
+  description:
+  - انقر بزر الفأرة الأيمن على هذه الكتلة لفرم المحاصيل.
+  usage: *id003
+CLT_COUNTER_FINISHING:
+  name: منضدة المطبخ (اللمسات الأخيرة)
+  type:
+  - '&7&oآلة'
+  description:
+  - تُستخدم لصنع المنتجات والمنتجات الثانوية وتحويلها إلى
+  - منتجات ثانوية أخرى أو أطعمة جاهزة.
+  usage: *id003
+CLT_COUNTER_FRYING:
+  name: منضدة المطبخ (مقلاة)
+  type:
+  - '&7&oآلة'
+  description:
+  - يمكنها قلي محاصيل معينة.
+  usage: *id003
+CLT_COUNTER_GRILL:
+  name: منضدة المطبخ (شواية)
+  type:
+  - '&7&oآلة'
+  description:
+  - يمكنها شوي محاصيل معينة.
+  usage: *id003
+CLT_COUNTER_GRINDER:
+  name: منضدة المطبخ (هاون ومدقة الطحن)
+  type:
+  - '&7&oآلة'
+  description:
+  - انقر بزر الفأرة الأيمن على هذه الكتلة لطحن المحاصيل.
+  usage: *id003
+CLT_COUNTER_MASHER:
+  name: منضدة المطبخ (وعاء الهرس)
+  type:
+  - '&7&oآلة'
+  description:
+  - انقر بزر الفأرة الأيمن على هذه الكتلة لهرس المحاصيل.
+  usage: *id003
+CLT_COUNTER_NOTHING:
+  name: منضدة المطبخ (فارغة)
+  type:
+  - '&7&oآلة'
+  description:
+  - للزينة فقط!
+  usage: *id003
+CLT_COUNTER_OVEN:
+  name: منضدة المطبخ (فرن)
+  type:
+  - '&7&oآلة'
+  description:
+  - يمكنها خبز محاصيل معينة.
+  usage: *id003
+CLT_COUNTER_SLICING:
+  name: منضدة المطبخ (لوح التقطيع)
+  type:
+  - '&7&oآلة'
+  description:
+  - انقر بزر الفأرة الأيمن على هذه الكتلة لتقطيع المحاصيل شرائح.
+  usage: *id003
+CLT_COURGETTE:
+  name: كوسة
+  type:
+  - '&7&oمحصول'
+  description:
+  - 'نصيحة احترافية: ابشره في أي صلصة معكرونة'
+  - لعمق النكهة والقوام.
+CLT_CREAM_CHEESE:
+  name: جبن كريمي
+  type:
+  - '&7&oمحصول'
+  description:
+  - كريمي أكثر منه جبني.
+CLT_CROP_STICKS:
+  name: عصي المحاصيل
+  type:
+  - '&7&oأداة'
+  description:
+  - يجب وضع عصي المحاصيل على
+  - بذرة مزروعة كي تنمو.
+  - وضع مجموعة ثانية يهجّن
+  - النبتة ويسمح لها بالانتشار و/أو
+  - التكاثر.
+CLT_CUCUMBER:
+  name: خيار
+  type:
+  - '&7&oمحصول'
+  description:
+  - ماء في قشرة خضراء، أثبت لي
+  - العكس.
+CLT_CUMIN:
+  name: كمون
+  type:
+  - '&7&oمحصول'
+  description:
+  - نبتة حمضية دافئة.
+CLT_CURRY_LEAF:
+  name: ورقة كاري
+  type:
+  - '&7&oمحصول'
+  description:
+  - أساس الكثير من الأطعمة الرائعة.
+CLT_DILL:
+  name: شبت
+  type:
+  - '&7&oمحصول'
+  description:
+  - طعمه مثل العشب بالنسبة لي. لماذا
+  - يحبه الناس؟
+CLT_DOUGH:
+  name: عجين
+  type:
+  - '&7&oمحصول'
+  description:
+  - مجرد عجين عادي!
+CLT_EGG_SALAD:
+  name: سلطة بيض
+  type:
+  - '&7&oمحصول'
+  description:
+  - افتحه في القطار، أتحداك!
+CLT_EGG_SALAD_SANDWICH:
+  name: شطيرة سلطة البيض
+  type:
+  - '&7&oطعام'
+  description:
+  - رائحته قوية قليلًا، لكن طعمه مذهل!
+  stats: &id006
+  - '&8⇨ &7الشفاء: &b10 قلوب'
+  - '&8⇨ &bتجدد الصحة II &7(10:00)'
+CLT_FENNEL:
+  name: شمر
+  type:
+  - '&7&oمحصول'
+  description:
+  - مثل مزيج من اليانسون وعرق السوس.
+CLT_FRIED_APPLE:
+  name: تفاحة مقلية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_APRICOT:
+  name: مشمشة مقلية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_ARTICHOKE:
+  name: خرشوف مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_ASPARAGUS:
+  name: هليون مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_AUBERGINE:
+  name: باذنجان مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_AVOCADO:
+  name: أفوكادو مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_BANANA:
+  name: موزة مقلية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_BASIL:
+  name: ريحان مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_BAY_LEAF:
+  name: ورقة غار مقلية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_BEEF:
+  name: لحم بقري مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_BEETROOT:
+  name: شمندر مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_BELL_PEPPER:
+  name: فلفل حلو مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_BLACK_BEANS:
+  name: فاصولياء سوداء مقلية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_BREAD:
+  name: خبز مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_BROCCOLI:
+  name: بروكلي مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_BROWN_MUSHROOM:
+  name: فطر بني مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_BRUSSELS_SPROUTS:
+  name: كرنب بروكسلي مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_CABBAGE:
+  name: ملفوف مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_CARROT:
+  name: جزرة مقلية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_CAULIFLOWER:
+  name: قرنبيط مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_CAYENNE_PEPPER:
+  name: فلفل كايين مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_CELERIAC:
+  name: كرفس جذري مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_CELERY:
+  name: كرفس مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_CHERRY:
+  name: كرز مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_CHESTNUT:
+  name: كستناء مقلية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_CHICKEN:
+  name: دجاج مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_CHICKPEAS:
+  name: حمص مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_CHICORY:
+  name: هندباء مقلية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_CHILLY_PEPPER:
+  name: فلفل حار مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_CHIVES:
+  name: ثوم معمر مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_CHORUS_FRUIT:
+  name: فاكهة الكورس المقلية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_CILANTRO:
+  name: كزبرة مقلية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_CINNAMON:
+  name: قرفة مقلية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_CLOVE:
+  name: قرنفل مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_COCOA_BEANS:
+  name: حبوب الكاكاو المقلية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_COD:
+  name: سمكة القد المقلية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_COURGETTE:
+  name: كوسة مقلية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_CUCUMBER:
+  name: خيار مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_CUMIN:
+  name: كمون مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_CURRY_LEAF:
+  name: ورقة كاري مقلية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_DILL:
+  name: شبت مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_EGG:
+  name: بيضة مقلية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_ENCHANTED_GOLDEN_APPLE:
+  name: تفاحة ذهبية مسحورة مقلية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_FENNEL:
+  name: شمر مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_GARLIC:
+  name: ثوم مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_GINGER:
+  name: زنجبيل مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_GLOW_BERRIES:
+  name: توت مُشع مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_GOLDEN_APPLE:
+  name: تفاحة ذهبية مقلية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_GOLDEN_CARROT:
+  name: جزرة ذهبية مقلية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_GRAPE:
+  name: عنب مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_GREEN_APPLE:
+  name: تفاحة خضراء مقلية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_GREEN_BEANS:
+  name: فاصولياء خضراء مقلية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_GREEN_ONION:
+  name: بصل أخضر مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_HAZELNUT:
+  name: بندق مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_HORSERADISH:
+  name: فجل حار مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_JALAPENO:
+  name: هالابينو مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_JASMINE:
+  name: ياسمين مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_JUNIPER_BERRY:
+  name: حبات عرعر مقلية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_KAFFIR_LIME:
+  name: ورقة ليمون كفيري مقلية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_KALE:
+  name: كرنب أجعد مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_KELP:
+  name: عشب البحر المقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_KIWI:
+  name: كيوي مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_LAVENDER:
+  name: خزامى مقلية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_LEEK:
+  name: كراث مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_LEMON:
+  name: ليمون مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_LETTUCE:
+  name: خس مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_LICORICE:
+  name: عرق السوس المقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_LIME:
+  name: ليمون أخضر مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_MACE:
+  name: بسباسة مقلية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_MANGO:
+  name: مانجو مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_MARJORAM:
+  name: مردقوش مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_MARROW:
+  name: كوسة كبيرة مقلية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_MELON:
+  name: بطيخة مقلية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_MINT:
+  name: نعناع مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_MUSTARD_SEEDS:
+  name: بذور خردل مقلية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_MUTTON:
+  name: لحم ضأن مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_NETTLES:
+  name: قراص مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_OKRA:
+  name: بامية مقلية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_ONION:
+  name: بصل مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_ORANGE:
+  name: برتقال مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_OREGANO:
+  name: أوريغانو مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_PARSLEY:
+  name: بقدونس مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_PARSNIP:
+  name: جزر أبيض مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_PEA:
+  name: بازلاء مقلية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_PEACH:
+  name: خوخ مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_PEANUT:
+  name: حبة فول سوداني مقلية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_PEAR:
+  name: كمثرى مقلية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_PECAN:
+  name: جوز بقان مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_PEPPER:
+  name: فلفل أسود مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_PEPPERONI:
+  name: بيبروني مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_PINEAPPLE:
+  name: أناناس مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_PINTO_BEANS:
+  name: فاصولياء بينتو مقلية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_PORKCHOP:
+  name: ضلع خنزير مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_POTATO:
+  name: بطاطس مقلية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_PUFFERFISH:
+  name: سمكة منتفخة مقلية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_PUMPKIN:
+  name: يقطين مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_RABBIT:
+  name: أرنب مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_RADDISH:
+  name: فجل مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_RADICCHIO:
+  name: هندباء حمراء مقلية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_RAPESEED:
+  name: سلجم مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_RED_MUSHROOM:
+  name: فطر أحمر مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_RHUBARB:
+  name: راوند مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_RICE:
+  name: أرز مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_ROSEMARY:
+  name: إكليل الجبل المقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_ROTTEN_FLESH:
+  name: لحم فاسد مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_RUNNER_BEANS:
+  name: فاصولياء متسلقة مقلية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_RUTABAGA:
+  name: لفت سويدي مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_SALMON:
+  name: سلمون مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_SASSAFRAS:
+  name: ساسافراس مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_SHALLOT:
+  name: بصل شالوت مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_SHISO:
+  name: شيسو مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_SOY_BEANS:
+  name: فول الصويا المقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_SPINACH:
+  name: سبانخ مقلية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_STAR_ANISE:
+  name: يانسون نجمي مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_STRAWBERRY:
+  name: فراولة مقلية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_SUGAR:
+  name: سكر مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_SWEETCORN:
+  name: ذرة حلوة مقلية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_SWEET_BERRIES:
+  name: توت حلو مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_SWEET_POTATO:
+  name: بطاطا حلوة مقلية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_TARRAGON:
+  name: طرخون مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_THYME:
+  name: زعتر مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_TOMATO:
+  name: طماطم مقلية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_TURMERIC:
+  name: كركم مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_TURNIP:
+  name: لفت مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_VANILLA:
+  name: فانيليا مقلية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_WASABI:
+  name: واسابي مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRIED_WHEAT:
+  name: قمح مقلي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_FRUIT_SALAD:
+  name: سلطة فواكه
+  type:
+  - '&7&oطعام'
+  description:
+  - إذا سميتها سلطة، يمكنك أن تأكل منها قدر
+  - ما تشاء، لأنها صحية.
+  stats:
+  - '&8⇨ &7الشفاء: &b6 قلوب'
+  - '&8⇨ &bسرعة III &7(10:00)'
+CLT_FUGU:
+  name: فوغو
+  type:
+  - '&7&oطعام'
+  description:
+  - مستعد لرمي النرد؟
+  stats:
+  - '&8⇨ &7الشفاء: &b1 قلب'
+  - '&8⇨ &bقوّة V &7(10:00)'
+  - '&8⇨ &7فرصة 33% لتموت ببساطة!'
+CLT_GARDEN_CLOCHE:
+  name: ناقوس الحديقة
+  type:
+  - '&7&oآلة'
+  description:
+  - تنمو النباتات بداخله تلقائيًا.
+  stats:
+  - '&8⇨ &7الطاقة لكل نبضة: &b100'
+CLT_GARLIC:
+  name: ثوم
+  type:
+  - '&7&oمحصول'
+  description:
+  - بسرعة، قبل أن يأتي مصاصو الدماء!
+CLT_GARLIC_BUTTER_MUSHROOMS:
+  name: فطر بزبدة الثوم
+  type:
+  - '&7&oطعام'
+  description:
+  - قد يكون بسهولة أفضل طعام على وجه الأرض.
+  stats:
+  - '&8⇨ &7الشفاء: &b2 قلوب'
+  - '&8⇨ &bتوهج I &7(10:00)'
+CLT_GINGER:
+  name: زنجبيل
+  type:
+  - '&7&oمحصول'
+  description:
+  - زنجبيل مفروم في ماء مغلي، يشفي كل العلل!
+CLT_GRAPE:
+  name: عنب
+  type:
+  - '&7&oمحصول'
+  description:
+  - ممتلئ جدًا!
+CLT_GRAPE_JELLY:
+  name: هلام العنب
+  type:
+  - '&7&oمحصول'
+  description: &id008
+  - أكله بالملعقة جريمة يعاقب عليها القانون.
+CLT_GREEN_APPLE:
+  name: تفاحة خضراء
+  type:
+  - '&7&oمحصول'
+  description:
+  - الرسالة تقول... عزيزي المعلم؟
+CLT_GREEN_BEANS:
+  name: فاصولياء خضراء
+  type:
+  - '&7&oمحصول'
+  description:
+  - يا له من اسم مبتكر!
+CLT_GREEN_ONION:
+  name: بصل أخضر
+  type:
+  - '&7&oمحصول'
+  description:
+  - رائع مع التاكو!
+CLT_GRILLED_APPLE:
+  name: تفاحة مشوية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_APRICOT:
+  name: مشمشة مشوية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_ARTICHOKE:
+  name: خرشوف مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_ASPARAGUS:
+  name: هليون مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_AUBERGINE:
+  name: باذنجان مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_AVOCADO:
+  name: أفوكادو مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_BANANA:
+  name: موزة مشوية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_BASIL:
+  name: ريحان مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_BAY_LEAF:
+  name: ورقة غار مشوية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_BEEF:
+  name: لحم بقري مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_BEETROOT:
+  name: شمندر مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_BELL_PEPPER:
+  name: فلفل حلو مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_BLACK_BEANS:
+  name: فاصولياء سوداء مشوية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_BREAD:
+  name: خبز مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_BROCCOLI:
+  name: بروكلي مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_BROWN_MUSHROOM:
+  name: فطر بني مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_BRUSSELS_SPROUTS:
+  name: كرنب بروكسلي مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_CABBAGE:
+  name: ملفوف مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_CARROT:
+  name: جزرة مشوية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_CAULIFLOWER:
+  name: قرنبيط مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_CAYENNE_PEPPER:
+  name: فلفل كايين مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_CELERIAC:
+  name: كرفس جذري مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_CELERY:
+  name: كرفس مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_CHERRY:
+  name: كرز مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_CHESTNUT:
+  name: كستناء مشوية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_CHICKEN:
+  name: دجاج مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_CHICKPEAS:
+  name: حمص مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_CHICORY:
+  name: هندباء مشوية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_CHILLY_PEPPER:
+  name: فلفل حار مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_CHIVES:
+  name: ثوم معمر مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_CHORUS_FRUIT:
+  name: فاكهة الكورس المشوية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_CILANTRO:
+  name: كزبرة مشوية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_CINNAMON:
+  name: قرفة مشوية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_CLOVE:
+  name: قرنفل مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_COCOA_BEANS:
+  name: حبوب الكاكاو المشوية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_COD:
+  name: سمكة القد المشوية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_COURGETTE:
+  name: كوسة مشوية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_CUCUMBER:
+  name: خيار مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_CUMIN:
+  name: كمون مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_CURRY_LEAF:
+  name: ورقة كاري مشوية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_DILL:
+  name: شبت مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_EGG:
+  name: بيضة مشوية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_ENCHANTED_GOLDEN_APPLE:
+  name: تفاحة ذهبية مسحورة مشوية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_FENNEL:
+  name: شمر مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_GARLIC:
+  name: ثوم مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_GINGER:
+  name: زنجبيل مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_GLOW_BERRIES:
+  name: توت مُشع مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_GOLDEN_APPLE:
+  name: تفاحة ذهبية مشوية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_GOLDEN_CARROT:
+  name: جزرة ذهبية مشوية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_GRAPE:
+  name: عنب مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_GREEN_APPLE:
+  name: تفاحة خضراء مشوية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_GREEN_BEANS:
+  name: فاصولياء خضراء مشوية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_GREEN_ONION:
+  name: بصل أخضر مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_HAZELNUT:
+  name: بندق مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_HORSERADISH:
+  name: فجل حار مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_JALAPENO:
+  name: هالابينو مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_JASMINE:
+  name: ياسمين مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_JUNIPER_BERRY:
+  name: حبات عرعر مشوية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_KAFFIR_LIME:
+  name: ورقة ليمون كفيري مشوية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_KALE:
+  name: كرنب أجعد مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_KELP:
+  name: عشب البحر المشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_KIWI:
+  name: كيوي مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_LAVENDER:
+  name: خزامى مشوية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_LEEK:
+  name: كراث مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_LEMON:
+  name: ليمون مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_LETTUCE:
+  name: خس مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_LICORICE:
+  name: عرق السوس المشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_LIME:
+  name: ليمون أخضر مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_MACE:
+  name: بسباسة مشوية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_MANGO:
+  name: مانجو مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_MARJORAM:
+  name: مردقوش مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_MARROW:
+  name: كوسة كبيرة مشوية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_MELON:
+  name: بطيخة مشوية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_MINT:
+  name: نعناع مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_MUSTARD_SEEDS:
+  name: بذور خردل مشوية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_MUTTON:
+  name: لحم ضأن مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_NETTLES:
+  name: قراص مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_OKRA:
+  name: بامية مشوية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_ONION:
+  name: بصل مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_ORANGE:
+  name: برتقال مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_OREGANO:
+  name: أوريغانو مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_PARSLEY:
+  name: بقدونس مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_PARSNIP:
+  name: جزر أبيض مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_PEA:
+  name: بازلاء مشوية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_PEACH:
+  name: خوخ مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_PEANUT:
+  name: حبة فول سوداني مشوية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_PEAR:
+  name: كمثرى مشوية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_PECAN:
+  name: جوز بقان مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_PEPPER:
+  name: فلفل أسود مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_PEPPERONI:
+  name: بيبروني مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_PINEAPPLE:
+  name: أناناس مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_PINTO_BEANS:
+  name: فاصولياء بينتو مشوية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_PORKCHOP:
+  name: ضلع خنزير مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_POTATO:
+  name: بطاطس مشوية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_PUFFERFISH:
+  name: سمكة منتفخة مشوية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_PUMPKIN:
+  name: يقطين مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_RABBIT:
+  name: أرنب مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_RADDISH:
+  name: فجل مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_RADICCHIO:
+  name: هندباء حمراء مشوية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_RAPESEED:
+  name: سلجم مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_RED_MUSHROOM:
+  name: فطر أحمر مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_RHUBARB:
+  name: راوند مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_RICE:
+  name: أرز مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_ROSEMARY:
+  name: إكليل الجبل المشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_ROTTEN_FLESH:
+  name: لحم فاسد مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_RUNNER_BEANS:
+  name: فاصولياء متسلقة مشوية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_RUTABAGA:
+  name: لفت سويدي مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_SALMON:
+  name: سلمون مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_SALMON_SALAD:
+  name: سلطة سلمون مشوية
+  type:
+  - '&7&oطعام'
+  description:
+  - هش بشكل مبهج ومتبل ببراعة.
+  stats:
+  - '&8⇨ &7الشفاء: &b4 قلوب'
+  - '&8⇨ &bتجدد الصحة I &7(10:00)'
+  - '&8⇨ &bتعزيز الصّحة V &7(10:00)'
+CLT_GRILLED_SASSAFRAS:
+  name: ساسافراس مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_SHALLOT:
+  name: بصل شالوت مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_SHISO:
+  name: شيسو مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_SOY_BEANS:
+  name: فول الصويا المشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_SPINACH:
+  name: سبانخ مشوية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_STAR_ANISE:
+  name: يانسون نجمي مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_STRAWBERRY:
+  name: فراولة مشوية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_SUGAR:
+  name: سكر مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_SWEETCORN:
+  name: ذرة حلوة مشوية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_SWEET_BERRIES:
+  name: توت حلو مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_SWEET_POTATO:
+  name: بطاطا حلوة مشوية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_TARRAGON:
+  name: طرخون مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_THYME:
+  name: زعتر مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_TOMATO:
+  name: طماطم مشوية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_TURMERIC:
+  name: كركم مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_TURNIP:
+  name: لفت مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_VANILLA:
+  name: فانيليا مشوية
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_WASABI:
+  name: واسابي مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GRILLED_WHEAT:
+  name: قمح مشوي
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_APPLE:
+  name: تفاحة مطحونة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_APRICOT:
+  name: مشمشة مطحونة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_ARTICHOKE:
+  name: خرشوف مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_ASPARAGUS:
+  name: هليون مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_AUBERGINE:
+  name: باذنجان مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_AVOCADO:
+  name: أفوكادو مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_BANANA:
+  name: موزة مطحونة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_BASIL:
+  name: ريحان مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_BAY_LEAF:
+  name: ورقة غار مطحونة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_BEEF:
+  name: لحم بقري مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_BEETROOT:
+  name: شمندر مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_BELL_PEPPER:
+  name: فلفل حلو مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_BLACK_BEANS:
+  name: فاصولياء سوداء مطحونة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_BREAD:
+  name: خبز مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_BROCCOLI:
+  name: بروكلي مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_BROWN_MUSHROOM:
+  name: فطر بني مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_BRUSSELS_SPROUTS:
+  name: كرنب بروكسلي مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_CABBAGE:
+  name: ملفوف مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_CARROT:
+  name: جزرة مطحونة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_CAULIFLOWER:
+  name: قرنبيط مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_CAYENNE_PEPPER:
+  name: فلفل كايين مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_CELERIAC:
+  name: كرفس جذري مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_CELERY:
+  name: كرفس مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_CHERRY:
+  name: كرز مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_CHESTNUT:
+  name: كستناء مطحونة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_CHICKEN:
+  name: دجاج مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_CHICKPEAS:
+  name: حمص مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_CHICORY:
+  name: هندباء مطحونة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_CHILLY_PEPPER:
+  name: فلفل حار مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_CHIVES:
+  name: ثوم معمر مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_CHORUS_FRUIT:
+  name: فاكهة الكورس المطحونة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_CILANTRO:
+  name: كزبرة مطحونة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_CINNAMON:
+  name: قرفة مطحونة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_CLOVE:
+  name: قرنفل مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_COCOA_BEANS:
+  name: حبوب الكاكاو المطحونة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_COD:
+  name: سمكة القد المطحونة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_COURGETTE:
+  name: كوسة مطحونة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_CUCUMBER:
+  name: خيار مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_CUMIN:
+  name: كمون مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_CURRY_LEAF:
+  name: ورقة كاري مطحونة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_DILL:
+  name: شبت مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_EGG:
+  name: بيضة مطحونة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_ENCHANTED_GOLDEN_APPLE:
+  name: تفاحة ذهبية مسحورة مطحونة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_FENNEL:
+  name: شمر مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_GARLIC:
+  name: ثوم مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_GINGER:
+  name: زنجبيل مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_GLOW_BERRIES:
+  name: توت مُشع مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_GOLDEN_APPLE:
+  name: تفاحة ذهبية مطحونة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_GOLDEN_CARROT:
+  name: جزرة ذهبية مطحونة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_GRAPE:
+  name: عنب مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_GREEN_APPLE:
+  name: تفاحة خضراء مطحونة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_GREEN_BEANS:
+  name: فاصولياء خضراء مطحونة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_GREEN_ONION:
+  name: بصل أخضر مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_HAZELNUT:
+  name: بندق مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_HORSERADISH:
+  name: فجل حار مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_JALAPENO:
+  name: هالابينو مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_JASMINE:
+  name: ياسمين مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_JUNIPER_BERRY:
+  name: حبات عرعر مطحونة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_KAFFIR_LIME:
+  name: ورقة ليمون كفيري مطحونة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_KALE:
+  name: كرنب أجعد مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_KELP:
+  name: عشب البحر المطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_KIWI:
+  name: كيوي مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_LAVENDER:
+  name: خزامى مطحونة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_LEEK:
+  name: كراث مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_LEMON:
+  name: ليمون مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_LETTUCE:
+  name: خس مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_LICORICE:
+  name: عرق السوس المطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_LIME:
+  name: ليمون أخضر مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_MACE:
+  name: بسباسة مطحونة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_MANGO:
+  name: مانجو مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_MARJORAM:
+  name: مردقوش مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_MARROW:
+  name: كوسة كبيرة مطحونة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_MELON:
+  name: بطيخة مطحونة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_MINT:
+  name: نعناع مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_MUSTARD_SEEDS:
+  name: بذور خردل مطحونة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_MUTTON:
+  name: لحم ضأن مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_NETTLES:
+  name: قراص مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_OKRA:
+  name: بامية مطحونة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_ONION:
+  name: بصل مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_ORANGE:
+  name: برتقال مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_OREGANO:
+  name: أوريغانو مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_PARSLEY:
+  name: بقدونس مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_PARSNIP:
+  name: جزر أبيض مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_PEA:
+  name: بازلاء مطحونة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_PEACH:
+  name: خوخ مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_PEANUT:
+  name: حبة فول سوداني مطحونة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_PEAR:
+  name: كمثرى مطحونة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_PECAN:
+  name: جوز بقان مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_PEPPER:
+  name: فلفل أسود مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_PEPPERONI:
+  name: بيبروني مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_PINEAPPLE:
+  name: أناناس مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_PINTO_BEANS:
+  name: فاصولياء بينتو مطحونة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_PORKCHOP:
+  name: ضلع خنزير مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_POTATO:
+  name: بطاطس مطحونة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_PUFFERFISH:
+  name: سمكة منتفخة مطحونة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_PUMPKIN:
+  name: يقطين مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_RABBIT:
+  name: أرنب مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_RADDISH:
+  name: فجل مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_RADICCHIO:
+  name: هندباء حمراء مطحونة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_RAPESEED:
+  name: سلجم مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_RED_MUSHROOM:
+  name: فطر أحمر مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_RHUBARB:
+  name: راوند مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_RICE:
+  name: أرز مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_ROSEMARY:
+  name: إكليل الجبل المطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_ROTTEN_FLESH:
+  name: لحم فاسد مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_RUNNER_BEANS:
+  name: فاصولياء متسلقة مطحونة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_RUTABAGA:
+  name: لفت سويدي مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_SALMON:
+  name: سلمون مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_SASSAFRAS:
+  name: ساسافراس مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_SHALLOT:
+  name: بصل شالوت مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_SHISO:
+  name: شيسو مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_SOY_BEANS:
+  name: فول الصويا المطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_SPINACH:
+  name: سبانخ مطحونة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_STAR_ANISE:
+  name: يانسون نجمي مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_STRAWBERRY:
+  name: فراولة مطحونة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_SUGAR:
+  name: سكر مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_SWEETCORN:
+  name: ذرة حلوة مطحونة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_SWEET_BERRIES:
+  name: توت حلو مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_SWEET_POTATO:
+  name: بطاطا حلوة مطحونة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_TARRAGON:
+  name: طرخون مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_THYME:
+  name: زعتر مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_TOMATO:
+  name: طماطم مطحونة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_TURMERIC:
+  name: كركم مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_TURNIP:
+  name: لفت مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_VANILLA:
+  name: فانيليا مطحونة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_WASABI:
+  name: واسابي مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_GROUND_WHEAT:
+  name: قمح مطحون
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_HAZELNUT:
+  name: بندق
+  type:
+  - '&7&oمحصول'
+  description:
+  - افعل أي شيء لتحوّل هذا إلى
+  - قهوة لي، الآن!
+CLT_HORSERADISH:
+  name: فجل حار
+  type:
+  - '&7&oمحصول'
+  description:
+  - 100$ إن قضمته مباشرة.
+CLT_JALAPENO:
+  name: هالابينو
+  type:
+  - '&7&oمحصول'
+  description:
+  - حار حار حار.
+CLT_JASMINE:
+  name: ياسمين
+  type:
+  - '&7&oمحصول'
+  description:
+  - يصنع شايًا رائعًا.
+CLT_JUNIPER_BERRY:
+  name: حبات عرعر
+  type:
+  - '&7&oمحصول'
+  description:
+  - مجفف حتى الكمال الفلفلي.
+CLT_KAFFIR_LIME:
+  name: ورقة ليمون كفيري
+  type:
+  - '&7&oمحصول'
+  description:
+  - ورقة بنكهة قوية منعشة.
+CLT_KALE:
+  name: كرنب أجعد
+  type:
+  - '&7&oمحصول'
+  description:
+  - النجدة، أنا هيبستر سموذي من عام 2020!
+CLT_KETCHUP:
+  name: كاتشب
+  type:
+  - '&7&oمحصول'
+  description:
+  - مجرد طماطم في صورة كريمية.
+CLT_KEY_LIME_PIE:
+  name: فطيرة الليمون الحامض
+  type:
+  - '&7&oطعام'
+  description:
+  - ببساطة الأفضل!
+  stats:
+  - '&8⇨ &7الشفاء: &b6 قلوب'
+  - '&8⇨ &bعجل IV &7(10:00)'
+CLT_KIWI:
+  name: كيوي
+  type:
+  - '&7&oمحصول'
+  description:
+  - وضعت هذا في الإضافة تحت الإكراه.
+  - الكيوي شرير وكل من
+  - يستخدمه سيخسر تلقائيًا
+  - 100 نقطة.
+CLT_LASAGNA:
+  name: لازانيا
+  type:
+  - '&7&oطعام'
+  description:
+  - طبقات من الروعة.
+  stats:
+  - '&8⇨ &7الشفاء: &bكامل'
+  - '&8⇨ &bتجدد الصحة II &7(10:00)'
+  - '&8⇨ &bمقاومة II &7(10:00)'
+CLT_LAVENDER:
+  name: خزامى
+  type:
+  - '&7&oمحصول'
+  description:
+  - رائحة تجعلني أغفو ببطء.
+CLT_LEAVES_TREE_APRICOT:
+  name: أوراق شجرة المشمش
+  type:
+  - '&7&oأوراق'
+CLT_LEAVES_TREE_BANANA:
+  name: أوراق شجرة الموز
+  type:
+  - '&7&oأوراق'
+CLT_LEAVES_TREE_CHERRY:
+  name: أوراق شجرة الكرز
+  type:
+  - '&7&oأوراق'
+CLT_LEAVES_TREE_CHESTNUT:
+  name: أوراق شجرة الكستناء
+  type:
+  - '&7&oأوراق'
+CLT_LEAVES_TREE_GREEN_APPLE:
+  name: أوراق شجرة التفاح الأخضر
+  type:
+  - '&7&oأوراق'
+CLT_LEAVES_TREE_HAZELNUT:
+  name: أوراق شجرة البندق
+  type:
+  - '&7&oأوراق'
+CLT_LEAVES_TREE_KIWI:
+  name: أوراق شجرة الكيوي
+  type:
+  - '&7&oأوراق'
+CLT_LEAVES_TREE_LEMON:
+  name: أوراق شجرة الليمون
+  type:
+  - '&7&oأوراق'
+CLT_LEAVES_TREE_LIME:
+  name: أوراق شجرة الليمون الأخضر
+  type:
+  - '&7&oأوراق'
+CLT_LEAVES_TREE_MANGO:
+  name: أوراق شجرة المانجو
+  type:
+  - '&7&oأوراق'
+CLT_LEAVES_TREE_ORANGE:
+  name: أوراق شجرة البرتقال
+  type:
+  - '&7&oأوراق'
+CLT_LEAVES_TREE_PEACH:
+  name: أوراق شجرة الخوخ
+  type:
+  - '&7&oأوراق'
+CLT_LEAVES_TREE_PEAR:
+  name: أوراق شجرة الكمثرى
+  type:
+  - '&7&oأوراق'
+CLT_LEAVES_TREE_PECAN:
+  name: أوراق شجرة البقان
+  type:
+  - '&7&oأوراق'
+CLT_LEAVES_TREE_PINEAPPLE:
+  name: أوراق شجرة الأناناس
+  type:
+  - '&7&oأوراق'
+CLT_LEEK:
+  name: كراث
+  type:
+  - '&7&oمحصول'
+  description:
+  - لسبب ما، يقطر ماءً؟
+  - ربما فيه تسريب... أو تسريب كراث؟
+CLT_LEMON:
+  name: ليمون
+  type:
+  - '&7&oمحصول'
+  description:
+  - لماذا هذا الوجه الحامض؟
+CLT_LEMON_DROP:
+  name: حلوى الليمون
+  type:
+  - '&7&oطعام'
+  description:
+  - منظف لحاسة الذوق.
+  stats:
+  - '&8⇨ &7يزيل كل التأثيرات ويجعلك جائعًا من جديد.'
+CLT_LETTUCE:
+  name: خس
+  type:
+  - '&7&oمحصول'
+  description:
+  - رقيق ومائي ومع ذلك لذيذ.
+CLT_LICORICE:
+  name: عرق السوس
+  type:
+  - '&7&oمحصول'
+  description:
+  - اهرب، اهرب الآن!
+CLT_LIME:
+  name: ليمون أخضر
+  type:
+  - '&7&oمحصول'
+  description:
+  - كان يا ما كان في قديم الليمون، فاكهة لذيذة...
+CLT_MACE:
+  name: بسباسة
+  type:
+  - '&7&oمحصول'
+  description:
+  - يُستخدم للرش في وجه المهاجمين.
+  - '...'
+  - ماذا تقصد أن هذه ليست البسباسة الصحيحة؟
+CLT_MANGO:
+  name: مانجو
+  type:
+  - '&7&oمحصول'
+  description:
+  - يا رجل، يجب أن أذهب.
+  - كتابة القصص صعبة...
+CLT_MARJORAM:
+  name: مردقوش
+  type:
+  - '&7&oمحصول'
+  description:
+  - أنا مستعجل قليلًا، كاري... أقصد، هل نتحدث لاحقًا؟
+CLT_MARROW:
+  name: كوسة كبيرة
+  type:
+  - '&7&oمحصول'
+  description:
+  - هل تعلم أن النخاع موجود داخل
+  - عظامك؟
+  - أجل، سيفي ذكي.
+CLT_MASHED_APPLE:
+  name: تفاحة مهروسة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_APRICOT:
+  name: مشمشة مهروسة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_ARTICHOKE:
+  name: خرشوف مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_ASPARAGUS:
+  name: هليون مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_AUBERGINE:
+  name: باذنجان مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_AVOCADO:
+  name: أفوكادو مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_BANANA:
+  name: موزة مهروسة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_BASIL:
+  name: ريحان مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_BAY_LEAF:
+  name: ورقة غار مهروسة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_BEEF:
+  name: لحم بقري مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_BEETROOT:
+  name: شمندر مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_BELL_PEPPER:
+  name: فلفل حلو مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_BLACK_BEANS:
+  name: فاصولياء سوداء مهروسة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_BREAD:
+  name: خبز مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_BROCCOLI:
+  name: بروكلي مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_BROWN_MUSHROOM:
+  name: فطر بني مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_BRUSSELS_SPROUTS:
+  name: كرنب بروكسلي مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_CABBAGE:
+  name: ملفوف مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_CARROT:
+  name: جزرة مهروسة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_CAULIFLOWER:
+  name: قرنبيط مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_CAYENNE_PEPPER:
+  name: فلفل كايين مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_CELERIAC:
+  name: كرفس جذري مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_CELERY:
+  name: كرفس مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_CHERRY:
+  name: كرز مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_CHESTNUT:
+  name: كستناء مهروسة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_CHICKEN:
+  name: دجاج مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_CHICKPEAS:
+  name: حمص مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_CHICORY:
+  name: هندباء مهروسة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_CHILLY_PEPPER:
+  name: فلفل حار مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_CHIVES:
+  name: ثوم معمر مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_CHORUS_FRUIT:
+  name: فاكهة الكورس المهروسة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_CILANTRO:
+  name: كزبرة مهروسة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_CINNAMON:
+  name: قرفة مهروسة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_CLOVE:
+  name: قرنفل مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_COCOA_BEANS:
+  name: حبوب الكاكاو المهروسة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_COD:
+  name: سمكة القد المهروسة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_COURGETTE:
+  name: كوسة مهروسة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_CUCUMBER:
+  name: خيار مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_CUMIN:
+  name: كمون مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_CURRY_LEAF:
+  name: ورقة كاري مهروسة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_DILL:
+  name: شبت مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_EGG:
+  name: بيضة مهروسة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_ENCHANTED_GOLDEN_APPLE:
+  name: تفاحة ذهبية مسحورة مهروسة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_FENNEL:
+  name: شمر مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_GARLIC:
+  name: ثوم مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_GINGER:
+  name: زنجبيل مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_GLOW_BERRIES:
+  name: توت مُشع مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_GOLDEN_APPLE:
+  name: تفاحة ذهبية مهروسة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_GOLDEN_CARROT:
+  name: جزرة ذهبية مهروسة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_GRAPE:
+  name: عنب مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_GREEN_APPLE:
+  name: تفاحة خضراء مهروسة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_GREEN_BEANS:
+  name: فاصولياء خضراء مهروسة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_GREEN_ONION:
+  name: بصل أخضر مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_HAZELNUT:
+  name: بندق مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_HORSERADISH:
+  name: فجل حار مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_JALAPENO:
+  name: هالابينو مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_JASMINE:
+  name: ياسمين مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_JUNIPER_BERRY:
+  name: حبات عرعر مهروسة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_KAFFIR_LIME:
+  name: ورقة ليمون كفيري مهروسة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_KALE:
+  name: كرنب أجعد مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_KELP:
+  name: عشب البحر المهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_KIWI:
+  name: كيوي مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_LAVENDER:
+  name: خزامى مهروسة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_LEEK:
+  name: كراث مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_LEMON:
+  name: ليمون مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_LETTUCE:
+  name: خس مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_LICORICE:
+  name: عرق السوس المهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_LIME:
+  name: ليمون أخضر مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_MACE:
+  name: بسباسة مهروسة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_MANGO:
+  name: مانجو مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_MARJORAM:
+  name: مردقوش مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_MARROW:
+  name: كوسة كبيرة مهروسة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_MELON:
+  name: بطيخة مهروسة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_MINT:
+  name: نعناع مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_MUSTARD_SEEDS:
+  name: بذور خردل مهروسة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_MUTTON:
+  name: لحم ضأن مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_NETTLES:
+  name: قراص مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_OKRA:
+  name: بامية مهروسة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_ONION:
+  name: بصل مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_ORANGE:
+  name: برتقال مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_OREGANO:
+  name: أوريغانو مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_PARSLEY:
+  name: بقدونس مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_PARSNIP:
+  name: جزر أبيض مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_PEA:
+  name: بازلاء مهروسة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_PEACH:
+  name: خوخ مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_PEANUT:
+  name: حبة فول سوداني مهروسة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_PEAR:
+  name: كمثرى مهروسة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_PECAN:
+  name: جوز بقان مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_PEPPER:
+  name: فلفل أسود مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_PEPPERONI:
+  name: بيبروني مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_PINEAPPLE:
+  name: أناناس مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_PINTO_BEANS:
+  name: فاصولياء بينتو مهروسة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_PORKCHOP:
+  name: ضلع خنزير مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_POTATO:
+  name: بطاطس مهروسة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_PUFFERFISH:
+  name: سمكة منتفخة مهروسة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_PUMPKIN:
+  name: يقطين مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_RABBIT:
+  name: أرنب مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_RADDISH:
+  name: فجل مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_RADICCHIO:
+  name: هندباء حمراء مهروسة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_RAPESEED:
+  name: سلجم مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_RED_MUSHROOM:
+  name: فطر أحمر مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_RHUBARB:
+  name: راوند مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_RICE:
+  name: أرز مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_ROSEMARY:
+  name: إكليل الجبل المهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_ROTTEN_FLESH:
+  name: لحم فاسد مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_RUNNER_BEANS:
+  name: فاصولياء متسلقة مهروسة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_RUTABAGA:
+  name: لفت سويدي مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_SALMON:
+  name: سلمون مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_SASSAFRAS:
+  name: ساسافراس مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_SHALLOT:
+  name: بصل شالوت مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_SHISO:
+  name: شيسو مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_SOY_BEANS:
+  name: فول الصويا المهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_SPINACH:
+  name: سبانخ مهروسة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_STAR_ANISE:
+  name: يانسون نجمي مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_STRAWBERRY:
+  name: فراولة مهروسة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_SUGAR:
+  name: سكر مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_SWEETCORN:
+  name: ذرة حلوة مهروسة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_SWEET_BERRIES:
+  name: توت حلو مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_SWEET_POTATO:
+  name: بطاطا حلوة مهروسة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_TARRAGON:
+  name: طرخون مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_THYME:
+  name: زعتر مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_TOMATO:
+  name: طماطم مهروسة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_TURMERIC:
+  name: كركم مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_TURNIP:
+  name: لفت مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_VANILLA:
+  name: فانيليا مهروسة
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_WASABI:
+  name: واسابي مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MASHED_WHEAT:
+  name: قمح مهروس
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_MAYONNAISE:
+  name: مايونيز
+  type:
+  - '&7&oمحصول'
+  description:
+  - مايونيز ناعم كالحرير يناسب أي شيء تقريبًا.
+CLT_MEATBALLS:
+  name: كرات اللحم
+  type:
+  - '&7&oمحصول'
+  description:
+  - كرات من اللحم، من كان ليتخيل.
+CLT_MEATLOAF:
+  name: رغيف اللحم
+  type:
+  - '&7&oطعام'
+  description:
+  - لا مثيل له! هيا بنا.
+  stats:
+  - '&8⇨ &7الشفاء: &bكامل'
+  - '&8⇨ &bتعزيز الصّحة IV &7(10:00)'
+  - '&8⇨ &bمقاومة III &7(10:00)'
+  - '&8⇨ &bعجل II &7(10:00)'
+  - '&8⇨ &bبطء II &7(10:00)'
+CLT_MINT:
+  name: نعناع
+  type:
+  - '&7&oمحصول'
+  description:
+  - امضغ امضغ امضغ.
+CLT_MUSTARD:
+  name: خردل
+  type:
+  - '&7&oمحصول'
+  description:
+  - فيه لسعة صغيرة!
+CLT_MUSTARD_SEEDS:
+  name: بذور الخردل
+  type:
+  - '&7&oمحصول'
+  description:
+  - امضغها، أتحداك!
+CLT_NETTLES:
+  name: قراص
+  type:
+  - '&7&oمحصول'
+  description:
+  - الرجاء ارتداء القفازات قبل حمل هذه.
+CLT_OKRA:
+  name: بامية
+  type:
+  - '&7&oمحصول'
+  description:
+  - يُزرع كثيرًا في أوكلاهوما... أقصد بامياهوما، صحيح، صحيح؟
+CLT_ONION:
+  name: بصل
+  type:
+  - '&7&oمحصول'
+  description:
+  - مهلًا، لماذا تبكي؟
+CLT_ORANGE:
+  name: برتقال
+  type:
+  - '&7&oمحصول'
+  description:
+  - أليس من المفترض أن يكون برتقالة آلية؟
+CLT_ORANGE_JUICE:
+  name: عصير برتقال
+  type:
+  - '&7&oطعام'
+  description:
+  - إنه حقًا أفضل طريقة لبدء اليوم.
+  stats:
+  - '&8⇨ &bسرعة IV &7(10:00)'
+CLT_OREGANO:
+  name: أوريغانو
+  type:
+  - '&7&oمحصول'
+  description:
+  - عشبة كلاسيكية أساسية في كل خزانة.
+CLT_PARSLEY:
+  name: بقدونس
+  type:
+  - '&7&oمحصول'
+  description:
+  - أسوأ. عشبة. على الإطلاق.
+CLT_PARSNIP:
+  name: جزر أبيض
+  type:
+  - '&7&oمحصول'
+  description:
+  - يتطلب التحميص فورًا.
+CLT_PASTA:
+  name: معكرونة
+  type:
+  - '&7&oمحصول'
+  description:
+  - مجرد معكرونة عادية، بسيطة لكنها رائعة.
+CLT_PEA:
+  name: بازلاء
+  type:
+  - '&7&oمحصول'
+  description:
+  - غالبًا ما توجد أزواجًا داخل قرن، أو هكذا سمعت.
+CLT_PEACH:
+  name: خوخ
+  type:
+  - '&7&oمحصول'
+  description:
+  - لا نتحدث عن الإيموجي
+CLT_PEANUT:
+  name: حبة فول سوداني
+  type:
+  - '&7&oمحصول'
+  description:
+  - ريسز، ها أنا قادم!
+CLT_PEANUT_BUTTER:
+  name: زبدة الفول السوداني
+  type:
+  - '&7&oمحصول'
+  description:
+  - لا يشبهه إلا الذهب السائل.
+CLT_PEANUT_BUTTER_JELLY_SANDWICH:
+  name: شطيرة زبدة الفول السوداني والهلام
+  type:
+  - '&7&oطعام'
+  description:
+  - إنها حقًا قمة تكنولوجيا الشطائر.
+  stats:
+  - '&8⇨ &7الشفاء: &b5 قلوب'
+  - '&8⇨ &bقوّة III &7(10:00)'
+CLT_PEAR:
+  name: كمثرى
+  type:
+  - '&7&oمحصول'
+  description:
+  - ألا ترى أنها تبدو كمثرية الكمال؟
+CLT_PECAN:
+  name: جوز بقان
+  type:
+  - '&7&oمحصول'
+  description:
+  - تتوسل لتُصنع منها فطيرة.
+CLT_PECAN_PIE:
+  name: فطيرة البقان
+  type:
+  - '&7&oطعام'
+  description:
+  - الطريقة الوحيدة لأكل السكر الصافي دون
+  - أن يحكم عليك أحد.
+  stats:
+  - '&8⇨ &7الشفاء: &b4 قلوب'
+  - '&8⇨ &bالطوفان I &7(10:00)'
+CLT_PEPPER:
+  name: فلفل أسود
+  type:
+  - '&7&oمحصول'
+  description:
+  - أكثر لذعًا من الملح.
+CLT_PEPPERONI:
+  name: بيبروني
+  type:
+  - '&7&oمحصول'
+  description:
+  - أستطيع أكل جذع كامل من هذا بسهولة.
+CLT_PICO_DE_GALLO:
+  name: بيكو دي غايو
+  type:
+  - '&7&oمحصول'
+  description:
+  - صلصة سالسا خفيفة مليئة باللذة الخالصة.
+CLT_PIE_CRUST:
+  name: قشرة فطيرة
+  type:
+  - '&7&oمحصول'
+  description:
+  - لو كان أكل هذا وحده قانونيًا
+  - لصار مصدر طعامي الرئيسي.
+CLT_PINEAPPLE:
+  name: أناناس
+  type:
+  - '&7&oمحصول'
+  description:
+  - هذا مكانه على كل بيتزا في الوجود.
+  - تريد أن تتشاجر بشأن ذلك!؟
+CLT_PINTO_BEANS:
+  name: فاصولياء بينتو
+  type:
+  - '&7&oمحصول'
+  description:
+  - كاتشينغ! حان وقت البوريتو.
+CLT_PIZZA_CHEESE:
+  name: بيتزا الجبن
+  type:
+  - '&7&oطعام'
+  description:
+  - لماذا قد يطلب أحد الجبن وحده؟ لا أعلم.
+  stats:
+  - '&8⇨ &7الشفاء: &b4 قلوب'
+  - '&8⇨ &bبطء I &7(10:00)'
+CLT_PIZZA_MUSHROOM:
+  name: بيتزا الفطر
+  type:
+  - '&7&oطعام'
+  description:
+  - بيتزا نباتية بسيطة مليئة بالبروتين.
+  stats:
+  - '&8⇨ &7الشفاء: &b6 قلوب'
+  - '&8⇨ &bبطء I &7(10:00)'
+  - '&8⇨ &bعجل II &7(10:00)'
+CLT_PIZZA_PEPPERONI:
+  name: بيتزا البيبروني
+  type:
+  - '&7&oطعام'
+  description:
+  - كلاسيكية نيويوركية مليئة بالنكهة.
+  stats:
+  - '&8⇨ &7الشفاء: &b6 قلوب'
+  - '&8⇨ &bسرعة I &7(10:00)'
+  - '&8⇨ &bعجل I &7(10:00)'
+  - '&8⇨ &bتعزيز القفز I &7(10:00)'
+CLT_PLANT_AIR:
+  name: نبتة الهواء البدائي
+  type:
+  - '&7&oنبتة'
+  description:
+  - نبتة تدندن بهدوء مع
+  - لحن الطبيعة من حولها.
+  - '&eالنباتات البدائية لا تنتج عناصر'
+  - '&eوهي للتهجين فقط.'
+CLT_PLANT_AMETHYST:
+  name: نبتة الجمشت
+  type:
+  - '&7&oنبتة'
+  description:
+  - تحب هذه النبتة أن تزدهر في الأماكن العميقة
+  - المظلمة.
+CLT_PLANT_ANALYSER:
+  name: محلل النباتات
+  type:
+  - '&7&oأداة'
+  description:
+  - أداة بسيطة جدًا تتيح لك
+  - رؤية تفاصيل نبتة نامية
+  usage:
+  - '&eنقر أيمن&7: يُعرّفك بنوع النبتة وتفاصيل نموها.'
+  - '&eشيفت + نقر أيمن&7: يعرض اسم النبتة أو الشجيرة.'
+CLT_PLANT_BASALT:
+  name: نبتة البازالت
+  type:
+  - '&7&oنبتة'
+  description:
+  - نبتة مملة وباهتة جدًا.
+CLT_PLANT_BEE:
+  name: نبتة النحل
+  type:
+  - '&7&oنبتة'
+  description:
+  - نبتة بزوج أجنحة صغير ورقيق جدًا.
+CLT_PLANT_BLACKSTONE:
+  name: نبتة الحجر الأسود
+  type:
+  - '&7&oنبتة'
+  description:
+  - نبتة معروفة بامتصاص الضوء.
+CLT_PLANT_BLAZE:
+  name: نبتة الملتهب
+  type:
+  - '&7&oنبتة'
+  description:
+  - نبتة محترقة عند أطرافها.
+CLT_PLANT_CHICKEN:
+  name: نبتة الدجاج
+  type:
+  - '&7&oنبتة'
+  description:
+  - تقول الشائعات إنك إذا رفعت هذه
+  - البذرة فوق رأسك وقفزت من
+  - مكان مرتفع، فستنزلق بدل أن
+  - تسقط.
+CLT_PLANT_CLAY:
+  name: نبتة الصلصال
+  type:
+  - '&7&oنبتة'
+  description:
+  - يمكن تشكيل هذه النبتة وإعادة تشكيلها بحرية.
+  - لكن هذا لا يعني أن فعل ذلك فكرة جيدة،
+  - على أي حال!
+CLT_PLANT_COAL:
+  name: نبتة الفحم
+  type:
+  - '&7&oنبتة'
+  description:
+  - نبتة تحمل إمكانات هائلة.
+CLT_PLANT_COBBLESTONE:
+  name: نبتة حصاة الرصف
+  type:
+  - '&7&oنبتة'
+  description:
+  - هذه النبتة صلبة كالصخر.
+CLT_PLANT_CONCRETE:
+  name: نبتة الخرسانة
+  type:
+  - '&7&oنبتة'
+  description:
+  - تعاني هذه النبتة لتنمو لأنها
+  - تتصلب بسرعة كبيرة.
+CLT_PLANT_COW:
+  name: نبتة البقر
+  type:
+  - '&7&oنبتة'
+  description:
+  - إذا قرّبت هذه البذرة من أذنك
+  - واستمعت بانتباه شديد، فستسمع
+  - خوارًا بين حين وآخر.
+CLT_PLANT_CREEPER:
+  name: نبتة الكريبر
+  type:
+  - '&7&oنبتة'
+  description:
+  - تسسسسسسسسسست...
+CLT_PLANT_DARKNESS:
+  name: نبتة الظلام البدائي
+  type:
+  - '&7&oنبتة'
+  description:
+  - نبتة تغلي بغضب
+  - جامح.
+  - '&eالنباتات البدائية لا تنتج عناصر'
+  - '&eوهي للتهجين فقط.'
+CLT_PLANT_DARK_FLORA:
+  name: نبتة النباتات المظلمة
+  type:
+  - '&7&oنبتة'
+  description:
+  - شر صامت يسكن هذه البذرة البسيطة.
+CLT_PLANT_DARK_GRASS:
+  name: نبتة العشب المظلم
+  type:
+  - '&7&oنبتة'
+  description:
+  - نبتة فقدت حقًا
+  - هويتها.
+CLT_PLANT_DEEPSLATE:
+  name: نبتة الحجر العميق
+  type:
+  - '&7&oنبتة'
+  description:
+  - عميقة، صخرية، <أدخل القصة هنا>.
+CLT_PLANT_DIAMOND:
+  name: نبتة الألماس
+  type:
+  - '&7&oنبتة'
+  description:
+  - نبتة تنطق بالثراء.
+CLT_PLANT_DIM_LIT:
+  name: نبتة الضوء الخافت
+  type:
+  - '&7&oنبتة'
+  description:
+  - ينبعث ضوء خافت جدًا من داخل هذه البذرة.
+CLT_PLANT_DIRT:
+  name: نبتة التراب
+  type:
+  - '&7&oنبتة'
+  description:
+  - متسخة من الخارج لكنها تحمل
+  - لبنات الحياة نفسها.
+CLT_PLANT_DROWNED:
+  name: نبتة الغارق
+  type:
+  - '&7&oنبتة'
+  description:
+  - نبتة مبللة تقطر ماءً، طوال
+  - الوقت.
+CLT_PLANT_DUSTY:
+  name: نبتة الغبار
+  type:
+  - '&7&oنبتة'
+  description:
+  - تحتاج هذه النبتة إلى عناية خاصة، فأخف
+  - نسمة قوية قد تكفي لتجعلها
+  - تتفكك.
+CLT_PLANT_EARTH:
+  name: نبتة الأرض البدائية
+  type:
+  - '&7&oنبتة'
+  description:
+  - نبتة تُغني العالم
+  - من حولها.
+  - '&eالنباتات البدائية لا تنتج عناصر'
+  - '&eوهي للتهجين فقط.'
+CLT_PLANT_ECHO:
+  name: نبتة الصدى
+  type:
+  - '&7&oنبتة'
+  description:
+  - تعرف هذه النبتة دائمًا كيف تجد
+  - طريقها إلى البيت.
+CLT_PLANT_ELDER_GUARDIAN:
+  name: نبتة الحارس الأقدم
+  type:
+  - '&7&oنبتة'
+  description:
+  - الاقتراب من هذه النبتة يجعل الناس
+  - خاملين.
+CLT_PLANT_EMERALD:
+  name: نبتة الزمرد
+  type:
+  - '&7&oنبتة'
+  description:
+  - على مالكي هذه النبتة القفز
+  - عبر الحلقات فقط ليتمكنوا من تحمل ثمنها.
+CLT_PLANT_ENDERMAN:
+  name: نبتة الاندرمان
+  type:
+  - '&7&oنبتة'
+  description:
+  - إن لم تُعامل بحذر، فقد تنتقل هذه النبتة
+  - آنيًا بشكل عشوائي!
+CLT_PLANT_ENDER_DRAGON:
+  name: نبتة تنين الاندر
+  type:
+  - '&7&oنبتة'
+  description:
+  - نبتة زعيمة بحق.
+CLT_PLANT_END_STONE:
+  name: نبتة حجر الاند
+  type:
+  - '&7&oنبتة'
+  description:
+  - نبتة تدندن مع الفراغ.
+CLT_PLANT_FIRE:
+  name: نبتة النار البدائية
+  type:
+  - '&7&oنبتة'
+  description:
+  - نبتة توفر
+  - مصادر الدمار وكذلك
+  - الولادة من جديد.
+  - '&eالنباتات البدائية لا تنتج عناصر'
+  - '&eوهي للتهجين فقط.'
+CLT_PLANT_FISH:
+  name: نبتة السمك
+  type:
+  - '&7&oنبتة'
+  description:
+  - تنبعث رائحة النضج من هذه البذرة.
+CLT_PLANT_FLOWER:
+  name: نبتة الإزهار
+  type:
+  - '&7&oنبتة'
+  description:
+  - قرن وفرة جميل حسن التقديم.
+CLT_PLANT_FROG:
+  name: نبتة الضفادع
+  type:
+  - '&7&oنبتة'
+  description:
+  - نق نق!
+CLT_PLANT_GHAST:
+  name: نبتة الشبح
+  type:
+  - '&7&oنبتة'
+  description:
+  - نبتة معروفة بأنها
+  - تطلق كرات نارية عشوائيًا.
+CLT_PLANT_GLASS:
+  name: نبتة الزجاج
+  type:
+  - '&7&oنبتة'
+  description:
+  - من الزاوية الصحيحة، تكاد
+  - تقسم أنك ترى عبر هذه النبتة.
+CLT_PLANT_GLAZED:
+  name: نبتة الفخار المزجج
+  type:
+  - '&7&oنبتة'
+  description:
+  - نبتة تنمو بتصميم معقد.
+CLT_PLANT_GLOWING_VINE:
+  name: نبتة الكرمة المتوهجة
+  type:
+  - '&7&oنبتة'
+  description:
+  - ينبعث ضوء خافت من داخل هذه البذرة.
+CLT_PLANT_GLOW_SQUID:
+  name: نبتة الحبار المتوهج
+  type:
+  - '&7&oنبتة'
+  description:
+  - نبتة متلألئة بتوهج خافت.
+CLT_PLANT_GOAT:
+  name: نبتة الماعز
+  type:
+  - '&7&oنبتة'
+  description:
+  - نبتة عنيفة بشكل عشوائي تحب
+  - القفز في كل مكان.
+CLT_PLANT_GRASS:
+  name: نبتة العشب
+  type:
+  - '&7&oنبتة'
+  description:
+  - الحياة المتفتحة تنطلق
+  - من الأرض.
+CLT_PLANT_GRAVEL:
+  name: نبتة الحصى
+  type:
+  - '&7&oنبتة'
+  description:
+  - هذه النبتة حقًا لا تعرف كيف
+  - تحافظ على تماسكها.
+CLT_PLANT_GUARDIAN:
+  name: نبتة الحارس
+  type:
+  - '&7&oنبتة'
+  description:
+  - عند لمسها، تطلق هذه النبتة
+  - أشواكًا.
+CLT_PLANT_IGNEOUS:
+  name: نبتة الصخر الناري
+  type:
+  - '&7&oنبتة'
+  description:
+  - تشكلت هذه النبتة بالحرارة
+  - والضغط. لا تنظر إليّ هكذا! كل
+  - أوصاف النباتات هذه منطقية تمامًا.
+CLT_PLANT_LAPIS:
+  name: نبتة اللازورد
+  type:
+  - '&7&oنبتة'
+  description:
+  - نبتة بهالة سحرية خافتة.
+CLT_PLANT_LIGHT:
+  name: نبتة النور البدائي
+  type:
+  - '&7&oنبتة'
+  description:
+  - نبتة تفيض بهالة
+  - من الحب الخالص.
+  - '&eالنباتات البدائية لا تنتج عناصر'
+  - '&eوهي للتهجين فقط.'
+CLT_PLANT_MAGMA:
+  name: نبتة الصهارة
+  type:
+  - '&7&oنبتة'
+  description:
+  - نبتة حارة لدرجة أنها تحرق
+  - ما حولها.
+CLT_PLANT_MAGMA_CUBE:
+  name: نبتة مكعب الصهارة
+  type:
+  - '&7&oنبتة'
+  description:
+  - حين لا يراقبها أحد، تحب هذه النبتة
+  - أن تقفز صعودًا وهبوطًا.
+CLT_PLANT_MOSS:
+  name: نبتة الطحلب
+  type:
+  - '&7&oنبتة'
+  description:
+  - تميل هذه النبتة إلى الانتشار دون سيطرة.
+CLT_PLANT_MUD:
+  name: نبتة الوحل
+  type:
+  - '&7&oنبتة'
+  description:
+  - نبتة متسخة تقريبًا بقدر
+  - الأرض التي جاءت منها.
+CLT_PLANT_MUSHROOM:
+  name: نبتة الفطر
+  type:
+  - '&7&oنبتة'
+  description:
+  - أجل، نبتة تصنع الفطر.
+  - كل شيء طبيعي تمامًا هنا.
+CLT_PLANT_NETHERRACK:
+  name: نبتة النذرراك
+  type:
+  - '&7&oنبتة'
+  description:
+  - نبتة قوية متينة قادرة على البقاء
+  - في معظم الأماكن.
+CLT_PLANT_NETHER_QUARTZ:
+  name: نبتة كوارتز النذر
+  type:
+  - '&7&oنبتة'
+  description:
+  - لهذه النبتة أشواك حادة لدرجة
+  - أن التعامل معها صعب.
+CLT_PLANT_PHANTOM:
+  name: نبتة الطيف
+  type:
+  - '&7&oنبتة'
+  description:
+  - نبتة بأوراق شاهقة.
+CLT_PLANT_PIG:
+  name: نبتة الخنزير
+  type:
+  - '&7&oنبتة'
+  description:
+  - نبتة تشخر عشوائيًا.
+CLT_PLANT_POWER:
+  name: نبتة القوة البدائية
+  type:
+  - '&7&oنبتة'
+  description:
+  - نبتة تفيض بالقوة حرفيًا.
+  - '&eالنباتات البدائية لا تنتج عناصر'
+  - '&eوهي للتهجين فقط.'
+CLT_PLANT_PURPUR:
+  name: نبتة البربور
+  type:
+  - '&7&oنبتة'
+  description:
+  - نبتة غريبة، تبدو أخف بكثير
+  - من معظم النباتات.
+CLT_PLANT_RABBIT:
+  name: نبتة الأرنب
+  type:
+  - '&7&oنبتة'
+  description:
+  - ستفخر بها الحشرات.
+CLT_PLANT_RAINBOW:
+  name: نبتة قوس قزح
+  type:
+  - '&7&oنبتة'
+  description:
+  - قد يكون هناك قِدر من الذهب أو لا يكون
+  - في نهاية هذه النبتة.
+CLT_PLANT_RAW_COPPER:
+  name: نبتة النحاس الخام
+  type:
+  - '&7&oنبتة'
+  description:
+  - إن تُركت وحدها، تجذب هذه النبتة
+  - البرق أحيانًا.
+CLT_PLANT_RAW_GOLD:
+  name: نبتة الذهب الخام
+  type:
+  - '&7&oنبتة'
+  description:
+  - كثيرًا ما يسرق البيجلن هذه النبتة
+  - إن كانوا قريبين.
+CLT_PLANT_RAW_IRON:
+  name: نبتة الحديد الخام
+  type:
+  - '&7&oنبتة'
+  description:
+  - نبتة متينة قادرة على تحمل معظم
+  - البيئات.
+CLT_PLANT_REDSTONE:
+  name: نبتة الريدستون
+  type:
+  - '&7&oنبتة'
+  description:
+  - نبتة تفيض بالقوة في كل أجزائها.
+CLT_PLANT_RED_SAND:
+  name: نبتة الرمل الأحمر
+  type:
+  - '&7&oنبتة'
+  description:
+  - قد تتفتت هذه النبتة أحيانًا
+  - بلمسة واحدة، لكن... أكثر احمرارًا.
+CLT_PLANT_REINFORCED:
+  name: نبتة الحجر المدعم
+  type:
+  - '&7&oنبتة'
+  description:
+  - نبتة قادرة على الصمود
+  - أمام أي شيء.
+CLT_PLANT_SAND:
+  name: نبتة الرمل
+  type:
+  - '&7&oنبتة'
+  description:
+  - قد تتفتت هذه النبتة أحيانًا
+  - بلمسة واحدة.
+CLT_PLANT_SAPLING:
+  name: نبتة الشتلات
+  type:
+  - '&7&oنبتة'
+  description:
+  - هذه النبتة لا معنى لها أصلًا...
+CLT_PLANT_SCRAPPY:
+  name: نبتة الخردة
+  type:
+  - '&7&oنبتة'
+  description:
+  - هذه النبتة حقًا قمة
+  - فن البستنة.
+CLT_PLANT_SHEEP:
+  name: نبتة الخراف
+  type:
+  - '&7&oنبتة'
+  description:
+  - نبتة بملمس صوفي خشن.
+CLT_PLANT_SHULKER:
+  name: نبتة الشلكر
+  type:
+  - '&7&oنبتة'
+  description:
+  - نبتة كثيرًا ما تطفو بعيدًا
+  - عن الأرض.
+CLT_PLANT_SKELETON:
+  name: نبتة الهيكل العظمي
+  type:
+  - '&7&oنبتة'
+  description:
+  - نبتة تُخشخش وهي تتمايل.
+CLT_PLANT_SLIME:
+  name: نبتة اللزج
+  type:
+  - '&7&oنبتة'
+  description:
+  - لماذا هي لزجة هكذا؟
+CLT_PLANT_SOUL:
+  name: نبتة الأرواح
+  type:
+  - '&7&oنبتة'
+  description:
+  - نبتة يمكن سماعها تصرخ
+  - حين يعم الهدوء.
+CLT_PLANT_SPECTRUM:
+  name: نبتة الطيف اللوني البدائي
+  type:
+  - '&7&oنبتة'
+  description:
+  - نبتة يتغير لونها قليلًا.
+  - '&eالنباتات البدائية لا تنتج عناصر'
+  - '&eوهي للتهجين فقط.'
+CLT_PLANT_SPIDER:
+  name: نبتة العنكبوت
+  type:
+  - '&7&oنبتة'
+  description:
+  - اقتلها، اقتلها الآآآن!
+CLT_PLANT_SQUID:
+  name: نبتة الحبار
+  type:
+  - '&7&oنبتة'
+  description:
+  - احذر، مجرد لمس هذه النبتة
+  - قد يفجّر الحبر في كل
+  - مكان.
+CLT_PLANT_STAINED:
+  name: نبتة الزجاج الملون
+  type:
+  - '&7&oنبتة'
+  description:
+  - تفرّق هذه النبتة الضوء إلى طيف حقيقي
+  - على الأشياء القريبة.
+CLT_PLANT_TERRA:
+  name: نبتة التيرا
+  type:
+  - '&7&oنبتة'
+  description:
+  - نبتة ترابية صلبة تتشقق تحت الضغط.
+CLT_PLANT_TURTLE:
+  name: نبتة السلاحف
+  type:
+  - '&7&oنبتة'
+  description:
+  - بذرة محاطة بقشرة صلبة كالصخر.
+CLT_PLANT_VILLAGER:
+  name: نبتة القروي
+  type:
+  - '&7&oنبتة'
+  description:
+  - أجل، كثّفنا جوهر قروي
+  - داخل نبتة. ويبدو أن ذلك آلمه كثيرًا.
+CLT_PLANT_VINE:
+  name: نبتة الكرمة
+  type:
+  - '&7&oنبتة'
+  description:
+  - نبتة تتشابك مع نفسها
+  - في الحال.
+CLT_PLANT_WATER:
+  name: نبتة الماء البدائي
+  type:
+  - '&7&oنبتة'
+  description:
+  - نبتة ترعى المنطقة المحيطة
+  - وتمنحها الحياة.
+  - '&eالنباتات البدائية لا تنتج عناصر'
+  - '&eوهي للتهجين فقط.'
+CLT_PLANT_WAXY:
+  name: نبتة الشمع
+  type:
+  - '&7&oنبتة'
+  description:
+  - تتحول عصارة هذه النبتة إلى
+  - شمع على شكل شمعة مثالية.
+CLT_PLANT_WEALTH:
+  name: نبتة الثروة البدائية
+  type:
+  - '&7&oنبتة'
+  description:
+  - نبتة تصرخ بالثراء الفاحش.
+  - '&eالنباتات البدائية لا تنتج عناصر'
+  - '&eوهي للتهجين فقط.'
+CLT_PLANT_WITCH:
+  name: نبتة الساحرة
+  type:
+  - '&7&oنبتة'
+  description:
+  - نبتة تبدو وكأنها تتمتم
+  - بالتعاويذ بهدوء.
+CLT_PLANT_WITHER:
+  name: نبتة الويذر
+  type:
+  - '&7&oنبتة'
+  description:
+  - نبتة قاتلة يجب التعامل معها
+  - بحذر.
+CLT_PLANT_WITHER_ROSE:
+  name: نبتة زهرة الوذر
+  type:
+  - '&7&oنبتة'
+  description:
+  - هذه النبتة، بطريقة ما، تنبض بهالة
+  - ضارة من حولها.
+CLT_PLANT_WITHER_SKELETON:
+  name: نبتة الهيكل العظمي الويذر
+  type:
+  - '&7&oنبتة'
+  description:
+  - نبتة معروفة بأنها مراوغة ومتينة.
+CLT_PLANT_WOOLLY:
+  name: نبتة الصوف
+  type:
+  - '&7&oنبتة'
+  description:
+  - نبتة صوفية، من الجذر حتى البتلات!
+CLT_PLANT_ZOMBIE:
+  name: نبتة الزومبي
+  type:
+  - '&7&oنبتة'
+  description:
+  - هذه النبتة تقطر... شيئًا ما...
+CLT_RADDISH:
+  name: فجل
+  type:
+  - '&7&oمحصول'
+  description:
+  - جيوب صغيرة من الشمس الطازجة المقرمشة.
+CLT_RADICCHIO:
+  name: هندباء حمراء
+  type:
+  - '&7&oمحصول'
+  description:
+  - كتابة كل هذه القصص تستغرق وقتًا طويلًا.
+  - إنها هندبائية بلا نهاية.
+CLT_RAMEN_BEEF:
+  name: رامن لحم البقر
+  type:
+  - '&7&oطعام'
+  description:
+  - خيار ليس صحيًا جدًا.
+  stats: &id004
+  - '&8⇨ &bتعزيز الصّحة I &7(10:00)'
+CLT_RAMEN_BEEF_HEARTY:
+  name: رامن لحم البقر الدسم
+  type:
+  - '&7&oطعام'
+  description:
+  - خيار صحي.
+  stats: &id005
+  - '&8⇨ &7الشفاء: &bكامل'
+  - '&8⇨ &bتعزيز الصّحة II &7(10:00)'
+  - '&8⇨ &bسرعة I &7(10:00)'
+CLT_RAMEN_CHICKEN:
+  name: رامن الدجاج
+  type:
+  - '&7&oطعام'
+  description:
+  - خيار ليس مشبعًا جدًا.
+  stats: *id004
+CLT_RAMEN_CHICKEN_HEARTY:
+  name: رامن الدجاج الدسم
+  type:
+  - '&7&oطعام'
+  description:
+  - خيار مشبع.
+  stats: *id005
+CLT_RAMEN_SEAFOOD:
+  name: رامن المأكولات البحرية
+  type:
+  - '&7&oطعام'
+  description:
+  - خيار ليس مرضيًا جدًا.
+  stats: *id004
+CLT_RAMEN_SEAFOOD_HEARTY:
+  name: رامن المأكولات البحرية الدسم
+  type:
+  - '&7&oطعام'
+  description:
+  - خيار مرضٍ.
+  stats: *id005
+CLT_RAPESEED:
+  name: سلجم
+  type:
+  - '&7&oمحصول'
+  description:
+  - كثيرًا ما يُستخدم لصنع الزيوت.
+CLT_RECIPE_UNLOCK:
+  name: مخطوطة معرفة كالتيفيشن
+  type:
+  - '&7&oأداة'
+  description:
+  - انقر بزر الفأرة الأيمن لتتعلم وصفة تهجين
+  - من كالتيفيشن.
+CLT_RHUBARB:
+  name: راوند
+  type:
+  - '&7&oمحصول'
+  description:
+  - فقط تأكد من إزالة الأوراق!
+CLT_RICE:
+  name: أرز
+  type:
+  - '&7&oمحصول'
+  description:
+  - تذكّر، أنت تعيش مرة واحدة... بالأرز!
+CLT_ROSEMARY:
+  name: إكليل الجبل
+  type:
+  - '&7&oمحصول'
+  description:
+  - كثيرًا ما يفوته الوقت... والزعتر.
+CLT_RUNNER_BEANS:
+  name: فاصولياء متسلقة
+  type:
+  - '&7&oمحصول'
+  description:
+  - يحاول الهرب دائمًا.
+CLT_RUTABAGA:
+  name: لفت سويدي
+  type:
+  - '&7&oمحصول'
+  description:
+  - يؤلمني حقًا ألا أسميه لفتًا سويديًا.
+CLT_SALMON_NIGIRI:
+  name: نيغيري السلمون
+  type:
+  - '&7&oطعام'
+  description:
+  - نكهة مبهجة لكنها رقيقة.
+  stats:
+  - '&8⇨ &7الشفاء: &b2 قلوب'
+  - '&8⇨ &bتجدد الصحة I &7(10:00)'
+CLT_SASSAFRAS:
+  name: ساسافراس
+  type:
+  - '&7&oمحصول'
+  description:
+  - بيرة جذور تؤكل، ابحث عنها جديًا
+  - في جوجل، أشتريها باستمرار الآن.
+CLT_SAUSAGE:
+  name: نقانق
+  type:
+  - '&7&oطعام'
+  description:
+  - شقيق اللحم المقدد.
+  stats: &id007
+  - '&8⇨ &7الشفاء: &b1 قلب'
+CLT_SEED_PACK:
+  name: كيس بذور
+  type:
+  - '&7&oأداة'
+  description:
+  - انقر بزر الفأرة الأيمن لفتح هذا الكيس.
+  stats:
+  - '&8⇨ &7مضبوط على: &bلا شيء'
+CLT_SHAKSHUKA:
+  name: شكشوكة
+  type:
+  - '&7&oطعام'
+  description:
+  - طبق يدفئ القلب ببيض لا ينتهي.
+  stats:
+  - '&8⇨ &7الشفاء: &b4 قلوب'
+  - '&8⇨ &bبطل القرية I &7(10:00)'
+  - '&8⇨ &bحظ I &7(10:00)'
+CLT_SHALLOT:
+  name: بصل شالوت
+  type:
+  - '&7&oمحصول'
+  description:
+  - أحب الشالوت كثيرًا، شالوت من القلب.
+CLT_SHEPHERDS_PIE:
+  name: فطيرة الراعي
+  type:
+  - '&7&oطعام'
+  description:
+  - دافئ ومشبع ورائع ببساطة.
+  stats: *id006
+CLT_SHISO:
+  name: شيسو
+  type:
+  - '&7&oمحصول'
+  description:
+  - نعناع مع طبق جانبي من الحب.
+CLT_SLICED_APPLE:
+  name: تفاحة مقطعة شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_APRICOT:
+  name: مشمشة مقطعة شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_ARTICHOKE:
+  name: خرشوف مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_ASPARAGUS:
+  name: هليون مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_AUBERGINE:
+  name: باذنجان مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_AVOCADO:
+  name: أفوكادو مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_BANANA:
+  name: موزة مقطعة شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_BASIL:
+  name: ريحان مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_BAY_LEAF:
+  name: ورقة غار مقطعة شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_BEEF:
+  name: لحم بقري مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_BEETROOT:
+  name: شمندر مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_BELL_PEPPER:
+  name: فلفل حلو مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_BLACK_BEANS:
+  name: فاصولياء سوداء مقطعة شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_BREAD:
+  name: خبز مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_BROCCOLI:
+  name: بروكلي مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_BROWN_MUSHROOM:
+  name: فطر بني مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_BRUSSELS_SPROUTS:
+  name: كرنب بروكسلي مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_CABBAGE:
+  name: ملفوف مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_CARROT:
+  name: جزرة مقطعة شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_CAULIFLOWER:
+  name: قرنبيط مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_CAYENNE_PEPPER:
+  name: فلفل كايين مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_CELERIAC:
+  name: كرفس جذري مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_CELERY:
+  name: كرفس مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_CHERRY:
+  name: كرز مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_CHESTNUT:
+  name: كستناء مقطعة شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_CHICKEN:
+  name: دجاج مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_CHICKPEAS:
+  name: حمص مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_CHICORY:
+  name: هندباء مقطعة شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_CHILLY_PEPPER:
+  name: فلفل حار مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_CHIVES:
+  name: ثوم معمر مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_CHORUS_FRUIT:
+  name: فاكهة الكورس المقطعة شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_CILANTRO:
+  name: كزبرة مقطعة شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_CINNAMON:
+  name: قرفة مقطعة شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_CLOVE:
+  name: قرنفل مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_COCOA_BEANS:
+  name: حبوب الكاكاو المقطعة شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_COD:
+  name: سمكة القد المقطعة شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_COURGETTE:
+  name: كوسة مقطعة شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_CUCUMBER:
+  name: خيار مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_CUMIN:
+  name: كمون مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_CURRY_LEAF:
+  name: ورقة كاري مقطعة شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_DILL:
+  name: شبت مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_EGG:
+  name: بيضة مقطعة شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_ENCHANTED_GOLDEN_APPLE:
+  name: تفاحة ذهبية مسحورة مقطعة شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_FENNEL:
+  name: شمر مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_GARLIC:
+  name: ثوم مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_GINGER:
+  name: زنجبيل مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_GLOW_BERRIES:
+  name: توت مُشع مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_GOLDEN_APPLE:
+  name: تفاحة ذهبية مقطعة شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_GOLDEN_CARROT:
+  name: جزرة ذهبية مقطعة شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_GRAPE:
+  name: عنب مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_GREEN_APPLE:
+  name: تفاحة خضراء مقطعة شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_GREEN_BEANS:
+  name: فاصولياء خضراء مقطعة شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_GREEN_ONION:
+  name: بصل أخضر مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_HAZELNUT:
+  name: بندق مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_HORSERADISH:
+  name: فجل حار مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_JALAPENO:
+  name: هالابينو مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_JASMINE:
+  name: ياسمين مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_JUNIPER_BERRY:
+  name: حبات عرعر مقطعة شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_KAFFIR_LIME:
+  name: ورقة ليمون كفيري مقطعة شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_KALE:
+  name: كرنب أجعد مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_KELP:
+  name: عشب البحر المقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_KIWI:
+  name: كيوي مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_LAVENDER:
+  name: خزامى مقطعة شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_LEEK:
+  name: كراث مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_LEMON:
+  name: ليمون مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_LETTUCE:
+  name: خس مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_LICORICE:
+  name: عرق السوس المقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_LIME:
+  name: ليمون أخضر مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_MACE:
+  name: بسباسة مقطعة شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_MANGO:
+  name: مانجو مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_MARJORAM:
+  name: مردقوش مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_MARROW:
+  name: كوسة كبيرة مقطعة شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_MELON:
+  name: بطيخة مقطعة شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_MINT:
+  name: نعناع مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_MUSTARD_SEEDS:
+  name: بذور خردل مقطعة شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_MUTTON:
+  name: لحم ضأن مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_NETTLES:
+  name: قراص مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_OKRA:
+  name: بامية مقطعة شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_ONION:
+  name: بصل مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_ORANGE:
+  name: برتقال مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_OREGANO:
+  name: أوريغانو مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_PARSLEY:
+  name: بقدونس مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_PARSNIP:
+  name: جزر أبيض مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_PEA:
+  name: بازلاء مقطعة شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_PEACH:
+  name: خوخ مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_PEANUT:
+  name: حبة فول سوداني مقطعة شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_PEAR:
+  name: كمثرى مقطعة شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_PECAN:
+  name: جوز بقان مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_PEPPER:
+  name: فلفل أسود مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_PEPPERONI:
+  name: بيبروني مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_PINEAPPLE:
+  name: أناناس مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_PINTO_BEANS:
+  name: فاصولياء بينتو مقطعة شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_PORKCHOP:
+  name: ضلع خنزير مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_POTATO:
+  name: بطاطس مقطعة شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_PUFFERFISH:
+  name: سمكة منتفخة مقطعة شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_PUMPKIN:
+  name: يقطين مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_RABBIT:
+  name: أرنب مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_RADDISH:
+  name: فجل مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_RADICCHIO:
+  name: هندباء حمراء مقطعة شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_RAPESEED:
+  name: سلجم مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_RED_MUSHROOM:
+  name: فطر أحمر مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_RHUBARB:
+  name: راوند مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_RICE:
+  name: أرز مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_ROSEMARY:
+  name: إكليل الجبل المقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_ROTTEN_FLESH:
+  name: لحم فاسد مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_RUNNER_BEANS:
+  name: فاصولياء متسلقة مقطعة شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_RUTABAGA:
+  name: لفت سويدي مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_SALMON:
+  name: سلمون مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_SASSAFRAS:
+  name: ساسافراس مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_SHALLOT:
+  name: بصل شالوت مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_SHISO:
+  name: شيسو مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_SOY_BEANS:
+  name: فول الصويا المقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_SPINACH:
+  name: سبانخ مقطعة شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_STAR_ANISE:
+  name: يانسون نجمي مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_STRAWBERRY:
+  name: فراولة مقطعة شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_SUGAR:
+  name: سكر مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_SWEETCORN:
+  name: ذرة حلوة مقطعة شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_SWEET_BERRIES:
+  name: توت حلو مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_SWEET_POTATO:
+  name: بطاطا حلوة مقطعة شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_TARRAGON:
+  name: طرخون مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_THYME:
+  name: زعتر مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_TOMATO:
+  name: طماطم مقطعة شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_TURMERIC:
+  name: كركم مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_TURNIP:
+  name: لفت مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_VANILLA:
+  name: فانيليا مقطعة شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_WASABI:
+  name: واسابي مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SLICED_WHEAT:
+  name: قمح مقطع شرائح
+  type:
+  - '&7&oمنتج ثانوي'
+CLT_SOFT_BOILED_EGG:
+  name: بيضة نصف مسلوقة
+  type:
+  - '&7&oطعام'
+  description:
+  - مجرد بيضة مسلوقة، ماذا عساي أقول أكثر.
+  stats:
+  - '&8⇨ &7الشفاء: &b1 قلب'
+  - '&8⇨ &7قد يستدعي أحيانًا دجاجة لمساعدتك.'
+CLT_SOYLENT:
+  name: سويلنت
+  type:
+  - '&7&oطعام'
+  description:
+  - كل ما يحتاجه الجسم!
+  stats:
+  - '&8⇨ &bتنبؤ سيء I &7(10:00)'
+  - '&8⇨ &bضعف IV &7(10:00)'
+CLT_SOY_BEANS:
+  name: فول الصويا
+  type:
+  - '&7&oمحصول'
+  description:
+  - حليب الصويا آتٍ.
+CLT_SPAGHETTI:
+  name: سباغيتي
+  type:
+  - '&7&oطعام'
+  description:
+  - استمر في الشفط.
+  stats: *id007
+CLT_SPAGHETTI_AND_MEATBALLS:
+  name: سباغيتي بكرات اللحم
+  type:
+  - '&7&oطعام'
+  description:
+  - بسيط وكلاسيكي ومشبع.
+  stats:
+  - '&8⇨ &7الشفاء: &b1 قلب'
+  - '&8⇨ &bتنبؤ سيء I &7(10:00)'
+CLT_SPINACH:
+  name: سبانخ
+  type:
+  - '&7&oمحصول'
+  description:
+  - ذابل بالحب.
+CLT_STAR_ANISE:
+  name: يانسون نجمي
+  type:
+  - '&7&oمحصول'
+  description:
+  - من أفضل النكهات وأكثرها تميزًا.
+CLT_STRAWBERRY:
+  name: فراولة
+  type:
+  - '&7&oمحصول'
+  description:
+  - فقط أضف القشدة!
+CLT_STRAWBERRY_JELLY:
+  name: هلام الفراولة
+  type:
+  - '&7&oمحصول'
+  description: *id008
+CLT_SUGARED_SKULL:
+  name: جمجمة مسكرة
+  type:
+  - '&7&oطعام'
+  description:
+  - هل هذا طعام أصلًا...؟
+  stats:
+  - '&8⇨ &bظلام III &7(10:00)'
+CLT_SWEETCORN:
+  name: ذرة حلوة
+  type:
+  - '&7&oمحصول'
+  description:
+  - ربما أفضل خضار على الإطلاق.
+CLT_SWEET_BEEHIVE:
+  name: خلية نحل حلوة
+  type:
+  - '&7&oطعام'
+  description:
+  - لست متأكدًا ما الذي جعلك ترغب في طهي هذا!
+  stats:
+  - '&8⇨ &7يستدعي بعض النحل!'
+CLT_SWEET_POTATO:
+  name: بطاطا حلوة
+  type:
+  - '&7&oمحصول'
+  description:
+  - يام يام يام.
+CLT_TAQUITO:
+  name: تاكيتو
+  type:
+  - '&7&oطعام'
+  description:
+  - زيم سيكون فخورًا!
+  stats:
+  - '&8⇨ &7الشفاء: &b4 قلوب'
+  - '&8⇨ &7يستدعي غير للمساعدة (إنه رجل حديدي، اهدأ).'
+CLT_TARRAGON:
+  name: طرخون
+  type:
+  - '&7&oمحصول'
+  description:
+  - حرفيًا أضع هذا على أي شيء.
+  - 'حرق للأحداث: لست طاهيًا جيدًا.'
+CLT_TATER_TOTS:
+  name: أصابع البطاطس المقرمشة
+  type:
+  - '&7&oطعام'
+  description:
+  - لقيمات بطاطس صغيرة.
+  stats:
+  - '&8⇨ &7الشفاء: &b0.5 قلوب'
+  - '&8⇨ &bسرعة II &7(10:00)'
+CLT_THYME:
+  name: زعتر
+  type:
+  - '&7&oمحصول'
+  description:
+  - كثيرًا ما اشتاق لإكليل الجبل.
+CLT_TOMATO:
+  name: طماطم
+  type:
+  - '&7&oمحصول'
+  description:
+  - طازج من الكرمة.... أقصد... الشجيرة؟
+CLT_TORTILLAS:
+  name: تورتيلا
+  type:
+  - '&7&oمحصول'
+  description:
+  - مسرّات من دقيق الذرة
+CLT_TREE_APRICOT:
+  name: شجرة المشمش
+  type:
+  - '&7&oشتلة'
+  description:
+  - في داخلها نواة واحدة من اليأس.
+  stats: &id009
+  - '&8⇨ &7التصميم: &bبي وايت'
+CLT_TREE_BANANA:
+  name: شجرة الموز
+  type:
+  - '&7&oشتلة'
+  description:
+  - شجرة تنبت أصابع، يا للرعب!
+  stats:
+  - '&8⇨ &7التصميم: &bسيفيرات'
+CLT_TREE_CHERRY:
+  name: شجرة الكرز
+  type:
+  - '&7&oشتلة'
+  description:
+  - اعقدوا القران!
+  stats:
+  - '&8⇨ &7التصميم: &bريزن فاوند ديكوي'
+CLT_TREE_CHESTNUT:
+  name: شجرة الكستناء
+  type:
+  - '&7&oشتلة'
+  description:
+  - شجرة صُممت بوضوح لتُتسلق.
+  stats: &id010
+  - '&8⇨ &7التصميم: &bإيه بت أوديش'
+CLT_TREE_GREEN_APPLE:
+  name: شجرة التفاح الأخضر
+  type:
+  - '&7&oشتلة'
+  description:
+  - تنمو عليها تفاحات خضراء كبيرة ومقرمشة.
+  stats: *id009
+CLT_TREE_HAZELNUT:
+  name: شجرة البندق
+  type:
+  - '&7&oشتلة'
+  description:
+  - هز هذه الشجرة هواية من أيام الطفولة.
+  stats: *id010
+CLT_TREE_KIWI:
+  name: شجرة الكيوي
+  type:
+  - '&7&oشتلة'
+  description:
+  - شجرة نيوزيلندية؟ هل فهمت ذلك صحيحًا؟
+  stats: *id010
+CLT_TREE_LEMON:
+  name: شجرة الليمون
+  type:
+  - '&7&oشتلة'
+  description:
+  - مجرد النظر إلى هذه الشجرة طعمه حامض.
+  stats: &id011
+  - '&8⇨ &7التصميم: &bجيف'
+CLT_TREE_LIME:
+  name: شجرة الليمون الأخضر
+  type:
+  - '&7&oشتلة'
+  description:
+  - هل تعلم أن الليمون الأخضر مجرد ليمون يحبس أنفاسه؟
+  stats: *id010
+CLT_TREE_MANGO:
+  name: شجرة المانجو
+  type:
+  - '&7&oشتلة'
+  description:
+  - أفضل ما يكون في أوج نضجه.
+  stats: *id009
+CLT_TREE_ORANGE:
+  name: شجرة البرتقال
+  type:
+  - '&7&oشتلة'
+  description:
+  - كرات صغيرة من أشعة الشمس.
+  stats: *id011
+CLT_TREE_PEACH:
+  name: شجرة الخوخ
+  type:
+  - '&7&oشتلة'
+  description:
+  - أظن أن جيمس كان يبحث عن هذه؟
+  stats: *id010
+CLT_TREE_PEAR:
+  name: شجرة الكمثرى
+  type:
+  - '&7&oشتلة'
+  description:
+  - كمثرى كمثرتان، كم من كمثرى كمّثرت!
+  stats: *id009
+CLT_TREE_PECAN:
+  name: شجرة البقان
+  type:
+  - '&7&oشتلة'
+  description:
+  - هل نستطيع زراعة هذه الشجرة؟ نعم، بقان... أقصد بإمكاننا!
+  stats: *id009
+CLT_TREE_PINEAPPLE:
+  name: شجرة الأناناس
+  type:
+  - '&7&oشتلة'
+  description:
+  - أين البيتزا خاصتي؟
+  stats: *id010
+CLT_TURMERIC:
+  name: كركم
+  type:
+  - '&7&oمحصول'
+  description:
+  - حضور مسكي قوي يكمل أطباقًا كثيرة.
+CLT_TURNIP:
+  name: لفت
+  type:
+  - '&7&oمحصول'
+  description:
+  - ستحل كل مشاكل الحياة.
+CLT_VANILLA:
+  name: فانيليا
+  type:
+  - '&7&oمحصول'
+  description:
+  - 'التعليمات: اغمسه مباشرة في لاتيه'
+CLT_WASABI:
+  name: واسابي
+  type:
+  - '&7&oمحصول'
+  description:
+  - النجدة... واسابي... أقصد، واسعفوني...
+CLT_WITHER_ROSE_SALAD:
+  name: سلطة زهرة الوذر
+  type:
+  - '&7&oطعام'
+  description:
+  - يفيض بالقوة لكن بأثر جانبي قاسٍ.
+  stats:
+  - '&8⇨ &7الشفاء: &bكامل'
+  - '&8⇨ &bويذر II &7(10:00)'
+  - '&8⇨ &bتعزيز الصّحة XX &7(10:00)'

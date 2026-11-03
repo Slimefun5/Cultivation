@@ -1,0 +1,6674 @@
+CLT_APRICOT:
+  name: משמש
+  type:
+  - '&7&oיבול'
+  description:
+  - אפשר להכין מאלה פוקדורים.
+  - '...'
+  - מה זאת אומרת שזה דבר אחר...?
+CLT_ARTICHOKE:
+  name: ארטישוק
+  type:
+  - '&7&oיבול'
+  description:
+  - תתלשו לו את הלב!
+CLT_ASPARAGUS:
+  name: אספרגוס
+  type:
+  - '&7&oיבול'
+  description:
+  - זהירות כשתלכו לשירותים אחר כך.
+CLT_AUBERGINE:
+  name: חציל
+  type:
+  - '&7&oיבול'
+  description:
+  - סגול בוהק ו-100% לא בצורת ביצה.
+  - אז למה באנגלית קוראים לו "צמח ביצה"?
+CLT_AVOCADO:
+  name: אבוקדו
+  type:
+  - '&7&oיבול'
+  description:
+  - על זה חולמים ההיפסטרים.
+CLT_BACON_SANDWICH:
+  name: כריך בייקון
+  type:
+  - '&7&oמזון'
+  description:
+  - קלאסיקה פשוטה!
+  stats:
+  - '&8⇨ &7ריפוי: &b2 לבבות'
+  - '&8⇨ &bכוח I &7(10:00)'
+  - '&8⇨ &bמהירות I &7(10:00)'
+CLT_BAGEL:
+  name: בייגל
+  type:
+  - '&7&oמזון'
+  description:
+  - קלוי? או...
+  stats:
+  - '&8⇨ &7ריפוי: &b2.5 לבבות'
+CLT_BAGEL_BITE:
+  name: ביס בייגל
+  type:
+  - '&7&oמזון'
+  description:
+  - פיצה בכל שעה!
+  stats:
+  - '&8⇨ &7שורף את הפה בכל ביס!'
+CLT_BAGEL_CREAM_CHEESE:
+  name: בייגל עם גבינת שמנת
+  type:
+  - '&7&oמזון'
+  description:
+  - כל כך טעים שבטח תרצו עוד אחד.
+  stats:
+  - '&8⇨ &7ריפוי: &b5 לבבות'
+  - '&8⇨ &bהרחבת מד החיים I &7(10:00)'
+CLT_BANANA:
+  name: בננה
+  type:
+  - '&7&oיבול'
+  description:
+  - אהבתי את המראה, ועוד יותר את הקליפה!
+CLT_BASIL:
+  name: בזיליקום
+  type:
+  - '&7&oיבול'
+  description:
+  - עלה מתוק עם טעם לוואי עדין ופלפלי.
+CLT_BAY_LEAF:
+  name: עלה דפנה
+  type:
+  - '&7&oיבול'
+  description:
+  - תבלין ארומטי חזק עם שימושים רבים.
+CLT_BELL_PEPPER:
+  name: פלפל גמבה
+  type:
+  - '&7&oיבול'
+  description:
+  - זה ממש מצלצל נכון.
+CLT_BISCUIT:
+  name: ביסקוויט
+  type:
+  - '&7&oמזון'
+  description:
+  - חטיף קטן עם טעם ענק.
+  stats: &id002
+  - '&8⇨ &7משגר אותך לאוויר'
+CLT_BISCUIT_BASE:
+  name: בסיס ביסקוויטים
+  type:
+  - '&7&oיבול'
+  description:
+  - זה שהוא שטוח עכשיו לא אומר
+  - שמותר לאכול אותו נא.
+CLT_BISCUIT_DOUGH:
+  name: בצק ביסקוויטים
+  type:
+  - '&7&oיבול'
+  description:
+  - 'רק תזכירו לעצמכם: "לא אוכלים את זה נא."'
+CLT_BLACK_BEANS:
+  name: שעועית שחורה
+  type:
+  - '&7&oיבול'
+  description:
+  - חלבון צמחוני טעים.
+CLT_BLENDED_APPLE:
+  name: תפוח מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_APRICOT:
+  name: משמש מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_ARTICHOKE:
+  name: ארטישוק מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_ASPARAGUS:
+  name: אספרגוס מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_AUBERGINE:
+  name: חציל מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_AVOCADO:
+  name: אבוקדו מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_BANANA:
+  name: בננה מעורבלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_BASIL:
+  name: בזיליקום מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_BAY_LEAF:
+  name: עלה דפנה מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_BEEF:
+  name: בשר בקר מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_BEETROOT:
+  name: סלק אדום מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_BELL_PEPPER:
+  name: פלפל גמבה מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_BLACK_BEANS:
+  name: שעועית שחורה מעורבלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_BREAD:
+  name: לחם מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_BROCCOLI:
+  name: ברוקולי מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_BROWN_MUSHROOM:
+  name: פטרייה חומה מעורבלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_BRUSSELS_SPROUTS:
+  name: כרוב ניצנים מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_CABBAGE:
+  name: כרוב מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_CARROT:
+  name: גזר מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_CAULIFLOWER:
+  name: כרובית מעורבלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_CAYENNE_PEPPER:
+  name: פלפל קאיין מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_CELERIAC:
+  name: שורש סלרי מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_CELERY:
+  name: סלרי מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_CHERRY:
+  name: דובדבן מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_CHESTNUT:
+  name: ערמון מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_CHICKEN:
+  name: עוף מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_CHICKPEAS:
+  name: גרגרי חומוס מעורבלים
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_CHICORY:
+  name: עולש מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_CHILLY_PEPPER:
+  name: פלפל צ'ילי מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_CHIVES:
+  name: עירית מעורבלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_CHORUS_FRUIT:
+  name: פרי קורוס מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_CILANTRO:
+  name: כוסברה מעורבלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_CINNAMON:
+  name: קינמון מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_CLOVE:
+  name: ציפורן מעורבלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_COCOA_BEANS:
+  name: פולי קקאו מעורבלים
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_COD:
+  name: בקלה מעורבלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_COURGETTE:
+  name: קישוא מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_CUCUMBER:
+  name: מלפפון מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_CUMIN:
+  name: כמון מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_CURRY_LEAF:
+  name: עלה קארי מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_DILL:
+  name: שמיר מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_EGG:
+  name: ביצה מעורבלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_ENCHANTED_GOLDEN_APPLE:
+  name: תפוח מוזהב מכושף מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_FENNEL:
+  name: שומר פשוט מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_GARLIC:
+  name: שום מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_GINGER:
+  name: ג'ינג'ר מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_GLOW_BERRIES:
+  name: פירות יער זוהרים מעורבלים
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_GOLDEN_APPLE:
+  name: תפוח מוזהב מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_GOLDEN_CARROT:
+  name: גזר מוזהב מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_GRAPE:
+  name: ענב מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_GREEN_APPLE:
+  name: תפוח ירוק מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_GREEN_BEANS:
+  name: שעועית ירוקה מעורבלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_GREEN_ONION:
+  name: בצל ירוק מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_HAZELNUT:
+  name: אגוז לוז מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_HORSERADISH:
+  name: חזרת מעורבלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_JALAPENO:
+  name: חלפיניו מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_JASMINE:
+  name: יסמין מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_JUNIPER_BERRY:
+  name: פירות ערער מעורבלים
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_KAFFIR_LIME:
+  name: עלה ליים כפיר מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_KALE:
+  name: קייל מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_KELP:
+  name: אצה מעורבלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_KIWI:
+  name: קיווי מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_LAVENDER:
+  name: לבנדר מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_LEEK:
+  name: כרישה מעורבלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_LEMON:
+  name: לימון מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_LETTUCE:
+  name: חסה מעורבלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_LICORICE:
+  name: ליקריץ מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_LIME:
+  name: ליים מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_MACE:
+  name: קליפת מוסקט מעורבלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_MANGO:
+  name: מנגו מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_MARJORAM:
+  name: מיורן מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_MARROW:
+  name: קישוא ענק מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_MELON:
+  name: אבטיח מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_MINT:
+  name: נענע מעורבלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_MUSTARD_SEEDS:
+  name: גרגרי חרדל מעורבלים
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_MUTTON:
+  name: בשר כבש מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_NETTLES:
+  name: סרפד מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_OKRA:
+  name: במיה מעורבלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_ONION:
+  name: בצל מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_ORANGE:
+  name: תפוז מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_OREGANO:
+  name: אורגנו מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_PARSLEY:
+  name: פטרוזיליה מעורבלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_PARSNIP:
+  name: גזר לבן מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_PEA:
+  name: אפונה מעורבלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_PEACH:
+  name: אפרסק מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_PEANUT:
+  name: בוטן מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_PEAR:
+  name: אגס מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_PECAN:
+  name: פקאן מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_PEPPER:
+  name: פלפל שחור מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_PEPPERONI:
+  name: פפרוני מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_PINEAPPLE:
+  name: אננס מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_PINTO_BEANS:
+  name: שעועית פינטו מעורבלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_PORKCHOP:
+  name: צלע חזיר מעורבלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_POTATO:
+  name: תפוח אדמה מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_PUFFERFISH:
+  name: אבו-נפחא מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_PUMPKIN:
+  name: דלעת מעורבלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_RABBIT:
+  name: ארנב מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_RADDISH:
+  name: צנון מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_RADICCHIO:
+  name: רדיקיו מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_RAPESEED:
+  name: לפתית מעורבלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_RED_MUSHROOM:
+  name: פטרייה אדומה מעורבלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_RHUBARB:
+  name: ריבס מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_RICE:
+  name: אורז מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_ROSEMARY:
+  name: רוזמרין מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_ROTTEN_FLESH:
+  name: בשר רקוב מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_RUNNER_BEANS:
+  name: שעועית מטפסת מעורבלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_RUTABAGA:
+  name: לפת שוודית מעורבלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_SALMON:
+  name: סלמון מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_SASSAFRAS:
+  name: סספרס מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_SHALLOT:
+  name: בצלצל מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_SHISO:
+  name: שיסו מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_SOY_BEANS:
+  name: פולי סויה מעורבלים
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_SPINACH:
+  name: תרד מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_STAR_ANISE:
+  name: כוכב אניס מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_STRAWBERRY:
+  name: תות מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_SUGAR:
+  name: סוכר מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_SWEETCORN:
+  name: תירס מתוק מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_SWEET_BERRIES:
+  name: פירות יער מתוקים מעורבלים
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_SWEET_POTATO:
+  name: בטטה מעורבלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_TARRAGON:
+  name: טרגון מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_THYME:
+  name: תימין מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_TOMATO:
+  name: עגבנייה מעורבלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_TURMERIC:
+  name: כורכום מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_TURNIP:
+  name: לפת מעורבלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_VANILLA:
+  name: וניל מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_WASABI:
+  name: וואסאבי מעורבל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLENDED_WHEAT:
+  name: חיטה מעורבלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BLUE_CANDY:
+  name: סוכרייה כחולה
+  type:
+  - '&7&oמזון'
+  description:
+  - סוכרייה מתוקה להפליא.
+  stats:
+  - '&8⇨ &7מזמן אלאיי'
+CLT_BOILED_APPLE:
+  name: תפוח מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_APRICOT:
+  name: משמש מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_ARTICHOKE:
+  name: ארטישוק מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_ASPARAGUS:
+  name: אספרגוס מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_AUBERGINE:
+  name: חציל מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_AVOCADO:
+  name: אבוקדו מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_BANANA:
+  name: בננה מבושלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_BASIL:
+  name: בזיליקום מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_BAY_LEAF:
+  name: עלה דפנה מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_BEEF:
+  name: בשר בקר מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_BEETROOT:
+  name: סלק אדום מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_BELL_PEPPER:
+  name: פלפל גמבה מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_BLACK_BEANS:
+  name: שעועית שחורה מבושלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_BREAD:
+  name: לחם מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_BROCCOLI:
+  name: ברוקולי מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_BROWN_MUSHROOM:
+  name: פטרייה חומה מבושלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_BRUSSELS_SPROUTS:
+  name: כרוב ניצנים מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_CABBAGE:
+  name: כרוב מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_CARROT:
+  name: גזר מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_CAULIFLOWER:
+  name: כרובית מבושלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_CAYENNE_PEPPER:
+  name: פלפל קאיין מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_CELERIAC:
+  name: שורש סלרי מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_CELERY:
+  name: סלרי מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_CHERRY:
+  name: דובדבן מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_CHESTNUT:
+  name: ערמון מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_CHICKEN:
+  name: עוף מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_CHICKPEAS:
+  name: גרגרי חומוס מבושלים
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_CHICORY:
+  name: עולש מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_CHILLY_PEPPER:
+  name: פלפל צ'ילי מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_CHIVES:
+  name: עירית מבושלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_CHORUS_FRUIT:
+  name: פרי קורוס מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_CILANTRO:
+  name: כוסברה מבושלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_CINNAMON:
+  name: קינמון מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_CLOVE:
+  name: ציפורן מבושלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_COCOA_BEANS:
+  name: פולי קקאו מבושלים
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_COD:
+  name: בקלה מבושלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_COURGETTE:
+  name: קישוא מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_CUCUMBER:
+  name: מלפפון מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_CUMIN:
+  name: כמון מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_CURRY_LEAF:
+  name: עלה קארי מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_DILL:
+  name: שמיר מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_EGG:
+  name: ביצה מבושלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_ENCHANTED_GOLDEN_APPLE:
+  name: תפוח מוזהב מכושף מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_FENNEL:
+  name: שומר פשוט מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_GARLIC:
+  name: שום מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_GINGER:
+  name: ג'ינג'ר מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_GLOW_BERRIES:
+  name: פירות יער זוהרים מבושלים
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_GOLDEN_APPLE:
+  name: תפוח מוזהב מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_GOLDEN_CARROT:
+  name: גזר מוזהב מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_GRAPE:
+  name: ענב מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_GREEN_APPLE:
+  name: תפוח ירוק מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_GREEN_BEANS:
+  name: שעועית ירוקה מבושלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_GREEN_ONION:
+  name: בצל ירוק מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_HAZELNUT:
+  name: אגוז לוז מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_HORSERADISH:
+  name: חזרת מבושלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_JALAPENO:
+  name: חלפיניו מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_JASMINE:
+  name: יסמין מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_JUNIPER_BERRY:
+  name: פירות ערער מבושלים
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_KAFFIR_LIME:
+  name: עלה ליים כפיר מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_KALE:
+  name: קייל מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_KELP:
+  name: אצה מבושלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_KIWI:
+  name: קיווי מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_LAVENDER:
+  name: לבנדר מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_LEEK:
+  name: כרישה מבושלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_LEMON:
+  name: לימון מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_LETTUCE:
+  name: חסה מבושלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_LICORICE:
+  name: ליקריץ מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_LIME:
+  name: ליים מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_MACE:
+  name: קליפת מוסקט מבושלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_MANGO:
+  name: מנגו מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_MARJORAM:
+  name: מיורן מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_MARROW:
+  name: קישוא ענק מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_MELON:
+  name: אבטיח מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_MINT:
+  name: נענע מבושלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_MUSTARD_SEEDS:
+  name: גרגרי חרדל מבושלים
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_MUTTON:
+  name: בשר כבש מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_NETTLES:
+  name: סרפד מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_OKRA:
+  name: במיה מבושלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_ONION:
+  name: בצל מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_ORANGE:
+  name: תפוז מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_OREGANO:
+  name: אורגנו מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_PARSLEY:
+  name: פטרוזיליה מבושלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_PARSNIP:
+  name: גזר לבן מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_PEA:
+  name: אפונה מבושלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_PEACH:
+  name: אפרסק מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_PEANUT:
+  name: בוטן מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_PEAR:
+  name: אגס מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_PECAN:
+  name: פקאן מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_PEPPER:
+  name: פלפל שחור מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_PEPPERONI:
+  name: פפרוני מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_PINEAPPLE:
+  name: אננס מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_PINTO_BEANS:
+  name: שעועית פינטו מבושלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_PORKCHOP:
+  name: צלע חזיר מבושלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_POTATO:
+  name: תפוח אדמה מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_PUFFERFISH:
+  name: אבו-נפחא מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_PUMPKIN:
+  name: דלעת מבושלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_RABBIT:
+  name: ארנב מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_RADDISH:
+  name: צנון מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_RADICCHIO:
+  name: רדיקיו מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_RAPESEED:
+  name: לפתית מבושלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_RED_MUSHROOM:
+  name: פטרייה אדומה מבושלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_RHUBARB:
+  name: ריבס מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_RICE:
+  name: אורז מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_ROSEMARY:
+  name: רוזמרין מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_ROTTEN_FLESH:
+  name: בשר רקוב מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_RUNNER_BEANS:
+  name: שעועית מטפסת מבושלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_RUTABAGA:
+  name: לפת שוודית מבושלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_SALMON:
+  name: סלמון מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_SASSAFRAS:
+  name: סספרס מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_SHALLOT:
+  name: בצלצל מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_SHISO:
+  name: שיסו מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_SOY_BEANS:
+  name: פולי סויה מבושלים
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_SPINACH:
+  name: תרד מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_STAR_ANISE:
+  name: כוכב אניס מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_STRAWBERRY:
+  name: תות מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_SUGAR:
+  name: סוכר מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_SWEETCORN:
+  name: תירס מתוק מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_SWEET_BERRIES:
+  name: פירות יער מתוקים מבושלים
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_SWEET_POTATO:
+  name: בטטה מבושלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_TARRAGON:
+  name: טרגון מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_THYME:
+  name: תימין מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_TOMATO:
+  name: עגבנייה מבושלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_TURMERIC:
+  name: כורכום מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_TURNIP:
+  name: לפת מבושלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_VANILLA:
+  name: וניל מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_WASABI:
+  name: וואסאבי מבושל
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOILED_WHEAT:
+  name: חיטה מבושלת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_BOWL_OF_STEVE:
+  name: קערה של... סטיב?
+  type:
+  - '&7&oמזון'
+  description:
+  - מה לעזאזל &%£$
+  stats:
+  - '&8⇨ &bחציבה איטית X &7(10:00)'
+  - '&8⇨ &bאיטיות VI &7(10:00)'
+  - '&8⇨ &bכוח X &7(10:00)'
+  - '&8⇨ &7מוריד אותך ל-1/2 לב'
+CLT_BROCCOLI:
+  name: ברוקולי
+  type:
+  - '&7&oיבול'
+  description:
+  - אתה ענק שמחזיק עץ?
+  - לא, סתם עץ קטנטן :)
+CLT_BRUSSELS_SPROUTS:
+  name: כרוב ניצנים
+  type:
+  - '&7&oיבול'
+  description:
+  - תענוג גזי.
+CLT_BUSH_ARTICHOKE:
+  name: שיח ארטישוק
+  type:
+  - '&7&oשיח'
+  description:
+  - השיח הזה עושה לאמנים ארטי-שוק.
+  - אוף. משחקי מילים זה קשה.
+CLT_BUSH_ASPARAGUS:
+  name: שיח אספרגוס
+  type:
+  - '&7&oשיח'
+  description:
+  - שיח האספרגוס הזה הוא מרגל
+  - מצוין, תמיד נשאר על הגבעול!
+CLT_BUSH_AUBERGINE:
+  name: שיח חציל
+  type:
+  - '&7&oשיח'
+  description:
+  - אני מסרב להגיד "צמח ביצה". פשוט מסרב.
+CLT_BUSH_AVOCADO:
+  name: שיח אבוקדו
+  type:
+  - '&7&oשיח'
+  description:
+  - השיח הזה טופח במיוחד כדי לא
+  - לבזבז יותר מדי מים.
+CLT_BUSH_BASIL:
+  name: שיח בזיליקום
+  type:
+  - '&7&oשיח'
+  description:
+  - שיח קליל ומלא שובבות.
+CLT_BUSH_BAY_LEAF:
+  name: שיח דפנה
+  type:
+  - '&7&oשיח'
+  description:
+  - הריח של השיח הזה מגיע למרחק קילומטרים.
+CLT_BUSH_BELL_PEPPER:
+  name: שיח פלפל גמבה
+  type:
+  - '&7&oשיח'
+  description:
+  - זהירות כשעוברים ליד זה, אתם עלולים
+  - לצלצל בפעמון.
+CLT_BUSH_BLACK_BEANS:
+  name: שיח שעועית שחורה
+  type:
+  - '&7&oשיח'
+  description:
+  - 'השיח הזה לוחש לך בעדינות:'
+  - אתה בן אדם נהדר, ממש לא סתם שעועית.
+CLT_BUSH_BROCCOLI:
+  name: שיח ברוקולי
+  type:
+  - '&7&oשיח'
+  description:
+  - עצים קטנטנים שאפשר לאכול? מי המציא את זה!?
+CLT_BUSH_BRUSSELS_SPROUTS:
+  name: שיח כרוב ניצנים
+  type:
+  - '&7&oשיח'
+  description:
+  - שיח שלפעמים מפיק
+  - גזים רעילים.
+CLT_BUSH_CABBAGE:
+  name: שיח כרוב
+  type:
+  - '&7&oשיח'
+  description:
+  - שיח שמגיע עם מטען רגשי
+  - כבד כמו ראש כרוב.
+CLT_BUSH_CAULIFLOWER:
+  name: שיח כרובית
+  type:
+  - '&7&oשיח'
+  description:
+  - שיח שמסוגל לייצר עננים
+  - קטנים של תענוג.
+CLT_BUSH_CAYENNE_PEPPER:
+  name: שיח פלפל קאיין
+  type:
+  - '&7&oשיח'
+  description:
+  - שיח עם גישה פלפלית.
+CLT_BUSH_CELERIAC:
+  name: שיח שורש סלרי
+  type:
+  - '&7&oשיח'
+  description:
+  - עוד שורש שגדל על שיח?
+  - ספידאמב™
+CLT_BUSH_CELERY:
+  name: שיח סלרי
+  type:
+  - '&7&oשיח'
+  description:
+  - השיח הזה מיותר.
+  - ספי לא אוהב סלרי.
+CLT_BUSH_CHICKPEAS:
+  name: שיח חומוס
+  type:
+  - '&7&oשיח'
+  description:
+  - שיח שנוצר מהכלאה של תרנגולת
+  - עם אפונה. מדע.
+CLT_BUSH_CHICORY:
+  name: שיח עולש
+  type:
+  - '&7&oשיח'
+  description:
+  - חשבתי שעולש הוא שורש? התוסף הזה
+  - בכלל עושה מחקר!?
+CLT_BUSH_CHILLI_PEPPER:
+  name: שיח פלפל צ'ילי
+  type:
+  - '&7&oשיח'
+  description:
+  - רק להסתכל על השיח הזה שורף לי את הלשון.
+CLT_BUSH_CHIVES:
+  name: שיח עירית
+  type:
+  - '&7&oשיח'
+  description:
+  - שיח שמייצר, בפועל, את הבצל
+  - הכי קטן בעולם.
+CLT_BUSH_CILANTRO:
+  name: שיח כוסברה
+  type:
+  - '&7&oשיח'
+  description:
+  - ריח קלוש של הדרים ותבלינים עולה מהשיח הזה.
+CLT_BUSH_CINNAMON:
+  name: שיח קינמון
+  type:
+  - '&7&oשיח'
+  description:
+  - שיח ריחני להפליא.
+CLT_BUSH_CLOVE:
+  name: שיח ציפורן
+  type:
+  - '&7&oשיח'
+  description:
+  - שיח שפשוט מזכיר לי את חג המולד.
+CLT_BUSH_COURGETTE:
+  name: שיח קישוא
+  type:
+  - '&7&oשיח'
+  description:
+  - למה השיח הזה כל הזמן צועק
+  - את המילה זוקיני? כנראה הוא אמריקאי?
+CLT_BUSH_CUCUMBER:
+  name: שיח מלפפון
+  type:
+  - '&7&oשיח'
+  description:
+  - השיח הזה תוכנן אך ורק לטובת
+  - הסלטים הקייציים הנהדרים שלכם.
+CLT_BUSH_CUMIN:
+  name: שיח כמון
+  type:
+  - '&7&oשיח'
+  description:
+  - שיח שמפיץ ניחוח הדרים חמים.
+CLT_BUSH_CURRY_LEAF:
+  name: שיח קארי
+  type:
+  - '&7&oשיח'
+  description:
+  - הכי טוב כשקולים אותו יבש.
+CLT_BUSH_DILL:
+  name: שיח שמיר
+  type:
+  - '&7&oשיח'
+  description:
+  - השיח הזה גדל הרבה יותר מהר מאחרים.
+CLT_BUSH_FENNEL:
+  name: שיח שומר פשוט
+  type:
+  - '&7&oשיח'
+  description:
+  - למה השיח הזה מרחיק חרקים!?
+CLT_BUSH_GARLIC:
+  name: שיח שום
+  type:
+  - '&7&oשיח'
+  description:
+  - לשיח הזה יש פשוט את הריח מהפה הכי גרוע.
+CLT_BUSH_GINGER:
+  name: שיח ג'ינג'ר
+  type:
+  - '&7&oשיח'
+  description:
+  - השיח הזה נחמד כשמבשלים אותו שלם.
+CLT_BUSH_GRAPE:
+  name: שיח ענבים
+  type:
+  - '&7&oשיח'
+  description:
+  - ענבים בשלים ועסיסיים שממש נושרים
+  - מהשיח.
+CLT_BUSH_GREEN_BEANS:
+  name: שיח שעועית ירוקה
+  type:
+  - '&7&oשיח'
+  description:
+  - שפכו רוטב עגבניות על השיח הזה כדי
+  - לקבל שעועית אפויה.
+CLT_BUSH_GREEN_ONION:
+  name: שיח בצל ירוק
+  type:
+  - '&7&oשיח'
+  description:
+  - ידוע גם בשם בצל אביב.
+  - לבצל ירוק יש בדרך כלל
+  - טעם עדין יותר מרוב סוגי הבצל.
+CLT_BUSH_HORSERADISH:
+  name: שיח חזרת
+  type:
+  - '&7&oשיח'
+  description:
+  - שוב, זה שזה גדל על שיח פשוט לא הגיוני.
+CLT_BUSH_JALAPENO:
+  name: שיח חלפיניו
+  type:
+  - '&7&oשיח'
+  description:
+  - רק להחזיק את השיח הזה נותן לך
+  - סיכוי של 1% לעלות באש.
+CLT_BUSH_JASMINE:
+  name: שיח יסמין
+  type:
+  - '&7&oשיח'
+  description:
+  - הניחוח של השיח הזה כל כך רך ונעים.
+CLT_BUSH_JUNIPER_BERRY:
+  name: שיח ערער
+  type:
+  - '&7&oשיח'
+  description:
+  - מתוק על השיח, פלפלי כשמייבשים אותו.
+CLT_BUSH_KAFFIR_LIME:
+  name: שיח ליים כפיר
+  type:
+  - '&7&oשיח'
+  description:
+  - שיח שהעלים שלו מבוקשים יותר מהפרי שלו.
+CLT_BUSH_KALE:
+  name: שיח קייל
+  type:
+  - '&7&oשיח'
+  description:
+  - כשאתם שותלים את השיח הזה, יש לכם תחושה
+  - שהכול יהיה בסדר. קל וקייל.
+CLT_BUSH_LAVENDER:
+  name: שיח לבנדר
+  type:
+  - '&7&oשיח'
+  description:
+  - השיח הזה מפיץ את הריח שלו לכל מקום.
+CLT_BUSH_LEEK:
+  name: שיח כרישה
+  type:
+  - '&7&oשיח'
+  description:
+  - ידעתם שכרישה היא בסך הכול בצל
+  - שלובש מחוך? סיפור אמיתי.
+CLT_BUSH_LETTUCE:
+  name: שיח חסה
+  type:
+  - '&7&oשיח'
+  description:
+  - האם חסה בכלל גדלה על שיחים?
+  - 'ספוילר: לא, היא לא.'
+CLT_BUSH_LICORICE:
+  name: שיח ליקריץ
+  type:
+  - '&7&oשיח'
+  description:
+  - איכס
+CLT_BUSH_MACE:
+  name: שיח מוסקט
+  type:
+  - '&7&oשיח'
+  description:
+  - נראה שהשיח הזה מרחיק תוקפים?
+CLT_BUSH_MARJORAM:
+  name: שיח מיורן
+  type:
+  - '&7&oשיח'
+  description:
+  - שיח גדול עם ריח של עץ.
+CLT_BUSH_MARROW:
+  name: שיח קישוא ענק
+  type:
+  - '&7&oשיח'
+  description:
+  - אני מופתע שהשיח הזה מצליח להחזיק
+  - את המשקל של עצמו.
+CLT_BUSH_MINT:
+  name: שיח נענע
+  type:
+  - '&7&oשיח'
+  description:
+  - פשוט השיח עם הריח הכי טוב.
+CLT_BUSH_MUSTARD:
+  name: שיח גרגרי חרדל
+  type:
+  - '&7&oשיח'
+  description:
+  - כמו אש בפה.
+CLT_BUSH_NETTLES:
+  name: שיח סרפד
+  type:
+  - '&7&oשיח'
+  description:
+  - זהירות כשעוברים דרך השיח הזה!
+CLT_BUSH_OKRA:
+  name: שיח במיה
+  type:
+  - '&7&oשיח'
+  description:
+  - נבחר לירק מספר 1 לפי
+  - מועדון הירקות של במיה ווינפרי.
+CLT_BUSH_ONION:
+  name: שיח בצל
+  type:
+  - '&7&oשיח'
+  description:
+  - השיח הזה נראה כאילו הוא מתחיל לבכות?
+CLT_BUSH_OREGANO:
+  name: שיח אורגנו
+  type:
+  - '&7&oשיח'
+  description:
+  - הריח החריף של השיח הזה מבריח אורחים.
+CLT_BUSH_PARSLEY:
+  name: שיח פטרוזיליה
+  type:
+  - '&7&oשיח'
+  description:
+  - תזרקו את השיח הזה ללבה, עכשיו :)
+CLT_BUSH_PARSNIP:
+  name: שיח גזר לבן
+  type:
+  - '&7&oשיח'
+  description:
+  - פשוט תדלגו על המתווך ותצלו את השיח
+  - ישירות.
+CLT_BUSH_PEA:
+  name: שיח אפונה
+  type:
+  - '&7&oשיח'
+  description:
+  - פ? אני מעדיף צ.
+CLT_BUSH_PEANUTS:
+  name: שיח בוטנים
+  type:
+  - '&7&oשיח'
+  description: &id001
+  - מוצק, ריחני ומלא בחלבון.
+CLT_BUSH_PEPPER:
+  name: שיח פלפל שחור
+  type:
+  - '&7&oשיח'
+  description:
+  - פלפל שחור היה חלק חשוב
+  - בסחר התבלינים בין הודו לאירופה
+  - כבר בימי היוונים והרומאים.
+CLT_BUSH_PINTO_BEANS:
+  name: שיח שעועית פינטו
+  type:
+  - '&7&oשיח'
+  description:
+  - עוד מעט נצליח להכליא
+  - שיח שמגדל ישר בוריטו, נכון?
+CLT_BUSH_RADDISH:
+  name: שיח צנון
+  type:
+  - '&7&oשיח'
+  description:
+  - הצמח הזה עשה עכשיו טריק על סקייטבורד.
+  - צנון לגמרי. כלומר, צונן.
+CLT_BUSH_RADICCHIO:
+  name: שיח רדיקיו
+  type:
+  - '&7&oשיח'
+  description:
+  - רוצים להישמע מתוחכמים? שימו רדיקיו בכל
+  - ארוחה, זה בעצם כמו כרוב, אבל
+  - גורם לכם להיראות מעודנים.
+CLT_BUSH_RAPESEED:
+  name: שיח לפתית
+  type:
+  - '&7&oשיח'
+  description:
+  - השיח הזה מפריש חומר שמנוני כלשהו.
+CLT_BUSH_RHUBARB:
+  name: שיח ריבס
+  type:
+  - '&7&oשיח'
+  description:
+  - ידעתם שריבס הוא ירק?
+  - חשבתי שזה סוג של פטיש.
+CLT_BUSH_RICE:
+  name: שיח אורז
+  type:
+  - '&7&oשיח'
+  description:
+  - מזון היסוד האולטימטיבי.
+CLT_BUSH_ROSEMARY:
+  name: שיח רוזמרין
+  type:
+  - '&7&oשיח'
+  description:
+  - שיח שהריח שלו מזכיר לאנשים ארוחות צהריים של שבת.
+CLT_BUSH_RUNNER_BEANS:
+  name: שיח שעועית מטפסת
+  type:
+  - '&7&oשיח'
+  description:
+  - לשיח הזה יש רגליים •_•?
+CLT_BUSH_RUTABAGA:
+  name: שיח לפת שוודית
+  type:
+  - '&7&oשיח'
+  description:
+  - שוודית. היא פשוט שוודית.
+CLT_BUSH_SASSAFRAS:
+  name: שיח סספרס
+  type:
+  - '&7&oשיח'
+  description:
+  - השיח הזה אוהב שמשתילים אותו ליד מקווי
+  - מים קטנים.
+CLT_BUSH_SHALLOT:
+  name: שיח בצלצל
+  type:
+  - '&7&oשיח'
+  description:
+  - השיח הזה מייצר במהירות בצלים קטנים ונהדרים.
+  - למזלכם, בצלצל לא צריך לצלצל לאף אחד.
+CLT_BUSH_SHISO:
+  name: שיח שיסו
+  type:
+  - '&7&oשיח'
+  description:
+  - אני אוהב לחשוב שהשיח הזה הוא ילד האהבה
+  - של שיח נענע ושיח בזיליקום. חבל
+  - שהכלאת שיחים זה לא באמת דבר!
+CLT_BUSH_SOY_BEANS:
+  name: שיח סויה
+  type:
+  - '&7&oשיח'
+  description:
+  - השיח הזה הוא תענוג ידידותי. הוא עושה
+  - לי סויה טוב על הלב.
+CLT_BUSH_SPINACH:
+  name: שיח תרד
+  type:
+  - '&7&oשיח'
+  description:
+  - השיח הזה הוא החבר הכי טוב של פופאי.
+CLT_BUSH_STAR_ANISE:
+  name: שיח כוכב אניס
+  type:
+  - '&7&oשיח'
+  description:
+  - עולה מהשיח הזה ריח כל כך ייחודי לאניס,
+  - שפשוט לא תאמינו.
+CLT_BUSH_STRAWBERRY:
+  name: שיח תות
+  type:
+  - '&7&oשיח'
+  description: *id001
+CLT_BUSH_SWEETCORN:
+  name: שיח תירס מתוק
+  type:
+  - '&7&oשיח'
+  description:
+  - השיח הזה פשוט מתחנן שיבנו ממנו
+  - מבוך.
+CLT_BUSH_SWEET_POTATO:
+  name: שיח בטטה
+  type:
+  - '&7&oשיח'
+  description:
+  - השיח הזה פשוט כל כך מתוק. שמעתי אותו
+  - מחמיא לך כשלא הקשבת.
+CLT_BUSH_TARRAGON:
+  name: שיח טרגון
+  type:
+  - '&7&oשיח'
+  description:
+  - השיח הזה לא אוהב למשוך יותר מדי תשומת לב.
+CLT_BUSH_THYME:
+  name: שיח תימין
+  type:
+  - '&7&oשיח'
+  description:
+  - לשיח הזה אף פעם אין תימין... כלומר זמן... *שיעול*
+CLT_BUSH_TOMATO:
+  name: שיח עגבנייה
+  type:
+  - '&7&oשיח'
+  description:
+  - בשל ומוכן.
+CLT_BUSH_TURMERIC:
+  name: שיח כורכום
+  type:
+  - '&7&oשיח'
+  description:
+  - משב של תבלינים מכה לך באף רק
+  - מלהחזיק את השיח הזה.
+CLT_BUSH_TURNIP:
+  name: שיח לפת
+  type:
+  - '&7&oשיח'
+  description:
+  - לפי ממשלת בריטניה
+  - השיח הזה יפתור את כל הבעיות שלנו.
+CLT_BUSH_VANILLA:
+  name: שיח וניל
+  type:
+  - '&7&oשיח'
+  description:
+  - השיח הזה גדל באופן טבעי ליד סניפי סטארבקס.
+CLT_BUSH_WASABI:
+  name: שיח וואסאבי
+  type:
+  - '&7&oשיח'
+  description:
+  - עוד שורש שגדל על שיח?
+  - אוף...
+CLT_CABBAGE:
+  name: כרוב
+  type:
+  - '&7&oיבול'
+  description:
+  - מטען שלם של כרוב.
+CLT_CAESAR_SALAD:
+  name: סלט קיסר
+  type:
+  - '&7&oמזון'
+  description:
+  - קלאסיקה בריאה.
+  stats:
+  - '&8⇨ &7ריפוי: &b6 לבבות'
+  - '&8⇨ &bמהירות I &7(10:00)'
+  - '&8⇨ &bהיעלמות I &7(10:00)'
+  - '&8⇨ &bנפילה איטית I &7(10:00)'
+CLT_CAJUN_GARLIC_BUTTER_COD:
+  name: בקלה בחמאת שום קייג'ון
+  type:
+  - '&7&oמזון'
+  description:
+  - מנה פשוטה מאוד שמתפוצצת מטעם.
+  stats:
+  - '&8⇨ &7ריפוי: &b4 לבבות'
+  - '&8⇨ &bהתחדשות II &7(10:00)'
+  - '&8⇨ &bמהירות I &7(10:00)'
+CLT_CAULIFLOWER:
+  name: כרובית
+  type:
+  - '&7&oיבול'
+  description:
+  - ענן נייד!
+CLT_CAYENNE_PEPPER:
+  name: פלפל קאיין
+  type:
+  - '&7&oיבול'
+  description:
+  - פינוק חריף ועדין.
+CLT_CELERIAC:
+  name: שורש סלרי
+  type:
+  - '&7&oיבול'
+  description:
+  - שורש דשן שמושרש (חה) בהרבה
+  - מתכונים מסורתיים.
+CLT_CELERY:
+  name: סלרי
+  type:
+  - '&7&oיבול'
+  description:
+  - ממש סתם מים עם סיבים. שכנעו
+  - אותי אחרת.
+CLT_CHEESE_BURGER:
+  name: המבורגר
+  type:
+  - '&7&oמזון'
+  description:
+  - צ'יזבורגר פשוט, אבל אין עליו!
+  stats:
+  - '&8⇨ &7ריפוי: &b4 לבבות'
+  - '&8⇨ &bהתחדשות III &7(10:00)'
+CLT_CHEESY_SCALLOPED_COURGETTE:
+  name: גרטן קישואים בגבינה
+  type:
+  - '&7&oמזון'
+  description:
+  - גרסה דלת פחמימות של קלאסיקה מדהימה.
+  stats:
+  - '&8⇨ &7ריפוי: &b2 לבבות'
+  - '&8⇨ &bראיית לילה I &7(10:00)'
+  - '&8⇨ &bהיעלמות I &7(10:00)'
+CLT_CHERRY:
+  name: דובדבן
+  type:
+  - '&7&oיבול'
+  description:
+  - אה, חשבתי שהם גדלים כבר מסוכרים, חבל!
+CLT_CHESTNUT:
+  name: ערמון
+  type:
+  - '&7&oיבול'
+  description:
+  - נועד לאפייה, מיד.
+CLT_CHICKEN_ALFREDO_MAC_AND_CHEESE:
+  name: מקרוני וגבינה אלפרדו עם עוף
+  type:
+  - '&7&oמזון'
+  description:
+  - טוויסט אלגנטי על קלאסיקה נפוצה.
+  stats:
+  - '&8⇨ &7ריפוי: &b1 לב'
+  - '&8⇨ &bחסינות לאש II &7(10:00)'
+  - '&8⇨ &bחסינות III &7(10:00)'
+CLT_CHICKEN_PASTA_BAKE:
+  name: פסטה אפויה עם עוף
+  type:
+  - '&7&oמזון'
+  description:
+  - מזון יסוד של סטודנטים.
+  stats:
+  - '&8⇨ &7ריפוי: &b5 לבבות'
+  - '&8⇨ &bראיית לילה I &7(10:00)'
+  - '&8⇨ &bנשימה תת-מימית I &7(10:00)'
+CLT_CHICKEN_POT_PIE:
+  name: פאי עוף
+  type:
+  - '&7&oמזון'
+  description:
+  - ארוחה מחממת שמרגישה כמו בית.
+  stats:
+  - '&8⇨ &7ריפוי: &b10 לבבות'
+  - '&8⇨ &bהגברת קפיצה II &7(10:00)'
+  - '&8⇨ &bרוויה I &7(10:00)'
+CLT_CHICKPEAS:
+  name: גרגרי חומוס
+  type:
+  - '&7&oיבול'
+  description:
+  - 'הבלאק אייד פיז יודעים לשיר, החומוס רק מזמזם: חומו-ממם.'
+CLT_CHICORY:
+  name: עולש
+  type:
+  - '&7&oיבול'
+  description:
+  - שורש אגוזי ומר.
+CLT_CHILLY_PEPPER:
+  name: פלפל צ'ילי
+  type:
+  - '&7&oיבול'
+  description:
+  - אני יכול לאכול פלפל שלם בלי לבכות.
+  - טוב, חצי.
+  - טוווווב.... 1/4
+  - '...'
+  - אוקיי, אני יכול לגעת באחד עם הלשון
+CLT_CHIVES:
+  name: עירית
+  type:
+  - '&7&oיבול'
+  description:
+  - עשב תיבול מתוק בטעם בצל.
+CLT_CHOPPED_APPLE:
+  name: תפוח קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_APRICOT:
+  name: משמש קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_ARTICHOKE:
+  name: ארטישוק קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_ASPARAGUS:
+  name: אספרגוס קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_AUBERGINE:
+  name: חציל קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_AVOCADO:
+  name: אבוקדו קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_BANANA:
+  name: בננה קצוצה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_BASIL:
+  name: בזיליקום קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_BAY_LEAF:
+  name: עלה דפנה קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_BEEF:
+  name: בשר בקר קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_BEETROOT:
+  name: סלק אדום קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_BELL_PEPPER:
+  name: פלפל גמבה קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_BLACK_BEANS:
+  name: שעועית שחורה קצוצה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_BREAD:
+  name: לחם קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_BROCCOLI:
+  name: ברוקולי קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_BROWN_MUSHROOM:
+  name: פטרייה חומה קצוצה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_BRUSSELS_SPROUTS:
+  name: כרוב ניצנים קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_CABBAGE:
+  name: כרוב קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_CARROT:
+  name: גזר קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_CAULIFLOWER:
+  name: כרובית קצוצה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_CAYENNE_PEPPER:
+  name: פלפל קאיין קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_CELERIAC:
+  name: שורש סלרי קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_CELERY:
+  name: סלרי קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_CHERRY:
+  name: דובדבן קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_CHESTNUT:
+  name: ערמון קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_CHICKEN:
+  name: עוף קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_CHICKPEAS:
+  name: גרגרי חומוס קצוצים
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_CHICORY:
+  name: עולש קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_CHILLY_PEPPER:
+  name: פלפל צ'ילי קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_CHIVES:
+  name: עירית קצוצה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_CHORUS_FRUIT:
+  name: פרי קורוס קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_CILANTRO:
+  name: כוסברה קצוצה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_CINNAMON:
+  name: קינמון קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_CLOVE:
+  name: ציפורן קצוצה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_COCOA_BEANS:
+  name: פולי קקאו קצוצים
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_COD:
+  name: בקלה קצוצה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_COURGETTE:
+  name: קישוא קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_CUCUMBER:
+  name: מלפפון קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_CUMIN:
+  name: כמון קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_CURRY_LEAF:
+  name: עלה קארי קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_DILL:
+  name: שמיר קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_EGG:
+  name: ביצה קצוצה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_ENCHANTED_GOLDEN_APPLE:
+  name: תפוח מוזהב מכושף קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_FENNEL:
+  name: שומר פשוט קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_GARLIC:
+  name: שום קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_GINGER:
+  name: ג'ינג'ר קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_GLOW_BERRIES:
+  name: פירות יער זוהרים קצוצים
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_GOLDEN_APPLE:
+  name: תפוח מוזהב קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_GOLDEN_CARROT:
+  name: גזר מוזהב קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_GRAPE:
+  name: ענב קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_GREEN_APPLE:
+  name: תפוח ירוק קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_GREEN_BEANS:
+  name: שעועית ירוקה קצוצה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_GREEN_ONION:
+  name: בצל ירוק קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_HAZELNUT:
+  name: אגוז לוז קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_HORSERADISH:
+  name: חזרת קצוצה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_JALAPENO:
+  name: חלפיניו קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_JASMINE:
+  name: יסמין קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_JUNIPER_BERRY:
+  name: פירות ערער קצוצים
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_KAFFIR_LIME:
+  name: עלה ליים כפיר קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_KALE:
+  name: קייל קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_KELP:
+  name: אצה קצוצה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_KIWI:
+  name: קיווי קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_LAVENDER:
+  name: לבנדר קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_LEEK:
+  name: כרישה קצוצה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_LEMON:
+  name: לימון קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_LETTUCE:
+  name: חסה קצוצה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_LICORICE:
+  name: ליקריץ קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_LIME:
+  name: ליים קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_MACE:
+  name: קליפת מוסקט קצוצה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_MANGO:
+  name: מנגו קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_MARJORAM:
+  name: מיורן קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_MARROW:
+  name: קישוא ענק קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_MELON:
+  name: אבטיח קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_MINT:
+  name: נענע קצוצה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_MUSTARD_SEEDS:
+  name: גרגרי חרדל קצוצים
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_MUTTON:
+  name: בשר כבש קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_NETTLES:
+  name: סרפד קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_OKRA:
+  name: במיה קצוצה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_ONION:
+  name: בצל קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_ORANGE:
+  name: תפוז קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_OREGANO:
+  name: אורגנו קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_PARSLEY:
+  name: פטרוזיליה קצוצה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_PARSNIP:
+  name: גזר לבן קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_PEA:
+  name: אפונה קצוצה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_PEACH:
+  name: אפרסק קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_PEANUT:
+  name: בוטן קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_PEAR:
+  name: אגס קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_PECAN:
+  name: פקאן קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_PEPPER:
+  name: פלפל שחור קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_PEPPERONI:
+  name: פפרוני קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_PINEAPPLE:
+  name: אננס קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_PINTO_BEANS:
+  name: שעועית פינטו קצוצה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_PORKCHOP:
+  name: צלע חזיר קצוצה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_POTATO:
+  name: תפוח אדמה קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_PUFFERFISH:
+  name: אבו-נפחא קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_PUMPKIN:
+  name: דלעת קצוצה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_RABBIT:
+  name: ארנב קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_RADDISH:
+  name: צנון קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_RADICCHIO:
+  name: רדיקיו קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_RAPESEED:
+  name: לפתית קצוצה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_RED_MUSHROOM:
+  name: פטרייה אדומה קצוצה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_RHUBARB:
+  name: ריבס קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_RICE:
+  name: אורז קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_ROSEMARY:
+  name: רוזמרין קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_ROTTEN_FLESH:
+  name: בשר רקוב קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_RUNNER_BEANS:
+  name: שעועית מטפסת קצוצה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_RUTABAGA:
+  name: לפת שוודית קצוצה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_SALMON:
+  name: סלמון קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_SASSAFRAS:
+  name: סספרס קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_SHALLOT:
+  name: בצלצל קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_SHISO:
+  name: שיסו קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_SOY_BEANS:
+  name: פולי סויה קצוצים
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_SPINACH:
+  name: תרד קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_STAR_ANISE:
+  name: כוכב אניס קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_STRAWBERRY:
+  name: תות קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_SUGAR:
+  name: סוכר קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_SWEETCORN:
+  name: תירס מתוק קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_SWEET_BERRIES:
+  name: פירות יער מתוקים קצוצים
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_SWEET_POTATO:
+  name: בטטה קצוצה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_TARRAGON:
+  name: טרגון קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_THYME:
+  name: תימין קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_TOMATO:
+  name: עגבנייה קצוצה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_TURMERIC:
+  name: כורכום קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_TURNIP:
+  name: לפת קצוצה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_VANILLA:
+  name: וניל קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_WASABI:
+  name: וואסאבי קצוץ
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CHOPPED_WHEAT:
+  name: חיטה קצוצה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_CILANTRO:
+  name: כוסברה
+  type:
+  - '&7&oיבול'
+  description:
+  - תבלין עדין עם נגיעה של הדרים.
+CLT_CINNAMON:
+  name: קינמון
+  type:
+  - '&7&oיבול'
+  description:
+  - מעולה ללעיסה בצורת מקל.
+CLT_CINNAMON_ROLL:
+  name: שבלול קינמון
+  type:
+  - '&7&oמזון'
+  description:
+  - תענוג מתוק שגולגל בשביל הכיף.
+  - מי שאוכל אותו רואה את העולם הפוך!
+  stats:
+  - '&8⇨ &7ריפוי: &b4 לבבות'
+  - '&8⇨ &bריחוף I &7(10:00)'
+  - '&8⇨ &bנפילה איטית I &7(10:00)'
+CLT_CLOVE:
+  name: ציפורן
+  type:
+  - '&7&oיבול'
+  description:
+  - טעם חם ועוצמתי במיוחד.
+CLT_COMPRESSED_BISCUIT:
+  name: ביסקוויט דחוס
+  type:
+  - '&7&oמזון'
+  description:
+  - חטיף קטן עם טעם ענק-יותר.
+  stats: *id002
+CLT_COOKED_BURGER_PATTY:
+  name: קציצת המבורגר עשויה
+  type:
+  - '&7&oיבול'
+  description:
+  - ממש נוטף
+CLT_COUNTER_BLENDER:
+  name: משטח מטבח (בלנדר)
+  type:
+  - '&7&oמכונה'
+  description:
+  - לחצו לחיצה ימנית על הבלוק כדי לערבל יבול.
+  usage: &id003
+  - טיפ מקצועני! אחרי ההצבה, לחצו שיפט + לחיצה
+  - ימנית, והבלוק(ים) שאתם מחזיקים
+  - ישנו את עיצוב המטבח. נסו!
+CLT_COUNTER_BOILING:
+  name: משטח מטבח (סיר בישול)
+  type:
+  - '&7&oמכונה'
+  description:
+  - יכול להרתיח פריטים מסוימים.
+  usage: *id003
+CLT_COUNTER_CHOPPING:
+  name: משטח מטבח (קרש קיצוץ)
+  type:
+  - '&7&oמכונה'
+  description:
+  - לחצו לחיצה ימנית על הבלוק כדי לקצוץ יבול.
+  usage: *id003
+CLT_COUNTER_FINISHING:
+  name: משטח מטבח (גימור)
+  type:
+  - '&7&oמכונה'
+  description:
+  - משמש להכנת מוצרים ותוצרי לוואי
+  - לתוצרי לוואי אחרים או למזון מוכן.
+  usage: *id003
+CLT_COUNTER_FRYING:
+  name: משטח מטבח (מחבת)
+  type:
+  - '&7&oמכונה'
+  description:
+  - יכול לטגן פריטי יבול מסוימים.
+  usage: *id003
+CLT_COUNTER_GRILL:
+  name: משטח מטבח (גריל)
+  type:
+  - '&7&oמכונה'
+  description:
+  - יכול לצלות פריטי יבול מסוימים.
+  usage: *id003
+CLT_COUNTER_GRINDER:
+  name: משטח מטבח (מכתש ועלי לטחינה)
+  type:
+  - '&7&oמכונה'
+  description:
+  - לחצו לחיצה ימנית על הבלוק כדי לטחון יבול.
+  usage: *id003
+CLT_COUNTER_MASHER:
+  name: משטח מטבח (קערת מעיכה)
+  type:
+  - '&7&oמכונה'
+  description:
+  - לחצו לחיצה ימנית על הבלוק כדי למעוך יבול.
+  usage: *id003
+CLT_COUNTER_NOTHING:
+  name: משטח מטבח (ריק)
+  type:
+  - '&7&oמכונה'
+  description:
+  - רק לקישוט!
+  usage: *id003
+CLT_COUNTER_OVEN:
+  name: משטח מטבח (תנור)
+  type:
+  - '&7&oמכונה'
+  description:
+  - יכול לאפות פריטי יבול מסוימים.
+  usage: *id003
+CLT_COUNTER_SLICING:
+  name: משטח מטבח (קרש פריסה)
+  type:
+  - '&7&oמכונה'
+  description:
+  - לחצו לחיצה ימנית על הבלוק כדי לפרוס יבול.
+  usage: *id003
+CLT_COURGETTE:
+  name: קישוא
+  type:
+  - '&7&oיבול'
+  description:
+  - 'טיפ מקצועני: גרדו את זה לכל רוטב פסטה'
+  - בשביל עומק ומרקם.
+CLT_CREAM_CHEESE:
+  name: גבינת שמנת
+  type:
+  - '&7&oיבול'
+  description:
+  - יותר שמנתי מגבינתי.
+CLT_CROP_STICKS:
+  name: מקלות גידול
+  type:
+  - '&7&oכלי'
+  description:
+  - יש להניח מקלות גידול על
+  - זרע שתול כדי שיגדל.
+  - הנחת סט שני תכליא את
+  - הצמח ותאפשר לו להתפשט ו/או
+  - להתרבות.
+CLT_CUCUMBER:
+  name: מלפפון
+  type:
+  - '&7&oיבול'
+  description:
+  - מים בקליפה ירוקה, תוכיחו
+  - שאני טועה.
+CLT_CUMIN:
+  name: כמון
+  type:
+  - '&7&oיבול'
+  description:
+  - צמח חמים בניחוח הדרים.
+CLT_CURRY_LEAF:
+  name: עלה קארי
+  type:
+  - '&7&oיבול'
+  description:
+  - הבסיס להמון מאכלים נפלאים.
+CLT_DILL:
+  name: שמיר
+  type:
+  - '&7&oיבול'
+  description:
+  - בשבילי זה פשוט טעם של דשא. למה
+  - אנשים אוהבים את זה?
+CLT_DOUGH:
+  name: בצק
+  type:
+  - '&7&oיבול'
+  description:
+  - סתם בצק רגיל!
+CLT_EGG_SALAD:
+  name: סלט ביצים
+  type:
+  - '&7&oיבול'
+  description:
+  - תפתחו את זה ברכבת, אני מאתגר אתכם!
+CLT_EGG_SALAD_SANDWICH:
+  name: כריך סלט ביצים
+  type:
+  - '&7&oמזון'
+  description:
+  - קצת מסריח, אבל טעים בטירוף!
+  stats: &id006
+  - '&8⇨ &7ריפוי: &b10 לבבות'
+  - '&8⇨ &bהתחדשות II &7(10:00)'
+CLT_FENNEL:
+  name: שומר פשוט
+  type:
+  - '&7&oיבול'
+  description:
+  - כמו שילוב של אניס וליקריץ.
+CLT_FRIED_APPLE:
+  name: תפוח מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_APRICOT:
+  name: משמש מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_ARTICHOKE:
+  name: ארטישוק מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_ASPARAGUS:
+  name: אספרגוס מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_AUBERGINE:
+  name: חציל מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_AVOCADO:
+  name: אבוקדו מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_BANANA:
+  name: בננה מטוגנת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_BASIL:
+  name: בזיליקום מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_BAY_LEAF:
+  name: עלה דפנה מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_BEEF:
+  name: בשר בקר מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_BEETROOT:
+  name: סלק אדום מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_BELL_PEPPER:
+  name: פלפל גמבה מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_BLACK_BEANS:
+  name: שעועית שחורה מטוגנת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_BREAD:
+  name: לחם מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_BROCCOLI:
+  name: ברוקולי מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_BROWN_MUSHROOM:
+  name: פטרייה חומה מטוגנת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_BRUSSELS_SPROUTS:
+  name: כרוב ניצנים מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_CABBAGE:
+  name: כרוב מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_CARROT:
+  name: גזר מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_CAULIFLOWER:
+  name: כרובית מטוגנת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_CAYENNE_PEPPER:
+  name: פלפל קאיין מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_CELERIAC:
+  name: שורש סלרי מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_CELERY:
+  name: סלרי מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_CHERRY:
+  name: דובדבן מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_CHESTNUT:
+  name: ערמון מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_CHICKEN:
+  name: עוף מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_CHICKPEAS:
+  name: גרגרי חומוס מטוגנים
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_CHICORY:
+  name: עולש מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_CHILLY_PEPPER:
+  name: פלפל צ'ילי מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_CHIVES:
+  name: עירית מטוגנת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_CHORUS_FRUIT:
+  name: פרי קורוס מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_CILANTRO:
+  name: כוסברה מטוגנת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_CINNAMON:
+  name: קינמון מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_CLOVE:
+  name: ציפורן מטוגנת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_COCOA_BEANS:
+  name: פולי קקאו מטוגנים
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_COD:
+  name: בקלה מטוגנת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_COURGETTE:
+  name: קישוא מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_CUCUMBER:
+  name: מלפפון מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_CUMIN:
+  name: כמון מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_CURRY_LEAF:
+  name: עלה קארי מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_DILL:
+  name: שמיר מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_EGG:
+  name: ביצה מטוגנת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_ENCHANTED_GOLDEN_APPLE:
+  name: תפוח מוזהב מכושף מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_FENNEL:
+  name: שומר פשוט מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_GARLIC:
+  name: שום מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_GINGER:
+  name: ג'ינג'ר מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_GLOW_BERRIES:
+  name: פירות יער זוהרים מטוגנים
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_GOLDEN_APPLE:
+  name: תפוח מוזהב מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_GOLDEN_CARROT:
+  name: גזר מוזהב מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_GRAPE:
+  name: ענב מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_GREEN_APPLE:
+  name: תפוח ירוק מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_GREEN_BEANS:
+  name: שעועית ירוקה מטוגנת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_GREEN_ONION:
+  name: בצל ירוק מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_HAZELNUT:
+  name: אגוז לוז מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_HORSERADISH:
+  name: חזרת מטוגנת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_JALAPENO:
+  name: חלפיניו מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_JASMINE:
+  name: יסמין מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_JUNIPER_BERRY:
+  name: פירות ערער מטוגנים
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_KAFFIR_LIME:
+  name: עלה ליים כפיר מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_KALE:
+  name: קייל מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_KELP:
+  name: אצה מטוגנת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_KIWI:
+  name: קיווי מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_LAVENDER:
+  name: לבנדר מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_LEEK:
+  name: כרישה מטוגנת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_LEMON:
+  name: לימון מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_LETTUCE:
+  name: חסה מטוגנת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_LICORICE:
+  name: ליקריץ מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_LIME:
+  name: ליים מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_MACE:
+  name: קליפת מוסקט מטוגנת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_MANGO:
+  name: מנגו מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_MARJORAM:
+  name: מיורן מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_MARROW:
+  name: קישוא ענק מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_MELON:
+  name: אבטיח מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_MINT:
+  name: נענע מטוגנת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_MUSTARD_SEEDS:
+  name: גרגרי חרדל מטוגנים
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_MUTTON:
+  name: בשר כבש מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_NETTLES:
+  name: סרפד מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_OKRA:
+  name: במיה מטוגנת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_ONION:
+  name: בצל מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_ORANGE:
+  name: תפוז מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_OREGANO:
+  name: אורגנו מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_PARSLEY:
+  name: פטרוזיליה מטוגנת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_PARSNIP:
+  name: גזר לבן מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_PEA:
+  name: אפונה מטוגנת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_PEACH:
+  name: אפרסק מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_PEANUT:
+  name: בוטן מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_PEAR:
+  name: אגס מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_PECAN:
+  name: פקאן מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_PEPPER:
+  name: פלפל שחור מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_PEPPERONI:
+  name: פפרוני מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_PINEAPPLE:
+  name: אננס מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_PINTO_BEANS:
+  name: שעועית פינטו מטוגנת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_PORKCHOP:
+  name: צלע חזיר מטוגנת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_POTATO:
+  name: תפוח אדמה מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_PUFFERFISH:
+  name: אבו-נפחא מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_PUMPKIN:
+  name: דלעת מטוגנת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_RABBIT:
+  name: ארנב מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_RADDISH:
+  name: צנון מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_RADICCHIO:
+  name: רדיקיו מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_RAPESEED:
+  name: לפתית מטוגנת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_RED_MUSHROOM:
+  name: פטרייה אדומה מטוגנת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_RHUBARB:
+  name: ריבס מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_RICE:
+  name: אורז מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_ROSEMARY:
+  name: רוזמרין מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_ROTTEN_FLESH:
+  name: בשר רקוב מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_RUNNER_BEANS:
+  name: שעועית מטפסת מטוגנת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_RUTABAGA:
+  name: לפת שוודית מטוגנת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_SALMON:
+  name: סלמון מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_SASSAFRAS:
+  name: סספרס מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_SHALLOT:
+  name: בצלצל מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_SHISO:
+  name: שיסו מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_SOY_BEANS:
+  name: פולי סויה מטוגנים
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_SPINACH:
+  name: תרד מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_STAR_ANISE:
+  name: כוכב אניס מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_STRAWBERRY:
+  name: תות מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_SUGAR:
+  name: סוכר מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_SWEETCORN:
+  name: תירס מתוק מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_SWEET_BERRIES:
+  name: פירות יער מתוקים מטוגנים
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_SWEET_POTATO:
+  name: בטטה מטוגנת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_TARRAGON:
+  name: טרגון מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_THYME:
+  name: תימין מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_TOMATO:
+  name: עגבנייה מטוגנת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_TURMERIC:
+  name: כורכום מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_TURNIP:
+  name: לפת מטוגנת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_VANILLA:
+  name: וניל מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_WASABI:
+  name: וואסאבי מטוגן
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRIED_WHEAT:
+  name: חיטה מטוגנת
+  type:
+  - '&7&oתוצר לוואי'
+CLT_FRUIT_SALAD:
+  name: סלט פירות
+  type:
+  - '&7&oמזון'
+  description:
+  - אם קוראים לזה סלט, מותר לאכול כמה
+  - שרוצים, כי זה בריא.
+  stats:
+  - '&8⇨ &7ריפוי: &b6 לבבות'
+  - '&8⇨ &bמהירות III &7(10:00)'
+CLT_FUGU:
+  name: פוגו
+  type:
+  - '&7&oמזון'
+  description:
+  - מוכנים להטיל את הקובייה?
+  stats:
+  - '&8⇨ &7ריפוי: &b1 לב'
+  - '&8⇨ &bכוח V &7(10:00)'
+  - '&8⇨ &7סיכוי של 33% פשוט למות!'
+CLT_GARDEN_CLOCHE:
+  name: פעמון גינה
+  type:
+  - '&7&oמכונה'
+  description:
+  - מגדל בתוכו צמחים באופן אוטומטי.
+  stats:
+  - '&8⇨ &7אנרגיה לטיק: &b100'
+CLT_GARLIC:
+  name: שום
+  type:
+  - '&7&oיבול'
+  description:
+  - מהר, לפני שהערפדים מגיעים!
+CLT_GARLIC_BUTTER_MUSHROOMS:
+  name: פטריות בחמאת שום
+  type:
+  - '&7&oמזון'
+  description:
+  - אולי בקלות המאכל הכי טוב עלי אדמות.
+  stats:
+  - '&8⇨ &7ריפוי: &b2 לבבות'
+  - '&8⇨ &bזוהר I &7(10:00)'
+CLT_GINGER:
+  name: ג'ינג'ר
+  type:
+  - '&7&oיבול'
+  description:
+  - ג'ינג'ר קצוץ במים רותחים מרפא כל מחלה!
+CLT_GRAPE:
+  name: ענב
+  type:
+  - '&7&oיבול'
+  description:
+  - כל כך שמנמן!
+CLT_GRAPE_JELLY:
+  name: ריבת ענבים
+  type:
+  - '&7&oיבול'
+  description: &id008
+  - לאכול את זה בכפית זו עבירה פלילית.
+CLT_GREEN_APPLE:
+  name: תפוח ירוק
+  type:
+  - '&7&oיבול'
+  description:
+  - בפתק כתוב... למורה היקרה?
+CLT_GREEN_BEANS:
+  name: שעועית ירוקה
+  type:
+  - '&7&oיבול'
+  description:
+  - איזה שם יצירתי!
+CLT_GREEN_ONION:
+  name: בצל ירוק
+  type:
+  - '&7&oיבול'
+  description:
+  - הולך מעולה על טאקו!
+CLT_GRILLED_APPLE:
+  name: תפוח צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_APRICOT:
+  name: משמש צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_ARTICHOKE:
+  name: ארטישוק צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_ASPARAGUS:
+  name: אספרגוס צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_AUBERGINE:
+  name: חציל צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_AVOCADO:
+  name: אבוקדו צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_BANANA:
+  name: בננה צלויה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_BASIL:
+  name: בזיליקום צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_BAY_LEAF:
+  name: עלה דפנה צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_BEEF:
+  name: בשר בקר צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_BEETROOT:
+  name: סלק אדום צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_BELL_PEPPER:
+  name: פלפל גמבה צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_BLACK_BEANS:
+  name: שעועית שחורה צלויה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_BREAD:
+  name: לחם צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_BROCCOLI:
+  name: ברוקולי צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_BROWN_MUSHROOM:
+  name: פטרייה חומה צלויה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_BRUSSELS_SPROUTS:
+  name: כרוב ניצנים צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_CABBAGE:
+  name: כרוב צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_CARROT:
+  name: גזר צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_CAULIFLOWER:
+  name: כרובית צלויה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_CAYENNE_PEPPER:
+  name: פלפל קאיין צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_CELERIAC:
+  name: שורש סלרי צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_CELERY:
+  name: סלרי צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_CHERRY:
+  name: דובדבן צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_CHESTNUT:
+  name: ערמון צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_CHICKEN:
+  name: עוף צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_CHICKPEAS:
+  name: גרגרי חומוס צלויים
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_CHICORY:
+  name: עולש צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_CHILLY_PEPPER:
+  name: פלפל צ'ילי צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_CHIVES:
+  name: עירית צלויה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_CHORUS_FRUIT:
+  name: פרי קורוס צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_CILANTRO:
+  name: כוסברה צלויה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_CINNAMON:
+  name: קינמון צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_CLOVE:
+  name: ציפורן צלויה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_COCOA_BEANS:
+  name: פולי קקאו צלויים
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_COD:
+  name: בקלה צלויה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_COURGETTE:
+  name: קישוא צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_CUCUMBER:
+  name: מלפפון צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_CUMIN:
+  name: כמון צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_CURRY_LEAF:
+  name: עלה קארי צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_DILL:
+  name: שמיר צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_EGG:
+  name: ביצה צלויה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_ENCHANTED_GOLDEN_APPLE:
+  name: תפוח מוזהב מכושף צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_FENNEL:
+  name: שומר פשוט צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_GARLIC:
+  name: שום צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_GINGER:
+  name: ג'ינג'ר צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_GLOW_BERRIES:
+  name: פירות יער זוהרים צלויים
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_GOLDEN_APPLE:
+  name: תפוח מוזהב צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_GOLDEN_CARROT:
+  name: גזר מוזהב צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_GRAPE:
+  name: ענב צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_GREEN_APPLE:
+  name: תפוח ירוק צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_GREEN_BEANS:
+  name: שעועית ירוקה צלויה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_GREEN_ONION:
+  name: בצל ירוק צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_HAZELNUT:
+  name: אגוז לוז צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_HORSERADISH:
+  name: חזרת צלויה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_JALAPENO:
+  name: חלפיניו צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_JASMINE:
+  name: יסמין צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_JUNIPER_BERRY:
+  name: פירות ערער צלויים
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_KAFFIR_LIME:
+  name: עלה ליים כפיר צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_KALE:
+  name: קייל צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_KELP:
+  name: אצה צלויה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_KIWI:
+  name: קיווי צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_LAVENDER:
+  name: לבנדר צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_LEEK:
+  name: כרישה צלויה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_LEMON:
+  name: לימון צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_LETTUCE:
+  name: חסה צלויה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_LICORICE:
+  name: ליקריץ צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_LIME:
+  name: ליים צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_MACE:
+  name: קליפת מוסקט צלויה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_MANGO:
+  name: מנגו צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_MARJORAM:
+  name: מיורן צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_MARROW:
+  name: קישוא ענק צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_MELON:
+  name: אבטיח צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_MINT:
+  name: נענע צלויה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_MUSTARD_SEEDS:
+  name: גרגרי חרדל צלויים
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_MUTTON:
+  name: בשר כבש צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_NETTLES:
+  name: סרפד צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_OKRA:
+  name: במיה צלויה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_ONION:
+  name: בצל צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_ORANGE:
+  name: תפוז צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_OREGANO:
+  name: אורגנו צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_PARSLEY:
+  name: פטרוזיליה צלויה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_PARSNIP:
+  name: גזר לבן צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_PEA:
+  name: אפונה צלויה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_PEACH:
+  name: אפרסק צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_PEANUT:
+  name: בוטן צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_PEAR:
+  name: אגס צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_PECAN:
+  name: פקאן צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_PEPPER:
+  name: פלפל שחור צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_PEPPERONI:
+  name: פפרוני צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_PINEAPPLE:
+  name: אננס צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_PINTO_BEANS:
+  name: שעועית פינטו צלויה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_PORKCHOP:
+  name: צלע חזיר צלויה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_POTATO:
+  name: תפוח אדמה צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_PUFFERFISH:
+  name: אבו-נפחא צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_PUMPKIN:
+  name: דלעת צלויה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_RABBIT:
+  name: ארנב צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_RADDISH:
+  name: צנון צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_RADICCHIO:
+  name: רדיקיו צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_RAPESEED:
+  name: לפתית צלויה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_RED_MUSHROOM:
+  name: פטרייה אדומה צלויה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_RHUBARB:
+  name: ריבס צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_RICE:
+  name: אורז צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_ROSEMARY:
+  name: רוזמרין צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_ROTTEN_FLESH:
+  name: בשר רקוב צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_RUNNER_BEANS:
+  name: שעועית מטפסת צלויה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_RUTABAGA:
+  name: לפת שוודית צלויה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_SALMON:
+  name: סלמון צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_SALMON_SALAD:
+  name: סלט סלמון צלוי
+  type:
+  - '&7&oמזון'
+  description:
+  - פריך להפליא ומתובל בצורה מבריקה.
+  stats:
+  - '&8⇨ &7ריפוי: &b4 לבבות'
+  - '&8⇨ &bהתחדשות I &7(10:00)'
+  - '&8⇨ &bהרחבת מד החיים V &7(10:00)'
+CLT_GRILLED_SASSAFRAS:
+  name: סספרס צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_SHALLOT:
+  name: בצלצל צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_SHISO:
+  name: שיסו צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_SOY_BEANS:
+  name: פולי סויה צלויים
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_SPINACH:
+  name: תרד צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_STAR_ANISE:
+  name: כוכב אניס צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_STRAWBERRY:
+  name: תות צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_SUGAR:
+  name: סוכר צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_SWEETCORN:
+  name: תירס מתוק צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_SWEET_BERRIES:
+  name: פירות יער מתוקים צלויים
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_SWEET_POTATO:
+  name: בטטה צלויה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_TARRAGON:
+  name: טרגון צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_THYME:
+  name: תימין צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_TOMATO:
+  name: עגבנייה צלויה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_TURMERIC:
+  name: כורכום צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_TURNIP:
+  name: לפת צלויה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_VANILLA:
+  name: וניל צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_WASABI:
+  name: וואסאבי צלוי
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GRILLED_WHEAT:
+  name: חיטה צלויה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_APPLE:
+  name: תפוח טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_APRICOT:
+  name: משמש טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_ARTICHOKE:
+  name: ארטישוק טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_ASPARAGUS:
+  name: אספרגוס טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_AUBERGINE:
+  name: חציל טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_AVOCADO:
+  name: אבוקדו טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_BANANA:
+  name: בננה טחונה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_BASIL:
+  name: בזיליקום טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_BAY_LEAF:
+  name: עלה דפנה טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_BEEF:
+  name: בשר בקר טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_BEETROOT:
+  name: סלק אדום טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_BELL_PEPPER:
+  name: פלפל גמבה טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_BLACK_BEANS:
+  name: שעועית שחורה טחונה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_BREAD:
+  name: לחם טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_BROCCOLI:
+  name: ברוקולי טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_BROWN_MUSHROOM:
+  name: פטרייה חומה טחונה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_BRUSSELS_SPROUTS:
+  name: כרוב ניצנים טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_CABBAGE:
+  name: כרוב טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_CARROT:
+  name: גזר טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_CAULIFLOWER:
+  name: כרובית טחונה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_CAYENNE_PEPPER:
+  name: פלפל קאיין טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_CELERIAC:
+  name: שורש סלרי טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_CELERY:
+  name: סלרי טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_CHERRY:
+  name: דובדבן טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_CHESTNUT:
+  name: ערמון טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_CHICKEN:
+  name: עוף טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_CHICKPEAS:
+  name: גרגרי חומוס טחונים
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_CHICORY:
+  name: עולש טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_CHILLY_PEPPER:
+  name: פלפל צ'ילי טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_CHIVES:
+  name: עירית טחונה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_CHORUS_FRUIT:
+  name: פרי קורוס טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_CILANTRO:
+  name: כוסברה טחונה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_CINNAMON:
+  name: קינמון טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_CLOVE:
+  name: ציפורן טחונה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_COCOA_BEANS:
+  name: פולי קקאו טחונים
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_COD:
+  name: בקלה טחונה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_COURGETTE:
+  name: קישוא טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_CUCUMBER:
+  name: מלפפון טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_CUMIN:
+  name: כמון טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_CURRY_LEAF:
+  name: עלה קארי טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_DILL:
+  name: שמיר טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_EGG:
+  name: ביצה טחונה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_ENCHANTED_GOLDEN_APPLE:
+  name: תפוח מוזהב מכושף טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_FENNEL:
+  name: שומר פשוט טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_GARLIC:
+  name: שום טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_GINGER:
+  name: ג'ינג'ר טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_GLOW_BERRIES:
+  name: פירות יער זוהרים טחונים
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_GOLDEN_APPLE:
+  name: תפוח מוזהב טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_GOLDEN_CARROT:
+  name: גזר מוזהב טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_GRAPE:
+  name: ענב טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_GREEN_APPLE:
+  name: תפוח ירוק טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_GREEN_BEANS:
+  name: שעועית ירוקה טחונה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_GREEN_ONION:
+  name: בצל ירוק טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_HAZELNUT:
+  name: אגוז לוז טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_HORSERADISH:
+  name: חזרת טחונה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_JALAPENO:
+  name: חלפיניו טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_JASMINE:
+  name: יסמין טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_JUNIPER_BERRY:
+  name: פירות ערער טחונים
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_KAFFIR_LIME:
+  name: עלה ליים כפיר טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_KALE:
+  name: קייל טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_KELP:
+  name: אצה טחונה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_KIWI:
+  name: קיווי טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_LAVENDER:
+  name: לבנדר טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_LEEK:
+  name: כרישה טחונה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_LEMON:
+  name: לימון טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_LETTUCE:
+  name: חסה טחונה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_LICORICE:
+  name: ליקריץ טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_LIME:
+  name: ליים טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_MACE:
+  name: קליפת מוסקט טחונה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_MANGO:
+  name: מנגו טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_MARJORAM:
+  name: מיורן טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_MARROW:
+  name: קישוא ענק טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_MELON:
+  name: אבטיח טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_MINT:
+  name: נענע טחונה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_MUSTARD_SEEDS:
+  name: גרגרי חרדל טחונים
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_MUTTON:
+  name: בשר כבש טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_NETTLES:
+  name: סרפד טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_OKRA:
+  name: במיה טחונה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_ONION:
+  name: בצל טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_ORANGE:
+  name: תפוז טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_OREGANO:
+  name: אורגנו טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_PARSLEY:
+  name: פטרוזיליה טחונה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_PARSNIP:
+  name: גזר לבן טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_PEA:
+  name: אפונה טחונה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_PEACH:
+  name: אפרסק טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_PEANUT:
+  name: בוטן טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_PEAR:
+  name: אגס טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_PECAN:
+  name: פקאן טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_PEPPER:
+  name: פלפל שחור טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_PEPPERONI:
+  name: פפרוני טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_PINEAPPLE:
+  name: אננס טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_PINTO_BEANS:
+  name: שעועית פינטו טחונה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_PORKCHOP:
+  name: צלע חזיר טחונה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_POTATO:
+  name: תפוח אדמה טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_PUFFERFISH:
+  name: אבו-נפחא טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_PUMPKIN:
+  name: דלעת טחונה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_RABBIT:
+  name: ארנב טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_RADDISH:
+  name: צנון טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_RADICCHIO:
+  name: רדיקיו טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_RAPESEED:
+  name: לפתית טחונה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_RED_MUSHROOM:
+  name: פטרייה אדומה טחונה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_RHUBARB:
+  name: ריבס טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_RICE:
+  name: אורז טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_ROSEMARY:
+  name: רוזמרין טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_ROTTEN_FLESH:
+  name: בשר רקוב טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_RUNNER_BEANS:
+  name: שעועית מטפסת טחונה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_RUTABAGA:
+  name: לפת שוודית טחונה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_SALMON:
+  name: סלמון טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_SASSAFRAS:
+  name: סספרס טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_SHALLOT:
+  name: בצלצל טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_SHISO:
+  name: שיסו טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_SOY_BEANS:
+  name: פולי סויה טחונים
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_SPINACH:
+  name: תרד טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_STAR_ANISE:
+  name: כוכב אניס טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_STRAWBERRY:
+  name: תות טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_SUGAR:
+  name: סוכר טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_SWEETCORN:
+  name: תירס מתוק טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_SWEET_BERRIES:
+  name: פירות יער מתוקים טחונים
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_SWEET_POTATO:
+  name: בטטה טחונה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_TARRAGON:
+  name: טרגון טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_THYME:
+  name: תימין טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_TOMATO:
+  name: עגבנייה טחונה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_TURMERIC:
+  name: כורכום טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_TURNIP:
+  name: לפת טחונה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_VANILLA:
+  name: וניל טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_WASABI:
+  name: וואסאבי טחון
+  type:
+  - '&7&oתוצר לוואי'
+CLT_GROUND_WHEAT:
+  name: חיטה טחונה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_HAZELNUT:
+  name: אגוז לוז
+  type:
+  - '&7&oיבול'
+  description:
+  - תעשו מה שצריך כדי להפוך את זה
+  - לקפה בשבילי, עכשיו!
+CLT_HORSERADISH:
+  name: חזרת
+  type:
+  - '&7&oיבול'
+  description:
+  - $100 אם תנגסו בזה ישר.
+CLT_JALAPENO:
+  name: חלפיניו
+  type:
+  - '&7&oיבול'
+  description:
+  - חם חם חם.
+CLT_JASMINE:
+  name: יסמין
+  type:
+  - '&7&oיבול'
+  description:
+  - יוצא ממנו תה נפלא.
+CLT_JUNIPER_BERRY:
+  name: פירות ערער
+  type:
+  - '&7&oיבול'
+  description:
+  - מיובש לשלמות פלפלית.
+CLT_KAFFIR_LIME:
+  name: עלה ליים כפיר
+  type:
+  - '&7&oיבול'
+  description:
+  - עלה עם רעננות עוצמתית.
+CLT_KALE:
+  name: קייל
+  type:
+  - '&7&oיבול'
+  description:
+  - הצילו, אני היפסטר שייקים משנת 2020!
+CLT_KETCHUP:
+  name: קטשופ
+  type:
+  - '&7&oיבול'
+  description:
+  - פשוט עגבניות בצורה קרמית.
+CLT_KEY_LIME_PIE:
+  name: פאי ליים
+  type:
+  - '&7&oמזון'
+  description:
+  - פשוט הכי טוב!
+  stats:
+  - '&8⇨ &7ריפוי: &b6 לבבות'
+  - '&8⇨ &bזריזות IV &7(10:00)'
+CLT_KIWI:
+  name: קיווי
+  type:
+  - '&7&oיבול'
+  description:
+  - הכנסתי את זה לתוסף בכפייה.
+  - קיווי זה רוע, וכל מי
+  - שמשתמש בהם יפסיד אוטומטית
+  - 100 נקודות.
+CLT_LASAGNA:
+  name: לזניה
+  type:
+  - '&7&oמזון'
+  description:
+  - שכבות על שכבות של מדהימות.
+  stats:
+  - '&8⇨ &7ריפוי: &bמלא'
+  - '&8⇨ &bהתחדשות II &7(10:00)'
+  - '&8⇨ &bחסינות II &7(10:00)'
+CLT_LAVENDER:
+  name: לבנדר
+  type:
+  - '&7&oיבול'
+  description:
+  - ריח שיכול להרדים אותי לאט לאט.
+CLT_LEAVES_TREE_APRICOT:
+  name: עלי עץ משמש
+  type:
+  - '&7&oעלים'
+CLT_LEAVES_TREE_BANANA:
+  name: עלי עץ בננה
+  type:
+  - '&7&oעלים'
+CLT_LEAVES_TREE_CHERRY:
+  name: עלי עץ דובדבן
+  type:
+  - '&7&oעלים'
+CLT_LEAVES_TREE_CHESTNUT:
+  name: עלי עץ ערמון
+  type:
+  - '&7&oעלים'
+CLT_LEAVES_TREE_GREEN_APPLE:
+  name: עלי עץ תפוח ירוק
+  type:
+  - '&7&oעלים'
+CLT_LEAVES_TREE_HAZELNUT:
+  name: עלי עץ אגוז לוז
+  type:
+  - '&7&oעלים'
+CLT_LEAVES_TREE_KIWI:
+  name: עלי עץ קיווי
+  type:
+  - '&7&oעלים'
+CLT_LEAVES_TREE_LEMON:
+  name: עלי עץ לימון
+  type:
+  - '&7&oעלים'
+CLT_LEAVES_TREE_LIME:
+  name: עלי עץ ליים
+  type:
+  - '&7&oעלים'
+CLT_LEAVES_TREE_MANGO:
+  name: עלי עץ מנגו
+  type:
+  - '&7&oעלים'
+CLT_LEAVES_TREE_ORANGE:
+  name: עלי עץ תפוז
+  type:
+  - '&7&oעלים'
+CLT_LEAVES_TREE_PEACH:
+  name: עלי עץ אפרסק
+  type:
+  - '&7&oעלים'
+CLT_LEAVES_TREE_PEAR:
+  name: עלי עץ אגס
+  type:
+  - '&7&oעלים'
+CLT_LEAVES_TREE_PECAN:
+  name: עלי עץ פקאן
+  type:
+  - '&7&oעלים'
+CLT_LEAVES_TREE_PINEAPPLE:
+  name: עלי עץ אננס
+  type:
+  - '&7&oעלים'
+CLT_LEEK:
+  name: כרישה
+  type:
+  - '&7&oיבול'
+  description:
+  - משום מה זה נוטף מים?
+  - אולי הכרישה כרשה... כלומר, דולפת?
+CLT_LEMON:
+  name: לימון
+  type:
+  - '&7&oיבול'
+  description:
+  - למה הפרצוף החמוץ?
+CLT_LEMON_DROP:
+  name: סוכריית לימון
+  type:
+  - '&7&oמזון'
+  description:
+  - מנקה חך.
+  stats:
+  - '&8⇨ &7מנקה את כל האפקטים ומחזיר לך את הרעב.'
+CLT_LETTUCE:
+  name: חסה
+  type:
+  - '&7&oיבול'
+  description:
+  - דק, מימי, ובכל זאת טעים.
+CLT_LICORICE:
+  name: ליקריץ
+  type:
+  - '&7&oיבול'
+  description:
+  - רוצו, ברחו עכשיו!
+CLT_LIME:
+  name: ליים
+  type:
+  - '&7&oיבול'
+  description:
+  - היה היה פעם, בארץ הליים, פרי טעים...
+CLT_MACE:
+  name: קליפת מוסקט
+  type:
+  - '&7&oיבול'
+  description:
+  - משמש לריסוס בפנים של תוקפים.
+  - '...'
+  - מה זאת אומרת שזה לא הסוג הנכון של מוסקט?
+CLT_MANGO:
+  name: מנגו
+  type:
+  - '&7&oיבול'
+  description:
+  - אחי, אני חייב ללכת.
+  - קשה לכתוב תיאורים...
+CLT_MARJORAM:
+  name: מיורן
+  type:
+  - '&7&oיבול'
+  description:
+  - אני קצת בקארי-פה, אפשר לדבר אחר כך?
+CLT_MARROW:
+  name: קישוא ענק
+  type:
+  - '&7&oיבול'
+  description:
+  - ידעתם שקישואים נמצאים בתוך
+  - העצמות שלכם?
+  - כן, ספי חכם.
+CLT_MASHED_APPLE:
+  name: תפוח מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_APRICOT:
+  name: משמש מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_ARTICHOKE:
+  name: ארטישוק מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_ASPARAGUS:
+  name: אספרגוס מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_AUBERGINE:
+  name: חציל מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_AVOCADO:
+  name: אבוקדו מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_BANANA:
+  name: בננה מעוכה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_BASIL:
+  name: בזיליקום מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_BAY_LEAF:
+  name: עלה דפנה מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_BEEF:
+  name: בשר בקר מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_BEETROOT:
+  name: סלק אדום מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_BELL_PEPPER:
+  name: פלפל גמבה מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_BLACK_BEANS:
+  name: שעועית שחורה מעוכה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_BREAD:
+  name: לחם מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_BROCCOLI:
+  name: ברוקולי מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_BROWN_MUSHROOM:
+  name: פטרייה חומה מעוכה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_BRUSSELS_SPROUTS:
+  name: כרוב ניצנים מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_CABBAGE:
+  name: כרוב מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_CARROT:
+  name: גזר מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_CAULIFLOWER:
+  name: כרובית מעוכה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_CAYENNE_PEPPER:
+  name: פלפל קאיין מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_CELERIAC:
+  name: שורש סלרי מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_CELERY:
+  name: סלרי מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_CHERRY:
+  name: דובדבן מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_CHESTNUT:
+  name: ערמון מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_CHICKEN:
+  name: עוף מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_CHICKPEAS:
+  name: גרגרי חומוס מעוכים
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_CHICORY:
+  name: עולש מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_CHILLY_PEPPER:
+  name: פלפל צ'ילי מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_CHIVES:
+  name: עירית מעוכה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_CHORUS_FRUIT:
+  name: פרי קורוס מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_CILANTRO:
+  name: כוסברה מעוכה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_CINNAMON:
+  name: קינמון מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_CLOVE:
+  name: ציפורן מעוכה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_COCOA_BEANS:
+  name: פולי קקאו מעוכים
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_COD:
+  name: בקלה מעוכה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_COURGETTE:
+  name: קישוא מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_CUCUMBER:
+  name: מלפפון מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_CUMIN:
+  name: כמון מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_CURRY_LEAF:
+  name: עלה קארי מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_DILL:
+  name: שמיר מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_EGG:
+  name: ביצה מעוכה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_ENCHANTED_GOLDEN_APPLE:
+  name: תפוח מוזהב מכושף מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_FENNEL:
+  name: שומר פשוט מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_GARLIC:
+  name: שום מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_GINGER:
+  name: ג'ינג'ר מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_GLOW_BERRIES:
+  name: פירות יער זוהרים מעוכים
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_GOLDEN_APPLE:
+  name: תפוח מוזהב מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_GOLDEN_CARROT:
+  name: גזר מוזהב מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_GRAPE:
+  name: ענב מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_GREEN_APPLE:
+  name: תפוח ירוק מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_GREEN_BEANS:
+  name: שעועית ירוקה מעוכה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_GREEN_ONION:
+  name: בצל ירוק מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_HAZELNUT:
+  name: אגוז לוז מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_HORSERADISH:
+  name: חזרת מעוכה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_JALAPENO:
+  name: חלפיניו מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_JASMINE:
+  name: יסמין מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_JUNIPER_BERRY:
+  name: פירות ערער מעוכים
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_KAFFIR_LIME:
+  name: עלה ליים כפיר מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_KALE:
+  name: קייל מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_KELP:
+  name: אצה מעוכה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_KIWI:
+  name: קיווי מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_LAVENDER:
+  name: לבנדר מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_LEEK:
+  name: כרישה מעוכה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_LEMON:
+  name: לימון מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_LETTUCE:
+  name: חסה מעוכה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_LICORICE:
+  name: ליקריץ מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_LIME:
+  name: ליים מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_MACE:
+  name: קליפת מוסקט מעוכה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_MANGO:
+  name: מנגו מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_MARJORAM:
+  name: מיורן מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_MARROW:
+  name: קישוא ענק מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_MELON:
+  name: אבטיח מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_MINT:
+  name: נענע מעוכה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_MUSTARD_SEEDS:
+  name: גרגרי חרדל מעוכים
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_MUTTON:
+  name: בשר כבש מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_NETTLES:
+  name: סרפד מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_OKRA:
+  name: במיה מעוכה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_ONION:
+  name: בצל מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_ORANGE:
+  name: תפוז מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_OREGANO:
+  name: אורגנו מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_PARSLEY:
+  name: פטרוזיליה מעוכה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_PARSNIP:
+  name: גזר לבן מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_PEA:
+  name: אפונה מעוכה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_PEACH:
+  name: אפרסק מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_PEANUT:
+  name: בוטן מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_PEAR:
+  name: אגס מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_PECAN:
+  name: פקאן מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_PEPPER:
+  name: פלפל שחור מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_PEPPERONI:
+  name: פפרוני מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_PINEAPPLE:
+  name: אננס מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_PINTO_BEANS:
+  name: שעועית פינטו מעוכה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_PORKCHOP:
+  name: צלע חזיר מעוכה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_POTATO:
+  name: תפוח אדמה מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_PUFFERFISH:
+  name: אבו-נפחא מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_PUMPKIN:
+  name: דלעת מעוכה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_RABBIT:
+  name: ארנב מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_RADDISH:
+  name: צנון מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_RADICCHIO:
+  name: רדיקיו מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_RAPESEED:
+  name: לפתית מעוכה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_RED_MUSHROOM:
+  name: פטרייה אדומה מעוכה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_RHUBARB:
+  name: ריבס מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_RICE:
+  name: אורז מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_ROSEMARY:
+  name: רוזמרין מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_ROTTEN_FLESH:
+  name: בשר רקוב מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_RUNNER_BEANS:
+  name: שעועית מטפסת מעוכה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_RUTABAGA:
+  name: לפת שוודית מעוכה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_SALMON:
+  name: סלמון מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_SASSAFRAS:
+  name: סספרס מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_SHALLOT:
+  name: בצלצל מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_SHISO:
+  name: שיסו מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_SOY_BEANS:
+  name: פולי סויה מעוכים
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_SPINACH:
+  name: תרד מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_STAR_ANISE:
+  name: כוכב אניס מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_STRAWBERRY:
+  name: תות מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_SUGAR:
+  name: סוכר מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_SWEETCORN:
+  name: תירס מתוק מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_SWEET_BERRIES:
+  name: פירות יער מתוקים מעוכים
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_SWEET_POTATO:
+  name: בטטה מעוכה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_TARRAGON:
+  name: טרגון מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_THYME:
+  name: תימין מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_TOMATO:
+  name: עגבנייה מעוכה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_TURMERIC:
+  name: כורכום מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_TURNIP:
+  name: לפת מעוכה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_VANILLA:
+  name: וניל מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_WASABI:
+  name: וואסאבי מעוך
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MASHED_WHEAT:
+  name: חיטה מעוכה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_MAYONNAISE:
+  name: מיונז
+  type:
+  - '&7&oיבול'
+  description:
+  - מיונז חלק ומשיי שמתאים כמעט לכל דבר.
+CLT_MEATBALLS:
+  name: קציצות בשר
+  type:
+  - '&7&oיבול'
+  description:
+  - כדורים של בשר, מי היה מאמין.
+CLT_MEATLOAF:
+  name: לחם בשר
+  type:
+  - '&7&oמזון'
+  description:
+  - אין כמוהו! יאללה.
+  stats:
+  - '&8⇨ &7ריפוי: &bמלא'
+  - '&8⇨ &bהרחבת מד החיים IV &7(10:00)'
+  - '&8⇨ &bחסינות III &7(10:00)'
+  - '&8⇨ &bזריזות II &7(10:00)'
+  - '&8⇨ &bאיטיות II &7(10:00)'
+CLT_MINT:
+  name: נענע
+  type:
+  - '&7&oיבול'
+  description:
+  - לעיסה, לעיסה, לעיסה.
+CLT_MUSTARD:
+  name: חרדל
+  type:
+  - '&7&oיבול'
+  description:
+  - יש לזה בעיטה קטנה!
+CLT_MUSTARD_SEEDS:
+  name: זרעי חרדל
+  type:
+  - '&7&oיבול'
+  description:
+  - תלעסו אותם, אני מאתגר אתכם!
+CLT_NETTLES:
+  name: סרפד
+  type:
+  - '&7&oיבול'
+  description:
+  - בבקשה תלבשו כפפות לפני שאתם מחזיקים את אלה.
+CLT_OKRA:
+  name: במיה
+  type:
+  - '&7&oיבול'
+  description:
+  - גדל המון בבמיה-מה... נכון, נכון?
+CLT_ONION:
+  name: בצל
+  type:
+  - '&7&oיבול'
+  description:
+  - רגע, למה אתה בוכה?
+CLT_ORANGE:
+  name: תפוז
+  type:
+  - '&7&oיבול'
+  description:
+  - זה לא אמור להיות תפוז מכני?
+CLT_ORANGE_JUICE:
+  name: מיץ תפוזים
+  type:
+  - '&7&oמזון'
+  description:
+  - זו באמת הדרך הכי טובה להתחיל את היום.
+  stats:
+  - '&8⇨ &bמהירות IV &7(10:00)'
+CLT_OREGANO:
+  name: אורגנו
+  type:
+  - '&7&oיבול'
+  description:
+  - עשב תיבול קלאסי שחייב להיות בכל ארון.
+CLT_PARSLEY:
+  name: פטרוזיליה
+  type:
+  - '&7&oיבול'
+  description:
+  - עשב. התיבול. הכי. גרוע.
+CLT_PARSNIP:
+  name: גזר לבן
+  type:
+  - '&7&oיבול'
+  description:
+  - דורש קלייה מיידית.
+CLT_PASTA:
+  name: פסטה
+  type:
+  - '&7&oיבול'
+  description:
+  - סתם פסטה רגילה, פשוטה אבל נפלאה.
+CLT_PEA:
+  name: אפונה
+  type:
+  - '&7&oיבול'
+  description:
+  - בדרך כלל נמצאים בזוגות בתוך תרמיל, ככה שמעתי.
+CLT_PEACH:
+  name: אפרסק
+  type:
+  - '&7&oיבול'
+  description:
+  - על האימוג'י אנחנו לא מדברים
+CLT_PEANUT:
+  name: בוטן
+  type:
+  - '&7&oיבול'
+  description:
+  - ריסס, אני בדרך!
+CLT_PEANUT_BUTTER:
+  name: חמאת בוטנים
+  type:
+  - '&7&oיבול'
+  description:
+  - דומה רק לזהב נוזלי.
+CLT_PEANUT_BUTTER_JELLY_SANDWICH:
+  name: כריך חמאת בוטנים וריבה
+  type:
+  - '&7&oמזון'
+  description:
+  - זה באמת שיא הטכנולוגיה של הכריכים.
+  stats:
+  - '&8⇨ &7ריפוי: &b5 לבבות'
+  - '&8⇨ &bכוח III &7(10:00)'
+CLT_PEAR:
+  name: אגס
+  type:
+  - '&7&oיבול'
+  description:
+  - לא נראה לכם שזה אגס-מושלם?
+CLT_PECAN:
+  name: פקאן
+  type:
+  - '&7&oיבול'
+  description:
+  - פשוט מתחנן שיכינו ממנו פאי.
+CLT_PECAN_PIE:
+  name: פאי פקאן
+  type:
+  - '&7&oמזון'
+  description:
+  - הדרך היחידה לאכול סוכר טהור בלי
+  - שישפטו אותך לגמרי.
+  stats:
+  - '&8⇨ &7ריפוי: &b4 לבבות'
+  - '&8⇨ &bריחוף I &7(10:00)'
+CLT_PEPPER:
+  name: פלפל שחור
+  type:
+  - '&7&oיבול'
+  description:
+  - חריף יותר ממלח.
+CLT_PEPPERONI:
+  name: פפרוני
+  type:
+  - '&7&oיבול'
+  description:
+  - יכולתי לאכול גזע שלם של זה, בקלות.
+CLT_PICO_DE_GALLO:
+  name: פיקו דה גאיו
+  type:
+  - '&7&oיבול'
+  description:
+  - סלסה עדינה מלאה בטעים טהור.
+CLT_PIE_CRUST:
+  name: קלתית פאי
+  type:
+  - '&7&oיבול'
+  description:
+  - אם היה חוקי לאכול את זה לבד
+  - זה היה מקור המזון העיקרי שלי.
+CLT_PINEAPPLE:
+  name: אננס
+  type:
+  - '&7&oיבול'
+  description:
+  - זה שייך על כל פיצה שקיימת.
+  - רוצים לריב על זה!?
+CLT_PINTO_BEANS:
+  name: שעועית פינטו
+  type:
+  - '&7&oיבול'
+  description:
+  - קצ'ינג! הגיע זמן בוריטו.
+CLT_PIZZA_CHEESE:
+  name: פיצה גבינה
+  type:
+  - '&7&oמזון'
+  description:
+  - למה שמישהו יזמין רק גבינה? אין לי מושג.
+  stats:
+  - '&8⇨ &7ריפוי: &b4 לבבות'
+  - '&8⇨ &bאיטיות I &7(10:00)'
+CLT_PIZZA_MUSHROOM:
+  name: פיצה פטריות
+  type:
+  - '&7&oמזון'
+  description:
+  - פיצה צמחונית פשוטה מלאה בחלבונים.
+  stats:
+  - '&8⇨ &7ריפוי: &b6 לבבות'
+  - '&8⇨ &bאיטיות I &7(10:00)'
+  - '&8⇨ &bזריזות II &7(10:00)'
+CLT_PIZZA_PEPPERONI:
+  name: פיצה פפרוני
+  type:
+  - '&7&oמזון'
+  description:
+  - קלאסיקה ניו יורקית מלאת טעם.
+  stats:
+  - '&8⇨ &7ריפוי: &b6 לבבות'
+  - '&8⇨ &bמהירות I &7(10:00)'
+  - '&8⇨ &bזריזות I &7(10:00)'
+  - '&8⇨ &bהגברת קפיצה I &7(10:00)'
+CLT_PLANT_AIR:
+  name: צמח אוויר קדמון
+  type:
+  - '&7&oצמח'
+  description:
+  - צמח שמזמזם בשקט את
+  - המנגינה של הטבע שסביבו.
+  - '&eצמחים קדמונים לא מייצרים פריטים'
+  - '&eונועדו רק להכלאה.'
+CLT_PLANT_AMETHYST:
+  name: צמח אמטיסט
+  type:
+  - '&7&oצמח'
+  description:
+  - הצמח הזה אוהב לשגשג במקומות עמוקים
+  - וחשוכים.
+CLT_PLANT_ANALYSER:
+  name: מנתח צמחים
+  type:
+  - '&7&oכלי'
+  description:
+  - כלי בסיסי מאוד שמאפשר לך
+  - לראות את הפרטים של צמח שגדל
+  usage:
+  - '&eלחיצה ימנית&7: מציג את הזן ואת פרטי הגדילה של צמח.'
+  - '&eשיפט + לחיצה ימנית&7: מציג את השם של צמח או שיח.'
+CLT_PLANT_BASALT:
+  name: צמח בזלת
+  type:
+  - '&7&oצמח'
+  description:
+  - צמח משעמם ואפור מאוד.
+CLT_PLANT_BEE:
+  name: צמח דבורה
+  type:
+  - '&7&oצמח'
+  description:
+  - צמח עם זוג כנפיים קטנטן ועדין מאוד.
+CLT_PLANT_BLACKSTONE:
+  name: צמח אבן שחורה
+  type:
+  - '&7&oצמח'
+  description:
+  - צמח שידוע כבולע אור.
+CLT_PLANT_BLAZE:
+  name: צמח להבון
+  type:
+  - '&7&oצמח'
+  description:
+  - צמח חרוך בקצוות.
+CLT_PLANT_CHICKEN:
+  name: צמח עוף
+  type:
+  - '&7&oצמח'
+  description:
+  - השמועה אומרת שאם תחזיקו את הזרע
+  - הזה מעל הראש ותקפצו ממקום
+  - גבוה, תרחפו במקום
+  - ליפול.
+CLT_PLANT_CLAY:
+  name: צמח חימר
+  type:
+  - '&7&oצמח'
+  description:
+  - אפשר לעצב ולפסל את הצמח הזה בחופשיות.
+  - זה לא אומר שזה רעיון טוב לעשות את זה,
+  - אבל!
+CLT_PLANT_COAL:
+  name: צמח פחם
+  type:
+  - '&7&oצמח'
+  description:
+  - צמח עם כל כך הרבה פוטנציאל.
+CLT_PLANT_COBBLESTONE:
+  name: צמח אבן מרוסקת
+  type:
+  - '&7&oצמח'
+  description:
+  - הצמח הזה קשה כמו סלע.
+CLT_PLANT_CONCRETE:
+  name: צמח בטון
+  type:
+  - '&7&oצמח'
+  description:
+  - הצמח הזה מתקשה לגדול כי
+  - הוא מתקשה כל כך מהר.
+CLT_PLANT_COW:
+  name: צמח פרה
+  type:
+  - '&7&oצמח'
+  description:
+  - אם תצמידו את הזרע הזה לאוזן
+  - ותקשיבו טוב מאוד, תוכלו לשמוע
+  - מדי פעם געייה.
+CLT_PLANT_CREEPER:
+  name: צמח קריפר
+  type:
+  - '&7&oצמח'
+  description:
+  - טסססססססססס...
+CLT_PLANT_DARKNESS:
+  name: צמח חושך קדמון
+  type:
+  - '&7&oצמח'
+  description:
+  - צמח שרותח מזעם
+  - בלתי נשלט.
+  - '&eצמחים קדמונים לא מייצרים פריטים'
+  - '&eונועדו רק להכלאה.'
+CLT_PLANT_DARK_FLORA:
+  name: צמח פרחי חושך
+  type:
+  - '&7&oצמח'
+  description:
+  - רוע שקט שוכן בתוך הזרע הפשוט הזה.
+CLT_PLANT_DARK_GRASS:
+  name: צמח דשא אפל
+  type:
+  - '&7&oצמח'
+  description:
+  - צמח שממש איבד את
+  - הזהות שלו.
+CLT_PLANT_DEEPSLATE:
+  name: צמח לווחה
+  type:
+  - '&7&oצמח'
+  description:
+  - עמוק, צפחתי, <הכניסו תיאור כאן>.
+CLT_PLANT_DIAMOND:
+  name: צמח יהלום
+  type:
+  - '&7&oצמח'
+  description:
+  - צמח שפשוט משדר עושר.
+CLT_PLANT_DIM_LIT:
+  name: צמח אור עמום
+  type:
+  - '&7&oצמח'
+  description:
+  - אור עמום מאוד בוקע מתוך הזרע הזה.
+CLT_PLANT_DIRT:
+  name: צמח עפר
+  type:
+  - '&7&oצמח'
+  description:
+  - מלוכלך מבחוץ, אבל מחזיק את
+  - אבני הבניין של החיים עצמם.
+CLT_PLANT_DROWNED:
+  name: צמח טבוע
+  type:
+  - '&7&oצמח'
+  description:
+  - צמח שנוטף מים, כל
+  - הזמן.
+CLT_PLANT_DUSTY:
+  name: צמח אבק
+  type:
+  - '&7&oצמח'
+  description:
+  - הצמח הזה צריך טיפול מיוחד, אפילו משב
+  - הרוח הקל ביותר עלול לגרום לו להתפרק
+  - לגמרי.
+CLT_PLANT_EARTH:
+  name: צמח אדמה קדמונית
+  type:
+  - '&7&oצמח'
+  description:
+  - צמח שמעשיר את העולם
+  - שסביבו.
+  - '&eצמחים קדמונים לא מייצרים פריטים'
+  - '&eונועדו רק להכלאה.'
+CLT_PLANT_ECHO:
+  name: צמח הד
+  type:
+  - '&7&oצמח'
+  description:
+  - הצמח הזה תמיד יודע איך למצוא
+  - את הדרך הביתה.
+CLT_PLANT_ELDER_GUARDIAN:
+  name: צמח שומר בכיר
+  type:
+  - '&7&oצמח'
+  description:
+  - מי שנמצא ליד הצמח הזה נעשה
+  - איטי ועייף.
+CLT_PLANT_EMERALD:
+  name: צמח ברקת
+  type:
+  - '&7&oצמח'
+  description:
+  - בעלי הצמח הזה צריכים לקפוץ
+  - דרך חישוקים רק כדי שיוכלו להרשות אותו לעצמם.
+CLT_PLANT_ENDERMAN:
+  name: צמח אנדרמן
+  type:
+  - '&7&oצמח'
+  description:
+  - אם לא מטפלים בו בזהירות, הצמח הזה
+  - עלול להשתגר באקראי!
+CLT_PLANT_ENDER_DRAGON:
+  name: צמח דרקון אנדר
+  type:
+  - '&7&oצמח'
+  description:
+  - צמח שהוא בוס אמיתי.
+CLT_PLANT_END_STONE:
+  name: צמח אבן אנד
+  type:
+  - '&7&oצמח'
+  description:
+  - צמח שמזמזם עם הריק.
+CLT_PLANT_FIRE:
+  name: צמח אש קדמונית
+  type:
+  - '&7&oצמח'
+  description:
+  - צמח שמספק גם את
+  - מקורות ההרס וגם את
+  - הלידה מחדש.
+  - '&eצמחים קדמונים לא מייצרים פריטים'
+  - '&eונועדו רק להכלאה.'
+CLT_PLANT_FISH:
+  name: צמח דג
+  type:
+  - '&7&oצמח'
+  description:
+  - ריח בשל עולה מהזרע הזה.
+CLT_PLANT_FLOWER:
+  name: צמח פריחה
+  type:
+  - '&7&oצמח'
+  description:
+  - קרן שפע יפהפייה ומוגשת היטב.
+CLT_PLANT_FROG:
+  name: צמח צפרדע
+  type:
+  - '&7&oצמח'
+  description:
+  - קווה-קווה!
+CLT_PLANT_GHAST:
+  name: צמח גאסט
+  type:
+  - '&7&oצמח'
+  description:
+  - צמח שידוע כיורה
+  - כדורי אש באקראי.
+CLT_PLANT_GLASS:
+  name: צמח זכוכית
+  type:
+  - '&7&oצמח'
+  description:
+  - מהזווית הנכונה, אפשר
+  - להישבע שרואים דרך הצמח הזה.
+CLT_PLANT_GLAZED:
+  name: צמח זיגוג
+  type:
+  - '&7&oצמח'
+  description:
+  - צמח שגדל בדוגמה מורכבת.
+CLT_PLANT_GLOWING_VINE:
+  name: צמח מטפס זוהר
+  type:
+  - '&7&oצמח'
+  description:
+  - אור קלוש בוקע מתוך הזרע הזה.
+CLT_PLANT_GLOW_SQUID:
+  name: צמח דיונון זוהר
+  type:
+  - '&7&oצמח'
+  description:
+  - צמח נוצץ עם זוהר קלוש.
+CLT_PLANT_GOAT:
+  name: צמח עז
+  type:
+  - '&7&oצמח'
+  description:
+  - צמח אלים באקראי שאוהב
+  - לקפץ לכל עבר.
+CLT_PLANT_GRASS:
+  name: צמח דשא
+  type:
+  - '&7&oצמח'
+  description:
+  - החיים המבצבצים פורצים
+  - מן האדמה.
+CLT_PLANT_GRAVEL:
+  name: צמח חצץ
+  type:
+  - '&7&oצמח'
+  description:
+  - הצמח הזה ממש לא יודע איך
+  - להחזיק את עצמו ביחד.
+CLT_PLANT_GUARDIAN:
+  name: צמח שומר
+  type:
+  - '&7&oצמח'
+  description:
+  - כשנוגעים בו, הצמח הזה משחרר
+  - קוצים.
+CLT_PLANT_IGNEOUS:
+  name: צמח סלע געשי
+  type:
+  - '&7&oצמח'
+  description:
+  - הצמח הזה נוצר מחום
+  - ולחץ. אל תסתכלו עליי ככה! כל
+  - התיאורים של הצמחים האלה הגיוניים לגמרי.
+CLT_PLANT_LAPIS:
+  name: צמח לפיס
+  type:
+  - '&7&oצמח'
+  description:
+  - צמח עם הילה קסומה קלושה.
+CLT_PLANT_LIGHT:
+  name: צמח אור קדמון
+  type:
+  - '&7&oצמח'
+  description:
+  - צמח שמקרין הילה
+  - של אהבה טהורה.
+  - '&eצמחים קדמונים לא מייצרים פריטים'
+  - '&eונועדו רק להכלאה.'
+CLT_PLANT_MAGMA:
+  name: צמח מאגמה
+  type:
+  - '&7&oצמח'
+  description:
+  - צמח כל כך חם שהוא שורף את
+  - הסביבה שלו.
+CLT_PLANT_MAGMA_CUBE:
+  name: צמח קוביית מאגמה
+  type:
+  - '&7&oצמח'
+  description:
+  - כשאף אחד לא מסתכל, הצמח הזה
+  - אוהב לקפץ למעלה ולמטה.
+CLT_PLANT_MOSS:
+  name: צמח טחב
+  type:
+  - '&7&oצמח'
+  description:
+  - הצמח הזה נוטה להתפשט בלי שליטה.
+CLT_PLANT_MUD:
+  name: צמח בוץ
+  type:
+  - '&7&oצמח'
+  description:
+  - צמח שמלוכלך כמעט כמו
+  - האדמה שהוא בא ממנה.
+CLT_PLANT_MUSHROOM:
+  name: צמח פטריות
+  type:
+  - '&7&oצמח'
+  description:
+  - כן, צמח שמייצר פטריות.
+  - הכול פה נורמלי לגמרי.
+CLT_PLANT_NETHERRACK:
+  name: צמח נד'רראק
+  type:
+  - '&7&oצמח'
+  description:
+  - צמח קשוח ועמיד שמסוגל לשרוד
+  - ברוב המקומות.
+CLT_PLANT_NETHER_QUARTZ:
+  name: צמח קוורץ נד'ר
+  type:
+  - '&7&oצמח'
+  description:
+  - לצמח הזה יש קוצים כל כך חדים
+  - שקשה לעבוד איתו.
+CLT_PLANT_PHANTOM:
+  name: צמח פאנטום
+  type:
+  - '&7&oצמח'
+  description:
+  - צמח עם עלים מרקיעי שחקים.
+CLT_PLANT_PIG:
+  name: צמח חזיר
+  type:
+  - '&7&oצמח'
+  description:
+  - צמח שנוחר באקראי.
+CLT_PLANT_POWER:
+  name: צמח עוצמה קדמונית
+  type:
+  - '&7&oצמח'
+  description:
+  - צמח שפשוט קורן עוצמה.
+  - '&eצמחים קדמונים לא מייצרים פריטים'
+  - '&eונועדו רק להכלאה.'
+CLT_PLANT_PURPUR:
+  name: צמח פורפור
+  type:
+  - '&7&oצמח'
+  description:
+  - צמח משונה, נראה קל בהרבה
+  - מרוב הצמחים.
+CLT_PLANT_RABBIT:
+  name: צמח ארנב
+  type:
+  - '&7&oצמח'
+  description:
+  - החרקים היו גאים.
+CLT_PLANT_RAINBOW:
+  name: צמח קשת בענן
+  type:
+  - '&7&oצמח'
+  description:
+  - ייתכן שיש, וייתכן שאין, סיר זהב
+  - בסוף הצמח הזה.
+CLT_PLANT_RAW_COPPER:
+  name: צמח נחושת גולמית
+  type:
+  - '&7&oצמח'
+  description:
+  - אם משאירים אותו לבד, הצמח הזה לפעמים
+  - מושך ברקים.
+CLT_PLANT_RAW_GOLD:
+  name: צמח זהב גולמי
+  type:
+  - '&7&oצמח'
+  description:
+  - פיגלינים נוהגים לגנוב את הצמח הזה
+  - אם הם בסביבה.
+CLT_PLANT_RAW_IRON:
+  name: צמח ברזל גולמי
+  type:
+  - '&7&oצמח'
+  description:
+  - צמח יציב שמסוגל לעמוד ברוב
+  - הסביבות.
+CLT_PLANT_REDSTONE:
+  name: צמח רדסטון
+  type:
+  - '&7&oצמח'
+  description:
+  - צמח שגדוש בעוצמה מכל עבריו.
+CLT_PLANT_RED_SAND:
+  name: צמח חול אדום
+  type:
+  - '&7&oצמח'
+  description:
+  - הצמח הזה יכול לפעמים להתפורר
+  - במגע אחד, אבל... יותר אדום.
+CLT_PLANT_REINFORCED:
+  name: צמח חיזוק
+  type:
+  - '&7&oצמח'
+  description:
+  - צמח שמסוגל להחזיק את עצמו
+  - בכל מצב.
+CLT_PLANT_SAND:
+  name: צמח חול
+  type:
+  - '&7&oצמח'
+  description:
+  - הצמח הזה יכול לפעמים להתפורר
+  - במגע אחד.
+CLT_PLANT_SAPLING:
+  name: צמח שתילים
+  type:
+  - '&7&oצמח'
+  description:
+  - הצמח הזה בכלל לא הגיוני...
+CLT_PLANT_SCRAPPY:
+  name: צמח גרוטאות
+  type:
+  - '&7&oצמח'
+  description:
+  - הצמח הזה הוא באמת פסגת
+  - אומנות הגננות.
+CLT_PLANT_SHEEP:
+  name: צמח כבשה
+  type:
+  - '&7&oצמח'
+  description:
+  - צמח עם מרקם צמרירי ומחוספס.
+CLT_PLANT_SHULKER:
+  name: צמח שולקר
+  type:
+  - '&7&oצמח'
+  description:
+  - צמח שלעתים קרובות מרחף מעל
+  - האדמה.
+CLT_PLANT_SKELETON:
+  name: צמח שלד
+  type:
+  - '&7&oצמח'
+  description:
+  - צמח שמקרקש כשהוא מתנועע.
+CLT_PLANT_SLIME:
+  name: צמח רפש
+  type:
+  - '&7&oצמח'
+  description:
+  - למה זה כל כך דביק?
+CLT_PLANT_SOUL:
+  name: צמח נשמות
+  type:
+  - '&7&oצמח'
+  description:
+  - צמח שאפשר לשמוע אותו צורח
+  - כשיש שקט.
+CLT_PLANT_SPECTRUM:
+  name: צמח ספקטרום קדמון
+  type:
+  - '&7&oצמח'
+  description:
+  - צמח שמשנה מעט את הצבע שלו.
+  - '&eצמחים קדמונים לא מייצרים פריטים'
+  - '&eונועדו רק להכלאה.'
+CLT_PLANT_SPIDER:
+  name: צמח עכביש
+  type:
+  - '&7&oצמח'
+  description:
+  - תהרגו אותו, תהרגו אותו עכשיווו!
+CLT_PLANT_SQUID:
+  name: צמח דיונון
+  type:
+  - '&7&oצמח'
+  description:
+  - זהירות, עצם הנגיעה בצמח הזה
+  - עלולה להתיז דיו לכל
+  - עבר.
+CLT_PLANT_STAINED:
+  name: צמח כתמי צבע
+  type:
+  - '&7&oצמח'
+  description:
+  - הצמח הזה מפצל אור לספקטרום של ממש
+  - על חפצים סמוכים.
+CLT_PLANT_TERRA:
+  name: צמח טרה
+  type:
+  - '&7&oצמח'
+  description:
+  - צמח ארצי וקשה שנסדק תחת לחץ.
+CLT_PLANT_TURTLE:
+  name: צמח צב
+  type:
+  - '&7&oצמח'
+  description:
+  - זרע שעטוף בקליפה קשה כמו סלע.
+CLT_PLANT_VILLAGER:
+  name: צמח כפרי
+  type:
+  - '&7&oצמח'
+  description:
+  - כן, דחסנו את המהות של כפרי
+  - לתוך צמח. כנראה שזה כאב מאוד.
+CLT_PLANT_VINE:
+  name: צמח מטפס
+  type:
+  - '&7&oצמח'
+  description:
+  - צמח שמסתבך בעצמו
+  - מיד.
+CLT_PLANT_WATER:
+  name: צמח מים קדמונים
+  type:
+  - '&7&oצמח'
+  description:
+  - צמח שמטפח ומעניק
+  - חיים לסביבה שלו.
+  - '&eצמחים קדמונים לא מייצרים פריטים'
+  - '&eונועדו רק להכלאה.'
+CLT_PLANT_WAXY:
+  name: צמח שעווה
+  type:
+  - '&7&oצמח'
+  description:
+  - השרף של הצמח הזה מתגבש
+  - לשעווה בצורת נר מושלם.
+CLT_PLANT_WEALTH:
+  name: צמח עושר קדמון
+  type:
+  - '&7&oצמח'
+  description:
+  - צמח שפשוט צועק עושר מופגן.
+  - '&eצמחים קדמונים לא מייצרים פריטים'
+  - '&eונועדו רק להכלאה.'
+CLT_PLANT_WITCH:
+  name: צמח מכשפה
+  type:
+  - '&7&oצמח'
+  description:
+  - צמח שנשמע כאילו הוא ממלמל
+  - כישופים בשקט.
+CLT_PLANT_WITHER:
+  name: צמח וויד'ר
+  type:
+  - '&7&oצמח'
+  description:
+  - צמח קטלני שצריך לטפל בו
+  - בזהירות.
+CLT_PLANT_WITHER_ROSE:
+  name: צמח ורד וויד'ר
+  type:
+  - '&7&oצמח'
+  description:
+  - הצמח הזה, איכשהו, פולט הילה
+  - מזיקה סביבו.
+CLT_PLANT_WITHER_SKELETON:
+  name: צמח שלד וויד'ר
+  type:
+  - '&7&oצמח'
+  description:
+  - צמח שידוע כחמקמק ועמיד.
+CLT_PLANT_WOOLLY:
+  name: צמח צמר
+  type:
+  - '&7&oצמח'
+  description:
+  - צמח צמרירי, מהשורש ועד עלי הכותרת!
+CLT_PLANT_ZOMBIE:
+  name: צמח זומבי
+  type:
+  - '&7&oצמח'
+  description:
+  - הצמח הזה נוטף... משהו...
+CLT_RADDISH:
+  name: צנון
+  type:
+  - '&7&oיבול'
+  description:
+  - כיסים קטנים של שמש טרייה ופריכה.
+CLT_RADICCHIO:
+  name: רדיקיו
+  type:
+  - '&7&oיבול'
+  description:
+  - לכתוב את כל התיאורים האלה לוקח המון זמן.
+  - זה פשוט רדיקיו-לי.
+CLT_RAMEN_BEEF:
+  name: ראמן בקר
+  type:
+  - '&7&oמזון'
+  description:
+  - בחירה לא כל כך בריאה.
+  stats: &id004
+  - '&8⇨ &bהרחבת מד החיים I &7(10:00)'
+CLT_RAMEN_BEEF_HEARTY:
+  name: ראמן בקר עשיר
+  type:
+  - '&7&oמזון'
+  description:
+  - בחירה בריאה.
+  stats: &id005
+  - '&8⇨ &7ריפוי: &bמלא'
+  - '&8⇨ &bהרחבת מד החיים II &7(10:00)'
+  - '&8⇨ &bמהירות I &7(10:00)'
+CLT_RAMEN_CHICKEN:
+  name: ראמן עוף
+  type:
+  - '&7&oמזון'
+  description:
+  - בחירה לא כל כך משביעה.
+  stats: *id004
+CLT_RAMEN_CHICKEN_HEARTY:
+  name: ראמן עוף עשיר
+  type:
+  - '&7&oמזון'
+  description:
+  - בחירה משביעה.
+  stats: *id005
+CLT_RAMEN_SEAFOOD:
+  name: ראמן פירות ים
+  type:
+  - '&7&oמזון'
+  description:
+  - בחירה לא כל כך מספקת.
+  stats: *id004
+CLT_RAMEN_SEAFOOD_HEARTY:
+  name: ראמן פירות ים עשיר
+  type:
+  - '&7&oמזון'
+  description:
+  - בחירה מספקת.
+  stats: *id005
+CLT_RAPESEED:
+  name: לפתית
+  type:
+  - '&7&oיבול'
+  description:
+  - משמש לעתים קרובות להפקת שמנים.
+CLT_RECIPE_UNLOCK:
+  name: מגילת הידע של קולטיביישן
+  type:
+  - '&7&oכלי'
+  description:
+  - לחיצה ימנית כדי ללמוד מתכון הכלאה
+  - של קולטיביישן.
+CLT_RHUBARB:
+  name: ריבס
+  type:
+  - '&7&oיבול'
+  description:
+  - רק אל תשכחו להוריד את העלים!
+CLT_RICE:
+  name: אורז
+  type:
+  - '&7&oיבול'
+  description:
+  - זכרו, חיים רק אורז אחד!
+CLT_ROSEMARY:
+  name: רוזמרין
+  type:
+  - '&7&oיבול'
+  description:
+  - לעתים קרובות מתגעגע לתימין שהיה.
+CLT_RUNNER_BEANS:
+  name: שעועית מטפסת
+  type:
+  - '&7&oיבול'
+  description:
+  - תמיד מנסה לברוח.
+CLT_RUTABAGA:
+  name: לפת שוודית
+  type:
+  - '&7&oיבול'
+  description:
+  - ממש כואב לא לקרוא לזה סוויד.
+CLT_SALMON_NIGIRI:
+  name: ניגירי סלמון
+  type:
+  - '&7&oמזון'
+  description:
+  - טעם נפלא אך עדין.
+  stats:
+  - '&8⇨ &7ריפוי: &b2 לבבות'
+  - '&8⇨ &bהתחדשות I &7(10:00)'
+CLT_SASSAFRAS:
+  name: סספרס
+  type:
+  - '&7&oיבול'
+  description:
+  - רוט בירה שאפשר לאכול, ברצינות, תגגלו
+  - את זה, אני קונה את זה כל הזמן עכשיו.
+CLT_SAUSAGE:
+  name: נקניקייה
+  type:
+  - '&7&oמזון'
+  description:
+  - אח של הבייקון.
+  stats: &id007
+  - '&8⇨ &7ריפוי: &b1 לב'
+CLT_SEED_PACK:
+  name: חבילת זרעים
+  type:
+  - '&7&oכלי'
+  description:
+  - לחיצה ימנית כדי לפתוח את החבילה.
+  stats:
+  - '&8⇨ &7מוגדר ל: &bכלום'
+CLT_SHAKSHUKA:
+  name: שקשוקה
+  type:
+  - '&7&oמזון'
+  description:
+  - מנה מחממת לב עם ביצים בלי סוף.
+  stats:
+  - '&8⇨ &7ריפוי: &b4 לבבות'
+  - '&8⇨ &bגיבור הכפר I &7(10:00)'
+  - '&8⇨ &bמזל I &7(10:00)'
+CLT_SHALLOT:
+  name: בצלצל
+  type:
+  - '&7&oיבול'
+  description:
+  - אני מת על בצלצלים, ממש מצלצל לי.
+CLT_SHEPHERDS_PIE:
+  name: פאי רועים
+  type:
+  - '&7&oמזון'
+  description:
+  - חם, משביע ופשוט נפלא.
+  stats: *id006
+CLT_SHISO:
+  name: שיסו
+  type:
+  - '&7&oיבול'
+  description:
+  - נענע עם תוספת של אהבה.
+CLT_SLICED_APPLE:
+  name: תפוח פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_APRICOT:
+  name: משמש פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_ARTICHOKE:
+  name: ארטישוק פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_ASPARAGUS:
+  name: אספרגוס פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_AUBERGINE:
+  name: חציל פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_AVOCADO:
+  name: אבוקדו פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_BANANA:
+  name: בננה פרוסה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_BASIL:
+  name: בזיליקום פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_BAY_LEAF:
+  name: עלה דפנה פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_BEEF:
+  name: בשר בקר פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_BEETROOT:
+  name: סלק אדום פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_BELL_PEPPER:
+  name: פלפל גמבה פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_BLACK_BEANS:
+  name: שעועית שחורה פרוסה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_BREAD:
+  name: לחם פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_BROCCOLI:
+  name: ברוקולי פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_BROWN_MUSHROOM:
+  name: פטרייה חומה פרוסה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_BRUSSELS_SPROUTS:
+  name: כרוב ניצנים פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_CABBAGE:
+  name: כרוב פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_CARROT:
+  name: גזר פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_CAULIFLOWER:
+  name: כרובית פרוסה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_CAYENNE_PEPPER:
+  name: פלפל קאיין פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_CELERIAC:
+  name: שורש סלרי פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_CELERY:
+  name: סלרי פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_CHERRY:
+  name: דובדבן פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_CHESTNUT:
+  name: ערמון פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_CHICKEN:
+  name: עוף פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_CHICKPEAS:
+  name: גרגרי חומוס פרוסים
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_CHICORY:
+  name: עולש פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_CHILLY_PEPPER:
+  name: פלפל צ'ילי פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_CHIVES:
+  name: עירית פרוסה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_CHORUS_FRUIT:
+  name: פרי קורוס פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_CILANTRO:
+  name: כוסברה פרוסה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_CINNAMON:
+  name: קינמון פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_CLOVE:
+  name: ציפורן פרוסה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_COCOA_BEANS:
+  name: פולי קקאו פרוסים
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_COD:
+  name: בקלה פרוסה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_COURGETTE:
+  name: קישוא פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_CUCUMBER:
+  name: מלפפון פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_CUMIN:
+  name: כמון פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_CURRY_LEAF:
+  name: עלה קארי פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_DILL:
+  name: שמיר פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_EGG:
+  name: ביצה פרוסה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_ENCHANTED_GOLDEN_APPLE:
+  name: תפוח מוזהב מכושף פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_FENNEL:
+  name: שומר פשוט פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_GARLIC:
+  name: שום פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_GINGER:
+  name: ג'ינג'ר פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_GLOW_BERRIES:
+  name: פירות יער זוהרים פרוסים
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_GOLDEN_APPLE:
+  name: תפוח מוזהב פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_GOLDEN_CARROT:
+  name: גזר מוזהב פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_GRAPE:
+  name: ענב פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_GREEN_APPLE:
+  name: תפוח ירוק פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_GREEN_BEANS:
+  name: שעועית ירוקה פרוסה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_GREEN_ONION:
+  name: בצל ירוק פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_HAZELNUT:
+  name: אגוז לוז פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_HORSERADISH:
+  name: חזרת פרוסה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_JALAPENO:
+  name: חלפיניו פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_JASMINE:
+  name: יסמין פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_JUNIPER_BERRY:
+  name: פירות ערער פרוסים
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_KAFFIR_LIME:
+  name: עלה ליים כפיר פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_KALE:
+  name: קייל פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_KELP:
+  name: אצה פרוסה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_KIWI:
+  name: קיווי פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_LAVENDER:
+  name: לבנדר פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_LEEK:
+  name: כרישה פרוסה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_LEMON:
+  name: לימון פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_LETTUCE:
+  name: חסה פרוסה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_LICORICE:
+  name: ליקריץ פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_LIME:
+  name: ליים פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_MACE:
+  name: קליפת מוסקט פרוסה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_MANGO:
+  name: מנגו פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_MARJORAM:
+  name: מיורן פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_MARROW:
+  name: קישוא ענק פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_MELON:
+  name: אבטיח פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_MINT:
+  name: נענע פרוסה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_MUSTARD_SEEDS:
+  name: גרגרי חרדל פרוסים
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_MUTTON:
+  name: בשר כבש פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_NETTLES:
+  name: סרפד פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_OKRA:
+  name: במיה פרוסה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_ONION:
+  name: בצל פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_ORANGE:
+  name: תפוז פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_OREGANO:
+  name: אורגנו פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_PARSLEY:
+  name: פטרוזיליה פרוסה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_PARSNIP:
+  name: גזר לבן פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_PEA:
+  name: אפונה פרוסה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_PEACH:
+  name: אפרסק פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_PEANUT:
+  name: בוטן פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_PEAR:
+  name: אגס פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_PECAN:
+  name: פקאן פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_PEPPER:
+  name: פלפל שחור פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_PEPPERONI:
+  name: פפרוני פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_PINEAPPLE:
+  name: אננס פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_PINTO_BEANS:
+  name: שעועית פינטו פרוסה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_PORKCHOP:
+  name: צלע חזיר פרוסה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_POTATO:
+  name: תפוח אדמה פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_PUFFERFISH:
+  name: אבו-נפחא פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_PUMPKIN:
+  name: דלעת פרוסה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_RABBIT:
+  name: ארנב פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_RADDISH:
+  name: צנון פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_RADICCHIO:
+  name: רדיקיו פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_RAPESEED:
+  name: לפתית פרוסה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_RED_MUSHROOM:
+  name: פטרייה אדומה פרוסה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_RHUBARB:
+  name: ריבס פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_RICE:
+  name: אורז פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_ROSEMARY:
+  name: רוזמרין פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_ROTTEN_FLESH:
+  name: בשר רקוב פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_RUNNER_BEANS:
+  name: שעועית מטפסת פרוסה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_RUTABAGA:
+  name: לפת שוודית פרוסה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_SALMON:
+  name: סלמון פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_SASSAFRAS:
+  name: סספרס פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_SHALLOT:
+  name: בצלצל פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_SHISO:
+  name: שיסו פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_SOY_BEANS:
+  name: פולי סויה פרוסים
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_SPINACH:
+  name: תרד פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_STAR_ANISE:
+  name: כוכב אניס פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_STRAWBERRY:
+  name: תות פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_SUGAR:
+  name: סוכר פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_SWEETCORN:
+  name: תירס מתוק פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_SWEET_BERRIES:
+  name: פירות יער מתוקים פרוסים
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_SWEET_POTATO:
+  name: בטטה פרוסה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_TARRAGON:
+  name: טרגון פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_THYME:
+  name: תימין פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_TOMATO:
+  name: עגבנייה פרוסה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_TURMERIC:
+  name: כורכום פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_TURNIP:
+  name: לפת פרוסה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_VANILLA:
+  name: וניל פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_WASABI:
+  name: וואסאבי פרוס
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SLICED_WHEAT:
+  name: חיטה פרוסה
+  type:
+  - '&7&oתוצר לוואי'
+CLT_SOFT_BOILED_EGG:
+  name: ביצה רכה
+  type:
+  - '&7&oמזון'
+  description:
+  - סתם ביצה מבושלת, מה עוד יש להגיד.
+  stats:
+  - '&8⇨ &7ריפוי: &b1 לב'
+  - '&8⇨ &7לפעמים קורא לתרנגולת לעזרתך.'
+CLT_SOYLENT:
+  name: סוילנט
+  type:
+  - '&7&oמזון'
+  description:
+  - כל מה שהגוף צריך!
+  stats:
+  - '&8⇨ &bמקולל I &7(10:00)'
+  - '&8⇨ &bחולשה IV &7(10:00)'
+CLT_SOY_BEANS:
+  name: פולי סויה
+  type:
+  - '&7&oיבול'
+  description:
+  - חלב סויה בדרך.
+CLT_SPAGHETTI:
+  name: ספגטי
+  type:
+  - '&7&oמזון'
+  description:
+  - פשוט תמשיכו לשרבב.
+  stats: *id007
+CLT_SPAGHETTI_AND_MEATBALLS:
+  name: ספגטי וקציצות
+  type:
+  - '&7&oמזון'
+  description:
+  - פשוט, קלאסי ומשביע.
+  stats:
+  - '&8⇨ &7ריפוי: &b1 לב'
+  - '&8⇨ &bמקולל I &7(10:00)'
+CLT_SPINACH:
+  name: תרד
+  type:
+  - '&7&oיבול'
+  description:
+  - נבול באהבה.
+CLT_STAR_ANISE:
+  name: כוכב אניס
+  type:
+  - '&7&oיבול'
+  description:
+  - אחד הטעמים הכי טובים וייחודיים.
+CLT_STRAWBERRY:
+  name: תות
+  type:
+  - '&7&oיבול'
+  description:
+  - רק להוסיף שמנת!
+CLT_STRAWBERRY_JELLY:
+  name: ריבת תותים
+  type:
+  - '&7&oיבול'
+  description: *id008
+CLT_SUGARED_SKULL:
+  name: גולגולת סוכר
+  type:
+  - '&7&oמזון'
+  description:
+  - זה בכלל אוכל...?
+  stats:
+  - '&8⇨ &bחשכה III &7(10:00)'
+CLT_SWEETCORN:
+  name: תירס מתוק
+  type:
+  - '&7&oיבול'
+  description:
+  - אולי הירק הכי טוב שיש.
+CLT_SWEET_BEEHIVE:
+  name: כוורת מתוקה
+  type:
+  - '&7&oמזון'
+  description:
+  - לא ברור מה גרם לכם לרצות לבשל את זה!
+  stats:
+  - '&8⇨ &7מזמן כמה דבורים!'
+CLT_SWEET_POTATO:
+  name: בטטה
+  type:
+  - '&7&oיבול'
+  description:
+  - יאם יאם יאם.
+CLT_TAQUITO:
+  name: טאקיטו
+  type:
+  - '&7&oמזון'
+  description:
+  - זים היה גאה!
+  stats:
+  - '&8⇨ &7ריפוי: &b4 לבבות'
+  - '&8⇨ &7מזמן את גיר לעזרה (זה גולם ברזל, תירגעו).'
+CLT_TARRAGON:
+  name: טרגון
+  type:
+  - '&7&oיבול'
+  description:
+  - אני שם את זה ממש על הכול.
+  - 'ספוילר: אני לא שף טוב.'
+CLT_TATER_TOTS:
+  name: כדורי תפוחי אדמה
+  type:
+  - '&7&oמזון'
+  description:
+  - נשנושי תפוחי אדמה קטנים.
+  stats:
+  - '&8⇨ &7ריפוי: &b0.5 לבבות'
+  - '&8⇨ &bמהירות II &7(10:00)'
+CLT_THYME:
+  name: תימין
+  type:
+  - '&7&oיבול'
+  description:
+  - לעתים קרובות מתגעגע לרוזמרין.
+CLT_TOMATO:
+  name: עגבנייה
+  type:
+  - '&7&oיבול'
+  description:
+  - ישר מהגפן.... אה... מהשיח?
+CLT_TORTILLAS:
+  name: טורטיות
+  type:
+  - '&7&oיבול'
+  description:
+  - תענוגות מקמח תירס
+CLT_TREE_APRICOT:
+  name: עץ משמש
+  type:
+  - '&7&oשתיל'
+  description:
+  - בפנים יש גלעין יחיד של ייאוש.
+  stats: &id009
+  - '&8⇨ &7עיצוב: &bבי-וייט'
+CLT_TREE_BANANA:
+  name: עץ בננה
+  type:
+  - '&7&oשתיל'
+  description:
+  - עץ שמצמיח אצבעות, מצמרר!
+  stats:
+  - '&8⇨ &7עיצוב: &bספיראט'
+CLT_TREE_CHERRY:
+  name: עץ דובדבן
+  type:
+  - '&7&oשתיל'
+  description:
+  - לקשור את הקשר!
+  stats:
+  - '&8⇨ &7עיצוב: &bריזן-פאונד-דיקוי'
+CLT_TREE_CHESTNUT:
+  name: עץ ערמון
+  type:
+  - '&7&oשתיל'
+  description:
+  - עץ שברור שתוכנן בשביל לטפס עליו.
+  stats: &id010
+  - '&8⇨ &7עיצוב: &bאה-ביט-אודיש'
+CLT_TREE_GREEN_APPLE:
+  name: עץ תפוח ירוק
+  type:
+  - '&7&oשתיל'
+  description:
+  - מגדל תפוחים ירוקים גדולים ופריכים.
+  stats: *id009
+CLT_TREE_HAZELNUT:
+  name: עץ אגוז לוז
+  type:
+  - '&7&oשתיל'
+  description:
+  - לנער את העץ הזה זה תחביב של ילדות.
+  stats: *id010
+CLT_TREE_KIWI:
+  name: עץ קיווי
+  type:
+  - '&7&oשתיל'
+  description:
+  - עץ מניו זילנד? הבנתי נכון?
+  stats: *id010
+CLT_TREE_LEMON:
+  name: עץ לימון
+  type:
+  - '&7&oשתיל'
+  description:
+  - רק להסתכל על העץ הזה כבר חמוץ.
+  stats: &id011
+  - '&8⇨ &7עיצוב: &bג''ף'
+CLT_TREE_LIME:
+  name: עץ ליים
+  type:
+  - '&7&oשתיל'
+  description:
+  - ידעתם שליים הם בסך הכול לימונים שעוצרים את הנשימה?
+  stats: *id010
+CLT_TREE_MANGO:
+  name: עץ מנגו
+  type:
+  - '&7&oשתיל'
+  description:
+  - הכי טוב כשהוא בשל לגמרי.
+  stats: *id009
+CLT_TREE_ORANGE:
+  name: עץ תפוז
+  type:
+  - '&7&oשתיל'
+  description:
+  - כדורים קטנים של שמש.
+  stats: *id011
+CLT_TREE_PEACH:
+  name: עץ אפרסק
+  type:
+  - '&7&oשתיל'
+  description:
+  - ג'יימס חיפש את זה, אני חושב?
+  stats: *id010
+CLT_TREE_PEAR:
+  name: עץ אגס
+  type:
+  - '&7&oשתיל'
+  description:
+  - זוג אגסים הוצמד בזוגיות אגסית.
+  stats: *id009
+CLT_TREE_PECAN:
+  name: עץ פקאן
+  type:
+  - '&7&oשתיל'
+  description:
+  - אפשר לגדל את העץ הזה? פקאן-ברור!
+  stats: *id009
+CLT_TREE_PINEAPPLE:
+  name: עץ אננס
+  type:
+  - '&7&oשתיל'
+  description:
+  - איפה הפיצה שלי?
+  stats: *id010
+CLT_TURMERIC:
+  name: כורכום
+  type:
+  - '&7&oיבול'
+  description:
+  - נוכחות מושקית חזקה שמשלימה המון מנות.
+CLT_TURNIP:
+  name: לפת
+  type:
+  - '&7&oיבול'
+  description:
+  - יפתור את כל הבעיות של החיים.
+CLT_VANILLA:
+  name: וניל
+  type:
+  - '&7&oיבול'
+  description:
+  - 'הוראות: לטבול ישר בלאטה'
+CLT_WASABI:
+  name: וואסאבי
+  type:
+  - '&7&oיבול'
+  description:
+  - הצילו... וואסאבי...
+CLT_WITHER_ROSE_SALAD:
+  name: סלט ורדי וויד'ר
+  type:
+  - '&7&oמזון'
+  description:
+  - גדוש בעוצמה, אבל עם תופעת לוואי קשה.
+  stats:
+  - '&8⇨ &7ריפוי: &bמלא'
+  - '&8⇨ &bריקבון II &7(10:00)'
+  - '&8⇨ &bהרחבת מד החיים XX &7(10:00)'

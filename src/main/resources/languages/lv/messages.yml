@@ -1,0 +1,65 @@
+lore:
+  seed-pack-set-to: Iestatīts
+  knowledge-script-unlocks: Atbloķē
+  drop-level: Ražas līmenis
+  growth-speed: Augšanas ātrums
+  breed-strength: Krustošanas spēks
+command:
+  no-permission: Tev nav atļaujas to darīt.
+  invalid-subcommand: Lūdzu, norādi derīgu apakškomandu.
+  players-only: Šo komandu var izpildīt tikai spēlētājs.
+  hold-seed-pack: Lai to izdarītu, tev jātur rokā sēklu paciņa.
+  pack-empty: Šī paciņa ir tukša!
+  pack-contents: Saturs
+  pack-entry: Līmenis %level%, ātrums %speed%, spēks %strength%
+kitchen:
+  recipe-disabled: Šī recepte ir atspējota.
+  no-recipe: Nav atbilstošas receptes.
+  not-enough-power: Nepietiek enerģijas.
+  input-empty: Ieliec priekšmetu ievades slotā.
+  cooked: Garšīgi!
+food:
+  eaten: Lieliski! Tu esi pilnīgi paēdis.
+  not-hungry: Tu vēl neesi izsalcis! Ēst var tikai reizi pusdiennaktī (10 minūtes).
+  palate-cleansed: Tu jūti, kā tavas garšas kārpiņas attīrās.
+  ouch: Au!
+knowledge-script:
+  learned: 'Tu esi iemācījies krustot augu: %plant%.'
+seed-pack:
+  title: Sēklu paciņa
+  unstack-first: Vispirms tev jāizjauc sēklu paciņu kaudze.
+  not-a-seed: Priekšmetam jābūt Cultivation auga sēklai.
+  empty-before-change: Pirms maini paciņas augu, tā jāiztukšo.
+  no-plant-set: Tu vēl neesi iestatījis augu.
+  none-stored: Tev nav šīs sēklas ar šiem līmeņiem.
+  set-here: Iestati sēklu šeit
+  retrieve-here: Izņem šeit
+  no-seed-set: Sēkla nav iestatīta
+  no-seed-set-lore:
+  - Noklikšķini uz ikonas pa kreisi,
+  - turot sēklu, lai iestatītu paciņu.
+  empty-set: Tukša kopa
+  empty-set-lore:
+  - Tev nav sēklu, kas atbilst
+  - šiem līmeņiem.
+  stored-seed: Glabātās sēklas veids
+  take-seed: Paņem sēklu no paciņas
+  level: Līmenis
+  speed: Ātrums
+  strength: Spēks
+  left-click: Kreisais klikšķis
+  right-click: Labais klikšķis
+  increase: 'Palielināt: %stat%'
+  decrease: 'Samazināt: %stat%'
+  current: Pašreizējais
+codex:
+  title: Augu kodekss
+  child: Bērna augs
+  mother: Mātes augs
+  father: Tēva augs
+  growth-rate: Augšanas temps
+  not-discovered: Nav atklāts
+  not-discovered-lore:
+  - Tu vēl neesi atklājis, kā
+  - krustot šo augu!
+  discovery: Atklājums
