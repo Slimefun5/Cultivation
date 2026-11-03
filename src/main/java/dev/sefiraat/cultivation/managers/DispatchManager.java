@@ -1,20 +1,17 @@
 package dev.sefiraat.cultivation.managers;
 
-import co.aikar.commands.PaperCommandManager;
-import com.google.common.base.Preconditions;
 import dev.sefiraat.cultivation.implementation.commands.CultivationCommands;
-import org.bukkit.plugin.Plugin;
+import org.bukkit.command.PluginCommand;
+import org.bukkit.plugin.java.JavaPlugin;
 
-public final class DispatchManager extends PaperCommandManager {
+public final class DispatchManager {
 
-    private static DispatchManager instance;
-
-    public DispatchManager(Plugin plugin) {
-        super(plugin);
-
-        Preconditions.checkArgument(instance == null, "Cannot create a new instance of the DispatchManager");
-        instance = this;
-
-        registerCommand(new CultivationCommands());
+    public DispatchManager(JavaPlugin plugin) {
+        PluginCommand command = plugin.getCommand("cultivation");
+        if (command != null) {
+            CultivationCommands executor = new CultivationCommands();
+            command.setExecutor(executor);
+            command.setTabCompleter(executor);
+        }
     }
 }

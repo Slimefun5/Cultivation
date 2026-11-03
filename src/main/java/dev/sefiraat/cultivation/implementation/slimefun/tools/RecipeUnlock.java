@@ -1,5 +1,7 @@
 package dev.sefiraat.cultivation.implementation.slimefun.tools;
 
+
+import com.google.common.collect.ImmutableList;
 import com.google.common.base.Preconditions;
 import dev.sefiraat.cultivation.Registry;
 import dev.sefiraat.cultivation.api.slimefun.groups.CultivationGroups;
@@ -7,7 +9,7 @@ import dev.sefiraat.cultivation.api.slimefun.plant.BreedingPair;
 import dev.sefiraat.cultivation.api.utils.StatisticUtils;
 import dev.sefiraat.cultivation.implementation.slimefun.CultivationStacks;
 import dev.sefiraat.cultivation.implementation.utils.Keys;
-import dev.sefiraat.sefilib.string.Theme;
+import dev.sefiraat.cultivation.libs.sefilib.string.Theme;
 import io.github.thebusybiscuit.slimefun5.libraries.dough.data.persistent.PersistentDataAPI;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItem;
 import io.github.thebusybiscuit.slimefun5.api.recipes.RecipeType;
@@ -72,7 +74,7 @@ public class RecipeUnlock extends SlimefunItem {
 
     private void setLore(@Nonnull ItemMeta itemMeta, @Nonnull String childName) {
         // Setup the lore
-        List<String> lore = itemMeta.hasLore() && itemMeta.getLore() != null ? itemMeta.getLore() : List.of();
+        List<String> lore = itemMeta.hasLore() && itemMeta.getLore() != null ? itemMeta.getLore() : ImmutableList.of();
         List<String> newLore = new ArrayList<>();
 
         for (String string : lore) {

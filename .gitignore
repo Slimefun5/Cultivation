@@ -1,5 +1,16 @@
-# Project exclude paths
-/target/
-/.idea/
-/dependency-reduced-pom.xml
+# Gradle
+.gradle/
+build/
+out/
+bin/
+.idea/
 *.iml
+*.iws
+
+# MacOS
+.DS_Store
+
+# Temporary files
+*.tmp
+*.log
+*.stackdump

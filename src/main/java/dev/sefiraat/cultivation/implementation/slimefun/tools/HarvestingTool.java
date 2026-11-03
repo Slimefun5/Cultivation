@@ -38,7 +38,7 @@ public class HarvestingTool extends RefillableUseItem implements NotPlaceable {
     @Override
     public ItemUseHandler getItemHandler() {
         return playerRightClickEvent -> {
-            if (playerRightClickEvent.getClickedBlock().isEmpty()) {
+            if (!playerRightClickEvent.getClickedBlock().isPresent()) {
                 // No block preset
                 return;
             }
@@ -46,7 +46,8 @@ public class HarvestingTool extends RefillableUseItem implements NotPlaceable {
             Block block = playerRightClickEvent.getClickedBlock().get();
             SlimefunItem item = BlockStorage.check(block);
 
-            if (item instanceof HarvestablePlant harvestable && harvestable.isMature(block)) {
+            if (item instanceof HarvestablePlant && ((HarvestablePlant) item).isMature(block)) {
+                HarvestablePlant harvestable = (HarvestablePlant) item;
                 harvestable.harvest(block);
                 damageItem(playerRightClickEvent.getPlayer(), playerRightClickEvent.getItem());
             }

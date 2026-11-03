@@ -9,13 +9,13 @@ import dev.sefiraat.cultivation.api.slimefun.groups.CultivationGroups;
 import dev.sefiraat.cultivation.api.slimefun.items.CultivationFloraItem;
 import dev.sefiraat.cultivation.api.slimefun.plant.Growth;
 import dev.sefiraat.cultivation.implementation.slimefun.tools.TrimmingTool;
-import dev.sefiraat.sefilib.entity.display.DisplayInteractable;
+import dev.sefiraat.cultivation.libs.sefilib.entity.display.DisplayInteractable;
 import io.github.thebusybiscuit.slimefun5.api.SlimefunAddon;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
 import io.github.thebusybiscuit.slimefun5.core.handlers.BlockBreakHandler;
 import org.bukkit.event.block.BlockBreakEvent;
 import org.bukkit.inventory.ItemStack;
-import org.jetbrains.annotations.NotNull;
+import javax.annotation.Nonnull;
 
 import javax.annotation.OverridingMethodsMustInvokeSuper;
 import javax.annotation.ParametersAreNonnullByDefault;
@@ -54,12 +54,12 @@ public abstract class CultivationBush extends CultivationFloraItem<CultivationBu
     }
 
     @OverridingMethodsMustInvokeSuper
-    protected void onBreak(@NotNull BlockBreakEvent event) {
+    protected void onBreak(@Nonnull BlockBreakEvent event) {
         removeBush(event.getBlock().getLocation());
     }
 
     @Override
-    public CultivationBush tryRegister(@NotNull SlimefunAddon addon) {
+    public CultivationBush tryRegister(@Nonnull SlimefunAddon addon) {
         Registry.getInstance().addBush(this);
         return super.tryRegister(addon);
     }

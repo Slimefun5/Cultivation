@@ -40,7 +40,8 @@ public class CustomPlacementListener implements Listener {
     @EventHandler(priority = EventPriority.LOW, ignoreCancelled = true)
     public void onBlockPlace(@Nonnull BlockPlaceEvent event) {
         SlimefunItem slimefunItem = SlimefunItem.getByItem(event.getItemInHand());
-        if (slimefunItem instanceof CustomPlacementBlock block) {
+        if (slimefunItem instanceof CustomPlacementBlock) {
+            CustomPlacementBlock block = (CustomPlacementBlock) slimefunItem;
             block.whenPlaced(event);
         }
     }
@@ -92,23 +93,23 @@ public class CustomPlacementListener implements Listener {
     @EventHandler
     public void onLiquidDispense(@Nonnull BlockDispenseEvent event) {
         Block block = event.getBlock();
-        if (isLiquid(event.getItem())
-            && block.getBlockData() instanceof Directional directional
-        ) {
-            BlockFace face = directional.getFacing();
+        if (isLiquid(event.getItem()) && block.getBlockData() instanceof Directional) {
+            BlockFace face = ((Directional) block.getBlockData()).getFacing();
             Location location = block.getRelative(face).getLocation();
             unsafelyKillItem(location, BlockStorage.check(location));
         }
     }
 
     private void unsafelyKillItem(@Nonnull Location location, @Nullable SlimefunItem slimefunItem) {
-        if (slimefunItem instanceof CultivationPlant plant) {
+        if (slimefunItem instanceof CultivationPlant) {
+            CultivationPlant plant = (CultivationPlant) slimefunItem;
             location.getWorld().dropItem(location, plant.getDroppedItemStack(location));
             plant.removeCropped(location);
             plant.removePlantDisplayGroup(location);
             BlockStorage.clearBlockInfo(location);
             location.getBlock().setType(Material.AIR);
-        } else if (slimefunItem instanceof CultivationBush bush) {
+        } else if (slimefunItem instanceof CultivationBush) {
+            CultivationBush bush = (CultivationBush) slimefunItem;
             location.getWorld().dropItem(location, bush.getItem().clone());
             bush.removeBushDisplayGroup(location);
             BlockStorage.clearBlockInfo(location);

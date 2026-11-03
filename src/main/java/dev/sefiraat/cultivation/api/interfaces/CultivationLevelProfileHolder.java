@@ -23,16 +23,15 @@ public interface CultivationLevelProfileHolder {
 
     @Nonnull
     default FloraLevelProfile getLevelProfile(@Nonnull Location location) {
-        return Objects.requireNonNullElseGet(
-            PROFILE_MAP.get(location),
-            () -> {
-                String levelString = BlockStorage.getLocationInfo(location, FloraLevelProfile.BS_KEY_LEVEL);
-                String speedString = BlockStorage.getLocationInfo(location, FloraLevelProfile.BS_KEY_SPEED);
-                String strengthString = BlockStorage.getLocationInfo(location, FloraLevelProfile.BS_KEY_STRENGTH);
-                String analysedString = BlockStorage.getLocationInfo(location, FloraLevelProfile.BS_KEY_ANALYZED);
-                return getLevelProfile(levelString, speedString, strengthString, analysedString);
-            }
-        );
+        FloraLevelProfile cached = PROFILE_MAP.get(location);
+        if (cached != null) {
+            return cached;
+        }
+        String levelString = BlockStorage.getLocationInfo(location, FloraLevelProfile.BS_KEY_LEVEL);
+        String speedString = BlockStorage.getLocationInfo(location, FloraLevelProfile.BS_KEY_SPEED);
+        String strengthString = BlockStorage.getLocationInfo(location, FloraLevelProfile.BS_KEY_STRENGTH);
+        String analysedString = BlockStorage.getLocationInfo(location, FloraLevelProfile.BS_KEY_ANALYZED);
+        return getLevelProfile(levelString, speedString, strengthString, analysedString);
     }
 
     @Nonnull

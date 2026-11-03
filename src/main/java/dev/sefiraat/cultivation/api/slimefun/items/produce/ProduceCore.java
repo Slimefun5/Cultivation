@@ -3,7 +3,7 @@ package dev.sefiraat.cultivation.api.slimefun.items.produce;
 import dev.sefiraat.cultivation.Cultivation;
 import dev.sefiraat.cultivation.api.slimefun.RecipeTypes;
 import dev.sefiraat.cultivation.api.utils.CultivationThemes;
-import dev.sefiraat.sefilib.string.Theme;
+import dev.sefiraat.cultivation.libs.sefilib.string.Theme;
 import io.github.thebusybiscuit.slimefun5.api.SlimefunAddon;
 import io.github.thebusybiscuit.slimefun5.api.items.ItemGroup;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItem;
@@ -11,7 +11,7 @@ import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
 import io.github.thebusybiscuit.slimefun5.api.recipes.RecipeType;
 import org.bukkit.Material;
 import org.bukkit.inventory.ItemStack;
-import org.jetbrains.annotations.NotNull;
+import javax.annotation.Nonnull;
 
 import javax.annotation.Nonnull;
 import javax.annotation.ParametersAreNonnullByDefault;
@@ -118,7 +118,7 @@ public class ProduceCore extends SlimefunItem {
     }
 
     @Override
-    public void register(@NotNull SlimefunAddon addon) {
+    public void register(@Nonnull SlimefunAddon addon) {
         createByProducts();
         super.register(addon);
     }

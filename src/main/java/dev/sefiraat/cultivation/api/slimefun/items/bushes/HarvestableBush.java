@@ -13,7 +13,7 @@ import org.bukkit.Material;
 import org.bukkit.block.Block;
 import org.bukkit.event.block.BlockPlaceEvent;
 import org.bukkit.inventory.ItemStack;
-import org.jetbrains.annotations.NotNull;
+import javax.annotation.Nonnull;
 
 import javax.annotation.Nonnull;
 import javax.annotation.Nullable;
@@ -48,7 +48,7 @@ public class HarvestableBush extends CultivationBush implements CultivationHarve
     protected void onBlockUse(PlayerRightClickEvent event) {
         // shouldn't be possible, but just to be safe
         Optional<Block> blockOptional = event.getClickedBlock();
-        if (blockOptional.isEmpty() || harvestItems.size() == 0) {
+        if (!blockOptional.isPresent() || harvestItems.size() == 0) {
             return;
         }
         Block block = blockOptional.get();
@@ -71,7 +71,7 @@ public class HarvestableBush extends CultivationBush implements CultivationHarve
     }
 
     @Override
-    public void whenPlaced(@NotNull BlockPlaceEvent event) {
+    public void whenPlaced(@Nonnull BlockPlaceEvent event) {
         super.whenPlaced(event);
         addDisplayBush(event.getBlock().getLocation());
         event.getBlock().setType(Material.AIR);
@@ -105,7 +105,7 @@ public class HarvestableBush extends CultivationBush implements CultivationHarve
     }
 
     @Override
-    public void updateGrowthStage(@NotNull Block block, int growthStage) {
+    public void updateGrowthStage(@Nonnull Block block, int growthStage) {
         // todo Fuck numbers
         Location location = block.getLocation();
         setAge(location, growthStage);

@@ -13,13 +13,12 @@ import io.github.thebusybiscuit.slimefun5.api.items.ItemSetting;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
 import io.github.thebusybiscuit.slimefun5.api.items.settings.DoubleRangeSetting;
 import io.github.thebusybiscuit.slimefun5.api.items.settings.IntRangeSetting;
-import io.papermc.lib.PaperLib;
 import me.mrCookieSlime.Slimefun.api.BlockStorage;
 import org.bukkit.Location;
 import org.bukkit.Material;
 import org.bukkit.block.Block;
 import org.bukkit.inventory.ItemStack;
-import org.jetbrains.annotations.NotNull;
+import javax.annotation.Nonnull;
 
 import javax.annotation.Nonnull;
 import javax.annotation.Nullable;
@@ -86,10 +85,10 @@ public class HarvestablePlant extends CultivationPlant implements CultivationHar
     }
 
     @Override
-    protected void onBlockUse(@NotNull PlayerRightClickEvent event) {
+    protected void onBlockUse(@Nonnull PlayerRightClickEvent event) {
         // shouldn't be possible, but just to be safe
         Optional<Block> blockOptional = event.getClickedBlock();
-        if (blockOptional.isEmpty() || harvestItems.size() == 0) {
+        if (!blockOptional.isPresent() || harvestItems.size() == 0) {
             return;
         }
         Block block = blockOptional.get();
@@ -117,7 +116,7 @@ public class HarvestablePlant extends CultivationPlant implements CultivationHar
             PlantTheme theme = growth.getTheme();
             if (theme != null) {
                 theme.getSeed().setSkin(block, false);
-                PaperLib.getBlockState(block, false).getState().update(true, false);
+                block.getState().update(true, false);
                 growthDisplay(block.getLocation());
             }
         } else if (growthStage == 1) {

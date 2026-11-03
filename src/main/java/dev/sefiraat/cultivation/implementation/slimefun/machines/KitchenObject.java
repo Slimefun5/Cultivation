@@ -1,6 +1,8 @@
 package dev.sefiraat.cultivation.implementation.slimefun.machines;
 
-import dev.sefiraat.sefilib.entity.display.DisplayGroup;
+
+import com.google.common.collect.ImmutableSet;
+import dev.sefiraat.cultivation.libs.sefilib.entity.display.DisplayGroup;
 import dev.sefiraat.cultivation.implementation.compat.DisplayGroupBlock;
 import io.github.thebusybiscuit.slimefun5.api.events.PlayerRightClickEvent;
 import io.github.thebusybiscuit.slimefun5.api.items.ItemGroup;
@@ -21,7 +23,7 @@ import java.util.function.Function;
 
 public abstract class KitchenObject extends DisplayGroupBlock {
 
-    public static final Set<Material> BUCKET_ITEMS = Set.of(
+    public static final Set<Material> BUCKET_ITEMS = ImmutableSet.of(
         Material.BUCKET,
         Material.AXOLOTL_BUCKET,
         Material.COD_BUCKET,
@@ -93,7 +95,8 @@ public abstract class KitchenObject extends DisplayGroupBlock {
                 return;
             }
             Display display = displayGroup.getDisplays().get(name);
-            if (display instanceof ItemDisplay itemDisplay) {
+            if (display instanceof ItemDisplay) {
+                ItemDisplay itemDisplay = (ItemDisplay) display;
                 itemDisplay.setItemStack(itemStack.clone());
             }
         }

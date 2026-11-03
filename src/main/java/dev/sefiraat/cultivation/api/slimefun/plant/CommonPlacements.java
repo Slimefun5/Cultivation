@@ -1,5 +1,7 @@
 package dev.sefiraat.cultivation.api.slimefun.plant;
 
+
+import com.google.common.collect.ImmutableSet;
 import org.bukkit.Material;
 
 import java.util.Set;
@@ -10,7 +12,7 @@ public final class CommonPlacements {
         throw new IllegalStateException("Utility class");
     }
 
-    public static final Set<Material> COMMON_OVERWORLD = Set.of(
+    public static final Set<Material> COMMON_OVERWORLD = ImmutableSet.of(
         Material.GRASS_BLOCK,
         Material.DIRT,
         Material.PODZOL,

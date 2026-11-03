@@ -1,7 +1,9 @@
 package dev.sefiraat.cultivation.implementation.listeners;
 
+
+import com.google.common.collect.ImmutableSet;
 import dev.sefiraat.cultivation.api.slimefun.RecipeTypes;
-import dev.sefiraat.sefilib.entity.LivingEntityDefinition;
+import dev.sefiraat.cultivation.libs.sefilib.entity.LivingEntityDefinition;
 import org.bukkit.Location;
 import org.bukkit.entity.EntityType;
 import org.bukkit.event.EventHandler;
@@ -59,7 +61,7 @@ public class MobDropListener implements Listener {
         private final double dropChance;
 
         public MobDrop(@Nonnull ItemStack stackToDrop, @Nonnull EntityType dropFrom, double dropChance) {
-            this(stackToDrop, Set.of(dropFrom), dropChance);
+            this(stackToDrop, ImmutableSet.of(dropFrom), dropChance);
         }
 
         public MobDrop(@Nonnull ItemStack stackToDrop, @Nonnull Set<EntityType> dropFrom, double dropChance) {

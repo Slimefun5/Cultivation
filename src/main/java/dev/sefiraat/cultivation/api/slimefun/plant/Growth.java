@@ -1,5 +1,7 @@
 package dev.sefiraat.cultivation.api.slimefun.plant;
 
+
+import com.google.common.collect.ImmutableSet;
 import org.bukkit.Material;
 
 import javax.annotation.Nonnull;
@@ -28,7 +30,7 @@ public class Growth {
 
     @ParametersAreNonnullByDefault
     public Growth(@Nullable PlantTheme theme, Material placementMaterial, double growthRate) {
-        this(theme, Set.of(placementMaterial), growthRate);
+        this(theme, ImmutableSet.of(placementMaterial), growthRate);
     }
 
     @Nullable

@@ -38,7 +38,7 @@ public class CropSticks extends SlimefunItem implements NotPlaceable {
     @Nonnull
     public ItemUseHandler getItemHandler() {
         return playerRightClickEvent -> {
-            if (playerRightClickEvent.getClickedBlock().isEmpty()) {
+            if (!playerRightClickEvent.getClickedBlock().isPresent()) {
                 // No block preset
                 return;
             }
@@ -54,7 +54,8 @@ public class CropSticks extends SlimefunItem implements NotPlaceable {
             Block block = playerRightClickEvent.getClickedBlock().get();
             SlimefunItem item = BlockStorage.check(block);
 
-            if (item instanceof CultivationCroppable croppable && croppable.incrementCrop(block.getLocation())) {
+            if (item instanceof CultivationCroppable && ((CultivationCroppable) item).incrementCrop(block.getLocation())) {
+                CultivationCroppable croppable = (CultivationCroppable) item;
                 player.swingMainHand();
                 if (player.getGameMode() != GameMode.CREATIVE) {
                     heldItemStack.setAmount(heldItemStack.getAmount() - 1);

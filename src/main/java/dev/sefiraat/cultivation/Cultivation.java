@@ -14,7 +14,7 @@ import dev.sefiraat.cultivation.managers.DispatchManager;
 import dev.sefiraat.cultivation.managers.ListenerManager;
 import dev.sefiraat.cultivation.managers.SupportedPluginManager;
 import dev.sefiraat.cultivation.managers.TaskManager;
-import dev.sefiraat.sefilib.entity.display.DisplayGroupManager;
+import dev.sefiraat.cultivation.libs.sefilib.entity.display.DisplayGroupManager;
 import io.github.thebusybiscuit.slimefun5.api.SlimefunAddon;
 import io.github.thebusybiscuit.slimefun5.implementation.Slimefun;
 import org.bstats.bukkit.Metrics;
@@ -23,13 +23,11 @@ import org.bukkit.plugin.java.JavaPlugin;
 
 import javax.annotation.Nonnull;
 import javax.annotation.Nullable;
-import java.text.MessageFormat;
 
 public class Cultivation extends JavaPlugin implements SlimefunAddon {
+    private static final int BSTATS_ID = 18184;
+
     private static Cultivation instance;
-    private final String username;
-    private final String repo;
-    private final String branch;
 
     private ConfigManager configManager;
     private SupportedPluginManager supportedPluginManager;
@@ -39,20 +37,15 @@ public class Cultivation extends JavaPlugin implements SlimefunAddon {
     private DisplayGroupManager displayGroupManager;
     private Registry registry;
 
-    public Cultivation() {
-        this.username = "Sefiraat";
-        this.repo = "Cultivation";
-        this.branch = "main";
-    }
-
     @Override
     public void onEnable() {
         instance = this;
 
-        getLogger().info("########################################");
-        getLogger().info("               Cultivation              ");
-        getLogger().info("         By Sefiraat and J3fftw         ");
-        getLogger().info("########################################");
+        if (!hasDisplayEntities()) {
+            getLogger().severe("Cultivation needs Minecraft 1.19.4 or above: its plants are display entities, which older versions do not have");
+            getServer().getPluginManager().disablePlugin(this);
+            return;
+        }
 
         saveDefaultConfig();
         this.configManager = new ConfigManager();
@@ -86,7 +79,27 @@ public class Cultivation extends JavaPlugin implements SlimefunAddon {
 
     @Override
     public void onDisable() {
-        this.configManager.saveAll();
+        if (this.configManager != null) {
+            this.configManager.saveAll();
+        }
+    }
+
+    /**
+     * @implNote Checked by name before any class that names a display entity loads, so that the refusal on an older
+     *           server is one log line rather than a class loading error.
+     */
+    private static boolean hasDisplayEntities() {
+        try {
+            Class.forName("org.bukkit.entity.Display");
+            return true;
+        } catch (ClassNotFoundException absent) {
+            return false;
+        }
+    }
+
+    /** Core reports every addon's metrics itself unless the server sets {@code metrics.disable-addon-metrics} to false. */
+    private static boolean addonMetricsEnabled() {
+        return Slimefun.getCfg().contains("metrics.disable-addon-metrics") && !Slimefun.getCfg().getBoolean("metrics.disable-addon-metrics");
     }
 
     @Nonnull
@@ -98,11 +111,13 @@ public class Cultivation extends JavaPlugin implements SlimefunAddon {
     @Nullable
     @Override
     public String getBugTrackerURL() {
-        return MessageFormat.format("https://github.com/{0}/{1}/issues/", this.username, this.repo);
+        return "https://github.com/Slimefun5/Cultivation/issues";
     }
 
     private void setupStats() {
-        Metrics metrics = new Metrics(this, 18184);
+        if (addonMetricsEnabled()) {
+            new Metrics(this, BSTATS_ID);
+        }
     }
 
     public static Cultivation getInstance() {

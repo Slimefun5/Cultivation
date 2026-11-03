@@ -1,11 +1,5 @@
 package dev.sefiraat.cultivation.implementation.commands;
 
-import co.aikar.commands.BaseCommand;
-import co.aikar.commands.annotation.CommandAlias;
-import co.aikar.commands.annotation.CommandCompletion;
-import co.aikar.commands.annotation.CommandPermission;
-import co.aikar.commands.annotation.Default;
-import co.aikar.commands.annotation.Subcommand;
 import com.google.gson.Gson;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
@@ -19,8 +13,8 @@ import dev.sefiraat.cultivation.api.datatypes.instances.FloraLevelProfile;
 import dev.sefiraat.cultivation.api.datatypes.instances.SeedPackInstance;
 import dev.sefiraat.cultivation.api.slimefun.items.trees.TreeBlockDescriptor;
 import dev.sefiraat.cultivation.implementation.slimefun.tools.SeedPack;
-import dev.sefiraat.sefilib.entity.display.DisplayGroup;
-import dev.sefiraat.sefilib.string.Theme;
+import dev.sefiraat.cultivation.libs.sefilib.entity.display.DisplayGroup;
+import dev.sefiraat.cultivation.libs.sefilib.string.Theme;
 import io.github.thebusybiscuit.slimefun5.libraries.dough.blocks.BlockPosition;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItem;
 import io.github.thebusybiscuit.slimefun5.libraries.dough.data.persistent.PersistentDataAPI;
@@ -31,7 +25,9 @@ import org.bukkit.Material;
 import org.bukkit.block.Block;
 import org.bukkit.block.data.BlockData;
 import org.bukkit.block.data.Orientable;
+import org.bukkit.command.Command;
 import org.bukkit.command.CommandSender;
+import org.bukkit.command.TabExecutor;
 import org.bukkit.entity.Interaction;
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.ItemStack;
@@ -44,22 +40,77 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.Arrays;
+import java.util.Collections;
 import java.util.HashMap;
+import java.util.List;
+import java.util.Locale;
 import java.util.Map;
+import java.util.function.Consumer;
+import java.util.stream.Collectors;
 
-@CommandAlias("cultivation|cv")
-public class CultivationCommands extends BaseCommand {
+public class CultivationCommands implements TabExecutor {
 
-    @Default
+    private static final String STRUCTURES = "cultivation.admin.structures";
+    private static final String ENTITIES = "cultivation.admin.entities";
+    private static final List<String> SUBCOMMANDS = Arrays.asList("pos1", "pos2", "saveStructure", "loadStructure", "removeEntities", "packpeek");
+
+    @Override
+    public boolean onCommand(@Nonnull CommandSender sender, @Nonnull Command command, @Nonnull String label, @Nonnull String[] args) {
+        String subcommand = args.length == 0 ? "" : args[0].toLowerCase(Locale.ROOT);
+        switch (subcommand) {
+            case "pos1":
+                return withPermission(sender, STRUCTURES, () -> onPos1(sender));
+            case "pos2":
+                return withPermission(sender, STRUCTURES, () -> onPos2(sender));
+            case "savestructure":
+                return withArgument(sender, STRUCTURES, args, name -> saveStructure(sender, name));
+            case "loadstructure":
+                return withArgument(sender, STRUCTURES, args, name -> loadStructure(sender, name));
+            case "removeentities":
+                return withArgument(sender, ENTITIES, args, radius -> removeEntities(sender, radius));
+            case "packpeek":
+                packPeek(sender);
+                return true;
+            default:
+                onDefault(sender);
+                return true;
+        }
+    }
+
+    @Override
+    public List<String> onTabComplete(@Nonnull CommandSender sender, @Nonnull Command command, @Nonnull String alias, @Nonnull String[] args) {
+        if (args.length != 1) {
+            return Collections.emptyList();
+        }
+        String typed = args[0].toLowerCase(Locale.ROOT);
+        return SUBCOMMANDS.stream().filter(name -> name.toLowerCase(Locale.ROOT).startsWith(typed)).collect(Collectors.toList());
+    }
+
+    private boolean withPermission(CommandSender sender, String permission, Runnable action) {
+        if (!sender.hasPermission(permission)) {
+            sender.sendMessage(Theme.WARNING.apply("You do not have permission to do this"));
+            return true;
+        }
+        action.run();
+        return true;
+    }
+
+    private boolean withArgument(CommandSender sender, String permission, String[] args, Consumer<String> action) {
+        if (args.length < 2) {
+            onDefault(sender);
+            return true;
+        }
+        return withPermission(sender, permission, () -> action.accept(args[1]));
+    }
+
     public void onDefault(CommandSender sender) {
         sender.sendMessage(Theme.ERROR + "Please provide a valid subcommand.");
     }
 
-    //TODO apply permissions
-    @Subcommand("pos1")
-    @CommandPermission("cultivation.admin.structures")
     public void onPos1(CommandSender sender) {
-        if (sender instanceof Player player) {
+        if (sender instanceof Player) {
+            Player player = (Player) sender;
             Registry.getInstance().addPositionOne(player);
             System.out.println("pos1 set");
         } else {
@@ -67,10 +118,9 @@ public class CultivationCommands extends BaseCommand {
         }
     }
 
-    @Subcommand("pos2")
-    @CommandPermission("cultivation.admin.structures")
     public void onPos2(CommandSender sender) {
-        if (sender instanceof Player player) {
+        if (sender instanceof Player) {
+            Player player = (Player) sender;
             Registry.getInstance().addPositionTwo(player);
             System.out.println("pos2 set");
         } else {
@@ -78,13 +128,11 @@ public class CultivationCommands extends BaseCommand {
         }
     }
 
-    @CommandCompletion("name")
-    @Subcommand("saveStructure")
-    @CommandPermission("cultivation.admin.structures")
     public void saveStructure(CommandSender sender, String name) {
-        if (!(sender instanceof Player player)) {
+        if (!(sender instanceof Player)) {
             return;
         }
+        Player player = (Player) sender;
         BlockPosition pos1 = Registry.getInstance().getPositionOne(player);
         BlockPosition pos2 = Registry.getInstance().getPositionTwo(player);
         Block base = player.getTargetBlockExact(20, FluidCollisionMode.NEVER);
@@ -118,7 +166,8 @@ public class CultivationCommands extends BaseCommand {
                     TreeBlockDescriptor descriptor = new TreeBlockDescriptor(blockName, offsetX, offsetY, offsetZ);
 
                     BlockData blockData = block.getBlockData();
-                    if (blockData instanceof Orientable orientable) {
+                    if (blockData instanceof Orientable) {
+                        Orientable orientable = (Orientable) blockData;
                         descriptor.setAxis(orientable.getAxis());
                     }
 
@@ -158,13 +207,11 @@ public class CultivationCommands extends BaseCommand {
         System.out.println("saved");
     }
 
-    @CommandCompletion("name")
-    @Subcommand("loadStructure")
-    @CommandPermission("cultivation.admin.structures")
     public void loadStructure(CommandSender sender, String name) {
-        if (!(sender instanceof Player player)) {
+        if (!(sender instanceof Player)) {
             return;
         }
+        Player player = (Player) sender;
         File file = new File(Cultivation.getInstance().getDataFolder() + File.separator + name + ".json");
         try {
             JsonReader jsonReader = new JsonReader(new FileReader(file));
@@ -176,10 +223,11 @@ public class CultivationCommands extends BaseCommand {
                 return;
             }
 
-            for (JsonElement jsonElement : jsonArray.asList()) {
-                if (!(jsonElement instanceof JsonObject object)) {
+            for (JsonElement jsonElement : jsonArray) {
+                if (!(jsonElement instanceof JsonObject)) {
                     continue;
                 }
+                JsonObject object = (JsonObject) jsonElement;
 
                 int x = object.get("x").getAsInt();
                 int y = object.get("y").getAsInt();
@@ -222,10 +270,20 @@ public class CultivationCommands extends BaseCommand {
                : "slimefun:" + slimefunItem.getId();
     }
 
-    @Subcommand("removeEntities")
-    @CommandPermission("cultivation.admin.entities")
+    private void removeEntities(CommandSender sender, String radiusArgument) {
+        int radius;
+        try {
+            radius = Integer.parseInt(radiusArgument);
+        } catch (NumberFormatException notANumber) {
+            onDefault(sender);
+            return;
+        }
+        removeDisplayGroups(sender, radius);
+    }
+
     public void removeDisplayGroups(CommandSender sender, int radius) {
-        if (sender instanceof Player player) {
+        if (sender instanceof Player) {
+            Player player = (Player) sender;
             player.getWorld().getNearbyEntities(
                 player.getLocation(),
                 radius,
@@ -241,9 +299,9 @@ public class CultivationCommands extends BaseCommand {
         }
     }
 
-    @Subcommand("packpeek")
     public void packPeek(CommandSender sender) {
-        if (sender instanceof Player player) {
+        if (sender instanceof Player) {
+            Player player = (Player) sender;
             ItemStack itemStack = player.getInventory().getItemInMainHand();
             if (itemStack == null || itemStack.getType().isAir()) {
                 player.sendMessage(Theme.WARNING.apply("You must be holding a Seed Pack for this"));
@@ -251,10 +309,11 @@ public class CultivationCommands extends BaseCommand {
             }
 
             SlimefunItem slimefunItem = SlimefunItem.getByItem(itemStack);
-            if (!(slimefunItem instanceof SeedPack pack)) {
+            if (!(slimefunItem instanceof SeedPack)) {
                 player.sendMessage(Theme.WARNING.apply("You must be holding a Seed Pack for this"));
                 return;
             }
+            SeedPack pack = (SeedPack) slimefunItem;
 
             ItemMeta itemMeta = itemStack.getItemMeta();
             SeedPackInstance instance = PersistentDataAPI.get(itemMeta, SeedPackDataType.KEY, SeedPackDataType.TYPE);

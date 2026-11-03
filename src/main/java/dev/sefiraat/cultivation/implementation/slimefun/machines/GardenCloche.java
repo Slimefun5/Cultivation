@@ -5,9 +5,9 @@ import dev.sefiraat.cultivation.api.datatypes.instances.FloraLevelProfile;
 import dev.sefiraat.cultivation.api.slimefun.items.plants.HarvestablePlant;
 import dev.sefiraat.cultivation.implementation.slimefun.items.Machines;
 import dev.sefiraat.cultivation.implementation.utils.DisplayGroupGenerators;
-import dev.sefiraat.sefilib.entity.display.DisplayGroup;
-import dev.sefiraat.sefilib.entity.display.DisplayInteractable;
-import dev.sefiraat.sefilib.string.Theme;
+import dev.sefiraat.cultivation.libs.sefilib.entity.display.DisplayGroup;
+import dev.sefiraat.cultivation.libs.sefilib.entity.display.DisplayInteractable;
+import dev.sefiraat.cultivation.libs.sefilib.string.Theme;
 import io.github.thebusybiscuit.slimefun5.libraries.dough.items.CustomItemStack;
 import io.github.thebusybiscuit.slimefun5.api.items.ItemGroup;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItem;
@@ -33,7 +33,7 @@ import org.bukkit.entity.Player;
 import org.bukkit.event.block.BlockBreakEvent;
 import org.bukkit.event.block.BlockPlaceEvent;
 import org.bukkit.inventory.ItemStack;
-import org.jetbrains.annotations.NotNull;
+import javax.annotation.Nonnull;
 
 import javax.annotation.Nonnull;
 import javax.annotation.Nullable;
@@ -67,7 +67,7 @@ public class GardenCloche extends SlimefunItem implements DisplayInteractable, E
         addItemHandler(
             new BlockPlaceHandler(false) {
                 @Override
-                public void onPlayerPlace(@NotNull BlockPlaceEvent e) {
+                public void onPlayerPlace(@Nonnull BlockPlaceEvent e) {
                     e.getBlock().setType(Material.BARRIER);
                     setupDisplay(e.getBlock().getLocation());
                 }
@@ -98,7 +98,8 @@ public class GardenCloche extends SlimefunItem implements DisplayInteractable, E
                     ItemStack possiblePlant = blockMenu.getItemInSlot(PLANT_SLOT);
                     SlimefunItem slimefunItem = SlimefunItem.getByItem(possiblePlant);
                     Location location = block.getLocation();
-                    if (slimefunItem instanceof HarvestablePlant plant) {
+                    if (slimefunItem instanceof HarvestablePlant) {
+                        HarvestablePlant plant = (HarvestablePlant) slimefunItem;
                         if (!hasDisplayPlant(location)) {
                             Bukkit.getScheduler().runTask(
                                 Cultivation.getInstance(), () -> addPlantToDisplay(location)
@@ -210,7 +211,7 @@ public class GardenCloche extends SlimefunItem implements DisplayInteractable, E
     }
 
 
-    @NotNull
+    @Nonnull
     @Override
     public EnergyNetComponentType getEnergyComponentType() {
         return EnergyNetComponentType.CONSUMER;

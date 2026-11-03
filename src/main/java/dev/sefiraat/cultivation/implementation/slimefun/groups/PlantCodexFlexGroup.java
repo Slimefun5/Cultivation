@@ -1,5 +1,7 @@
 package dev.sefiraat.cultivation.implementation.slimefun.groups;
 
+
+import com.google.common.collect.ImmutableList;
 import dev.sefiraat.cultivation.Registry;
 import dev.sefiraat.cultivation.api.slimefun.groups.CultivationGroups;
 import dev.sefiraat.cultivation.api.slimefun.items.plants.CultivationPlant;
@@ -7,7 +9,7 @@ import dev.sefiraat.cultivation.api.slimefun.items.plants.HarvestablePlant;
 import dev.sefiraat.cultivation.api.slimefun.plant.BreedingPair;
 import dev.sefiraat.cultivation.api.utils.CultivationThemes;
 import dev.sefiraat.cultivation.api.utils.StatisticUtils;
-import dev.sefiraat.sefilib.string.Theme;
+import dev.sefiraat.cultivation.libs.sefilib.string.Theme;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItem;
 import io.github.thebusybiscuit.slimefun5.api.items.groups.NestedItemGroup;
 import io.github.thebusybiscuit.slimefun5.api.player.PlayerProfile;
@@ -148,7 +150,8 @@ public class PlantCodexFlexGroup extends NestedItemGroup {
 
                 if (mode == SlimefunGuideMode.CHEAT_MODE || researched) {
                     ItemStack itemStack = new ItemStack(child.getItem().clone());
-                    if (child instanceof HarvestablePlant harvestablePlant) {
+                    if (child instanceof HarvestablePlant) {
+                        HarvestablePlant harvestablePlant = (HarvestablePlant) child;
                         ItemStack possibleStack = harvestablePlant.getHarvestingResults().getRandom();
                         if (possibleStack != null) {
                             itemStack.setType(possibleStack.getType());
@@ -276,7 +279,7 @@ public class PlantCodexFlexGroup extends NestedItemGroup {
             Material.BARRIER,
             CultivationThemes.DISCOVEREY,
             seed.getItemName(),
-            List.of(
+            ImmutableList.of(
                 Theme.ERROR + "Not Discovered",
                 "You have not yet discovered how",
                 "to breed this plant!"

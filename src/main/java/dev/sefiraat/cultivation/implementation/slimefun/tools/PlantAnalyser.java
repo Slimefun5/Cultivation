@@ -5,8 +5,8 @@ import dev.sefiraat.cultivation.api.interfaces.CultivationBushHolder;
 import dev.sefiraat.cultivation.api.interfaces.CultivationLevelProfileHolder;
 import dev.sefiraat.cultivation.api.interfaces.CultivationPlantHolder;
 import dev.sefiraat.cultivation.implementation.utils.DisplayGroupGenerators;
-import dev.sefiraat.sefilib.entity.display.DisplayGroup;
-import dev.sefiraat.sefilib.string.Theme;
+import dev.sefiraat.cultivation.libs.sefilib.entity.display.DisplayGroup;
+import dev.sefiraat.cultivation.libs.sefilib.string.Theme;
 import io.github.thebusybiscuit.slimefun5.api.events.PlayerRightClickEvent;
 import io.github.thebusybiscuit.slimefun5.api.items.ItemGroup;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItem;
@@ -38,7 +38,7 @@ public class PlantAnalyser extends SimpleSlimefunItem<ItemUseHandler> implements
     }
 
     private static void onRightClick(PlayerRightClickEvent playerRightClickEvent) {
-        if (playerRightClickEvent.getClickedBlock().isEmpty()) {
+        if (!playerRightClickEvent.getClickedBlock().isPresent()) {
             // No block preset
             return;
         }
@@ -59,7 +59,8 @@ public class PlantAnalyser extends SimpleSlimefunItem<ItemUseHandler> implements
 
     @ParametersAreNonnullByDefault
     private static void showStats(PlayerRightClickEvent event, SlimefunItem item, Block block) {
-        if (item instanceof CultivationLevelProfileHolder profileHolder) {
+        if (item instanceof CultivationLevelProfileHolder) {
+            CultivationLevelProfileHolder profileHolder = (CultivationLevelProfileHolder) item;
             FloraLevelProfile profile = profileHolder.getLevelProfile(block);
             profile.setAnalyzed(true);
             profileHolder.setLevelProfile(block.getLocation(), profile);
@@ -91,9 +92,11 @@ public class PlantAnalyser extends SimpleSlimefunItem<ItemUseHandler> implements
 
     @Nullable
     private static DisplayGroup getGroup(@Nonnull SlimefunItem item, @Nonnull Location location) {
-        if (item instanceof CultivationPlantHolder holder) {
+        if (item instanceof CultivationPlantHolder) {
+            CultivationPlantHolder holder = (CultivationPlantHolder) item;
             return holder.getPlantDisplayGroup(location);
-        } else if (item instanceof CultivationBushHolder holder) {
+        } else if (item instanceof CultivationBushHolder) {
+            CultivationBushHolder holder = (CultivationBushHolder) item;
             return holder.getBushDisplayGroup(location);
         }
         return null;

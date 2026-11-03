@@ -4,7 +4,7 @@ import dev.sefiraat.cultivation.api.datatypes.SeedPackDataType;
 import dev.sefiraat.cultivation.api.datatypes.instances.FloraLevelProfile;
 import dev.sefiraat.cultivation.api.datatypes.instances.SeedPackInstance;
 import dev.sefiraat.cultivation.api.slimefun.items.plants.CultivationPlant;
-import dev.sefiraat.sefilib.string.Theme;
+import dev.sefiraat.cultivation.libs.sefilib.string.Theme;
 import io.github.thebusybiscuit.slimefun5.api.items.ItemGroup;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItem;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
@@ -22,7 +22,7 @@ import org.bukkit.entity.Player;
 import org.bukkit.event.block.BlockPlaceEvent;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.ItemMeta;
-import org.jetbrains.annotations.NotNull;
+import javax.annotation.Nonnull;
 
 import javax.annotation.Nonnull;
 import java.util.ArrayList;
@@ -40,7 +40,7 @@ public class SeedPack extends SlimefunItem {
         addItemHandler(onRightClick());
     }
 
-    @NotNull
+    @Nonnull
     public ItemUseHandler onRightClick() {
         return playerRightClickEvent -> {
             playerRightClickEvent.cancel();
@@ -55,7 +55,7 @@ public class SeedPack extends SlimefunItem {
         };
     }
 
-    public class SeedPackGui extends ChestMenu {
+    public static class SeedPackGui extends ChestMenu {
 
         protected static final int[] BACKGROUND_SLOTS = new int[]{
             0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 13, 14, 15, 17, 18,
@@ -181,10 +181,11 @@ public class SeedPack extends SlimefunItem {
             }
 
             SlimefunItem slimefunItem = SlimefunItem.getByItem(itemStack);
-            if (!(slimefunItem instanceof CultivationPlant plant)) {
+            if (!(slimefunItem instanceof CultivationPlant)) {
                 player.sendMessage(Theme.WARNING.apply("The item must be a Cultivation Plant Seed"));
                 return false;
             }
+            CultivationPlant plant = (CultivationPlant) slimefunItem;
 
             if (!instance.isEmpty()) {
                 player.sendMessage(Theme.WARNING.apply("You must empty a pack before changing the type."));
@@ -200,10 +201,11 @@ public class SeedPack extends SlimefunItem {
 
         private boolean onClickSeedGetSlot(Player player, int slot, ItemStack item, ClickAction action) {
             SlimefunItem slimefunItem = SlimefunItem.getById(instance.storedItemId);
-            if (!(slimefunItem instanceof CultivationPlant plant)) {
+            if (!(slimefunItem instanceof CultivationPlant)) {
                 player.sendMessage(Theme.WARNING.apply("You have not set a plant yet."));
                 return false;
             }
+            CultivationPlant plant = (CultivationPlant) slimefunItem;
 
             int amount = instance.getAmount(level, speed, strength);
             if (amount < 1) {
@@ -227,20 +229,22 @@ public class SeedPack extends SlimefunItem {
 
         private void setInputStack() {
             SlimefunItem slimefunItem = SlimefunItem.getById(instance.storedItemId);
-            if (!(slimefunItem instanceof CultivationPlant plant)) {
+            if (!(slimefunItem instanceof CultivationPlant)) {
                 replaceExistingItem(SEED_SET_SLOT, NO_SEED_SET_STACK);
                 return;
             }
+            CultivationPlant plant = (CultivationPlant) slimefunItem;
             ItemStack itemStack = getSeedDisplayStack(plant);
             replaceExistingItem(SEED_SET_SLOT, itemStack);
         }
 
         private void setOutputStack() {
             SlimefunItem slimefunItem = SlimefunItem.getById(instance.storedItemId);
-            if (!(slimefunItem instanceof CultivationPlant plant)) {
+            if (!(slimefunItem instanceof CultivationPlant)) {
                 replaceExistingItem(SEED_PICKUP_SLOT, NO_SEED_SET_STACK);
                 return;
             }
+            CultivationPlant plant = (CultivationPlant) slimefunItem;
             int amount = instance.getAmount(level, speed, strength);
             ItemStack itemStack = getSeedGetStack(plant, amount);
             replaceExistingItem(SEED_PICKUP_SLOT, itemStack);

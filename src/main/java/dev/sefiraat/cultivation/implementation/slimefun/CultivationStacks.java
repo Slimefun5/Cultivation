@@ -1,9 +1,11 @@
 package dev.sefiraat.cultivation.implementation.slimefun;
 
+
+import com.google.common.collect.ImmutableList;
 import dev.sefiraat.cultivation.api.utils.CultivationThemes;
 import dev.sefiraat.cultivation.api.utils.Skins;
-import dev.sefiraat.sefilib.itemstacks.ItemStackGenerators;
-import dev.sefiraat.sefilib.string.Theme;
+import dev.sefiraat.cultivation.libs.sefilib.itemstacks.ItemStackGenerators;
+import dev.sefiraat.cultivation.libs.sefilib.string.Theme;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
 import io.github.thebusybiscuit.slimefun5.utils.LoreBuilder;
 import org.bukkit.Color;
@@ -25,7 +27,7 @@ public final class CultivationStacks {
         new ItemStack(Material.ACACIA_SAPLING),
         CultivationThemes.SAPLING,
         "Cultivation Tree: Banana",
-        List.of(
+        ImmutableList.of(
             "A tree that grows fingers, grim!"
         )
     );
@@ -35,7 +37,7 @@ public final class CultivationStacks {
         new ItemStack(Material.ACACIA_SAPLING),
         CultivationThemes.SAPLING,
         "Cultivation Tree: Lemon",
-        List.of(
+        ImmutableList.of(
             "Just looking at this tree taste sour."
         )
     );
@@ -45,7 +47,7 @@ public final class CultivationStacks {
         new ItemStack(Material.JUNGLE_SAPLING),
         CultivationThemes.SAPLING,
         "Cultivation Tree: Orange",
-        List.of(
+        ImmutableList.of(
             "Little orbs of sunshine."
         )
     );
@@ -55,7 +57,7 @@ public final class CultivationStacks {
         new ItemStack(Material.BIRCH_SAPLING),
         CultivationThemes.SAPLING,
         "Cultivation Tree: Green Apple",
-        List.of(
+        ImmutableList.of(
             "Grows large and crisp green apples."
         )
     );
@@ -65,7 +67,7 @@ public final class CultivationStacks {
         new ItemStack(Material.JUNGLE_SAPLING),
         CultivationThemes.SAPLING,
         "Cultivation Tree: Pineapple",
-        List.of(
+        ImmutableList.of(
             "WHERE IS MY PIZZA?"
         )
     );
@@ -75,7 +77,7 @@ public final class CultivationStacks {
         new ItemStack(Material.OAK_SAPLING),
         CultivationThemes.SAPLING,
         "Cultivation Tree: Mango",
-        List.of(
+        ImmutableList.of(
             "Best when at it's ripest."
         )
     );
@@ -85,7 +87,7 @@ public final class CultivationStacks {
         new ItemStack(Material.BIRCH_SAPLING),
         CultivationThemes.SAPLING,
         "Cultivation Tree: Peach",
-        List.of(
+        ImmutableList.of(
             "James was looking for this, I think?"
         )
     );
@@ -95,7 +97,7 @@ public final class CultivationStacks {
         new ItemStack(Material.BIRCH_SAPLING),
         CultivationThemes.SAPLING,
         "Cultivation Tree: Apricot",
-        List.of(
+        ImmutableList.of(
             "Inside is a single pit of despair."
         )
     );
@@ -105,7 +107,7 @@ public final class CultivationStacks {
         new ItemStack(Material.ACACIA_SAPLING),
         CultivationThemes.SAPLING,
         "Cultivation Tree: Pear",
-        List.of(
+        ImmutableList.of(
             "A Pair of Pears were paired for parity."
         )
     );
@@ -115,7 +117,7 @@ public final class CultivationStacks {
         new ItemStack(Material.OAK_SAPLING),
         CultivationThemes.SAPLING,
         "Cultivation Tree: Cherry",
-        List.of(
+        ImmutableList.of(
             "Tie the knot!"
         )
     );
@@ -125,7 +127,7 @@ public final class CultivationStacks {
         new ItemStack(Material.BIRCH_SAPLING),
         CultivationThemes.SAPLING,
         "Cultivation Tree: Kiwi",
-        List.of(
+        ImmutableList.of(
             "A New Zealand Tree? Have I got that right?"
         )
     );
@@ -135,7 +137,7 @@ public final class CultivationStacks {
         new ItemStack(Material.JUNGLE_SAPLING),
         CultivationThemes.SAPLING,
         "Cultivation Tree: Lime",
-        List.of(
+        ImmutableList.of(
             "Did you know Limes are just Lemons holding their breath?"
         )
     );
@@ -145,7 +147,7 @@ public final class CultivationStacks {
         new ItemStack(Material.OAK_SAPLING),
         CultivationThemes.SAPLING,
         "Cultivation Tree: Chestnut",
-        List.of(
+        ImmutableList.of(
             "A tree clearly designed to be climbed."
         )
     );
@@ -155,7 +157,7 @@ public final class CultivationStacks {
         new ItemStack(Material.OAK_SAPLING),
         CultivationThemes.SAPLING,
         "Cultivation Tree: Hazelnut",
-        List.of(
+        ImmutableList.of(
             "Shaking this tree is a childhood past-time."
         )
     );
@@ -165,7 +167,7 @@ public final class CultivationStacks {
         new ItemStack(Material.BIRCH_SAPLING),
         CultivationThemes.SAPLING,
         "Cultivation Tree: Pecan",
-        List.of(
+        ImmutableList.of(
             "Can we grow this tree? Yes pe-can!"
         )
     );
@@ -179,7 +181,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_PURPLE_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Grape",
-        List.of(
+        ImmutableList.of(
             "Ripe and juicy grapes that practically fall",
             "off the bush."
         )
@@ -190,7 +192,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_GREEN_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Peanuts",
-        List.of(
+        ImmutableList.of(
             "Solid and fragrant and full of protein."
         )
     );
@@ -200,7 +202,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_RED_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Strawberry",
-        List.of(
+        ImmutableList.of(
             "Solid and fragrant and full of protein."
         )
     );
@@ -210,7 +212,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_YELLOW_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Rice",
-        List.of(
+        ImmutableList.of(
             "The ultimate staple food."
         )
     );
@@ -220,7 +222,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_YELLOW_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Garlic",
-        List.of(
+        ImmutableList.of(
             "This bush has simply the worst breath."
         )
     );
@@ -230,7 +232,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_RED_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Cayenne Pepper",
-        List.of(
+        ImmutableList.of(
             "A bush with a peppery attitude."
         )
     );
@@ -240,7 +242,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_RED_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Tomato",
-        List.of(
+        ImmutableList.of(
             "Ripe and ready."
         )
     );
@@ -250,7 +252,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_RED_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Bell Pepper",
-        List.of(
+        ImmutableList.of(
             "Careful walking by this, you may ring",
             "the bell."
         )
@@ -261,7 +263,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_YELLOW_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Onion",
-        List.of(
+        ImmutableList.of(
             "Does this bush look like it's tearing up?"
         )
     );
@@ -271,7 +273,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_GREEN_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Peas",
-        List.of(
+        ImmutableList.of(
             "I prefer Q's"
         )
     );
@@ -281,7 +283,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_BLUE_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Rapeseed",
-        List.of(
+        ImmutableList.of(
             "This bush is exuding some oily substance."
         )
     );
@@ -291,7 +293,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_GREEN_4.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Lettuce",
-        List.of(
+        ImmutableList.of(
             "Does lettuce even grow on bushes?",
             "Spoiler: No, it doesn't."
         )
@@ -302,7 +304,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_YELLOW_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Mustard Seeds",
-        List.of(
+        ImmutableList.of(
             "Like fire in your mouth."
         )
     );
@@ -312,7 +314,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_GREEN_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Broccoli",
-        List.of(
+        ImmutableList.of(
             "Tiny trees you can eat? Who invented this!?"
         )
     );
@@ -322,7 +324,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_ORANGE_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Cinnamon",
-        List.of(
+        ImmutableList.of(
             "A delightfully fragrant bush."
         )
     );
@@ -332,7 +334,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_GREEN_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Basil",
-        List.of(
+        ImmutableList.of(
             "A light hearted bush full of whimsy."
         )
     );
@@ -342,7 +344,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_GREEN_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Bay Leaf",
-        List.of(
+        ImmutableList.of(
             "The smell of this bush travels for miles."
         )
     );
@@ -352,7 +354,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_GREEN_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Cilantro",
-        List.of(
+        ImmutableList.of(
             "A faint citrus and spice smell comes from this bush."
         )
     );
@@ -362,7 +364,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_BLUE_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Chicory",
-        List.of(
+        ImmutableList.of(
             "I thought chicory was a root? Does this addon",
             "even do it's research!?"
         )
@@ -373,7 +375,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_GREEN_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Chives",
-        List.of(
+        ImmutableList.of(
             "A bush that produces what is, effectively, the world's",
             "smallest onion."
         )
@@ -384,7 +386,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_GREEN_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Clove",
-        List.of(
+        ImmutableList.of(
             "A bush that just reminds me of Christmas."
         )
     );
@@ -394,7 +396,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_YELLOW_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Cumin",
-        List.of(
+        ImmutableList.of(
             "A bush that lets of a warm citrus aroma."
         )
     );
@@ -404,7 +406,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_RED_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Chilli Pepper",
-        List.of(
+        ImmutableList.of(
             "Just looking at this bush burns my tongue."
         )
     );
@@ -414,7 +416,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_RED_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Curry Leaf",
-        List.of(
+        ImmutableList.of(
             "Best when dry roasted."
         )
     );
@@ -424,7 +426,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_GREEN_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Dill",
-        List.of(
+        ImmutableList.of(
             "This bush grows much faster than others."
         )
     );
@@ -434,7 +436,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_GREEN_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Fennel",
-        List.of(
+        ImmutableList.of(
             "Why does this bush repel bugs!?"
         )
     );
@@ -444,7 +446,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_YELLOW_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Ginger",
-        List.of(
+        ImmutableList.of(
             "This bush is nice when boiled whole."
         )
     );
@@ -454,7 +456,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_YELLOW_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Horseradish",
-        List.of(
+        ImmutableList.of(
             "Again, this growing on a bush just doesn't make sense."
         )
     );
@@ -464,7 +466,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_YELLOW_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Jasmine",
-        List.of(
+        ImmutableList.of(
             "The scent from this bush is so soft and mellow."
         )
     );
@@ -474,7 +476,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_BLUE_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Juniper Berry",
-        List.of(
+        ImmutableList.of(
             "So sweet on the bush, peppery when dried."
         )
     );
@@ -484,7 +486,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_GREEN_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Kaffir Lime",
-        List.of(
+        ImmutableList.of(
             "A bush whose leafs are more wanted than it's fruit."
         )
     );
@@ -494,7 +496,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_PURPLE_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Lavender",
-        List.of(
+        ImmutableList.of(
             "This bush wafts it's smell everywhere."
         )
     );
@@ -504,7 +506,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_YELLOW_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Licorice",
-        List.of(
+        ImmutableList.of(
             "Gross"
         )
     );
@@ -514,7 +516,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_PURPLE_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Mace",
-        List.of(
+        ImmutableList.of(
             "This bush seems to be repelling attackers?"
         )
     );
@@ -524,7 +526,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_YELLOW_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Marjoram",
-        List.of(
+        ImmutableList.of(
             "A large woody smelling bush."
         )
     );
@@ -534,7 +536,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_GREEN_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Mint",
-        List.of(
+        ImmutableList.of(
             "Simply the best smelling bush."
         )
     );
@@ -544,7 +546,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_GREEN_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Oregano",
-        List.of(
+        ImmutableList.of(
             "This pungent smelling bush deters visitors."
         )
     );
@@ -554,7 +556,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_GREEN_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Parsley",
-        List.of(
+        ImmutableList.of(
             "Throw this bush in lava, now :D"
         )
     );
@@ -564,7 +566,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_GREEN_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Rosemary",
-        List.of(
+        ImmutableList.of(
             "A bush whose smell reminds people of sunday lunches."
         )
     );
@@ -574,7 +576,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_GREEN_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Sassafras",
-        List.of(
+        ImmutableList.of(
             "This bush love to be planted near small bodies",
             "of water."
         )
@@ -585,7 +587,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_PURPLE_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Shiso",
-        List.of(
+        ImmutableList.of(
             "I like to think this bush is the love child",
             "of a mint bush and a basil bush. Too bad",
             "bush breeding isn't a thing!"
@@ -597,7 +599,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_ORANGE_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Star Anise",
-        List.of(
+        ImmutableList.of(
             "A small comes off this bush that is so unique",
             "to anise, you can't even believe."
         )
@@ -608,7 +610,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_GREEN_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Tarragon",
-        List.of(
+        ImmutableList.of(
             "This bush doesn't like to draw too much attention."
         )
     );
@@ -618,7 +620,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_GREEN_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Thyme",
-        List.of(
+        ImmutableList.of(
             "This bush is always running out of... Thyme... *cough*"
         )
     );
@@ -628,7 +630,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_YELLOW_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Turmeric",
-        List.of(
+        ImmutableList.of(
             "A waft of spice hits your nose just",
             "holding this bush."
         )
@@ -639,7 +641,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_YELLOW_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Vanilla",
-        List.of(
+        ImmutableList.of(
             "This bush grows natively near StarBucks locations."
         )
     );
@@ -649,7 +651,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_GREEN_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Wasabi",
-        List.of(
+        ImmutableList.of(
             "Another root growing off of a bush?",
             "Sigh..."
         )
@@ -660,7 +662,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_YELLOW_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Artichoke",
-        List.of(
+        ImmutableList.of(
             "By far the best bush to strangle an",
             "artist with. Sigh. Puns be hard."
         )
@@ -671,7 +673,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_PURPLE_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Aubergine",
-        List.of(
+        ImmutableList.of(
             "I refuse to use the word eggplant. I just do."
         )
     );
@@ -681,7 +683,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_GREEN_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Asparagus",
-        List.of(
+        ImmutableList.of(
             "This asparagus bush makes a good",
             "stalker!"
         )
@@ -692,7 +694,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_GREEN_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Brussels Sprouts",
-        List.of(
+        ImmutableList.of(
             "A bush that can sometimes produce noxious",
             "gas."
         )
@@ -703,7 +705,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_PURPLE_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Cabbage",
-        List.of(
+        ImmutableList.of(
             "A bush that comes with a large amount of",
             "emotional cabbage."
         )
@@ -714,7 +716,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_YELLOW_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Cauliflower",
-        List.of(
+        ImmutableList.of(
             "A bush capable of producing little clouds",
             "of delight."
         )
@@ -725,7 +727,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_GREEN_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Celery",
-        List.of(
+        ImmutableList.of(
             "This bush is redundant.",
             "Sefi doesn't like Celery."
         )
@@ -736,7 +738,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_GREEN_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Kale",
-        List.of(
+        ImmutableList.of(
             "When you plant this bush, you get the feeling",
             "that everything is going to be o-kale."
         )
@@ -747,7 +749,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_GREEN_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Spinach",
-        List.of(
+        ImmutableList.of(
             "This bush is Popeye's best friend."
         )
     );
@@ -757,7 +759,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_PURPLE_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Black Beans",
-        List.of(
+        ImmutableList.of(
             "This bush gently whispers to you:",
             "You are a great human bean."
         )
@@ -768,7 +770,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_GREEN_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Green Beans",
-        List.of(
+        ImmutableList.of(
             "Throw tomato sauce over this bush to make",
             "baked beans."
         )
@@ -779,7 +781,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_ORANGE_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Chickpeas",
-        List.of(
+        ImmutableList.of(
             "A bush made by breeding a chicken with",
             "a pea. SCIENCE."
         )
@@ -790,7 +792,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_YELLOW_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Soy Beans",
-        List.of(
+        ImmutableList.of(
             "This bush is a friendly delight. It makes",
             "me soy happy."
         )
@@ -801,7 +803,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_PURPLE_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Pinto Beans",
-        List.of(
+        ImmutableList.of(
             "It wont be long until we successfully breed",
             "a direct-burrito bush, right?"
         )
@@ -812,7 +814,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_GREEN_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Runner Beans",
-        List.of(
+        ImmutableList.of(
             "This bush has feet o.o?"
         )
     );
@@ -822,7 +824,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_GREEN_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Nettles",
-        List.of(
+        ImmutableList.of(
             "Be careful when walking through this bush!"
         )
     );
@@ -832,7 +834,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_PURPLE_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Okra",
-        List.of(
+        ImmutableList.of(
             "Voted the number 1 vegetable according to",
             "Okra Winfrey's Vegetable Club."
         )
@@ -843,7 +845,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_GREEN_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Leek",
-        List.of(
+        ImmutableList.of(
             "Did you know a leek is just an onion that",
             "wears a corset? True story."
         )
@@ -854,7 +856,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_PURPLE_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Shallot",
-        List.of(
+        ImmutableList.of(
             "This bush rapidly produces lovely mini onions.",
             "Luckily you don't need a shallot."
         )
@@ -865,7 +867,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_RED_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Jalapeno",
-        List.of(
+        ImmutableList.of(
             "Just holding this bush gives you a",
             "1% change to set ablaze."
         )
@@ -876,7 +878,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_PURPLE_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Radicchio",
-        List.of(
+        ImmutableList.of(
             "Want to sound fancy? But Radicchio into any",
             "meal - it's basically like cabbage but",
             "makes you seem refined."
@@ -888,7 +890,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_PURPLE_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Rhubarb",
-        List.of(
+        ImmutableList.of(
             "Did you know rhubarb was a vegetable?",
             "I thought it was a type of hammer."
         )
@@ -899,7 +901,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_ORANGE_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Celeriac",
-        List.of(
+        ImmutableList.of(
             "Yet another root growing off of a bush?",
             "SefiDumb™"
         )
@@ -910,7 +912,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_YELLOW_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Parsnip",
-        List.of(
+        ImmutableList.of(
             "Just skip the middleman and roast the bush",
             "directly."
         )
@@ -921,7 +923,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_PURPLE_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Rutabaga",
-        List.of(
+        ImmutableList.of(
             "Swede. Its a swede."
         )
     );
@@ -931,7 +933,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_RED_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Raddish",
-        List.of(
+        ImmutableList.of(
             "This plant just did a skateboarding trick.",
             "Totally Rad...ish."
         )
@@ -942,7 +944,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_PURPLE_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Sweet Potato",
-        List.of(
+        ImmutableList.of(
             "This bush is just so sweet. I heard it",
             "complimenting you while you weren't listening."
         )
@@ -953,7 +955,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_ORANGE_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Turnip",
-        List.of(
+        ImmutableList.of(
             "According to the British Government",
             "this bush will solve all our problems."
         )
@@ -964,7 +966,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_YELLOW_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Sweetcorn",
-        List.of(
+        ImmutableList.of(
             "This bush is just crying out to be built into",
             "a maze."
         )
@@ -975,7 +977,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_GREEN_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Courgette",
-        List.of(
+        ImmutableList.of(
             "Why does this bush just keep shouting the",
             "word Zucchini? I guess it must be american?"
         )
@@ -986,7 +988,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_GREEN_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Cucumber",
-        List.of(
+        ImmutableList.of(
             "This bush was designed solely for the purposes",
             "of your lovely summer salads."
         )
@@ -997,7 +999,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_GREEN_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Marrow",
-        List.of(
+        ImmutableList.of(
             "I'm surprised this bush can hold it's",
             "own weight."
         )
@@ -1008,7 +1010,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_GREEN_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Avocado",
-        List.of(
+        ImmutableList.of(
             "This bush has been bred specifically to not",
             "use too much water."
         )
@@ -1019,7 +1021,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_GREEN_4.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Green Onion",
-        List.of(
+        ImmutableList.of(
             "Also known as Scallions.",
             "Green Onions generally have a",
             "milder taste than most onions."
@@ -1031,7 +1033,7 @@ public final class CultivationStacks {
         Skins.SPIKEY_PURPLE_5.getPlayerHead(),
         CultivationThemes.BUSH,
         "Cultivation Bush: Black Pepper",
-        List.of(
+        ImmutableList.of(
             "Black Pepper was an important part of the",
             "spice trade between India and Europe",
             "as early as Greek and Roman times."
@@ -1047,7 +1049,7 @@ public final class CultivationStacks {
         Skins.SEED_RED.getPlayerHead(),
         CultivationThemes.PLANT,
         "Primal Plant: Darkness",
-        List.of(
+        ImmutableList.of(
             "A plant that seethes in unbridled",
             "rage.",
             "",
@@ -1061,7 +1063,7 @@ public final class CultivationStacks {
         Skins.SEED_YELLOW.getPlayerHead(),
         CultivationThemes.PLANT,
         "Primal Plant: Light",
-        List.of(
+        ImmutableList.of(
             "A plant that exudes an aura",
             "of pure love.",
             "",
@@ -1075,7 +1077,7 @@ public final class CultivationStacks {
         Skins.SEED_GREEN.getPlayerHead(),
         CultivationThemes.PLANT,
         "Primal Plant: Earth",
-        List.of(
+        ImmutableList.of(
             "A plant that enriches the world",
             "surrounding it.",
             "",
@@ -1089,7 +1091,7 @@ public final class CultivationStacks {
         Skins.SEED_BLUE.getPlayerHead(),
         CultivationThemes.PLANT,
         "Primal Plant: Water",
-        List.of(
+        ImmutableList.of(
             "A plant that nurtures and provides",
             "life to the surrounding area.",
             "",
@@ -1103,7 +1105,7 @@ public final class CultivationStacks {
         Skins.SEED_RED.getPlayerHead(),
         CultivationThemes.PLANT,
         "Primal Plant: Fire",
-        List.of(
+        ImmutableList.of(
             "A plant that both provides the",
             "sources of destruction as well as",
             "rebirth.",
@@ -1118,7 +1120,7 @@ public final class CultivationStacks {
         Skins.SEED_CYAN.getPlayerHead(),
         CultivationThemes.PLANT,
         "Primal Plant: Air",
-        List.of(
+        ImmutableList.of(
             "A plant that quietly hums with",
             "the melody of the surrounding nature.",
             "",
@@ -1132,7 +1134,7 @@ public final class CultivationStacks {
         Skins.SEED_RED.getPlayerHead(),
         CultivationThemes.PLANT,
         "Primal Plant: Power",
-        List.of(
+        ImmutableList.of(
             "A plant that positively exudes power.",
             "",
             Theme.WARNING.apply("Primal plants dont produce items"),
@@ -1145,7 +1147,7 @@ public final class CultivationStacks {
         Skins.SEED_ORANGE.getPlayerHead(),
         CultivationThemes.PLANT,
         "Primal Plant: Wealth",
-        List.of(
+        ImmutableList.of(
             "A plant that just screams exuberant wealth.",
             "",
             Theme.WARNING.apply("Primal plants dont produce items"),
@@ -1158,7 +1160,7 @@ public final class CultivationStacks {
         Skins.SEED_BLUE.getPlayerHead(),
         CultivationThemes.PLANT,
         "Primal Plant: Spectrum",
-        List.of(
+        ImmutableList.of(
             "A plant that slightly shifts it's color.",
             "",
             Theme.WARNING.apply("Primal plants dont produce items"),
@@ -1171,7 +1173,7 @@ public final class CultivationStacks {
         Skins.SEED_PURPLE.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Dirt",
-        List.of(
+        ImmutableList.of(
             "Dirty on the surface but holding the",
             "building blocks for life itself."
         )
@@ -1182,7 +1184,7 @@ public final class CultivationStacks {
         Skins.SEED_GREEN.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Grass",
-        List.of(
+        ImmutableList.of(
             "The burgeoning life bound fourth",
             "from the ground."
         )
@@ -1193,7 +1195,7 @@ public final class CultivationStacks {
         Skins.SEED_ORANGE.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Flowering",
-        List.of(
+        ImmutableList.of(
             "A beautiful cornucopia presented well."
         )
     );
@@ -1203,7 +1205,7 @@ public final class CultivationStacks {
         Skins.SEED_GREEN.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Vine",
-        List.of(
+        ImmutableList.of(
             "A plant that instantly tangles itself",
             "up."
         )
@@ -1214,7 +1216,7 @@ public final class CultivationStacks {
         Skins.SEED_YELLOW.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Sand",
-        List.of(
+        ImmutableList.of(
             "This plant can sometimes crumble apart",
             "at a single touch."
         )
@@ -1225,7 +1227,7 @@ public final class CultivationStacks {
         Skins.SEED_RED.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Red Sand",
-        List.of(
+        ImmutableList.of(
             "This plant can sometimes crumble apart",
             "at a single touch - but... red-er."
         )
@@ -1236,7 +1238,7 @@ public final class CultivationStacks {
         Skins.SEED_GREEN.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Moss",
-        List.of(
+        ImmutableList.of(
             "This plant tends to spread uncontrollably."
         )
     );
@@ -1246,7 +1248,7 @@ public final class CultivationStacks {
         Skins.SEED_GREEN.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Sapling",
-        List.of(
+        ImmutableList.of(
             "This plant doesn't even make sense..."
         )
     );
@@ -1256,7 +1258,7 @@ public final class CultivationStacks {
         Skins.SEED_RED.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Mushroom",
-        List.of(
+        ImmutableList.of(
             "Yup, a plant that makes mushrooms.",
             "Everything is totally normal over here."
         )
@@ -1267,7 +1269,7 @@ public final class CultivationStacks {
         Skins.SEED_RED.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Wither Rose",
-        List.of(
+        ImmutableList.of(
             "This plant, somehow, pulsates a harmful",
             "aura around itself."
         )
@@ -1278,7 +1280,7 @@ public final class CultivationStacks {
         Skins.SEED_PURPLE.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Dark Flora",
-        List.of(
+        ImmutableList.of(
             "A silent evil sits within this simple seed."
         )
     );
@@ -1288,7 +1290,7 @@ public final class CultivationStacks {
         Skins.SEED_YELLOW.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Glowing Vine",
-        List.of(
+        ImmutableList.of(
             "A faint light emits from within this seed."
         )
     );
@@ -1298,7 +1300,7 @@ public final class CultivationStacks {
         Skins.SEED_BLUE.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Dim Lit",
-        List.of(
+        ImmutableList.of(
             "A very dim light emits from within this seed."
         )
     );
@@ -1308,7 +1310,7 @@ public final class CultivationStacks {
         Skins.SEED_PURPLE.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Cow",
-        List.of(
+        ImmutableList.of(
             "If you hold this seed up to your ear",
             "and listen very carefully, you can hear",
             "an occasional mooing."
@@ -1320,7 +1322,7 @@ public final class CultivationStacks {
         Skins.SEED_CYAN.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Chicken",
-        List.of(
+        ImmutableList.of(
             "Rumour says that if you hold this",
             "seed above your head and jump from a",
             "high place, you will glide rather than",
@@ -1333,7 +1335,7 @@ public final class CultivationStacks {
         Skins.SEED_BLUE.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Fish",
-        List.of(
+        ImmutableList.of(
             "A ripe smell emanates from this seed."
         )
     );
@@ -1343,7 +1345,7 @@ public final class CultivationStacks {
         Skins.SEED_GREEN.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Turtle",
-        List.of(
+        ImmutableList.of(
             "A seed surrounded by a rock hard shell."
         )
     );
@@ -1353,7 +1355,7 @@ public final class CultivationStacks {
         Skins.SEED_YELLOW.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Villager",
-        List.of(
+        ImmutableList.of(
             "Yup, we condensed the essence of a villager",
             "into a plant. Apparently it hurt a lot."
         )
@@ -1364,7 +1366,7 @@ public final class CultivationStacks {
         Skins.SEED_ORANGE.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Rabbit",
-        List.of(
+        ImmutableList.of(
             "Bugs would be proud."
         )
     );
@@ -1374,7 +1376,7 @@ public final class CultivationStacks {
         Skins.SEED_YELLOW.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Sheep",
-        List.of(
+        ImmutableList.of(
             "A plant with a coarse woolly texture."
         )
     );
@@ -1384,7 +1386,7 @@ public final class CultivationStacks {
         Skins.SEED_RED.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Pig",
-        List.of(
+        ImmutableList.of(
             "A plant that snorts randomly."
         )
     );
@@ -1394,7 +1396,7 @@ public final class CultivationStacks {
         Skins.SEED_YELLOW.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Bee",
-        List.of(
+        ImmutableList.of(
             "A plant with a very small, delicate, set of wings."
         )
     );
@@ -1404,7 +1406,7 @@ public final class CultivationStacks {
         Skins.SEED_PURPLE.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Squid",
-        List.of(
+        ImmutableList.of(
             "Be careful, just touching this plant",
             "has the chance to explode ink all over",
             "the place."
@@ -1416,7 +1418,7 @@ public final class CultivationStacks {
         Skins.SEED_GREEN.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Glow Squid",
-        List.of(
+        ImmutableList.of(
             "A glittering plant with a faint glow."
         )
     );
@@ -1426,7 +1428,7 @@ public final class CultivationStacks {
         Skins.SEED_GREEN.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Frog",
-        List.of(
+        ImmutableList.of(
             "Ribbit!"
         )
     );
@@ -1436,7 +1438,7 @@ public final class CultivationStacks {
         Skins.SEED_ORANGE.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Goat",
-        List.of(
+        ImmutableList.of(
             "A randomly violent plant that loves",
             "to jump around."
         )
@@ -1447,7 +1449,7 @@ public final class CultivationStacks {
         Skins.SEED_BLUE.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Rainbow",
-        List.of(
+        ImmutableList.of(
             "There may or may not be a pot of gold",
             "at the end of this plant."
         )
@@ -1458,7 +1460,7 @@ public final class CultivationStacks {
         Skins.SEED_YELLOW.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Waxy",
-        List.of(
+        ImmutableList.of(
             "The sap from this plant forms into",
             "perfect candle shaped wax."
         )
@@ -1469,7 +1471,7 @@ public final class CultivationStacks {
         Skins.SEED_PURPLE.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Woolly",
-        List.of(
+        ImmutableList.of(
             "A woolly plant, from root to petals!."
         )
     );
@@ -1479,7 +1481,7 @@ public final class CultivationStacks {
         Skins.SEED_PURPLE.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Terra",
-        List.of(
+        ImmutableList.of(
             "A hard earthy plant that cracks under pressure."
         )
     );
@@ -1489,7 +1491,7 @@ public final class CultivationStacks {
         Skins.SEED_ORANGE.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Glazed",
-        List.of(
+        ImmutableList.of(
             "A plant that grows with an intricate design."
         )
     );
@@ -1499,7 +1501,7 @@ public final class CultivationStacks {
         Skins.SEED_YELLOW.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Dusty",
-        List.of(
+        ImmutableList.of(
             "This plant needs special care, the slightest",
             "strong breeze can be enough to make it fall",
             "apart."
@@ -1511,7 +1513,7 @@ public final class CultivationStacks {
         Skins.SEED_CYAN.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Concrete",
-        List.of(
+        ImmutableList.of(
             "This plant struggle to grow as it",
             "hardens so quickly."
         )
@@ -1522,7 +1524,7 @@ public final class CultivationStacks {
         Skins.SEED_CYAN.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Stained",
-        List.of(
+        ImmutableList.of(
             "This plant splits light into a veritable",
             "spectrum to nearby objects."
         )
@@ -1533,7 +1535,7 @@ public final class CultivationStacks {
         Skins.SEED_PURPLE.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Cobblestone",
-        List.of(
+        ImmutableList.of(
             "This plant is hard as a rock."
         )
     );
@@ -1543,7 +1545,7 @@ public final class CultivationStacks {
         Skins.SEED_PURPLE.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Gravel",
-        List.of(
+        ImmutableList.of(
             "This plant really doesn't know how",
             "to keep itself together."
         )
@@ -1554,7 +1556,7 @@ public final class CultivationStacks {
         Skins.SEED_PURPLE.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Clay",
-        List.of(
+        ImmutableList.of(
             "This plant can be formed and reshaped freely.",
             "That doesn't mean it's a good idea to do so,",
             "though!"
@@ -1566,7 +1568,7 @@ public final class CultivationStacks {
         Skins.SEED_BLUE.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Igneous",
-        List.of(
+        ImmutableList.of(
             "This plant has been formed by heat and",
             "pressure. Don't look at me like that! All",
             "these plant descriptions make total sense."
@@ -1578,7 +1580,7 @@ public final class CultivationStacks {
         Skins.SEED_BLUE.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Deepslate",
-        List.of(
+        ImmutableList.of(
             "Deep, slatey, <insert lore here>."
         )
     );
@@ -1588,7 +1590,7 @@ public final class CultivationStacks {
         Skins.SEED_BLUE.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Reinforced",
-        List.of(
+        ImmutableList.of(
             "A plant that is able to hold itself up",
             "through anything."
         )
@@ -1599,7 +1601,7 @@ public final class CultivationStacks {
         Skins.SEED_PURPLE.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Blackstone",
-        List.of(
+        ImmutableList.of(
             "A plant that has been known to absorb light."
         )
     );
@@ -1609,7 +1611,7 @@ public final class CultivationStacks {
         Skins.SEED_RED.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Netherrack",
-        List.of(
+        ImmutableList.of(
             "A tough hardy plant able to survive",
             "in most locales."
         )
@@ -1620,7 +1622,7 @@ public final class CultivationStacks {
         Skins.SEED_PURPLE.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Dark Grass",
-        List.of(
+        ImmutableList.of(
             "A plant that has really lost it's",
             "identity."
         )
@@ -1631,7 +1633,7 @@ public final class CultivationStacks {
         Skins.SEED_RED.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Magma",
-        List.of(
+        ImmutableList.of(
             "A plant that's so hot it burns it's",
             "surroundings."
         )
@@ -1642,7 +1644,7 @@ public final class CultivationStacks {
         Skins.SEED_RED.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Soul",
-        List.of(
+        ImmutableList.of(
             "A plant that can be heard screaming",
             "when its quiet."
         )
@@ -1653,7 +1655,7 @@ public final class CultivationStacks {
         Skins.SEED_PURPLE.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Basalt",
-        List.of(
+        ImmutableList.of(
             "A very boring and dull plant."
         )
     );
@@ -1663,7 +1665,7 @@ public final class CultivationStacks {
         Skins.SEED_YELLOW.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Glass",
-        List.of(
+        ImmutableList.of(
             "At the right angle, you could",
             "swear you can see through this plant."
         )
@@ -1674,7 +1676,7 @@ public final class CultivationStacks {
         Skins.SEED_BLUE.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Mud",
-        List.of(
+        ImmutableList.of(
             "A plant that is nearly as dirty as",
             "the ground it comes from."
         )
@@ -1685,7 +1687,7 @@ public final class CultivationStacks {
         Skins.SEED_YELLOW.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: End Stone",
-        List.of(
+        ImmutableList.of(
             "A plant that hums with the void."
         )
     );
@@ -1695,7 +1697,7 @@ public final class CultivationStacks {
         Skins.SEED_PURPLE.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Purpur",
-        List.of(
+        ImmutableList.of(
             "An odd plant, seems far lighter",
             "than most."
         )
@@ -1706,7 +1708,7 @@ public final class CultivationStacks {
         Skins.SEED_RED.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Coal",
-        List.of(
+        ImmutableList.of(
             "A plant that holds such potential."
         )
     );
@@ -1716,7 +1718,7 @@ public final class CultivationStacks {
         Skins.SEED_RED.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Raw Iron",
-        List.of(
+        ImmutableList.of(
             "A sturdy plant able to withstand most",
             "environments."
         )
@@ -1727,7 +1729,7 @@ public final class CultivationStacks {
         Skins.SEED_ORANGE.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Raw Copper",
-        List.of(
+        ImmutableList.of(
             "If left alone, this plant sometimes",
             "attracts lightning."
         )
@@ -1738,7 +1740,7 @@ public final class CultivationStacks {
         Skins.SEED_YELLOW.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Raw Gold",
-        List.of(
+        ImmutableList.of(
             "This plant is commonly stolen by piglins",
             "if nearby."
         )
@@ -1749,7 +1751,7 @@ public final class CultivationStacks {
         Skins.SEED_RED.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Redstone",
-        List.of(
+        ImmutableList.of(
             "A plant brimming with power throughout."
         )
     );
@@ -1759,7 +1761,7 @@ public final class CultivationStacks {
         Skins.SEED_BLUE.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Lapis",
-        List.of(
+        ImmutableList.of(
             "A plant with a faint magical aura."
         )
     );
@@ -1769,7 +1771,7 @@ public final class CultivationStacks {
         Skins.SEED_BLUE.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Diamond",
-        List.of(
+        ImmutableList.of(
             "A plant that just speaks of riches."
         )
     );
@@ -1779,7 +1781,7 @@ public final class CultivationStacks {
         Skins.SEED_GREEN.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Emerald",
-        List.of(
+        ImmutableList.of(
             "Owners of this plant have to jump",
             "through hoops just to be able to afford it."
         )
@@ -1790,7 +1792,7 @@ public final class CultivationStacks {
         Skins.SEED_PURPLE.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Nether Quartz",
-        List.of(
+        ImmutableList.of(
             "This plant has thorns so sharp that",
             "it's hard to work with."
         )
@@ -1801,7 +1803,7 @@ public final class CultivationStacks {
         Skins.SEED_RED.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Scrappy",
-        List.of(
+        ImmutableList.of(
             "This plant really is the pinnacle of",
             "horticulturalism."
         )
@@ -1812,7 +1814,7 @@ public final class CultivationStacks {
         Skins.SEED_PURPLE.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Amethyst",
-        List.of(
+        ImmutableList.of(
             "This plant loves to flourish in deep, dark",
             "locales."
         )
@@ -1823,7 +1825,7 @@ public final class CultivationStacks {
         Skins.SEED_PURPLE.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Echo",
-        List.of(
+        ImmutableList.of(
             "This plant always knows how to find",
             "its way home."
         )
@@ -1834,7 +1836,7 @@ public final class CultivationStacks {
         Skins.SEED_GREEN.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Skeleton",
-        List.of(
+        ImmutableList.of(
             "A plant that rattles as it sways."
         )
     );
@@ -1844,7 +1846,7 @@ public final class CultivationStacks {
         Skins.SEED_RED.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Spider",
-        List.of(
+        ImmutableList.of(
             "Kill it, kill it NAO!"
         )
     );
@@ -1854,7 +1856,7 @@ public final class CultivationStacks {
         Skins.SEED_GREEN.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Creeper",
-        List.of(
+        ImmutableList.of(
             "Tsssssssssttt..."
         )
     );
@@ -1864,7 +1866,7 @@ public final class CultivationStacks {
         Skins.SEED_GREEN.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Zombie",
-        List.of(
+        ImmutableList.of(
             "This plant is dripping... something..."
         )
     );
@@ -1874,7 +1876,7 @@ public final class CultivationStacks {
         Skins.SEED_BLUE.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Drowned",
-        List.of(
+        ImmutableList.of(
             "A Plant that is dripping wet, all",
             "the time."
         )
@@ -1885,7 +1887,7 @@ public final class CultivationStacks {
         Skins.SEED_BLUE.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Guardian",
-        List.of(
+        ImmutableList.of(
             "When touched, this plant releases",
             "spines."
         )
@@ -1896,7 +1898,7 @@ public final class CultivationStacks {
         Skins.SEED_BLUE.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Elder Guardian",
-        List.of(
+        ImmutableList.of(
             "Being near this plants makes people",
             "sluggish."
         )
@@ -1907,7 +1909,7 @@ public final class CultivationStacks {
         Skins.SEED_YELLOW.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Ghast",
-        List.of(
+        ImmutableList.of(
             "A plant that has been known to",
             "randomly shoot fire balls."
         )
@@ -1918,7 +1920,7 @@ public final class CultivationStacks {
         Skins.SEED_GREEN.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Slime",
-        List.of(
+        ImmutableList.of(
             "Why is it so sticky?"
         )
     );
@@ -1928,7 +1930,7 @@ public final class CultivationStacks {
         Skins.SEED_RED.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Magma Cube",
-        List.of(
+        ImmutableList.of(
             "When not being watched, this plant",
             "likes to bounce up and down."
         )
@@ -1939,7 +1941,7 @@ public final class CultivationStacks {
         Skins.SEED_RED.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Blaze",
-        List.of(
+        ImmutableList.of(
             "A plant that is scorched around the edges."
         )
     );
@@ -1949,7 +1951,7 @@ public final class CultivationStacks {
         Skins.SEED_PURPLE.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Wither Skeleton",
-        List.of(
+        ImmutableList.of(
             "A plant known to be elusive and hardy."
         )
     );
@@ -1959,7 +1961,7 @@ public final class CultivationStacks {
         Skins.SEED_PURPLE.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Wither",
-        List.of(
+        ImmutableList.of(
             "A deadly plant that must be treated",
             "with care."
         )
@@ -1970,7 +1972,7 @@ public final class CultivationStacks {
         Skins.SEED_BLUE.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Phantom",
-        List.of(
+        ImmutableList.of(
             "A plant with lofty leaves."
         )
     );
@@ -1980,7 +1982,7 @@ public final class CultivationStacks {
         Skins.SEED_PURPLE.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Shulker",
-        List.of(
+        ImmutableList.of(
             "A plant that often levitates off",
             "of the ground."
         )
@@ -1991,7 +1993,7 @@ public final class CultivationStacks {
         Skins.SEED_GREEN.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Enderman",
-        List.of(
+        ImmutableList.of(
             "If not treated carefully, this plant",
             "may teleport randomly!"
         )
@@ -2002,7 +2004,7 @@ public final class CultivationStacks {
         Skins.SEED_PURPLE.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Ender Dragon",
-        List.of(
+        ImmutableList.of(
             "A real boss of a plant."
         )
     );
@@ -2012,7 +2014,7 @@ public final class CultivationStacks {
         Skins.SEED_PURPLE.getPlayerHead(),
         CultivationThemes.PLANT,
         "Cultivation Plant: Witch",
-        List.of(
+        ImmutableList.of(
             "A plant that sounds like it's softly",
             "muttering spells."
         )

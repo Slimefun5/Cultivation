@@ -1,13 +1,17 @@
 package dev.sefiraat.cultivation.api.slimefun;
 
+
+
+import com.google.common.collect.ImmutableSet;
+import com.google.common.collect.ImmutableList;
 import dev.sefiraat.cultivation.api.utils.CultivationThemes;
 import dev.sefiraat.cultivation.implementation.listeners.CustomDropListener;
 import dev.sefiraat.cultivation.implementation.listeners.MobDropListener;
 import dev.sefiraat.cultivation.implementation.slimefun.items.Machines;
 import dev.sefiraat.cultivation.implementation.slimefun.machines.KitchenRecipeMachineSimple;
 import dev.sefiraat.cultivation.implementation.utils.Keys;
-import dev.sefiraat.sefilib.entity.LivingEntityDefinition;
-import dev.sefiraat.sefilib.string.Theme;
+import dev.sefiraat.cultivation.libs.sefilib.entity.LivingEntityDefinition;
+import dev.sefiraat.cultivation.libs.sefilib.string.Theme;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItem;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
 import io.github.thebusybiscuit.slimefun5.api.recipes.RecipeType;
@@ -19,6 +23,7 @@ import org.bukkit.inventory.ItemStack;
 import javax.annotation.Nonnull;
 import java.util.List;
 import java.util.Locale;
+import java.util.Objects;
 import java.util.Set;
 import java.util.stream.Collectors;
 
@@ -37,7 +42,7 @@ public final class RecipeTypes {
             Material.TRIPWIRE_HOOK,
             CultivationThemes.RECIPE_TYPE,
             "Bush Harvesting",
-            List.of(
+            ImmutableList.of(
                 "This item can be harvested from a",
                 "Cultivation Bush"
             )
@@ -51,7 +56,7 @@ public final class RecipeTypes {
             Material.ACACIA_SAPLING,
             CultivationThemes.RECIPE_TYPE,
             "Tree Harvesting",
-            List.of(
+            ImmutableList.of(
                 "This item can be harvested from a",
                 "Cultivation Tree"
             )
@@ -65,7 +70,7 @@ public final class RecipeTypes {
             Material.VILLAGER_SPAWN_EGG,
             CultivationThemes.RECIPE_TYPE,
             "Villager Trading",
-            List.of(
+            ImmutableList.of(
                 "This item can be bought from a",
                 "farming villager."
             )
@@ -79,7 +84,7 @@ public final class RecipeTypes {
             Material.VILLAGER_SPAWN_EGG,
             CultivationThemes.RECIPE_TYPE,
             "Villager Trading",
-            List.of(
+            ImmutableList.of(
                 "This item can be bought from a",
                 "fletching villager."
             )
@@ -93,7 +98,7 @@ public final class RecipeTypes {
             Material.ZOMBIE_HEAD,
             CultivationThemes.RECIPE_TYPE,
             "Mob Drop",
-            List.of(
+            ImmutableList.of(
                 "This item has a chance to drop from",
                 "the following mob(s)."
             )
@@ -107,7 +112,7 @@ public final class RecipeTypes {
             Material.FLOWER_POT,
             CultivationThemes.RECIPE_TYPE,
             "Plant Breeding",
-            List.of(
+            ImmutableList.of(
                 "This seed is found via breeding.",
                 "You breed plants by placing",
                 "two plants down with an air block",
@@ -129,7 +134,7 @@ public final class RecipeTypes {
             Material.BROWN_DYE,
             CultivationThemes.RECIPE_TYPE,
             "World Drop",
-            List.of("Drops from blocks when broken in the world.")
+            ImmutableList.of("Drops from blocks when broken in the world.")
         )
     );
 
@@ -140,7 +145,7 @@ public final class RecipeTypes {
             Material.BUCKET,
             CultivationThemes.RECIPE_TYPE,
             "World Drop",
-            List.of("Drops from the world when using a bucket.")
+            ImmutableList.of("Drops from the world when using a bucket.")
         )
     );
 
@@ -151,7 +156,7 @@ public final class RecipeTypes {
             Material.IRON_SWORD,
             CultivationThemes.RECIPE_TYPE,
             "Chopped",
-            List.of(
+            ImmutableList.of(
                 "Simply chop with a knife!"
             )
         ),
@@ -165,7 +170,7 @@ public final class RecipeTypes {
             Material.COMPOSTER,
             CultivationThemes.RECIPE_TYPE,
             "Mashed",
-            List.of(
+            ImmutableList.of(
                 "Mash Mash Mash"
             )
         ),
@@ -179,7 +184,7 @@ public final class RecipeTypes {
             Material.GLASS,
             CultivationThemes.RECIPE_TYPE,
             "Blended",
-            List.of(
+            ImmutableList.of(
                 "Is made by putting an item in the blender."
             )
         ),
@@ -193,7 +198,7 @@ public final class RecipeTypes {
             Material.SHEARS,
             CultivationThemes.RECIPE_TYPE,
             "Sliced",
-            List.of(
+            ImmutableList.of(
                 "So thin and delicate"
             )
         ),
@@ -207,7 +212,7 @@ public final class RecipeTypes {
             Material.BONE,
             CultivationThemes.RECIPE_TYPE,
             "Ground",
-            List.of(
+            ImmutableList.of(
                 "To a fine degree"
             )
         ),
@@ -221,7 +226,7 @@ public final class RecipeTypes {
             Material.CAULDRON,
             CultivationThemes.RECIPE_TYPE,
             "Boiled",
-            List.of(
+            ImmutableList.of(
                 "Hot hot hot!"
             )
         ),
@@ -235,7 +240,7 @@ public final class RecipeTypes {
             Material.BLACK_CONCRETE,
             CultivationThemes.RECIPE_TYPE,
             "Fried",
-            List.of(
+            ImmutableList.of(
                 "Crispy Perfection."
             )
         ),
@@ -249,7 +254,7 @@ public final class RecipeTypes {
             Material.POLISHED_BLACKSTONE,
             CultivationThemes.RECIPE_TYPE,
             "Grilled",
-            List.of(
+            ImmutableList.of(
                 "Juicy and Tender."
             )
         ),
@@ -263,7 +268,7 @@ public final class RecipeTypes {
             Material.POLISHED_DIORITE,
             CultivationThemes.RECIPE_TYPE,
             "Finishing",
-            List.of(
+            ImmutableList.of(
                 "Use the kitchen's finishing counter to make this item."
             )
         ),
@@ -277,7 +282,7 @@ public final class RecipeTypes {
             Material.FURNACE,
             CultivationThemes.RECIPE_TYPE,
             "Baking",
-            List.of(
+            ImmutableList.of(
                 "Use the kitchen's oven counter to make this item."
             )
         ),
@@ -310,7 +315,7 @@ public final class RecipeTypes {
                                                     @Nonnull ItemStack dropFrom,
                                                     double dropChance
     ) {
-        return createBlockDropRecipe(stackToDrop, Set.of(dropFrom.getType()), dropChance);
+        return createBlockDropRecipe(stackToDrop, ImmutableSet.of(dropFrom.getType()), dropChance);
     }
 
     /**
@@ -330,7 +335,7 @@ public final class RecipeTypes {
         Material material = dropFrom.stream().findFirst().orElse(Material.DIRT);
         List<String> lore = dropFrom.stream()
             .map(material1 -> Theme.CLICK_INFO.apply(WordUtils.capitalize(material1.name().toLowerCase(Locale.ROOT))))
-            .toList();
+            .collect(Collectors.toList());
         ItemStack itemStack = Theme.themedItemStack(material, CultivationThemes.RECIPE_TYPE, "Drops From", lore);
         CustomDropListener.addBlockDrop(new CustomDropListener.BlockDrop(stackToDrop, dropFrom, dropChance));
         return new ItemStack[]{
@@ -353,7 +358,7 @@ public final class RecipeTypes {
                                                     @Nonnull Material dropFrom,
                                                     double dropChance
     ) {
-        return createBucketingRecipe(stackToDrop, Set.of(dropFrom), dropChance);
+        return createBucketingRecipe(stackToDrop, ImmutableSet.of(dropFrom), dropChance);
     }
 
     /**
@@ -391,7 +396,7 @@ public final class RecipeTypes {
                                                   @Nonnull LivingEntityDefinition dropFrom,
                                                   double dropChance
     ) {
-        return createMobDropRecipe(stackToDrop, Set.of(dropFrom), dropChance);
+        return createMobDropRecipe(stackToDrop, ImmutableSet.of(dropFrom), dropChance);
     }
 
     /**
@@ -408,10 +413,10 @@ public final class RecipeTypes {
                                                   @Nonnull Set<LivingEntityDefinition> dropFrom,
                                                   double dropChance
     ) {
-        Set<EntityType> types = dropFrom.stream().map(LivingEntityDefinition::getType).collect(Collectors.toSet());
+        Set<EntityType> types = dropFrom.stream().map(LivingEntityDefinition::getType).filter(Objects::nonNull).collect(Collectors.toSet());
         List<String> lore = types.stream()
             .map(type -> Theme.CLICK_INFO.apply(WordUtils.capitalize(type.name().toLowerCase(Locale.ROOT))))
-            .toList();
+            .collect(Collectors.toList());
         final ItemStack itemStack = Theme.themedItemStack(
             Material.SKELETON_SKULL,
             CultivationThemes.RECIPE_TYPE,

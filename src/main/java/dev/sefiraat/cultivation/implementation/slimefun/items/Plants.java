@@ -1,5 +1,7 @@
 package dev.sefiraat.cultivation.implementation.slimefun.items;
 
+
+import com.google.common.collect.ImmutableSet;
 import dev.sefiraat.cultivation.Cultivation;
 import dev.sefiraat.cultivation.api.slimefun.RecipeTypes;
 import dev.sefiraat.cultivation.api.slimefun.items.plants.HarvestablePlant;
@@ -62,7 +64,7 @@ public final class Plants {
             RecipeTypes.BUCKETING,
             RecipeTypes.createBucketingRecipe(
                 CultivationStacks.PLANT_WATER,
-                Set.of(Material.WATER, Material.POWDER_SNOW),
+                ImmutableSet.of(Material.WATER, Material.POWDER_SNOW),
                 0.05
             ),
             new Growth(

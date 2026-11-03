@@ -2,7 +2,7 @@ package dev.sefiraat.cultivation.api.datatypes.instances;
 
 import dev.sefiraat.cultivation.api.datatypes.FloraLevelProfileDataType;
 import dev.sefiraat.cultivation.api.interfaces.CultivationLevelProfileHolder;
-import dev.sefiraat.sefilib.misc.Chance;
+import dev.sefiraat.cultivation.libs.sefilib.misc.Chance;
 import io.github.thebusybiscuit.slimefun5.libraries.dough.data.persistent.PersistentDataAPI;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItem;
 import me.mrCookieSlime.Slimefun.api.BlockStorage;
@@ -113,7 +113,7 @@ public class FloraLevelProfile {
             FloraLevelProfileDataType.KEY,
             FloraLevelProfileDataType.TYPE
         );
-        return Objects.requireNonNullElseGet(profile, () -> new FloraLevelProfile(1, 1, 1, false));
+        return profile != null ? profile : new FloraLevelProfile(1, 1, 1, false);
     }
 
     @Nullable
@@ -124,7 +124,8 @@ public class FloraLevelProfile {
     @Nullable
     public static FloraLevelProfile fromBlockStorage(@Nonnull Location location) {
         SlimefunItem slimefunItem = BlockStorage.check(location);
-        if (slimefunItem instanceof CultivationLevelProfileHolder holder) {
+        if (slimefunItem instanceof CultivationLevelProfileHolder) {
+            CultivationLevelProfileHolder holder = (CultivationLevelProfileHolder) slimefunItem;
             return holder.getLevelProfile(location);
         }
         return null;

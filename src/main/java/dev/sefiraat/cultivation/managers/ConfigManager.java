@@ -60,7 +60,8 @@ public class ConfigManager {
     private void checkKey(FileConfiguration existingConfig, FileConfiguration resourceConfig, String key) {
         Object currentValue = existingConfig.get(key);
         Object newValue = resourceConfig.get(key);
-        if (newValue instanceof ConfigurationSection section) {
+        if (newValue instanceof ConfigurationSection) {
+            ConfigurationSection section = (ConfigurationSection) newValue;
             for (String sectionKey : section.getKeys(false)) {
                 checkKey(existingConfig, resourceConfig, key + "." + sectionKey);
             }

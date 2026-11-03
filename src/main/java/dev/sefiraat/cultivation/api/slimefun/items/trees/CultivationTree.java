@@ -5,7 +5,7 @@ import dev.sefiraat.cultivation.Registry;
 import dev.sefiraat.cultivation.api.slimefun.RecipeTypes;
 import dev.sefiraat.cultivation.api.slimefun.items.produce.ProduceCore;
 import dev.sefiraat.cultivation.api.utils.Skins;
-import dev.sefiraat.sefilib.string.Theme;
+import dev.sefiraat.cultivation.libs.sefilib.string.Theme;
 import io.github.thebusybiscuit.slimefun5.api.SlimefunAddon;
 import io.github.thebusybiscuit.slimefun5.api.items.ItemGroup;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItem;

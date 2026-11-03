@@ -1,6 +1,6 @@
 package dev.sefiraat.cultivation.implementation.slimefun.machines;
 
-import dev.sefiraat.sefilib.entity.display.DisplayGroup;
+import dev.sefiraat.cultivation.libs.sefilib.entity.display.DisplayGroup;
 import io.github.thebusybiscuit.slimefun5.api.items.ItemGroup;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
 import io.github.thebusybiscuit.slimefun5.api.recipes.RecipeType;
@@ -33,7 +33,8 @@ public abstract class KitchenRecipeMachineComplex extends KitchenObject {
                 return;
             }
             Display display = displayGroup.getDisplays().get("counter_top");
-            if (display instanceof ItemDisplay itemDisplay) {
+            if (display instanceof ItemDisplay) {
+                ItemDisplay itemDisplay = (ItemDisplay) display;
                 itemDisplay.setItemStack(itemStack.clone());
             }
         }

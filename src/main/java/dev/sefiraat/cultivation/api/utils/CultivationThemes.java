@@ -1,6 +1,6 @@
 package dev.sefiraat.cultivation.api.utils;
 
-import dev.sefiraat.sefilib.string.Theme;
+import dev.sefiraat.cultivation.libs.sefilib.string.Theme;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
 import net.md_5.bungee.api.ChatColor;
 import org.bukkit.Material;

@@ -10,7 +10,7 @@ import io.github.thebusybiscuit.slimefun5.core.handlers.ItemUseHandler;
 import me.mrCookieSlime.Slimefun.api.BlockStorage;
 import org.bukkit.block.Block;
 import org.bukkit.inventory.ItemStack;
-import org.jetbrains.annotations.NotNull;
+import javax.annotation.Nonnull;
 
 public class TrimmingTool extends RefillableUseItem {
     public TrimmingTool(ItemGroup group,
@@ -23,11 +23,11 @@ public class TrimmingTool extends RefillableUseItem {
         setMaxUseCount(maxUses);
     }
 
-    @NotNull
+    @Nonnull
     @Override
     public ItemUseHandler getItemHandler() {
         return playerRightClickEvent -> {
-            if (playerRightClickEvent.getClickedBlock().isEmpty()) {
+            if (!playerRightClickEvent.getClickedBlock().isPresent()) {
                 // No block preset
                 return;
             }
@@ -35,7 +35,8 @@ public class TrimmingTool extends RefillableUseItem {
             Block block = playerRightClickEvent.getClickedBlock().get();
             SlimefunItem item = BlockStorage.check(block);
 
-            if (item instanceof CultivationBush trimmable && trimmable.isMature(block)) {
+            if (item instanceof CultivationBush && ((CultivationBush) item).isMature(block)) {
+                CultivationBush trimmable = (CultivationBush) item;
                 ItemStack trimmingResult = trimmable.getTrimmingResult();
                 trimmable.updateGrowthStage(block.getLocation(), 1);
                 block.getWorld().dropItem(block.getLocation(), trimmingResult.clone());

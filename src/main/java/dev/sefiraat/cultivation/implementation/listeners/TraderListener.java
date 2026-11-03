@@ -27,7 +27,8 @@ public class TraderListener implements Listener {
 
     @EventHandler
     public void onWanderingTraderSpawn(@Nonnull EntitySpawnEvent event) {
-        if (event.getEntity() instanceof WanderingTrader trader) {
+        if (event.getEntity() instanceof WanderingTrader) {
+            WanderingTrader trader = (WanderingTrader) event.getEntity();
             List<MerchantRecipe> recipes = new ArrayList<>(trader.getRecipes());
             addBreedingRecipe(recipes);
             addBushRecipe(recipes);

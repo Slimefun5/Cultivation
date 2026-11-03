@@ -13,9 +13,9 @@ import dev.sefiraat.cultivation.api.utils.LevelType;
 import dev.sefiraat.cultivation.api.utils.StatisticUtils;
 import dev.sefiraat.cultivation.implementation.listeners.CustomPlacementListener;
 import dev.sefiraat.cultivation.implementation.utils.Keys;
-import dev.sefiraat.sefilib.misc.ParticleUtils;
-import dev.sefiraat.sefilib.string.Theme;
-import dev.sefiraat.sefilib.world.LocationUtils;
+import dev.sefiraat.cultivation.libs.sefilib.misc.ParticleUtils;
+import dev.sefiraat.cultivation.libs.sefilib.string.Theme;
+import dev.sefiraat.cultivation.libs.sefilib.world.LocationUtils;
 import io.github.thebusybiscuit.slimefun5.libraries.dough.items.CustomItemStack;
 import io.github.thebusybiscuit.slimefun5.api.SlimefunAddon;
 import io.github.thebusybiscuit.slimefun5.api.events.PlayerRightClickEvent;
@@ -40,7 +40,7 @@ import org.bukkit.entity.HumanEntity;
 import org.bukkit.entity.Player;
 import org.bukkit.event.block.BlockPlaceEvent;
 import org.bukkit.inventory.ItemStack;
-import org.jetbrains.annotations.Nullable;
+import javax.annotation.Nullable;
 
 import javax.annotation.Nonnull;
 import javax.annotation.OverridingMethodsMustInvokeSuper;
@@ -196,9 +196,11 @@ public abstract class CultivationFloraItem<T extends CultivationFloraItem<T>> ex
     @Nonnull
     private CultivationGrowEvent callEvent(T flora, Location location, int growthStage) {
         CultivationGrowEvent event;
-        if (flora instanceof CultivationBush bush) {
+        if (flora instanceof CultivationBush) {
+            CultivationBush bush = (CultivationBush) flora;
             event = new CultivationBushGrowEvent(location, bush, growthStage);
-        } else if (flora instanceof CultivationPlant plant) {
+        } else if (flora instanceof CultivationPlant) {
+            CultivationPlant plant = (CultivationPlant) flora;
             event = new CultivationPlantGrowEvent(location, plant, growthStage);
         } else {
             event = new CultivationGrowEvent(location, this, growthStage);

@@ -1,5 +1,7 @@
 package dev.sefiraat.cultivation.api.slimefun.items.plants;
 
+
+import com.google.common.collect.ImmutableSet;
 import dev.sefiraat.cultivation.Registry;
 import dev.sefiraat.cultivation.api.datatypes.FloraLevelProfileDataType;
 import dev.sefiraat.cultivation.api.datatypes.instances.FloraLevelProfile;
@@ -17,17 +19,16 @@ import dev.sefiraat.cultivation.api.slimefun.plant.PlantTheme;
 import dev.sefiraat.cultivation.api.utils.LevelType;
 import dev.sefiraat.cultivation.api.utils.StatisticUtils;
 import dev.sefiraat.cultivation.implementation.utils.Keys;
-import dev.sefiraat.sefilib.entity.display.DisplayInteractable;
-import dev.sefiraat.sefilib.misc.ParticleUtils;
-import dev.sefiraat.sefilib.string.Theme;
-import dev.sefiraat.sefilib.world.LocationUtils;
+import dev.sefiraat.cultivation.libs.sefilib.entity.display.DisplayInteractable;
+import dev.sefiraat.cultivation.libs.sefilib.misc.ParticleUtils;
+import dev.sefiraat.cultivation.libs.sefilib.string.Theme;
+import dev.sefiraat.cultivation.libs.sefilib.world.LocationUtils;
 import io.github.thebusybiscuit.slimefun5.libraries.dough.data.persistent.PersistentDataAPI;
 import io.github.thebusybiscuit.slimefun5.api.SlimefunAddon;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItem;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
 import io.github.thebusybiscuit.slimefun5.api.recipes.RecipeType;
 import io.github.thebusybiscuit.slimefun5.core.handlers.BlockBreakHandler;
-import io.papermc.lib.PaperLib;
 import me.mrCookieSlime.CSCoreLibPlugin.Configuration.Config;
 import me.mrCookieSlime.Slimefun.api.BlockStorage;
 import org.bukkit.Color;
@@ -40,7 +41,7 @@ import org.bukkit.event.block.BlockBreakEvent;
 import org.bukkit.event.block.BlockPlaceEvent;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.ItemMeta;
-import org.jetbrains.annotations.NotNull;
+import javax.annotation.Nonnull;
 
 import javax.annotation.Nonnull;
 import javax.annotation.Nullable;
@@ -61,7 +62,7 @@ public abstract class CultivationPlant extends CultivationFloraItem<CultivationP
                DisplayInteractable {
 
     @Nonnull
-    public static final Set<BlockFace> BREEDING_DIRECTIONS = Set.of(
+    public static final Set<BlockFace> BREEDING_DIRECTIONS = ImmutableSet.of(
         BlockFace.NORTH,
         BlockFace.SOUTH,
         BlockFace.EAST,
@@ -126,14 +127,15 @@ public abstract class CultivationPlant extends CultivationFloraItem<CultivationP
             Block potentialMate = middleBlock.getRelative(face);
             SlimefunItem mateItem = BlockStorage.check(potentialMate);
 
-            if (mateItem instanceof CultivationPlant mate) {
+            if (mateItem instanceof CultivationPlant) {
+                CultivationPlant mate = (CultivationPlant) mateItem;
                 testBreed(plant, mate, middleBlock, motherBlock, potentialMate);
             }
         }
     }
 
     @Override
-    public void whenPlaced(@NotNull BlockPlaceEvent event) {
+    public void whenPlaced(@Nonnull BlockPlaceEvent event) {
         super.whenPlaced(event);
 
         Location location = event.getBlock().getLocation();
@@ -152,7 +154,7 @@ public abstract class CultivationPlant extends CultivationFloraItem<CultivationP
     }
 
     @OverridingMethodsMustInvokeSuper
-    public void onBreak(@NotNull BlockBreakEvent event) {
+    public void onBreak(@Nonnull BlockBreakEvent event) {
         Location location = event.getBlock().getLocation();
         ItemStack itemToDrop = getDroppedItemStack(location);
         removeCropped(location);
@@ -199,28 +201,27 @@ public abstract class CultivationPlant extends CultivationFloraItem<CultivationP
         }
 
         switch (result.getResultType()) {
-            case NO_PAIRS ->
-                // No matching breeding pairs, lets feedback to the player then move to the next direction
+            case NO_PAIRS:
                 breedInvalidDisplay(middleBlock.getLocation());
-            case SUCCESS -> {
-                // Breed was a success - spawn child, log discovery
+                break;
+            case SUCCESS:
                 CultivationPlant child = result.getMatchedPair().getChild();
                 trySetChildSeed(motherBlock.getLocation(), middleBlock, child);
                 StatisticUtils.incrementExp(getOwner(motherBlock.getLocation()), LevelType.HORTICULTURALIST, 2);
-            }
-            case SPREAD_NO_MUTATE -> {
-                // Breed failed, spread success - spawn copy of mother
+                break;
+            case SPREAD_NO_MUTATE:
                 trySetChildSeed(motherBlock.getLocation(), middleBlock, mother);
                 StatisticUtils.incrementExp(getOwner(motherBlock.getLocation()), LevelType.HORTICULTURALIST, 1);
-            }
-            case SPREAD_MUTATE -> {
-                // Breed not possible, but mutation possible.
+                break;
+            case SPREAD_MUTATE:
                 FloraLevelProfile motherProfile = getLevelProfile(motherBlock.getLocation());
                 FloraLevelProfile fatherProfile = getLevelProfile(fatherBlock.getLocation());
                 trySetChildSeed(motherBlock.getLocation(), middleBlock, mother);
                 tryMutate(middleBlock, motherProfile, fatherProfile);
                 StatisticUtils.incrementExp(getOwner(motherBlock.getLocation()), LevelType.HORTICULTURALIST, 1);
-            }
+                break;
+            default:
+                break;
         }
     }
 
@@ -245,7 +246,7 @@ public abstract class CultivationPlant extends CultivationFloraItem<CultivationP
 
         cloneBlock.setType(Material.PLAYER_HEAD);
         theme.getSeed().setSkin(cloneBlock, false);
-        PaperLib.getBlockState(cloneBlock, false).getState().update(true, false);
+        cloneBlock.getState().update(true, false);
         BlockStorage.store(cloneBlock, childSeed.getId());
         BlockStorage.addBlockInfo(cloneBlock, Keys.FLORA_GROWTH_STAGE, "0");
         BlockStorage.addBlockInfo(cloneBlock, Keys.FLORA_OWNER, owner.toString());
@@ -296,7 +297,7 @@ public abstract class CultivationPlant extends CultivationFloraItem<CultivationP
     }
 
     @Override
-    public CultivationPlant tryRegister(@NotNull SlimefunAddon addon) {
+    public CultivationPlant tryRegister(@Nonnull SlimefunAddon addon) {
         Registry.getInstance().addPlant(this);
         return super.tryRegister(addon);
     }

@@ -1,12 +1,12 @@
 package dev.sefiraat.cultivation.api.utils;
 
 import dev.sefiraat.cultivation.Cultivation;
-import dev.sefiraat.sefilib.entity.LivingEntityCategory;
-import dev.sefiraat.sefilib.entity.LivingEntityDefinition;
-import dev.sefiraat.sefilib.entity.LivingEntitySelector;
-import dev.sefiraat.sefilib.version.Versions;
-import io.github.bakedlibs.dough.versions.MinecraftVersion;
-import io.github.bakedlibs.dough.versions.SemanticVersion;
+import dev.sefiraat.cultivation.libs.sefilib.entity.LivingEntityCategory;
+import dev.sefiraat.cultivation.libs.sefilib.entity.LivingEntityDefinition;
+import dev.sefiraat.cultivation.libs.sefilib.entity.LivingEntitySelector;
+import dev.sefiraat.cultivation.libs.sefilib.version.Versions;
+import io.github.thebusybiscuit.slimefun5.libraries.dough.versions.MinecraftVersion;
+import io.github.thebusybiscuit.slimefun5.libraries.dough.versions.SemanticVersion;
 import org.bukkit.Server;
 
 import java.util.Collections;

@@ -1,6 +1,6 @@
 package dev.sefiraat.cultivation.implementation.slimefun.machines;
 
-import dev.sefiraat.sefilib.entity.display.DisplayGroup;
+import dev.sefiraat.cultivation.libs.sefilib.entity.display.DisplayGroup;
 import io.github.thebusybiscuit.slimefun5.api.events.PlayerRightClickEvent;
 import io.github.thebusybiscuit.slimefun5.api.items.ItemGroup;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItem;

@@ -68,10 +68,11 @@ public enum TreeDesign {
         JsonArray jsonArray = jsonObject.getAsJsonArray("structure");
         this.author = jsonObject.get("author").getAsString();
 
-        for (JsonElement jsonElement : jsonArray.asList()) {
-            if (!(jsonElement instanceof JsonObject object)) {
+        for (JsonElement jsonElement : jsonArray) {
+            if (!(jsonElement instanceof JsonObject)) {
                 continue;
             }
+            JsonObject object = (JsonObject) jsonElement;
 
             int x = object.get("x").getAsInt();
             int y = object.get("y").getAsInt();

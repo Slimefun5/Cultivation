@@ -1,7 +1,7 @@
 package dev.sefiraat.cultivation.api.slimefun.items.trees;
 
 import dev.sefiraat.cultivation.api.slimefun.groups.CultivationGroups;
-import dev.sefiraat.sefilib.misc.Chance;
+import dev.sefiraat.cultivation.libs.sefilib.misc.Chance;
 import io.github.thebusybiscuit.slimefun5.api.SlimefunAddon;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItem;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;

@@ -1,7 +1,9 @@
 package dev.sefiraat.cultivation.implementation.listeners;
 
+
+import com.google.common.collect.ImmutableSet;
 import dev.sefiraat.cultivation.api.slimefun.RecipeTypes;
-import dev.sefiraat.sefilib.world.LocationUtils;
+import dev.sefiraat.cultivation.libs.sefilib.world.LocationUtils;
 import me.mrCookieSlime.Slimefun.api.BlockStorage;
 import org.bukkit.Location;
 import org.bukkit.Material;
@@ -85,7 +87,7 @@ public class CustomDropListener implements Listener {
         private final double dropChance;
 
         public BlockDrop(@Nonnull ItemStack stackToDrop, @Nonnull Material dropFrom, double dropChance) {
-            this(stackToDrop, Set.of(dropFrom), dropChance);
+            this(stackToDrop, ImmutableSet.of(dropFrom), dropChance);
         }
 
         public BlockDrop(@Nonnull ItemStack stackToDrop, @Nonnull Set<Material> dropFrom, double dropChance) {

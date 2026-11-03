@@ -1,7 +1,7 @@
 package dev.sefiraat.cultivation.implementation.compat;
 
-import dev.sefiraat.sefilib.entity.display.DisplayGroup;
-import dev.sefiraat.sefilib.entity.display.DisplayInteractable;
+import dev.sefiraat.cultivation.libs.sefilib.entity.display.DisplayGroup;
+import dev.sefiraat.cultivation.libs.sefilib.entity.display.DisplayInteractable;
 import io.github.thebusybiscuit.slimefun5.api.items.ItemGroup;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItem;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;

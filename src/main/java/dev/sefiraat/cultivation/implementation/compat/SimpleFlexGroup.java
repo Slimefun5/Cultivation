@@ -40,7 +40,8 @@ public class SimpleFlexGroup extends NestedItemGroup {
 
     public SimpleFlexGroup addItemGroup(ItemGroup group) {
         this.menuItems.add(MenuItem.of(group));
-        if (group instanceof SubItemGroup subGroup) {
+        if (group instanceof SubItemGroup) {
+            SubItemGroup subGroup = (SubItemGroup) group;
             addSubGroup(subGroup);
         }
         return this;

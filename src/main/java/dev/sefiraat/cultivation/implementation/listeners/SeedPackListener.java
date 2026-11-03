@@ -6,7 +6,7 @@ import dev.sefiraat.cultivation.api.datatypes.instances.FloraLevelProfile;
 import dev.sefiraat.cultivation.api.datatypes.instances.SeedPackInstance;
 import dev.sefiraat.cultivation.api.slimefun.items.plants.CultivationPlant;
 import dev.sefiraat.cultivation.implementation.slimefun.tools.SeedPack;
-import dev.sefiraat.sefilib.misc.ParticleUtils;
+import dev.sefiraat.cultivation.libs.sefilib.misc.ParticleUtils;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItem;
 import io.github.thebusybiscuit.slimefun5.libraries.dough.data.persistent.PersistentDataAPI;
 import org.bukkit.entity.Item;
@@ -23,17 +23,19 @@ public class SeedPackListener implements Listener {
 
     @EventHandler
     public void onPickupItem(@Nonnull EntityPickupItemEvent event) {
-        if (!(event.getEntity() instanceof Player player)) {
+        if (!(event.getEntity() instanceof Player)) {
             return;
         }
+        Player player = (Player) event.getEntity();
 
         Item item = event.getItem();
         ItemStack itemStack = item.getItemStack();
         SlimefunItem slimefunItem = SlimefunItem.getByItem(itemStack);
 
-        if (!(slimefunItem instanceof CultivationPlant plant)) {
+        if (!(slimefunItem instanceof CultivationPlant)) {
             return;
         }
+        CultivationPlant plant = (CultivationPlant) slimefunItem;
 
         for (ItemStack content : player.getInventory().getContents()) {
             SlimefunItem packItem = SlimefunItem.getByItem(content);

@@ -1,8 +1,8 @@
 package dev.sefiraat.cultivation.implementation.slimefun.machines;
 
 import dev.sefiraat.cultivation.implementation.slimefun.items.Machines;
-import dev.sefiraat.sefilib.entity.display.DisplayGroup;
-import dev.sefiraat.sefilib.string.Theme;
+import dev.sefiraat.cultivation.libs.sefilib.entity.display.DisplayGroup;
+import dev.sefiraat.cultivation.libs.sefilib.string.Theme;
 import io.github.thebusybiscuit.slimefun5.libraries.dough.items.CustomItemStack;
 import io.github.thebusybiscuit.slimefun5.api.events.PlayerRightClickEvent;
 import io.github.thebusybiscuit.slimefun5.api.items.ItemGroup;
@@ -23,7 +23,7 @@ import org.bukkit.Material;
 import org.bukkit.block.Block;
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.ItemStack;
-import org.jetbrains.annotations.NotNull;
+import javax.annotation.Nonnull;
 
 import javax.annotation.Nonnull;
 import java.util.HashMap;
@@ -59,7 +59,7 @@ public class PoweredKitchenMachineSimple extends KitchenRecipeMachineSimple impl
     }
 
     @Override
-    protected void onRightClick(@NotNull PlayerRightClickEvent event) {
+    protected void onRightClick(@Nonnull PlayerRightClickEvent event) {
         Player player = event.getPlayer();
         if (player.isSneaking()) {
             super.onRightClick(event);
@@ -85,7 +85,7 @@ public class PoweredKitchenMachineSimple extends KitchenRecipeMachineSimple impl
         return recipes;
     }
 
-    @NotNull
+    @Nonnull
     @Override
     public EnergyNetComponentType getEnergyComponentType() {
         return EnergyNetComponentType.CONSUMER;
@@ -123,7 +123,7 @@ public class PoweredKitchenMachineSimple extends KitchenRecipeMachineSimple impl
             }
 
             @Override
-            public void newInstance(@NotNull BlockMenu menu, @NotNull Block b) {
+            public void newInstance(@Nonnull BlockMenu menu, @Nonnull Block b) {
                 menu.addMenuClickHandler(COOK_SLOT, (p, slot, item, action) -> {
                     if (getCharge(menu.getLocation()) < powerRequirement) {
                         p.sendMessage(Theme.ERROR.apply("Not enough power."));

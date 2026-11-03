@@ -1,9 +1,9 @@
 package dev.sefiraat.cultivation.implementation.utils;
 
-import dev.sefiraat.sefilib.entity.display.DisplayGroup;
-import dev.sefiraat.sefilib.entity.display.builders.BlockDisplayBuilder;
-import dev.sefiraat.sefilib.entity.display.builders.ItemDisplayBuilder;
-import dev.sefiraat.sefilib.entity.display.builders.TextDisplayBuilder;
+import dev.sefiraat.cultivation.libs.sefilib.entity.display.DisplayGroup;
+import dev.sefiraat.cultivation.libs.sefilib.entity.display.builders.BlockDisplayBuilder;
+import dev.sefiraat.cultivation.libs.sefilib.entity.display.builders.ItemDisplayBuilder;
+import dev.sefiraat.cultivation.libs.sefilib.entity.display.builders.TextDisplayBuilder;
 import org.bukkit.Location;
 import org.bukkit.Material;
 import org.bukkit.block.data.Ageable;
@@ -169,7 +169,8 @@ public final class DisplayGroupGenerators {
     public static void setBushAge(@Nonnull DisplayGroup displayGroup, int age) {
         BlockDisplay blockDisplay = (BlockDisplay) displayGroup.getDisplays().get("bush");
         BlockData blockData = blockDisplay.getBlock();
-        if (blockData instanceof Ageable ageable) {
+        if (blockData instanceof Ageable) {
+            Ageable ageable = (Ageable) blockData;
             ageable.setAge(age);
             blockDisplay.setBlock(ageable);
         }

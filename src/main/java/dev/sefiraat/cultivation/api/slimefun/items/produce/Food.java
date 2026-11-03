@@ -3,8 +3,8 @@ package dev.sefiraat.cultivation.api.slimefun.items.produce;
 import dev.sefiraat.cultivation.api.slimefun.groups.CultivationGroups;
 import dev.sefiraat.cultivation.implementation.slimefun.CultivationStacks;
 import dev.sefiraat.cultivation.implementation.utils.Keys;
-import dev.sefiraat.sefilib.itemstacks.Cooldowns;
-import dev.sefiraat.sefilib.string.Theme;
+import dev.sefiraat.cultivation.libs.sefilib.itemstacks.Cooldowns;
+import dev.sefiraat.cultivation.libs.sefilib.string.Theme;
 import io.github.thebusybiscuit.slimefun5.libraries.dough.data.persistent.PersistentDataAPI;
 import io.github.thebusybiscuit.slimefun5.api.SlimefunAddon;
 import io.github.thebusybiscuit.slimefun5.api.events.PlayerRightClickEvent;
@@ -14,7 +14,7 @@ import io.github.thebusybiscuit.slimefun5.core.handlers.ItemUseHandler;
 import io.github.thebusybiscuit.slimefun5.implementation.items.SimpleSlimefunItem;
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.ItemStack;
-import org.jetbrains.annotations.NotNull;
+import javax.annotation.Nonnull;
 
 import javax.annotation.Nonnull;
 import java.util.function.Consumer;
@@ -33,7 +33,7 @@ public class Food extends SimpleSlimefunItem<ItemUseHandler> {
         this.eatingEffects = effect;
     }
 
-    @NotNull
+    @Nonnull
     @Override
     public ItemUseHandler getItemHandler() {
         return new ItemUseHandler() {
