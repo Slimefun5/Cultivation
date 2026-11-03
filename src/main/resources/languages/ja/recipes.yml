@@ -1,0 +1,87 @@
+cultivation:
+  bush_harvest:
+    name: 茂みからの収穫
+    lore:
+    - このアイテムはカルティベーションの
+    - 茂みから収穫できる
+  tree_harvest:
+    name: 木からの収穫
+    lore:
+    - このアイテムはカルティベーションの
+    - 木から収穫できる
+  trading_farmer:
+    name: 村人との取引
+    lore:
+    - このアイテムは農民の村人から
+    - 購入できる。
+  trading_fletcher:
+    name: 村人との取引
+    lore:
+    - このアイテムは矢師の村人から
+    - 購入できる。
+  mob:
+    name: モブのドロップ
+    lore:
+    - このアイテムは次のモブから
+    - ドロップすることがある。
+  plant_breeding:
+    name: 植物の交配
+    lore:
+    - この種は交配で手に入る。
+    - 植物を交配するには、間に空気ブロックを
+    - 1つ挟んで2つの植物を
+    - 設置する。
+    - ''
+    - 交配辞典を使えば
+    - 発見を記録できる。
+    - ''
+    - 'ヒント: 黒いパーティクルは、その'
+    - 2つの植物が交配できないという意味。
+  vanilla_block_drop:
+    name: ワールドドロップ
+    lore:
+    - ワールドでブロックを壊すとドロップする。
+  bucketing:
+    name: ワールドドロップ
+    lore:
+    - ワールドでバケツを使うとドロップする。
+  chopped:
+    name: 刻み
+    lore:
+    - 包丁で刻むだけ！
+  mashed:
+    name: つぶし
+    lore:
+    - つぶしてつぶしてつぶす
+  blended:
+    name: ミキサー
+    lore:
+    - アイテムをミキサーに入れて作る。
+  sliced:
+    name: スライス
+    lore:
+    - とても薄く繊細に
+  ground:
+    name: すりつぶし
+    lore:
+    - きめ細かく
+  boiled:
+    name: ゆで
+    lore:
+    - アツアツアツ！
+  fried:
+    name: 炒め
+    lore:
+    - カリッと完璧。
+  grilled:
+    name: グリル
+    lore:
+    - ジューシーで柔らか。
+  finishing:
+    name: 仕上げ
+    lore:
+    - キッチンの仕上げカウンターでこのアイテムを作る。
+  baking:
+    name: オーブン焼き
+    lore:
+    - キッチンのオーブンカウンターでこのアイテムを作る。

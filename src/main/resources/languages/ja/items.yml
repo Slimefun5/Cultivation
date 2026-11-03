@@ -1,0 +1,6674 @@
+CLT_APRICOT:
+  name: アンズ
+  type:
+  - '&7&o作物'
+  description:
+  - これでモンスターボールが作れるよ。
+  - '...'
+  - え、それは別物だって...？
+CLT_ARTICHOKE:
+  name: アーティチョーク
+  type:
+  - '&7&o作物'
+  description:
+  - そのハートをえぐり出せ！
+CLT_ASPARAGUS:
+  name: アスパラガス
+  type:
+  - '&7&o作物'
+  description:
+  - あとでトイレに行くときはご用心。
+CLT_AUBERGINE:
+  name: ナス
+  type:
+  - '&7&o作物'
+  description:
+  - 鮮やかな紫色で、卵の形では100%ない。
+  - それでも英語ではエッグプラント、なんで？
+CLT_AVOCADO:
+  name: アボカド
+  type:
+  - '&7&o作物'
+  description:
+  - おしゃれ系男子の夢。
+CLT_BACON_SANDWICH:
+  name: ベーコンサンドイッチ
+  type:
+  - '&7&o食べ物'
+  description:
+  - シンプルな定番！
+  stats:
+  - '&8⇨ &7回復: &b2ハート'
+  - '&8⇨ &b攻撃力上昇 I &7(10:00)'
+  - '&8⇨ &b移動速度上昇 I &7(10:00)'
+CLT_BAGEL:
+  name: ベーグル
+  type:
+  - '&7&o食べ物'
+  description:
+  - トースト？ それとも...
+  stats:
+  - '&8⇨ &7回復: &b2.5ハート'
+CLT_BAGEL_BITE:
+  name: ミニベーグル
+  type:
+  - '&7&o食べ物'
+  description:
+  - いつでもピザを食べよう！
+  stats:
+  - '&8⇨ &7ひと口ごとに口の中が大やけど！'
+CLT_BAGEL_CREAM_CHEESE:
+  name: クリームチーズベーグル
+  type:
+  - '&7&o食べ物'
+  description:
+  - おいしすぎて、きっとおかわりしたくなる。
+  stats:
+  - '&8⇨ &7回復: &b5ハート'
+  - '&8⇨ &b体力増強 I &7(10:00)'
+CLT_BANANA:
+  name: バナナ
+  type:
+  - '&7&o作物'
+  description:
+  - この皮むき具合、むきむきに好き！
+CLT_BASIL:
+  name: バジル
+  type:
+  - '&7&o作物'
+  description:
+  - ほんのりコショウの後味がする甘い葉。
+CLT_BAY_LEAF:
+  name: ローリエ
+  type:
+  - '&7&o作物'
+  description:
+  - 使い道の多い、香りの強いハーブ。
+CLT_BELL_PEPPER:
+  name: ピーマン
+  type:
+  - '&7&o作物'
+  description:
+  - 本当にリンと響く。
+CLT_BISCUIT:
+  name: ビスケット
+  type:
+  - '&7&o食べ物'
+  description:
+  - 小さなおやつに、大きなおいしさ。
+  stats: &id002
+  - '&8⇨ &7空高く打ち上げられる'
+CLT_BISCUIT_BASE:
+  name: ビスケットの台
+  type:
+  - '&7&o作物'
+  description:
+  - 平たくなったからって
+  - 生で食べていいわけじゃない。
+CLT_BISCUIT_DOUGH:
+  name: ビスケット生地
+  type:
+  - '&7&o作物'
+  description:
+  - 「生で食べるな」と自分に言い聞かせよう。
+CLT_BLACK_BEANS:
+  name: 黒豆
+  type:
+  - '&7&o作物'
+  description:
+  - おいしいベジタリアン向けタンパク質。
+CLT_BLENDED_APPLE:
+  name: ミキサーにかけたリンゴ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_APRICOT:
+  name: ミキサーにかけたアンズ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_ARTICHOKE:
+  name: ミキサーにかけたアーティチョーク
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_ASPARAGUS:
+  name: ミキサーにかけたアスパラガス
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_AUBERGINE:
+  name: ミキサーにかけたナス
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_AVOCADO:
+  name: ミキサーにかけたアボカド
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_BANANA:
+  name: ミキサーにかけたバナナ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_BASIL:
+  name: ミキサーにかけたバジル
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_BAY_LEAF:
+  name: ミキサーにかけたローリエ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_BEEF:
+  name: ミキサーにかけた牛肉
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_BEETROOT:
+  name: ミキサーにかけたビートルート
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_BELL_PEPPER:
+  name: ミキサーにかけたピーマン
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_BLACK_BEANS:
+  name: ミキサーにかけた黒豆
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_BREAD:
+  name: ミキサーにかけたパン
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_BROCCOLI:
+  name: ミキサーにかけたブロッコリー
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_BROWN_MUSHROOM:
+  name: ミキサーにかけた茶色のキノコ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_BRUSSELS_SPROUTS:
+  name: ミキサーにかけた芽キャベツ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_CABBAGE:
+  name: ミキサーにかけたキャベツ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_CARROT:
+  name: ミキサーにかけたニンジン
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_CAULIFLOWER:
+  name: ミキサーにかけたカリフラワー
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_CAYENNE_PEPPER:
+  name: ミキサーにかけたカイエンペッパー
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_CELERIAC:
+  name: ミキサーにかけたセロリアック
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_CELERY:
+  name: ミキサーにかけたセロリ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_CHERRY:
+  name: ミキサーにかけたサクランボ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_CHESTNUT:
+  name: ミキサーにかけたクリ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_CHICKEN:
+  name: ミキサーにかけた鶏肉
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_CHICKPEAS:
+  name: ミキサーにかけたヒヨコ豆
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_CHICORY:
+  name: ミキサーにかけたチコリ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_CHILLY_PEPPER:
+  name: ミキサーにかけた唐辛子
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_CHIVES:
+  name: ミキサーにかけたチャイブ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_CHORUS_FRUIT:
+  name: ミキサーにかけたコーラスフルーツ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_CILANTRO:
+  name: ミキサーにかけたパクチー
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_CINNAMON:
+  name: ミキサーにかけたシナモン
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_CLOVE:
+  name: ミキサーにかけたクローブ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_COCOA_BEANS:
+  name: ミキサーにかけたカカオ豆
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_COD:
+  name: ミキサーにかけたタラ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_COURGETTE:
+  name: ミキサーにかけたズッキーニ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_CUCUMBER:
+  name: ミキサーにかけたキュウリ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_CUMIN:
+  name: ミキサーにかけたクミン
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_CURRY_LEAF:
+  name: ミキサーにかけたカレーリーフ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_DILL:
+  name: ミキサーにかけたディル
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_EGG:
+  name: ミキサーにかけた卵
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_ENCHANTED_GOLDEN_APPLE:
+  name: ミキサーにかけたエンチャントされた金のリンゴ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_FENNEL:
+  name: ミキサーにかけたフェンネル
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_GARLIC:
+  name: ミキサーにかけたニンニク
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_GINGER:
+  name: ミキサーにかけたショウガ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_GLOW_BERRIES:
+  name: ミキサーにかけたグロウベリー
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_GOLDEN_APPLE:
+  name: ミキサーにかけた金のリンゴ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_GOLDEN_CARROT:
+  name: ミキサーにかけた金のニンジン
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_GRAPE:
+  name: ミキサーにかけたブドウ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_GREEN_APPLE:
+  name: ミキサーにかけた青リンゴ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_GREEN_BEANS:
+  name: ミキサーにかけたサヤインゲン
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_GREEN_ONION:
+  name: ミキサーにかけたネギ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_HAZELNUT:
+  name: ミキサーにかけたヘーゼルナッツ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_HORSERADISH:
+  name: ミキサーにかけたホースラディッシュ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_JALAPENO:
+  name: ミキサーにかけたハラペーニョ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_JASMINE:
+  name: ミキサーにかけたジャスミン
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_JUNIPER_BERRY:
+  name: ミキサーにかけたジュニパーベリー
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_KAFFIR_LIME:
+  name: ミキサーにかけたコブミカンの葉
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_KALE:
+  name: ミキサーにかけたケール
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_KELP:
+  name: ミキサーにかけたコンブ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_KIWI:
+  name: ミキサーにかけたキウイ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_LAVENDER:
+  name: ミキサーにかけたラベンダー
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_LEEK:
+  name: ミキサーにかけたリーキ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_LEMON:
+  name: ミキサーにかけたレモン
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_LETTUCE:
+  name: ミキサーにかけたレタス
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_LICORICE:
+  name: ミキサーにかけたリコリス
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_LIME:
+  name: ミキサーにかけたライム
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_MACE:
+  name: ミキサーにかけたメース
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_MANGO:
+  name: ミキサーにかけたマンゴー
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_MARJORAM:
+  name: ミキサーにかけたマジョラム
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_MARROW:
+  name: ミキサーにかけたマロー
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_MELON:
+  name: ミキサーにかけたスイカ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_MINT:
+  name: ミキサーにかけたミント
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_MUSTARD_SEEDS:
+  name: ミキサーにかけたマスタードシード
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_MUTTON:
+  name: ミキサーにかけた羊肉
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_NETTLES:
+  name: ミキサーにかけたイラクサ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_OKRA:
+  name: ミキサーにかけたオクラ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_ONION:
+  name: ミキサーにかけたタマネギ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_ORANGE:
+  name: ミキサーにかけたオレンジ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_OREGANO:
+  name: ミキサーにかけたオレガノ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_PARSLEY:
+  name: ミキサーにかけたパセリ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_PARSNIP:
+  name: ミキサーにかけたパースニップ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_PEA:
+  name: ミキサーにかけたエンドウ豆
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_PEACH:
+  name: ミキサーにかけたモモ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_PEANUT:
+  name: ミキサーにかけたピーナッツ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_PEAR:
+  name: ミキサーにかけた洋ナシ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_PECAN:
+  name: ミキサーにかけたペカン
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_PEPPER:
+  name: ミキサーにかけた黒コショウ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_PEPPERONI:
+  name: ミキサーにかけたペパロニ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_PINEAPPLE:
+  name: ミキサーにかけたパイナップル
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_PINTO_BEANS:
+  name: ミキサーにかけたウズラ豆
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_PORKCHOP:
+  name: ミキサーにかけた豚肉
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_POTATO:
+  name: ミキサーにかけたジャガイモ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_PUFFERFISH:
+  name: ミキサーにかけたフグ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_PUMPKIN:
+  name: ミキサーにかけたカボチャ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_RABBIT:
+  name: ミキサーにかけたウサギ肉
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_RADDISH:
+  name: ミキサーにかけたラディッシュ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_RADICCHIO:
+  name: ミキサーにかけたラディッキオ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_RAPESEED:
+  name: ミキサーにかけた菜種
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_RED_MUSHROOM:
+  name: ミキサーにかけた赤色のキノコ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_RHUBARB:
+  name: ミキサーにかけたルバーブ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_RICE:
+  name: ミキサーにかけた米
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_ROSEMARY:
+  name: ミキサーにかけたローズマリー
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_ROTTEN_FLESH:
+  name: ミキサーにかけた腐った肉
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_RUNNER_BEANS:
+  name: ミキサーにかけたベニバナインゲン
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_RUTABAGA:
+  name: ミキサーにかけたルタバガ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_SALMON:
+  name: ミキサーにかけたサケ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_SASSAFRAS:
+  name: ミキサーにかけたサッサフラス
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_SHALLOT:
+  name: ミキサーにかけたエシャロット
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_SHISO:
+  name: ミキサーにかけたシソ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_SOY_BEANS:
+  name: ミキサーにかけた大豆
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_SPINACH:
+  name: ミキサーにかけたホウレンソウ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_STAR_ANISE:
+  name: ミキサーにかけた八角
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_STRAWBERRY:
+  name: ミキサーにかけたイチゴ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_SUGAR:
+  name: ミキサーにかけた砂糖
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_SWEETCORN:
+  name: ミキサーにかけたスイートコーン
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_SWEET_BERRIES:
+  name: ミキサーにかけたスイートベリー
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_SWEET_POTATO:
+  name: ミキサーにかけたサツマイモ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_TARRAGON:
+  name: ミキサーにかけたタラゴン
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_THYME:
+  name: ミキサーにかけたタイム
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_TOMATO:
+  name: ミキサーにかけたトマト
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_TURMERIC:
+  name: ミキサーにかけたウコン
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_TURNIP:
+  name: ミキサーにかけたカブ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_VANILLA:
+  name: ミキサーにかけたバニラ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_WASABI:
+  name: ミキサーにかけたワサビ
+  type:
+  - '&7&o副産物'
+CLT_BLENDED_WHEAT:
+  name: ミキサーにかけた小麦
+  type:
+  - '&7&o副産物'
+CLT_BLUE_CANDY:
+  name: 青いキャンディ
+  type:
+  - '&7&o食べ物'
+  description:
+  - うっとりするほど甘いキャンディ。
+  stats:
+  - '&8⇨ &7アレイを召喚する'
+CLT_BOILED_APPLE:
+  name: ゆでたリンゴ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_APRICOT:
+  name: ゆでたアンズ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_ARTICHOKE:
+  name: ゆでたアーティチョーク
+  type:
+  - '&7&o副産物'
+CLT_BOILED_ASPARAGUS:
+  name: ゆでたアスパラガス
+  type:
+  - '&7&o副産物'
+CLT_BOILED_AUBERGINE:
+  name: ゆでたナス
+  type:
+  - '&7&o副産物'
+CLT_BOILED_AVOCADO:
+  name: ゆでたアボカド
+  type:
+  - '&7&o副産物'
+CLT_BOILED_BANANA:
+  name: ゆでたバナナ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_BASIL:
+  name: ゆでたバジル
+  type:
+  - '&7&o副産物'
+CLT_BOILED_BAY_LEAF:
+  name: ゆでたローリエ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_BEEF:
+  name: ゆでた牛肉
+  type:
+  - '&7&o副産物'
+CLT_BOILED_BEETROOT:
+  name: ゆでたビートルート
+  type:
+  - '&7&o副産物'
+CLT_BOILED_BELL_PEPPER:
+  name: ゆでたピーマン
+  type:
+  - '&7&o副産物'
+CLT_BOILED_BLACK_BEANS:
+  name: ゆでた黒豆
+  type:
+  - '&7&o副産物'
+CLT_BOILED_BREAD:
+  name: ゆでたパン
+  type:
+  - '&7&o副産物'
+CLT_BOILED_BROCCOLI:
+  name: ゆでたブロッコリー
+  type:
+  - '&7&o副産物'
+CLT_BOILED_BROWN_MUSHROOM:
+  name: ゆでた茶色のキノコ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_BRUSSELS_SPROUTS:
+  name: ゆでた芽キャベツ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_CABBAGE:
+  name: ゆでたキャベツ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_CARROT:
+  name: ゆでたニンジン
+  type:
+  - '&7&o副産物'
+CLT_BOILED_CAULIFLOWER:
+  name: ゆでたカリフラワー
+  type:
+  - '&7&o副産物'
+CLT_BOILED_CAYENNE_PEPPER:
+  name: ゆでたカイエンペッパー
+  type:
+  - '&7&o副産物'
+CLT_BOILED_CELERIAC:
+  name: ゆでたセロリアック
+  type:
+  - '&7&o副産物'
+CLT_BOILED_CELERY:
+  name: ゆでたセロリ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_CHERRY:
+  name: ゆでたサクランボ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_CHESTNUT:
+  name: ゆでたクリ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_CHICKEN:
+  name: ゆでた鶏肉
+  type:
+  - '&7&o副産物'
+CLT_BOILED_CHICKPEAS:
+  name: ゆでたヒヨコ豆
+  type:
+  - '&7&o副産物'
+CLT_BOILED_CHICORY:
+  name: ゆでたチコリ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_CHILLY_PEPPER:
+  name: ゆでた唐辛子
+  type:
+  - '&7&o副産物'
+CLT_BOILED_CHIVES:
+  name: ゆでたチャイブ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_CHORUS_FRUIT:
+  name: ゆでたコーラスフルーツ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_CILANTRO:
+  name: ゆでたパクチー
+  type:
+  - '&7&o副産物'
+CLT_BOILED_CINNAMON:
+  name: ゆでたシナモン
+  type:
+  - '&7&o副産物'
+CLT_BOILED_CLOVE:
+  name: ゆでたクローブ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_COCOA_BEANS:
+  name: ゆでたカカオ豆
+  type:
+  - '&7&o副産物'
+CLT_BOILED_COD:
+  name: ゆでたタラ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_COURGETTE:
+  name: ゆでたズッキーニ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_CUCUMBER:
+  name: ゆでたキュウリ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_CUMIN:
+  name: ゆでたクミン
+  type:
+  - '&7&o副産物'
+CLT_BOILED_CURRY_LEAF:
+  name: ゆでたカレーリーフ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_DILL:
+  name: ゆでたディル
+  type:
+  - '&7&o副産物'
+CLT_BOILED_EGG:
+  name: ゆでた卵
+  type:
+  - '&7&o副産物'
+CLT_BOILED_ENCHANTED_GOLDEN_APPLE:
+  name: ゆでたエンチャントされた金のリンゴ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_FENNEL:
+  name: ゆでたフェンネル
+  type:
+  - '&7&o副産物'
+CLT_BOILED_GARLIC:
+  name: ゆでたニンニク
+  type:
+  - '&7&o副産物'
+CLT_BOILED_GINGER:
+  name: ゆでたショウガ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_GLOW_BERRIES:
+  name: ゆでたグロウベリー
+  type:
+  - '&7&o副産物'
+CLT_BOILED_GOLDEN_APPLE:
+  name: ゆでた金のリンゴ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_GOLDEN_CARROT:
+  name: ゆでた金のニンジン
+  type:
+  - '&7&o副産物'
+CLT_BOILED_GRAPE:
+  name: ゆでたブドウ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_GREEN_APPLE:
+  name: ゆでた青リンゴ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_GREEN_BEANS:
+  name: ゆでたサヤインゲン
+  type:
+  - '&7&o副産物'
+CLT_BOILED_GREEN_ONION:
+  name: ゆでたネギ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_HAZELNUT:
+  name: ゆでたヘーゼルナッツ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_HORSERADISH:
+  name: ゆでたホースラディッシュ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_JALAPENO:
+  name: ゆでたハラペーニョ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_JASMINE:
+  name: ゆでたジャスミン
+  type:
+  - '&7&o副産物'
+CLT_BOILED_JUNIPER_BERRY:
+  name: ゆでたジュニパーベリー
+  type:
+  - '&7&o副産物'
+CLT_BOILED_KAFFIR_LIME:
+  name: ゆでたコブミカンの葉
+  type:
+  - '&7&o副産物'
+CLT_BOILED_KALE:
+  name: ゆでたケール
+  type:
+  - '&7&o副産物'
+CLT_BOILED_KELP:
+  name: ゆでたコンブ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_KIWI:
+  name: ゆでたキウイ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_LAVENDER:
+  name: ゆでたラベンダー
+  type:
+  - '&7&o副産物'
+CLT_BOILED_LEEK:
+  name: ゆでたリーキ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_LEMON:
+  name: ゆでたレモン
+  type:
+  - '&7&o副産物'
+CLT_BOILED_LETTUCE:
+  name: ゆでたレタス
+  type:
+  - '&7&o副産物'
+CLT_BOILED_LICORICE:
+  name: ゆでたリコリス
+  type:
+  - '&7&o副産物'
+CLT_BOILED_LIME:
+  name: ゆでたライム
+  type:
+  - '&7&o副産物'
+CLT_BOILED_MACE:
+  name: ゆでたメース
+  type:
+  - '&7&o副産物'
+CLT_BOILED_MANGO:
+  name: ゆでたマンゴー
+  type:
+  - '&7&o副産物'
+CLT_BOILED_MARJORAM:
+  name: ゆでたマジョラム
+  type:
+  - '&7&o副産物'
+CLT_BOILED_MARROW:
+  name: ゆでたマロー
+  type:
+  - '&7&o副産物'
+CLT_BOILED_MELON:
+  name: ゆでたスイカ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_MINT:
+  name: ゆでたミント
+  type:
+  - '&7&o副産物'
+CLT_BOILED_MUSTARD_SEEDS:
+  name: ゆでたマスタードシード
+  type:
+  - '&7&o副産物'
+CLT_BOILED_MUTTON:
+  name: ゆでた羊肉
+  type:
+  - '&7&o副産物'
+CLT_BOILED_NETTLES:
+  name: ゆでたイラクサ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_OKRA:
+  name: ゆでたオクラ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_ONION:
+  name: ゆでたタマネギ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_ORANGE:
+  name: ゆでたオレンジ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_OREGANO:
+  name: ゆでたオレガノ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_PARSLEY:
+  name: ゆでたパセリ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_PARSNIP:
+  name: ゆでたパースニップ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_PEA:
+  name: ゆでたエンドウ豆
+  type:
+  - '&7&o副産物'
+CLT_BOILED_PEACH:
+  name: ゆでたモモ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_PEANUT:
+  name: ゆでたピーナッツ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_PEAR:
+  name: ゆでた洋ナシ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_PECAN:
+  name: ゆでたペカン
+  type:
+  - '&7&o副産物'
+CLT_BOILED_PEPPER:
+  name: ゆでた黒コショウ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_PEPPERONI:
+  name: ゆでたペパロニ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_PINEAPPLE:
+  name: ゆでたパイナップル
+  type:
+  - '&7&o副産物'
+CLT_BOILED_PINTO_BEANS:
+  name: ゆでたウズラ豆
+  type:
+  - '&7&o副産物'
+CLT_BOILED_PORKCHOP:
+  name: ゆでた豚肉
+  type:
+  - '&7&o副産物'
+CLT_BOILED_POTATO:
+  name: ゆでたジャガイモ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_PUFFERFISH:
+  name: ゆでたフグ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_PUMPKIN:
+  name: ゆでたカボチャ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_RABBIT:
+  name: ゆでたウサギ肉
+  type:
+  - '&7&o副産物'
+CLT_BOILED_RADDISH:
+  name: ゆでたラディッシュ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_RADICCHIO:
+  name: ゆでたラディッキオ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_RAPESEED:
+  name: ゆでた菜種
+  type:
+  - '&7&o副産物'
+CLT_BOILED_RED_MUSHROOM:
+  name: ゆでた赤色のキノコ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_RHUBARB:
+  name: ゆでたルバーブ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_RICE:
+  name: ゆでた米
+  type:
+  - '&7&o副産物'
+CLT_BOILED_ROSEMARY:
+  name: ゆでたローズマリー
+  type:
+  - '&7&o副産物'
+CLT_BOILED_ROTTEN_FLESH:
+  name: ゆでた腐った肉
+  type:
+  - '&7&o副産物'
+CLT_BOILED_RUNNER_BEANS:
+  name: ゆでたベニバナインゲン
+  type:
+  - '&7&o副産物'
+CLT_BOILED_RUTABAGA:
+  name: ゆでたルタバガ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_SALMON:
+  name: ゆでたサケ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_SASSAFRAS:
+  name: ゆでたサッサフラス
+  type:
+  - '&7&o副産物'
+CLT_BOILED_SHALLOT:
+  name: ゆでたエシャロット
+  type:
+  - '&7&o副産物'
+CLT_BOILED_SHISO:
+  name: ゆでたシソ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_SOY_BEANS:
+  name: ゆでた大豆
+  type:
+  - '&7&o副産物'
+CLT_BOILED_SPINACH:
+  name: ゆでたホウレンソウ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_STAR_ANISE:
+  name: ゆでた八角
+  type:
+  - '&7&o副産物'
+CLT_BOILED_STRAWBERRY:
+  name: ゆでたイチゴ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_SUGAR:
+  name: ゆでた砂糖
+  type:
+  - '&7&o副産物'
+CLT_BOILED_SWEETCORN:
+  name: ゆでたスイートコーン
+  type:
+  - '&7&o副産物'
+CLT_BOILED_SWEET_BERRIES:
+  name: ゆでたスイートベリー
+  type:
+  - '&7&o副産物'
+CLT_BOILED_SWEET_POTATO:
+  name: ゆでたサツマイモ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_TARRAGON:
+  name: ゆでたタラゴン
+  type:
+  - '&7&o副産物'
+CLT_BOILED_THYME:
+  name: ゆでたタイム
+  type:
+  - '&7&o副産物'
+CLT_BOILED_TOMATO:
+  name: ゆでたトマト
+  type:
+  - '&7&o副産物'
+CLT_BOILED_TURMERIC:
+  name: ゆでたウコン
+  type:
+  - '&7&o副産物'
+CLT_BOILED_TURNIP:
+  name: ゆでたカブ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_VANILLA:
+  name: ゆでたバニラ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_WASABI:
+  name: ゆでたワサビ
+  type:
+  - '&7&o副産物'
+CLT_BOILED_WHEAT:
+  name: ゆでた小麦
+  type:
+  - '&7&o副産物'
+CLT_BOWL_OF_STEVE:
+  name: ボウルに...スティーブ？
+  type:
+  - '&7&o食べ物'
+  description:
+  - いったい何なんだ &%£$
+  stats:
+  - '&8⇨ &b採掘速度低下 X &7(10:00)'
+  - '&8⇨ &b移動速度低下 VI &7(10:00)'
+  - '&8⇨ &b攻撃力上昇 X &7(10:00)'
+  - '&8⇨ &7体力が1/2ハートになる'
+CLT_BROCCOLI:
+  name: ブロッコリー
+  type:
+  - '&7&o作物'
+  description:
+  - 木を持った巨人かって？
+  - いいや、ちっちゃな木なだけさ :)
+CLT_BRUSSELS_SPROUTS:
+  name: 芽キャベツ
+  type:
+  - '&7&o作物'
+  description:
+  - ガスたっぷりのごちそう。
+CLT_BUSH_ARTICHOKE:
+  name: アーティチョークの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - 芸術家をアーティチョークっと絞めるなら
+  - この茂みが一番。はあ、ダジャレは難しい。
+CLT_BUSH_ASPARAGUS:
+  name: アスパラガスの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - このアスパラガスの茂みは
+  - すくすくストーカーに育つ！
+CLT_BUSH_AUBERGINE:
+  name: ナスの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - エッグプラントなんて呼ぶもんか。絶対に。
+CLT_BUSH_AVOCADO:
+  name: アボカドの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - この茂みは、水をあまり使わないように
+  - 特別に品種改良されている。
+CLT_BUSH_BASIL:
+  name: バジルの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - 気まぐれいっぱいの、陽気な茂み。
+CLT_BUSH_BAY_LEAF:
+  name: ローリエの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - この茂みの香りは何キロ先まで届く。
+CLT_BUSH_BELL_PEPPER:
+  name: ピーマンの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - そばを通るときは気をつけて、
+  - ベルを鳴らしちゃうかも。
+CLT_BUSH_BLACK_BEANS:
+  name: 黒豆の茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - 'この茂みがそっとささやく:'
+  - 君は素晴らしいお豆だ、まめに生きてるね。
+CLT_BUSH_BROCCOLI:
+  name: ブロッコリーの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - 食べられるちっちゃな木？ 誰が発明したの!?
+CLT_BUSH_BRUSSELS_SPROUTS:
+  name: 芽キャベツの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - ときどき有毒なガスを出す
+  - 茂み。
+CLT_BUSH_CABBAGE:
+  name: キャベツの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - 心のキャベツ、いや、キャパシティが
+  - たっぷりある茂み。
+CLT_BUSH_CAULIFLOWER:
+  name: カリフラワーの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - 小さな幸せの雲を
+  - 生み出せる茂み。
+CLT_BUSH_CAYENNE_PEPPER:
+  name: カイエンペッパーの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - ピリッとした態度の茂み。
+CLT_BUSH_CELERIAC:
+  name: セロリアックの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - また茂みから根菜が生えてる？
+  - セフィのおバカ™
+CLT_BUSH_CELERY:
+  name: セロリの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - この茂みは余計だ。
+  - セフィはセロリが嫌い。
+CLT_BUSH_CHICKPEAS:
+  name: ヒヨコ豆の茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - ニワトリとエンドウ豆を掛け合わせて
+  - 生まれた茂み。これぞ科学。
+CLT_BUSH_CHICORY:
+  name: チコリの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - チコリって根っこじゃなかった？ この
+  - アドオン、ちゃんと調べてるの!?
+CLT_BUSH_CHILLI_PEPPER:
+  name: 唐辛子の茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - この茂みを見ているだけで舌がヒリヒリする。
+CLT_BUSH_CHIVES:
+  name: チャイブの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - 事実上、世界一小さなタマネギを
+  - 実らせる茂み。
+CLT_BUSH_CILANTRO:
+  name: パクチーの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - この茂みから、かすかに柑橘とスパイスが香る。
+CLT_BUSH_CINNAMON:
+  name: シナモンの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - うっとりするほど香り高い茂み。
+CLT_BUSH_CLOVE:
+  name: クローブの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - とにかくクリスマスを思い出す茂み。
+CLT_BUSH_COURGETTE:
+  name: ズッキーニの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - なんでこの茂みは「ズッキーニ」って
+  - 叫び続けてるの？ アメリカ出身なのかな？
+CLT_BUSH_CUCUMBER:
+  name: キュウリの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - この茂みは、すてきな夏のサラダのためだけに
+  - 設計された。
+CLT_BUSH_CUMIN:
+  name: クミンの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - あたたかな柑橘の香りを放つ茂み。
+CLT_BUSH_CURRY_LEAF:
+  name: カレーリーフの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - から煎りするのが一番。
+CLT_BUSH_DILL:
+  name: ディルの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - この茂みはほかよりずっと早く育つ。
+CLT_BUSH_FENNEL:
+  name: フェンネルの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - なんでこの茂みは虫を寄せつけないの!?
+CLT_BUSH_GARLIC:
+  name: ニンニクの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - この茂み、とにかく口がくさい。
+CLT_BUSH_GINGER:
+  name: ショウガの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - この茂みは丸ごとゆでるとおいしい。
+CLT_BUSH_GRAPE:
+  name: ブドウの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - 熟してみずみずしいブドウが、今にも
+  - 茂みからこぼれ落ちそう。
+CLT_BUSH_GREEN_BEANS:
+  name: サヤインゲンの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - この茂みにトマトソースをかければ
+  - ベイクドビーンズの完成。
+CLT_BUSH_GREEN_ONION:
+  name: ネギの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - スカリオンとも呼ばれる。
+  - ネギはたいていの
+  - タマネギよりマイルドな味。
+CLT_BUSH_HORSERADISH:
+  name: ホースラディッシュの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - やっぱり、これが茂みに生えるのはおかしい。
+CLT_BUSH_JALAPENO:
+  name: ハラペーニョの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - この茂みを持っているだけで
+  - 1%の確率で燃え上がる。
+CLT_BUSH_JASMINE:
+  name: ジャスミンの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - この茂みの香りは、とても柔らかくまろやか。
+CLT_BUSH_JUNIPER_BERRY:
+  name: ジュニパーベリーの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - 茂みでは甘く、乾かすとピリッとする。
+CLT_BUSH_KAFFIR_LIME:
+  name: コブミカンの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - 実よりも葉のほうが求められる茂み。
+CLT_BUSH_KALE:
+  name: ケールの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - この茂みを植えると、すべてが
+  - うまくいくケール、いや、気がする。
+CLT_BUSH_LAVENDER:
+  name: ラベンダーの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - この茂みはあちこちに香りをまき散らす。
+CLT_BUSH_LEEK:
+  name: リーキの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - リーキって、コルセットを着けた
+  - タマネギなんだよ。本当の話。
+CLT_BUSH_LETTUCE:
+  name: レタスの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - そもそもレタスって茂みに生える？
+  - 'ネタバレ: 生えません。'
+CLT_BUSH_LICORICE:
+  name: リコリスの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - キモい
+CLT_BUSH_MACE:
+  name: メースの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - この茂み、襲撃者を追い払っているみたい？
+CLT_BUSH_MARJORAM:
+  name: マジョラムの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - 木の香りがする大きな茂み。
+CLT_BUSH_MARROW:
+  name: マローの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - この茂みが自分の重さを支えられるなんて
+  - 驚きだ。
+CLT_BUSH_MINT:
+  name: ミントの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - とにかく最高の香りの茂み。
+CLT_BUSH_MUSTARD:
+  name: マスタードシードの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - 口の中が火事みたい。
+CLT_BUSH_NETTLES:
+  name: イラクサの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - この茂みを通り抜けるときは気をつけて！
+CLT_BUSH_OKRA:
+  name: オクラの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - オクラ・ウィンフリーの野菜クラブで
+  - ナンバー1野菜に選ばれました。
+CLT_BUSH_ONION:
+  name: タマネギの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - この茂み、涙ぐんでるように見えない？
+CLT_BUSH_OREGANO:
+  name: オレガノの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - この強烈な匂いの茂みは訪問者を遠ざける。
+CLT_BUSH_PARSLEY:
+  name: パセリの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - この茂みを溶岩に投げ込め、今すぐ (≧▽≦)
+CLT_BUSH_PARSNIP:
+  name: パースニップの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - 手間を省いて、茂みごと
+  - ローストしちゃおう。
+CLT_BUSH_PEA:
+  name: エンドウ豆の茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - ピーよりキュー派です
+CLT_BUSH_PEANUTS:
+  name: ラッカセイの茂み
+  type:
+  - '&7&o茂み'
+  description: &id001
+  - しっかりして香り高く、タンパク質たっぷり。
+CLT_BUSH_PEPPER:
+  name: 黒コショウの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - 黒コショウは、ギリシャ・ローマ時代という
+  - 早い時期から、インドとヨーロッパの
+  - 香辛料貿易の重要な一部だった。
+CLT_BUSH_PINTO_BEANS:
+  name: ウズラ豆の茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - ブリトーが直接なる茂みの品種改良に
+  - 成功する日も近いよね？
+CLT_BUSH_RADDISH:
+  name: ラディッシュの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - この植物、今スケボーの技を決めた。
+  - まさにラディカル...ッシュ。
+CLT_BUSH_RADICCHIO:
+  name: ラディッキオの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - おしゃれに見せたい？ ラディッキオを料理に
+  - 入れよう。ほぼキャベツだけど、
+  - 洗練された人に見える。
+CLT_BUSH_RAPESEED:
+  name: 菜種の茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - この茂みは油っぽい何かをにじませている。
+CLT_BUSH_RHUBARB:
+  name: ルバーブの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - ルバーブが野菜だって知ってた？
+  - ハンマーの一種だと思ってた。
+CLT_BUSH_RICE:
+  name: イネの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - 究極の主食。
+CLT_BUSH_ROSEMARY:
+  name: ローズマリーの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - 日曜日のお昼ごはんを思い出させる香りの茂み。
+CLT_BUSH_RUNNER_BEANS:
+  name: ベニバナインゲンの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - この茂み、足が生えてる (°_°)？
+CLT_BUSH_RUTABAGA:
+  name: ルタバガの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - スウェーデンカブ。これはスウェーデンカブ。
+CLT_BUSH_SASSAFRAS:
+  name: サッサフラスの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - この茂みは小さな水辺の近くに
+  - 植えられるのが大好き。
+CLT_BUSH_SHALLOT:
+  name: エシャロットの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - この茂みは、かわいいミニタマネギをどんどん実らせる。
+  - エシャロットだけに、エッシャロッと驚くほど。
+CLT_BUSH_SHISO:
+  name: シソの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - この茂みは、ミントの茂みとバジルの茂みの
+  - 愛の結晶だと思いたい。残念ながら
+  - 茂み同士の交配なんてないけどね！
+CLT_BUSH_SOY_BEANS:
+  name: 大豆の茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - この茂みは人懐っこいごちそう。
+  - ダイズきになっちゃう。
+CLT_BUSH_SPINACH:
+  name: ホウレンソウの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - この茂みはポパイの親友。
+CLT_BUSH_STAR_ANISE:
+  name: 八角の茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - この茂みから漂う香りは、アニスならではで、
+  - 信じられないほど独特。
+CLT_BUSH_STRAWBERRY:
+  name: イチゴの茂み
+  type:
+  - '&7&o茂み'
+  description: *id001
+CLT_BUSH_SWEETCORN:
+  name: スイートコーンの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - この茂み、迷路にしてくれと
+  - 叫んでいるみたい。
+CLT_BUSH_SWEET_POTATO:
+  name: サツマイモの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - この茂みは本当に優しい。君が聞いていない間に
+  - 君のことをほめていたらしいよ。
+CLT_BUSH_TARRAGON:
+  name: タラゴンの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - この茂みは、あまり目立ちたくない。
+CLT_BUSH_THYME:
+  name: タイムの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - この茂みはいつもタイム...いや時間が足りない...ゴホン
+CLT_BUSH_TOMATO:
+  name: トマトの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - 熟して食べごろ。
+CLT_BUSH_TURMERIC:
+  name: ウコンの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - この茂みを持っているだけで
+  - スパイスの香りが鼻をくすぐる。
+CLT_BUSH_TURNIP:
+  name: カブの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - イギリス政府によれば、
+  - この茂みがすべての問題を解決してくれる。
+CLT_BUSH_VANILLA:
+  name: バニラの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - この茂みはスターバックスの近くに自生する。
+CLT_BUSH_WASABI:
+  name: ワサビの茂み
+  type:
+  - '&7&o茂み'
+  description:
+  - また茂みから根菜が？
+  - はあ...
+CLT_CABBAGE:
+  name: キャベツ
+  type:
+  - '&7&o作物'
+  description:
+  - キャベツの詰め放題。
+CLT_CAESAR_SALAD:
+  name: シーザーサラダ
+  type:
+  - '&7&o食べ物'
+  description:
+  - ヘルシーな定番。
+  stats:
+  - '&8⇨ &7回復: &b6ハート'
+  - '&8⇨ &b移動速度上昇 I &7(10:00)'
+  - '&8⇨ &b透明化 I &7(10:00)'
+  - '&8⇨ &b落下速度低下 I &7(10:00)'
+CLT_CAJUN_GARLIC_BUTTER_COD:
+  name: タラのケイジャンガーリックバター
+  type:
+  - '&7&o食べ物'
+  description:
+  - シンプルなのに風味あふれる一品。
+  stats:
+  - '&8⇨ &7回復: &b4ハート'
+  - '&8⇨ &b再生能力 II &7(10:00)'
+  - '&8⇨ &b移動速度上昇 I &7(10:00)'
+CLT_CAULIFLOWER:
+  name: カリフラワー
+  type:
+  - '&7&o作物'
+  description:
+  - 持ち運べる雲！
+CLT_CAYENNE_PEPPER:
+  name: カイエンペッパー
+  type:
+  - '&7&o作物'
+  description:
+  - ほんのりスパイシーなごちそう。
+CLT_CELERIAC:
+  name: セロリアック
+  type:
+  - '&7&o作物'
+  description:
+  - 多くの伝統料理に根ざした（へへ）
+  - ボリュームたっぷりの根菜。
+CLT_CELERY:
+  name: セロリ
+  type:
+  - '&7&o作物'
+  description:
+  - ただの筋っぽい水。違うというなら
+  - 説得してみて。
+CLT_CHEESE_BURGER:
+  name: ハンバーガー
+  type:
+  - '&7&o食べ物'
+  description:
+  - シンプルなチーズバーガー、でもこれに勝るものなし！
+  stats:
+  - '&8⇨ &7回復: &b4ハート'
+  - '&8⇨ &b再生能力 III &7(10:00)'
+CLT_CHEESY_SCALLOPED_COURGETTE:
+  name: ズッキーニのチーズグラタン
+  type:
+  - '&7&o食べ物'
+  description:
+  - 最高の定番料理の低糖質版。
+  stats:
+  - '&8⇨ &7回復: &b2ハート'
+  - '&8⇨ &b暗視 I &7(10:00)'
+  - '&8⇨ &b透明化 I &7(10:00)'
+CLT_CHERRY:
+  name: サクランボ
+  type:
+  - '&7&o作物'
+  description:
+  - なんだ、最初から砂糖漬けで実るのかと思ったのに、残念！
+CLT_CHESTNUT:
+  name: クリ
+  type:
+  - '&7&o作物'
+  description:
+  - 今すぐ焼かれるために作られた。
+CLT_CHICKEN_ALFREDO_MAC_AND_CHEESE:
+  name: チキンアルフレードマカロニチーズ
+  type:
+  - '&7&o食べ物'
+  description:
+  - ありふれた定番に、上品なひとひねり。
+  stats:
+  - '&8⇨ &7回復: &b1ハート'
+  - '&8⇨ &b火炎耐性 II &7(10:00)'
+  - '&8⇨ &b耐性 III &7(10:00)'
+CLT_CHICKEN_PASTA_BAKE:
+  name: チキンパスタベイク
+  type:
+  - '&7&o食べ物'
+  description:
+  - 学生の主食。
+  stats:
+  - '&8⇨ &7回復: &b5ハート'
+  - '&8⇨ &b暗視 I &7(10:00)'
+  - '&8⇨ &b水中呼吸 I &7(10:00)'
+CLT_CHICKEN_POT_PIE:
+  name: チキンポットパイ
+  type:
+  - '&7&o食べ物'
+  description:
+  - 心まで温まる、ほっとする料理。
+  stats:
+  - '&8⇨ &7回復: &b10ハート'
+  - '&8⇨ &b跳躍力上昇 II &7(10:00)'
+  - '&8⇨ &b満腹度回復 I &7(10:00)'
+CLT_CHICKPEAS:
+  name: ヒヨコ豆
+  type:
+  - '&7&o作物'
+  description:
+  - ブラックアイドピーズは歌えるけど、ヒヨコ豆はフムスと鼻歌しかできない。
+CLT_CHICORY:
+  name: チコリ
+  type:
+  - '&7&o作物'
+  description:
+  - ナッツのようでほろ苦い根。
+CLT_CHILLY_PEPPER:
+  name: 唐辛子
+  type:
+  - '&7&o作物'
+  description:
+  - 唐辛子1本くらい泣かずに食べられるよ。
+  - まあ、半分。
+  - うーーーん.... 1/4
+  - '...'
+  - わかった、舌にちょっと触れるだけなら
+CLT_CHIVES:
+  name: チャイブ
+  type:
+  - '&7&o作物'
+  description:
+  - タマネギの味がする、甘いハーブ。
+CLT_CHOPPED_APPLE:
+  name: 刻んだリンゴ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_APRICOT:
+  name: 刻んだアンズ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_ARTICHOKE:
+  name: 刻んだアーティチョーク
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_ASPARAGUS:
+  name: 刻んだアスパラガス
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_AUBERGINE:
+  name: 刻んだナス
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_AVOCADO:
+  name: 刻んだアボカド
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_BANANA:
+  name: 刻んだバナナ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_BASIL:
+  name: 刻んだバジル
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_BAY_LEAF:
+  name: 刻んだローリエ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_BEEF:
+  name: 刻んだ牛肉
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_BEETROOT:
+  name: 刻んだビートルート
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_BELL_PEPPER:
+  name: 刻んだピーマン
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_BLACK_BEANS:
+  name: 刻んだ黒豆
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_BREAD:
+  name: 刻んだパン
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_BROCCOLI:
+  name: 刻んだブロッコリー
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_BROWN_MUSHROOM:
+  name: 刻んだ茶色のキノコ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_BRUSSELS_SPROUTS:
+  name: 刻んだ芽キャベツ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_CABBAGE:
+  name: 刻んだキャベツ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_CARROT:
+  name: 刻んだニンジン
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_CAULIFLOWER:
+  name: 刻んだカリフラワー
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_CAYENNE_PEPPER:
+  name: 刻んだカイエンペッパー
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_CELERIAC:
+  name: 刻んだセロリアック
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_CELERY:
+  name: 刻んだセロリ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_CHERRY:
+  name: 刻んだサクランボ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_CHESTNUT:
+  name: 刻んだクリ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_CHICKEN:
+  name: 刻んだ鶏肉
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_CHICKPEAS:
+  name: 刻んだヒヨコ豆
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_CHICORY:
+  name: 刻んだチコリ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_CHILLY_PEPPER:
+  name: 刻んだ唐辛子
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_CHIVES:
+  name: 刻んだチャイブ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_CHORUS_FRUIT:
+  name: 刻んだコーラスフルーツ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_CILANTRO:
+  name: 刻んだパクチー
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_CINNAMON:
+  name: 刻んだシナモン
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_CLOVE:
+  name: 刻んだクローブ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_COCOA_BEANS:
+  name: 刻んだカカオ豆
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_COD:
+  name: 刻んだタラ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_COURGETTE:
+  name: 刻んだズッキーニ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_CUCUMBER:
+  name: 刻んだキュウリ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_CUMIN:
+  name: 刻んだクミン
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_CURRY_LEAF:
+  name: 刻んだカレーリーフ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_DILL:
+  name: 刻んだディル
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_EGG:
+  name: 刻んだ卵
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_ENCHANTED_GOLDEN_APPLE:
+  name: 刻んだエンチャントされた金のリンゴ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_FENNEL:
+  name: 刻んだフェンネル
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_GARLIC:
+  name: 刻んだニンニク
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_GINGER:
+  name: 刻んだショウガ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_GLOW_BERRIES:
+  name: 刻んだグロウベリー
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_GOLDEN_APPLE:
+  name: 刻んだ金のリンゴ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_GOLDEN_CARROT:
+  name: 刻んだ金のニンジン
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_GRAPE:
+  name: 刻んだブドウ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_GREEN_APPLE:
+  name: 刻んだ青リンゴ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_GREEN_BEANS:
+  name: 刻んだサヤインゲン
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_GREEN_ONION:
+  name: 刻んだネギ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_HAZELNUT:
+  name: 刻んだヘーゼルナッツ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_HORSERADISH:
+  name: 刻んだホースラディッシュ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_JALAPENO:
+  name: 刻んだハラペーニョ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_JASMINE:
+  name: 刻んだジャスミン
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_JUNIPER_BERRY:
+  name: 刻んだジュニパーベリー
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_KAFFIR_LIME:
+  name: 刻んだコブミカンの葉
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_KALE:
+  name: 刻んだケール
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_KELP:
+  name: 刻んだコンブ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_KIWI:
+  name: 刻んだキウイ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_LAVENDER:
+  name: 刻んだラベンダー
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_LEEK:
+  name: 刻んだリーキ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_LEMON:
+  name: 刻んだレモン
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_LETTUCE:
+  name: 刻んだレタス
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_LICORICE:
+  name: 刻んだリコリス
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_LIME:
+  name: 刻んだライム
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_MACE:
+  name: 刻んだメース
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_MANGO:
+  name: 刻んだマンゴー
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_MARJORAM:
+  name: 刻んだマジョラム
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_MARROW:
+  name: 刻んだマロー
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_MELON:
+  name: 刻んだスイカ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_MINT:
+  name: 刻んだミント
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_MUSTARD_SEEDS:
+  name: 刻んだマスタードシード
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_MUTTON:
+  name: 刻んだ羊肉
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_NETTLES:
+  name: 刻んだイラクサ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_OKRA:
+  name: 刻んだオクラ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_ONION:
+  name: 刻んだタマネギ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_ORANGE:
+  name: 刻んだオレンジ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_OREGANO:
+  name: 刻んだオレガノ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_PARSLEY:
+  name: 刻んだパセリ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_PARSNIP:
+  name: 刻んだパースニップ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_PEA:
+  name: 刻んだエンドウ豆
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_PEACH:
+  name: 刻んだモモ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_PEANUT:
+  name: 刻んだピーナッツ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_PEAR:
+  name: 刻んだ洋ナシ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_PECAN:
+  name: 刻んだペカン
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_PEPPER:
+  name: 刻んだ黒コショウ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_PEPPERONI:
+  name: 刻んだペパロニ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_PINEAPPLE:
+  name: 刻んだパイナップル
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_PINTO_BEANS:
+  name: 刻んだウズラ豆
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_PORKCHOP:
+  name: 刻んだ豚肉
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_POTATO:
+  name: 刻んだジャガイモ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_PUFFERFISH:
+  name: 刻んだフグ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_PUMPKIN:
+  name: 刻んだカボチャ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_RABBIT:
+  name: 刻んだウサギ肉
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_RADDISH:
+  name: 刻んだラディッシュ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_RADICCHIO:
+  name: 刻んだラディッキオ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_RAPESEED:
+  name: 刻んだ菜種
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_RED_MUSHROOM:
+  name: 刻んだ赤色のキノコ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_RHUBARB:
+  name: 刻んだルバーブ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_RICE:
+  name: 刻んだ米
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_ROSEMARY:
+  name: 刻んだローズマリー
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_ROTTEN_FLESH:
+  name: 刻んだ腐った肉
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_RUNNER_BEANS:
+  name: 刻んだベニバナインゲン
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_RUTABAGA:
+  name: 刻んだルタバガ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_SALMON:
+  name: 刻んだサケ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_SASSAFRAS:
+  name: 刻んだサッサフラス
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_SHALLOT:
+  name: 刻んだエシャロット
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_SHISO:
+  name: 刻んだシソ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_SOY_BEANS:
+  name: 刻んだ大豆
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_SPINACH:
+  name: 刻んだホウレンソウ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_STAR_ANISE:
+  name: 刻んだ八角
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_STRAWBERRY:
+  name: 刻んだイチゴ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_SUGAR:
+  name: 刻んだ砂糖
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_SWEETCORN:
+  name: 刻んだスイートコーン
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_SWEET_BERRIES:
+  name: 刻んだスイートベリー
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_SWEET_POTATO:
+  name: 刻んだサツマイモ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_TARRAGON:
+  name: 刻んだタラゴン
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_THYME:
+  name: 刻んだタイム
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_TOMATO:
+  name: 刻んだトマト
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_TURMERIC:
+  name: 刻んだウコン
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_TURNIP:
+  name: 刻んだカブ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_VANILLA:
+  name: 刻んだバニラ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_WASABI:
+  name: 刻んだワサビ
+  type:
+  - '&7&o副産物'
+CLT_CHOPPED_WHEAT:
+  name: 刻んだ小麦
+  type:
+  - '&7&o副産物'
+CLT_CILANTRO:
+  name: パクチー
+  type:
+  - '&7&o作物'
+  description:
+  - 柑橘の風味がきいた、やさしいスパイス。
+CLT_CINNAMON:
+  name: シナモン
+  type:
+  - '&7&o作物'
+  description:
+  - スティックのままかじるのが最高。
+CLT_CINNAMON_ROLL:
+  name: シナモンロール
+  type:
+  - '&7&o食べ物'
+  description:
+  - 楽しく巻かれた甘いごちそう。
+  - 食べると世界がひっくり返る！
+  stats:
+  - '&8⇨ &7回復: &b4ハート'
+  - '&8⇨ &b浮遊 I &7(10:00)'
+  - '&8⇨ &b落下速度低下 I &7(10:00)'
+CLT_CLOVE:
+  name: クローブ
+  type:
+  - '&7&o作物'
+  description:
+  - とても温かく、強烈な風味。
+CLT_COMPRESSED_BISCUIT:
+  name: 圧縮ビスケット
+  type:
+  - '&7&o食べ物'
+  description:
+  - 小さなおやつに、もっと大きなおいしさ。
+  stats: *id002
+CLT_COOKED_BURGER_PATTY:
+  name: 焼いたバーガーパティ
+  type:
+  - '&7&o作物'
+  description:
+  - したたり落ちんばかり
+CLT_COUNTER_BLENDER:
+  name: キッチンカウンター（ミキサー）
+  type:
+  - '&7&o機械'
+  description:
+  - このブロックを右クリックして作物をミキサーにかける。
+  usage: &id003
+  - プロの技！ 設置後、ブロックを持ったまま
+  - シフト+右クリックすると、キッチンの
+  - デザインが変わる。試してみて！
+CLT_COUNTER_BOILING:
+  name: キッチンカウンター（煮込み鍋）
+  type:
+  - '&7&o機械'
+  description:
+  - 特定のアイテムをゆでられる。
+  usage: *id003
+CLT_COUNTER_CHOPPING:
+  name: キッチンカウンター（刻み用まな板）
+  type:
+  - '&7&o機械'
+  description:
+  - このブロックを右クリックして作物を刻む。
+  usage: *id003
+CLT_COUNTER_FINISHING:
+  name: キッチンカウンター（仕上げ）
+  type:
+  - '&7&o機械'
+  description:
+  - 作物や副産物から、別の副産物や
+  - 完成した料理を作るのに使う。
+  usage: *id003
+CLT_COUNTER_FRYING:
+  name: キッチンカウンター（フライパン）
+  type:
+  - '&7&o機械'
+  description:
+  - 特定の作物を炒められる。
+  usage: *id003
+CLT_COUNTER_GRILL:
+  name: キッチンカウンター（グリル）
+  type:
+  - '&7&o機械'
+  description:
+  - 特定の作物をグリルできる。
+  usage: *id003
+CLT_COUNTER_GRINDER:
+  name: キッチンカウンター（すり鉢とすりこぎ）
+  type:
+  - '&7&o機械'
+  description:
+  - このブロックを右クリックして作物をすりつぶす。
+  usage: *id003
+CLT_COUNTER_MASHER:
+  name: キッチンカウンター（つぶし用ボウル）
+  type:
+  - '&7&o機械'
+  description:
+  - このブロックを右クリックして作物をつぶす。
+  usage: *id003
+CLT_COUNTER_NOTHING:
+  name: キッチンカウンター（空）
+  type:
+  - '&7&o機械'
+  description:
+  - 飾り専用！
+  usage: *id003
+CLT_COUNTER_OVEN:
+  name: キッチンカウンター（オーブン）
+  type:
+  - '&7&o機械'
+  description:
+  - 特定の作物をオーブンで焼ける。
+  usage: *id003
+CLT_COUNTER_SLICING:
+  name: キッチンカウンター（スライス用まな板）
+  type:
+  - '&7&o機械'
+  description:
+  - このブロックを右クリックして作物をスライスする。
+  usage: *id003
+CLT_COURGETTE:
+  name: ズッキーニ
+  type:
+  - '&7&o作物'
+  description:
+  - 'プロの技: パスタソースにすりおろすと'
+  - コクと食感が増す。
+CLT_CREAM_CHEESE:
+  name: クリームチーズ
+  type:
+  - '&7&o作物'
+  description:
+  - チーズっぽいというよりクリーミー。
+CLT_CROP_STICKS:
+  name: 作物支柱
+  type:
+  - '&7&o道具'
+  description:
+  - 種を育てるには、設置した種に
+  - 作物支柱を取り付ける必要がある。
+  - もう1組設置すると交配栽培になり、
+  - 植物が広がったり、
+  - 交配したりできる。
+CLT_CUCUMBER:
+  name: キュウリ
+  type:
+  - '&7&o作物'
+  description:
+  - 緑の皮に入った水。違うなら
+  - 証明してみて。
+CLT_CUMIN:
+  name: クミン
+  type:
+  - '&7&o作物'
+  description:
+  - 温かな柑橘の香りの植物。
+CLT_CURRY_LEAF:
+  name: カレーリーフ
+  type:
+  - '&7&o作物'
+  description:
+  - 数えきれないほどのすてきな料理の基本。
+CLT_DILL:
+  name: ディル
+  type:
+  - '&7&o作物'
+  description:
+  - 草の味しかしない。なんで
+  - みんなこれが好きなの？
+CLT_DOUGH:
+  name: パン生地
+  type:
+  - '&7&o作物'
+  description:
+  - ただの普通の生地！
+CLT_EGG_SALAD:
+  name: 卵サラダ
+  type:
+  - '&7&o作物'
+  description:
+  - 電車の中で開けてみなよ、できるものなら！
+CLT_EGG_SALAD_SANDWICH:
+  name: 卵サラダサンドイッチ
+  type:
+  - '&7&o食べ物'
+  description:
+  - ちょっと匂うけど、味は最高！
+  stats: &id006
+  - '&8⇨ &7回復: &b10ハート'
+  - '&8⇨ &b再生能力 II &7(10:00)'
+CLT_FENNEL:
+  name: フェンネル
+  type:
+  - '&7&o作物'
+  description:
+  - アニスとリコリスを混ぜたような味。
+CLT_FRIED_APPLE:
+  name: 炒めたリンゴ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_APRICOT:
+  name: 炒めたアンズ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_ARTICHOKE:
+  name: 炒めたアーティチョーク
+  type:
+  - '&7&o副産物'
+CLT_FRIED_ASPARAGUS:
+  name: 炒めたアスパラガス
+  type:
+  - '&7&o副産物'
+CLT_FRIED_AUBERGINE:
+  name: 炒めたナス
+  type:
+  - '&7&o副産物'
+CLT_FRIED_AVOCADO:
+  name: 炒めたアボカド
+  type:
+  - '&7&o副産物'
+CLT_FRIED_BANANA:
+  name: 炒めたバナナ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_BASIL:
+  name: 炒めたバジル
+  type:
+  - '&7&o副産物'
+CLT_FRIED_BAY_LEAF:
+  name: 炒めたローリエ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_BEEF:
+  name: 炒めた牛肉
+  type:
+  - '&7&o副産物'
+CLT_FRIED_BEETROOT:
+  name: 炒めたビートルート
+  type:
+  - '&7&o副産物'
+CLT_FRIED_BELL_PEPPER:
+  name: 炒めたピーマン
+  type:
+  - '&7&o副産物'
+CLT_FRIED_BLACK_BEANS:
+  name: 炒めた黒豆
+  type:
+  - '&7&o副産物'
+CLT_FRIED_BREAD:
+  name: 炒めたパン
+  type:
+  - '&7&o副産物'
+CLT_FRIED_BROCCOLI:
+  name: 炒めたブロッコリー
+  type:
+  - '&7&o副産物'
+CLT_FRIED_BROWN_MUSHROOM:
+  name: 炒めた茶色のキノコ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_BRUSSELS_SPROUTS:
+  name: 炒めた芽キャベツ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_CABBAGE:
+  name: 炒めたキャベツ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_CARROT:
+  name: 炒めたニンジン
+  type:
+  - '&7&o副産物'
+CLT_FRIED_CAULIFLOWER:
+  name: 炒めたカリフラワー
+  type:
+  - '&7&o副産物'
+CLT_FRIED_CAYENNE_PEPPER:
+  name: 炒めたカイエンペッパー
+  type:
+  - '&7&o副産物'
+CLT_FRIED_CELERIAC:
+  name: 炒めたセロリアック
+  type:
+  - '&7&o副産物'
+CLT_FRIED_CELERY:
+  name: 炒めたセロリ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_CHERRY:
+  name: 炒めたサクランボ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_CHESTNUT:
+  name: 炒めたクリ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_CHICKEN:
+  name: 炒めた鶏肉
+  type:
+  - '&7&o副産物'
+CLT_FRIED_CHICKPEAS:
+  name: 炒めたヒヨコ豆
+  type:
+  - '&7&o副産物'
+CLT_FRIED_CHICORY:
+  name: 炒めたチコリ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_CHILLY_PEPPER:
+  name: 炒めた唐辛子
+  type:
+  - '&7&o副産物'
+CLT_FRIED_CHIVES:
+  name: 炒めたチャイブ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_CHORUS_FRUIT:
+  name: 炒めたコーラスフルーツ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_CILANTRO:
+  name: 炒めたパクチー
+  type:
+  - '&7&o副産物'
+CLT_FRIED_CINNAMON:
+  name: 炒めたシナモン
+  type:
+  - '&7&o副産物'
+CLT_FRIED_CLOVE:
+  name: 炒めたクローブ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_COCOA_BEANS:
+  name: 炒めたカカオ豆
+  type:
+  - '&7&o副産物'
+CLT_FRIED_COD:
+  name: 炒めたタラ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_COURGETTE:
+  name: 炒めたズッキーニ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_CUCUMBER:
+  name: 炒めたキュウリ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_CUMIN:
+  name: 炒めたクミン
+  type:
+  - '&7&o副産物'
+CLT_FRIED_CURRY_LEAF:
+  name: 炒めたカレーリーフ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_DILL:
+  name: 炒めたディル
+  type:
+  - '&7&o副産物'
+CLT_FRIED_EGG:
+  name: 炒めた卵
+  type:
+  - '&7&o副産物'
+CLT_FRIED_ENCHANTED_GOLDEN_APPLE:
+  name: 炒めたエンチャントされた金のリンゴ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_FENNEL:
+  name: 炒めたフェンネル
+  type:
+  - '&7&o副産物'
+CLT_FRIED_GARLIC:
+  name: 炒めたニンニク
+  type:
+  - '&7&o副産物'
+CLT_FRIED_GINGER:
+  name: 炒めたショウガ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_GLOW_BERRIES:
+  name: 炒めたグロウベリー
+  type:
+  - '&7&o副産物'
+CLT_FRIED_GOLDEN_APPLE:
+  name: 炒めた金のリンゴ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_GOLDEN_CARROT:
+  name: 炒めた金のニンジン
+  type:
+  - '&7&o副産物'
+CLT_FRIED_GRAPE:
+  name: 炒めたブドウ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_GREEN_APPLE:
+  name: 炒めた青リンゴ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_GREEN_BEANS:
+  name: 炒めたサヤインゲン
+  type:
+  - '&7&o副産物'
+CLT_FRIED_GREEN_ONION:
+  name: 炒めたネギ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_HAZELNUT:
+  name: 炒めたヘーゼルナッツ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_HORSERADISH:
+  name: 炒めたホースラディッシュ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_JALAPENO:
+  name: 炒めたハラペーニョ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_JASMINE:
+  name: 炒めたジャスミン
+  type:
+  - '&7&o副産物'
+CLT_FRIED_JUNIPER_BERRY:
+  name: 炒めたジュニパーベリー
+  type:
+  - '&7&o副産物'
+CLT_FRIED_KAFFIR_LIME:
+  name: 炒めたコブミカンの葉
+  type:
+  - '&7&o副産物'
+CLT_FRIED_KALE:
+  name: 炒めたケール
+  type:
+  - '&7&o副産物'
+CLT_FRIED_KELP:
+  name: 炒めたコンブ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_KIWI:
+  name: 炒めたキウイ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_LAVENDER:
+  name: 炒めたラベンダー
+  type:
+  - '&7&o副産物'
+CLT_FRIED_LEEK:
+  name: 炒めたリーキ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_LEMON:
+  name: 炒めたレモン
+  type:
+  - '&7&o副産物'
+CLT_FRIED_LETTUCE:
+  name: 炒めたレタス
+  type:
+  - '&7&o副産物'
+CLT_FRIED_LICORICE:
+  name: 炒めたリコリス
+  type:
+  - '&7&o副産物'
+CLT_FRIED_LIME:
+  name: 炒めたライム
+  type:
+  - '&7&o副産物'
+CLT_FRIED_MACE:
+  name: 炒めたメース
+  type:
+  - '&7&o副産物'
+CLT_FRIED_MANGO:
+  name: 炒めたマンゴー
+  type:
+  - '&7&o副産物'
+CLT_FRIED_MARJORAM:
+  name: 炒めたマジョラム
+  type:
+  - '&7&o副産物'
+CLT_FRIED_MARROW:
+  name: 炒めたマロー
+  type:
+  - '&7&o副産物'
+CLT_FRIED_MELON:
+  name: 炒めたスイカ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_MINT:
+  name: 炒めたミント
+  type:
+  - '&7&o副産物'
+CLT_FRIED_MUSTARD_SEEDS:
+  name: 炒めたマスタードシード
+  type:
+  - '&7&o副産物'
+CLT_FRIED_MUTTON:
+  name: 炒めた羊肉
+  type:
+  - '&7&o副産物'
+CLT_FRIED_NETTLES:
+  name: 炒めたイラクサ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_OKRA:
+  name: 炒めたオクラ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_ONION:
+  name: 炒めたタマネギ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_ORANGE:
+  name: 炒めたオレンジ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_OREGANO:
+  name: 炒めたオレガノ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_PARSLEY:
+  name: 炒めたパセリ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_PARSNIP:
+  name: 炒めたパースニップ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_PEA:
+  name: 炒めたエンドウ豆
+  type:
+  - '&7&o副産物'
+CLT_FRIED_PEACH:
+  name: 炒めたモモ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_PEANUT:
+  name: 炒めたピーナッツ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_PEAR:
+  name: 炒めた洋ナシ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_PECAN:
+  name: 炒めたペカン
+  type:
+  - '&7&o副産物'
+CLT_FRIED_PEPPER:
+  name: 炒めた黒コショウ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_PEPPERONI:
+  name: 炒めたペパロニ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_PINEAPPLE:
+  name: 炒めたパイナップル
+  type:
+  - '&7&o副産物'
+CLT_FRIED_PINTO_BEANS:
+  name: 炒めたウズラ豆
+  type:
+  - '&7&o副産物'
+CLT_FRIED_PORKCHOP:
+  name: 炒めた豚肉
+  type:
+  - '&7&o副産物'
+CLT_FRIED_POTATO:
+  name: 炒めたジャガイモ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_PUFFERFISH:
+  name: 炒めたフグ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_PUMPKIN:
+  name: 炒めたカボチャ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_RABBIT:
+  name: 炒めたウサギ肉
+  type:
+  - '&7&o副産物'
+CLT_FRIED_RADDISH:
+  name: 炒めたラディッシュ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_RADICCHIO:
+  name: 炒めたラディッキオ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_RAPESEED:
+  name: 炒めた菜種
+  type:
+  - '&7&o副産物'
+CLT_FRIED_RED_MUSHROOM:
+  name: 炒めた赤色のキノコ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_RHUBARB:
+  name: 炒めたルバーブ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_RICE:
+  name: 炒めた米
+  type:
+  - '&7&o副産物'
+CLT_FRIED_ROSEMARY:
+  name: 炒めたローズマリー
+  type:
+  - '&7&o副産物'
+CLT_FRIED_ROTTEN_FLESH:
+  name: 炒めた腐った肉
+  type:
+  - '&7&o副産物'
+CLT_FRIED_RUNNER_BEANS:
+  name: 炒めたベニバナインゲン
+  type:
+  - '&7&o副産物'
+CLT_FRIED_RUTABAGA:
+  name: 炒めたルタバガ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_SALMON:
+  name: 炒めたサケ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_SASSAFRAS:
+  name: 炒めたサッサフラス
+  type:
+  - '&7&o副産物'
+CLT_FRIED_SHALLOT:
+  name: 炒めたエシャロット
+  type:
+  - '&7&o副産物'
+CLT_FRIED_SHISO:
+  name: 炒めたシソ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_SOY_BEANS:
+  name: 炒めた大豆
+  type:
+  - '&7&o副産物'
+CLT_FRIED_SPINACH:
+  name: 炒めたホウレンソウ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_STAR_ANISE:
+  name: 炒めた八角
+  type:
+  - '&7&o副産物'
+CLT_FRIED_STRAWBERRY:
+  name: 炒めたイチゴ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_SUGAR:
+  name: 炒めた砂糖
+  type:
+  - '&7&o副産物'
+CLT_FRIED_SWEETCORN:
+  name: 炒めたスイートコーン
+  type:
+  - '&7&o副産物'
+CLT_FRIED_SWEET_BERRIES:
+  name: 炒めたスイートベリー
+  type:
+  - '&7&o副産物'
+CLT_FRIED_SWEET_POTATO:
+  name: 炒めたサツマイモ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_TARRAGON:
+  name: 炒めたタラゴン
+  type:
+  - '&7&o副産物'
+CLT_FRIED_THYME:
+  name: 炒めたタイム
+  type:
+  - '&7&o副産物'
+CLT_FRIED_TOMATO:
+  name: 炒めたトマト
+  type:
+  - '&7&o副産物'
+CLT_FRIED_TURMERIC:
+  name: 炒めたウコン
+  type:
+  - '&7&o副産物'
+CLT_FRIED_TURNIP:
+  name: 炒めたカブ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_VANILLA:
+  name: 炒めたバニラ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_WASABI:
+  name: 炒めたワサビ
+  type:
+  - '&7&o副産物'
+CLT_FRIED_WHEAT:
+  name: 炒めた小麦
+  type:
+  - '&7&o副産物'
+CLT_FRUIT_SALAD:
+  name: フルーツサラダ
+  type:
+  - '&7&o食べ物'
+  description:
+  - サラダと呼べば、好きなだけ食べていい。
+  - だってヘルシーだから。
+  stats:
+  - '&8⇨ &7回復: &b6ハート'
+  - '&8⇨ &b移動速度上昇 III &7(10:00)'
+CLT_FUGU:
+  name: ふぐ刺し
+  type:
+  - '&7&o食べ物'
+  description:
+  - サイコロを振る覚悟はできた？
+  stats:
+  - '&8⇨ &7回復: &b1ハート'
+  - '&8⇨ &b攻撃力上昇 V &7(10:00)'
+  - '&8⇨ &733%の確率でただ死ぬ！'
+CLT_GARDEN_CLOCHE:
+  name: ガーデンクローシュ
+  type:
+  - '&7&o機械'
+  description:
+  - 中で植物を自動で育てる。
+  stats:
+  - '&8⇨ &7ティックあたりの電力: &b100'
+CLT_GARLIC:
+  name: ニンニク
+  type:
+  - '&7&o作物'
+  description:
+  - 急げ、吸血鬼が来る前に！
+CLT_GARLIC_BUTTER_MUSHROOMS:
+  name: キノコのガーリックバター炒め
+  type:
+  - '&7&o食べ物'
+  description:
+  - 地球上で一番の食べ物かもしれない。
+  stats:
+  - '&8⇨ &7回復: &b2ハート'
+  - '&8⇨ &b発光 I &7(10:00)'
+CLT_GINGER:
+  name: ショウガ
+  type:
+  - '&7&o作物'
+  description:
+  - 刻んだショウガを熱湯に入れれば、万病に効く！
+CLT_GRAPE:
+  name: ブドウ
+  type:
+  - '&7&o作物'
+  description:
+  - まんまるぷっくり！
+CLT_GRAPE_JELLY:
+  name: ブドウジャム
+  type:
+  - '&7&o作物'
+  description: &id008
+  - スプーンで食べるのは犯罪です。
+CLT_GREEN_APPLE:
+  name: 青リンゴ
+  type:
+  - '&7&o作物'
+  description:
+  - メモにはこう書いてある... 先生へ？
+CLT_GREEN_BEANS:
+  name: サヤインゲン
+  type:
+  - '&7&o作物'
+  description:
+  - なんて独創的なネーミング！
+CLT_GREEN_ONION:
+  name: ネギ
+  type:
+  - '&7&o作物'
+  description:
+  - タコスにぴったり！
+CLT_GRILLED_APPLE:
+  name: グリルしたリンゴ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_APRICOT:
+  name: グリルしたアンズ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_ARTICHOKE:
+  name: グリルしたアーティチョーク
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_ASPARAGUS:
+  name: グリルしたアスパラガス
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_AUBERGINE:
+  name: グリルしたナス
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_AVOCADO:
+  name: グリルしたアボカド
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_BANANA:
+  name: グリルしたバナナ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_BASIL:
+  name: グリルしたバジル
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_BAY_LEAF:
+  name: グリルしたローリエ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_BEEF:
+  name: グリルした牛肉
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_BEETROOT:
+  name: グリルしたビートルート
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_BELL_PEPPER:
+  name: グリルしたピーマン
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_BLACK_BEANS:
+  name: グリルした黒豆
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_BREAD:
+  name: グリルしたパン
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_BROCCOLI:
+  name: グリルしたブロッコリー
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_BROWN_MUSHROOM:
+  name: グリルした茶色のキノコ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_BRUSSELS_SPROUTS:
+  name: グリルした芽キャベツ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_CABBAGE:
+  name: グリルしたキャベツ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_CARROT:
+  name: グリルしたニンジン
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_CAULIFLOWER:
+  name: グリルしたカリフラワー
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_CAYENNE_PEPPER:
+  name: グリルしたカイエンペッパー
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_CELERIAC:
+  name: グリルしたセロリアック
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_CELERY:
+  name: グリルしたセロリ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_CHERRY:
+  name: グリルしたサクランボ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_CHESTNUT:
+  name: グリルしたクリ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_CHICKEN:
+  name: グリルした鶏肉
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_CHICKPEAS:
+  name: グリルしたヒヨコ豆
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_CHICORY:
+  name: グリルしたチコリ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_CHILLY_PEPPER:
+  name: グリルした唐辛子
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_CHIVES:
+  name: グリルしたチャイブ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_CHORUS_FRUIT:
+  name: グリルしたコーラスフルーツ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_CILANTRO:
+  name: グリルしたパクチー
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_CINNAMON:
+  name: グリルしたシナモン
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_CLOVE:
+  name: グリルしたクローブ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_COCOA_BEANS:
+  name: グリルしたカカオ豆
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_COD:
+  name: グリルしたタラ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_COURGETTE:
+  name: グリルしたズッキーニ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_CUCUMBER:
+  name: グリルしたキュウリ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_CUMIN:
+  name: グリルしたクミン
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_CURRY_LEAF:
+  name: グリルしたカレーリーフ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_DILL:
+  name: グリルしたディル
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_EGG:
+  name: グリルした卵
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_ENCHANTED_GOLDEN_APPLE:
+  name: グリルしたエンチャントされた金のリンゴ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_FENNEL:
+  name: グリルしたフェンネル
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_GARLIC:
+  name: グリルしたニンニク
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_GINGER:
+  name: グリルしたショウガ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_GLOW_BERRIES:
+  name: グリルしたグロウベリー
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_GOLDEN_APPLE:
+  name: グリルした金のリンゴ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_GOLDEN_CARROT:
+  name: グリルした金のニンジン
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_GRAPE:
+  name: グリルしたブドウ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_GREEN_APPLE:
+  name: グリルした青リンゴ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_GREEN_BEANS:
+  name: グリルしたサヤインゲン
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_GREEN_ONION:
+  name: グリルしたネギ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_HAZELNUT:
+  name: グリルしたヘーゼルナッツ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_HORSERADISH:
+  name: グリルしたホースラディッシュ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_JALAPENO:
+  name: グリルしたハラペーニョ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_JASMINE:
+  name: グリルしたジャスミン
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_JUNIPER_BERRY:
+  name: グリルしたジュニパーベリー
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_KAFFIR_LIME:
+  name: グリルしたコブミカンの葉
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_KALE:
+  name: グリルしたケール
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_KELP:
+  name: グリルしたコンブ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_KIWI:
+  name: グリルしたキウイ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_LAVENDER:
+  name: グリルしたラベンダー
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_LEEK:
+  name: グリルしたリーキ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_LEMON:
+  name: グリルしたレモン
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_LETTUCE:
+  name: グリルしたレタス
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_LICORICE:
+  name: グリルしたリコリス
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_LIME:
+  name: グリルしたライム
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_MACE:
+  name: グリルしたメース
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_MANGO:
+  name: グリルしたマンゴー
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_MARJORAM:
+  name: グリルしたマジョラム
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_MARROW:
+  name: グリルしたマロー
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_MELON:
+  name: グリルしたスイカ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_MINT:
+  name: グリルしたミント
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_MUSTARD_SEEDS:
+  name: グリルしたマスタードシード
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_MUTTON:
+  name: グリルした羊肉
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_NETTLES:
+  name: グリルしたイラクサ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_OKRA:
+  name: グリルしたオクラ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_ONION:
+  name: グリルしたタマネギ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_ORANGE:
+  name: グリルしたオレンジ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_OREGANO:
+  name: グリルしたオレガノ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_PARSLEY:
+  name: グリルしたパセリ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_PARSNIP:
+  name: グリルしたパースニップ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_PEA:
+  name: グリルしたエンドウ豆
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_PEACH:
+  name: グリルしたモモ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_PEANUT:
+  name: グリルしたピーナッツ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_PEAR:
+  name: グリルした洋ナシ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_PECAN:
+  name: グリルしたペカン
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_PEPPER:
+  name: グリルした黒コショウ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_PEPPERONI:
+  name: グリルしたペパロニ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_PINEAPPLE:
+  name: グリルしたパイナップル
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_PINTO_BEANS:
+  name: グリルしたウズラ豆
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_PORKCHOP:
+  name: グリルした豚肉
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_POTATO:
+  name: グリルしたジャガイモ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_PUFFERFISH:
+  name: グリルしたフグ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_PUMPKIN:
+  name: グリルしたカボチャ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_RABBIT:
+  name: グリルしたウサギ肉
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_RADDISH:
+  name: グリルしたラディッシュ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_RADICCHIO:
+  name: グリルしたラディッキオ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_RAPESEED:
+  name: グリルした菜種
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_RED_MUSHROOM:
+  name: グリルした赤色のキノコ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_RHUBARB:
+  name: グリルしたルバーブ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_RICE:
+  name: グリルした米
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_ROSEMARY:
+  name: グリルしたローズマリー
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_ROTTEN_FLESH:
+  name: グリルした腐った肉
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_RUNNER_BEANS:
+  name: グリルしたベニバナインゲン
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_RUTABAGA:
+  name: グリルしたルタバガ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_SALMON:
+  name: グリルしたサケ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_SALMON_SALAD:
+  name: グリルしたサーモンサラダ
+  type:
+  - '&7&o食べ物'
+  description:
+  - うっとりするほどサクサクで、味付けも見事。
+  stats:
+  - '&8⇨ &7回復: &b4ハート'
+  - '&8⇨ &b再生能力 I &7(10:00)'
+  - '&8⇨ &b体力増強 V &7(10:00)'
+CLT_GRILLED_SASSAFRAS:
+  name: グリルしたサッサフラス
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_SHALLOT:
+  name: グリルしたエシャロット
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_SHISO:
+  name: グリルしたシソ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_SOY_BEANS:
+  name: グリルした大豆
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_SPINACH:
+  name: グリルしたホウレンソウ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_STAR_ANISE:
+  name: グリルした八角
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_STRAWBERRY:
+  name: グリルしたイチゴ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_SUGAR:
+  name: グリルした砂糖
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_SWEETCORN:
+  name: グリルしたスイートコーン
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_SWEET_BERRIES:
+  name: グリルしたスイートベリー
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_SWEET_POTATO:
+  name: グリルしたサツマイモ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_TARRAGON:
+  name: グリルしたタラゴン
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_THYME:
+  name: グリルしたタイム
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_TOMATO:
+  name: グリルしたトマト
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_TURMERIC:
+  name: グリルしたウコン
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_TURNIP:
+  name: グリルしたカブ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_VANILLA:
+  name: グリルしたバニラ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_WASABI:
+  name: グリルしたワサビ
+  type:
+  - '&7&o副産物'
+CLT_GRILLED_WHEAT:
+  name: グリルした小麦
+  type:
+  - '&7&o副産物'
+CLT_GROUND_APPLE:
+  name: すりつぶしたリンゴ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_APRICOT:
+  name: すりつぶしたアンズ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_ARTICHOKE:
+  name: すりつぶしたアーティチョーク
+  type:
+  - '&7&o副産物'
+CLT_GROUND_ASPARAGUS:
+  name: すりつぶしたアスパラガス
+  type:
+  - '&7&o副産物'
+CLT_GROUND_AUBERGINE:
+  name: すりつぶしたナス
+  type:
+  - '&7&o副産物'
+CLT_GROUND_AVOCADO:
+  name: すりつぶしたアボカド
+  type:
+  - '&7&o副産物'
+CLT_GROUND_BANANA:
+  name: すりつぶしたバナナ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_BASIL:
+  name: すりつぶしたバジル
+  type:
+  - '&7&o副産物'
+CLT_GROUND_BAY_LEAF:
+  name: すりつぶしたローリエ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_BEEF:
+  name: すりつぶした牛肉
+  type:
+  - '&7&o副産物'
+CLT_GROUND_BEETROOT:
+  name: すりつぶしたビートルート
+  type:
+  - '&7&o副産物'
+CLT_GROUND_BELL_PEPPER:
+  name: すりつぶしたピーマン
+  type:
+  - '&7&o副産物'
+CLT_GROUND_BLACK_BEANS:
+  name: すりつぶした黒豆
+  type:
+  - '&7&o副産物'
+CLT_GROUND_BREAD:
+  name: すりつぶしたパン
+  type:
+  - '&7&o副産物'
+CLT_GROUND_BROCCOLI:
+  name: すりつぶしたブロッコリー
+  type:
+  - '&7&o副産物'
+CLT_GROUND_BROWN_MUSHROOM:
+  name: すりつぶした茶色のキノコ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_BRUSSELS_SPROUTS:
+  name: すりつぶした芽キャベツ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_CABBAGE:
+  name: すりつぶしたキャベツ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_CARROT:
+  name: すりつぶしたニンジン
+  type:
+  - '&7&o副産物'
+CLT_GROUND_CAULIFLOWER:
+  name: すりつぶしたカリフラワー
+  type:
+  - '&7&o副産物'
+CLT_GROUND_CAYENNE_PEPPER:
+  name: すりつぶしたカイエンペッパー
+  type:
+  - '&7&o副産物'
+CLT_GROUND_CELERIAC:
+  name: すりつぶしたセロリアック
+  type:
+  - '&7&o副産物'
+CLT_GROUND_CELERY:
+  name: すりつぶしたセロリ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_CHERRY:
+  name: すりつぶしたサクランボ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_CHESTNUT:
+  name: すりつぶしたクリ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_CHICKEN:
+  name: すりつぶした鶏肉
+  type:
+  - '&7&o副産物'
+CLT_GROUND_CHICKPEAS:
+  name: すりつぶしたヒヨコ豆
+  type:
+  - '&7&o副産物'
+CLT_GROUND_CHICORY:
+  name: すりつぶしたチコリ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_CHILLY_PEPPER:
+  name: すりつぶした唐辛子
+  type:
+  - '&7&o副産物'
+CLT_GROUND_CHIVES:
+  name: すりつぶしたチャイブ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_CHORUS_FRUIT:
+  name: すりつぶしたコーラスフルーツ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_CILANTRO:
+  name: すりつぶしたパクチー
+  type:
+  - '&7&o副産物'
+CLT_GROUND_CINNAMON:
+  name: すりつぶしたシナモン
+  type:
+  - '&7&o副産物'
+CLT_GROUND_CLOVE:
+  name: すりつぶしたクローブ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_COCOA_BEANS:
+  name: すりつぶしたカカオ豆
+  type:
+  - '&7&o副産物'
+CLT_GROUND_COD:
+  name: すりつぶしたタラ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_COURGETTE:
+  name: すりつぶしたズッキーニ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_CUCUMBER:
+  name: すりつぶしたキュウリ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_CUMIN:
+  name: すりつぶしたクミン
+  type:
+  - '&7&o副産物'
+CLT_GROUND_CURRY_LEAF:
+  name: すりつぶしたカレーリーフ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_DILL:
+  name: すりつぶしたディル
+  type:
+  - '&7&o副産物'
+CLT_GROUND_EGG:
+  name: すりつぶした卵
+  type:
+  - '&7&o副産物'
+CLT_GROUND_ENCHANTED_GOLDEN_APPLE:
+  name: すりつぶしたエンチャントされた金のリンゴ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_FENNEL:
+  name: すりつぶしたフェンネル
+  type:
+  - '&7&o副産物'
+CLT_GROUND_GARLIC:
+  name: すりつぶしたニンニク
+  type:
+  - '&7&o副産物'
+CLT_GROUND_GINGER:
+  name: すりつぶしたショウガ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_GLOW_BERRIES:
+  name: すりつぶしたグロウベリー
+  type:
+  - '&7&o副産物'
+CLT_GROUND_GOLDEN_APPLE:
+  name: すりつぶした金のリンゴ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_GOLDEN_CARROT:
+  name: すりつぶした金のニンジン
+  type:
+  - '&7&o副産物'
+CLT_GROUND_GRAPE:
+  name: すりつぶしたブドウ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_GREEN_APPLE:
+  name: すりつぶした青リンゴ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_GREEN_BEANS:
+  name: すりつぶしたサヤインゲン
+  type:
+  - '&7&o副産物'
+CLT_GROUND_GREEN_ONION:
+  name: すりつぶしたネギ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_HAZELNUT:
+  name: すりつぶしたヘーゼルナッツ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_HORSERADISH:
+  name: すりつぶしたホースラディッシュ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_JALAPENO:
+  name: すりつぶしたハラペーニョ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_JASMINE:
+  name: すりつぶしたジャスミン
+  type:
+  - '&7&o副産物'
+CLT_GROUND_JUNIPER_BERRY:
+  name: すりつぶしたジュニパーベリー
+  type:
+  - '&7&o副産物'
+CLT_GROUND_KAFFIR_LIME:
+  name: すりつぶしたコブミカンの葉
+  type:
+  - '&7&o副産物'
+CLT_GROUND_KALE:
+  name: すりつぶしたケール
+  type:
+  - '&7&o副産物'
+CLT_GROUND_KELP:
+  name: すりつぶしたコンブ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_KIWI:
+  name: すりつぶしたキウイ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_LAVENDER:
+  name: すりつぶしたラベンダー
+  type:
+  - '&7&o副産物'
+CLT_GROUND_LEEK:
+  name: すりつぶしたリーキ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_LEMON:
+  name: すりつぶしたレモン
+  type:
+  - '&7&o副産物'
+CLT_GROUND_LETTUCE:
+  name: すりつぶしたレタス
+  type:
+  - '&7&o副産物'
+CLT_GROUND_LICORICE:
+  name: すりつぶしたリコリス
+  type:
+  - '&7&o副産物'
+CLT_GROUND_LIME:
+  name: すりつぶしたライム
+  type:
+  - '&7&o副産物'
+CLT_GROUND_MACE:
+  name: すりつぶしたメース
+  type:
+  - '&7&o副産物'
+CLT_GROUND_MANGO:
+  name: すりつぶしたマンゴー
+  type:
+  - '&7&o副産物'
+CLT_GROUND_MARJORAM:
+  name: すりつぶしたマジョラム
+  type:
+  - '&7&o副産物'
+CLT_GROUND_MARROW:
+  name: すりつぶしたマロー
+  type:
+  - '&7&o副産物'
+CLT_GROUND_MELON:
+  name: すりつぶしたスイカ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_MINT:
+  name: すりつぶしたミント
+  type:
+  - '&7&o副産物'
+CLT_GROUND_MUSTARD_SEEDS:
+  name: すりつぶしたマスタードシード
+  type:
+  - '&7&o副産物'
+CLT_GROUND_MUTTON:
+  name: すりつぶした羊肉
+  type:
+  - '&7&o副産物'
+CLT_GROUND_NETTLES:
+  name: すりつぶしたイラクサ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_OKRA:
+  name: すりつぶしたオクラ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_ONION:
+  name: すりつぶしたタマネギ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_ORANGE:
+  name: すりつぶしたオレンジ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_OREGANO:
+  name: すりつぶしたオレガノ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_PARSLEY:
+  name: すりつぶしたパセリ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_PARSNIP:
+  name: すりつぶしたパースニップ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_PEA:
+  name: すりつぶしたエンドウ豆
+  type:
+  - '&7&o副産物'
+CLT_GROUND_PEACH:
+  name: すりつぶしたモモ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_PEANUT:
+  name: すりつぶしたピーナッツ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_PEAR:
+  name: すりつぶした洋ナシ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_PECAN:
+  name: すりつぶしたペカン
+  type:
+  - '&7&o副産物'
+CLT_GROUND_PEPPER:
+  name: すりつぶした黒コショウ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_PEPPERONI:
+  name: すりつぶしたペパロニ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_PINEAPPLE:
+  name: すりつぶしたパイナップル
+  type:
+  - '&7&o副産物'
+CLT_GROUND_PINTO_BEANS:
+  name: すりつぶしたウズラ豆
+  type:
+  - '&7&o副産物'
+CLT_GROUND_PORKCHOP:
+  name: すりつぶした豚肉
+  type:
+  - '&7&o副産物'
+CLT_GROUND_POTATO:
+  name: すりつぶしたジャガイモ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_PUFFERFISH:
+  name: すりつぶしたフグ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_PUMPKIN:
+  name: すりつぶしたカボチャ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_RABBIT:
+  name: すりつぶしたウサギ肉
+  type:
+  - '&7&o副産物'
+CLT_GROUND_RADDISH:
+  name: すりつぶしたラディッシュ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_RADICCHIO:
+  name: すりつぶしたラディッキオ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_RAPESEED:
+  name: すりつぶした菜種
+  type:
+  - '&7&o副産物'
+CLT_GROUND_RED_MUSHROOM:
+  name: すりつぶした赤色のキノコ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_RHUBARB:
+  name: すりつぶしたルバーブ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_RICE:
+  name: すりつぶした米
+  type:
+  - '&7&o副産物'
+CLT_GROUND_ROSEMARY:
+  name: すりつぶしたローズマリー
+  type:
+  - '&7&o副産物'
+CLT_GROUND_ROTTEN_FLESH:
+  name: すりつぶした腐った肉
+  type:
+  - '&7&o副産物'
+CLT_GROUND_RUNNER_BEANS:
+  name: すりつぶしたベニバナインゲン
+  type:
+  - '&7&o副産物'
+CLT_GROUND_RUTABAGA:
+  name: すりつぶしたルタバガ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_SALMON:
+  name: すりつぶしたサケ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_SASSAFRAS:
+  name: すりつぶしたサッサフラス
+  type:
+  - '&7&o副産物'
+CLT_GROUND_SHALLOT:
+  name: すりつぶしたエシャロット
+  type:
+  - '&7&o副産物'
+CLT_GROUND_SHISO:
+  name: すりつぶしたシソ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_SOY_BEANS:
+  name: すりつぶした大豆
+  type:
+  - '&7&o副産物'
+CLT_GROUND_SPINACH:
+  name: すりつぶしたホウレンソウ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_STAR_ANISE:
+  name: すりつぶした八角
+  type:
+  - '&7&o副産物'
+CLT_GROUND_STRAWBERRY:
+  name: すりつぶしたイチゴ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_SUGAR:
+  name: すりつぶした砂糖
+  type:
+  - '&7&o副産物'
+CLT_GROUND_SWEETCORN:
+  name: すりつぶしたスイートコーン
+  type:
+  - '&7&o副産物'
+CLT_GROUND_SWEET_BERRIES:
+  name: すりつぶしたスイートベリー
+  type:
+  - '&7&o副産物'
+CLT_GROUND_SWEET_POTATO:
+  name: すりつぶしたサツマイモ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_TARRAGON:
+  name: すりつぶしたタラゴン
+  type:
+  - '&7&o副産物'
+CLT_GROUND_THYME:
+  name: すりつぶしたタイム
+  type:
+  - '&7&o副産物'
+CLT_GROUND_TOMATO:
+  name: すりつぶしたトマト
+  type:
+  - '&7&o副産物'
+CLT_GROUND_TURMERIC:
+  name: すりつぶしたウコン
+  type:
+  - '&7&o副産物'
+CLT_GROUND_TURNIP:
+  name: すりつぶしたカブ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_VANILLA:
+  name: すりつぶしたバニラ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_WASABI:
+  name: すりつぶしたワサビ
+  type:
+  - '&7&o副産物'
+CLT_GROUND_WHEAT:
+  name: すりつぶした小麦
+  type:
+  - '&7&o副産物'
+CLT_HAZELNUT:
+  name: ヘーゼルナッツ
+  type:
+  - '&7&o作物'
+  description:
+  - どうにかしてこれを
+  - コーヒーにしてくれ、今すぐ！
+CLT_HORSERADISH:
+  name: ホースラディッシュ
+  type:
+  - '&7&o作物'
+  description:
+  - そのままかじったら$100あげる。
+CLT_JALAPENO:
+  name: ハラペーニョ
+  type:
+  - '&7&o作物'
+  description:
+  - アツアツアツ。
+CLT_JASMINE:
+  name: ジャスミン
+  type:
+  - '&7&o作物'
+  description:
+  - すばらしいお茶になる。
+CLT_JUNIPER_BERRY:
+  name: ジュニパーベリー
+  type:
+  - '&7&o作物'
+  description:
+  - ピリッと完璧に乾燥させた。
+CLT_KAFFIR_LIME:
+  name: コブミカンの葉
+  type:
+  - '&7&o作物'
+  description:
+  - 力強い爽やかさの葉。
+CLT_KALE:
+  name: ケール
+  type:
+  - '&7&o作物'
+  description:
+  - 助けて、2020年のスムージー系おしゃれさんになっちゃう！
+CLT_KETCHUP:
+  name: ケチャップ
+  type:
+  - '&7&o作物'
+  description:
+  - クリーム状になったただのトマト。
+CLT_KEY_LIME_PIE:
+  name: キーライムパイ
+  type:
+  - '&7&o食べ物'
+  description:
+  - とにかく最高！
+  stats:
+  - '&8⇨ &7回復: &b6ハート'
+  - '&8⇨ &b採掘速度上昇 IV &7(10:00)'
+CLT_KIWI:
+  name: キウイ
+  type:
+  - '&7&o作物'
+  description:
+  - これは脅されてアドオンに入れた。
+  - キウイは悪であり、これを
+  - 使った者は自動的に
+  - 100点減点される。
+CLT_LASAGNA:
+  name: ラザニア
+  type:
+  - '&7&o食べ物'
+  description:
+  - すばらしさが何層にも。
+  stats:
+  - '&8⇨ &7回復: &b全回復'
+  - '&8⇨ &b再生能力 II &7(10:00)'
+  - '&8⇨ &b耐性 II &7(10:00)'
+CLT_LAVENDER:
+  name: ラベンダー
+  type:
+  - '&7&o作物'
+  description:
+  - ゆっくりと眠りに誘われる香り。
+CLT_LEAVES_TREE_APRICOT:
+  name: アンズの木の葉
+  type:
+  - '&7&o葉'
+CLT_LEAVES_TREE_BANANA:
+  name: バナナの木の葉
+  type:
+  - '&7&o葉'
+CLT_LEAVES_TREE_CHERRY:
+  name: サクランボの木の葉
+  type:
+  - '&7&o葉'
+CLT_LEAVES_TREE_CHESTNUT:
+  name: クリの木の葉
+  type:
+  - '&7&o葉'
+CLT_LEAVES_TREE_GREEN_APPLE:
+  name: 青リンゴの木の葉
+  type:
+  - '&7&o葉'
+CLT_LEAVES_TREE_HAZELNUT:
+  name: ヘーゼルナッツの木の葉
+  type:
+  - '&7&o葉'
+CLT_LEAVES_TREE_KIWI:
+  name: キウイの木の葉
+  type:
+  - '&7&o葉'
+CLT_LEAVES_TREE_LEMON:
+  name: レモンの木の葉
+  type:
+  - '&7&o葉'
+CLT_LEAVES_TREE_LIME:
+  name: ライムの木の葉
+  type:
+  - '&7&o葉'
+CLT_LEAVES_TREE_MANGO:
+  name: マンゴーの木の葉
+  type:
+  - '&7&o葉'
+CLT_LEAVES_TREE_ORANGE:
+  name: オレンジの木の葉
+  type:
+  - '&7&o葉'
+CLT_LEAVES_TREE_PEACH:
+  name: モモの木の葉
+  type:
+  - '&7&o葉'
+CLT_LEAVES_TREE_PEAR:
+  name: 洋ナシの木の葉
+  type:
+  - '&7&o葉'
+CLT_LEAVES_TREE_PECAN:
+  name: ペカンの木の葉
+  type:
+  - '&7&o葉'
+CLT_LEAVES_TREE_PINEAPPLE:
+  name: パイナップルの木の葉
+  type:
+  - '&7&o葉'
+CLT_LEEK:
+  name: リーキ
+  type:
+  - '&7&o作物'
+  description:
+  - なぜか水がしたたっている？
+  - リーキだけに、リークしちゃった？
+CLT_LEMON:
+  name: レモン
+  type:
+  - '&7&o作物'
+  description:
+  - なんでそんなに酸っぱい顔？
+CLT_LEMON_DROP:
+  name: レモンドロップ
+  type:
+  - '&7&o食べ物'
+  description:
+  - 口直しにどうぞ。
+  stats:
+  - '&8⇨ &7すべての効果を消し、またお腹をすかせる。'
+CLT_LETTUCE:
+  name: レタス
+  type:
+  - '&7&o作物'
+  description:
+  - 薄くて水っぽいのに、おいしい。
+CLT_LICORICE:
+  name: リコリス
+  type:
+  - '&7&o作物'
+  description:
+  - 逃げろ、今すぐ逃げろ！
+CLT_LIME:
+  name: ライム
+  type:
+  - '&7&o作物'
+  description:
+  - むかしむかし、ライムもおいしい果物がありました...
+CLT_MACE:
+  name: メース
+  type:
+  - '&7&o作物'
+  description:
+  - 襲ってきた相手の顔に吹きかけて使う。
+  - '...'
+  - え、それは別の種類のメースだって？
+CLT_MANGO:
+  name: マンゴー
+  type:
+  - '&7&o作物'
+  description:
+  - マンゴー、いや、まんず行かなきゃ。
+  - 説明文を書くのは大変...
+CLT_MARJORAM:
+  name: マジョラム
+  type:
+  - '&7&o作物'
+  description:
+  - ちょっとカレーな、いや、華麗に急いでるんだ。あとで話せる？
+CLT_MARROW:
+  name: マロー
+  type:
+  - '&7&o作物'
+  description:
+  - マローって骨の中にあるって
+  - 知ってた？
+  - そう、セフィはかしこい。
+CLT_MASHED_APPLE:
+  name: つぶしたリンゴ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_APRICOT:
+  name: つぶしたアンズ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_ARTICHOKE:
+  name: つぶしたアーティチョーク
+  type:
+  - '&7&o副産物'
+CLT_MASHED_ASPARAGUS:
+  name: つぶしたアスパラガス
+  type:
+  - '&7&o副産物'
+CLT_MASHED_AUBERGINE:
+  name: つぶしたナス
+  type:
+  - '&7&o副産物'
+CLT_MASHED_AVOCADO:
+  name: つぶしたアボカド
+  type:
+  - '&7&o副産物'
+CLT_MASHED_BANANA:
+  name: つぶしたバナナ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_BASIL:
+  name: つぶしたバジル
+  type:
+  - '&7&o副産物'
+CLT_MASHED_BAY_LEAF:
+  name: つぶしたローリエ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_BEEF:
+  name: つぶした牛肉
+  type:
+  - '&7&o副産物'
+CLT_MASHED_BEETROOT:
+  name: つぶしたビートルート
+  type:
+  - '&7&o副産物'
+CLT_MASHED_BELL_PEPPER:
+  name: つぶしたピーマン
+  type:
+  - '&7&o副産物'
+CLT_MASHED_BLACK_BEANS:
+  name: つぶした黒豆
+  type:
+  - '&7&o副産物'
+CLT_MASHED_BREAD:
+  name: つぶしたパン
+  type:
+  - '&7&o副産物'
+CLT_MASHED_BROCCOLI:
+  name: つぶしたブロッコリー
+  type:
+  - '&7&o副産物'
+CLT_MASHED_BROWN_MUSHROOM:
+  name: つぶした茶色のキノコ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_BRUSSELS_SPROUTS:
+  name: つぶした芽キャベツ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_CABBAGE:
+  name: つぶしたキャベツ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_CARROT:
+  name: つぶしたニンジン
+  type:
+  - '&7&o副産物'
+CLT_MASHED_CAULIFLOWER:
+  name: つぶしたカリフラワー
+  type:
+  - '&7&o副産物'
+CLT_MASHED_CAYENNE_PEPPER:
+  name: つぶしたカイエンペッパー
+  type:
+  - '&7&o副産物'
+CLT_MASHED_CELERIAC:
+  name: つぶしたセロリアック
+  type:
+  - '&7&o副産物'
+CLT_MASHED_CELERY:
+  name: つぶしたセロリ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_CHERRY:
+  name: つぶしたサクランボ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_CHESTNUT:
+  name: つぶしたクリ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_CHICKEN:
+  name: つぶした鶏肉
+  type:
+  - '&7&o副産物'
+CLT_MASHED_CHICKPEAS:
+  name: つぶしたヒヨコ豆
+  type:
+  - '&7&o副産物'
+CLT_MASHED_CHICORY:
+  name: つぶしたチコリ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_CHILLY_PEPPER:
+  name: つぶした唐辛子
+  type:
+  - '&7&o副産物'
+CLT_MASHED_CHIVES:
+  name: つぶしたチャイブ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_CHORUS_FRUIT:
+  name: つぶしたコーラスフルーツ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_CILANTRO:
+  name: つぶしたパクチー
+  type:
+  - '&7&o副産物'
+CLT_MASHED_CINNAMON:
+  name: つぶしたシナモン
+  type:
+  - '&7&o副産物'
+CLT_MASHED_CLOVE:
+  name: つぶしたクローブ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_COCOA_BEANS:
+  name: つぶしたカカオ豆
+  type:
+  - '&7&o副産物'
+CLT_MASHED_COD:
+  name: つぶしたタラ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_COURGETTE:
+  name: つぶしたズッキーニ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_CUCUMBER:
+  name: つぶしたキュウリ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_CUMIN:
+  name: つぶしたクミン
+  type:
+  - '&7&o副産物'
+CLT_MASHED_CURRY_LEAF:
+  name: つぶしたカレーリーフ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_DILL:
+  name: つぶしたディル
+  type:
+  - '&7&o副産物'
+CLT_MASHED_EGG:
+  name: つぶした卵
+  type:
+  - '&7&o副産物'
+CLT_MASHED_ENCHANTED_GOLDEN_APPLE:
+  name: つぶしたエンチャントされた金のリンゴ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_FENNEL:
+  name: つぶしたフェンネル
+  type:
+  - '&7&o副産物'
+CLT_MASHED_GARLIC:
+  name: つぶしたニンニク
+  type:
+  - '&7&o副産物'
+CLT_MASHED_GINGER:
+  name: つぶしたショウガ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_GLOW_BERRIES:
+  name: つぶしたグロウベリー
+  type:
+  - '&7&o副産物'
+CLT_MASHED_GOLDEN_APPLE:
+  name: つぶした金のリンゴ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_GOLDEN_CARROT:
+  name: つぶした金のニンジン
+  type:
+  - '&7&o副産物'
+CLT_MASHED_GRAPE:
+  name: つぶしたブドウ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_GREEN_APPLE:
+  name: つぶした青リンゴ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_GREEN_BEANS:
+  name: つぶしたサヤインゲン
+  type:
+  - '&7&o副産物'
+CLT_MASHED_GREEN_ONION:
+  name: つぶしたネギ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_HAZELNUT:
+  name: つぶしたヘーゼルナッツ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_HORSERADISH:
+  name: つぶしたホースラディッシュ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_JALAPENO:
+  name: つぶしたハラペーニョ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_JASMINE:
+  name: つぶしたジャスミン
+  type:
+  - '&7&o副産物'
+CLT_MASHED_JUNIPER_BERRY:
+  name: つぶしたジュニパーベリー
+  type:
+  - '&7&o副産物'
+CLT_MASHED_KAFFIR_LIME:
+  name: つぶしたコブミカンの葉
+  type:
+  - '&7&o副産物'
+CLT_MASHED_KALE:
+  name: つぶしたケール
+  type:
+  - '&7&o副産物'
+CLT_MASHED_KELP:
+  name: つぶしたコンブ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_KIWI:
+  name: つぶしたキウイ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_LAVENDER:
+  name: つぶしたラベンダー
+  type:
+  - '&7&o副産物'
+CLT_MASHED_LEEK:
+  name: つぶしたリーキ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_LEMON:
+  name: つぶしたレモン
+  type:
+  - '&7&o副産物'
+CLT_MASHED_LETTUCE:
+  name: つぶしたレタス
+  type:
+  - '&7&o副産物'
+CLT_MASHED_LICORICE:
+  name: つぶしたリコリス
+  type:
+  - '&7&o副産物'
+CLT_MASHED_LIME:
+  name: つぶしたライム
+  type:
+  - '&7&o副産物'
+CLT_MASHED_MACE:
+  name: つぶしたメース
+  type:
+  - '&7&o副産物'
+CLT_MASHED_MANGO:
+  name: つぶしたマンゴー
+  type:
+  - '&7&o副産物'
+CLT_MASHED_MARJORAM:
+  name: つぶしたマジョラム
+  type:
+  - '&7&o副産物'
+CLT_MASHED_MARROW:
+  name: つぶしたマロー
+  type:
+  - '&7&o副産物'
+CLT_MASHED_MELON:
+  name: つぶしたスイカ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_MINT:
+  name: つぶしたミント
+  type:
+  - '&7&o副産物'
+CLT_MASHED_MUSTARD_SEEDS:
+  name: つぶしたマスタードシード
+  type:
+  - '&7&o副産物'
+CLT_MASHED_MUTTON:
+  name: つぶした羊肉
+  type:
+  - '&7&o副産物'
+CLT_MASHED_NETTLES:
+  name: つぶしたイラクサ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_OKRA:
+  name: つぶしたオクラ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_ONION:
+  name: つぶしたタマネギ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_ORANGE:
+  name: つぶしたオレンジ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_OREGANO:
+  name: つぶしたオレガノ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_PARSLEY:
+  name: つぶしたパセリ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_PARSNIP:
+  name: つぶしたパースニップ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_PEA:
+  name: つぶしたエンドウ豆
+  type:
+  - '&7&o副産物'
+CLT_MASHED_PEACH:
+  name: つぶしたモモ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_PEANUT:
+  name: つぶしたピーナッツ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_PEAR:
+  name: つぶした洋ナシ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_PECAN:
+  name: つぶしたペカン
+  type:
+  - '&7&o副産物'
+CLT_MASHED_PEPPER:
+  name: つぶした黒コショウ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_PEPPERONI:
+  name: つぶしたペパロニ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_PINEAPPLE:
+  name: つぶしたパイナップル
+  type:
+  - '&7&o副産物'
+CLT_MASHED_PINTO_BEANS:
+  name: つぶしたウズラ豆
+  type:
+  - '&7&o副産物'
+CLT_MASHED_PORKCHOP:
+  name: つぶした豚肉
+  type:
+  - '&7&o副産物'
+CLT_MASHED_POTATO:
+  name: つぶしたジャガイモ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_PUFFERFISH:
+  name: つぶしたフグ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_PUMPKIN:
+  name: つぶしたカボチャ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_RABBIT:
+  name: つぶしたウサギ肉
+  type:
+  - '&7&o副産物'
+CLT_MASHED_RADDISH:
+  name: つぶしたラディッシュ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_RADICCHIO:
+  name: つぶしたラディッキオ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_RAPESEED:
+  name: つぶした菜種
+  type:
+  - '&7&o副産物'
+CLT_MASHED_RED_MUSHROOM:
+  name: つぶした赤色のキノコ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_RHUBARB:
+  name: つぶしたルバーブ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_RICE:
+  name: つぶした米
+  type:
+  - '&7&o副産物'
+CLT_MASHED_ROSEMARY:
+  name: つぶしたローズマリー
+  type:
+  - '&7&o副産物'
+CLT_MASHED_ROTTEN_FLESH:
+  name: つぶした腐った肉
+  type:
+  - '&7&o副産物'
+CLT_MASHED_RUNNER_BEANS:
+  name: つぶしたベニバナインゲン
+  type:
+  - '&7&o副産物'
+CLT_MASHED_RUTABAGA:
+  name: つぶしたルタバガ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_SALMON:
+  name: つぶしたサケ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_SASSAFRAS:
+  name: つぶしたサッサフラス
+  type:
+  - '&7&o副産物'
+CLT_MASHED_SHALLOT:
+  name: つぶしたエシャロット
+  type:
+  - '&7&o副産物'
+CLT_MASHED_SHISO:
+  name: つぶしたシソ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_SOY_BEANS:
+  name: つぶした大豆
+  type:
+  - '&7&o副産物'
+CLT_MASHED_SPINACH:
+  name: つぶしたホウレンソウ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_STAR_ANISE:
+  name: つぶした八角
+  type:
+  - '&7&o副産物'
+CLT_MASHED_STRAWBERRY:
+  name: つぶしたイチゴ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_SUGAR:
+  name: つぶした砂糖
+  type:
+  - '&7&o副産物'
+CLT_MASHED_SWEETCORN:
+  name: つぶしたスイートコーン
+  type:
+  - '&7&o副産物'
+CLT_MASHED_SWEET_BERRIES:
+  name: つぶしたスイートベリー
+  type:
+  - '&7&o副産物'
+CLT_MASHED_SWEET_POTATO:
+  name: つぶしたサツマイモ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_TARRAGON:
+  name: つぶしたタラゴン
+  type:
+  - '&7&o副産物'
+CLT_MASHED_THYME:
+  name: つぶしたタイム
+  type:
+  - '&7&o副産物'
+CLT_MASHED_TOMATO:
+  name: つぶしたトマト
+  type:
+  - '&7&o副産物'
+CLT_MASHED_TURMERIC:
+  name: つぶしたウコン
+  type:
+  - '&7&o副産物'
+CLT_MASHED_TURNIP:
+  name: つぶしたカブ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_VANILLA:
+  name: つぶしたバニラ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_WASABI:
+  name: つぶしたワサビ
+  type:
+  - '&7&o副産物'
+CLT_MASHED_WHEAT:
+  name: つぶした小麦
+  type:
+  - '&7&o副産物'
+CLT_MAYONNAISE:
+  name: マヨネーズ
+  type:
+  - '&7&o作物'
+  description:
+  - ほぼ何にでも合う、なめらかなマヨネーズ。
+CLT_MEATBALLS:
+  name: ミートボール
+  type:
+  - '&7&o作物'
+  description:
+  - 肉のボール、誰が思いついたんだか。
+CLT_MEATLOAF:
+  name: ミートローフ
+  type:
+  - '&7&o食べ物'
+  description:
+  - これに勝るものなし！ さあ行こう。
+  stats:
+  - '&8⇨ &7回復: &b全回復'
+  - '&8⇨ &b体力増強 IV &7(10:00)'
+  - '&8⇨ &b耐性 III &7(10:00)'
+  - '&8⇨ &b採掘速度上昇 II &7(10:00)'
+  - '&8⇨ &b移動速度低下 II &7(10:00)'
+CLT_MINT:
+  name: ミント
+  type:
+  - '&7&o作物'
+  description:
+  - もぐもぐもぐ。
+CLT_MUSTARD:
+  name: マスタード
+  type:
+  - '&7&o作物'
+  description:
+  - ちょっとピリッとくる！
+CLT_MUSTARD_SEEDS:
+  name: マスタードの種
+  type:
+  - '&7&o作物'
+  description:
+  - かんでみなよ、できるものなら！
+CLT_NETTLES:
+  name: イラクサ
+  type:
+  - '&7&o作物'
+  description:
+  - これを持つ前に手袋をはめてください。
+CLT_OKRA:
+  name: オクラ
+  type:
+  - '&7&o作物'
+  description:
+  - オクラホマでオクラがたくさん育つ... よね、ね？
+CLT_ONION:
+  name: タマネギ
+  type:
+  - '&7&o作物'
+  description:
+  - ちょっと、なんで泣いてるの？
+CLT_ORANGE:
+  name: オレンジ
+  type:
+  - '&7&o作物'
+  description:
+  - これって時計仕掛けじゃなかったっけ？
+CLT_ORANGE_JUICE:
+  name: オレンジジュース
+  type:
+  - '&7&o食べ物'
+  description:
+  - 一日の始まりにこれ以上のものはない。
+  stats:
+  - '&8⇨ &b移動速度上昇 IV &7(10:00)'
+CLT_OREGANO:
+  name: オレガノ
+  type:
+  - '&7&o作物'
+  description:
+  - 戸棚に常備の定番ハーブ。
+CLT_PARSLEY:
+  name: パセリ
+  type:
+  - '&7&o作物'
+  description:
+  - 史上。最悪の。ハーブ。
+CLT_PARSNIP:
+  name: パースニップ
+  type:
+  - '&7&o作物'
+  description:
+  - 今すぐローストが必要。
+CLT_PASTA:
+  name: パスタ
+  type:
+  - '&7&o作物'
+  description:
+  - ただのパスタ、シンプルだけどすばらしい。
+CLT_PEA:
+  name: エンドウ豆
+  type:
+  - '&7&o作物'
+  description:
+  - さやの中に2つずつ入っていることが多い、らしいよ。
+CLT_PEACH:
+  name: モモ
+  type:
+  - '&7&o作物'
+  description:
+  - あの絵文字の話はしないで
+CLT_PEANUT:
+  name: ピーナッツ
+  type:
+  - '&7&o作物'
+  description:
+  - リーセス、今行くよ！
+CLT_PEANUT_BUTTER:
+  name: ピーナッツバター
+  type:
+  - '&7&o作物'
+  description:
+  - まさに液体の黄金。
+CLT_PEANUT_BUTTER_JELLY_SANDWICH:
+  name: ピーナッツバタージャムサンドイッチ
+  type:
+  - '&7&o食べ物'
+  description:
+  - まさにサンドイッチ技術の頂点。
+  stats:
+  - '&8⇨ &7回復: &b5ハート'
+  - '&8⇨ &b攻撃力上昇 III &7(10:00)'
+CLT_PEAR:
+  name: 洋ナシ
+  type:
+  - '&7&o作物'
+  description:
+  - これ、洋ナシ（用無し）どころかパーフェクトじゃない？
+CLT_PECAN:
+  name: ペカン
+  type:
+  - '&7&o作物'
+  description:
+  - パイにしてくれと言わんばかり。
+CLT_PECAN_PIE:
+  name: ペカンパイ
+  type:
+  - '&7&o食べ物'
+  description:
+  - 白い目で見られずに砂糖そのものを
+  - 食べる唯一の方法。
+  stats:
+  - '&8⇨ &7回復: &b4ハート'
+  - '&8⇨ &b浮遊 I &7(10:00)'
+CLT_PEPPER:
+  name: 黒コショウ
+  type:
+  - '&7&o作物'
+  description:
+  - 塩よりスパイシー。
+CLT_PEPPERONI:
+  name: ペパロニ
+  type:
+  - '&7&o作物'
+  description:
+  - これなら丸太1本分だって楽勝で食べられる。
+CLT_PICO_DE_GALLO:
+  name: ピコ・デ・ガヨ
+  type:
+  - '&7&o作物'
+  description:
+  - おいしさそのものが詰まったマイルドなサルサ。
+CLT_PIE_CRUST:
+  name: パイ生地
+  type:
+  - '&7&o作物'
+  description:
+  - これだけ食べるのが合法なら、
+  - 主食にするのに。
+CLT_PINEAPPLE:
+  name: パイナップル
+  type:
+  - '&7&o作物'
+  description:
+  - これは世界中のすべてのピザに乗るべき。
+  - 文句ある!?
+CLT_PINTO_BEANS:
+  name: ウズラ豆
+  type:
+  - '&7&o作物'
+  description:
+  - チャリーン！ ブリトーの時間だ。
+CLT_PIZZA_CHEESE:
+  name: チーズピザ
+  type:
+  - '&7&o食べ物'
+  description:
+  - なんでチーズだけを頼む人がいるのか、わからない。
+  stats:
+  - '&8⇨ &7回復: &b4ハート'
+  - '&8⇨ &b移動速度低下 I &7(10:00)'
+CLT_PIZZA_MUSHROOM:
+  name: キノコピザ
+  type:
+  - '&7&o食べ物'
+  description:
+  - タンパク質たっぷりのシンプルなベジタリアンピザ。
+  stats:
+  - '&8⇨ &7回復: &b6ハート'
+  - '&8⇨ &b移動速度低下 I &7(10:00)'
+  - '&8⇨ &b採掘速度上昇 II &7(10:00)'
+CLT_PIZZA_PEPPERONI:
+  name: ペパロニピザ
+  type:
+  - '&7&o食べ物'
+  description:
+  - 風味あふれるニューヨークの定番。
+  stats:
+  - '&8⇨ &7回復: &b6ハート'
+  - '&8⇨ &b移動速度上昇 I &7(10:00)'
+  - '&8⇨ &b採掘速度上昇 I &7(10:00)'
+  - '&8⇨ &b跳躍力上昇 I &7(10:00)'
+CLT_PLANT_AIR:
+  name: 原初の大気の株
+  type:
+  - '&7&o植物'
+  description:
+  - 周りの自然のメロディーに合わせて
+  - 静かにハミングする植物。
+  - '&e原初の植物はアイテムを生み出さず、'
+  - '&e交配専用です。'
+CLT_PLANT_AMETHYST:
+  name: アメジストの株
+  type:
+  - '&7&o植物'
+  description:
+  - この植物は、深く暗い場所で
+  - 生い茂るのが大好き。
+CLT_PLANT_ANALYSER:
+  name: 植物分析機
+  type:
+  - '&7&o道具'
+  description:
+  - 育っている植物の詳細を
+  - 見られる、とても基本的な道具
+  usage:
+  - '&e右クリック&7: 植物の種類と成長の詳細がわかる。'
+  - '&eシフト+右クリック&7: 植物や茂みの名前を表示する。'
+CLT_PLANT_BASALT:
+  name: 玄武岩の株
+  type:
+  - '&7&o植物'
+  description:
+  - とても退屈で地味な植物。
+CLT_PLANT_BEE:
+  name: ミツバチの株
+  type:
+  - '&7&o植物'
+  description:
+  - とても小さく繊細な羽を持つ植物。
+CLT_PLANT_BLACKSTONE:
+  name: ブラックストーンの株
+  type:
+  - '&7&o植物'
+  description:
+  - 光を吸収することで知られる植物。
+CLT_PLANT_BLAZE:
+  name: ブレイズの株
+  type:
+  - '&7&o植物'
+  description:
+  - 縁が焦げている植物。
+CLT_PLANT_CHICKEN:
+  name: ニワトリの株
+  type:
+  - '&7&o植物'
+  description:
+  - うわさによると、この種を頭上に掲げて
+  - 高い所から飛び降りると、
+  - 落ちるのではなく滑空する
+  - らしい。
+CLT_PLANT_CLAY:
+  name: 粘土の株
+  type:
+  - '&7&o植物'
+  description:
+  - この植物は自由に形を変えられる。
+  - だからといって、そうするのが
+  - いい考えとは限らないけどね！
+CLT_PLANT_COAL:
+  name: 石炭の株
+  type:
+  - '&7&o植物'
+  description:
+  - 大きな可能性を秘めた植物。
+CLT_PLANT_COBBLESTONE:
+  name: 丸石の株
+  type:
+  - '&7&o植物'
+  description:
+  - この植物は岩のように硬い。
+CLT_PLANT_CONCRETE:
+  name: コンクリートの株
+  type:
+  - '&7&o植物'
+  description:
+  - この植物はすぐに固まってしまうので
+  - なかなか育たない。
+CLT_PLANT_COW:
+  name: ウシの株
+  type:
+  - '&7&o植物'
+  description:
+  - この種を耳に当てて、よーく
+  - 耳を澄ますと、ときどき
+  - モーという鳴き声が聞こえる。
+CLT_PLANT_CREEPER:
+  name: クリーパーの株
+  type:
+  - '&7&o植物'
+  description:
+  - シュウウウウウウウウ...
+CLT_PLANT_DARKNESS:
+  name: 原初の闇の株
+  type:
+  - '&7&o植物'
+  description:
+  - 抑えきれない怒りに
+  - 煮えたぎる植物。
+  - '&e原初の植物はアイテムを生み出さず、'
+  - '&e交配専用です。'
+CLT_PLANT_DARK_FLORA:
+  name: 暗黒の花の株
+  type:
+  - '&7&o植物'
+  description:
+  - この素朴な種の中に、静かな悪が潜んでいる。
+CLT_PLANT_DARK_GRASS:
+  name: 暗黒の草の株
+  type:
+  - '&7&o植物'
+  description:
+  - 完全に自分を見失って
+  - しまった植物。
+CLT_PLANT_DEEPSLATE:
+  name: 深層岩の株
+  type:
+  - '&7&o植物'
+  description:
+  - 深く、層状で、<ここに説明文を入れる>。
+CLT_PLANT_DIAMOND:
+  name: ダイヤモンドの株
+  type:
+  - '&7&o植物'
+  description:
+  - いかにも富を語る植物。
+CLT_PLANT_DIM_LIT:
+  name: 薄明かりの株
+  type:
+  - '&7&o植物'
+  description:
+  - この種の中から、ごくかすかな光が漏れている。
+CLT_PLANT_DIRT:
+  name: 土の株
+  type:
+  - '&7&o植物'
+  description:
+  - 表面は汚れているが、命そのものの
+  - 構成要素を秘めている。
+CLT_PLANT_DROWNED:
+  name: ドラウンドの株
+  type:
+  - '&7&o植物'
+  description:
+  - いつでもびしょ濡れの
+  - 植物。
+CLT_PLANT_DUSTY:
+  name: ほこりまみれの株
+  type:
+  - '&7&o植物'
+  description:
+  - この植物は特別な手入れが必要。ほんの少し
+  - 強い風が吹いただけで、ばらばらに
+  - 崩れてしまう。
+CLT_PLANT_EARTH:
+  name: 原初の大地の株
+  type:
+  - '&7&o植物'
+  description:
+  - 周りの世界を豊かにする
+  - 植物。
+  - '&e原初の植物はアイテムを生み出さず、'
+  - '&e交配専用です。'
+CLT_PLANT_ECHO:
+  name: 残響の株
+  type:
+  - '&7&o植物'
+  description:
+  - この植物はいつでも
+  - 家への帰り道を知っている。
+CLT_PLANT_ELDER_GUARDIAN:
+  name: エルダーガーディアンの株
+  type:
+  - '&7&o植物'
+  description:
+  - この植物のそばにいると、人は
+  - のろのろになる。
+CLT_PLANT_EMERALD:
+  name: エメラルドの株
+  type:
+  - '&7&o植物'
+  description:
+  - この植物の持ち主は、手に入れるために
+  - 輪っかをくぐるほどの苦労をしている。
+CLT_PLANT_ENDERMAN:
+  name: エンダーマンの株
+  type:
+  - '&7&o植物'
+  description:
+  - 丁寧に扱わないと、この植物は
+  - ランダムにテレポートするかも！
+CLT_PLANT_ENDER_DRAGON:
+  name: エンダードラゴンの株
+  type:
+  - '&7&o植物'
+  description:
+  - まさにボス級の植物。
+CLT_PLANT_END_STONE:
+  name: エンドストーンの株
+  type:
+  - '&7&o植物'
+  description:
+  - 虚空とともに唸る植物。
+CLT_PLANT_FIRE:
+  name: 原初の炎の株
+  type:
+  - '&7&o植物'
+  description:
+  - 破壊の源と再生の源を
+  - どちらも
+  - もたらす植物。
+  - '&e原初の植物はアイテムを生み出さず、'
+  - '&e交配専用です。'
+CLT_PLANT_FISH:
+  name: 魚の株
+  type:
+  - '&7&o植物'
+  description:
+  - この種から熟れた香りが漂う。
+CLT_PLANT_FLOWER:
+  name: 花咲く株
+  type:
+  - '&7&o植物'
+  description:
+  - 見事に盛りつけられた美しい豊穣の角。
+CLT_PLANT_FROG:
+  name: カエルの株
+  type:
+  - '&7&o植物'
+  description:
+  - ケロケロ！
+CLT_PLANT_GHAST:
+  name: ガストの株
+  type:
+  - '&7&o植物'
+  description:
+  - ランダムに火の玉を撃つことで
+  - 知られる植物。
+CLT_PLANT_GLASS:
+  name: ガラスの株
+  type:
+  - '&7&o植物'
+  description:
+  - 角度によっては、この植物が
+  - 透けて見える気がする。
+CLT_PLANT_GLAZED:
+  name: 彩釉の株
+  type:
+  - '&7&o植物'
+  description:
+  - 精巧な模様を描いて育つ植物。
+CLT_PLANT_GLOWING_VINE:
+  name: 光るツタの株
+  type:
+  - '&7&o植物'
+  description:
+  - この種の中から、かすかな光が漏れている。
+CLT_PLANT_GLOW_SQUID:
+  name: ヒカリイカの株
+  type:
+  - '&7&o植物'
+  description:
+  - かすかに光る、きらきらした植物。
+CLT_PLANT_GOAT:
+  name: ヤギの株
+  type:
+  - '&7&o植物'
+  description:
+  - 飛び跳ねるのが大好きな、
+  - 気まぐれに凶暴な植物。
+CLT_PLANT_GRASS:
+  name: 草の株
+  type:
+  - '&7&o植物'
+  description:
+  - 芽吹く命が、大地から
+  - 勢いよく飛び出す。
+CLT_PLANT_GRAVEL:
+  name: 砂利の株
+  type:
+  - '&7&o植物'
+  description:
+  - この植物は、どうにも自分を
+  - まとめておけない。
+CLT_PLANT_GUARDIAN:
+  name: ガーディアンの株
+  type:
+  - '&7&o植物'
+  description:
+  - 触れると、この植物は
+  - トゲを放つ。
+CLT_PLANT_IGNEOUS:
+  name: 火成岩の株
+  type:
+  - '&7&o植物'
+  description:
+  - この植物は熱と圧力によって形作られた。
+  - そんな目で見ないで！ ここの植物の説明は
+  - どれも完全に筋が通ってるんだから。
+CLT_PLANT_LAPIS:
+  name: ラピスラズリの株
+  type:
+  - '&7&o植物'
+  description:
+  - かすかな魔法のオーラをまとう植物。
+CLT_PLANT_LIGHT:
+  name: 原初の光の株
+  type:
+  - '&7&o植物'
+  description:
+  - 純粋な愛のオーラを
+  - 放つ植物。
+  - '&e原初の植物はアイテムを生み出さず、'
+  - '&e交配専用です。'
+CLT_PLANT_MAGMA:
+  name: マグマの株
+  type:
+  - '&7&o植物'
+  description:
+  - あまりに熱くて、周りを焦がしてしまう
+  - 植物。
+CLT_PLANT_MAGMA_CUBE:
+  name: マグマキューブの株
+  type:
+  - '&7&o植物'
+  description:
+  - 誰も見ていないとき、この植物は
+  - ぴょんぴょん跳ねるのが好き。
+CLT_PLANT_MOSS:
+  name: コケの株
+  type:
+  - '&7&o植物'
+  description:
+  - この植物は手がつけられないほど広がりがち。
+CLT_PLANT_MUD:
+  name: 泥の株
+  type:
+  - '&7&o植物'
+  description:
+  - 生えてきた地面と同じくらい
+  - 汚れている植物。
+CLT_PLANT_MUSHROOM:
+  name: キノコの株
+  type:
+  - '&7&o植物'
+  description:
+  - そう、キノコを作る植物。
+  - こっちはすべてまったく普通です。
+CLT_PLANT_NETHERRACK:
+  name: ネザーラックの株
+  type:
+  - '&7&o植物'
+  description:
+  - たいていの場所で生き延びられる
+  - たくましく丈夫な植物。
+CLT_PLANT_NETHER_QUARTZ:
+  name: ネザークォーツの株
+  type:
+  - '&7&o植物'
+  description:
+  - この植物はトゲがとても鋭くて
+  - 扱いにくい。
+CLT_PLANT_PHANTOM:
+  name: ファントムの株
+  type:
+  - '&7&o植物'
+  description:
+  - 高くそびえる葉を持つ植物。
+CLT_PLANT_PIG:
+  name: ブタの株
+  type:
+  - '&7&o植物'
+  description:
+  - ときどき鼻を鳴らす植物。
+CLT_PLANT_POWER:
+  name: 原初の力の株
+  type:
+  - '&7&o植物'
+  description:
+  - 力がみなぎっている植物。
+  - '&e原初の植物はアイテムを生み出さず、'
+  - '&e交配専用です。'
+CLT_PLANT_PURPUR:
+  name: プルプァの株
+  type:
+  - '&7&o植物'
+  description:
+  - 奇妙な植物、ほかのものより
+  - ずっと軽いみたい。
+CLT_PLANT_RABBIT:
+  name: ウサギの株
+  type:
+  - '&7&o植物'
+  description:
+  - 虫たちも誇りに思うだろう。
+CLT_PLANT_RAINBOW:
+  name: 虹色の株
+  type:
+  - '&7&o植物'
+  description:
+  - この植物の先には、金の壺が
+  - あるかもしれないし、ないかもしれない。
+CLT_PLANT_RAW_COPPER:
+  name: 銅の原石の株
+  type:
+  - '&7&o植物'
+  description:
+  - 放っておくと、この植物はときどき
+  - 雷を呼び寄せる。
+CLT_PLANT_RAW_GOLD:
+  name: 金の原石の株
+  type:
+  - '&7&o植物'
+  description:
+  - この植物は、近くにピグリンがいると
+  - よく盗まれる。
+CLT_PLANT_RAW_IRON:
+  name: 鉄の原石の株
+  type:
+  - '&7&o植物'
+  description:
+  - たいていの環境に耐えられる
+  - 頑丈な植物。
+CLT_PLANT_REDSTONE:
+  name: レッドストーンの株
+  type:
+  - '&7&o植物'
+  description:
+  - 隅々まで力に満ちた植物。
+CLT_PLANT_RED_SAND:
+  name: 赤い砂の株
+  type:
+  - '&7&o植物'
+  description:
+  - この植物はひと触れでぼろぼろに
+  - 崩れることがある、ただし... もっと赤い。
+CLT_PLANT_REINFORCED:
+  name: 強化された株
+  type:
+  - '&7&o植物'
+  description:
+  - どんなことがあっても自分を
+  - 支えていられる植物。
+CLT_PLANT_SAND:
+  name: 砂の株
+  type:
+  - '&7&o植物'
+  description:
+  - この植物はひと触れでぼろぼろに
+  - 崩れることがある。
+CLT_PLANT_SAPLING:
+  name: 苗木の株
+  type:
+  - '&7&o植物'
+  description:
+  - この植物、意味がわからない...
+CLT_PLANT_SCRAPPY:
+  name: スクラップの株
+  type:
+  - '&7&o植物'
+  description:
+  - この植物こそ、まさに
+  - 園芸の頂点。
+CLT_PLANT_SHEEP:
+  name: ヒツジの株
+  type:
+  - '&7&o植物'
+  description:
+  - ごわごわした羊毛の手触りの植物。
+CLT_PLANT_SHULKER:
+  name: シュルカーの株
+  type:
+  - '&7&o植物'
+  description:
+  - よく地面から
+  - 浮き上がる植物。
+CLT_PLANT_SKELETON:
+  name: スケルトンの株
+  type:
+  - '&7&o植物'
+  description:
+  - 揺れるたびにカタカタ鳴る植物。
+CLT_PLANT_SLIME:
+  name: スライムの株
+  type:
+  - '&7&o植物'
+  description:
+  - なんでこんなにベタベタなの？
+CLT_PLANT_SOUL:
+  name: 魂の株
+  type:
+  - '&7&o植物'
+  description:
+  - 静かなときに叫び声が
+  - 聞こえる植物。
+CLT_PLANT_SPECTRUM:
+  name: 原初のスペクトルの株
+  type:
+  - '&7&o植物'
+  description:
+  - 少しずつ色が移ろう植物。
+  - '&e原初の植物はアイテムを生み出さず、'
+  - '&e交配専用です。'
+CLT_PLANT_SPIDER:
+  name: クモの株
+  type:
+  - '&7&o植物'
+  description:
+  - 殺せ、今すぐ殺すんだァ！
+CLT_PLANT_SQUID:
+  name: イカの株
+  type:
+  - '&7&o植物'
+  description:
+  - 気をつけて、この植物に触れるだけで
+  - あたり一面にインクが飛び散る
+  - 可能性がある。
+CLT_PLANT_STAINED:
+  name: 色付きの株
+  type:
+  - '&7&o植物'
+  description:
+  - この植物は光をまさにスペクトルに分けて
+  - 近くの物に映し出す。
+CLT_PLANT_TERRA:
+  name: テラの株
+  type:
+  - '&7&o植物'
+  description:
+  - 圧力がかかるとひび割れる、硬く土っぽい植物。
+CLT_PLANT_TURTLE:
+  name: カメの株
+  type:
+  - '&7&o植物'
+  description:
+  - 岩のように硬い殻に包まれた種。
+CLT_PLANT_VILLAGER:
+  name: 村人の株
+  type:
+  - '&7&o植物'
+  description:
+  - そう、村人のエッセンスを凝縮して
+  - 植物にしたんだ。かなり痛かったらしい。
+CLT_PLANT_VINE:
+  name: ツタの株
+  type:
+  - '&7&o植物'
+  description:
+  - あっという間に自分で
+  - こんがらがる植物。
+CLT_PLANT_WATER:
+  name: 原初の水の株
+  type:
+  - '&7&o植物'
+  description:
+  - 周りの土地を育み、命を
+  - 与える植物。
+  - '&e原初の植物はアイテムを生み出さず、'
+  - '&e交配専用です。'
+CLT_PLANT_WAXY:
+  name: ろう質の株
+  type:
+  - '&7&o植物'
+  description:
+  - この植物の樹液は、固まると
+  - 完璧なろうそく形のロウになる。
+CLT_PLANT_WEALTH:
+  name: 原初の富の株
+  type:
+  - '&7&o植物'
+  description:
+  - あふれんばかりの富を叫ぶ植物。
+  - '&e原初の植物はアイテムを生み出さず、'
+  - '&e交配専用です。'
+CLT_PLANT_WITCH:
+  name: ウィッチの株
+  type:
+  - '&7&o植物'
+  description:
+  - 小声で呪文をつぶやいているように
+  - 聞こえる植物。
+CLT_PLANT_WITHER:
+  name: ウィザーの株
+  type:
+  - '&7&o植物'
+  description:
+  - 慎重に扱わなければならない
+  - 死の植物。
+CLT_PLANT_WITHER_ROSE:
+  name: ウィザーローズの株
+  type:
+  - '&7&o植物'
+  description:
+  - この植物は、なぜか周りに有害な
+  - オーラを脈打たせている。
+CLT_PLANT_WITHER_SKELETON:
+  name: ウィザースケルトンの株
+  type:
+  - '&7&o植物'
+  description:
+  - つかみどころがなく、たくましいことで知られる植物。
+CLT_PLANT_WOOLLY:
+  name: もこもこの株
+  type:
+  - '&7&o植物'
+  description:
+  - 根から花びらまで、もこもこの植物！
+CLT_PLANT_ZOMBIE:
+  name: ゾンビの株
+  type:
+  - '&7&o植物'
+  description:
+  - この植物、何かが... したたっている...
+CLT_RADDISH:
+  name: ラディッシュ
+  type:
+  - '&7&o作物'
+  description:
+  - 新鮮でシャキッとした、小さな日差しの粒。
+CLT_RADICCHIO:
+  name: ラディッキオ
+  type:
+  - '&7&o作物'
+  description:
+  - この説明文を全部書くのはすごく時間がかかる。
+  - もうラディッキオ、いや、らちがあかない。
+CLT_RAMEN_BEEF:
+  name: 牛肉ラーメン
+  type:
+  - '&7&o食べ物'
+  description:
+  - あまりヘルシーではない選択。
+  stats: &id004
+  - '&8⇨ &b体力増強 I &7(10:00)'
+CLT_RAMEN_BEEF_HEARTY:
+  name: 具だくさん牛肉ラーメン
+  type:
+  - '&7&o食べ物'
+  description:
+  - ヘルシーな選択。
+  stats: &id005
+  - '&8⇨ &7回復: &b全回復'
+  - '&8⇨ &b体力増強 II &7(10:00)'
+  - '&8⇨ &b移動速度上昇 I &7(10:00)'
+CLT_RAMEN_CHICKEN:
+  name: 鶏ラーメン
+  type:
+  - '&7&o食べ物'
+  description:
+  - あまりお腹にたまらない選択。
+  stats: *id004
+CLT_RAMEN_CHICKEN_HEARTY:
+  name: 具だくさん鶏ラーメン
+  type:
+  - '&7&o食べ物'
+  description:
+  - お腹にたまる選択。
+  stats: *id005
+CLT_RAMEN_SEAFOOD:
+  name: シーフードラーメン
+  type:
+  - '&7&o食べ物'
+  description:
+  - あまり満足できない選択。
+  stats: *id004
+CLT_RAMEN_SEAFOOD_HEARTY:
+  name: 具だくさんシーフードラーメン
+  type:
+  - '&7&o食べ物'
+  description:
+  - 満足できる選択。
+  stats: *id005
+CLT_RAPESEED:
+  name: 菜種
+  type:
+  - '&7&o作物'
+  description:
+  - よく油を作るのに使われる。
+CLT_RECIPE_UNLOCK:
+  name: カルティベーションの知識の巻物
+  type:
+  - '&7&o道具'
+  description:
+  - 右クリックでカルティベーションの
+  - 交配レシピを習得する。
+CLT_RHUBARB:
+  name: ルバーブ
+  type:
+  - '&7&o作物'
+  description:
+  - 葉っぱは必ず取り除いてね！
+CLT_RICE:
+  name: 米
+  type:
+  - '&7&o作物'
+  description:
+  - 忘れないで、人生はお米一度きり！
+CLT_ROSEMARY:
+  name: ローズマリー
+  type:
+  - '&7&o作物'
+  description:
+  - よくタイム、いや、タイミングを逃す。
+CLT_RUNNER_BEANS:
+  name: ベニバナインゲン
+  type:
+  - '&7&o作物'
+  description:
+  - いつも逃げ出そうとしている。
+CLT_RUTABAGA:
+  name: ルタバガ
+  type:
+  - '&7&o作物'
+  description:
+  - これをスウェーデンカブと呼ばないのは本当につらい。
+CLT_SALMON_NIGIRI:
+  name: サーモンの握り
+  type:
+  - '&7&o食べ物'
+  description:
+  - うっとりするけど控えめな風味。
+  stats:
+  - '&8⇨ &7回復: &b2ハート'
+  - '&8⇨ &b再生能力 I &7(10:00)'
+CLT_SASSAFRAS:
+  name: サッサフラス
+  type:
+  - '&7&o作物'
+  description:
+  - 食べられるルートビア、マジでググって
+  - みて、今じゃいつも買ってる。
+CLT_SAUSAGE:
+  name: ソーセージ
+  type:
+  - '&7&o食べ物'
+  description:
+  - ベーコンの兄弟。
+  stats: &id007
+  - '&8⇨ &7回復: &b1ハート'
+CLT_SEED_PACK:
+  name: 種の袋
+  type:
+  - '&7&o道具'
+  description:
+  - 右クリックでこの袋を開ける。
+  stats:
+  - '&8⇨ &7設定: &bなし'
+CLT_SHAKSHUKA:
+  name: シャクシュカ
+  type:
+  - '&7&o食べ物'
+  description:
+  - 卵たっぷりの、心温まる一品。
+  stats:
+  - '&8⇨ &7回復: &b4ハート'
+  - '&8⇨ &b村の英雄 I &7(10:00)'
+  - '&8⇨ &b幸運 I &7(10:00)'
+CLT_SHALLOT:
+  name: エシャロット
+  type:
+  - '&7&o作物'
+  description:
+  - エシャロットをどっさり、しゃろっと大好き。
+CLT_SHEPHERDS_PIE:
+  name: シェパーズパイ
+  type:
+  - '&7&o食べ物'
+  description:
+  - 温かく、食べごたえがあって、とにかくすばらしい。
+  stats: *id006
+CLT_SHISO:
+  name: シソ
+  type:
+  - '&7&o作物'
+  description:
+  - 愛を添えたミント。
+CLT_SLICED_APPLE:
+  name: スライスしたリンゴ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_APRICOT:
+  name: スライスしたアンズ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_ARTICHOKE:
+  name: スライスしたアーティチョーク
+  type:
+  - '&7&o副産物'
+CLT_SLICED_ASPARAGUS:
+  name: スライスしたアスパラガス
+  type:
+  - '&7&o副産物'
+CLT_SLICED_AUBERGINE:
+  name: スライスしたナス
+  type:
+  - '&7&o副産物'
+CLT_SLICED_AVOCADO:
+  name: スライスしたアボカド
+  type:
+  - '&7&o副産物'
+CLT_SLICED_BANANA:
+  name: スライスしたバナナ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_BASIL:
+  name: スライスしたバジル
+  type:
+  - '&7&o副産物'
+CLT_SLICED_BAY_LEAF:
+  name: スライスしたローリエ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_BEEF:
+  name: スライスした牛肉
+  type:
+  - '&7&o副産物'
+CLT_SLICED_BEETROOT:
+  name: スライスしたビートルート
+  type:
+  - '&7&o副産物'
+CLT_SLICED_BELL_PEPPER:
+  name: スライスしたピーマン
+  type:
+  - '&7&o副産物'
+CLT_SLICED_BLACK_BEANS:
+  name: スライスした黒豆
+  type:
+  - '&7&o副産物'
+CLT_SLICED_BREAD:
+  name: スライスしたパン
+  type:
+  - '&7&o副産物'
+CLT_SLICED_BROCCOLI:
+  name: スライスしたブロッコリー
+  type:
+  - '&7&o副産物'
+CLT_SLICED_BROWN_MUSHROOM:
+  name: スライスした茶色のキノコ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_BRUSSELS_SPROUTS:
+  name: スライスした芽キャベツ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_CABBAGE:
+  name: スライスしたキャベツ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_CARROT:
+  name: スライスしたニンジン
+  type:
+  - '&7&o副産物'
+CLT_SLICED_CAULIFLOWER:
+  name: スライスしたカリフラワー
+  type:
+  - '&7&o副産物'
+CLT_SLICED_CAYENNE_PEPPER:
+  name: スライスしたカイエンペッパー
+  type:
+  - '&7&o副産物'
+CLT_SLICED_CELERIAC:
+  name: スライスしたセロリアック
+  type:
+  - '&7&o副産物'
+CLT_SLICED_CELERY:
+  name: スライスしたセロリ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_CHERRY:
+  name: スライスしたサクランボ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_CHESTNUT:
+  name: スライスしたクリ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_CHICKEN:
+  name: スライスした鶏肉
+  type:
+  - '&7&o副産物'
+CLT_SLICED_CHICKPEAS:
+  name: スライスしたヒヨコ豆
+  type:
+  - '&7&o副産物'
+CLT_SLICED_CHICORY:
+  name: スライスしたチコリ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_CHILLY_PEPPER:
+  name: スライスした唐辛子
+  type:
+  - '&7&o副産物'
+CLT_SLICED_CHIVES:
+  name: スライスしたチャイブ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_CHORUS_FRUIT:
+  name: スライスしたコーラスフルーツ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_CILANTRO:
+  name: スライスしたパクチー
+  type:
+  - '&7&o副産物'
+CLT_SLICED_CINNAMON:
+  name: スライスしたシナモン
+  type:
+  - '&7&o副産物'
+CLT_SLICED_CLOVE:
+  name: スライスしたクローブ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_COCOA_BEANS:
+  name: スライスしたカカオ豆
+  type:
+  - '&7&o副産物'
+CLT_SLICED_COD:
+  name: スライスしたタラ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_COURGETTE:
+  name: スライスしたズッキーニ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_CUCUMBER:
+  name: スライスしたキュウリ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_CUMIN:
+  name: スライスしたクミン
+  type:
+  - '&7&o副産物'
+CLT_SLICED_CURRY_LEAF:
+  name: スライスしたカレーリーフ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_DILL:
+  name: スライスしたディル
+  type:
+  - '&7&o副産物'
+CLT_SLICED_EGG:
+  name: スライスした卵
+  type:
+  - '&7&o副産物'
+CLT_SLICED_ENCHANTED_GOLDEN_APPLE:
+  name: スライスしたエンチャントされた金のリンゴ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_FENNEL:
+  name: スライスしたフェンネル
+  type:
+  - '&7&o副産物'
+CLT_SLICED_GARLIC:
+  name: スライスしたニンニク
+  type:
+  - '&7&o副産物'
+CLT_SLICED_GINGER:
+  name: スライスしたショウガ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_GLOW_BERRIES:
+  name: スライスしたグロウベリー
+  type:
+  - '&7&o副産物'
+CLT_SLICED_GOLDEN_APPLE:
+  name: スライスした金のリンゴ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_GOLDEN_CARROT:
+  name: スライスした金のニンジン
+  type:
+  - '&7&o副産物'
+CLT_SLICED_GRAPE:
+  name: スライスしたブドウ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_GREEN_APPLE:
+  name: スライスした青リンゴ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_GREEN_BEANS:
+  name: スライスしたサヤインゲン
+  type:
+  - '&7&o副産物'
+CLT_SLICED_GREEN_ONION:
+  name: スライスしたネギ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_HAZELNUT:
+  name: スライスしたヘーゼルナッツ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_HORSERADISH:
+  name: スライスしたホースラディッシュ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_JALAPENO:
+  name: スライスしたハラペーニョ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_JASMINE:
+  name: スライスしたジャスミン
+  type:
+  - '&7&o副産物'
+CLT_SLICED_JUNIPER_BERRY:
+  name: スライスしたジュニパーベリー
+  type:
+  - '&7&o副産物'
+CLT_SLICED_KAFFIR_LIME:
+  name: スライスしたコブミカンの葉
+  type:
+  - '&7&o副産物'
+CLT_SLICED_KALE:
+  name: スライスしたケール
+  type:
+  - '&7&o副産物'
+CLT_SLICED_KELP:
+  name: スライスしたコンブ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_KIWI:
+  name: スライスしたキウイ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_LAVENDER:
+  name: スライスしたラベンダー
+  type:
+  - '&7&o副産物'
+CLT_SLICED_LEEK:
+  name: スライスしたリーキ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_LEMON:
+  name: スライスしたレモン
+  type:
+  - '&7&o副産物'
+CLT_SLICED_LETTUCE:
+  name: スライスしたレタス
+  type:
+  - '&7&o副産物'
+CLT_SLICED_LICORICE:
+  name: スライスしたリコリス
+  type:
+  - '&7&o副産物'
+CLT_SLICED_LIME:
+  name: スライスしたライム
+  type:
+  - '&7&o副産物'
+CLT_SLICED_MACE:
+  name: スライスしたメース
+  type:
+  - '&7&o副産物'
+CLT_SLICED_MANGO:
+  name: スライスしたマンゴー
+  type:
+  - '&7&o副産物'
+CLT_SLICED_MARJORAM:
+  name: スライスしたマジョラム
+  type:
+  - '&7&o副産物'
+CLT_SLICED_MARROW:
+  name: スライスしたマロー
+  type:
+  - '&7&o副産物'
+CLT_SLICED_MELON:
+  name: スライスしたスイカ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_MINT:
+  name: スライスしたミント
+  type:
+  - '&7&o副産物'
+CLT_SLICED_MUSTARD_SEEDS:
+  name: スライスしたマスタードシード
+  type:
+  - '&7&o副産物'
+CLT_SLICED_MUTTON:
+  name: スライスした羊肉
+  type:
+  - '&7&o副産物'
+CLT_SLICED_NETTLES:
+  name: スライスしたイラクサ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_OKRA:
+  name: スライスしたオクラ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_ONION:
+  name: スライスしたタマネギ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_ORANGE:
+  name: スライスしたオレンジ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_OREGANO:
+  name: スライスしたオレガノ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_PARSLEY:
+  name: スライスしたパセリ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_PARSNIP:
+  name: スライスしたパースニップ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_PEA:
+  name: スライスしたエンドウ豆
+  type:
+  - '&7&o副産物'
+CLT_SLICED_PEACH:
+  name: スライスしたモモ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_PEANUT:
+  name: スライスしたピーナッツ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_PEAR:
+  name: スライスした洋ナシ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_PECAN:
+  name: スライスしたペカン
+  type:
+  - '&7&o副産物'
+CLT_SLICED_PEPPER:
+  name: スライスした黒コショウ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_PEPPERONI:
+  name: スライスしたペパロニ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_PINEAPPLE:
+  name: スライスしたパイナップル
+  type:
+  - '&7&o副産物'
+CLT_SLICED_PINTO_BEANS:
+  name: スライスしたウズラ豆
+  type:
+  - '&7&o副産物'
+CLT_SLICED_PORKCHOP:
+  name: スライスした豚肉
+  type:
+  - '&7&o副産物'
+CLT_SLICED_POTATO:
+  name: スライスしたジャガイモ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_PUFFERFISH:
+  name: スライスしたフグ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_PUMPKIN:
+  name: スライスしたカボチャ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_RABBIT:
+  name: スライスしたウサギ肉
+  type:
+  - '&7&o副産物'
+CLT_SLICED_RADDISH:
+  name: スライスしたラディッシュ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_RADICCHIO:
+  name: スライスしたラディッキオ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_RAPESEED:
+  name: スライスした菜種
+  type:
+  - '&7&o副産物'
+CLT_SLICED_RED_MUSHROOM:
+  name: スライスした赤色のキノコ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_RHUBARB:
+  name: スライスしたルバーブ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_RICE:
+  name: スライスした米
+  type:
+  - '&7&o副産物'
+CLT_SLICED_ROSEMARY:
+  name: スライスしたローズマリー
+  type:
+  - '&7&o副産物'
+CLT_SLICED_ROTTEN_FLESH:
+  name: スライスした腐った肉
+  type:
+  - '&7&o副産物'
+CLT_SLICED_RUNNER_BEANS:
+  name: スライスしたベニバナインゲン
+  type:
+  - '&7&o副産物'
+CLT_SLICED_RUTABAGA:
+  name: スライスしたルタバガ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_SALMON:
+  name: スライスしたサケ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_SASSAFRAS:
+  name: スライスしたサッサフラス
+  type:
+  - '&7&o副産物'
+CLT_SLICED_SHALLOT:
+  name: スライスしたエシャロット
+  type:
+  - '&7&o副産物'
+CLT_SLICED_SHISO:
+  name: スライスしたシソ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_SOY_BEANS:
+  name: スライスした大豆
+  type:
+  - '&7&o副産物'
+CLT_SLICED_SPINACH:
+  name: スライスしたホウレンソウ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_STAR_ANISE:
+  name: スライスした八角
+  type:
+  - '&7&o副産物'
+CLT_SLICED_STRAWBERRY:
+  name: スライスしたイチゴ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_SUGAR:
+  name: スライスした砂糖
+  type:
+  - '&7&o副産物'
+CLT_SLICED_SWEETCORN:
+  name: スライスしたスイートコーン
+  type:
+  - '&7&o副産物'
+CLT_SLICED_SWEET_BERRIES:
+  name: スライスしたスイートベリー
+  type:
+  - '&7&o副産物'
+CLT_SLICED_SWEET_POTATO:
+  name: スライスしたサツマイモ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_TARRAGON:
+  name: スライスしたタラゴン
+  type:
+  - '&7&o副産物'
+CLT_SLICED_THYME:
+  name: スライスしたタイム
+  type:
+  - '&7&o副産物'
+CLT_SLICED_TOMATO:
+  name: スライスしたトマト
+  type:
+  - '&7&o副産物'
+CLT_SLICED_TURMERIC:
+  name: スライスしたウコン
+  type:
+  - '&7&o副産物'
+CLT_SLICED_TURNIP:
+  name: スライスしたカブ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_VANILLA:
+  name: スライスしたバニラ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_WASABI:
+  name: スライスしたワサビ
+  type:
+  - '&7&o副産物'
+CLT_SLICED_WHEAT:
+  name: スライスした小麦
+  type:
+  - '&7&o副産物'
+CLT_SOFT_BOILED_EGG:
+  name: 半熟卵
+  type:
+  - '&7&o食べ物'
+  description:
+  - ただのゆで卵、ほかに言うことある？
+  stats:
+  - '&8⇨ &7回復: &b1ハート'
+  - '&8⇨ &7ときどきニワトリが助けに来てくれる。'
+CLT_SOYLENT:
+  name: ソイレント
+  type:
+  - '&7&o食べ物'
+  description:
+  - 体に必要なものすべて！
+  stats:
+  - '&8⇨ &b不吉な予感 I &7(10:00)'
+  - '&8⇨ &b弱体化 IV &7(10:00)'
+CLT_SOY_BEANS:
+  name: 大豆
+  type:
+  - '&7&o作物'
+  description:
+  - 豆乳、来たれり。
+CLT_SPAGHETTI:
+  name: スパゲッティ
+  type:
+  - '&7&o食べ物'
+  description:
+  - ひたすらすすり続けよう。
+  stats: *id007
+CLT_SPAGHETTI_AND_MEATBALLS:
+  name: ミートボールスパゲッティ
+  type:
+  - '&7&o食べ物'
+  description:
+  - シンプルで定番、食べごたえあり。
+  stats:
+  - '&8⇨ &7回復: &b1ハート'
+  - '&8⇨ &b不吉な予感 I &7(10:00)'
+CLT_SPINACH:
+  name: ホウレンソウ
+  type:
+  - '&7&o作物'
+  description:
+  - 愛をこめてしんなりと。
+CLT_STAR_ANISE:
+  name: 八角
+  type:
+  - '&7&o作物'
+  description:
+  - 最高にして、最も独特な風味のひとつ。
+CLT_STRAWBERRY:
+  name: イチゴ
+  type:
+  - '&7&o作物'
+  description:
+  - クリームを足すだけ！
+CLT_STRAWBERRY_JELLY:
+  name: イチゴジャム
+  type:
+  - '&7&o作物'
+  description: *id008
+CLT_SUGARED_SKULL:
+  name: シュガースカル
+  type:
+  - '&7&o食べ物'
+  description:
+  - これって食べ物なの...？
+  stats:
+  - '&8⇨ &b暗闇 III &7(10:00)'
+CLT_SWEETCORN:
+  name: スイートコーン
+  type:
+  - '&7&o作物'
+  description:
+  - たぶんこのあたりで一番の野菜。
+CLT_SWEET_BEEHIVE:
+  name: 甘いハチの巣
+  type:
+  - '&7&o食べ物'
+  description:
+  - なんでこれを料理しようと思ったの！
+  stats:
+  - '&8⇨ &7ミツバチを何匹か召喚する！'
+CLT_SWEET_POTATO:
+  name: サツマイモ
+  type:
+  - '&7&o作物'
+  description:
+  - ヤムヤムヤム。
+CLT_TAQUITO:
+  name: タキート
+  type:
+  - '&7&o食べ物'
+  description:
+  - ジムも誇りに思うだろう！
+  stats:
+  - '&8⇨ &7回復: &b4ハート'
+  - '&8⇨ &7ガーが助けに来る（アイアンゴーレムだから安心して）。'
+CLT_TARRAGON:
+  name: タラゴン
+  type:
+  - '&7&o作物'
+  description:
+  - これは文字どおり何にでもかける。
+  - 'ネタバレ: 料理は下手です。'
+CLT_TATER_TOTS:
+  name: テイタートッツ
+  type:
+  - '&7&o食べ物'
+  description:
+  - ひと口サイズのポテトたち。
+  stats:
+  - '&8⇨ &7回復: &b0.5ハート'
+  - '&8⇨ &b移動速度上昇 II &7(10:00)'
+CLT_THYME:
+  name: タイム
+  type:
+  - '&7&o作物'
+  description:
+  - よくローズマリーを恋しがる。
+CLT_TOMATO:
+  name: トマト
+  type:
+  - '&7&o作物'
+  description:
+  - つるから採れたて.... えっと... 茂みから？
+CLT_TORTILLAS:
+  name: トルティーヤ
+  type:
+  - '&7&o作物'
+  description:
+  - コーンフラワーのごちそう
+CLT_TREE_APRICOT:
+  name: アンズの木
+  type:
+  - '&7&o苗木'
+  description:
+  - 中には絶望の種がひとつだけ。
+  stats: &id009
+  - '&8⇨ &7デザイン: &bビーホワイト'
+CLT_TREE_BANANA:
+  name: バナナの木
+  type:
+  - '&7&o苗木'
+  description:
+  - 指が生える木、ぞっとする！
+  stats:
+  - '&8⇨ &7デザイン: &bセフィラート'
+CLT_TREE_CHERRY:
+  name: サクランボの木
+  type:
+  - '&7&o苗木'
+  description:
+  - 結び目を作ろう！
+  stats:
+  - '&8⇨ &7デザイン: &bリーズンファウンドデコイ'
+CLT_TREE_CHESTNUT:
+  name: クリの木
+  type:
+  - '&7&o苗木'
+  description:
+  - 明らかに登るために作られた木。
+  stats: &id010
+  - '&8⇨ &7デザイン: &bアビットオディッシュ'
+CLT_TREE_GREEN_APPLE:
+  name: 青リンゴの木
+  type:
+  - '&7&o苗木'
+  description:
+  - 大きくてシャキッとした青リンゴが実る。
+  stats: *id009
+CLT_TREE_HAZELNUT:
+  name: ヘーゼルナッツの木
+  type:
+  - '&7&o苗木'
+  description:
+  - この木を揺らすのは子供のころの遊び。
+  stats: *id010
+CLT_TREE_KIWI:
+  name: キウイの木
+  type:
+  - '&7&o苗木'
+  description:
+  - ニュージーランドの木？ 合ってる？
+  stats: *id010
+CLT_TREE_LEMON:
+  name: レモンの木
+  type:
+  - '&7&o苗木'
+  description:
+  - この木を見ているだけで酸っぱい味がする。
+  stats: &id011
+  - '&8⇨ &7デザイン: &bジェフ'
+CLT_TREE_LIME:
+  name: ライムの木
+  type:
+  - '&7&o苗木'
+  description:
+  - ライムって、息を止めているレモンなんだって知ってた？
+  stats: *id010
+CLT_TREE_MANGO:
+  name: マンゴーの木
+  type:
+  - '&7&o苗木'
+  description:
+  - 一番熟したときが最高。
+  stats: *id009
+CLT_TREE_ORANGE:
+  name: オレンジの木
+  type:
+  - '&7&o苗木'
+  description:
+  - 小さな太陽の玉。
+  stats: *id011
+CLT_TREE_PEACH:
+  name: モモの木
+  type:
+  - '&7&o苗木'
+  description:
+  - ジェームズが探していたのはこれ、だよね？
+  stats: *id010
+CLT_TREE_PEAR:
+  name: 洋ナシの木
+  type:
+  - '&7&o苗木'
+  description:
+  - 洋ナシのペアが、公平のためにペアにされた。
+  stats: *id009
+CLT_TREE_PECAN:
+  name: ペカンの木
+  type:
+  - '&7&o苗木'
+  description:
+  - この木を育てられる？ ペカンと、できる！
+  stats: *id009
+CLT_TREE_PINEAPPLE:
+  name: パイナップルの木
+  type:
+  - '&7&o苗木'
+  description:
+  - 俺のピザはどこだ？
+  stats: *id010
+CLT_TURMERIC:
+  name: ウコン
+  type:
+  - '&7&o作物'
+  description:
+  - 多くの料理を満たす、力強くムスクのような存在感。
+CLT_TURNIP:
+  name: カブ
+  type:
+  - '&7&o作物'
+  description:
+  - 人生のあらゆる問題を解決してくれる。
+CLT_VANILLA:
+  name: バニラ
+  type:
+  - '&7&o作物'
+  description:
+  - '使い方: ラテに直接浸してください'
+CLT_WASABI:
+  name: ワサビ
+  type:
+  - '&7&o作物'
+  description:
+  - 助けて... ワサビが...
+CLT_WITHER_ROSE_SALAD:
+  name: ウィザーローズサラダ
+  type:
+  - '&7&o食べ物'
+  description:
+  - 力に満ちているが、きつい副作用がある。
+  stats:
+  - '&8⇨ &7回復: &b全回復'
+  - '&8⇨ &b衰弱 II &7(10:00)'
+  - '&8⇨ &b体力増強 XX &7(10:00)'

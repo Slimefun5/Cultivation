@@ -1,0 +1,6674 @@
+CLT_APRICOT:
+  name: Albaricoque
+  type:
+  - '&7&oCosecha'
+  description:
+  - Con estas puedes fabricar Pokéballs.
+  - '...'
+  - ¿Cómo que eso es otra cosa...?
+CLT_ARTICHOKE:
+  name: Alcachofa
+  type:
+  - '&7&oCosecha'
+  description:
+  - ¡Arráncale el CORAZÓN!
+CLT_ASPARAGUS:
+  name: Espárrago
+  type:
+  - '&7&oCosecha'
+  description:
+  - Cuidado luego cuando vayas al baño.
+CLT_AUBERGINE:
+  name: Berenjena
+  type:
+  - '&7&oCosecha'
+  description:
+  - Morada intensa y 100% SIN forma de huevo.
+  - Mejor no la llamemos huevo, ¿verdad?
+CLT_AVOCADO:
+  name: Aguacate
+  type:
+  - '&7&oCosecha'
+  description:
+  - Con lo que sueñan los hípsters.
+CLT_BACON_SANDWICH:
+  name: Sándwich de tocino
+  type:
+  - '&7&oComida'
+  description:
+  - ¡Un clásico sencillo!
+  stats:
+  - '&8⇨ &7Curación: &b2 corazones'
+  - '&8⇨ &bFuerza I &7(10:00)'
+  - '&8⇨ &bVelocidad I &7(10:00)'
+CLT_BAGEL:
+  name: Bagel
+  type:
+  - '&7&oComida'
+  description:
+  - ¿Tostado? ¿O...?
+  stats:
+  - '&8⇨ &7Curación: &b2.5 corazones'
+CLT_BAGEL_BITE:
+  name: Minibagel
+  type:
+  - '&7&oComida'
+  description:
+  - ¡Pizza a todas horas!
+  stats:
+  - '&8⇨ &7¡Te quema la boca en cada bocado!'
+CLT_BAGEL_CREAM_CHEESE:
+  name: Bagel con queso crema
+  type:
+  - '&7&oComida'
+  description:
+  - Está tan bueno que seguro que querrás otro.
+  stats:
+  - '&8⇨ &7Curación: &b5 corazones'
+  - '&8⇨ &bSalud mejorada I &7(10:00)'
+CLT_BANANA:
+  name: Plátano
+  type:
+  - '&7&oCosecha'
+  description:
+  - ¡Me encanta, tiene muy buena piel!
+CLT_BASIL:
+  name: Albahaca
+  type:
+  - '&7&oCosecha'
+  description:
+  - Una hoja dulce con un suave regusto a pimienta.
+CLT_BAY_LEAF:
+  name: Hoja de laurel
+  type:
+  - '&7&oCosecha'
+  description:
+  - Un aroma intenso con mil usos.
+CLT_BELL_PEPPER:
+  name: Pimiento
+  type:
+  - '&7&oCosecha'
+  description:
+  - Suena de maravilla, como una campana.
+CLT_BISCUIT:
+  name: Galleta
+  type:
+  - '&7&oComida'
+  description:
+  - Un tentempié pequeño con un sabor enorme.
+  stats: &id002
+  - '&8⇨ &7Te lanza por los aires'
+CLT_BISCUIT_BASE:
+  name: Base de galleta
+  type:
+  - '&7&oCosecha'
+  description:
+  - Que ahora esté aplanado no significa
+  - que puedas comértelo crudo.
+CLT_BISCUIT_DOUGH:
+  name: Masa de galleta
+  type:
+  - '&7&oCosecha'
+  description:
+  - 'Repítete a ti mismo: "No te lo comas crudo."'
+CLT_BLACK_BEANS:
+  name: Alubias negras
+  type:
+  - '&7&oCosecha'
+  description:
+  - Una deliciosa proteína vegetariana.
+CLT_BLENDED_APPLE:
+  name: Manzana triturada
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_APRICOT:
+  name: Albaricoque triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_ARTICHOKE:
+  name: Alcachofa triturada
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_ASPARAGUS:
+  name: Espárrago triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_AUBERGINE:
+  name: Berenjena triturada
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_AVOCADO:
+  name: Aguacate triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_BANANA:
+  name: Plátano triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_BASIL:
+  name: Albahaca triturada
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_BAY_LEAF:
+  name: Hoja de laurel triturada
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_BEEF:
+  name: Ternera triturada
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_BEETROOT:
+  name: Remolacha triturada
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_BELL_PEPPER:
+  name: Pimiento triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_BLACK_BEANS:
+  name: Alubias negras trituradas
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_BREAD:
+  name: Pan triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_BROCCOLI:
+  name: Brócoli triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_BROWN_MUSHROOM:
+  name: Champiñón marrón triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_BRUSSELS_SPROUTS:
+  name: Coles de Bruselas trituradas
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_CABBAGE:
+  name: Repollo triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_CARROT:
+  name: Zanahoria triturada
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_CAULIFLOWER:
+  name: Coliflor triturada
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_CAYENNE_PEPPER:
+  name: Pimienta de cayena triturada
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_CELERIAC:
+  name: Apionabo triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_CELERY:
+  name: Apio triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_CHERRY:
+  name: Cereza triturada
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_CHESTNUT:
+  name: Castaña triturada
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_CHICKEN:
+  name: Pollo triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_CHICKPEAS:
+  name: Garbanzos triturados
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_CHICORY:
+  name: Achicoria triturada
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_CHILLY_PEPPER:
+  name: Guindilla triturada
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_CHIVES:
+  name: Cebollino triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_CHORUS_FRUIT:
+  name: Fruta chorus triturada
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_CILANTRO:
+  name: Cilantro triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_CINNAMON:
+  name: Canela triturada
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_CLOVE:
+  name: Clavo triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_COCOA_BEANS:
+  name: Semillas de cacao trituradas
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_COD:
+  name: Bacalao triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_COURGETTE:
+  name: Calabacín triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_CUCUMBER:
+  name: Pepino triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_CUMIN:
+  name: Comino triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_CURRY_LEAF:
+  name: Hoja de curry triturada
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_DILL:
+  name: Eneldo triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_EGG:
+  name: Huevo triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_ENCHANTED_GOLDEN_APPLE:
+  name: Manzana dorada encantada triturada
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_FENNEL:
+  name: Hinojo triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_GARLIC:
+  name: Ajo triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_GINGER:
+  name: Jengibre triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_GLOW_BERRIES:
+  name: Bayas luminosas trituradas
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_GOLDEN_APPLE:
+  name: Manzana dorada triturada
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_GOLDEN_CARROT:
+  name: Zanahoria dorada triturada
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_GRAPE:
+  name: Uva triturada
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_GREEN_APPLE:
+  name: Manzana verde triturada
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_GREEN_BEANS:
+  name: Judías verdes trituradas
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_GREEN_ONION:
+  name: Cebolleta triturada
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_HAZELNUT:
+  name: Avellana triturada
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_HORSERADISH:
+  name: Rábano picante triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_JALAPENO:
+  name: Jalapeño triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_JASMINE:
+  name: Jazmín triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_JUNIPER_BERRY:
+  name: Bayas de enebro trituradas
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_KAFFIR_LIME:
+  name: Hoja de lima kaffir triturada
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_KALE:
+  name: Col rizada triturada
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_KELP:
+  name: Alga triturada
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_KIWI:
+  name: Kiwi triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_LAVENDER:
+  name: Lavanda triturada
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_LEEK:
+  name: Puerro triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_LEMON:
+  name: Limón triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_LETTUCE:
+  name: Lechuga triturada
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_LICORICE:
+  name: Regaliz triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_LIME:
+  name: Lima triturada
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_MACE:
+  name: Macis triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_MANGO:
+  name: Mango triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_MARJORAM:
+  name: Mejorana triturada
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_MARROW:
+  name: Calabacín gigante triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_MELON:
+  name: Sandía triturada
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_MINT:
+  name: Menta triturada
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_MUSTARD_SEEDS:
+  name: Semillas de mostaza trituradas
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_MUTTON:
+  name: Cordero triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_NETTLES:
+  name: Ortigas trituradas
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_OKRA:
+  name: Okra triturada
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_ONION:
+  name: Cebolla triturada
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_ORANGE:
+  name: Naranja triturada
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_OREGANO:
+  name: Orégano triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_PARSLEY:
+  name: Perejil triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_PARSNIP:
+  name: Chirivía triturada
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_PEA:
+  name: Guisantes triturados
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_PEACH:
+  name: Melocotón triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_PEANUT:
+  name: Cacahuete triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_PEAR:
+  name: Pera triturada
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_PECAN:
+  name: Pacana triturada
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_PEPPER:
+  name: Pimienta negra triturada
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_PEPPERONI:
+  name: Pepperoni triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_PINEAPPLE:
+  name: Piña triturada
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_PINTO_BEANS:
+  name: Alubias pintas trituradas
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_PORKCHOP:
+  name: Chuleta de cerdo triturada
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_POTATO:
+  name: Patata triturada
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_PUFFERFISH:
+  name: Pez globo triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_PUMPKIN:
+  name: Calabaza triturada
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_RABBIT:
+  name: Conejo triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_RADDISH:
+  name: Rábano triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_RADICCHIO:
+  name: Achicoria roja triturada
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_RAPESEED:
+  name: Colza triturada
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_RED_MUSHROOM:
+  name: Champiñón rojo triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_RHUBARB:
+  name: Ruibarbo triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_RICE:
+  name: Arroz triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_ROSEMARY:
+  name: Romero triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_ROTTEN_FLESH:
+  name: Carne podrida triturada
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_RUNNER_BEANS:
+  name: Judías escarlata trituradas
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_RUTABAGA:
+  name: Colinabo triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_SALMON:
+  name: Salmón triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_SASSAFRAS:
+  name: Sasafrás triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_SHALLOT:
+  name: Chalota triturada
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_SHISO:
+  name: Shiso triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_SOY_BEANS:
+  name: Habas de soja trituradas
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_SPINACH:
+  name: Espinaca triturada
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_STAR_ANISE:
+  name: Anís estrellado triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_STRAWBERRY:
+  name: Fresa triturada
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_SUGAR:
+  name: Azúcar triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_SWEETCORN:
+  name: Maíz dulce triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_SWEET_BERRIES:
+  name: Bayas dulces trituradas
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_SWEET_POTATO:
+  name: Batata triturada
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_TARRAGON:
+  name: Estragón triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_THYME:
+  name: Tomillo triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_TOMATO:
+  name: Tomate triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_TURMERIC:
+  name: Cúrcuma triturada
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_TURNIP:
+  name: Nabo triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_VANILLA:
+  name: Vainilla triturada
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_WASABI:
+  name: Wasabi triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLENDED_WHEAT:
+  name: Trigo triturado
+  type:
+  - '&7&oSubproducto'
+CLT_BLUE_CANDY:
+  name: Caramelo azul
+  type:
+  - '&7&oComida'
+  description:
+  - Un caramelo deliciosamente dulce.
+  stats:
+  - '&8⇨ &7Invoca a un Allay'
+CLT_BOILED_APPLE:
+  name: Manzana hervida
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_APRICOT:
+  name: Albaricoque hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_ARTICHOKE:
+  name: Alcachofa hervida
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_ASPARAGUS:
+  name: Espárrago hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_AUBERGINE:
+  name: Berenjena hervida
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_AVOCADO:
+  name: Aguacate hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_BANANA:
+  name: Plátano hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_BASIL:
+  name: Albahaca hervida
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_BAY_LEAF:
+  name: Hoja de laurel hervida
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_BEEF:
+  name: Ternera hervida
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_BEETROOT:
+  name: Remolacha hervida
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_BELL_PEPPER:
+  name: Pimiento hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_BLACK_BEANS:
+  name: Alubias negras hervidas
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_BREAD:
+  name: Pan hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_BROCCOLI:
+  name: Brócoli hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_BROWN_MUSHROOM:
+  name: Champiñón marrón hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_BRUSSELS_SPROUTS:
+  name: Coles de Bruselas hervidas
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_CABBAGE:
+  name: Repollo hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_CARROT:
+  name: Zanahoria hervida
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_CAULIFLOWER:
+  name: Coliflor hervida
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_CAYENNE_PEPPER:
+  name: Pimienta de cayena hervida
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_CELERIAC:
+  name: Apionabo hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_CELERY:
+  name: Apio hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_CHERRY:
+  name: Cereza hervida
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_CHESTNUT:
+  name: Castaña hervida
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_CHICKEN:
+  name: Pollo hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_CHICKPEAS:
+  name: Garbanzos hervidos
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_CHICORY:
+  name: Achicoria hervida
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_CHILLY_PEPPER:
+  name: Guindilla hervida
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_CHIVES:
+  name: Cebollino hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_CHORUS_FRUIT:
+  name: Fruta chorus hervida
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_CILANTRO:
+  name: Cilantro hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_CINNAMON:
+  name: Canela hervida
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_CLOVE:
+  name: Clavo hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_COCOA_BEANS:
+  name: Semillas de cacao hervidas
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_COD:
+  name: Bacalao hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_COURGETTE:
+  name: Calabacín hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_CUCUMBER:
+  name: Pepino hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_CUMIN:
+  name: Comino hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_CURRY_LEAF:
+  name: Hoja de curry hervida
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_DILL:
+  name: Eneldo hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_EGG:
+  name: Huevo hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_ENCHANTED_GOLDEN_APPLE:
+  name: Manzana dorada encantada hervida
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_FENNEL:
+  name: Hinojo hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_GARLIC:
+  name: Ajo hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_GINGER:
+  name: Jengibre hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_GLOW_BERRIES:
+  name: Bayas luminosas hervidas
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_GOLDEN_APPLE:
+  name: Manzana dorada hervida
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_GOLDEN_CARROT:
+  name: Zanahoria dorada hervida
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_GRAPE:
+  name: Uva hervida
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_GREEN_APPLE:
+  name: Manzana verde hervida
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_GREEN_BEANS:
+  name: Judías verdes hervidas
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_GREEN_ONION:
+  name: Cebolleta hervida
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_HAZELNUT:
+  name: Avellana hervida
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_HORSERADISH:
+  name: Rábano picante hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_JALAPENO:
+  name: Jalapeño hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_JASMINE:
+  name: Jazmín hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_JUNIPER_BERRY:
+  name: Bayas de enebro hervidas
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_KAFFIR_LIME:
+  name: Hoja de lima kaffir hervida
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_KALE:
+  name: Col rizada hervida
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_KELP:
+  name: Alga hervida
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_KIWI:
+  name: Kiwi hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_LAVENDER:
+  name: Lavanda hervida
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_LEEK:
+  name: Puerro hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_LEMON:
+  name: Limón hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_LETTUCE:
+  name: Lechuga hervida
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_LICORICE:
+  name: Regaliz hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_LIME:
+  name: Lima hervida
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_MACE:
+  name: Macis hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_MANGO:
+  name: Mango hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_MARJORAM:
+  name: Mejorana hervida
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_MARROW:
+  name: Calabacín gigante hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_MELON:
+  name: Sandía hervida
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_MINT:
+  name: Menta hervida
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_MUSTARD_SEEDS:
+  name: Semillas de mostaza hervidas
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_MUTTON:
+  name: Cordero hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_NETTLES:
+  name: Ortigas hervidas
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_OKRA:
+  name: Okra hervida
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_ONION:
+  name: Cebolla hervida
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_ORANGE:
+  name: Naranja hervida
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_OREGANO:
+  name: Orégano hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_PARSLEY:
+  name: Perejil hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_PARSNIP:
+  name: Chirivía hervida
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_PEA:
+  name: Guisantes hervidos
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_PEACH:
+  name: Melocotón hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_PEANUT:
+  name: Cacahuete hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_PEAR:
+  name: Pera hervida
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_PECAN:
+  name: Pacana hervida
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_PEPPER:
+  name: Pimienta negra hervida
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_PEPPERONI:
+  name: Pepperoni hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_PINEAPPLE:
+  name: Piña hervida
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_PINTO_BEANS:
+  name: Alubias pintas hervidas
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_PORKCHOP:
+  name: Chuleta de cerdo hervida
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_POTATO:
+  name: Patata hervida
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_PUFFERFISH:
+  name: Pez globo hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_PUMPKIN:
+  name: Calabaza hervida
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_RABBIT:
+  name: Conejo hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_RADDISH:
+  name: Rábano hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_RADICCHIO:
+  name: Achicoria roja hervida
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_RAPESEED:
+  name: Colza hervida
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_RED_MUSHROOM:
+  name: Champiñón rojo hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_RHUBARB:
+  name: Ruibarbo hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_RICE:
+  name: Arroz hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_ROSEMARY:
+  name: Romero hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_ROTTEN_FLESH:
+  name: Carne podrida hervida
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_RUNNER_BEANS:
+  name: Judías escarlata hervidas
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_RUTABAGA:
+  name: Colinabo hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_SALMON:
+  name: Salmón hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_SASSAFRAS:
+  name: Sasafrás hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_SHALLOT:
+  name: Chalota hervida
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_SHISO:
+  name: Shiso hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_SOY_BEANS:
+  name: Habas de soja hervidas
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_SPINACH:
+  name: Espinaca hervida
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_STAR_ANISE:
+  name: Anís estrellado hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_STRAWBERRY:
+  name: Fresa hervida
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_SUGAR:
+  name: Azúcar hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_SWEETCORN:
+  name: Maíz dulce hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_SWEET_BERRIES:
+  name: Bayas dulces hervidas
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_SWEET_POTATO:
+  name: Batata hervida
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_TARRAGON:
+  name: Estragón hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_THYME:
+  name: Tomillo hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_TOMATO:
+  name: Tomate hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_TURMERIC:
+  name: Cúrcuma hervida
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_TURNIP:
+  name: Nabo hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_VANILLA:
+  name: Vainilla hervida
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_WASABI:
+  name: Wasabi hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOILED_WHEAT:
+  name: Trigo hervido
+  type:
+  - '&7&oSubproducto'
+CLT_BOWL_OF_STEVE:
+  name: Cuenco de... ¿Steve?
+  type:
+  - '&7&oComida'
+  description:
+  - ¿Pero qué &%£$...?
+  stats:
+  - '&8⇨ &bFatiga minera X &7(10:00)'
+  - '&8⇨ &bLentitud VI &7(10:00)'
+  - '&8⇨ &bFuerza X &7(10:00)'
+  - '&8⇨ &7Te deja con 1/2 corazón'
+CLT_BROCCOLI:
+  name: Brócoli
+  type:
+  - '&7&oCosecha'
+  description:
+  - ¿Eres un gigante sujetando un árbol?
+  - Qué va, es un árbol diminuto :)
+CLT_BRUSSELS_SPROUTS:
+  name: Coles de Bruselas
+  type:
+  - '&7&oCosecha'
+  description:
+  - Una delicia muy gaseosa.
+CLT_BUSH_ARTICHOKE:
+  name: Arbusto de alcachofa
+  type:
+  - '&7&oArbusto'
+  description:
+  - Sin duda el mejor arbusto para atragantar
+  - a un artista. Ay. Los chistes cuestan.
+CLT_BUSH_ASPARAGUS:
+  name: Arbusto de espárrago
+  type:
+  - '&7&oArbusto'
+  description:
+  - Este arbusto de espárragos es todo un
+  - acosador... ¡siempre te sigue el tallo!
+CLT_BUSH_AUBERGINE:
+  name: Arbusto de berenjena
+  type:
+  - '&7&oArbusto'
+  description:
+  - Me niego a llamarla "huevo de planta". Y punto.
+CLT_BUSH_AVOCADO:
+  name: Arbusto de aguacate
+  type:
+  - '&7&oArbusto'
+  description:
+  - Este arbusto se ha criado expresamente para no
+  - gastar demasiada agua.
+CLT_BUSH_BASIL:
+  name: Arbusto de albahaca
+  type:
+  - '&7&oArbusto'
+  description:
+  - Un arbusto alegre y lleno de fantasía.
+CLT_BUSH_BAY_LEAF:
+  name: Arbusto de laurel
+  type:
+  - '&7&oArbusto'
+  description:
+  - El olor de este arbusto llega a kilómetros.
+CLT_BUSH_BELL_PEPPER:
+  name: Arbusto de pimiento
+  type:
+  - '&7&oArbusto'
+  description:
+  - Cuidado al pasar por aquí, que igual
+  - te da el pimiento... digo, el timbrazo.
+CLT_BUSH_BLACK_BEANS:
+  name: Arbusto de alubias negras
+  type:
+  - '&7&oArbusto'
+  description:
+  - 'Este arbusto te susurra con dulzura:'
+  - Eres una persona de alubia... digo, de lujo.
+CLT_BUSH_BROCCOLI:
+  name: Arbusto de brócoli
+  type:
+  - '&7&oArbusto'
+  description:
+  - ¿Arbolitos que se comen? ¿¡Quién inventó esto!?
+CLT_BUSH_BRUSSELS_SPROUTS:
+  name: Arbusto de coles de Bruselas
+  type:
+  - '&7&oArbusto'
+  description:
+  - Un arbusto que a veces suelta gases
+  - nocivos.
+CLT_BUSH_CABBAGE:
+  name: Arbusto de repollo
+  type:
+  - '&7&oArbusto'
+  description:
+  - Un arbusto que arrastra muchísimo
+  - repollo emocional.
+CLT_BUSH_CAULIFLOWER:
+  name: Arbusto de coliflor
+  type:
+  - '&7&oArbusto'
+  description:
+  - Un arbusto capaz de producir pequeñas nubes
+  - de placer.
+CLT_BUSH_CAYENNE_PEPPER:
+  name: Arbusto de pimienta de cayena
+  type:
+  - '&7&oArbusto'
+  description:
+  - Un arbusto con una actitud muy picante.
+CLT_BUSH_CELERIAC:
+  name: Arbusto de apionabo
+  type:
+  - '&7&oArbusto'
+  description:
+  - ¿Otra raíz que crece en un arbusto?
+  - SefiTorpe™
+CLT_BUSH_CELERY:
+  name: Arbusto de apio
+  type:
+  - '&7&oArbusto'
+  description:
+  - Este arbusto sobra.
+  - A Sefi no le gusta el apio.
+CLT_BUSH_CHICKPEAS:
+  name: Arbusto de garbanzos
+  type:
+  - '&7&oArbusto'
+  description:
+  - Un arbusto creado cruzando un pollo con
+  - un guisante. CIENCIA.
+CLT_BUSH_CHICORY:
+  name: Arbusto de achicoria
+  type:
+  - '&7&oArbusto'
+  description:
+  - ¿La achicoria no era una raíz? ¿¡Este addon
+  - se ha documentado siquiera!?
+CLT_BUSH_CHILLI_PEPPER:
+  name: Arbusto de guindilla
+  type:
+  - '&7&oArbusto'
+  description:
+  - Solo con mirar este arbusto me arde la lengua.
+CLT_BUSH_CHIVES:
+  name: Arbusto de cebollino
+  type:
+  - '&7&oArbusto'
+  description:
+  - Un arbusto que produce, en la práctica, la cebolla
+  - más pequeña del mundo.
+CLT_BUSH_CILANTRO:
+  name: Arbusto de cilantro
+  type:
+  - '&7&oArbusto'
+  description:
+  - De este arbusto sale un leve olor a cítricos y especias.
+CLT_BUSH_CINNAMON:
+  name: Arbusto de canela
+  type:
+  - '&7&oArbusto'
+  description:
+  - Un arbusto deliciosamente fragante.
+CLT_BUSH_CLOVE:
+  name: Arbusto de clavo
+  type:
+  - '&7&oArbusto'
+  description:
+  - Un arbusto que me recuerda a la Navidad.
+CLT_BUSH_COURGETTE:
+  name: Arbusto de calabacín
+  type:
+  - '&7&oArbusto'
+  description:
+  - ¿Por qué este arbusto no para de gritar la
+  - palabra Zucchini? ¿Será estadounidense?
+CLT_BUSH_CUCUMBER:
+  name: Arbusto de pepino
+  type:
+  - '&7&oArbusto'
+  description:
+  - Este arbusto se diseñó con el único propósito
+  - de alegrar tus ensaladas de verano.
+CLT_BUSH_CUMIN:
+  name: Arbusto de comino
+  type:
+  - '&7&oArbusto'
+  description:
+  - Un arbusto que desprende un cálido aroma cítrico.
+CLT_BUSH_CURRY_LEAF:
+  name: Arbusto de curry
+  type:
+  - '&7&oArbusto'
+  description:
+  - Mejor tostado en seco.
+CLT_BUSH_DILL:
+  name: Arbusto de eneldo
+  type:
+  - '&7&oArbusto'
+  description:
+  - Este arbusto crece mucho más rápido que los demás.
+CLT_BUSH_FENNEL:
+  name: Arbusto de hinojo
+  type:
+  - '&7&oArbusto'
+  description:
+  - ¿¡Por qué este arbusto espanta a los bichos!?
+CLT_BUSH_GARLIC:
+  name: Arbusto de ajo
+  type:
+  - '&7&oArbusto'
+  description:
+  - Este arbusto tiene el peor aliento del mundo.
+CLT_BUSH_GINGER:
+  name: Arbusto de jengibre
+  type:
+  - '&7&oArbusto'
+  description:
+  - Este arbusto está rico hervido entero.
+CLT_BUSH_GRAPE:
+  name: Arbusto de uva
+  type:
+  - '&7&oArbusto'
+  description:
+  - Uvas maduras y jugosas que prácticamente se caen
+  - solas del arbusto.
+CLT_BUSH_GREEN_BEANS:
+  name: Arbusto de judías verdes
+  type:
+  - '&7&oArbusto'
+  description:
+  - Échale salsa de tomate a este arbusto y
+  - tendrás alubias guisadas.
+CLT_BUSH_GREEN_ONION:
+  name: Arbusto de cebolleta
+  type:
+  - '&7&oArbusto'
+  description:
+  - También conocida como cebolla tierna.
+  - Las cebolletas suelen tener un sabor
+  - más suave que la mayoría de cebollas.
+CLT_BUSH_HORSERADISH:
+  name: Arbusto de rábano picante
+  type:
+  - '&7&oArbusto'
+  description:
+  - 'Otra vez: que esto crezca en un arbusto no tiene sentido.'
+CLT_BUSH_JALAPENO:
+  name: Arbusto de jalapeño
+  type:
+  - '&7&oArbusto'
+  description:
+  - Solo con sujetar este arbusto tienes un
+  - 1% de probabilidad de salir ardiendo.
+CLT_BUSH_JASMINE:
+  name: Arbusto de jazmín
+  type:
+  - '&7&oArbusto'
+  description:
+  - El aroma de este arbusto es tan suave y delicado.
+CLT_BUSH_JUNIPER_BERRY:
+  name: Arbusto de enebro
+  type:
+  - '&7&oArbusto'
+  description:
+  - Muy dulce en el arbusto, picante una vez seco.
+CLT_BUSH_KAFFIR_LIME:
+  name: Arbusto de lima kaffir
+  type:
+  - '&7&oArbusto'
+  description:
+  - Un arbusto cuyas hojas se buscan más que su fruto.
+CLT_BUSH_KALE:
+  name: Arbusto de col rizada
+  type:
+  - '&7&oArbusto'
+  description:
+  - Cuando plantas este arbusto, tienes la sensación
+  - de que todo va a salir col-rrectamente.
+CLT_BUSH_LAVENDER:
+  name: Arbusto de lavanda
+  type:
+  - '&7&oArbusto'
+  description:
+  - Este arbusto esparce su olor por todas partes.
+CLT_BUSH_LEEK:
+  name: Arbusto de puerro
+  type:
+  - '&7&oArbusto'
+  description:
+  - ¿Sabías que un puerro es solo una cebolla
+  - que lleva corsé? Historia real.
+CLT_BUSH_LETTUCE:
+  name: Arbusto de lechuga
+  type:
+  - '&7&oArbusto'
+  description:
+  - ¿La lechuga crece siquiera en arbustos?
+  - 'Spoiler: no, no crece.'
+CLT_BUSH_LICORICE:
+  name: Arbusto de regaliz
+  type:
+  - '&7&oArbusto'
+  description:
+  - Qué asco
+CLT_BUSH_MACE:
+  name: Arbusto de macis
+  type:
+  - '&7&oArbusto'
+  description:
+  - ¿Este arbusto parece estar ahuyentando a los atacantes?
+CLT_BUSH_MARJORAM:
+  name: Arbusto de mejorana
+  type:
+  - '&7&oArbusto'
+  description:
+  - Un arbusto grande con olor a madera.
+CLT_BUSH_MARROW:
+  name: Arbusto de calabacín gigante
+  type:
+  - '&7&oArbusto'
+  description:
+  - Me sorprende que este arbusto aguante
+  - su propio peso.
+CLT_BUSH_MINT:
+  name: Arbusto de menta
+  type:
+  - '&7&oArbusto'
+  description:
+  - Sencillamente, el arbusto que mejor huele.
+CLT_BUSH_MUSTARD:
+  name: Arbusto de semillas de mostaza
+  type:
+  - '&7&oArbusto'
+  description:
+  - Como fuego en la boca.
+CLT_BUSH_NETTLES:
+  name: Arbusto de ortigas
+  type:
+  - '&7&oArbusto'
+  description:
+  - ¡Cuidado al atravesar este arbusto!
+CLT_BUSH_OKRA:
+  name: Arbusto de okra
+  type:
+  - '&7&oArbusto'
+  description:
+  - Elegida verdura número 1 por el Club de
+  - Verduras de Okra Winfrey.
+CLT_BUSH_ONION:
+  name: Arbusto de cebolla
+  type:
+  - '&7&oArbusto'
+  description:
+  - ¿No parece que este arbusto esté a punto de llorar?
+CLT_BUSH_OREGANO:
+  name: Arbusto de orégano
+  type:
+  - '&7&oArbusto'
+  description:
+  - Este arbusto de olor penetrante espanta a las visitas.
+CLT_BUSH_PARSLEY:
+  name: Arbusto de perejil
+  type:
+  - '&7&oArbusto'
+  description:
+  - Tira este arbusto a la lava, ya :D
+CLT_BUSH_PARSNIP:
+  name: Arbusto de chirivía
+  type:
+  - '&7&oArbusto'
+  description:
+  - Sáltate al intermediario y asa el arbusto
+  - directamente.
+CLT_BUSH_PEA:
+  name: Arbusto de guisantes
+  type:
+  - '&7&oArbusto'
+  description:
+  - Yo prefiero las Q
+CLT_BUSH_PEANUTS:
+  name: Arbusto de cacahuetes
+  type:
+  - '&7&oArbusto'
+  description: &id001
+  - Consistente, aromático y lleno de proteínas.
+CLT_BUSH_PEPPER:
+  name: Arbusto de pimienta negra
+  type:
+  - '&7&oArbusto'
+  description:
+  - La pimienta negra fue una parte importante del
+  - comercio de especias entre la India y Europa
+  - ya en tiempos de griegos y romanos.
+CLT_BUSH_PINTO_BEANS:
+  name: Arbusto de alubias pintas
+  type:
+  - '&7&oArbusto'
+  description:
+  - No falta mucho para que consigamos criar
+  - un arbusto de burritos directos, ¿verdad?
+CLT_BUSH_RADDISH:
+  name: Arbusto de rábano
+  type:
+  - '&7&oArbusto'
+  description:
+  - Esta planta acaba de hacer un truco en monopatín.
+  - Qué rábano-ditamente genial.
+CLT_BUSH_RADICCHIO:
+  name: Arbusto de achicoria roja
+  type:
+  - '&7&oArbusto'
+  description:
+  - ¿Quieres parecer fino? Echa achicoria roja a
+  - 'cualquier plato: es básicamente repollo, pero'
+  - te hace parecer refinado.
+CLT_BUSH_RAPESEED:
+  name: Arbusto de colza
+  type:
+  - '&7&oArbusto'
+  description:
+  - Este arbusto rezuma una sustancia aceitosa.
+CLT_BUSH_RHUBARB:
+  name: Arbusto de ruibarbo
+  type:
+  - '&7&oArbusto'
+  description:
+  - ¿Sabías que el ruibarbo es una verdura?
+  - Yo creía que era un tipo de martillo.
+CLT_BUSH_RICE:
+  name: Arbusto de arroz
+  type:
+  - '&7&oArbusto'
+  description:
+  - El alimento básico por excelencia.
+CLT_BUSH_ROSEMARY:
+  name: Arbusto de romero
+  type:
+  - '&7&oArbusto'
+  description:
+  - Un arbusto cuyo olor recuerda a las comidas de domingo.
+CLT_BUSH_RUNNER_BEANS:
+  name: Arbusto de judías escarlata
+  type:
+  - '&7&oArbusto'
+  description:
+  - ¿Este arbusto tiene pies o.o?
+CLT_BUSH_RUTABAGA:
+  name: Arbusto de colinabo
+  type:
+  - '&7&oArbusto'
+  description:
+  - Colinabo. Es un colinabo.
+CLT_BUSH_SASSAFRAS:
+  name: Arbusto de sasafrás
+  type:
+  - '&7&oArbusto'
+  description:
+  - A este arbusto le encanta que lo planten cerca
+  - de pequeñas masas de agua.
+CLT_BUSH_SHALLOT:
+  name: Arbusto de chalota
+  type:
+  - '&7&oArbusto'
+  description:
+  - Este arbusto produce rápido unas cebollitas preciosas.
+  - Por suerte, no hay chalota que valga.
+CLT_BUSH_SHISO:
+  name: Arbusto de shiso
+  type:
+  - '&7&oArbusto'
+  description:
+  - Me gusta pensar que este arbusto es hijo
+  - de un arbusto de menta y uno de albahaca. ¡Lástima
+  - que el cruce de arbustos no exista!
+CLT_BUSH_SOY_BEANS:
+  name: Arbusto de soja
+  type:
+  - '&7&oArbusto'
+  description:
+  - Este arbusto es una delicia amistosa. Me
+  - hace soja feliz.
+CLT_BUSH_SPINACH:
+  name: Arbusto de espinaca
+  type:
+  - '&7&oArbusto'
+  description:
+  - Este arbusto es el mejor amigo de Popeye.
+CLT_BUSH_STAR_ANISE:
+  name: Arbusto de anís estrellado
+  type:
+  - '&7&oArbusto'
+  description:
+  - De este arbusto sale un olor tan propio
+  - del anís que no te lo vas a creer.
+CLT_BUSH_STRAWBERRY:
+  name: Arbusto de fresa
+  type:
+  - '&7&oArbusto'
+  description: *id001
+CLT_BUSH_SWEETCORN:
+  name: Arbusto de maíz dulce
+  type:
+  - '&7&oArbusto'
+  description:
+  - Este arbusto está pidiendo a gritos que lo conviertan
+  - en un laberinto.
+CLT_BUSH_SWEET_POTATO:
+  name: Arbusto de batata
+  type:
+  - '&7&oArbusto'
+  description:
+  - Este arbusto es un encanto. Lo he oído
+  - piropearte mientras no escuchabas.
+CLT_BUSH_TARRAGON:
+  name: Arbusto de estragón
+  type:
+  - '&7&oArbusto'
+  description:
+  - A este arbusto no le gusta llamar mucho la atención.
+CLT_BUSH_THYME:
+  name: Arbusto de tomillo
+  type:
+  - '&7&oArbusto'
+  description:
+  - A este arbusto nunca le da tiempo... Tomillo... *ejem*
+CLT_BUSH_TOMATO:
+  name: Arbusto de tomate
+  type:
+  - '&7&oArbusto'
+  description:
+  - Maduro y listo.
+CLT_BUSH_TURMERIC:
+  name: Arbusto de cúrcuma
+  type:
+  - '&7&oArbusto'
+  description:
+  - Solo con sujetar este arbusto te llega
+  - a la nariz una bocanada de especias.
+CLT_BUSH_TURNIP:
+  name: Arbusto de nabo
+  type:
+  - '&7&oArbusto'
+  description:
+  - Según el Gobierno británico, este arbusto
+  - resolverá todos nuestros problemas.
+CLT_BUSH_VANILLA:
+  name: Arbusto de vainilla
+  type:
+  - '&7&oArbusto'
+  description:
+  - Este arbusto crece de forma natural cerca de los StarBucks.
+CLT_BUSH_WASABI:
+  name: Arbusto de wasabi
+  type:
+  - '&7&oArbusto'
+  description:
+  - ¿Otra raíz que crece en un arbusto?
+  - Suspiro...
+CLT_CABBAGE:
+  name: Repollo
+  type:
+  - '&7&oCosecha'
+  description:
+  - Un repollo de equipaje.
+CLT_CAESAR_SALAD:
+  name: Ensalada César
+  type:
+  - '&7&oComida'
+  description:
+  - Un clásico saludable.
+  stats:
+  - '&8⇨ &7Curación: &b6 corazones'
+  - '&8⇨ &bVelocidad I &7(10:00)'
+  - '&8⇨ &bInvisibilidad I &7(10:00)'
+  - '&8⇨ &bCaída lenta I &7(10:00)'
+CLT_CAJUN_GARLIC_BUTTER_COD:
+  name: Bacalao cajún con mantequilla de ajo
+  type:
+  - '&7&oComida'
+  description:
+  - Un plato muy sencillo que revienta de sabor.
+  stats:
+  - '&8⇨ &7Curación: &b4 corazones'
+  - '&8⇨ &bRegeneración II &7(10:00)'
+  - '&8⇨ &bVelocidad I &7(10:00)'
+CLT_CAULIFLOWER:
+  name: Coliflor
+  type:
+  - '&7&oCosecha'
+  description:
+  - ¡Una nube portátil!
+CLT_CAYENNE_PEPPER:
+  name: Pimienta de cayena
+  type:
+  - '&7&oCosecha'
+  description:
+  - Un capricho suave y especiado.
+CLT_CELERIAC:
+  name: Apionabo
+  type:
+  - '&7&oCosecha'
+  description:
+  - Una raíz contundente muy arraigada (je) en
+  - muchas recetas tradicionales.
+CLT_CELERY:
+  name: Apio
+  type:
+  - '&7&oCosecha'
+  description:
+  - Literalmente agua con hebras. Convénceme
+  - de lo contrario.
+CLT_CHEESE_BURGER:
+  name: Hamburguesa
+  type:
+  - '&7&oComida'
+  description:
+  - Una simple hamburguesa con queso, ¡pero no hay nada mejor!
+  stats:
+  - '&8⇨ &7Curación: &b4 corazones'
+  - '&8⇨ &bRegeneración III &7(10:00)'
+CLT_CHEESY_SCALLOPED_COURGETTE:
+  name: Calabacín gratinado con queso
+  type:
+  - '&7&oComida'
+  description:
+  - Una versión baja en carbohidratos de un gran clásico.
+  stats:
+  - '&8⇨ &7Curación: &b2 corazones'
+  - '&8⇨ &bVisión nocturna I &7(10:00)'
+  - '&8⇨ &bInvisibilidad I &7(10:00)'
+CLT_CHERRY:
+  name: Cereza
+  type:
+  - '&7&oCosecha'
+  description:
+  - Vaya, creía que ya crecían glaseadas, ¡qué pena!
+CLT_CHESTNUT:
+  name: Castaña
+  type:
+  - '&7&oCosecha'
+  description:
+  - Diseñado para hornearse de inmediato.
+CLT_CHICKEN_ALFREDO_MAC_AND_CHEESE:
+  name: Macarrones con queso y pollo Alfredo
+  type:
+  - '&7&oComida'
+  description:
+  - Un toque pijo a un clásico de toda la vida.
+  stats:
+  - '&8⇨ &7Curación: &b1 corazón'
+  - '&8⇨ &bCuerpo ignífugo II &7(10:00)'
+  - '&8⇨ &bResistencia III &7(10:00)'
+CLT_CHICKEN_PASTA_BAKE:
+  name: Pasta al horno con pollo
+  type:
+  - '&7&oComida'
+  description:
+  - Un básico de estudiante.
+  stats:
+  - '&8⇨ &7Curación: &b5 corazones'
+  - '&8⇨ &bVisión nocturna I &7(10:00)'
+  - '&8⇨ &bApnea I &7(10:00)'
+CLT_CHICKEN_POT_PIE:
+  name: Pastel de pollo
+  type:
+  - '&7&oComida'
+  description:
+  - Una comida reconfortante que sabe a hogar.
+  stats:
+  - '&8⇨ &7Curación: &b10 corazones'
+  - '&8⇨ &bSupersalto II &7(10:00)'
+  - '&8⇨ &bSaturación I &7(10:00)'
+CLT_CHICKPEAS:
+  name: Garbanzos
+  type:
+  - '&7&oCosecha'
+  description:
+  - Los guisantes cantan a coro, los garbanzos solo saben hacer hummus.
+CLT_CHICORY:
+  name: Achicoria
+  type:
+  - '&7&oCosecha'
+  description:
+  - Una raíz amarga con sabor a fruto seco.
+CLT_CHILLY_PEPPER:
+  name: Guindilla
+  type:
+  - '&7&oCosecha'
+  description:
+  - Puedo comerme una guindilla entera sin llorar.
+  - Bueno, media.
+  - BUEEENO.... 1/4
+  - '...'
+  - Vale, puedo rozarla con la lengua
+CLT_CHIVES:
+  name: Cebollino
+  type:
+  - '&7&oCosecha'
+  description:
+  - Una hierba dulce con sabor a cebolla.
+CLT_CHOPPED_APPLE:
+  name: Manzana picada
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_APRICOT:
+  name: Albaricoque picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_ARTICHOKE:
+  name: Alcachofa picada
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_ASPARAGUS:
+  name: Espárrago picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_AUBERGINE:
+  name: Berenjena picada
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_AVOCADO:
+  name: Aguacate picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_BANANA:
+  name: Plátano picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_BASIL:
+  name: Albahaca picada
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_BAY_LEAF:
+  name: Hoja de laurel picada
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_BEEF:
+  name: Ternera picada
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_BEETROOT:
+  name: Remolacha picada
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_BELL_PEPPER:
+  name: Pimiento picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_BLACK_BEANS:
+  name: Alubias negras picadas
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_BREAD:
+  name: Pan picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_BROCCOLI:
+  name: Brócoli picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_BROWN_MUSHROOM:
+  name: Champiñón marrón picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_BRUSSELS_SPROUTS:
+  name: Coles de Bruselas picadas
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_CABBAGE:
+  name: Repollo picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_CARROT:
+  name: Zanahoria picada
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_CAULIFLOWER:
+  name: Coliflor picada
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_CAYENNE_PEPPER:
+  name: Pimienta de cayena picada
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_CELERIAC:
+  name: Apionabo picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_CELERY:
+  name: Apio picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_CHERRY:
+  name: Cereza picada
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_CHESTNUT:
+  name: Castaña picada
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_CHICKEN:
+  name: Pollo picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_CHICKPEAS:
+  name: Garbanzos picados
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_CHICORY:
+  name: Achicoria picada
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_CHILLY_PEPPER:
+  name: Guindilla picada
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_CHIVES:
+  name: Cebollino picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_CHORUS_FRUIT:
+  name: Fruta chorus picada
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_CILANTRO:
+  name: Cilantro picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_CINNAMON:
+  name: Canela picada
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_CLOVE:
+  name: Clavo picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_COCOA_BEANS:
+  name: Semillas de cacao picadas
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_COD:
+  name: Bacalao picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_COURGETTE:
+  name: Calabacín picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_CUCUMBER:
+  name: Pepino picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_CUMIN:
+  name: Comino picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_CURRY_LEAF:
+  name: Hoja de curry picada
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_DILL:
+  name: Eneldo picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_EGG:
+  name: Huevo picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_ENCHANTED_GOLDEN_APPLE:
+  name: Manzana dorada encantada picada
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_FENNEL:
+  name: Hinojo picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_GARLIC:
+  name: Ajo picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_GINGER:
+  name: Jengibre picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_GLOW_BERRIES:
+  name: Bayas luminosas picadas
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_GOLDEN_APPLE:
+  name: Manzana dorada picada
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_GOLDEN_CARROT:
+  name: Zanahoria dorada picada
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_GRAPE:
+  name: Uva picada
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_GREEN_APPLE:
+  name: Manzana verde picada
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_GREEN_BEANS:
+  name: Judías verdes picadas
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_GREEN_ONION:
+  name: Cebolleta picada
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_HAZELNUT:
+  name: Avellana picada
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_HORSERADISH:
+  name: Rábano picante picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_JALAPENO:
+  name: Jalapeño picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_JASMINE:
+  name: Jazmín picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_JUNIPER_BERRY:
+  name: Bayas de enebro picadas
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_KAFFIR_LIME:
+  name: Hoja de lima kaffir picada
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_KALE:
+  name: Col rizada picada
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_KELP:
+  name: Alga picada
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_KIWI:
+  name: Kiwi picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_LAVENDER:
+  name: Lavanda picada
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_LEEK:
+  name: Puerro picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_LEMON:
+  name: Limón picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_LETTUCE:
+  name: Lechuga picada
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_LICORICE:
+  name: Regaliz picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_LIME:
+  name: Lima picada
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_MACE:
+  name: Macis picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_MANGO:
+  name: Mango picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_MARJORAM:
+  name: Mejorana picada
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_MARROW:
+  name: Calabacín gigante picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_MELON:
+  name: Sandía picada
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_MINT:
+  name: Menta picada
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_MUSTARD_SEEDS:
+  name: Semillas de mostaza picadas
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_MUTTON:
+  name: Cordero picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_NETTLES:
+  name: Ortigas picadas
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_OKRA:
+  name: Okra picada
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_ONION:
+  name: Cebolla picada
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_ORANGE:
+  name: Naranja picada
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_OREGANO:
+  name: Orégano picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_PARSLEY:
+  name: Perejil picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_PARSNIP:
+  name: Chirivía picada
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_PEA:
+  name: Guisantes picados
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_PEACH:
+  name: Melocotón picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_PEANUT:
+  name: Cacahuete picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_PEAR:
+  name: Pera picada
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_PECAN:
+  name: Pacana picada
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_PEPPER:
+  name: Pimienta negra picada
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_PEPPERONI:
+  name: Pepperoni picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_PINEAPPLE:
+  name: Piña picada
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_PINTO_BEANS:
+  name: Alubias pintas picadas
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_PORKCHOP:
+  name: Chuleta de cerdo picada
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_POTATO:
+  name: Patata picada
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_PUFFERFISH:
+  name: Pez globo picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_PUMPKIN:
+  name: Calabaza picada
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_RABBIT:
+  name: Conejo picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_RADDISH:
+  name: Rábano picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_RADICCHIO:
+  name: Achicoria roja picada
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_RAPESEED:
+  name: Colza picada
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_RED_MUSHROOM:
+  name: Champiñón rojo picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_RHUBARB:
+  name: Ruibarbo picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_RICE:
+  name: Arroz picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_ROSEMARY:
+  name: Romero picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_ROTTEN_FLESH:
+  name: Carne podrida picada
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_RUNNER_BEANS:
+  name: Judías escarlata picadas
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_RUTABAGA:
+  name: Colinabo picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_SALMON:
+  name: Salmón picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_SASSAFRAS:
+  name: Sasafrás picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_SHALLOT:
+  name: Chalota picada
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_SHISO:
+  name: Shiso picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_SOY_BEANS:
+  name: Habas de soja picadas
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_SPINACH:
+  name: Espinaca picada
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_STAR_ANISE:
+  name: Anís estrellado picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_STRAWBERRY:
+  name: Fresa picada
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_SUGAR:
+  name: Azúcar picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_SWEETCORN:
+  name: Maíz dulce picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_SWEET_BERRIES:
+  name: Bayas dulces picadas
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_SWEET_POTATO:
+  name: Batata picada
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_TARRAGON:
+  name: Estragón picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_THYME:
+  name: Tomillo picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_TOMATO:
+  name: Tomate picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_TURMERIC:
+  name: Cúrcuma picada
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_TURNIP:
+  name: Nabo picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_VANILLA:
+  name: Vainilla picada
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_WASABI:
+  name: Wasabi picado
+  type:
+  - '&7&oSubproducto'
+CLT_CHOPPED_WHEAT:
+  name: Trigo picado
+  type:
+  - '&7&oSubproducto'
+CLT_CILANTRO:
+  name: Cilantro
+  type:
+  - '&7&oCosecha'
+  description:
+  - Una especia suave con un toque cítrico.
+CLT_CINNAMON:
+  name: Canela
+  type:
+  - '&7&oCosecha'
+  description:
+  - Genial para mordisquear en rama.
+CLT_CINNAMON_ROLL:
+  name: Rollo de canela
+  type:
+  - '&7&oComida'
+  description:
+  - Una delicia dulce enrollada por diversión.
+  - ¡Comerla pone el mundo patas arriba!
+  stats:
+  - '&8⇨ &7Curación: &b4 corazones'
+  - '&8⇨ &bLevitación I &7(10:00)'
+  - '&8⇨ &bCaída lenta I &7(10:00)'
+CLT_CLOVE:
+  name: Clavo
+  type:
+  - '&7&oCosecha'
+  description:
+  - Un sabor muy cálido e intenso.
+CLT_COMPRESSED_BISCUIT:
+  name: Galleta comprimida
+  type:
+  - '&7&oComida'
+  description:
+  - Un tentempié pequeño con un sabor todavía más enorme.
+  stats: *id002
+CLT_COOKED_BURGER_PATTY:
+  name: Carne de hamburguesa cocinada
+  type:
+  - '&7&oCosecha'
+  description:
+  - Prácticamente chorreando
+CLT_COUNTER_BLENDER:
+  name: Encimera de cocina (Batidora)
+  type:
+  - '&7&oMáquina'
+  description:
+  - Haz clic derecho en este bloque para triturar productos.
+  usage: &id003
+  - ¡Consejo! Una vez colocado, puedes hacer Mayús +
+  - clic derecho y los bloques que sujetes
+  - cambiarán el diseño de la cocina. ¡Pruébalo!
+CLT_COUNTER_BOILING:
+  name: Encimera de cocina (Olla)
+  type:
+  - '&7&oMáquina'
+  description:
+  - Puede hervir ciertos objetos.
+  usage: *id003
+CLT_COUNTER_CHOPPING:
+  name: Encimera de cocina (Tabla de picar)
+  type:
+  - '&7&oMáquina'
+  description:
+  - Haz clic derecho en este bloque para picar productos.
+  usage: *id003
+CLT_COUNTER_FINISHING:
+  name: Encimera de cocina (Emplatado)
+  type:
+  - '&7&oMáquina'
+  description:
+  - Sirve para convertir productos o subproductos
+  - en otros subproductos o en platos terminados.
+  usage: *id003
+CLT_COUNTER_FRYING:
+  name: Encimera de cocina (Sartén)
+  type:
+  - '&7&oMáquina'
+  description:
+  - Puede freír ciertos productos.
+  usage: *id003
+CLT_COUNTER_GRILL:
+  name: Encimera de cocina (Parrilla)
+  type:
+  - '&7&oMáquina'
+  description:
+  - Puede asar a la parrilla ciertos productos.
+  usage: *id003
+CLT_COUNTER_GRINDER:
+  name: Encimera de cocina (Mortero)
+  type:
+  - '&7&oMáquina'
+  description:
+  - Haz clic derecho en este bloque para moler productos.
+  usage: *id003
+CLT_COUNTER_MASHER:
+  name: Encimera de cocina (Cuenco para machacar)
+  type:
+  - '&7&oMáquina'
+  description:
+  - Haz clic derecho en este bloque para machacar productos.
+  usage: *id003
+CLT_COUNTER_NOTHING:
+  name: Encimera de cocina (Vacía)
+  type:
+  - '&7&oMáquina'
+  description:
+  - ¡Solo de decoración!
+  usage: *id003
+CLT_COUNTER_OVEN:
+  name: Encimera de cocina (Horno)
+  type:
+  - '&7&oMáquina'
+  description:
+  - Puede hornear ciertos productos.
+  usage: *id003
+CLT_COUNTER_SLICING:
+  name: Encimera de cocina (Tabla de cortar)
+  type:
+  - '&7&oMáquina'
+  description:
+  - Haz clic derecho en este bloque para cortar productos en rodajas.
+  usage: *id003
+CLT_COURGETTE:
+  name: Calabacín
+  type:
+  - '&7&oCosecha'
+  description:
+  - 'Consejo: rállalo en cualquier salsa para pasta'
+  - para darle profundidad y textura.
+CLT_CREAM_CHEESE:
+  name: Queso crema
+  type:
+  - '&7&oCosecha'
+  description:
+  - Más cremoso que quesoso.
+CLT_CROP_STICKS:
+  name: Estacas de cultivo
+  type:
+  - '&7&oHerramienta'
+  description:
+  - Las estacas de cultivo deben ponerse sobre
+  - una semilla plantada para que crezca.
+  - Si colocas un segundo juego, cruzarás
+  - la planta para que se extienda o se
+  - reproduzca.
+CLT_CUCUMBER:
+  name: Pepino
+  type:
+  - '&7&oCosecha'
+  description:
+  - Agua en una cáscara verde, demuéstrame
+  - lo contrario.
+CLT_CUMIN:
+  name: Comino
+  type:
+  - '&7&oCosecha'
+  description:
+  - Una planta cálida y cítrica.
+CLT_CURRY_LEAF:
+  name: Hoja de curry
+  type:
+  - '&7&oCosecha'
+  description:
+  - La base de tantísimas comidas maravillosas.
+CLT_DILL:
+  name: Eneldo
+  type:
+  - '&7&oCosecha'
+  description:
+  - A mí me sabe a hierba. ¿Por qué
+  - le gusta esto a la gente?
+CLT_DOUGH:
+  name: Masa
+  type:
+  - '&7&oCosecha'
+  description:
+  - ¡Masa de toda la vida y punto!
+CLT_EGG_SALAD:
+  name: Ensalada de huevo
+  type:
+  - '&7&oCosecha'
+  description:
+  - ¡Ábrelo en un tren, a que no te atreves!
+CLT_EGG_SALAD_SANDWICH:
+  name: Sándwich de ensalada de huevo
+  type:
+  - '&7&oComida'
+  description:
+  - Huele un poco, ¡pero sabe de maravilla!
+  stats: &id006
+  - '&8⇨ &7Curación: &b10 corazones'
+  - '&8⇨ &bRegeneración II &7(10:00)'
+CLT_FENNEL:
+  name: Hinojo
+  type:
+  - '&7&oCosecha'
+  description:
+  - Como una mezcla de anís y regaliz.
+CLT_FRIED_APPLE:
+  name: Manzana frita
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_APRICOT:
+  name: Albaricoque frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_ARTICHOKE:
+  name: Alcachofa frita
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_ASPARAGUS:
+  name: Espárrago frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_AUBERGINE:
+  name: Berenjena frita
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_AVOCADO:
+  name: Aguacate frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_BANANA:
+  name: Plátano frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_BASIL:
+  name: Albahaca frita
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_BAY_LEAF:
+  name: Hoja de laurel frita
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_BEEF:
+  name: Ternera frita
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_BEETROOT:
+  name: Remolacha frita
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_BELL_PEPPER:
+  name: Pimiento frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_BLACK_BEANS:
+  name: Alubias negras fritas
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_BREAD:
+  name: Pan frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_BROCCOLI:
+  name: Brócoli frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_BROWN_MUSHROOM:
+  name: Champiñón marrón frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_BRUSSELS_SPROUTS:
+  name: Coles de Bruselas fritas
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_CABBAGE:
+  name: Repollo frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_CARROT:
+  name: Zanahoria frita
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_CAULIFLOWER:
+  name: Coliflor frita
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_CAYENNE_PEPPER:
+  name: Pimienta de cayena frita
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_CELERIAC:
+  name: Apionabo frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_CELERY:
+  name: Apio frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_CHERRY:
+  name: Cereza frita
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_CHESTNUT:
+  name: Castaña frita
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_CHICKEN:
+  name: Pollo frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_CHICKPEAS:
+  name: Garbanzos fritos
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_CHICORY:
+  name: Achicoria frita
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_CHILLY_PEPPER:
+  name: Guindilla frita
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_CHIVES:
+  name: Cebollino frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_CHORUS_FRUIT:
+  name: Fruta chorus frita
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_CILANTRO:
+  name: Cilantro frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_CINNAMON:
+  name: Canela frita
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_CLOVE:
+  name: Clavo frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_COCOA_BEANS:
+  name: Semillas de cacao fritas
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_COD:
+  name: Bacalao frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_COURGETTE:
+  name: Calabacín frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_CUCUMBER:
+  name: Pepino frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_CUMIN:
+  name: Comino frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_CURRY_LEAF:
+  name: Hoja de curry frita
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_DILL:
+  name: Eneldo frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_EGG:
+  name: Huevo frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_ENCHANTED_GOLDEN_APPLE:
+  name: Manzana dorada encantada frita
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_FENNEL:
+  name: Hinojo frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_GARLIC:
+  name: Ajo frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_GINGER:
+  name: Jengibre frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_GLOW_BERRIES:
+  name: Bayas luminosas fritas
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_GOLDEN_APPLE:
+  name: Manzana dorada frita
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_GOLDEN_CARROT:
+  name: Zanahoria dorada frita
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_GRAPE:
+  name: Uva frita
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_GREEN_APPLE:
+  name: Manzana verde frita
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_GREEN_BEANS:
+  name: Judías verdes fritas
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_GREEN_ONION:
+  name: Cebolleta frita
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_HAZELNUT:
+  name: Avellana frita
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_HORSERADISH:
+  name: Rábano picante frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_JALAPENO:
+  name: Jalapeño frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_JASMINE:
+  name: Jazmín frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_JUNIPER_BERRY:
+  name: Bayas de enebro fritas
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_KAFFIR_LIME:
+  name: Hoja de lima kaffir frita
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_KALE:
+  name: Col rizada frita
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_KELP:
+  name: Alga frita
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_KIWI:
+  name: Kiwi frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_LAVENDER:
+  name: Lavanda frita
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_LEEK:
+  name: Puerro frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_LEMON:
+  name: Limón frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_LETTUCE:
+  name: Lechuga frita
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_LICORICE:
+  name: Regaliz frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_LIME:
+  name: Lima frita
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_MACE:
+  name: Macis frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_MANGO:
+  name: Mango frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_MARJORAM:
+  name: Mejorana frita
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_MARROW:
+  name: Calabacín gigante frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_MELON:
+  name: Sandía frita
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_MINT:
+  name: Menta frita
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_MUSTARD_SEEDS:
+  name: Semillas de mostaza fritas
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_MUTTON:
+  name: Cordero frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_NETTLES:
+  name: Ortigas fritas
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_OKRA:
+  name: Okra frita
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_ONION:
+  name: Cebolla frita
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_ORANGE:
+  name: Naranja frita
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_OREGANO:
+  name: Orégano frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_PARSLEY:
+  name: Perejil frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_PARSNIP:
+  name: Chirivía frita
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_PEA:
+  name: Guisantes fritos
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_PEACH:
+  name: Melocotón frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_PEANUT:
+  name: Cacahuete frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_PEAR:
+  name: Pera frita
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_PECAN:
+  name: Pacana frita
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_PEPPER:
+  name: Pimienta negra frita
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_PEPPERONI:
+  name: Pepperoni frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_PINEAPPLE:
+  name: Piña frita
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_PINTO_BEANS:
+  name: Alubias pintas fritas
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_PORKCHOP:
+  name: Chuleta de cerdo frita
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_POTATO:
+  name: Patata frita
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_PUFFERFISH:
+  name: Pez globo frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_PUMPKIN:
+  name: Calabaza frita
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_RABBIT:
+  name: Conejo frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_RADDISH:
+  name: Rábano frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_RADICCHIO:
+  name: Achicoria roja frita
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_RAPESEED:
+  name: Colza frita
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_RED_MUSHROOM:
+  name: Champiñón rojo frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_RHUBARB:
+  name: Ruibarbo frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_RICE:
+  name: Arroz frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_ROSEMARY:
+  name: Romero frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_ROTTEN_FLESH:
+  name: Carne podrida frita
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_RUNNER_BEANS:
+  name: Judías escarlata fritas
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_RUTABAGA:
+  name: Colinabo frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_SALMON:
+  name: Salmón frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_SASSAFRAS:
+  name: Sasafrás frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_SHALLOT:
+  name: Chalota frita
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_SHISO:
+  name: Shiso frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_SOY_BEANS:
+  name: Habas de soja fritas
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_SPINACH:
+  name: Espinaca frita
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_STAR_ANISE:
+  name: Anís estrellado frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_STRAWBERRY:
+  name: Fresa frita
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_SUGAR:
+  name: Azúcar frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_SWEETCORN:
+  name: Maíz dulce frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_SWEET_BERRIES:
+  name: Bayas dulces fritas
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_SWEET_POTATO:
+  name: Batata frita
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_TARRAGON:
+  name: Estragón frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_THYME:
+  name: Tomillo frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_TOMATO:
+  name: Tomate frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_TURMERIC:
+  name: Cúrcuma frita
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_TURNIP:
+  name: Nabo frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_VANILLA:
+  name: Vainilla frita
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_WASABI:
+  name: Wasabi frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRIED_WHEAT:
+  name: Trigo frito
+  type:
+  - '&7&oSubproducto'
+CLT_FRUIT_SALAD:
+  name: Macedonia de frutas
+  type:
+  - '&7&oComida'
+  description:
+  - Si lo llamas ensalada, puedes comer todo
+  - lo que quieras, porque es sano.
+  stats:
+  - '&8⇨ &7Curación: &b6 corazones'
+  - '&8⇨ &bVelocidad III &7(10:00)'
+CLT_FUGU:
+  name: Fugu
+  type:
+  - '&7&oComida'
+  description:
+  - ¿Listo para tentar a la suerte?
+  stats:
+  - '&8⇨ &7Curación: &b1 corazón'
+  - '&8⇨ &bFuerza V &7(10:00)'
+  - '&8⇨ &7¡33% de probabilidad de morir sin más!'
+CLT_GARDEN_CLOCHE:
+  name: Campana de jardín
+  type:
+  - '&7&oMáquina'
+  description:
+  - Cultiva plantas en su interior automáticamente.
+  stats:
+  - '&8⇨ &7Energía por tick: &b100'
+CLT_GARLIC:
+  name: Ajo
+  type:
+  - '&7&oCosecha'
+  description:
+  - ¡Rápido, antes de que lleguen los vampiros!
+CLT_GARLIC_BUTTER_MUSHROOMS:
+  name: Champiñones con mantequilla de ajo
+  type:
+  - '&7&oComida'
+  description:
+  - Puede que sea la mejor comida del planeta.
+  stats:
+  - '&8⇨ &7Curación: &b2 corazones'
+  - '&8⇨ &bLuminiscencia I &7(10:00)'
+CLT_GINGER:
+  name: Jengibre
+  type:
+  - '&7&oCosecha'
+  description:
+  - Jengibre picado en agua hirviendo, ¡lo cura todo!
+CLT_GRAPE:
+  name: Uva
+  type:
+  - '&7&oCosecha'
+  description:
+  - ¡Qué rechoncho!
+CLT_GRAPE_JELLY:
+  name: Mermelada de uva
+  type:
+  - '&7&oCosecha'
+  description: &id008
+  - Comerlo con cuchara es un delito.
+CLT_GREEN_APPLE:
+  name: Manzana verde
+  type:
+  - '&7&oCosecha'
+  description:
+  - La nota dice... ¿Querida profesora?
+CLT_GREEN_BEANS:
+  name: Judías verdes
+  type:
+  - '&7&oCosecha'
+  description:
+  - ¡Qué nombre tan original!
+CLT_GREEN_ONION:
+  name: Cebolleta
+  type:
+  - '&7&oCosecha'
+  description:
+  - ¡Queda genial en los tacos!
+CLT_GRILLED_APPLE:
+  name: Manzana a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_APRICOT:
+  name: Albaricoque a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_ARTICHOKE:
+  name: Alcachofa a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_ASPARAGUS:
+  name: Espárrago a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_AUBERGINE:
+  name: Berenjena a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_AVOCADO:
+  name: Aguacate a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_BANANA:
+  name: Plátano a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_BASIL:
+  name: Albahaca a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_BAY_LEAF:
+  name: Hoja de laurel a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_BEEF:
+  name: Ternera a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_BEETROOT:
+  name: Remolacha a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_BELL_PEPPER:
+  name: Pimiento a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_BLACK_BEANS:
+  name: Alubias negras a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_BREAD:
+  name: Pan a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_BROCCOLI:
+  name: Brócoli a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_BROWN_MUSHROOM:
+  name: Champiñón marrón a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_BRUSSELS_SPROUTS:
+  name: Coles de Bruselas a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_CABBAGE:
+  name: Repollo a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_CARROT:
+  name: Zanahoria a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_CAULIFLOWER:
+  name: Coliflor a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_CAYENNE_PEPPER:
+  name: Pimienta de cayena a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_CELERIAC:
+  name: Apionabo a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_CELERY:
+  name: Apio a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_CHERRY:
+  name: Cereza a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_CHESTNUT:
+  name: Castaña a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_CHICKEN:
+  name: Pollo a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_CHICKPEAS:
+  name: Garbanzos a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_CHICORY:
+  name: Achicoria a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_CHILLY_PEPPER:
+  name: Guindilla a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_CHIVES:
+  name: Cebollino a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_CHORUS_FRUIT:
+  name: Fruta chorus a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_CILANTRO:
+  name: Cilantro a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_CINNAMON:
+  name: Canela a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_CLOVE:
+  name: Clavo a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_COCOA_BEANS:
+  name: Semillas de cacao a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_COD:
+  name: Bacalao a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_COURGETTE:
+  name: Calabacín a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_CUCUMBER:
+  name: Pepino a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_CUMIN:
+  name: Comino a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_CURRY_LEAF:
+  name: Hoja de curry a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_DILL:
+  name: Eneldo a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_EGG:
+  name: Huevo a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_ENCHANTED_GOLDEN_APPLE:
+  name: Manzana dorada encantada a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_FENNEL:
+  name: Hinojo a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_GARLIC:
+  name: Ajo a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_GINGER:
+  name: Jengibre a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_GLOW_BERRIES:
+  name: Bayas luminosas a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_GOLDEN_APPLE:
+  name: Manzana dorada a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_GOLDEN_CARROT:
+  name: Zanahoria dorada a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_GRAPE:
+  name: Uva a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_GREEN_APPLE:
+  name: Manzana verde a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_GREEN_BEANS:
+  name: Judías verdes a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_GREEN_ONION:
+  name: Cebolleta a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_HAZELNUT:
+  name: Avellana a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_HORSERADISH:
+  name: Rábano picante a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_JALAPENO:
+  name: Jalapeño a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_JASMINE:
+  name: Jazmín a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_JUNIPER_BERRY:
+  name: Bayas de enebro a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_KAFFIR_LIME:
+  name: Hoja de lima kaffir a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_KALE:
+  name: Col rizada a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_KELP:
+  name: Alga a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_KIWI:
+  name: Kiwi a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_LAVENDER:
+  name: Lavanda a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_LEEK:
+  name: Puerro a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_LEMON:
+  name: Limón a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_LETTUCE:
+  name: Lechuga a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_LICORICE:
+  name: Regaliz a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_LIME:
+  name: Lima a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_MACE:
+  name: Macis a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_MANGO:
+  name: Mango a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_MARJORAM:
+  name: Mejorana a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_MARROW:
+  name: Calabacín gigante a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_MELON:
+  name: Sandía a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_MINT:
+  name: Menta a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_MUSTARD_SEEDS:
+  name: Semillas de mostaza a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_MUTTON:
+  name: Cordero a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_NETTLES:
+  name: Ortigas a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_OKRA:
+  name: Okra a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_ONION:
+  name: Cebolla a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_ORANGE:
+  name: Naranja a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_OREGANO:
+  name: Orégano a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_PARSLEY:
+  name: Perejil a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_PARSNIP:
+  name: Chirivía a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_PEA:
+  name: Guisantes a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_PEACH:
+  name: Melocotón a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_PEANUT:
+  name: Cacahuete a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_PEAR:
+  name: Pera a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_PECAN:
+  name: Pacana a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_PEPPER:
+  name: Pimienta negra a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_PEPPERONI:
+  name: Pepperoni a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_PINEAPPLE:
+  name: Piña a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_PINTO_BEANS:
+  name: Alubias pintas a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_PORKCHOP:
+  name: Chuleta de cerdo a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_POTATO:
+  name: Patata a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_PUFFERFISH:
+  name: Pez globo a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_PUMPKIN:
+  name: Calabaza a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_RABBIT:
+  name: Conejo a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_RADDISH:
+  name: Rábano a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_RADICCHIO:
+  name: Achicoria roja a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_RAPESEED:
+  name: Colza a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_RED_MUSHROOM:
+  name: Champiñón rojo a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_RHUBARB:
+  name: Ruibarbo a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_RICE:
+  name: Arroz a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_ROSEMARY:
+  name: Romero a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_ROTTEN_FLESH:
+  name: Carne podrida a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_RUNNER_BEANS:
+  name: Judías escarlata a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_RUTABAGA:
+  name: Colinabo a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_SALMON:
+  name: Salmón a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_SALMON_SALAD:
+  name: Ensalada de salmón a la parrilla
+  type:
+  - '&7&oComida'
+  description:
+  - Deliciosamente hojaldrado y brillantemente sazonado.
+  stats:
+  - '&8⇨ &7Curación: &b4 corazones'
+  - '&8⇨ &bRegeneración I &7(10:00)'
+  - '&8⇨ &bSalud mejorada V &7(10:00)'
+CLT_GRILLED_SASSAFRAS:
+  name: Sasafrás a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_SHALLOT:
+  name: Chalota a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_SHISO:
+  name: Shiso a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_SOY_BEANS:
+  name: Habas de soja a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_SPINACH:
+  name: Espinaca a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_STAR_ANISE:
+  name: Anís estrellado a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_STRAWBERRY:
+  name: Fresa a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_SUGAR:
+  name: Azúcar a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_SWEETCORN:
+  name: Maíz dulce a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_SWEET_BERRIES:
+  name: Bayas dulces a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_SWEET_POTATO:
+  name: Batata a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_TARRAGON:
+  name: Estragón a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_THYME:
+  name: Tomillo a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_TOMATO:
+  name: Tomate a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_TURMERIC:
+  name: Cúrcuma a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_TURNIP:
+  name: Nabo a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_VANILLA:
+  name: Vainilla a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_WASABI:
+  name: Wasabi a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GRILLED_WHEAT:
+  name: Trigo a la parrilla
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_APPLE:
+  name: Manzana molida
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_APRICOT:
+  name: Albaricoque molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_ARTICHOKE:
+  name: Alcachofa molida
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_ASPARAGUS:
+  name: Espárrago molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_AUBERGINE:
+  name: Berenjena molida
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_AVOCADO:
+  name: Aguacate molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_BANANA:
+  name: Plátano molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_BASIL:
+  name: Albahaca molida
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_BAY_LEAF:
+  name: Hoja de laurel molida
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_BEEF:
+  name: Ternera molida
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_BEETROOT:
+  name: Remolacha molida
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_BELL_PEPPER:
+  name: Pimiento molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_BLACK_BEANS:
+  name: Alubias negras molidas
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_BREAD:
+  name: Pan molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_BROCCOLI:
+  name: Brócoli molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_BROWN_MUSHROOM:
+  name: Champiñón marrón molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_BRUSSELS_SPROUTS:
+  name: Coles de Bruselas molidas
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_CABBAGE:
+  name: Repollo molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_CARROT:
+  name: Zanahoria molida
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_CAULIFLOWER:
+  name: Coliflor molida
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_CAYENNE_PEPPER:
+  name: Pimienta de cayena molida
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_CELERIAC:
+  name: Apionabo molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_CELERY:
+  name: Apio molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_CHERRY:
+  name: Cereza molida
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_CHESTNUT:
+  name: Castaña molida
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_CHICKEN:
+  name: Pollo molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_CHICKPEAS:
+  name: Garbanzos molidos
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_CHICORY:
+  name: Achicoria molida
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_CHILLY_PEPPER:
+  name: Guindilla molida
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_CHIVES:
+  name: Cebollino molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_CHORUS_FRUIT:
+  name: Fruta chorus molida
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_CILANTRO:
+  name: Cilantro molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_CINNAMON:
+  name: Canela molida
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_CLOVE:
+  name: Clavo molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_COCOA_BEANS:
+  name: Semillas de cacao molidas
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_COD:
+  name: Bacalao molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_COURGETTE:
+  name: Calabacín molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_CUCUMBER:
+  name: Pepino molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_CUMIN:
+  name: Comino molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_CURRY_LEAF:
+  name: Hoja de curry molida
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_DILL:
+  name: Eneldo molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_EGG:
+  name: Huevo molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_ENCHANTED_GOLDEN_APPLE:
+  name: Manzana dorada encantada molida
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_FENNEL:
+  name: Hinojo molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_GARLIC:
+  name: Ajo molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_GINGER:
+  name: Jengibre molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_GLOW_BERRIES:
+  name: Bayas luminosas molidas
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_GOLDEN_APPLE:
+  name: Manzana dorada molida
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_GOLDEN_CARROT:
+  name: Zanahoria dorada molida
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_GRAPE:
+  name: Uva molida
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_GREEN_APPLE:
+  name: Manzana verde molida
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_GREEN_BEANS:
+  name: Judías verdes molidas
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_GREEN_ONION:
+  name: Cebolleta molida
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_HAZELNUT:
+  name: Avellana molida
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_HORSERADISH:
+  name: Rábano picante molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_JALAPENO:
+  name: Jalapeño molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_JASMINE:
+  name: Jazmín molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_JUNIPER_BERRY:
+  name: Bayas de enebro molidas
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_KAFFIR_LIME:
+  name: Hoja de lima kaffir molida
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_KALE:
+  name: Col rizada molida
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_KELP:
+  name: Alga molida
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_KIWI:
+  name: Kiwi molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_LAVENDER:
+  name: Lavanda molida
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_LEEK:
+  name: Puerro molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_LEMON:
+  name: Limón molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_LETTUCE:
+  name: Lechuga molida
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_LICORICE:
+  name: Regaliz molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_LIME:
+  name: Lima molida
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_MACE:
+  name: Macis molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_MANGO:
+  name: Mango molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_MARJORAM:
+  name: Mejorana molida
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_MARROW:
+  name: Calabacín gigante molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_MELON:
+  name: Sandía molida
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_MINT:
+  name: Menta molida
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_MUSTARD_SEEDS:
+  name: Semillas de mostaza molidas
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_MUTTON:
+  name: Cordero molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_NETTLES:
+  name: Ortigas molidas
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_OKRA:
+  name: Okra molida
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_ONION:
+  name: Cebolla molida
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_ORANGE:
+  name: Naranja molida
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_OREGANO:
+  name: Orégano molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_PARSLEY:
+  name: Perejil molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_PARSNIP:
+  name: Chirivía molida
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_PEA:
+  name: Guisantes molidos
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_PEACH:
+  name: Melocotón molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_PEANUT:
+  name: Cacahuete molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_PEAR:
+  name: Pera molida
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_PECAN:
+  name: Pacana molida
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_PEPPER:
+  name: Pimienta negra molida
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_PEPPERONI:
+  name: Pepperoni molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_PINEAPPLE:
+  name: Piña molida
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_PINTO_BEANS:
+  name: Alubias pintas molidas
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_PORKCHOP:
+  name: Chuleta de cerdo molida
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_POTATO:
+  name: Patata molida
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_PUFFERFISH:
+  name: Pez globo molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_PUMPKIN:
+  name: Calabaza molida
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_RABBIT:
+  name: Conejo molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_RADDISH:
+  name: Rábano molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_RADICCHIO:
+  name: Achicoria roja molida
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_RAPESEED:
+  name: Colza molida
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_RED_MUSHROOM:
+  name: Champiñón rojo molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_RHUBARB:
+  name: Ruibarbo molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_RICE:
+  name: Arroz molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_ROSEMARY:
+  name: Romero molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_ROTTEN_FLESH:
+  name: Carne podrida molida
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_RUNNER_BEANS:
+  name: Judías escarlata molidas
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_RUTABAGA:
+  name: Colinabo molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_SALMON:
+  name: Salmón molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_SASSAFRAS:
+  name: Sasafrás molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_SHALLOT:
+  name: Chalota molida
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_SHISO:
+  name: Shiso molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_SOY_BEANS:
+  name: Habas de soja molidas
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_SPINACH:
+  name: Espinaca molida
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_STAR_ANISE:
+  name: Anís estrellado molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_STRAWBERRY:
+  name: Fresa molida
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_SUGAR:
+  name: Azúcar molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_SWEETCORN:
+  name: Maíz dulce molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_SWEET_BERRIES:
+  name: Bayas dulces molidas
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_SWEET_POTATO:
+  name: Batata molida
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_TARRAGON:
+  name: Estragón molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_THYME:
+  name: Tomillo molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_TOMATO:
+  name: Tomate molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_TURMERIC:
+  name: Cúrcuma molida
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_TURNIP:
+  name: Nabo molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_VANILLA:
+  name: Vainilla molida
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_WASABI:
+  name: Wasabi molido
+  type:
+  - '&7&oSubproducto'
+CLT_GROUND_WHEAT:
+  name: Trigo molido
+  type:
+  - '&7&oSubproducto'
+CLT_HAZELNUT:
+  name: Avellana
+  type:
+  - '&7&oCosecha'
+  description:
+  - Haz lo que tengas que hacer para convertir
+  - esto en un café para mí, ¡ya!
+CLT_HORSERADISH:
+  name: Rábano picante
+  type:
+  - '&7&oCosecha'
+  description:
+  - 100 $ si le das un mordisco directamente.
+CLT_JALAPENO:
+  name: Jalapeño
+  type:
+  - '&7&oCosecha'
+  description:
+  - PICA, PICA, PICA.
+CLT_JASMINE:
+  name: Jazmín
+  type:
+  - '&7&oCosecha'
+  description:
+  - Da para un té maravilloso.
+CLT_JUNIPER_BERRY:
+  name: Bayas de enebro
+  type:
+  - '&7&oCosecha'
+  description:
+  - Secado hasta la perfección picante.
+CLT_KAFFIR_LIME:
+  name: Hoja de lima kaffir
+  type:
+  - '&7&oCosecha'
+  description:
+  - Una hoja con un aroma poderoso.
+CLT_KALE:
+  name: Col rizada
+  type:
+  - '&7&oCosecha'
+  description:
+  - ¡Socorro, soy un hípster de los batidos de 2020!
+CLT_KETCHUP:
+  name: Kétchup
+  type:
+  - '&7&oCosecha'
+  description:
+  - Solo tomates en versión cremosa.
+CLT_KEY_LIME_PIE:
+  name: Tarta de lima
+  type:
+  - '&7&oComida'
+  description:
+  - ¡Sencillamente lo mejor!
+  stats:
+  - '&8⇨ &7Curación: &b6 corazones'
+  - '&8⇨ &bPrisa minera IV &7(10:00)'
+CLT_KIWI:
+  name: Kiwi
+  type:
+  - '&7&oCosecha'
+  description:
+  - Puse esto en el addon bajo coacción.
+  - Los kiwis son malvados y quien
+  - los use perderá automáticamente
+  - 100 puntos.
+CLT_LASAGNA:
+  name: Lasaña
+  type:
+  - '&7&oComida'
+  description:
+  - Capas y capas de genialidad.
+  stats:
+  - '&8⇨ &7Curación: &bCompleta'
+  - '&8⇨ &bRegeneración II &7(10:00)'
+  - '&8⇨ &bResistencia II &7(10:00)'
+CLT_LAVENDER:
+  name: Lavanda
+  type:
+  - '&7&oCosecha'
+  description:
+  - Un aroma que me deja dormidito poco a poco.
+CLT_LEAVES_TREE_APRICOT:
+  name: Hojas de albaricoquero
+  type:
+  - '&7&oHojas'
+CLT_LEAVES_TREE_BANANA:
+  name: Hojas de platanero
+  type:
+  - '&7&oHojas'
+CLT_LEAVES_TREE_CHERRY:
+  name: Hojas de cerezo
+  type:
+  - '&7&oHojas'
+CLT_LEAVES_TREE_CHESTNUT:
+  name: Hojas de castaño
+  type:
+  - '&7&oHojas'
+CLT_LEAVES_TREE_GREEN_APPLE:
+  name: Hojas de manzano de manzana verde
+  type:
+  - '&7&oHojas'
+CLT_LEAVES_TREE_HAZELNUT:
+  name: Hojas de avellano
+  type:
+  - '&7&oHojas'
+CLT_LEAVES_TREE_KIWI:
+  name: Hojas de árbol de kiwi
+  type:
+  - '&7&oHojas'
+CLT_LEAVES_TREE_LEMON:
+  name: Hojas de limonero
+  type:
+  - '&7&oHojas'
+CLT_LEAVES_TREE_LIME:
+  name: Hojas de limero
+  type:
+  - '&7&oHojas'
+CLT_LEAVES_TREE_MANGO:
+  name: Hojas de árbol de mango
+  type:
+  - '&7&oHojas'
+CLT_LEAVES_TREE_ORANGE:
+  name: Hojas de naranjo
+  type:
+  - '&7&oHojas'
+CLT_LEAVES_TREE_PEACH:
+  name: Hojas de melocotonero
+  type:
+  - '&7&oHojas'
+CLT_LEAVES_TREE_PEAR:
+  name: Hojas de peral
+  type:
+  - '&7&oHojas'
+CLT_LEAVES_TREE_PECAN:
+  name: Hojas de pacano
+  type:
+  - '&7&oHojas'
+CLT_LEAVES_TREE_PINEAPPLE:
+  name: Hojas de árbol de piña
+  type:
+  - '&7&oHojas'
+CLT_LEEK:
+  name: Puerro
+  type:
+  - '&7&oCosecha'
+  description:
+  - Por algún motivo, ¿está chorreando agua?
+  - ¿Se le habrá hecho una puerr-ta?
+CLT_LEMON:
+  name: Limón
+  type:
+  - '&7&oCosecha'
+  description:
+  - ¿A qué viene esa cara tan agria?
+CLT_LEMON_DROP:
+  name: Caramelo de limón
+  type:
+  - '&7&oComida'
+  description:
+  - Para limpiar el paladar.
+  stats:
+  - '&8⇨ &7Elimina todos los efectos y vuelve a darte hambre.'
+CLT_LETTUCE:
+  name: Lechuga
+  type:
+  - '&7&oCosecha'
+  description:
+  - Fino, aguado y aun así delicioso.
+CLT_LICORICE:
+  name: Regaliz
+  type:
+  - '&7&oCosecha'
+  description:
+  - ¡Corre, huye ahora mismo!
+CLT_LIME:
+  name: Lima
+  type:
+  - '&7&oCosecha'
+  description:
+  - Había una lima vez una fruta deliciosa...
+CLT_MACE:
+  name: Macis
+  type:
+  - '&7&oCosecha'
+  description:
+  - Sirve para rociar la cara de los atacantes.
+  - '...'
+  - ¿Cómo que no es ese tipo de macis?
+CLT_MANGO:
+  name: Mango
+  type:
+  - '&7&oCosecha'
+  description:
+  - MANGO, me tengo que ir.
+  - Escribir lore cuesta...
+CLT_MARJORAM:
+  name: Mejorana
+  type:
+  - '&7&oCosecha'
+  description:
+  - Voy muy curry-endo, ¿hablamos luego?
+CLT_MARROW:
+  name: Calabacín gigante
+  type:
+  - '&7&oCosecha'
+  description:
+  - ¿Sabías que los calabacines gigantes
+  - están dentro de tus huesos?
+  - Sip, Sefi Listo.
+CLT_MASHED_APPLE:
+  name: Manzana machacada
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_APRICOT:
+  name: Albaricoque machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_ARTICHOKE:
+  name: Alcachofa machacada
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_ASPARAGUS:
+  name: Espárrago machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_AUBERGINE:
+  name: Berenjena machacada
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_AVOCADO:
+  name: Aguacate machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_BANANA:
+  name: Plátano machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_BASIL:
+  name: Albahaca machacada
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_BAY_LEAF:
+  name: Hoja de laurel machacada
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_BEEF:
+  name: Ternera machacada
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_BEETROOT:
+  name: Remolacha machacada
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_BELL_PEPPER:
+  name: Pimiento machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_BLACK_BEANS:
+  name: Alubias negras machacadas
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_BREAD:
+  name: Pan machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_BROCCOLI:
+  name: Brócoli machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_BROWN_MUSHROOM:
+  name: Champiñón marrón machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_BRUSSELS_SPROUTS:
+  name: Coles de Bruselas machacadas
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_CABBAGE:
+  name: Repollo machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_CARROT:
+  name: Zanahoria machacada
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_CAULIFLOWER:
+  name: Coliflor machacada
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_CAYENNE_PEPPER:
+  name: Pimienta de cayena machacada
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_CELERIAC:
+  name: Apionabo machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_CELERY:
+  name: Apio machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_CHERRY:
+  name: Cereza machacada
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_CHESTNUT:
+  name: Castaña machacada
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_CHICKEN:
+  name: Pollo machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_CHICKPEAS:
+  name: Garbanzos machacados
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_CHICORY:
+  name: Achicoria machacada
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_CHILLY_PEPPER:
+  name: Guindilla machacada
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_CHIVES:
+  name: Cebollino machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_CHORUS_FRUIT:
+  name: Fruta chorus machacada
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_CILANTRO:
+  name: Cilantro machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_CINNAMON:
+  name: Canela machacada
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_CLOVE:
+  name: Clavo machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_COCOA_BEANS:
+  name: Semillas de cacao machacadas
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_COD:
+  name: Bacalao machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_COURGETTE:
+  name: Calabacín machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_CUCUMBER:
+  name: Pepino machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_CUMIN:
+  name: Comino machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_CURRY_LEAF:
+  name: Hoja de curry machacada
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_DILL:
+  name: Eneldo machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_EGG:
+  name: Huevo machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_ENCHANTED_GOLDEN_APPLE:
+  name: Manzana dorada encantada machacada
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_FENNEL:
+  name: Hinojo machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_GARLIC:
+  name: Ajo machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_GINGER:
+  name: Jengibre machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_GLOW_BERRIES:
+  name: Bayas luminosas machacadas
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_GOLDEN_APPLE:
+  name: Manzana dorada machacada
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_GOLDEN_CARROT:
+  name: Zanahoria dorada machacada
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_GRAPE:
+  name: Uva machacada
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_GREEN_APPLE:
+  name: Manzana verde machacada
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_GREEN_BEANS:
+  name: Judías verdes machacadas
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_GREEN_ONION:
+  name: Cebolleta machacada
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_HAZELNUT:
+  name: Avellana machacada
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_HORSERADISH:
+  name: Rábano picante machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_JALAPENO:
+  name: Jalapeño machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_JASMINE:
+  name: Jazmín machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_JUNIPER_BERRY:
+  name: Bayas de enebro machacadas
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_KAFFIR_LIME:
+  name: Hoja de lima kaffir machacada
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_KALE:
+  name: Col rizada machacada
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_KELP:
+  name: Alga machacada
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_KIWI:
+  name: Kiwi machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_LAVENDER:
+  name: Lavanda machacada
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_LEEK:
+  name: Puerro machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_LEMON:
+  name: Limón machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_LETTUCE:
+  name: Lechuga machacada
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_LICORICE:
+  name: Regaliz machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_LIME:
+  name: Lima machacada
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_MACE:
+  name: Macis machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_MANGO:
+  name: Mango machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_MARJORAM:
+  name: Mejorana machacada
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_MARROW:
+  name: Calabacín gigante machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_MELON:
+  name: Sandía machacada
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_MINT:
+  name: Menta machacada
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_MUSTARD_SEEDS:
+  name: Semillas de mostaza machacadas
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_MUTTON:
+  name: Cordero machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_NETTLES:
+  name: Ortigas machacadas
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_OKRA:
+  name: Okra machacada
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_ONION:
+  name: Cebolla machacada
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_ORANGE:
+  name: Naranja machacada
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_OREGANO:
+  name: Orégano machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_PARSLEY:
+  name: Perejil machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_PARSNIP:
+  name: Chirivía machacada
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_PEA:
+  name: Guisantes machacados
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_PEACH:
+  name: Melocotón machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_PEANUT:
+  name: Cacahuete machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_PEAR:
+  name: Pera machacada
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_PECAN:
+  name: Pacana machacada
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_PEPPER:
+  name: Pimienta negra machacada
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_PEPPERONI:
+  name: Pepperoni machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_PINEAPPLE:
+  name: Piña machacada
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_PINTO_BEANS:
+  name: Alubias pintas machacadas
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_PORKCHOP:
+  name: Chuleta de cerdo machacada
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_POTATO:
+  name: Patata machacada
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_PUFFERFISH:
+  name: Pez globo machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_PUMPKIN:
+  name: Calabaza machacada
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_RABBIT:
+  name: Conejo machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_RADDISH:
+  name: Rábano machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_RADICCHIO:
+  name: Achicoria roja machacada
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_RAPESEED:
+  name: Colza machacada
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_RED_MUSHROOM:
+  name: Champiñón rojo machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_RHUBARB:
+  name: Ruibarbo machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_RICE:
+  name: Arroz machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_ROSEMARY:
+  name: Romero machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_ROTTEN_FLESH:
+  name: Carne podrida machacada
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_RUNNER_BEANS:
+  name: Judías escarlata machacadas
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_RUTABAGA:
+  name: Colinabo machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_SALMON:
+  name: Salmón machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_SASSAFRAS:
+  name: Sasafrás machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_SHALLOT:
+  name: Chalota machacada
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_SHISO:
+  name: Shiso machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_SOY_BEANS:
+  name: Habas de soja machacadas
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_SPINACH:
+  name: Espinaca machacada
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_STAR_ANISE:
+  name: Anís estrellado machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_STRAWBERRY:
+  name: Fresa machacada
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_SUGAR:
+  name: Azúcar machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_SWEETCORN:
+  name: Maíz dulce machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_SWEET_BERRIES:
+  name: Bayas dulces machacadas
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_SWEET_POTATO:
+  name: Batata machacada
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_TARRAGON:
+  name: Estragón machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_THYME:
+  name: Tomillo machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_TOMATO:
+  name: Tomate machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_TURMERIC:
+  name: Cúrcuma machacada
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_TURNIP:
+  name: Nabo machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_VANILLA:
+  name: Vainilla machacada
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_WASABI:
+  name: Wasabi machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MASHED_WHEAT:
+  name: Trigo machacado
+  type:
+  - '&7&oSubproducto'
+CLT_MAYONNAISE:
+  name: Mayonesa
+  type:
+  - '&7&oCosecha'
+  description:
+  - Una mayonesa sedosa que pega con casi todo.
+CLT_MEATBALLS:
+  name: Albóndigas
+  type:
+  - '&7&oCosecha'
+  description:
+  - Bolas de carne, quién lo iba a decir.
+CLT_MEATLOAF:
+  name: Rollo de carne
+  type:
+  - '&7&oComida'
+  description:
+  - ¡No hay nada igual! Vamos allá.
+  stats:
+  - '&8⇨ &7Curación: &bCompleta'
+  - '&8⇨ &bSalud mejorada IV &7(10:00)'
+  - '&8⇨ &bResistencia III &7(10:00)'
+  - '&8⇨ &bPrisa minera II &7(10:00)'
+  - '&8⇨ &bLentitud II &7(10:00)'
+CLT_MINT:
+  name: Menta
+  type:
+  - '&7&oCosecha'
+  description:
+  - Mastica, mastica, mastica.
+CLT_MUSTARD:
+  name: Mostaza
+  type:
+  - '&7&oCosecha'
+  description:
+  - ¡Tiene su puntito!
+CLT_MUSTARD_SEEDS:
+  name: Semillas de mostaza
+  type:
+  - '&7&oCosecha'
+  description:
+  - ¡Mastícalas, a que no te atreves!
+CLT_NETTLES:
+  name: Ortigas
+  type:
+  - '&7&oCosecha'
+  description:
+  - Ponte los guantes antes de cogerlas, por favor.
+CLT_OKRA:
+  name: Okra
+  type:
+  - '&7&oCosecha'
+  description:
+  - Se cultiva mucho en Okra-homa... ¿verdad? ¿VERDAD?
+CLT_ONION:
+  name: Cebolla
+  type:
+  - '&7&oCosecha'
+  description:
+  - Espera, ¿por qué lloras?
+CLT_ORANGE:
+  name: Naranja
+  type:
+  - '&7&oCosecha'
+  description:
+  - ¿Esto no debería ser de relojería?
+CLT_ORANGE_JUICE:
+  name: Zumo de naranja
+  type:
+  - '&7&oComida'
+  description:
+  - De verdad que es la mejor forma de empezar el día.
+  stats:
+  - '&8⇨ &bVelocidad IV &7(10:00)'
+CLT_OREGANO:
+  name: Orégano
+  type:
+  - '&7&oCosecha'
+  description:
+  - Una hierba clásica que nunca falta en la despensa.
+CLT_PARSLEY:
+  name: Perejil
+  type:
+  - '&7&oCosecha'
+  description:
+  - La. Peor. Hierba. Del mundo.
+CLT_PARSNIP:
+  name: Chirivía
+  type:
+  - '&7&oCosecha'
+  description:
+  - Hay que tostarlo de inmediato.
+CLT_PASTA:
+  name: Pasta
+  type:
+  - '&7&oCosecha'
+  description:
+  - Pasta sin más, sencilla pero maravillosa.
+CLT_PEA:
+  name: Guisantes
+  type:
+  - '&7&oCosecha'
+  description:
+  - Suelen ir de dos en dos en una vaina, o eso dicen.
+CLT_PEACH:
+  name: Melocotón
+  type:
+  - '&7&oCosecha'
+  description:
+  - Del emoji no se habla
+CLT_PEANUT:
+  name: Cacahuete
+  type:
+  - '&7&oCosecha'
+  description:
+  - ¡Allá voy, Reese's!
+CLT_PEANUT_BUTTER:
+  name: Mantequilla de cacahuete
+  type:
+  - '&7&oCosecha'
+  description:
+  - Solo comparable al oro líquido.
+CLT_PEANUT_BUTTER_JELLY_SANDWICH:
+  name: Sándwich de mantequilla de cacahuete y mermelada
+  type:
+  - '&7&oComida'
+  description:
+  - Es sin duda la cumbre de la tecnología del sándwich.
+  stats:
+  - '&8⇨ &7Curación: &b5 corazones'
+  - '&8⇨ &bFuerza III &7(10:00)'
+CLT_PEAR:
+  name: Pera
+  type:
+  - '&7&oCosecha'
+  description:
+  - ¿No dirías que está pera-fecta?
+CLT_PECAN:
+  name: Pacana
+  type:
+  - '&7&oCosecha'
+  description:
+  - Está pidiendo a gritos acabar en una tarta.
+CLT_PECAN_PIE:
+  name: Tarta de pacanas
+  type:
+  - '&7&oComida'
+  description:
+  - La única forma de comer azúcar puro sin
+  - que nadie te juzgue.
+  stats:
+  - '&8⇨ &7Curación: &b4 corazones'
+  - '&8⇨ &bLevitación I &7(10:00)'
+CLT_PEPPER:
+  name: Pimienta negra
+  type:
+  - '&7&oCosecha'
+  description:
+  - Más picante que la sal.
+CLT_PEPPERONI:
+  name: Pepperoni
+  type:
+  - '&7&oCosecha'
+  description:
+  - Podría comerme un tronco entero de esto, sin problema.
+CLT_PICO_DE_GALLO:
+  name: Pico de gallo
+  type:
+  - '&7&oCosecha'
+  description:
+  - Una salsa suave llena de pura delicia.
+CLT_PIE_CRUST:
+  name: Masa quebrada
+  type:
+  - '&7&oCosecha'
+  description:
+  - Si fuera legal comerse esto a palo seco,
+  - sería mi principal fuente de alimento.
+CLT_PINEAPPLE:
+  name: Piña
+  type:
+  - '&7&oCosecha'
+  description:
+  - Esto debería ir en todas las pizzas del mundo.
+  - ¿¡Quieres pelea!?
+CLT_PINTO_BEANS:
+  name: Alubias pintas
+  type:
+  - '&7&oCosecha'
+  description:
+  - ¡Chin-chín! Hora del burrito.
+CLT_PIZZA_CHEESE:
+  name: Pizza de queso
+  type:
+  - '&7&oComida'
+  description:
+  - ¿Por qué alguien pediría solo queso? Ni idea.
+  stats:
+  - '&8⇨ &7Curación: &b4 corazones'
+  - '&8⇨ &bLentitud I &7(10:00)'
+CLT_PIZZA_MUSHROOM:
+  name: Pizza de champiñones
+  type:
+  - '&7&oComida'
+  description:
+  - Una pizza vegetariana sencilla y llena de proteínas.
+  stats:
+  - '&8⇨ &7Curación: &b6 corazones'
+  - '&8⇨ &bLentitud I &7(10:00)'
+  - '&8⇨ &bPrisa minera II &7(10:00)'
+CLT_PIZZA_PEPPERONI:
+  name: Pizza de pepperoni
+  type:
+  - '&7&oComida'
+  description:
+  - Un clásico de Nueva York lleno de sabor.
+  stats:
+  - '&8⇨ &7Curación: &b6 corazones'
+  - '&8⇨ &bVelocidad I &7(10:00)'
+  - '&8⇨ &bPrisa minera I &7(10:00)'
+  - '&8⇨ &bSupersalto I &7(10:00)'
+CLT_PLANT_AIR:
+  name: Planta de aire primordial
+  type:
+  - '&7&oPlanta'
+  description:
+  - Una planta que tararea en voz baja
+  - la melodía de la naturaleza que la rodea.
+  - '&eLas plantas primordiales no producen objetos'
+  - '&ey solo sirven para cruzarlas.'
+CLT_PLANT_AMETHYST:
+  name: Planta de amatista
+  type:
+  - '&7&oPlanta'
+  description:
+  - A esta planta le encanta florecer en lugares
+  - profundos y oscuros.
+CLT_PLANT_ANALYSER:
+  name: Analizador de plantas
+  type:
+  - '&7&oHerramienta'
+  description:
+  - Una herramienta muy básica que te permite
+  - ver los detalles de una planta en crecimiento
+  usage:
+  - '&eClic derecho&7: te muestra la especie y los detalles de crecimiento de una planta.'
+  - '&eMayús + clic derecho&7: muestra el nombre de una planta o un arbusto.'
+CLT_PLANT_BASALT:
+  name: Planta de basalto
+  type:
+  - '&7&oPlanta'
+  description:
+  - Una planta muy aburrida y sosa.
+CLT_PLANT_BEE:
+  name: Planta de abeja
+  type:
+  - '&7&oPlanta'
+  description:
+  - Una planta con unas alas muy pequeñas y delicadas.
+CLT_PLANT_BLACKSTONE:
+  name: Planta de piedra negra
+  type:
+  - '&7&oPlanta'
+  description:
+  - Una planta conocida por absorber la luz.
+CLT_PLANT_BLAZE:
+  name: Planta de blaze
+  type:
+  - '&7&oPlanta'
+  description:
+  - Una planta con los bordes chamuscados.
+CLT_PLANT_CHICKEN:
+  name: Planta de pollo
+  type:
+  - '&7&oPlanta'
+  description:
+  - Se rumorea que si sujetas esta semilla
+  - sobre la cabeza y saltas desde un sitio
+  - alto, planearás en lugar de
+  - caer.
+CLT_PLANT_CLAY:
+  name: Planta de arcilla
+  type:
+  - '&7&oPlanta'
+  description:
+  - Esta planta se puede moldear y remodelar a voluntad.
+  - Eso no significa que sea buena idea hacerlo,
+  - ¡ojo!
+CLT_PLANT_COAL:
+  name: Planta de carbón
+  type:
+  - '&7&oPlanta'
+  description:
+  - Una planta con muchísimo potencial.
+CLT_PLANT_COBBLESTONE:
+  name: Planta de roca
+  type:
+  - '&7&oPlanta'
+  description:
+  - Esta planta es dura como una roca.
+CLT_PLANT_CONCRETE:
+  name: Planta de hormigón
+  type:
+  - '&7&oPlanta'
+  description:
+  - A esta planta le cuesta crecer porque
+  - se endurece muy deprisa.
+CLT_PLANT_COW:
+  name: Planta de vaca
+  type:
+  - '&7&oPlanta'
+  description:
+  - Si te acercas esta semilla al oído
+  - y escuchas con mucha atención, oirás
+  - algún que otro mugido.
+CLT_PLANT_CREEPER:
+  name: Planta de creeper
+  type:
+  - '&7&oPlanta'
+  description:
+  - Tsssssssssttt...
+CLT_PLANT_DARKNESS:
+  name: Planta de oscuridad primordial
+  type:
+  - '&7&oPlanta'
+  description:
+  - Una planta que hierve de rabia
+  - desatada.
+  - '&eLas plantas primordiales no producen objetos'
+  - '&ey solo sirven para cruzarlas.'
+CLT_PLANT_DARK_FLORA:
+  name: Planta de flora oscura
+  type:
+  - '&7&oPlanta'
+  description:
+  - Un mal silencioso habita en esta sencilla semilla.
+CLT_PLANT_DARK_GRASS:
+  name: Planta de hierba oscura
+  type:
+  - '&7&oPlanta'
+  description:
+  - Una planta que ha perdido por completo su
+  - identidad.
+CLT_PLANT_DEEPSLATE:
+  name: Planta de pizarra profunda
+  type:
+  - '&7&oPlanta'
+  description:
+  - Profunda, pizarrosa, <insertar lore aquí>.
+CLT_PLANT_DIAMOND:
+  name: Planta de diamante
+  type:
+  - '&7&oPlanta'
+  description:
+  - Una planta que habla de riquezas.
+CLT_PLANT_DIM_LIT:
+  name: Planta de luz tenue
+  type:
+  - '&7&oPlanta'
+  description:
+  - De esta semilla emana una luz muy tenue.
+CLT_PLANT_DIRT:
+  name: Planta de tierra
+  type:
+  - '&7&oPlanta'
+  description:
+  - Sucia por fuera, pero con los
+  - ingredientes de la vida misma.
+CLT_PLANT_DROWNED:
+  name: Planta de ahogado
+  type:
+  - '&7&oPlanta'
+  description:
+  - Una planta que está empapada todo
+  - el rato.
+CLT_PLANT_DUSTY:
+  name: Planta de polvo
+  type:
+  - '&7&oPlanta'
+  description:
+  - 'Esta planta necesita cuidados especiales: la más'
+  - leve brisa fuerte puede bastar para que se haga
+  - pedazos.
+CLT_PLANT_EARTH:
+  name: Planta de tierra primordial
+  type:
+  - '&7&oPlanta'
+  description:
+  - Una planta que enriquece el mundo
+  - que la rodea.
+  - '&eLas plantas primordiales no producen objetos'
+  - '&ey solo sirven para cruzarlas.'
+CLT_PLANT_ECHO:
+  name: Planta de eco
+  type:
+  - '&7&oPlanta'
+  description:
+  - Esta planta siempre sabe encontrar
+  - el camino a casa.
+CLT_PLANT_ELDER_GUARDIAN:
+  name: Planta de guardián anciano
+  type:
+  - '&7&oPlanta'
+  description:
+  - Estar cerca de esta planta vuelve a la gente
+  - perezosa.
+CLT_PLANT_EMERALD:
+  name: Planta de esmeralda
+  type:
+  - '&7&oPlanta'
+  description:
+  - Los dueños de esta planta tienen que pasar
+  - por el aro solo para poder permitírsela.
+CLT_PLANT_ENDERMAN:
+  name: Planta de enderman
+  type:
+  - '&7&oPlanta'
+  description:
+  - Si no se trata con cuidado, ¡esta planta
+  - puede teletransportarse al azar!
+CLT_PLANT_ENDER_DRAGON:
+  name: Planta de enderdragón
+  type:
+  - '&7&oPlanta'
+  description:
+  - Una planta que es todo un jefe final.
+CLT_PLANT_END_STONE:
+  name: Planta de piedra del End
+  type:
+  - '&7&oPlanta'
+  description:
+  - Una planta que zumba con el vacío.
+CLT_PLANT_FIRE:
+  name: Planta de fuego primordial
+  type:
+  - '&7&oPlanta'
+  description:
+  - Una planta que proporciona tanto
+  - las fuentes de la destrucción como
+  - del renacimiento.
+  - '&eLas plantas primordiales no producen objetos'
+  - '&ey solo sirven para cruzarlas.'
+CLT_PLANT_FISH:
+  name: Planta de pez
+  type:
+  - '&7&oPlanta'
+  description:
+  - De esta semilla emana un olor a maduro.
+CLT_PLANT_FLOWER:
+  name: Planta en flor
+  type:
+  - '&7&oPlanta'
+  description:
+  - Una preciosa cornucopia bien presentada.
+CLT_PLANT_FROG:
+  name: Planta de rana
+  type:
+  - '&7&oPlanta'
+  description:
+  - ¡Croac!
+CLT_PLANT_GHAST:
+  name: Planta de ghast
+  type:
+  - '&7&oPlanta'
+  description:
+  - Una planta conocida por lanzar
+  - bolas de fuego al azar.
+CLT_PLANT_GLASS:
+  name: Planta de cristal
+  type:
+  - '&7&oPlanta'
+  description:
+  - Desde el ángulo adecuado, jurarías
+  - que puedes ver a través de esta planta.
+CLT_PLANT_GLAZED:
+  name: Planta esmaltada
+  type:
+  - '&7&oPlanta'
+  description:
+  - Una planta que crece con un diseño intrincado.
+CLT_PLANT_GLOWING_VINE:
+  name: Planta de liana luminosa
+  type:
+  - '&7&oPlanta'
+  description:
+  - De esta semilla emana una luz débil.
+CLT_PLANT_GLOW_SQUID:
+  name: Planta de calamar luminoso
+  type:
+  - '&7&oPlanta'
+  description:
+  - Una planta reluciente con un brillo débil.
+CLT_PLANT_GOAT:
+  name: Planta de cabra
+  type:
+  - '&7&oPlanta'
+  description:
+  - Una planta violenta sin motivo a la que le
+  - encanta dar saltos.
+CLT_PLANT_GRASS:
+  name: Planta de hierba
+  type:
+  - '&7&oPlanta'
+  description:
+  - La vida en ciernes brota con fuerza
+  - de la tierra.
+CLT_PLANT_GRAVEL:
+  name: Planta de grava
+  type:
+  - '&7&oPlanta'
+  description:
+  - Esta planta no sabe muy bien cómo
+  - mantenerse entera.
+CLT_PLANT_GUARDIAN:
+  name: Planta de guardián
+  type:
+  - '&7&oPlanta'
+  description:
+  - Al tocarla, esta planta suelta
+  - púas.
+CLT_PLANT_IGNEOUS:
+  name: Planta ígnea
+  type:
+  - '&7&oPlanta'
+  description:
+  - Esta planta se ha formado por calor y
+  - presión. ¡No me mires así! Todas estas
+  - descripciones de plantas tienen todo el sentido.
+CLT_PLANT_LAPIS:
+  name: Planta de lapislázuli
+  type:
+  - '&7&oPlanta'
+  description:
+  - Una planta con un leve aura mágica.
+CLT_PLANT_LIGHT:
+  name: Planta de luz primordial
+  type:
+  - '&7&oPlanta'
+  description:
+  - Una planta que desprende un aura
+  - de amor puro.
+  - '&eLas plantas primordiales no producen objetos'
+  - '&ey solo sirven para cruzarlas.'
+CLT_PLANT_MAGMA:
+  name: Planta de magma
+  type:
+  - '&7&oPlanta'
+  description:
+  - Una planta tan caliente que quema todo
+  - lo que la rodea.
+CLT_PLANT_MAGMA_CUBE:
+  name: Planta de cubo de magma
+  type:
+  - '&7&oPlanta'
+  description:
+  - Cuando nadie la mira, a esta planta
+  - le gusta botar arriba y abajo.
+CLT_PLANT_MOSS:
+  name: Planta de musgo
+  type:
+  - '&7&oPlanta'
+  description:
+  - Esta planta tiende a extenderse sin control.
+CLT_PLANT_MUD:
+  name: Planta de barro
+  type:
+  - '&7&oPlanta'
+  description:
+  - Una planta casi tan sucia como
+  - la tierra de la que sale.
+CLT_PLANT_MUSHROOM:
+  name: Planta de champiñón
+  type:
+  - '&7&oPlanta'
+  description:
+  - Sip, una planta que da champiñones.
+  - Aquí todo es totalmente normal.
+CLT_PLANT_NETHERRACK:
+  name: Planta de netherrack
+  type:
+  - '&7&oPlanta'
+  description:
+  - Una planta dura y resistente capaz de sobrevivir
+  - en casi cualquier lugar.
+CLT_PLANT_NETHER_QUARTZ:
+  name: Planta de cuarzo del Nether
+  type:
+  - '&7&oPlanta'
+  description:
+  - Esta planta tiene espinas tan afiladas que
+  - cuesta trabajar con ella.
+CLT_PLANT_PHANTOM:
+  name: Planta de fantasma
+  type:
+  - '&7&oPlanta'
+  description:
+  - Una planta de hojas elevadas.
+CLT_PLANT_PIG:
+  name: Planta de cerdo
+  type:
+  - '&7&oPlanta'
+  description:
+  - Una planta que resopla de vez en cuando.
+CLT_PLANT_POWER:
+  name: Planta de poder primordial
+  type:
+  - '&7&oPlanta'
+  description:
+  - Una planta que rebosa poder por todas partes.
+  - '&eLas plantas primordiales no producen objetos'
+  - '&ey solo sirven para cruzarlas.'
+CLT_PLANT_PURPUR:
+  name: Planta de púrpur
+  type:
+  - '&7&oPlanta'
+  description:
+  - Una planta rara, parece mucho más ligera
+  - que la mayoría.
+CLT_PLANT_RABBIT:
+  name: Planta de conejo
+  type:
+  - '&7&oPlanta'
+  description:
+  - Los bichos estarían orgullosos.
+CLT_PLANT_RAINBOW:
+  name: Planta de arcoíris
+  type:
+  - '&7&oPlanta'
+  description:
+  - Puede que haya, o puede que no, un caldero de oro
+  - al final de esta planta.
+CLT_PLANT_RAW_COPPER:
+  name: Planta de cobre en bruto
+  type:
+  - '&7&oPlanta'
+  description:
+  - Si se la deja sola, esta planta a veces
+  - atrae los rayos.
+CLT_PLANT_RAW_GOLD:
+  name: Planta de oro en bruto
+  type:
+  - '&7&oPlanta'
+  description:
+  - Los piglins suelen robar esta planta
+  - si andan cerca.
+CLT_PLANT_RAW_IRON:
+  name: Planta de hierro en bruto
+  type:
+  - '&7&oPlanta'
+  description:
+  - Una planta robusta capaz de soportar casi
+  - cualquier entorno.
+CLT_PLANT_REDSTONE:
+  name: Planta de redstone
+  type:
+  - '&7&oPlanta'
+  description:
+  - Una planta rebosante de poder de arriba abajo.
+CLT_PLANT_RED_SAND:
+  name: Planta de arena roja
+  type:
+  - '&7&oPlanta'
+  description:
+  - Esta planta a veces se desmorona
+  - con solo tocarla, pero... más roja.
+CLT_PLANT_REINFORCED:
+  name: Planta reforzada
+  type:
+  - '&7&oPlanta'
+  description:
+  - Una planta capaz de mantenerse en pie
+  - pase lo que pase.
+CLT_PLANT_SAND:
+  name: Planta de arena
+  type:
+  - '&7&oPlanta'
+  description:
+  - Esta planta a veces se desmorona
+  - con solo tocarla.
+CLT_PLANT_SAPLING:
+  name: Planta de retoño
+  type:
+  - '&7&oPlanta'
+  description:
+  - Esta planta no tiene ni pies ni cabeza...
+CLT_PLANT_SCRAPPY:
+  name: Planta de chatarra
+  type:
+  - '&7&oPlanta'
+  description:
+  - Esta planta es de verdad la cumbre de
+  - la horticultura.
+CLT_PLANT_SHEEP:
+  name: Planta de oveja
+  type:
+  - '&7&oPlanta'
+  description:
+  - Una planta de textura áspera y lanuda.
+CLT_PLANT_SHULKER:
+  name: Planta de shulker
+  type:
+  - '&7&oPlanta'
+  description:
+  - Una planta que a menudo levita
+  - sobre el suelo.
+CLT_PLANT_SKELETON:
+  name: Planta de esqueleto
+  type:
+  - '&7&oPlanta'
+  description:
+  - Una planta que traquetea al mecerse.
+CLT_PLANT_SLIME:
+  name: Planta de slime
+  type:
+  - '&7&oPlanta'
+  description:
+  - ¿Por qué es tan pegajosa?
+CLT_PLANT_SOUL:
+  name: Planta de alma
+  type:
+  - '&7&oPlanta'
+  description:
+  - Una planta a la que se oye gritar
+  - cuando hay silencio.
+CLT_PLANT_SPECTRUM:
+  name: Planta de espectro primordial
+  type:
+  - '&7&oPlanta'
+  description:
+  - Una planta que cambia ligeramente de color.
+  - '&eLas plantas primordiales no producen objetos'
+  - '&ey solo sirven para cruzarlas.'
+CLT_PLANT_SPIDER:
+  name: Planta de araña
+  type:
+  - '&7&oPlanta'
+  description:
+  - ¡Mátala, mátala YA!
+CLT_PLANT_SQUID:
+  name: Planta de calamar
+  type:
+  - '&7&oPlanta'
+  description:
+  - Cuidado, con solo tocar esta planta
+  - puede reventar y llenarlo todo de
+  - tinta.
+CLT_PLANT_STAINED:
+  name: Planta tintada
+  type:
+  - '&7&oPlanta'
+  description:
+  - Esta planta descompone la luz en todo un
+  - espectro sobre los objetos cercanos.
+CLT_PLANT_TERRA:
+  name: Planta de terra
+  type:
+  - '&7&oPlanta'
+  description:
+  - Una planta dura y terrosa que se agrieta bajo presión.
+CLT_PLANT_TURTLE:
+  name: Planta de tortuga
+  type:
+  - '&7&oPlanta'
+  description:
+  - Una semilla rodeada de una cáscara dura como la roca.
+CLT_PLANT_VILLAGER:
+  name: Planta de aldeano
+  type:
+  - '&7&oPlanta'
+  description:
+  - Sip, hemos condensado la esencia de un aldeano
+  - en una planta. Al parecer dolió mucho.
+CLT_PLANT_VINE:
+  name: Planta de liana
+  type:
+  - '&7&oPlanta'
+  description:
+  - Una planta que se enreda sola
+  - al instante.
+CLT_PLANT_WATER:
+  name: Planta de agua primordial
+  type:
+  - '&7&oPlanta'
+  description:
+  - Una planta que nutre y da
+  - vida a la zona que la rodea.
+  - '&eLas plantas primordiales no producen objetos'
+  - '&ey solo sirven para cruzarlas.'
+CLT_PLANT_WAXY:
+  name: Planta de cera
+  type:
+  - '&7&oPlanta'
+  description:
+  - La savia de esta planta se convierte en
+  - cera con forma de vela perfecta.
+CLT_PLANT_WEALTH:
+  name: Planta de riqueza primordial
+  type:
+  - '&7&oPlanta'
+  description:
+  - Una planta que grita riqueza exuberante.
+  - '&eLas plantas primordiales no producen objetos'
+  - '&ey solo sirven para cruzarlas.'
+CLT_PLANT_WITCH:
+  name: Planta de bruja
+  type:
+  - '&7&oPlanta'
+  description:
+  - Una planta que suena como si estuviera
+  - murmurando hechizos en voz baja.
+CLT_PLANT_WITHER:
+  name: Planta de Wither
+  type:
+  - '&7&oPlanta'
+  description:
+  - Una planta mortal que hay que tratar
+  - con cuidado.
+CLT_PLANT_WITHER_ROSE:
+  name: Planta de rosa del Wither
+  type:
+  - '&7&oPlanta'
+  description:
+  - Esta planta, de algún modo, emite un aura
+  - dañina a su alrededor.
+CLT_PLANT_WITHER_SKELETON:
+  name: Planta de esqueleto del Wither
+  type:
+  - '&7&oPlanta'
+  description:
+  - Una planta conocida por ser escurridiza y resistente.
+CLT_PLANT_WOOLLY:
+  name: Planta de lana
+  type:
+  - '&7&oPlanta'
+  description:
+  - ¡Una planta lanuda, de la raíz a los pétalos!
+CLT_PLANT_ZOMBIE:
+  name: Planta de zombi
+  type:
+  - '&7&oPlanta'
+  description:
+  - Esta planta está chorreando... algo...
+CLT_RADDISH:
+  name: Rábano
+  type:
+  - '&7&oCosecha'
+  description:
+  - Pequeños bolsillos de sol fresco y crujiente.
+CLT_RADICCHIO:
+  name: Achicoria roja
+  type:
+  - '&7&oCosecha'
+  description:
+  - Escribir todo este lore lleva muchísimo tiempo.
+  - Es achicoria-mente agotador.
+CLT_RAMEN_BEEF:
+  name: Ramen de ternera
+  type:
+  - '&7&oComida'
+  description:
+  - Una opción no tan saludable.
+  stats: &id004
+  - '&8⇨ &bSalud mejorada I &7(10:00)'
+CLT_RAMEN_BEEF_HEARTY:
+  name: Ramen de ternera abundante
+  type:
+  - '&7&oComida'
+  description:
+  - Una opción saludable.
+  stats: &id005
+  - '&8⇨ &7Curación: &bCompleta'
+  - '&8⇨ &bSalud mejorada II &7(10:00)'
+  - '&8⇨ &bVelocidad I &7(10:00)'
+CLT_RAMEN_CHICKEN:
+  name: Ramen de pollo
+  type:
+  - '&7&oComida'
+  description:
+  - Una opción no tan saciante.
+  stats: *id004
+CLT_RAMEN_CHICKEN_HEARTY:
+  name: Ramen de pollo abundante
+  type:
+  - '&7&oComida'
+  description:
+  - Una opción saciante.
+  stats: *id005
+CLT_RAMEN_SEAFOOD:
+  name: Ramen de marisco
+  type:
+  - '&7&oComida'
+  description:
+  - Una opción no tan satisfactoria.
+  stats: *id004
+CLT_RAMEN_SEAFOOD_HEARTY:
+  name: Ramen de marisco abundante
+  type:
+  - '&7&oComida'
+  description:
+  - Una opción satisfactoria.
+  stats: *id005
+CLT_RAPESEED:
+  name: Colza
+  type:
+  - '&7&oCosecha'
+  description:
+  - A menudo se usa para hacer aceites.
+CLT_RECIPE_UNLOCK:
+  name: Pergamino de conocimiento de Cultivation
+  type:
+  - '&7&oHerramienta'
+  description:
+  - Haz clic derecho para aprender una receta
+  - de cruce de Cultivation.
+CLT_RHUBARB:
+  name: Ruibarbo
+  type:
+  - '&7&oCosecha'
+  description:
+  - ¡Eso sí, acuérdate de quitarle las hojas!
+CLT_RICE:
+  name: Arroz
+  type:
+  - '&7&oCosecha'
+  description:
+  - ¡Recuerda, solo se arroz una vez!
+CLT_ROSEMARY:
+  name: Romero
+  type:
+  - '&7&oCosecha'
+  description:
+  - Siempre le falta tomillo... digo, tiempo.
+CLT_RUNNER_BEANS:
+  name: Judías escarlata
+  type:
+  - '&7&oCosecha'
+  description:
+  - Siempre intentando escaparse.
+CLT_RUTABAGA:
+  name: Colinabo
+  type:
+  - '&7&oCosecha'
+  description:
+  - Me duele de verdad no llamarlo nabo sueco.
+CLT_SALMON_NIGIRI:
+  name: Nigiri de salmón
+  type:
+  - '&7&oComida'
+  description:
+  - Un sabor delicioso pero sutil.
+  stats:
+  - '&8⇨ &7Curación: &b2 corazones'
+  - '&8⇨ &bRegeneración I &7(10:00)'
+CLT_SASSAFRAS:
+  name: Sasafrás
+  type:
+  - '&7&oCosecha'
+  description:
+  - Root beer comestible, búscalo en
+  - Google, ahora lo compro sin parar.
+CLT_SAUSAGE:
+  name: Salchicha
+  type:
+  - '&7&oComida'
+  description:
+  - El hermano del beicon.
+  stats: &id007
+  - '&8⇨ &7Curación: &b1 corazón'
+CLT_SEED_PACK:
+  name: Paquete de semillas
+  type:
+  - '&7&oHerramienta'
+  description:
+  - Haz clic derecho para abrir este paquete.
+  stats:
+  - '&8⇨ &7Asignado a: &bNada'
+CLT_SHAKSHUKA:
+  name: Shakshuka
+  type:
+  - '&7&oComida'
+  description:
+  - Un plato reconfortante con huevos a montones.
+  stats:
+  - '&8⇨ &7Curación: &b4 corazones'
+  - '&8⇨ &bHéroe de la aldea I &7(10:00)'
+  - '&8⇨ &bSuerte I &7(10:00)'
+CLT_SHALLOT:
+  name: Chalota
+  type:
+  - '&7&oCosecha'
+  description:
+  - Me encanta la chalota a mogollón.
+CLT_SHEPHERDS_PIE:
+  name: Pastel de carne
+  type:
+  - '&7&oComida'
+  description:
+  - Caliente, contundente y sencillamente maravilloso.
+  stats: *id006
+CLT_SHISO:
+  name: Shiso
+  type:
+  - '&7&oCosecha'
+  description:
+  - Menta con guarnición de amor.
+CLT_SLICED_APPLE:
+  name: Manzana en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_APRICOT:
+  name: Albaricoque en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_ARTICHOKE:
+  name: Alcachofa en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_ASPARAGUS:
+  name: Espárrago en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_AUBERGINE:
+  name: Berenjena en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_AVOCADO:
+  name: Aguacate en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_BANANA:
+  name: Plátano en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_BASIL:
+  name: Albahaca en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_BAY_LEAF:
+  name: Hoja de laurel en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_BEEF:
+  name: Ternera en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_BEETROOT:
+  name: Remolacha en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_BELL_PEPPER:
+  name: Pimiento en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_BLACK_BEANS:
+  name: Alubias negras en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_BREAD:
+  name: Pan en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_BROCCOLI:
+  name: Brócoli en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_BROWN_MUSHROOM:
+  name: Champiñón marrón en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_BRUSSELS_SPROUTS:
+  name: Coles de Bruselas en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_CABBAGE:
+  name: Repollo en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_CARROT:
+  name: Zanahoria en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_CAULIFLOWER:
+  name: Coliflor en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_CAYENNE_PEPPER:
+  name: Pimienta de cayena en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_CELERIAC:
+  name: Apionabo en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_CELERY:
+  name: Apio en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_CHERRY:
+  name: Cereza en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_CHESTNUT:
+  name: Castaña en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_CHICKEN:
+  name: Pollo en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_CHICKPEAS:
+  name: Garbanzos en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_CHICORY:
+  name: Achicoria en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_CHILLY_PEPPER:
+  name: Guindilla en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_CHIVES:
+  name: Cebollino en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_CHORUS_FRUIT:
+  name: Fruta chorus en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_CILANTRO:
+  name: Cilantro en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_CINNAMON:
+  name: Canela en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_CLOVE:
+  name: Clavo en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_COCOA_BEANS:
+  name: Semillas de cacao en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_COD:
+  name: Bacalao en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_COURGETTE:
+  name: Calabacín en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_CUCUMBER:
+  name: Pepino en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_CUMIN:
+  name: Comino en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_CURRY_LEAF:
+  name: Hoja de curry en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_DILL:
+  name: Eneldo en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_EGG:
+  name: Huevo en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_ENCHANTED_GOLDEN_APPLE:
+  name: Manzana dorada encantada en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_FENNEL:
+  name: Hinojo en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_GARLIC:
+  name: Ajo en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_GINGER:
+  name: Jengibre en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_GLOW_BERRIES:
+  name: Bayas luminosas en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_GOLDEN_APPLE:
+  name: Manzana dorada en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_GOLDEN_CARROT:
+  name: Zanahoria dorada en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_GRAPE:
+  name: Uva en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_GREEN_APPLE:
+  name: Manzana verde en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_GREEN_BEANS:
+  name: Judías verdes en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_GREEN_ONION:
+  name: Cebolleta en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_HAZELNUT:
+  name: Avellana en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_HORSERADISH:
+  name: Rábano picante en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_JALAPENO:
+  name: Jalapeño en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_JASMINE:
+  name: Jazmín en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_JUNIPER_BERRY:
+  name: Bayas de enebro en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_KAFFIR_LIME:
+  name: Hoja de lima kaffir en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_KALE:
+  name: Col rizada en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_KELP:
+  name: Alga en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_KIWI:
+  name: Kiwi en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_LAVENDER:
+  name: Lavanda en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_LEEK:
+  name: Puerro en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_LEMON:
+  name: Limón en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_LETTUCE:
+  name: Lechuga en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_LICORICE:
+  name: Regaliz en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_LIME:
+  name: Lima en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_MACE:
+  name: Macis en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_MANGO:
+  name: Mango en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_MARJORAM:
+  name: Mejorana en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_MARROW:
+  name: Calabacín gigante en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_MELON:
+  name: Sandía en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_MINT:
+  name: Menta en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_MUSTARD_SEEDS:
+  name: Semillas de mostaza en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_MUTTON:
+  name: Cordero en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_NETTLES:
+  name: Ortigas en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_OKRA:
+  name: Okra en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_ONION:
+  name: Cebolla en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_ORANGE:
+  name: Naranja en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_OREGANO:
+  name: Orégano en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_PARSLEY:
+  name: Perejil en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_PARSNIP:
+  name: Chirivía en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_PEA:
+  name: Guisantes en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_PEACH:
+  name: Melocotón en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_PEANUT:
+  name: Cacahuete en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_PEAR:
+  name: Pera en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_PECAN:
+  name: Pacana en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_PEPPER:
+  name: Pimienta negra en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_PEPPERONI:
+  name: Pepperoni en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_PINEAPPLE:
+  name: Piña en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_PINTO_BEANS:
+  name: Alubias pintas en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_PORKCHOP:
+  name: Chuleta de cerdo en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_POTATO:
+  name: Patata en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_PUFFERFISH:
+  name: Pez globo en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_PUMPKIN:
+  name: Calabaza en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_RABBIT:
+  name: Conejo en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_RADDISH:
+  name: Rábano en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_RADICCHIO:
+  name: Achicoria roja en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_RAPESEED:
+  name: Colza en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_RED_MUSHROOM:
+  name: Champiñón rojo en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_RHUBARB:
+  name: Ruibarbo en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_RICE:
+  name: Arroz en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_ROSEMARY:
+  name: Romero en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_ROTTEN_FLESH:
+  name: Carne podrida en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_RUNNER_BEANS:
+  name: Judías escarlata en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_RUTABAGA:
+  name: Colinabo en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_SALMON:
+  name: Salmón en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_SASSAFRAS:
+  name: Sasafrás en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_SHALLOT:
+  name: Chalota en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_SHISO:
+  name: Shiso en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_SOY_BEANS:
+  name: Habas de soja en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_SPINACH:
+  name: Espinaca en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_STAR_ANISE:
+  name: Anís estrellado en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_STRAWBERRY:
+  name: Fresa en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_SUGAR:
+  name: Azúcar en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_SWEETCORN:
+  name: Maíz dulce en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_SWEET_BERRIES:
+  name: Bayas dulces en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_SWEET_POTATO:
+  name: Batata en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_TARRAGON:
+  name: Estragón en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_THYME:
+  name: Tomillo en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_TOMATO:
+  name: Tomate en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_TURMERIC:
+  name: Cúrcuma en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_TURNIP:
+  name: Nabo en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_VANILLA:
+  name: Vainilla en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_WASABI:
+  name: Wasabi en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SLICED_WHEAT:
+  name: Trigo en rodajas
+  type:
+  - '&7&oSubproducto'
+CLT_SOFT_BOILED_EGG:
+  name: Huevo pasado por agua
+  type:
+  - '&7&oComida'
+  description:
+  - Solo un huevo hervido, qué más se puede decir.
+  stats:
+  - '&8⇨ &7Curación: &b1 corazón'
+  - '&8⇨ &7A veces puede llamar a una gallina en tu ayuda.'
+CLT_SOYLENT:
+  name: Soylent
+  type:
+  - '&7&oComida'
+  description:
+  - ¡Todo lo que el cuerpo necesita!
+  stats:
+  - '&8⇨ &bMal presagio I &7(10:00)'
+  - '&8⇨ &bDebilidad IV &7(10:00)'
+CLT_SOY_BEANS:
+  name: Habas de soja
+  type:
+  - '&7&oCosecha'
+  description:
+  - Se avecina la leche de soja.
+CLT_SPAGHETTI:
+  name: Espaguetis
+  type:
+  - '&7&oComida'
+  description:
+  - Tú sigue sorbiendo.
+  stats: *id007
+CLT_SPAGHETTI_AND_MEATBALLS:
+  name: Espaguetis con albóndigas
+  type:
+  - '&7&oComida'
+  description:
+  - Sencillo, clásico y contundente.
+  stats:
+  - '&8⇨ &7Curación: &b1 corazón'
+  - '&8⇨ &bMal presagio I &7(10:00)'
+CLT_SPINACH:
+  name: Espinaca
+  type:
+  - '&7&oCosecha'
+  description:
+  - Pochada con amor.
+CLT_STAR_ANISE:
+  name: Anís estrellado
+  type:
+  - '&7&oCosecha'
+  description:
+  - Uno de los mejores sabores y de los más únicos.
+CLT_STRAWBERRY:
+  name: Fresa
+  type:
+  - '&7&oCosecha'
+  description:
+  - ¡Solo falta la nata!
+CLT_STRAWBERRY_JELLY:
+  name: Mermelada de fresa
+  type:
+  - '&7&oCosecha'
+  description: *id008
+CLT_SUGARED_SKULL:
+  name: Calavera de azúcar
+  type:
+  - '&7&oComida'
+  description:
+  - ¿Esto es comida siquiera...?
+  stats:
+  - '&8⇨ &bOscuridad III &7(10:00)'
+CLT_SWEETCORN:
+  name: Maíz dulce
+  type:
+  - '&7&oCosecha'
+  description:
+  - Quizá la mejor verdura que existe.
+CLT_SWEET_BEEHIVE:
+  name: Colmena dulce
+  type:
+  - '&7&oComida'
+  description:
+  - ¡No sé qué te ha llevado a cocinar esto!
+  stats:
+  - '&8⇨ &7¡Invoca unas cuantas abejas!'
+CLT_SWEET_POTATO:
+  name: Batata
+  type:
+  - '&7&oCosecha'
+  description:
+  - Ñam, ñam, ñam.
+CLT_TAQUITO:
+  name: Taquito
+  type:
+  - '&7&oComida'
+  description:
+  - ¡Zim estaría orgulloso!
+  stats:
+  - '&8⇨ &7Curación: &b4 corazones'
+  - '&8⇨ &7Invoca a Gir para ayudarte (es un gólem de hierro, tranquilo).'
+CLT_TARRAGON:
+  name: Estragón
+  type:
+  - '&7&oCosecha'
+  description:
+  - Literalmente le echo esto a todo.
+  - 'Spoiler: no soy buen cocinero.'
+CLT_TATER_TOTS:
+  name: Croquetas de patata
+  type:
+  - '&7&oComida'
+  description:
+  - Bocaditos de patata para picar.
+  stats:
+  - '&8⇨ &7Curación: &b0.5 corazones'
+  - '&8⇨ &bVelocidad II &7(10:00)'
+CLT_THYME:
+  name: Tomillo
+  type:
+  - '&7&oCosecha'
+  description:
+  - A menudo echaba de menos el romero.
+CLT_TOMATO:
+  name: Tomate
+  type:
+  - '&7&oCosecha'
+  description:
+  - Recién cogido de la parra... esto... ¿del arbusto?
+CLT_TORTILLAS:
+  name: Tortillas
+  type:
+  - '&7&oCosecha'
+  description:
+  - Delicias de harina de maíz
+CLT_TREE_APRICOT:
+  name: Albaricoquero
+  type:
+  - '&7&oBrote'
+  description:
+  - Dentro hay un único hueso de desesperación.
+  stats: &id009
+  - '&8⇨ &7Diseño de: &bBWhite'
+CLT_TREE_BANANA:
+  name: Platanero
+  type:
+  - '&7&oBrote'
+  description:
+  - Un árbol al que le crecen dedos, ¡qué grima!
+  stats:
+  - '&8⇨ &7Diseño de: &bSefiraat'
+CLT_TREE_CHERRY:
+  name: Cerezo
+  type:
+  - '&7&oBrote'
+  description:
+  - ¡Que se casen!
+  stats:
+  - '&8⇨ &7Diseño de: &bReasonFoundDecoy'
+CLT_TREE_CHESTNUT:
+  name: Castaño
+  type:
+  - '&7&oBrote'
+  description:
+  - Un árbol claramente diseñado para trepar.
+  stats: &id010
+  - '&8⇨ &7Diseño de: &bABitOddish'
+CLT_TREE_GREEN_APPLE:
+  name: Manzano de manzana verde
+  type:
+  - '&7&oBrote'
+  description:
+  - Da manzanas verdes grandes y crujientes.
+  stats: *id009
+CLT_TREE_HAZELNUT:
+  name: Avellano
+  type:
+  - '&7&oBrote'
+  description:
+  - Sacudir este árbol es un pasatiempo de la infancia.
+  stats: *id010
+CLT_TREE_KIWI:
+  name: Árbol de kiwi
+  type:
+  - '&7&oBrote'
+  description:
+  - ¿Un árbol de Nueva Zelanda? ¿Lo he dicho bien?
+  stats: *id010
+CLT_TREE_LEMON:
+  name: Limonero
+  type:
+  - '&7&oBrote'
+  description:
+  - Solo con mirar este árbol ya sabe ácido.
+  stats: &id011
+  - '&8⇨ &7Diseño de: &bJeff'
+CLT_TREE_LIME:
+  name: Limero
+  type:
+  - '&7&oBrote'
+  description:
+  - ¿Sabías que las limas son limones aguantando la respiración?
+  stats: *id010
+CLT_TREE_MANGO:
+  name: Árbol de mango
+  type:
+  - '&7&oBrote'
+  description:
+  - Mejor en su punto de madurez.
+  stats: *id009
+CLT_TREE_ORANGE:
+  name: Naranjo
+  type:
+  - '&7&oBrote'
+  description:
+  - Pequeñas esferas de sol.
+  stats: *id011
+CLT_TREE_PEACH:
+  name: Melocotonero
+  type:
+  - '&7&oBrote'
+  description:
+  - James estaba buscando esto, ¿no?
+  stats: *id010
+CLT_TREE_PEAR:
+  name: Peral
+  type:
+  - '&7&oBrote'
+  description:
+  - Un par de peras se emparejaron para ir a la par.
+  stats: *id009
+CLT_TREE_PECAN:
+  name: Pacano
+  type:
+  - '&7&oBrote'
+  description:
+  - ¿Podemos cultivar este árbol? ¡Pacana que sí!
+  stats: *id009
+CLT_TREE_PINEAPPLE:
+  name: Árbol de piña
+  type:
+  - '&7&oBrote'
+  description:
+  - ¿DÓNDE ESTÁ MI PIZZA?
+  stats: *id010
+CLT_TURMERIC:
+  name: Cúrcuma
+  type:
+  - '&7&oCosecha'
+  description:
+  - Una presencia almizclada e intensa para completar muchos platos.
+CLT_TURNIP:
+  name: Nabo
+  type:
+  - '&7&oCosecha'
+  description:
+  - Resolverá todos los problemas de la vida.
+CLT_VANILLA:
+  name: Vainilla
+  type:
+  - '&7&oCosecha'
+  description:
+  - 'Instrucciones: mójalo directamente en un latte'
+CLT_WASABI:
+  name: Wasabi
+  type:
+  - '&7&oCosecha'
+  description:
+  - Socorro... wasabi... qué pica...
+CLT_WITHER_ROSE_SALAD:
+  name: Ensalada de rosa del Wither
+  type:
+  - '&7&oComida'
+  description:
+  - Rebosante de poder, pero con un efecto secundario duro.
+  stats:
+  - '&8⇨ &7Curación: &bCompleta'
+  - '&8⇨ &bDescomposición II &7(10:00)'
+  - '&8⇨ &bSalud mejorada XX &7(10:00)'

@@ -1,0 +1,87 @@
+cultivation:
+  bush_harvest:
+    name: Cosecha de arbustos
+    lore:
+    - Este objeto se puede cosechar de un
+    - arbusto de Cultivation
+  tree_harvest:
+    name: Cosecha de árboles
+    lore:
+    - Este objeto se puede cosechar de un
+    - árbol de Cultivation
+  trading_farmer:
+    name: Comercio con aldeanos
+    lore:
+    - Este objeto se puede comprar a un
+    - aldeano granjero.
+  trading_fletcher:
+    name: Comercio con aldeanos
+    lore:
+    - Este objeto se puede comprar a un
+    - aldeano flechero.
+  mob:
+    name: Botín de criatura
+    lore:
+    - Este objeto puede soltarlo con cierta
+    - probabilidad la siguiente criatura o criaturas.
+  plant_breeding:
+    name: Cruce de plantas
+    lore:
+    - Esta semilla se obtiene mediante cruces.
+    - Para cruzar plantas, coloca
+    - dos plantas con un bloque de aire
+    - entre ellas.
+    - ''
+    - El diccionario de cruces sirve
+    - para registrar tus descubrimientos.
+    - ''
+    - 'Pista: las partículas negras indican que'
+    - las dos plantas NO se pueden cruzar.
+  vanilla_block_drop:
+    name: Botín del mundo
+    lore:
+    - Lo sueltan los bloques al romperlos en el mundo.
+  bucketing:
+    name: Botín del mundo
+    lore:
+    - Se obtiene del mundo usando un cubo.
+  chopped:
+    name: Picado
+    lore:
+    - ¡Basta con picarlo con un cuchillo!
+  mashed:
+    name: Machacado
+    lore:
+    - Machaca, machaca, machaca
+  blended:
+    name: Triturado
+    lore:
+    - Se hace metiendo un objeto en la batidora.
+  sliced:
+    name: En rodajas
+    lore:
+    - Tan fino y delicado
+  ground:
+    name: Molido
+    lore:
+    - Bien fino
+  boiled:
+    name: Hervido
+    lore:
+    - ¡Quema, quema, quema!
+  fried:
+    name: Frito
+    lore:
+    - Crujiente a la perfección.
+  grilled:
+    name: A la parrilla
+    lore:
+    - Jugoso y tierno.
+  finishing:
+    name: Emplatado
+    lore:
+    - Usa la encimera de emplatado de la cocina para hacer este objeto.
+  baking:
+    name: Horneado
+    lore:
+    - Usa la encimera con horno de la cocina para hacer este objeto.

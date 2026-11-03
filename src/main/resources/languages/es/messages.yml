@@ -1,0 +1,65 @@
+lore:
+  seed-pack-set-to: Asignado a
+  knowledge-script-unlocks: Desbloquea
+  drop-level: Nivel de botín
+  growth-speed: Velocidad de crecimiento
+  breed-strength: Fuerza de cruce
+command:
+  no-permission: No tienes permiso para hacer esto.
+  invalid-subcommand: Indica un subcomando válido.
+  players-only: Este comando solo lo puede ejecutar un jugador.
+  hold-seed-pack: Para esto debes sujetar un paquete de semillas.
+  pack-empty: ¡Este paquete está vacío!
+  pack-contents: Contenido
+  pack-entry: Nivel %level%, velocidad %speed%, fuerza %strength%
+kitchen:
+  recipe-disabled: Esta receta está desactivada.
+  no-recipe: No hay ninguna receta que coincida.
+  not-enough-power: No hay suficiente energía.
+  input-empty: Pon un objeto en la ranura de entrada.
+  cooked: ¡Qué rico!
+food:
+  eaten: ¡Estupendo! Estás lleno.
+  not-hungry: ¡Todavía no tienes hambre! Solo puedes comer una vez cada medio día (10 minutos).
+  palate-cleansed: Sientes cómo se te limpia el paladar.
+  ouch: ¡Ay!
+knowledge-script:
+  learned: Has aprendido a cruzar %plant%.
+seed-pack:
+  title: Paquete de semillas
+  unstack-first: Primero debes separar tus paquetes de semillas.
+  not-a-seed: El objeto debe ser una semilla de planta de Cultivation.
+  empty-before-change: Debes vaciar un paquete antes de cambiar su planta.
+  no-plant-set: Todavía no has asignado ninguna planta.
+  none-stored: No tienes ninguna semilla de este tipo con estos niveles.
+  set-here: Asignar semilla aquí
+  retrieve-here: Recoger aquí
+  no-seed-set: Sin semilla asignada
+  no-seed-set-lore:
+  - Haz clic en el icono de la izquierda
+  - con una semilla en la mano para asignarla.
+  empty-set: Sin coincidencias
+  empty-set-lore:
+  - No tienes semillas que coincidan
+  - con estos niveles.
+  stored-seed: Tipo de semilla guardada
+  take-seed: Sacar una semilla del paquete
+  level: Nivel
+  speed: Velocidad
+  strength: Fuerza
+  left-click: Clic izquierdo
+  right-click: Clic derecho
+  increase: Aumentar %stat%
+  decrease: Reducir %stat%
+  current: Actual
+codex:
+  title: Códice de plantas
+  child: Planta hija
+  mother: Planta madre
+  father: Planta padre
+  growth-rate: Ritmo de crecimiento
+  not-discovered: Sin descubrir
+  not-discovered-lore:
+  - ¡Todavía no has descubierto cómo
+  - cruzar esta planta!
+  discovery: Descubrimiento

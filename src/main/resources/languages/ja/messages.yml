@@ -1,0 +1,65 @@
+lore:
+  seed-pack-set-to: 設定
+  knowledge-script-unlocks: 解放
+  drop-level: ドロップレベル
+  growth-speed: 成長速度
+  breed-strength: 交配の強さ
+command:
+  no-permission: これを行う権限がありません。
+  invalid-subcommand: 有効なサブコマンドを指定してください。
+  players-only: このコマンドはプレイヤーのみ実行できます。
+  hold-seed-pack: これには種の袋を持っている必要があります。
+  pack-empty: この袋は空です！
+  pack-contents: 中身
+  pack-entry: レベル %level%、速度 %speed%、強さ %strength%
+kitchen:
+  recipe-disabled: このレシピは無効になっています。
+  no-recipe: 一致するレシピがありません。
+  not-enough-power: 電力が足りません。
+  input-empty: 入力スロットにアイテムを入れてください。
+  cooked: おいしい！
+food:
+  eaten: すてき！ お腹いっぱいです。
+  not-hungry: まだお腹がすいていません！ 食事は半日（10分）に1回だけです。
+  palate-cleansed: 口の中がさっぱりした。
+  ouch: いたっ！
+knowledge-script:
+  learned: '%plant%の交配方法を習得しました。'
+seed-pack:
+  title: 種の袋
+  unstack-first: 先に種の袋のスタックを分けてください。
+  not-a-seed: アイテムはカルティベーションの植物の種である必要があります。
+  empty-before-change: 植物を変更する前に袋を空にしてください。
+  no-plant-set: まだ植物が設定されていません。
+  none-stored: このレベルの種を持っていません。
+  set-here: ここに種を設定
+  retrieve-here: ここで取り出す
+  no-seed-set: 種が未設定
+  no-seed-set-lore:
+  - 種を持った状態で左のアイコンを
+  - クリックして袋を設定する。
+  empty-set: 該当なし
+  empty-set-lore:
+  - このレベルに一致する種を
+  - 持っていません。
+  stored-seed: 保管中の種の種類
+  take-seed: 袋から種を取り出す
+  level: レベル
+  speed: 速度
+  strength: 強さ
+  left-click: 左クリック
+  right-click: 右クリック
+  increase: '%stat%を上げる'
+  decrease: '%stat%を下げる'
+  current: 現在
+codex:
+  title: 植物図鑑
+  child: 子株
+  mother: 母株
+  father: 父株
+  growth-rate: 成長率
+  not-discovered: 未発見
+  not-discovered-lore:
+  - この植物の交配方法を
+  - まだ発見していません！
+  discovery: 発見

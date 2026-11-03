@@ -1,0 +1,6674 @@
+CLT_APRICOT:
+  name: 杏
+  type:
+  - '&7&o农产品'
+  description:
+  - 你可以用这些做精灵球。
+  - ……
+  - 你说那是另一种东西，是什么意思……？
+CLT_ARTICHOKE:
+  name: 洋蓟
+  type:
+  - '&7&o农产品'
+  description:
+  - 把它的心挖出来！
+CLT_ASPARAGUS:
+  name: 芦笋
+  type:
+  - '&7&o农产品'
+  description:
+  - 待会儿上厕所的时候小心点。
+CLT_AUBERGINE:
+  name: 茄子
+  type:
+  - '&7&o农产品'
+  description:
+  - 鲜艳的紫色，而且100%不是蛋形的。
+  - 那还是管它叫"蛋茄"吧，对吧？
+CLT_AVOCADO:
+  name: 牛油果
+  type:
+  - '&7&o农产品'
+  description:
+  - 文艺青年的梦中情果。
+CLT_BACON_SANDWICH:
+  name: 培根三明治
+  type:
+  - '&7&o食物'
+  description:
+  - 简单的经典！
+  stats:
+  - '&8⇨ &7治疗：&b2颗心'
+  - '&8⇨ &b力量 I &7(10:00)'
+  - '&8⇨ &b迅捷 I &7(10:00)'
+CLT_BAGEL:
+  name: 贝果
+  type:
+  - '&7&o食物'
+  description:
+  - 烤过的？还是……
+  stats:
+  - '&8⇨ &7治疗：&b2.5颗心'
+CLT_BAGEL_BITE:
+  name: 迷你贝果
+  type:
+  - '&7&o食物'
+  description:
+  - 随时随地吃披萨！
+  stats:
+  - '&8⇨ &7每一口都烫嘴！'
+CLT_BAGEL_CREAM_CHEESE:
+  name: 奶油奶酪贝果
+  type:
+  - '&7&o食物'
+  description:
+  - 太好吃了，你大概还想再来一个。
+  stats:
+  - '&8⇨ &7治疗：&b5颗心'
+  - '&8⇨ &b生命提升 I &7(10:00)'
+CLT_BANANA:
+  name: 香蕉
+  type:
+  - '&7&o农产品'
+  description:
+  - 这模样，这"蕉"情，我喜欢！
+CLT_BASIL:
+  name: 罗勒
+  type:
+  - '&7&o农产品'
+  description:
+  - 一种带着淡淡胡椒余味的甜叶子。
+CLT_BAY_LEAF:
+  name: 月桂叶
+  type:
+  - '&7&o农产品'
+  description:
+  - 一种用途多多的浓郁香料。
+CLT_BELL_PEPPER:
+  name: 甜椒
+  type:
+  - '&7&o农产品'
+  description:
+  - 真是"铃"验无比。
+CLT_BISCUIT:
+  name: 饼干
+  type:
+  - '&7&o食物'
+  description:
+  - 小小零食，大大美味。
+  stats: &id002
+  - '&8⇨ &7把你发射到空中'
+CLT_BISCUIT_BASE:
+  name: 饼干底
+  type:
+  - '&7&o农产品'
+  description:
+  - 就算现在被压扁了，
+  - 也不代表你能生吃。
+CLT_BISCUIT_DOUGH:
+  name: 饼干面团
+  type:
+  - '&7&o农产品'
+  description:
+  - 时刻提醒自己："别生吃。"
+CLT_BLACK_BEANS:
+  name: 黑豆
+  type:
+  - '&7&o农产品'
+  description:
+  - 美味的素食蛋白质。
+CLT_BLENDED_APPLE:
+  name: 搅打的苹果
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_APRICOT:
+  name: 搅打的杏
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_ARTICHOKE:
+  name: 搅打的洋蓟
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_ASPARAGUS:
+  name: 搅打的芦笋
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_AUBERGINE:
+  name: 搅打的茄子
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_AVOCADO:
+  name: 搅打的牛油果
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_BANANA:
+  name: 搅打的香蕉
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_BASIL:
+  name: 搅打的罗勒
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_BAY_LEAF:
+  name: 搅打的月桂叶
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_BEEF:
+  name: 搅打的牛肉
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_BEETROOT:
+  name: 搅打的甜菜根
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_BELL_PEPPER:
+  name: 搅打的甜椒
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_BLACK_BEANS:
+  name: 搅打的黑豆
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_BREAD:
+  name: 搅打的面包
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_BROCCOLI:
+  name: 搅打的西兰花
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_BROWN_MUSHROOM:
+  name: 搅打的棕色蘑菇
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_BRUSSELS_SPROUTS:
+  name: 搅打的抱子甘蓝
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_CABBAGE:
+  name: 搅打的卷心菜
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_CARROT:
+  name: 搅打的胡萝卜
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_CAULIFLOWER:
+  name: 搅打的花椰菜
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_CAYENNE_PEPPER:
+  name: 搅打的卡宴辣椒
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_CELERIAC:
+  name: 搅打的块根芹
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_CELERY:
+  name: 搅打的芹菜
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_CHERRY:
+  name: 搅打的樱桃
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_CHESTNUT:
+  name: 搅打的栗子
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_CHICKEN:
+  name: 搅打的鸡肉
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_CHICKPEAS:
+  name: 搅打的鹰嘴豆
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_CHICORY:
+  name: 搅打的菊苣
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_CHILLY_PEPPER:
+  name: 搅打的辣椒
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_CHIVES:
+  name: 搅打的细香葱
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_CHORUS_FRUIT:
+  name: 搅打的紫颂果
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_CILANTRO:
+  name: 搅打的香菜
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_CINNAMON:
+  name: 搅打的肉桂
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_CLOVE:
+  name: 搅打的丁香
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_COCOA_BEANS:
+  name: 搅打的可可豆
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_COD:
+  name: 搅打的鳕鱼
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_COURGETTE:
+  name: 搅打的西葫芦
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_CUCUMBER:
+  name: 搅打的黄瓜
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_CUMIN:
+  name: 搅打的孜然
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_CURRY_LEAF:
+  name: 搅打的咖喱叶
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_DILL:
+  name: 搅打的莳萝
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_EGG:
+  name: 搅打的鸡蛋
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_ENCHANTED_GOLDEN_APPLE:
+  name: 搅打的附魔金苹果
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_FENNEL:
+  name: 搅打的茴香
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_GARLIC:
+  name: 搅打的大蒜
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_GINGER:
+  name: 搅打的生姜
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_GLOW_BERRIES:
+  name: 搅打的发光浆果
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_GOLDEN_APPLE:
+  name: 搅打的金苹果
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_GOLDEN_CARROT:
+  name: 搅打的金胡萝卜
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_GRAPE:
+  name: 搅打的葡萄
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_GREEN_APPLE:
+  name: 搅打的青苹果
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_GREEN_BEANS:
+  name: 搅打的四季豆
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_GREEN_ONION:
+  name: 搅打的小葱
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_HAZELNUT:
+  name: 搅打的榛子
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_HORSERADISH:
+  name: 搅打的辣根
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_JALAPENO:
+  name: 搅打的墨西哥辣椒
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_JASMINE:
+  name: 搅打的茉莉
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_JUNIPER_BERRY:
+  name: 搅打的杜松子
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_KAFFIR_LIME:
+  name: 搅打的泰国青柠叶
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_KALE:
+  name: 搅打的羽衣甘蓝
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_KELP:
+  name: 搅打的海带
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_KIWI:
+  name: 搅打的猕猴桃
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_LAVENDER:
+  name: 搅打的薰衣草
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_LEEK:
+  name: 搅打的韭葱
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_LEMON:
+  name: 搅打的柠檬
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_LETTUCE:
+  name: 搅打的生菜
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_LICORICE:
+  name: 搅打的甘草
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_LIME:
+  name: 搅打的青柠
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_MACE:
+  name: 搅打的肉豆蔻衣
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_MANGO:
+  name: 搅打的芒果
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_MARJORAM:
+  name: 搅打的马郁兰
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_MARROW:
+  name: 搅打的笋瓜
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_MELON:
+  name: 搅打的西瓜
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_MINT:
+  name: 搅打的薄荷
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_MUSTARD_SEEDS:
+  name: 搅打的芥菜籽
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_MUTTON:
+  name: 搅打的羊肉
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_NETTLES:
+  name: 搅打的荨麻
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_OKRA:
+  name: 搅打的秋葵
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_ONION:
+  name: 搅打的洋葱
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_ORANGE:
+  name: 搅打的橙子
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_OREGANO:
+  name: 搅打的牛至
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_PARSLEY:
+  name: 搅打的欧芹
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_PARSNIP:
+  name: 搅打的欧洲防风
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_PEA:
+  name: 搅打的豌豆
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_PEACH:
+  name: 搅打的桃子
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_PEANUT:
+  name: 搅打的花生仁
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_PEAR:
+  name: 搅打的梨
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_PECAN:
+  name: 搅打的碧根果
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_PEPPER:
+  name: 搅打的黑胡椒
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_PEPPERONI:
+  name: 搅打的意式辣香肠
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_PINEAPPLE:
+  name: 搅打的菠萝
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_PINTO_BEANS:
+  name: 搅打的斑豆
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_PORKCHOP:
+  name: 搅打的猪排
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_POTATO:
+  name: 搅打的马铃薯
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_PUFFERFISH:
+  name: 搅打的河豚
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_PUMPKIN:
+  name: 搅打的南瓜
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_RABBIT:
+  name: 搅打的兔肉
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_RADDISH:
+  name: 搅打的小萝卜
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_RADICCHIO:
+  name: 搅打的红菊苣
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_RAPESEED:
+  name: 搅打的油菜籽
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_RED_MUSHROOM:
+  name: 搅打的红色蘑菇
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_RHUBARB:
+  name: 搅打的大黄
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_RICE:
+  name: 搅打的大米
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_ROSEMARY:
+  name: 搅打的迷迭香
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_ROTTEN_FLESH:
+  name: 搅打的腐肉
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_RUNNER_BEANS:
+  name: 搅打的红花菜豆
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_RUTABAGA:
+  name: 搅打的芜菁甘蓝
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_SALMON:
+  name: 搅打的鲑鱼
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_SASSAFRAS:
+  name: 搅打的檫木
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_SHALLOT:
+  name: 搅打的红葱头
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_SHISO:
+  name: 搅打的紫苏
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_SOY_BEANS:
+  name: 搅打的黄豆
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_SPINACH:
+  name: 搅打的菠菜
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_STAR_ANISE:
+  name: 搅打的八角
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_STRAWBERRY:
+  name: 搅打的草莓
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_SUGAR:
+  name: 搅打的糖
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_SWEETCORN:
+  name: 搅打的甜玉米
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_SWEET_BERRIES:
+  name: 搅打的甜浆果
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_SWEET_POTATO:
+  name: 搅打的红薯
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_TARRAGON:
+  name: 搅打的龙蒿
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_THYME:
+  name: 搅打的百里香
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_TOMATO:
+  name: 搅打的番茄
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_TURMERIC:
+  name: 搅打的姜黄
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_TURNIP:
+  name: 搅打的芜菁
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_VANILLA:
+  name: 搅打的香草
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_WASABI:
+  name: 搅打的山葵
+  type:
+  - '&7&o副产品'
+CLT_BLENDED_WHEAT:
+  name: 搅打的小麦
+  type:
+  - '&7&o副产品'
+CLT_BLUE_CANDY:
+  name: 蓝色糖果
+  type:
+  - '&7&o食物'
+  description:
+  - 甜得让人心花怒放的糖果。
+  stats:
+  - '&8⇨ &7召唤一只悦灵'
+CLT_BOILED_APPLE:
+  name: 水煮的苹果
+  type:
+  - '&7&o副产品'
+CLT_BOILED_APRICOT:
+  name: 水煮的杏
+  type:
+  - '&7&o副产品'
+CLT_BOILED_ARTICHOKE:
+  name: 水煮的洋蓟
+  type:
+  - '&7&o副产品'
+CLT_BOILED_ASPARAGUS:
+  name: 水煮的芦笋
+  type:
+  - '&7&o副产品'
+CLT_BOILED_AUBERGINE:
+  name: 水煮的茄子
+  type:
+  - '&7&o副产品'
+CLT_BOILED_AVOCADO:
+  name: 水煮的牛油果
+  type:
+  - '&7&o副产品'
+CLT_BOILED_BANANA:
+  name: 水煮的香蕉
+  type:
+  - '&7&o副产品'
+CLT_BOILED_BASIL:
+  name: 水煮的罗勒
+  type:
+  - '&7&o副产品'
+CLT_BOILED_BAY_LEAF:
+  name: 水煮的月桂叶
+  type:
+  - '&7&o副产品'
+CLT_BOILED_BEEF:
+  name: 水煮的牛肉
+  type:
+  - '&7&o副产品'
+CLT_BOILED_BEETROOT:
+  name: 水煮的甜菜根
+  type:
+  - '&7&o副产品'
+CLT_BOILED_BELL_PEPPER:
+  name: 水煮的甜椒
+  type:
+  - '&7&o副产品'
+CLT_BOILED_BLACK_BEANS:
+  name: 水煮的黑豆
+  type:
+  - '&7&o副产品'
+CLT_BOILED_BREAD:
+  name: 水煮的面包
+  type:
+  - '&7&o副产品'
+CLT_BOILED_BROCCOLI:
+  name: 水煮的西兰花
+  type:
+  - '&7&o副产品'
+CLT_BOILED_BROWN_MUSHROOM:
+  name: 水煮的棕色蘑菇
+  type:
+  - '&7&o副产品'
+CLT_BOILED_BRUSSELS_SPROUTS:
+  name: 水煮的抱子甘蓝
+  type:
+  - '&7&o副产品'
+CLT_BOILED_CABBAGE:
+  name: 水煮的卷心菜
+  type:
+  - '&7&o副产品'
+CLT_BOILED_CARROT:
+  name: 水煮的胡萝卜
+  type:
+  - '&7&o副产品'
+CLT_BOILED_CAULIFLOWER:
+  name: 水煮的花椰菜
+  type:
+  - '&7&o副产品'
+CLT_BOILED_CAYENNE_PEPPER:
+  name: 水煮的卡宴辣椒
+  type:
+  - '&7&o副产品'
+CLT_BOILED_CELERIAC:
+  name: 水煮的块根芹
+  type:
+  - '&7&o副产品'
+CLT_BOILED_CELERY:
+  name: 水煮的芹菜
+  type:
+  - '&7&o副产品'
+CLT_BOILED_CHERRY:
+  name: 水煮的樱桃
+  type:
+  - '&7&o副产品'
+CLT_BOILED_CHESTNUT:
+  name: 水煮的栗子
+  type:
+  - '&7&o副产品'
+CLT_BOILED_CHICKEN:
+  name: 水煮的鸡肉
+  type:
+  - '&7&o副产品'
+CLT_BOILED_CHICKPEAS:
+  name: 水煮的鹰嘴豆
+  type:
+  - '&7&o副产品'
+CLT_BOILED_CHICORY:
+  name: 水煮的菊苣
+  type:
+  - '&7&o副产品'
+CLT_BOILED_CHILLY_PEPPER:
+  name: 水煮的辣椒
+  type:
+  - '&7&o副产品'
+CLT_BOILED_CHIVES:
+  name: 水煮的细香葱
+  type:
+  - '&7&o副产品'
+CLT_BOILED_CHORUS_FRUIT:
+  name: 水煮的紫颂果
+  type:
+  - '&7&o副产品'
+CLT_BOILED_CILANTRO:
+  name: 水煮的香菜
+  type:
+  - '&7&o副产品'
+CLT_BOILED_CINNAMON:
+  name: 水煮的肉桂
+  type:
+  - '&7&o副产品'
+CLT_BOILED_CLOVE:
+  name: 水煮的丁香
+  type:
+  - '&7&o副产品'
+CLT_BOILED_COCOA_BEANS:
+  name: 水煮的可可豆
+  type:
+  - '&7&o副产品'
+CLT_BOILED_COD:
+  name: 水煮的鳕鱼
+  type:
+  - '&7&o副产品'
+CLT_BOILED_COURGETTE:
+  name: 水煮的西葫芦
+  type:
+  - '&7&o副产品'
+CLT_BOILED_CUCUMBER:
+  name: 水煮的黄瓜
+  type:
+  - '&7&o副产品'
+CLT_BOILED_CUMIN:
+  name: 水煮的孜然
+  type:
+  - '&7&o副产品'
+CLT_BOILED_CURRY_LEAF:
+  name: 水煮的咖喱叶
+  type:
+  - '&7&o副产品'
+CLT_BOILED_DILL:
+  name: 水煮的莳萝
+  type:
+  - '&7&o副产品'
+CLT_BOILED_EGG:
+  name: 水煮的鸡蛋
+  type:
+  - '&7&o副产品'
+CLT_BOILED_ENCHANTED_GOLDEN_APPLE:
+  name: 水煮的附魔金苹果
+  type:
+  - '&7&o副产品'
+CLT_BOILED_FENNEL:
+  name: 水煮的茴香
+  type:
+  - '&7&o副产品'
+CLT_BOILED_GARLIC:
+  name: 水煮的大蒜
+  type:
+  - '&7&o副产品'
+CLT_BOILED_GINGER:
+  name: 水煮的生姜
+  type:
+  - '&7&o副产品'
+CLT_BOILED_GLOW_BERRIES:
+  name: 水煮的发光浆果
+  type:
+  - '&7&o副产品'
+CLT_BOILED_GOLDEN_APPLE:
+  name: 水煮的金苹果
+  type:
+  - '&7&o副产品'
+CLT_BOILED_GOLDEN_CARROT:
+  name: 水煮的金胡萝卜
+  type:
+  - '&7&o副产品'
+CLT_BOILED_GRAPE:
+  name: 水煮的葡萄
+  type:
+  - '&7&o副产品'
+CLT_BOILED_GREEN_APPLE:
+  name: 水煮的青苹果
+  type:
+  - '&7&o副产品'
+CLT_BOILED_GREEN_BEANS:
+  name: 水煮的四季豆
+  type:
+  - '&7&o副产品'
+CLT_BOILED_GREEN_ONION:
+  name: 水煮的小葱
+  type:
+  - '&7&o副产品'
+CLT_BOILED_HAZELNUT:
+  name: 水煮的榛子
+  type:
+  - '&7&o副产品'
+CLT_BOILED_HORSERADISH:
+  name: 水煮的辣根
+  type:
+  - '&7&o副产品'
+CLT_BOILED_JALAPENO:
+  name: 水煮的墨西哥辣椒
+  type:
+  - '&7&o副产品'
+CLT_BOILED_JASMINE:
+  name: 水煮的茉莉
+  type:
+  - '&7&o副产品'
+CLT_BOILED_JUNIPER_BERRY:
+  name: 水煮的杜松子
+  type:
+  - '&7&o副产品'
+CLT_BOILED_KAFFIR_LIME:
+  name: 水煮的泰国青柠叶
+  type:
+  - '&7&o副产品'
+CLT_BOILED_KALE:
+  name: 水煮的羽衣甘蓝
+  type:
+  - '&7&o副产品'
+CLT_BOILED_KELP:
+  name: 水煮的海带
+  type:
+  - '&7&o副产品'
+CLT_BOILED_KIWI:
+  name: 水煮的猕猴桃
+  type:
+  - '&7&o副产品'
+CLT_BOILED_LAVENDER:
+  name: 水煮的薰衣草
+  type:
+  - '&7&o副产品'
+CLT_BOILED_LEEK:
+  name: 水煮的韭葱
+  type:
+  - '&7&o副产品'
+CLT_BOILED_LEMON:
+  name: 水煮的柠檬
+  type:
+  - '&7&o副产品'
+CLT_BOILED_LETTUCE:
+  name: 水煮的生菜
+  type:
+  - '&7&o副产品'
+CLT_BOILED_LICORICE:
+  name: 水煮的甘草
+  type:
+  - '&7&o副产品'
+CLT_BOILED_LIME:
+  name: 水煮的青柠
+  type:
+  - '&7&o副产品'
+CLT_BOILED_MACE:
+  name: 水煮的肉豆蔻衣
+  type:
+  - '&7&o副产品'
+CLT_BOILED_MANGO:
+  name: 水煮的芒果
+  type:
+  - '&7&o副产品'
+CLT_BOILED_MARJORAM:
+  name: 水煮的马郁兰
+  type:
+  - '&7&o副产品'
+CLT_BOILED_MARROW:
+  name: 水煮的笋瓜
+  type:
+  - '&7&o副产品'
+CLT_BOILED_MELON:
+  name: 水煮的西瓜
+  type:
+  - '&7&o副产品'
+CLT_BOILED_MINT:
+  name: 水煮的薄荷
+  type:
+  - '&7&o副产品'
+CLT_BOILED_MUSTARD_SEEDS:
+  name: 水煮的芥菜籽
+  type:
+  - '&7&o副产品'
+CLT_BOILED_MUTTON:
+  name: 水煮的羊肉
+  type:
+  - '&7&o副产品'
+CLT_BOILED_NETTLES:
+  name: 水煮的荨麻
+  type:
+  - '&7&o副产品'
+CLT_BOILED_OKRA:
+  name: 水煮的秋葵
+  type:
+  - '&7&o副产品'
+CLT_BOILED_ONION:
+  name: 水煮的洋葱
+  type:
+  - '&7&o副产品'
+CLT_BOILED_ORANGE:
+  name: 水煮的橙子
+  type:
+  - '&7&o副产品'
+CLT_BOILED_OREGANO:
+  name: 水煮的牛至
+  type:
+  - '&7&o副产品'
+CLT_BOILED_PARSLEY:
+  name: 水煮的欧芹
+  type:
+  - '&7&o副产品'
+CLT_BOILED_PARSNIP:
+  name: 水煮的欧洲防风
+  type:
+  - '&7&o副产品'
+CLT_BOILED_PEA:
+  name: 水煮的豌豆
+  type:
+  - '&7&o副产品'
+CLT_BOILED_PEACH:
+  name: 水煮的桃子
+  type:
+  - '&7&o副产品'
+CLT_BOILED_PEANUT:
+  name: 水煮的花生仁
+  type:
+  - '&7&o副产品'
+CLT_BOILED_PEAR:
+  name: 水煮的梨
+  type:
+  - '&7&o副产品'
+CLT_BOILED_PECAN:
+  name: 水煮的碧根果
+  type:
+  - '&7&o副产品'
+CLT_BOILED_PEPPER:
+  name: 水煮的黑胡椒
+  type:
+  - '&7&o副产品'
+CLT_BOILED_PEPPERONI:
+  name: 水煮的意式辣香肠
+  type:
+  - '&7&o副产品'
+CLT_BOILED_PINEAPPLE:
+  name: 水煮的菠萝
+  type:
+  - '&7&o副产品'
+CLT_BOILED_PINTO_BEANS:
+  name: 水煮的斑豆
+  type:
+  - '&7&o副产品'
+CLT_BOILED_PORKCHOP:
+  name: 水煮的猪排
+  type:
+  - '&7&o副产品'
+CLT_BOILED_POTATO:
+  name: 水煮的马铃薯
+  type:
+  - '&7&o副产品'
+CLT_BOILED_PUFFERFISH:
+  name: 水煮的河豚
+  type:
+  - '&7&o副产品'
+CLT_BOILED_PUMPKIN:
+  name: 水煮的南瓜
+  type:
+  - '&7&o副产品'
+CLT_BOILED_RABBIT:
+  name: 水煮的兔肉
+  type:
+  - '&7&o副产品'
+CLT_BOILED_RADDISH:
+  name: 水煮的小萝卜
+  type:
+  - '&7&o副产品'
+CLT_BOILED_RADICCHIO:
+  name: 水煮的红菊苣
+  type:
+  - '&7&o副产品'
+CLT_BOILED_RAPESEED:
+  name: 水煮的油菜籽
+  type:
+  - '&7&o副产品'
+CLT_BOILED_RED_MUSHROOM:
+  name: 水煮的红色蘑菇
+  type:
+  - '&7&o副产品'
+CLT_BOILED_RHUBARB:
+  name: 水煮的大黄
+  type:
+  - '&7&o副产品'
+CLT_BOILED_RICE:
+  name: 水煮的大米
+  type:
+  - '&7&o副产品'
+CLT_BOILED_ROSEMARY:
+  name: 水煮的迷迭香
+  type:
+  - '&7&o副产品'
+CLT_BOILED_ROTTEN_FLESH:
+  name: 水煮的腐肉
+  type:
+  - '&7&o副产品'
+CLT_BOILED_RUNNER_BEANS:
+  name: 水煮的红花菜豆
+  type:
+  - '&7&o副产品'
+CLT_BOILED_RUTABAGA:
+  name: 水煮的芜菁甘蓝
+  type:
+  - '&7&o副产品'
+CLT_BOILED_SALMON:
+  name: 水煮的鲑鱼
+  type:
+  - '&7&o副产品'
+CLT_BOILED_SASSAFRAS:
+  name: 水煮的檫木
+  type:
+  - '&7&o副产品'
+CLT_BOILED_SHALLOT:
+  name: 水煮的红葱头
+  type:
+  - '&7&o副产品'
+CLT_BOILED_SHISO:
+  name: 水煮的紫苏
+  type:
+  - '&7&o副产品'
+CLT_BOILED_SOY_BEANS:
+  name: 水煮的黄豆
+  type:
+  - '&7&o副产品'
+CLT_BOILED_SPINACH:
+  name: 水煮的菠菜
+  type:
+  - '&7&o副产品'
+CLT_BOILED_STAR_ANISE:
+  name: 水煮的八角
+  type:
+  - '&7&o副产品'
+CLT_BOILED_STRAWBERRY:
+  name: 水煮的草莓
+  type:
+  - '&7&o副产品'
+CLT_BOILED_SUGAR:
+  name: 水煮的糖
+  type:
+  - '&7&o副产品'
+CLT_BOILED_SWEETCORN:
+  name: 水煮的甜玉米
+  type:
+  - '&7&o副产品'
+CLT_BOILED_SWEET_BERRIES:
+  name: 水煮的甜浆果
+  type:
+  - '&7&o副产品'
+CLT_BOILED_SWEET_POTATO:
+  name: 水煮的红薯
+  type:
+  - '&7&o副产品'
+CLT_BOILED_TARRAGON:
+  name: 水煮的龙蒿
+  type:
+  - '&7&o副产品'
+CLT_BOILED_THYME:
+  name: 水煮的百里香
+  type:
+  - '&7&o副产品'
+CLT_BOILED_TOMATO:
+  name: 水煮的番茄
+  type:
+  - '&7&o副产品'
+CLT_BOILED_TURMERIC:
+  name: 水煮的姜黄
+  type:
+  - '&7&o副产品'
+CLT_BOILED_TURNIP:
+  name: 水煮的芜菁
+  type:
+  - '&7&o副产品'
+CLT_BOILED_VANILLA:
+  name: 水煮的香草
+  type:
+  - '&7&o副产品'
+CLT_BOILED_WASABI:
+  name: 水煮的山葵
+  type:
+  - '&7&o副产品'
+CLT_BOILED_WHEAT:
+  name: 水煮的小麦
+  type:
+  - '&7&o副产品'
+CLT_BOWL_OF_STEVE:
+  name: 一碗……史蒂夫？
+  type:
+  - '&7&o食物'
+  description:
+  - 这到底是什么鬼&%£$
+  stats:
+  - '&8⇨ &b挖掘疲劳 X &7(10:00)'
+  - '&8⇨ &b缓慢 VI &7(10:00)'
+  - '&8⇨ &b力量 X &7(10:00)'
+  - '&8⇨ &7让你只剩1/2颗心'
+CLT_BROCCOLI:
+  name: 西兰花
+  type:
+  - '&7&o农产品'
+  description:
+  - 你是举着一棵树的巨人吗？
+  - 才不是，只是棵小小树罢了 :)
+CLT_BRUSSELS_SPROUTS:
+  name: 抱子甘蓝
+  type:
+  - '&7&o农产品'
+  description:
+  - 一份"气"势十足的美味。
+CLT_BUSH_ARTICHOKE:
+  name: 洋蓟灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 要说用来勒住艺术家的灌木，
+  - 它绝对首选。唉，谐音梗好难。
+CLT_BUSH_ASPARAGUS:
+  name: 芦笋灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 这丛芦笋灌木是个出色的
+  - '"茎"踪者！'
+CLT_BUSH_AUBERGINE:
+  name: 茄子灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 我拒绝使用"蛋茄"这个词。就是不用。
+CLT_BUSH_AVOCADO:
+  name: 牛油果灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 这丛灌木经过专门培育，
+  - 不会用太多水。
+CLT_BUSH_BASIL:
+  name: 罗勒灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 一丛轻松愉快、满是奇思妙想的灌木。
+CLT_BUSH_BAY_LEAF:
+  name: 月桂灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 这丛灌木的气味能飘出好几里地。
+CLT_BUSH_BELL_PEPPER:
+  name: 甜椒灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 从它旁边走过要小心，
+  - 你可能会把铃铛碰响。
+CLT_BUSH_BLACK_BEANS:
+  name: 黑豆灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 这丛灌木轻声对你说：
+  - 你真是个"豆"人喜爱的好人。
+CLT_BUSH_BROCCOLI:
+  name: 西兰花灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 能吃的小树？这是谁发明的！？
+CLT_BUSH_BRUSSELS_SPROUTS:
+  name: 抱子甘蓝灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 一丛有时会释放出
+  - 有毒气体的灌木。
+CLT_BUSH_CABBAGE:
+  name: 卷心菜灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 一丛背负着沉重
+  - 情感"包菜"的灌木。
+CLT_BUSH_CAULIFLOWER:
+  name: 花椰菜灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 一丛能长出一朵朵
+  - 快乐小云朵的灌木。
+CLT_BUSH_CAYENNE_PEPPER:
+  name: 卡宴辣椒灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 一丛脾气火辣的灌木。
+CLT_BUSH_CELERIAC:
+  name: 块根芹灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 又一个长在灌木上的根？
+  - 塞菲笨笨™
+CLT_BUSH_CELERY:
+  name: 芹菜灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 这丛灌木是多余的。
+  - 塞菲不喜欢芹菜。
+CLT_BUSH_CHICKPEAS:
+  name: 鹰嘴豆灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 一丛由鸡和豌豆杂交
+  - 而成的灌木。科学！
+CLT_BUSH_CHICORY:
+  name: 菊苣灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 我还以为菊苣是根呢？这个附属
+  - 到底有没有做过功课！？
+CLT_BUSH_CHILLI_PEPPER:
+  name: 辣椒灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 光是看着这丛灌木，我的舌头就火辣辣的。
+CLT_BUSH_CHIVES:
+  name: 细香葱灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 这丛灌木结出的东西，实际上可以说是
+  - 世界上最小的洋葱。
+CLT_BUSH_CILANTRO:
+  name: 香菜灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 这丛灌木散发出淡淡的柑橘与香料气味。
+CLT_BUSH_CINNAMON:
+  name: 肉桂灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 一丛香气怡人的灌木。
+CLT_BUSH_CLOVE:
+  name: 丁香灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 一丛总让我想起圣诞节的灌木。
+CLT_BUSH_COURGETTE:
+  name: 西葫芦灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 为什么这丛灌木一直在喊
+  - '"祖奇尼"？我猜它一定是美国来的？'
+CLT_BUSH_CUCUMBER:
+  name: 黄瓜灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 这丛灌木存在的唯一意义，
+  - 就是你那可爱的夏日沙拉。
+CLT_BUSH_CUMIN:
+  name: 孜然灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 一丛散发着温暖柑橘香气的灌木。
+CLT_BUSH_CURRY_LEAF:
+  name: 咖喱叶灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 干焙之后最棒。
+CLT_BUSH_DILL:
+  name: 莳萝灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 这丛灌木比其他灌木长得快得多。
+CLT_BUSH_FENNEL:
+  name: 茴香灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 这丛灌木为什么能驱虫！？
+CLT_BUSH_GARLIC:
+  name: 大蒜灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 这丛灌木的口气简直糟透了。
+CLT_BUSH_GINGER:
+  name: 生姜灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 这丛灌木整棵水煮时味道很好。
+CLT_BUSH_GRAPE:
+  name: 葡萄灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 熟透多汁的葡萄，几乎要自己
+  - 从灌木上掉下来。
+CLT_BUSH_GREEN_BEANS:
+  name: 四季豆灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 往这丛灌木上浇点番茄酱，
+  - 就能做出茄汁焗豆。
+CLT_BUSH_GREEN_ONION:
+  name: 小葱灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 也叫青葱。
+  - 小葱的味道通常
+  - 比大多数洋葱温和。
+CLT_BUSH_HORSERADISH:
+  name: 辣根灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 再说一遍，这东西长在灌木上根本说不通。
+CLT_BUSH_JALAPENO:
+  name: 墨西哥辣椒灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 只要拿着这丛灌木，你就有
+  - 1%的几率着火。
+CLT_BUSH_JASMINE:
+  name: 茉莉灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 这丛灌木的香气如此柔和醇厚。
+CLT_BUSH_JUNIPER_BERRY:
+  name: 杜松灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 长在灌木上时香甜，晒干后辛辣。
+CLT_BUSH_KAFFIR_LIME:
+  name: 泰国青柠灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 一丛叶子比果实还抢手的灌木。
+CLT_BUSH_KALE:
+  name: 羽衣甘蓝灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 种下这丛灌木时，你会感觉
+  - 一切都会苦尽"甘蓝"。
+CLT_BUSH_LAVENDER:
+  name: 薰衣草灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 这丛灌木把它的香味飘得到处都是。
+CLT_BUSH_LEEK:
+  name: 韭葱灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 你知道吗？韭葱其实就是
+  - 穿了束腰的洋葱。千真万确。
+CLT_BUSH_LETTUCE:
+  name: 生菜灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 生菜真的长在灌木上吗？
+  - 剧透：不，并不会。
+CLT_BUSH_LICORICE:
+  name: 甘草灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 恶心
+CLT_BUSH_MACE:
+  name: 肉豆蔻灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 这丛灌木好像在击退攻击者？
+CLT_BUSH_MARJORAM:
+  name: 马郁兰灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 一丛散发着木质香气的大灌木。
+CLT_BUSH_MARROW:
+  name: 笋瓜灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 真没想到这丛灌木
+  - 撑得住自己的重量。
+CLT_BUSH_MINT:
+  name: 薄荷灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 简直是气味最好闻的灌木。
+CLT_BUSH_MUSTARD:
+  name: 芥菜籽灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 就像嘴里着了火。
+CLT_BUSH_NETTLES:
+  name: 荨麻灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 穿过这丛灌木时要小心！
+CLT_BUSH_OKRA:
+  name: 秋葵灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 在奥克拉·温弗瑞蔬菜俱乐部的评选中
+  - 荣获第1名蔬菜。
+CLT_BUSH_ONION:
+  name: 洋葱灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 这丛灌木是不是看起来快哭了？
+CLT_BUSH_OREGANO:
+  name: 牛至灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 这丛气味刺鼻的灌木能吓退访客。
+CLT_BUSH_PARSLEY:
+  name: 欧芹灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 马上把这丛灌木扔进岩浆 :D
+CLT_BUSH_PARSNIP:
+  name: 欧洲防风灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 跳过中间环节，直接
+  - 把整丛灌木拿去烤吧。
+CLT_BUSH_PEA:
+  name: 豌豆灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 豌豆？我更爱玩逗。
+CLT_BUSH_PEANUTS:
+  name: 花生灌木
+  type:
+  - '&7&o灌木'
+  description: &id001
+  - 扎实、芳香，富含蛋白质。
+CLT_BUSH_PEPPER:
+  name: 黑胡椒灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 早在古希腊和古罗马时期，
+  - 黑胡椒就是印度与欧洲之间
+  - 香料贸易的重要组成部分。
+CLT_BUSH_PINTO_BEANS:
+  name: 斑豆灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 要不了多久，我们就能成功培育出
+  - 直接长出卷饼的灌木了，对吧？
+CLT_BUSH_RADDISH:
+  name: 小萝卜灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 这株植物刚刚表演了一个滑板特技。
+  - 真是太"萝"害了。
+CLT_BUSH_RADICCHIO:
+  name: 红菊苣灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 想显得高级一点？把红菊苣
+  - 加进任何一餐，它基本上就是卷心菜，
+  - 却能让你看起来很有品味。
+CLT_BUSH_RAPESEED:
+  name: 油菜灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 这丛灌木正渗出某种油乎乎的东西。
+CLT_BUSH_RHUBARB:
+  name: 大黄灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 你知道大黄是一种蔬菜吗？
+  - 我还以为它是一种锤子。
+CLT_BUSH_RICE:
+  name: 水稻灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 终极主食。
+CLT_BUSH_ROSEMARY:
+  name: 迷迭香灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 一丛气味让人想起周日午餐的灌木。
+CLT_BUSH_RUNNER_BEANS:
+  name: 红花菜豆灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 这丛灌木长了脚 ⊙.⊙？
+CLT_BUSH_RUTABAGA:
+  name: 芜菁甘蓝灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 瑞典芜菁。它就是瑞典芜菁。
+CLT_BUSH_SASSAFRAS:
+  name: 檫木灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 这丛灌木喜欢种在
+  - 小水塘附近。
+CLT_BUSH_SHALLOT:
+  name: 红葱头灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 这丛灌木能飞快地长出可爱的迷你洋葱。
+  - 好在它"葱"不让人失望。
+CLT_BUSH_SHISO:
+  name: 紫苏灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 我愿意相信这丛灌木是薄荷灌木
+  - 和罗勒灌木的爱情结晶。可惜
+  - 灌木杂交根本不存在！
+CLT_BUSH_SOY_BEANS:
+  name: 黄豆灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 这丛灌木友善又讨喜。它让我
+  - '"豆"开心死了。'
+CLT_BUSH_SPINACH:
+  name: 菠菜灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 这丛灌木是大力水手最好的朋友。
+CLT_BUSH_STAR_ANISE:
+  name: 八角灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 这丛灌木散发出一股八角独有的气味，
+  - 独特得让你难以置信。
+CLT_BUSH_STRAWBERRY:
+  name: 草莓灌木
+  type:
+  - '&7&o灌木'
+  description: *id001
+CLT_BUSH_SWEETCORN:
+  name: 甜玉米灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 这丛灌木简直在大喊着
+  - 要被修成一座迷宫。
+CLT_BUSH_SWEET_POTATO:
+  name: 红薯灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 这丛灌木真是太甜了。我听说它
+  - 在你没注意的时候一直在夸你。
+CLT_BUSH_TARRAGON:
+  name: 龙蒿灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 这丛灌木不喜欢太引人注目。
+CLT_BUSH_THYME:
+  name: 百里香灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 这丛灌木总是抽不出……百里香……啊不，时间……*咳咳*
+CLT_BUSH_TOMATO:
+  name: 番茄灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 熟透了，随时可摘。
+CLT_BUSH_TURMERIC:
+  name: 姜黄灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 光是拿着这丛灌木，
+  - 一股香料味就扑鼻而来。
+CLT_BUSH_TURNIP:
+  name: 芜菁灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 据英国政府说，
+  - 这丛灌木能解决我们所有的问题。
+CLT_BUSH_VANILLA:
+  name: 香草灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 这丛灌木原生于星巴克门店附近。
+CLT_BUSH_WASABI:
+  name: 山葵灌木
+  type:
+  - '&7&o灌木'
+  description:
+  - 又一个长在灌木上的根？
+  - 唉……
+CLT_CABBAGE:
+  name: 卷心菜
+  type:
+  - '&7&o农产品'
+  description:
+  - 一大"包"包菜。
+CLT_CAESAR_SALAD:
+  name: 凯撒沙拉
+  type:
+  - '&7&o食物'
+  description:
+  - 健康的经典。
+  stats:
+  - '&8⇨ &7治疗：&b6颗心'
+  - '&8⇨ &b迅捷 I &7(10:00)'
+  - '&8⇨ &b隐身 I &7(10:00)'
+  - '&8⇨ &b缓降 I &7(10:00)'
+CLT_CAJUN_GARLIC_BUTTER_COD:
+  name: 卡津蒜香黄油鳕鱼
+  type:
+  - '&7&o食物'
+  description:
+  - 一道简单却风味爆棚的菜。
+  stats:
+  - '&8⇨ &7治疗：&b4颗心'
+  - '&8⇨ &b生命恢复 II &7(10:00)'
+  - '&8⇨ &b迅捷 I &7(10:00)'
+CLT_CAULIFLOWER:
+  name: 花椰菜
+  type:
+  - '&7&o农产品'
+  description:
+  - 便携的云朵！
+CLT_CAYENNE_PEPPER:
+  name: 卡宴辣椒
+  type:
+  - '&7&o农产品'
+  description:
+  - 一份温和的辣味小食。
+CLT_CELERIAC:
+  name: 块根芹
+  type:
+  - '&7&o农产品'
+  description:
+  - 一种扎根（嘿）于许多
+  - 传统食谱的丰盛根茎。
+CLT_CELERY:
+  name: 芹菜
+  type:
+  - '&7&o农产品'
+  description:
+  - 根本就是带丝的水而已。
+  - 不服来辩。
+CLT_CHEESE_BURGER:
+  name: 汉堡
+  type:
+  - '&7&o食物'
+  description:
+  - 一个简单的芝士汉堡，但什么都比不上它！
+  stats:
+  - '&8⇨ &7治疗：&b4颗心'
+  - '&8⇨ &b生命恢复 III &7(10:00)'
+CLT_CHEESY_SCALLOPED_COURGETTE:
+  name: 芝士焗西葫芦
+  type:
+  - '&7&o食物'
+  description:
+  - 经典美味的低碳水版本。
+  stats:
+  - '&8⇨ &7治疗：&b2颗心'
+  - '&8⇨ &b夜视 I &7(10:00)'
+  - '&8⇨ &b隐身 I &7(10:00)'
+CLT_CHERRY:
+  name: 樱桃
+  type:
+  - '&7&o农产品'
+  description:
+  - 哦，我还以为它们天生就是糖渍的，可惜！
+CLT_CHESTNUT:
+  name: 栗子
+  type:
+  - '&7&o农产品'
+  description:
+  - 生来就该马上拿去烤。
+CLT_CHICKEN_ALFREDO_MAC_AND_CHEESE:
+  name: 阿尔弗雷多鸡肉芝士通心粉
+  type:
+  - '&7&o食物'
+  description:
+  - 大众经典的高档改良版。
+  stats:
+  - '&8⇨ &7治疗：&b1颗心'
+  - '&8⇨ &b抗火 II &7(10:00)'
+  - '&8⇨ &b抗性提升 III &7(10:00)'
+CLT_CHICKEN_PASTA_BAKE:
+  name: 鸡肉焗意面
+  type:
+  - '&7&o食物'
+  description:
+  - 学生党必备主食。
+  stats:
+  - '&8⇨ &7治疗：&b5颗心'
+  - '&8⇨ &b夜视 I &7(10:00)'
+  - '&8⇨ &b水下呼吸 I &7(10:00)'
+CLT_CHICKEN_POT_PIE:
+  name: 鸡肉派
+  type:
+  - '&7&o食物'
+  description:
+  - 一道暖到心坎里的家常菜。
+  stats:
+  - '&8⇨ &7治疗：&b10颗心'
+  - '&8⇨ &b跳跃提升 II &7(10:00)'
+  - '&8⇨ &b饱和 I &7(10:00)'
+CLT_CHICKPEAS:
+  name: 鹰嘴豆
+  type:
+  - '&7&o农产品'
+  description:
+  - 黑眼豆豆会唱歌，鹰嘴豆只会"哼"出一碗鹰嘴豆泥。
+CLT_CHICORY:
+  name: 菊苣
+  type:
+  - '&7&o农产品'
+  description:
+  - 一种带坚果味的苦根。
+CLT_CHILLY_PEPPER:
+  name: 辣椒
+  type:
+  - '&7&o农产品'
+  description:
+  - 我能面不改色地吃下一整个辣椒。
+  - 好吧，半个。
+  - 好好好……1/4个
+  - ……
+  - 行吧，我能用舌头碰一下
+CLT_CHIVES:
+  name: 细香葱
+  type:
+  - '&7&o农产品'
+  description:
+  - 一种甜甜的、带洋葱味的香草。
+CLT_CHOPPED_APPLE:
+  name: 切碎的苹果
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_APRICOT:
+  name: 切碎的杏
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_ARTICHOKE:
+  name: 切碎的洋蓟
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_ASPARAGUS:
+  name: 切碎的芦笋
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_AUBERGINE:
+  name: 切碎的茄子
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_AVOCADO:
+  name: 切碎的牛油果
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_BANANA:
+  name: 切碎的香蕉
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_BASIL:
+  name: 切碎的罗勒
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_BAY_LEAF:
+  name: 切碎的月桂叶
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_BEEF:
+  name: 切碎的牛肉
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_BEETROOT:
+  name: 切碎的甜菜根
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_BELL_PEPPER:
+  name: 切碎的甜椒
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_BLACK_BEANS:
+  name: 切碎的黑豆
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_BREAD:
+  name: 切碎的面包
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_BROCCOLI:
+  name: 切碎的西兰花
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_BROWN_MUSHROOM:
+  name: 切碎的棕色蘑菇
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_BRUSSELS_SPROUTS:
+  name: 切碎的抱子甘蓝
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_CABBAGE:
+  name: 切碎的卷心菜
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_CARROT:
+  name: 切碎的胡萝卜
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_CAULIFLOWER:
+  name: 切碎的花椰菜
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_CAYENNE_PEPPER:
+  name: 切碎的卡宴辣椒
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_CELERIAC:
+  name: 切碎的块根芹
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_CELERY:
+  name: 切碎的芹菜
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_CHERRY:
+  name: 切碎的樱桃
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_CHESTNUT:
+  name: 切碎的栗子
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_CHICKEN:
+  name: 切碎的鸡肉
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_CHICKPEAS:
+  name: 切碎的鹰嘴豆
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_CHICORY:
+  name: 切碎的菊苣
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_CHILLY_PEPPER:
+  name: 切碎的辣椒
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_CHIVES:
+  name: 切碎的细香葱
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_CHORUS_FRUIT:
+  name: 切碎的紫颂果
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_CILANTRO:
+  name: 切碎的香菜
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_CINNAMON:
+  name: 切碎的肉桂
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_CLOVE:
+  name: 切碎的丁香
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_COCOA_BEANS:
+  name: 切碎的可可豆
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_COD:
+  name: 切碎的鳕鱼
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_COURGETTE:
+  name: 切碎的西葫芦
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_CUCUMBER:
+  name: 切碎的黄瓜
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_CUMIN:
+  name: 切碎的孜然
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_CURRY_LEAF:
+  name: 切碎的咖喱叶
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_DILL:
+  name: 切碎的莳萝
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_EGG:
+  name: 切碎的鸡蛋
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_ENCHANTED_GOLDEN_APPLE:
+  name: 切碎的附魔金苹果
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_FENNEL:
+  name: 切碎的茴香
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_GARLIC:
+  name: 切碎的大蒜
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_GINGER:
+  name: 切碎的生姜
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_GLOW_BERRIES:
+  name: 切碎的发光浆果
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_GOLDEN_APPLE:
+  name: 切碎的金苹果
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_GOLDEN_CARROT:
+  name: 切碎的金胡萝卜
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_GRAPE:
+  name: 切碎的葡萄
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_GREEN_APPLE:
+  name: 切碎的青苹果
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_GREEN_BEANS:
+  name: 切碎的四季豆
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_GREEN_ONION:
+  name: 切碎的小葱
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_HAZELNUT:
+  name: 切碎的榛子
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_HORSERADISH:
+  name: 切碎的辣根
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_JALAPENO:
+  name: 切碎的墨西哥辣椒
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_JASMINE:
+  name: 切碎的茉莉
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_JUNIPER_BERRY:
+  name: 切碎的杜松子
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_KAFFIR_LIME:
+  name: 切碎的泰国青柠叶
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_KALE:
+  name: 切碎的羽衣甘蓝
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_KELP:
+  name: 切碎的海带
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_KIWI:
+  name: 切碎的猕猴桃
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_LAVENDER:
+  name: 切碎的薰衣草
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_LEEK:
+  name: 切碎的韭葱
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_LEMON:
+  name: 切碎的柠檬
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_LETTUCE:
+  name: 切碎的生菜
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_LICORICE:
+  name: 切碎的甘草
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_LIME:
+  name: 切碎的青柠
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_MACE:
+  name: 切碎的肉豆蔻衣
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_MANGO:
+  name: 切碎的芒果
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_MARJORAM:
+  name: 切碎的马郁兰
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_MARROW:
+  name: 切碎的笋瓜
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_MELON:
+  name: 切碎的西瓜
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_MINT:
+  name: 切碎的薄荷
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_MUSTARD_SEEDS:
+  name: 切碎的芥菜籽
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_MUTTON:
+  name: 切碎的羊肉
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_NETTLES:
+  name: 切碎的荨麻
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_OKRA:
+  name: 切碎的秋葵
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_ONION:
+  name: 切碎的洋葱
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_ORANGE:
+  name: 切碎的橙子
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_OREGANO:
+  name: 切碎的牛至
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_PARSLEY:
+  name: 切碎的欧芹
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_PARSNIP:
+  name: 切碎的欧洲防风
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_PEA:
+  name: 切碎的豌豆
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_PEACH:
+  name: 切碎的桃子
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_PEANUT:
+  name: 切碎的花生仁
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_PEAR:
+  name: 切碎的梨
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_PECAN:
+  name: 切碎的碧根果
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_PEPPER:
+  name: 切碎的黑胡椒
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_PEPPERONI:
+  name: 切碎的意式辣香肠
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_PINEAPPLE:
+  name: 切碎的菠萝
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_PINTO_BEANS:
+  name: 切碎的斑豆
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_PORKCHOP:
+  name: 切碎的猪排
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_POTATO:
+  name: 切碎的马铃薯
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_PUFFERFISH:
+  name: 切碎的河豚
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_PUMPKIN:
+  name: 切碎的南瓜
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_RABBIT:
+  name: 切碎的兔肉
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_RADDISH:
+  name: 切碎的小萝卜
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_RADICCHIO:
+  name: 切碎的红菊苣
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_RAPESEED:
+  name: 切碎的油菜籽
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_RED_MUSHROOM:
+  name: 切碎的红色蘑菇
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_RHUBARB:
+  name: 切碎的大黄
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_RICE:
+  name: 切碎的大米
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_ROSEMARY:
+  name: 切碎的迷迭香
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_ROTTEN_FLESH:
+  name: 切碎的腐肉
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_RUNNER_BEANS:
+  name: 切碎的红花菜豆
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_RUTABAGA:
+  name: 切碎的芜菁甘蓝
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_SALMON:
+  name: 切碎的鲑鱼
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_SASSAFRAS:
+  name: 切碎的檫木
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_SHALLOT:
+  name: 切碎的红葱头
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_SHISO:
+  name: 切碎的紫苏
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_SOY_BEANS:
+  name: 切碎的黄豆
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_SPINACH:
+  name: 切碎的菠菜
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_STAR_ANISE:
+  name: 切碎的八角
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_STRAWBERRY:
+  name: 切碎的草莓
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_SUGAR:
+  name: 切碎的糖
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_SWEETCORN:
+  name: 切碎的甜玉米
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_SWEET_BERRIES:
+  name: 切碎的甜浆果
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_SWEET_POTATO:
+  name: 切碎的红薯
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_TARRAGON:
+  name: 切碎的龙蒿
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_THYME:
+  name: 切碎的百里香
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_TOMATO:
+  name: 切碎的番茄
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_TURMERIC:
+  name: 切碎的姜黄
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_TURNIP:
+  name: 切碎的芜菁
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_VANILLA:
+  name: 切碎的香草
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_WASABI:
+  name: 切碎的山葵
+  type:
+  - '&7&o副产品'
+CLT_CHOPPED_WHEAT:
+  name: 切碎的小麦
+  type:
+  - '&7&o副产品'
+CLT_CILANTRO:
+  name: 香菜
+  type:
+  - '&7&o农产品'
+  description:
+  - 一种带着一丝柑橘香的温和香料。
+CLT_CINNAMON:
+  name: 肉桂
+  type:
+  - '&7&o农产品'
+  description:
+  - 做成肉桂棒的时候最适合嚼着吃。
+CLT_CINNAMON_ROLL:
+  name: 肉桂卷
+  type:
+  - '&7&o食物'
+  description:
+  - 一份卷起来图个乐子的甜点。
+  - 吃了它，整个世界都会天旋地转！
+  stats:
+  - '&8⇨ &7治疗：&b4颗心'
+  - '&8⇨ &b飘浮 I &7(10:00)'
+  - '&8⇨ &b缓降 I &7(10:00)'
+CLT_CLOVE:
+  name: 丁香
+  type:
+  - '&7&o农产品'
+  description:
+  - 一种极为温暖浓烈的风味。
+CLT_COMPRESSED_BISCUIT:
+  name: 压缩饼干
+  type:
+  - '&7&o食物'
+  description:
+  - 小小零食，更更大的美味。
+  stats: *id002
+CLT_COOKED_BURGER_PATTY:
+  name: 熟汉堡肉饼
+  type:
+  - '&7&o农产品'
+  description:
+  - 简直在滴油
+CLT_COUNTER_BLENDER:
+  name: 厨房台面（搅拌机）
+  type:
+  - '&7&o机器'
+  description:
+  - 右键点击此方块来搅打农产品。
+  usage: &id003
+  - 小贴士！放置后，潜行并右键点击，
+  - 你手中的方块就会
+  - 改变厨房的外观设计。试试吧！
+CLT_COUNTER_BOILING:
+  name: 厨房台面（煮锅）
+  type:
+  - '&7&o机器'
+  description:
+  - 可以水煮某些物品。
+  usage: *id003
+CLT_COUNTER_CHOPPING:
+  name: 厨房台面（砧板）
+  type:
+  - '&7&o机器'
+  description:
+  - 右键点击此方块来切碎农产品。
+  usage: *id003
+CLT_COUNTER_FINISHING:
+  name: 厨房台面（装盘）
+  type:
+  - '&7&o机器'
+  description:
+  - 用于将产品/副产品制作成
+  - 其他副产品或成品食物。
+  usage: *id003
+CLT_COUNTER_FRYING:
+  name: 厨房台面（煎锅）
+  type:
+  - '&7&o机器'
+  description:
+  - 可以油炸某些农产品。
+  usage: *id003
+CLT_COUNTER_GRILL:
+  name: 厨房台面（烤架）
+  type:
+  - '&7&o机器'
+  description:
+  - 可以烤制某些农产品。
+  usage: *id003
+CLT_COUNTER_GRINDER:
+  name: 厨房台面（研钵与杵）
+  type:
+  - '&7&o机器'
+  description:
+  - 右键点击此方块来研磨农产品。
+  usage: *id003
+CLT_COUNTER_MASHER:
+  name: 厨房台面（捣泥碗）
+  type:
+  - '&7&o机器'
+  description:
+  - 右键点击此方块来捣碎农产品。
+  usage: *id003
+CLT_COUNTER_NOTHING:
+  name: 厨房台面（空）
+  type:
+  - '&7&o机器'
+  description:
+  - 仅供装饰！
+  usage: *id003
+CLT_COUNTER_OVEN:
+  name: 厨房台面（烤箱）
+  type:
+  - '&7&o机器'
+  description:
+  - 可以烘焙某些农产品。
+  usage: *id003
+CLT_COUNTER_SLICING:
+  name: 厨房台面（切片板）
+  type:
+  - '&7&o机器'
+  description:
+  - 右键点击此方块来切片农产品。
+  usage: *id003
+CLT_COURGETTE:
+  name: 西葫芦
+  type:
+  - '&7&o农产品'
+  description:
+  - 小贴士：把它擦碎加进任何意面酱，
+  - 增加层次和口感。
+CLT_CREAM_CHEESE:
+  name: 奶油奶酪
+  type:
+  - '&7&o农产品'
+  description:
+  - 奶油味多过芝士味。
+CLT_CROP_STICKS:
+  name: 作物架
+  type:
+  - '&7&o工具'
+  description:
+  - 作物架必须放在
+  - 已种下的种子上，种子才能生长。
+  - 再放一组作物架可以进行杂交，
+  - 让植物得以蔓延和/或
+  - 繁育。
+CLT_CUCUMBER:
+  name: 黄瓜
+  type:
+  - '&7&o农产品'
+  description:
+  - 这就是裹着绿壳的水，
+  - 不服来辩。
+CLT_CUMIN:
+  name: 孜然
+  type:
+  - '&7&o农产品'
+  description:
+  - 一种带着温暖柑橘香的植物。
+CLT_CURRY_LEAF:
+  name: 咖喱叶
+  type:
+  - '&7&o农产品'
+  description:
+  - 无数美妙食物的基础。
+CLT_DILL:
+  name: 莳萝
+  type:
+  - '&7&o农产品'
+  description:
+  - 对我来说就是一股草味。为什么
+  - 会有人喜欢这个？
+CLT_DOUGH:
+  name: 面团
+  type:
+  - '&7&o农产品'
+  description:
+  - 就是普普通通的面团！
+CLT_EGG_SALAD:
+  name: 鸡蛋沙拉
+  type:
+  - '&7&o农产品'
+  description:
+  - 有种就在火车上打开它！
+CLT_EGG_SALAD_SANDWICH:
+  name: 鸡蛋沙拉三明治
+  type:
+  - '&7&o食物'
+  description:
+  - 闻着有点味儿，但吃起来超棒！
+  stats: &id006
+  - '&8⇨ &7治疗：&b10颗心'
+  - '&8⇨ &b生命恢复 II &7(10:00)'
+CLT_FENNEL:
+  name: 茴香
+  type:
+  - '&7&o农产品'
+  description:
+  - 像是八角和甘草的混合体。
+CLT_FRIED_APPLE:
+  name: 油炸的苹果
+  type:
+  - '&7&o副产品'
+CLT_FRIED_APRICOT:
+  name: 油炸的杏
+  type:
+  - '&7&o副产品'
+CLT_FRIED_ARTICHOKE:
+  name: 油炸的洋蓟
+  type:
+  - '&7&o副产品'
+CLT_FRIED_ASPARAGUS:
+  name: 油炸的芦笋
+  type:
+  - '&7&o副产品'
+CLT_FRIED_AUBERGINE:
+  name: 油炸的茄子
+  type:
+  - '&7&o副产品'
+CLT_FRIED_AVOCADO:
+  name: 油炸的牛油果
+  type:
+  - '&7&o副产品'
+CLT_FRIED_BANANA:
+  name: 油炸的香蕉
+  type:
+  - '&7&o副产品'
+CLT_FRIED_BASIL:
+  name: 油炸的罗勒
+  type:
+  - '&7&o副产品'
+CLT_FRIED_BAY_LEAF:
+  name: 油炸的月桂叶
+  type:
+  - '&7&o副产品'
+CLT_FRIED_BEEF:
+  name: 油炸的牛肉
+  type:
+  - '&7&o副产品'
+CLT_FRIED_BEETROOT:
+  name: 油炸的甜菜根
+  type:
+  - '&7&o副产品'
+CLT_FRIED_BELL_PEPPER:
+  name: 油炸的甜椒
+  type:
+  - '&7&o副产品'
+CLT_FRIED_BLACK_BEANS:
+  name: 油炸的黑豆
+  type:
+  - '&7&o副产品'
+CLT_FRIED_BREAD:
+  name: 油炸的面包
+  type:
+  - '&7&o副产品'
+CLT_FRIED_BROCCOLI:
+  name: 油炸的西兰花
+  type:
+  - '&7&o副产品'
+CLT_FRIED_BROWN_MUSHROOM:
+  name: 油炸的棕色蘑菇
+  type:
+  - '&7&o副产品'
+CLT_FRIED_BRUSSELS_SPROUTS:
+  name: 油炸的抱子甘蓝
+  type:
+  - '&7&o副产品'
+CLT_FRIED_CABBAGE:
+  name: 油炸的卷心菜
+  type:
+  - '&7&o副产品'
+CLT_FRIED_CARROT:
+  name: 油炸的胡萝卜
+  type:
+  - '&7&o副产品'
+CLT_FRIED_CAULIFLOWER:
+  name: 油炸的花椰菜
+  type:
+  - '&7&o副产品'
+CLT_FRIED_CAYENNE_PEPPER:
+  name: 油炸的卡宴辣椒
+  type:
+  - '&7&o副产品'
+CLT_FRIED_CELERIAC:
+  name: 油炸的块根芹
+  type:
+  - '&7&o副产品'
+CLT_FRIED_CELERY:
+  name: 油炸的芹菜
+  type:
+  - '&7&o副产品'
+CLT_FRIED_CHERRY:
+  name: 油炸的樱桃
+  type:
+  - '&7&o副产品'
+CLT_FRIED_CHESTNUT:
+  name: 油炸的栗子
+  type:
+  - '&7&o副产品'
+CLT_FRIED_CHICKEN:
+  name: 油炸的鸡肉
+  type:
+  - '&7&o副产品'
+CLT_FRIED_CHICKPEAS:
+  name: 油炸的鹰嘴豆
+  type:
+  - '&7&o副产品'
+CLT_FRIED_CHICORY:
+  name: 油炸的菊苣
+  type:
+  - '&7&o副产品'
+CLT_FRIED_CHILLY_PEPPER:
+  name: 油炸的辣椒
+  type:
+  - '&7&o副产品'
+CLT_FRIED_CHIVES:
+  name: 油炸的细香葱
+  type:
+  - '&7&o副产品'
+CLT_FRIED_CHORUS_FRUIT:
+  name: 油炸的紫颂果
+  type:
+  - '&7&o副产品'
+CLT_FRIED_CILANTRO:
+  name: 油炸的香菜
+  type:
+  - '&7&o副产品'
+CLT_FRIED_CINNAMON:
+  name: 油炸的肉桂
+  type:
+  - '&7&o副产品'
+CLT_FRIED_CLOVE:
+  name: 油炸的丁香
+  type:
+  - '&7&o副产品'
+CLT_FRIED_COCOA_BEANS:
+  name: 油炸的可可豆
+  type:
+  - '&7&o副产品'
+CLT_FRIED_COD:
+  name: 油炸的鳕鱼
+  type:
+  - '&7&o副产品'
+CLT_FRIED_COURGETTE:
+  name: 油炸的西葫芦
+  type:
+  - '&7&o副产品'
+CLT_FRIED_CUCUMBER:
+  name: 油炸的黄瓜
+  type:
+  - '&7&o副产品'
+CLT_FRIED_CUMIN:
+  name: 油炸的孜然
+  type:
+  - '&7&o副产品'
+CLT_FRIED_CURRY_LEAF:
+  name: 油炸的咖喱叶
+  type:
+  - '&7&o副产品'
+CLT_FRIED_DILL:
+  name: 油炸的莳萝
+  type:
+  - '&7&o副产品'
+CLT_FRIED_EGG:
+  name: 油炸的鸡蛋
+  type:
+  - '&7&o副产品'
+CLT_FRIED_ENCHANTED_GOLDEN_APPLE:
+  name: 油炸的附魔金苹果
+  type:
+  - '&7&o副产品'
+CLT_FRIED_FENNEL:
+  name: 油炸的茴香
+  type:
+  - '&7&o副产品'
+CLT_FRIED_GARLIC:
+  name: 油炸的大蒜
+  type:
+  - '&7&o副产品'
+CLT_FRIED_GINGER:
+  name: 油炸的生姜
+  type:
+  - '&7&o副产品'
+CLT_FRIED_GLOW_BERRIES:
+  name: 油炸的发光浆果
+  type:
+  - '&7&o副产品'
+CLT_FRIED_GOLDEN_APPLE:
+  name: 油炸的金苹果
+  type:
+  - '&7&o副产品'
+CLT_FRIED_GOLDEN_CARROT:
+  name: 油炸的金胡萝卜
+  type:
+  - '&7&o副产品'
+CLT_FRIED_GRAPE:
+  name: 油炸的葡萄
+  type:
+  - '&7&o副产品'
+CLT_FRIED_GREEN_APPLE:
+  name: 油炸的青苹果
+  type:
+  - '&7&o副产品'
+CLT_FRIED_GREEN_BEANS:
+  name: 油炸的四季豆
+  type:
+  - '&7&o副产品'
+CLT_FRIED_GREEN_ONION:
+  name: 油炸的小葱
+  type:
+  - '&7&o副产品'
+CLT_FRIED_HAZELNUT:
+  name: 油炸的榛子
+  type:
+  - '&7&o副产品'
+CLT_FRIED_HORSERADISH:
+  name: 油炸的辣根
+  type:
+  - '&7&o副产品'
+CLT_FRIED_JALAPENO:
+  name: 油炸的墨西哥辣椒
+  type:
+  - '&7&o副产品'
+CLT_FRIED_JASMINE:
+  name: 油炸的茉莉
+  type:
+  - '&7&o副产品'
+CLT_FRIED_JUNIPER_BERRY:
+  name: 油炸的杜松子
+  type:
+  - '&7&o副产品'
+CLT_FRIED_KAFFIR_LIME:
+  name: 油炸的泰国青柠叶
+  type:
+  - '&7&o副产品'
+CLT_FRIED_KALE:
+  name: 油炸的羽衣甘蓝
+  type:
+  - '&7&o副产品'
+CLT_FRIED_KELP:
+  name: 油炸的海带
+  type:
+  - '&7&o副产品'
+CLT_FRIED_KIWI:
+  name: 油炸的猕猴桃
+  type:
+  - '&7&o副产品'
+CLT_FRIED_LAVENDER:
+  name: 油炸的薰衣草
+  type:
+  - '&7&o副产品'
+CLT_FRIED_LEEK:
+  name: 油炸的韭葱
+  type:
+  - '&7&o副产品'
+CLT_FRIED_LEMON:
+  name: 油炸的柠檬
+  type:
+  - '&7&o副产品'
+CLT_FRIED_LETTUCE:
+  name: 油炸的生菜
+  type:
+  - '&7&o副产品'
+CLT_FRIED_LICORICE:
+  name: 油炸的甘草
+  type:
+  - '&7&o副产品'
+CLT_FRIED_LIME:
+  name: 油炸的青柠
+  type:
+  - '&7&o副产品'
+CLT_FRIED_MACE:
+  name: 油炸的肉豆蔻衣
+  type:
+  - '&7&o副产品'
+CLT_FRIED_MANGO:
+  name: 油炸的芒果
+  type:
+  - '&7&o副产品'
+CLT_FRIED_MARJORAM:
+  name: 油炸的马郁兰
+  type:
+  - '&7&o副产品'
+CLT_FRIED_MARROW:
+  name: 油炸的笋瓜
+  type:
+  - '&7&o副产品'
+CLT_FRIED_MELON:
+  name: 油炸的西瓜
+  type:
+  - '&7&o副产品'
+CLT_FRIED_MINT:
+  name: 油炸的薄荷
+  type:
+  - '&7&o副产品'
+CLT_FRIED_MUSTARD_SEEDS:
+  name: 油炸的芥菜籽
+  type:
+  - '&7&o副产品'
+CLT_FRIED_MUTTON:
+  name: 油炸的羊肉
+  type:
+  - '&7&o副产品'
+CLT_FRIED_NETTLES:
+  name: 油炸的荨麻
+  type:
+  - '&7&o副产品'
+CLT_FRIED_OKRA:
+  name: 油炸的秋葵
+  type:
+  - '&7&o副产品'
+CLT_FRIED_ONION:
+  name: 油炸的洋葱
+  type:
+  - '&7&o副产品'
+CLT_FRIED_ORANGE:
+  name: 油炸的橙子
+  type:
+  - '&7&o副产品'
+CLT_FRIED_OREGANO:
+  name: 油炸的牛至
+  type:
+  - '&7&o副产品'
+CLT_FRIED_PARSLEY:
+  name: 油炸的欧芹
+  type:
+  - '&7&o副产品'
+CLT_FRIED_PARSNIP:
+  name: 油炸的欧洲防风
+  type:
+  - '&7&o副产品'
+CLT_FRIED_PEA:
+  name: 油炸的豌豆
+  type:
+  - '&7&o副产品'
+CLT_FRIED_PEACH:
+  name: 油炸的桃子
+  type:
+  - '&7&o副产品'
+CLT_FRIED_PEANUT:
+  name: 油炸的花生仁
+  type:
+  - '&7&o副产品'
+CLT_FRIED_PEAR:
+  name: 油炸的梨
+  type:
+  - '&7&o副产品'
+CLT_FRIED_PECAN:
+  name: 油炸的碧根果
+  type:
+  - '&7&o副产品'
+CLT_FRIED_PEPPER:
+  name: 油炸的黑胡椒
+  type:
+  - '&7&o副产品'
+CLT_FRIED_PEPPERONI:
+  name: 油炸的意式辣香肠
+  type:
+  - '&7&o副产品'
+CLT_FRIED_PINEAPPLE:
+  name: 油炸的菠萝
+  type:
+  - '&7&o副产品'
+CLT_FRIED_PINTO_BEANS:
+  name: 油炸的斑豆
+  type:
+  - '&7&o副产品'
+CLT_FRIED_PORKCHOP:
+  name: 油炸的猪排
+  type:
+  - '&7&o副产品'
+CLT_FRIED_POTATO:
+  name: 油炸的马铃薯
+  type:
+  - '&7&o副产品'
+CLT_FRIED_PUFFERFISH:
+  name: 油炸的河豚
+  type:
+  - '&7&o副产品'
+CLT_FRIED_PUMPKIN:
+  name: 油炸的南瓜
+  type:
+  - '&7&o副产品'
+CLT_FRIED_RABBIT:
+  name: 油炸的兔肉
+  type:
+  - '&7&o副产品'
+CLT_FRIED_RADDISH:
+  name: 油炸的小萝卜
+  type:
+  - '&7&o副产品'
+CLT_FRIED_RADICCHIO:
+  name: 油炸的红菊苣
+  type:
+  - '&7&o副产品'
+CLT_FRIED_RAPESEED:
+  name: 油炸的油菜籽
+  type:
+  - '&7&o副产品'
+CLT_FRIED_RED_MUSHROOM:
+  name: 油炸的红色蘑菇
+  type:
+  - '&7&o副产品'
+CLT_FRIED_RHUBARB:
+  name: 油炸的大黄
+  type:
+  - '&7&o副产品'
+CLT_FRIED_RICE:
+  name: 油炸的大米
+  type:
+  - '&7&o副产品'
+CLT_FRIED_ROSEMARY:
+  name: 油炸的迷迭香
+  type:
+  - '&7&o副产品'
+CLT_FRIED_ROTTEN_FLESH:
+  name: 油炸的腐肉
+  type:
+  - '&7&o副产品'
+CLT_FRIED_RUNNER_BEANS:
+  name: 油炸的红花菜豆
+  type:
+  - '&7&o副产品'
+CLT_FRIED_RUTABAGA:
+  name: 油炸的芜菁甘蓝
+  type:
+  - '&7&o副产品'
+CLT_FRIED_SALMON:
+  name: 油炸的鲑鱼
+  type:
+  - '&7&o副产品'
+CLT_FRIED_SASSAFRAS:
+  name: 油炸的檫木
+  type:
+  - '&7&o副产品'
+CLT_FRIED_SHALLOT:
+  name: 油炸的红葱头
+  type:
+  - '&7&o副产品'
+CLT_FRIED_SHISO:
+  name: 油炸的紫苏
+  type:
+  - '&7&o副产品'
+CLT_FRIED_SOY_BEANS:
+  name: 油炸的黄豆
+  type:
+  - '&7&o副产品'
+CLT_FRIED_SPINACH:
+  name: 油炸的菠菜
+  type:
+  - '&7&o副产品'
+CLT_FRIED_STAR_ANISE:
+  name: 油炸的八角
+  type:
+  - '&7&o副产品'
+CLT_FRIED_STRAWBERRY:
+  name: 油炸的草莓
+  type:
+  - '&7&o副产品'
+CLT_FRIED_SUGAR:
+  name: 油炸的糖
+  type:
+  - '&7&o副产品'
+CLT_FRIED_SWEETCORN:
+  name: 油炸的甜玉米
+  type:
+  - '&7&o副产品'
+CLT_FRIED_SWEET_BERRIES:
+  name: 油炸的甜浆果
+  type:
+  - '&7&o副产品'
+CLT_FRIED_SWEET_POTATO:
+  name: 油炸的红薯
+  type:
+  - '&7&o副产品'
+CLT_FRIED_TARRAGON:
+  name: 油炸的龙蒿
+  type:
+  - '&7&o副产品'
+CLT_FRIED_THYME:
+  name: 油炸的百里香
+  type:
+  - '&7&o副产品'
+CLT_FRIED_TOMATO:
+  name: 油炸的番茄
+  type:
+  - '&7&o副产品'
+CLT_FRIED_TURMERIC:
+  name: 油炸的姜黄
+  type:
+  - '&7&o副产品'
+CLT_FRIED_TURNIP:
+  name: 油炸的芜菁
+  type:
+  - '&7&o副产品'
+CLT_FRIED_VANILLA:
+  name: 油炸的香草
+  type:
+  - '&7&o副产品'
+CLT_FRIED_WASABI:
+  name: 油炸的山葵
+  type:
+  - '&7&o副产品'
+CLT_FRIED_WHEAT:
+  name: 油炸的小麦
+  type:
+  - '&7&o副产品'
+CLT_FRUIT_SALAD:
+  name: 水果沙拉
+  type:
+  - '&7&o食物'
+  description:
+  - 只要管它叫沙拉，你就能想吃多少
+  - 吃多少，因为它很健康嘛。
+  stats:
+  - '&8⇨ &7治疗：&b6颗心'
+  - '&8⇨ &b迅捷 III &7(10:00)'
+CLT_FUGU:
+  name: 河豚料理
+  type:
+  - '&7&o食物'
+  description:
+  - 准备好掷骰子了吗？
+  stats:
+  - '&8⇨ &7治疗：&b1颗心'
+  - '&8⇨ &b力量 V &7(10:00)'
+  - '&8⇨ &733%的几率直接死掉！'
+CLT_GARDEN_CLOCHE:
+  name: 园艺钟罩
+  type:
+  - '&7&o机器'
+  description:
+  - 自动在内部种植植物。
+  stats:
+  - '&8⇨ &7每刻耗电：&b100'
+CLT_GARLIC:
+  name: 大蒜
+  type:
+  - '&7&o农产品'
+  description:
+  - 快，趁吸血鬼还没来！
+CLT_GARLIC_BUTTER_MUSHROOMS:
+  name: 蒜香黄油蘑菇
+  type:
+  - '&7&o食物'
+  description:
+  - 可能是地球上最好吃的食物。
+  stats:
+  - '&8⇨ &7治疗：&b2颗心'
+  - '&8⇨ &b发光 I &7(10:00)'
+CLT_GINGER:
+  name: 生姜
+  type:
+  - '&7&o农产品'
+  description:
+  - 切碎的生姜泡进开水，包治百病！
+CLT_GRAPE:
+  name: 葡萄
+  type:
+  - '&7&o农产品'
+  description:
+  - 好饱满！
+CLT_GRAPE_JELLY:
+  name: 葡萄果冻
+  type:
+  - '&7&o农产品'
+  description: &id008
+  - 用勺子吃它可是犯罪行为。
+CLT_GREEN_APPLE:
+  name: 青苹果
+  type:
+  - '&7&o农产品'
+  description:
+  - 纸条上写着……亲爱的老师？
+CLT_GREEN_BEANS:
+  name: 四季豆
+  type:
+  - '&7&o农产品'
+  description:
+  - 名字起得可真有创意！
+CLT_GREEN_ONION:
+  name: 小葱
+  type:
+  - '&7&o农产品'
+  description:
+  - 配塔可饼超赞！
+CLT_GRILLED_APPLE:
+  name: 烤制的苹果
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_APRICOT:
+  name: 烤制的杏
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_ARTICHOKE:
+  name: 烤制的洋蓟
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_ASPARAGUS:
+  name: 烤制的芦笋
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_AUBERGINE:
+  name: 烤制的茄子
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_AVOCADO:
+  name: 烤制的牛油果
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_BANANA:
+  name: 烤制的香蕉
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_BASIL:
+  name: 烤制的罗勒
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_BAY_LEAF:
+  name: 烤制的月桂叶
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_BEEF:
+  name: 烤制的牛肉
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_BEETROOT:
+  name: 烤制的甜菜根
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_BELL_PEPPER:
+  name: 烤制的甜椒
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_BLACK_BEANS:
+  name: 烤制的黑豆
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_BREAD:
+  name: 烤制的面包
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_BROCCOLI:
+  name: 烤制的西兰花
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_BROWN_MUSHROOM:
+  name: 烤制的棕色蘑菇
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_BRUSSELS_SPROUTS:
+  name: 烤制的抱子甘蓝
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_CABBAGE:
+  name: 烤制的卷心菜
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_CARROT:
+  name: 烤制的胡萝卜
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_CAULIFLOWER:
+  name: 烤制的花椰菜
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_CAYENNE_PEPPER:
+  name: 烤制的卡宴辣椒
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_CELERIAC:
+  name: 烤制的块根芹
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_CELERY:
+  name: 烤制的芹菜
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_CHERRY:
+  name: 烤制的樱桃
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_CHESTNUT:
+  name: 烤制的栗子
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_CHICKEN:
+  name: 烤制的鸡肉
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_CHICKPEAS:
+  name: 烤制的鹰嘴豆
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_CHICORY:
+  name: 烤制的菊苣
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_CHILLY_PEPPER:
+  name: 烤制的辣椒
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_CHIVES:
+  name: 烤制的细香葱
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_CHORUS_FRUIT:
+  name: 烤制的紫颂果
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_CILANTRO:
+  name: 烤制的香菜
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_CINNAMON:
+  name: 烤制的肉桂
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_CLOVE:
+  name: 烤制的丁香
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_COCOA_BEANS:
+  name: 烤制的可可豆
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_COD:
+  name: 烤制的鳕鱼
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_COURGETTE:
+  name: 烤制的西葫芦
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_CUCUMBER:
+  name: 烤制的黄瓜
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_CUMIN:
+  name: 烤制的孜然
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_CURRY_LEAF:
+  name: 烤制的咖喱叶
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_DILL:
+  name: 烤制的莳萝
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_EGG:
+  name: 烤制的鸡蛋
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_ENCHANTED_GOLDEN_APPLE:
+  name: 烤制的附魔金苹果
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_FENNEL:
+  name: 烤制的茴香
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_GARLIC:
+  name: 烤制的大蒜
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_GINGER:
+  name: 烤制的生姜
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_GLOW_BERRIES:
+  name: 烤制的发光浆果
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_GOLDEN_APPLE:
+  name: 烤制的金苹果
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_GOLDEN_CARROT:
+  name: 烤制的金胡萝卜
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_GRAPE:
+  name: 烤制的葡萄
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_GREEN_APPLE:
+  name: 烤制的青苹果
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_GREEN_BEANS:
+  name: 烤制的四季豆
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_GREEN_ONION:
+  name: 烤制的小葱
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_HAZELNUT:
+  name: 烤制的榛子
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_HORSERADISH:
+  name: 烤制的辣根
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_JALAPENO:
+  name: 烤制的墨西哥辣椒
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_JASMINE:
+  name: 烤制的茉莉
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_JUNIPER_BERRY:
+  name: 烤制的杜松子
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_KAFFIR_LIME:
+  name: 烤制的泰国青柠叶
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_KALE:
+  name: 烤制的羽衣甘蓝
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_KELP:
+  name: 烤制的海带
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_KIWI:
+  name: 烤制的猕猴桃
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_LAVENDER:
+  name: 烤制的薰衣草
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_LEEK:
+  name: 烤制的韭葱
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_LEMON:
+  name: 烤制的柠檬
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_LETTUCE:
+  name: 烤制的生菜
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_LICORICE:
+  name: 烤制的甘草
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_LIME:
+  name: 烤制的青柠
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_MACE:
+  name: 烤制的肉豆蔻衣
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_MANGO:
+  name: 烤制的芒果
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_MARJORAM:
+  name: 烤制的马郁兰
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_MARROW:
+  name: 烤制的笋瓜
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_MELON:
+  name: 烤制的西瓜
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_MINT:
+  name: 烤制的薄荷
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_MUSTARD_SEEDS:
+  name: 烤制的芥菜籽
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_MUTTON:
+  name: 烤制的羊肉
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_NETTLES:
+  name: 烤制的荨麻
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_OKRA:
+  name: 烤制的秋葵
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_ONION:
+  name: 烤制的洋葱
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_ORANGE:
+  name: 烤制的橙子
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_OREGANO:
+  name: 烤制的牛至
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_PARSLEY:
+  name: 烤制的欧芹
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_PARSNIP:
+  name: 烤制的欧洲防风
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_PEA:
+  name: 烤制的豌豆
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_PEACH:
+  name: 烤制的桃子
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_PEANUT:
+  name: 烤制的花生仁
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_PEAR:
+  name: 烤制的梨
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_PECAN:
+  name: 烤制的碧根果
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_PEPPER:
+  name: 烤制的黑胡椒
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_PEPPERONI:
+  name: 烤制的意式辣香肠
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_PINEAPPLE:
+  name: 烤制的菠萝
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_PINTO_BEANS:
+  name: 烤制的斑豆
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_PORKCHOP:
+  name: 烤制的猪排
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_POTATO:
+  name: 烤制的马铃薯
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_PUFFERFISH:
+  name: 烤制的河豚
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_PUMPKIN:
+  name: 烤制的南瓜
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_RABBIT:
+  name: 烤制的兔肉
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_RADDISH:
+  name: 烤制的小萝卜
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_RADICCHIO:
+  name: 烤制的红菊苣
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_RAPESEED:
+  name: 烤制的油菜籽
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_RED_MUSHROOM:
+  name: 烤制的红色蘑菇
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_RHUBARB:
+  name: 烤制的大黄
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_RICE:
+  name: 烤制的大米
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_ROSEMARY:
+  name: 烤制的迷迭香
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_ROTTEN_FLESH:
+  name: 烤制的腐肉
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_RUNNER_BEANS:
+  name: 烤制的红花菜豆
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_RUTABAGA:
+  name: 烤制的芜菁甘蓝
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_SALMON:
+  name: 烤制的鲑鱼
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_SALMON_SALAD:
+  name: 烤制的鲑鱼沙拉
+  type:
+  - '&7&o食物'
+  description:
+  - 酥香可口，调味一绝。
+  stats:
+  - '&8⇨ &7治疗：&b4颗心'
+  - '&8⇨ &b生命恢复 I &7(10:00)'
+  - '&8⇨ &b生命提升 V &7(10:00)'
+CLT_GRILLED_SASSAFRAS:
+  name: 烤制的檫木
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_SHALLOT:
+  name: 烤制的红葱头
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_SHISO:
+  name: 烤制的紫苏
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_SOY_BEANS:
+  name: 烤制的黄豆
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_SPINACH:
+  name: 烤制的菠菜
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_STAR_ANISE:
+  name: 烤制的八角
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_STRAWBERRY:
+  name: 烤制的草莓
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_SUGAR:
+  name: 烤制的糖
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_SWEETCORN:
+  name: 烤制的甜玉米
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_SWEET_BERRIES:
+  name: 烤制的甜浆果
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_SWEET_POTATO:
+  name: 烤制的红薯
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_TARRAGON:
+  name: 烤制的龙蒿
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_THYME:
+  name: 烤制的百里香
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_TOMATO:
+  name: 烤制的番茄
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_TURMERIC:
+  name: 烤制的姜黄
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_TURNIP:
+  name: 烤制的芜菁
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_VANILLA:
+  name: 烤制的香草
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_WASABI:
+  name: 烤制的山葵
+  type:
+  - '&7&o副产品'
+CLT_GRILLED_WHEAT:
+  name: 烤制的小麦
+  type:
+  - '&7&o副产品'
+CLT_GROUND_APPLE:
+  name: 研磨的苹果
+  type:
+  - '&7&o副产品'
+CLT_GROUND_APRICOT:
+  name: 研磨的杏
+  type:
+  - '&7&o副产品'
+CLT_GROUND_ARTICHOKE:
+  name: 研磨的洋蓟
+  type:
+  - '&7&o副产品'
+CLT_GROUND_ASPARAGUS:
+  name: 研磨的芦笋
+  type:
+  - '&7&o副产品'
+CLT_GROUND_AUBERGINE:
+  name: 研磨的茄子
+  type:
+  - '&7&o副产品'
+CLT_GROUND_AVOCADO:
+  name: 研磨的牛油果
+  type:
+  - '&7&o副产品'
+CLT_GROUND_BANANA:
+  name: 研磨的香蕉
+  type:
+  - '&7&o副产品'
+CLT_GROUND_BASIL:
+  name: 研磨的罗勒
+  type:
+  - '&7&o副产品'
+CLT_GROUND_BAY_LEAF:
+  name: 研磨的月桂叶
+  type:
+  - '&7&o副产品'
+CLT_GROUND_BEEF:
+  name: 研磨的牛肉
+  type:
+  - '&7&o副产品'
+CLT_GROUND_BEETROOT:
+  name: 研磨的甜菜根
+  type:
+  - '&7&o副产品'
+CLT_GROUND_BELL_PEPPER:
+  name: 研磨的甜椒
+  type:
+  - '&7&o副产品'
+CLT_GROUND_BLACK_BEANS:
+  name: 研磨的黑豆
+  type:
+  - '&7&o副产品'
+CLT_GROUND_BREAD:
+  name: 研磨的面包
+  type:
+  - '&7&o副产品'
+CLT_GROUND_BROCCOLI:
+  name: 研磨的西兰花
+  type:
+  - '&7&o副产品'
+CLT_GROUND_BROWN_MUSHROOM:
+  name: 研磨的棕色蘑菇
+  type:
+  - '&7&o副产品'
+CLT_GROUND_BRUSSELS_SPROUTS:
+  name: 研磨的抱子甘蓝
+  type:
+  - '&7&o副产品'
+CLT_GROUND_CABBAGE:
+  name: 研磨的卷心菜
+  type:
+  - '&7&o副产品'
+CLT_GROUND_CARROT:
+  name: 研磨的胡萝卜
+  type:
+  - '&7&o副产品'
+CLT_GROUND_CAULIFLOWER:
+  name: 研磨的花椰菜
+  type:
+  - '&7&o副产品'
+CLT_GROUND_CAYENNE_PEPPER:
+  name: 研磨的卡宴辣椒
+  type:
+  - '&7&o副产品'
+CLT_GROUND_CELERIAC:
+  name: 研磨的块根芹
+  type:
+  - '&7&o副产品'
+CLT_GROUND_CELERY:
+  name: 研磨的芹菜
+  type:
+  - '&7&o副产品'
+CLT_GROUND_CHERRY:
+  name: 研磨的樱桃
+  type:
+  - '&7&o副产品'
+CLT_GROUND_CHESTNUT:
+  name: 研磨的栗子
+  type:
+  - '&7&o副产品'
+CLT_GROUND_CHICKEN:
+  name: 研磨的鸡肉
+  type:
+  - '&7&o副产品'
+CLT_GROUND_CHICKPEAS:
+  name: 研磨的鹰嘴豆
+  type:
+  - '&7&o副产品'
+CLT_GROUND_CHICORY:
+  name: 研磨的菊苣
+  type:
+  - '&7&o副产品'
+CLT_GROUND_CHILLY_PEPPER:
+  name: 研磨的辣椒
+  type:
+  - '&7&o副产品'
+CLT_GROUND_CHIVES:
+  name: 研磨的细香葱
+  type:
+  - '&7&o副产品'
+CLT_GROUND_CHORUS_FRUIT:
+  name: 研磨的紫颂果
+  type:
+  - '&7&o副产品'
+CLT_GROUND_CILANTRO:
+  name: 研磨的香菜
+  type:
+  - '&7&o副产品'
+CLT_GROUND_CINNAMON:
+  name: 研磨的肉桂
+  type:
+  - '&7&o副产品'
+CLT_GROUND_CLOVE:
+  name: 研磨的丁香
+  type:
+  - '&7&o副产品'
+CLT_GROUND_COCOA_BEANS:
+  name: 研磨的可可豆
+  type:
+  - '&7&o副产品'
+CLT_GROUND_COD:
+  name: 研磨的鳕鱼
+  type:
+  - '&7&o副产品'
+CLT_GROUND_COURGETTE:
+  name: 研磨的西葫芦
+  type:
+  - '&7&o副产品'
+CLT_GROUND_CUCUMBER:
+  name: 研磨的黄瓜
+  type:
+  - '&7&o副产品'
+CLT_GROUND_CUMIN:
+  name: 研磨的孜然
+  type:
+  - '&7&o副产品'
+CLT_GROUND_CURRY_LEAF:
+  name: 研磨的咖喱叶
+  type:
+  - '&7&o副产品'
+CLT_GROUND_DILL:
+  name: 研磨的莳萝
+  type:
+  - '&7&o副产品'
+CLT_GROUND_EGG:
+  name: 研磨的鸡蛋
+  type:
+  - '&7&o副产品'
+CLT_GROUND_ENCHANTED_GOLDEN_APPLE:
+  name: 研磨的附魔金苹果
+  type:
+  - '&7&o副产品'
+CLT_GROUND_FENNEL:
+  name: 研磨的茴香
+  type:
+  - '&7&o副产品'
+CLT_GROUND_GARLIC:
+  name: 研磨的大蒜
+  type:
+  - '&7&o副产品'
+CLT_GROUND_GINGER:
+  name: 研磨的生姜
+  type:
+  - '&7&o副产品'
+CLT_GROUND_GLOW_BERRIES:
+  name: 研磨的发光浆果
+  type:
+  - '&7&o副产品'
+CLT_GROUND_GOLDEN_APPLE:
+  name: 研磨的金苹果
+  type:
+  - '&7&o副产品'
+CLT_GROUND_GOLDEN_CARROT:
+  name: 研磨的金胡萝卜
+  type:
+  - '&7&o副产品'
+CLT_GROUND_GRAPE:
+  name: 研磨的葡萄
+  type:
+  - '&7&o副产品'
+CLT_GROUND_GREEN_APPLE:
+  name: 研磨的青苹果
+  type:
+  - '&7&o副产品'
+CLT_GROUND_GREEN_BEANS:
+  name: 研磨的四季豆
+  type:
+  - '&7&o副产品'
+CLT_GROUND_GREEN_ONION:
+  name: 研磨的小葱
+  type:
+  - '&7&o副产品'
+CLT_GROUND_HAZELNUT:
+  name: 研磨的榛子
+  type:
+  - '&7&o副产品'
+CLT_GROUND_HORSERADISH:
+  name: 研磨的辣根
+  type:
+  - '&7&o副产品'
+CLT_GROUND_JALAPENO:
+  name: 研磨的墨西哥辣椒
+  type:
+  - '&7&o副产品'
+CLT_GROUND_JASMINE:
+  name: 研磨的茉莉
+  type:
+  - '&7&o副产品'
+CLT_GROUND_JUNIPER_BERRY:
+  name: 研磨的杜松子
+  type:
+  - '&7&o副产品'
+CLT_GROUND_KAFFIR_LIME:
+  name: 研磨的泰国青柠叶
+  type:
+  - '&7&o副产品'
+CLT_GROUND_KALE:
+  name: 研磨的羽衣甘蓝
+  type:
+  - '&7&o副产品'
+CLT_GROUND_KELP:
+  name: 研磨的海带
+  type:
+  - '&7&o副产品'
+CLT_GROUND_KIWI:
+  name: 研磨的猕猴桃
+  type:
+  - '&7&o副产品'
+CLT_GROUND_LAVENDER:
+  name: 研磨的薰衣草
+  type:
+  - '&7&o副产品'
+CLT_GROUND_LEEK:
+  name: 研磨的韭葱
+  type:
+  - '&7&o副产品'
+CLT_GROUND_LEMON:
+  name: 研磨的柠檬
+  type:
+  - '&7&o副产品'
+CLT_GROUND_LETTUCE:
+  name: 研磨的生菜
+  type:
+  - '&7&o副产品'
+CLT_GROUND_LICORICE:
+  name: 研磨的甘草
+  type:
+  - '&7&o副产品'
+CLT_GROUND_LIME:
+  name: 研磨的青柠
+  type:
+  - '&7&o副产品'
+CLT_GROUND_MACE:
+  name: 研磨的肉豆蔻衣
+  type:
+  - '&7&o副产品'
+CLT_GROUND_MANGO:
+  name: 研磨的芒果
+  type:
+  - '&7&o副产品'
+CLT_GROUND_MARJORAM:
+  name: 研磨的马郁兰
+  type:
+  - '&7&o副产品'
+CLT_GROUND_MARROW:
+  name: 研磨的笋瓜
+  type:
+  - '&7&o副产品'
+CLT_GROUND_MELON:
+  name: 研磨的西瓜
+  type:
+  - '&7&o副产品'
+CLT_GROUND_MINT:
+  name: 研磨的薄荷
+  type:
+  - '&7&o副产品'
+CLT_GROUND_MUSTARD_SEEDS:
+  name: 研磨的芥菜籽
+  type:
+  - '&7&o副产品'
+CLT_GROUND_MUTTON:
+  name: 研磨的羊肉
+  type:
+  - '&7&o副产品'
+CLT_GROUND_NETTLES:
+  name: 研磨的荨麻
+  type:
+  - '&7&o副产品'
+CLT_GROUND_OKRA:
+  name: 研磨的秋葵
+  type:
+  - '&7&o副产品'
+CLT_GROUND_ONION:
+  name: 研磨的洋葱
+  type:
+  - '&7&o副产品'
+CLT_GROUND_ORANGE:
+  name: 研磨的橙子
+  type:
+  - '&7&o副产品'
+CLT_GROUND_OREGANO:
+  name: 研磨的牛至
+  type:
+  - '&7&o副产品'
+CLT_GROUND_PARSLEY:
+  name: 研磨的欧芹
+  type:
+  - '&7&o副产品'
+CLT_GROUND_PARSNIP:
+  name: 研磨的欧洲防风
+  type:
+  - '&7&o副产品'
+CLT_GROUND_PEA:
+  name: 研磨的豌豆
+  type:
+  - '&7&o副产品'
+CLT_GROUND_PEACH:
+  name: 研磨的桃子
+  type:
+  - '&7&o副产品'
+CLT_GROUND_PEANUT:
+  name: 研磨的花生仁
+  type:
+  - '&7&o副产品'
+CLT_GROUND_PEAR:
+  name: 研磨的梨
+  type:
+  - '&7&o副产品'
+CLT_GROUND_PECAN:
+  name: 研磨的碧根果
+  type:
+  - '&7&o副产品'
+CLT_GROUND_PEPPER:
+  name: 研磨的黑胡椒
+  type:
+  - '&7&o副产品'
+CLT_GROUND_PEPPERONI:
+  name: 研磨的意式辣香肠
+  type:
+  - '&7&o副产品'
+CLT_GROUND_PINEAPPLE:
+  name: 研磨的菠萝
+  type:
+  - '&7&o副产品'
+CLT_GROUND_PINTO_BEANS:
+  name: 研磨的斑豆
+  type:
+  - '&7&o副产品'
+CLT_GROUND_PORKCHOP:
+  name: 研磨的猪排
+  type:
+  - '&7&o副产品'
+CLT_GROUND_POTATO:
+  name: 研磨的马铃薯
+  type:
+  - '&7&o副产品'
+CLT_GROUND_PUFFERFISH:
+  name: 研磨的河豚
+  type:
+  - '&7&o副产品'
+CLT_GROUND_PUMPKIN:
+  name: 研磨的南瓜
+  type:
+  - '&7&o副产品'
+CLT_GROUND_RABBIT:
+  name: 研磨的兔肉
+  type:
+  - '&7&o副产品'
+CLT_GROUND_RADDISH:
+  name: 研磨的小萝卜
+  type:
+  - '&7&o副产品'
+CLT_GROUND_RADICCHIO:
+  name: 研磨的红菊苣
+  type:
+  - '&7&o副产品'
+CLT_GROUND_RAPESEED:
+  name: 研磨的油菜籽
+  type:
+  - '&7&o副产品'
+CLT_GROUND_RED_MUSHROOM:
+  name: 研磨的红色蘑菇
+  type:
+  - '&7&o副产品'
+CLT_GROUND_RHUBARB:
+  name: 研磨的大黄
+  type:
+  - '&7&o副产品'
+CLT_GROUND_RICE:
+  name: 研磨的大米
+  type:
+  - '&7&o副产品'
+CLT_GROUND_ROSEMARY:
+  name: 研磨的迷迭香
+  type:
+  - '&7&o副产品'
+CLT_GROUND_ROTTEN_FLESH:
+  name: 研磨的腐肉
+  type:
+  - '&7&o副产品'
+CLT_GROUND_RUNNER_BEANS:
+  name: 研磨的红花菜豆
+  type:
+  - '&7&o副产品'
+CLT_GROUND_RUTABAGA:
+  name: 研磨的芜菁甘蓝
+  type:
+  - '&7&o副产品'
+CLT_GROUND_SALMON:
+  name: 研磨的鲑鱼
+  type:
+  - '&7&o副产品'
+CLT_GROUND_SASSAFRAS:
+  name: 研磨的檫木
+  type:
+  - '&7&o副产品'
+CLT_GROUND_SHALLOT:
+  name: 研磨的红葱头
+  type:
+  - '&7&o副产品'
+CLT_GROUND_SHISO:
+  name: 研磨的紫苏
+  type:
+  - '&7&o副产品'
+CLT_GROUND_SOY_BEANS:
+  name: 研磨的黄豆
+  type:
+  - '&7&o副产品'
+CLT_GROUND_SPINACH:
+  name: 研磨的菠菜
+  type:
+  - '&7&o副产品'
+CLT_GROUND_STAR_ANISE:
+  name: 研磨的八角
+  type:
+  - '&7&o副产品'
+CLT_GROUND_STRAWBERRY:
+  name: 研磨的草莓
+  type:
+  - '&7&o副产品'
+CLT_GROUND_SUGAR:
+  name: 研磨的糖
+  type:
+  - '&7&o副产品'
+CLT_GROUND_SWEETCORN:
+  name: 研磨的甜玉米
+  type:
+  - '&7&o副产品'
+CLT_GROUND_SWEET_BERRIES:
+  name: 研磨的甜浆果
+  type:
+  - '&7&o副产品'
+CLT_GROUND_SWEET_POTATO:
+  name: 研磨的红薯
+  type:
+  - '&7&o副产品'
+CLT_GROUND_TARRAGON:
+  name: 研磨的龙蒿
+  type:
+  - '&7&o副产品'
+CLT_GROUND_THYME:
+  name: 研磨的百里香
+  type:
+  - '&7&o副产品'
+CLT_GROUND_TOMATO:
+  name: 研磨的番茄
+  type:
+  - '&7&o副产品'
+CLT_GROUND_TURMERIC:
+  name: 研磨的姜黄
+  type:
+  - '&7&o副产品'
+CLT_GROUND_TURNIP:
+  name: 研磨的芜菁
+  type:
+  - '&7&o副产品'
+CLT_GROUND_VANILLA:
+  name: 研磨的香草
+  type:
+  - '&7&o副产品'
+CLT_GROUND_WASABI:
+  name: 研磨的山葵
+  type:
+  - '&7&o副产品'
+CLT_GROUND_WHEAT:
+  name: 研磨的小麦
+  type:
+  - '&7&o副产品'
+CLT_HAZELNUT:
+  name: 榛子
+  type:
+  - '&7&o农产品'
+  description:
+  - 不管用什么办法，马上把它
+  - 变成一杯咖啡给我！
+CLT_HORSERADISH:
+  name: 辣根
+  type:
+  - '&7&o农产品'
+  description:
+  - 敢直接咬一口，我给你$100。
+CLT_JALAPENO:
+  name: 墨西哥辣椒
+  type:
+  - '&7&o农产品'
+  description:
+  - 辣辣辣！
+CLT_JASMINE:
+  name: 茉莉
+  type:
+  - '&7&o农产品'
+  description:
+  - 泡茶一绝。
+CLT_JUNIPER_BERRY:
+  name: 杜松子
+  type:
+  - '&7&o农产品'
+  description:
+  - 晒干到恰到好处的辛辣。
+CLT_KAFFIR_LIME:
+  name: 泰国青柠叶
+  type:
+  - '&7&o农产品'
+  description:
+  - 一片清香十足的叶子。
+CLT_KALE:
+  name: 羽衣甘蓝
+  type:
+  - '&7&o农产品'
+  description:
+  - 救命，我成了2020年的奶昔文青！
+CLT_KETCHUP:
+  name: 番茄酱
+  type:
+  - '&7&o农产品'
+  description:
+  - 就是奶油状的番茄而已。
+CLT_KEY_LIME_PIE:
+  name: 青柠派
+  type:
+  - '&7&o食物'
+  description:
+  - 简直是最棒的！
+  stats:
+  - '&8⇨ &7治疗：&b6颗心'
+  - '&8⇨ &b急迫 IV &7(10:00)'
+CLT_KIWI:
+  name: 猕猴桃
+  type:
+  - '&7&o农产品'
+  description:
+  - 我是被逼着把这个加进附属的。
+  - 猕猴桃是邪恶的，任何
+  - 使用它的人都会自动扣掉
+  - 100分。
+CLT_LASAGNA:
+  name: 千层面
+  type:
+  - '&7&o食物'
+  description:
+  - 层层叠叠的超赞。
+  stats:
+  - '&8⇨ &7治疗：&b满'
+  - '&8⇨ &b生命恢复 II &7(10:00)'
+  - '&8⇨ &b抗性提升 II &7(10:00)'
+CLT_LAVENDER:
+  name: 薰衣草
+  type:
+  - '&7&o农产品'
+  description:
+  - 一种能让我慢慢飘入梦乡的香味。
+CLT_LEAVES_TREE_APRICOT:
+  name: 杏树树叶
+  type:
+  - '&7&o树叶'
+CLT_LEAVES_TREE_BANANA:
+  name: 香蕉树树叶
+  type:
+  - '&7&o树叶'
+CLT_LEAVES_TREE_CHERRY:
+  name: 樱桃树树叶
+  type:
+  - '&7&o树叶'
+CLT_LEAVES_TREE_CHESTNUT:
+  name: 栗子树树叶
+  type:
+  - '&7&o树叶'
+CLT_LEAVES_TREE_GREEN_APPLE:
+  name: 青苹果树树叶
+  type:
+  - '&7&o树叶'
+CLT_LEAVES_TREE_HAZELNUT:
+  name: 榛子树树叶
+  type:
+  - '&7&o树叶'
+CLT_LEAVES_TREE_KIWI:
+  name: 猕猴桃树树叶
+  type:
+  - '&7&o树叶'
+CLT_LEAVES_TREE_LEMON:
+  name: 柠檬树树叶
+  type:
+  - '&7&o树叶'
+CLT_LEAVES_TREE_LIME:
+  name: 青柠树树叶
+  type:
+  - '&7&o树叶'
+CLT_LEAVES_TREE_MANGO:
+  name: 芒果树树叶
+  type:
+  - '&7&o树叶'
+CLT_LEAVES_TREE_ORANGE:
+  name: 橙子树树叶
+  type:
+  - '&7&o树叶'
+CLT_LEAVES_TREE_PEACH:
+  name: 桃树树叶
+  type:
+  - '&7&o树叶'
+CLT_LEAVES_TREE_PEAR:
+  name: 梨树树叶
+  type:
+  - '&7&o树叶'
+CLT_LEAVES_TREE_PECAN:
+  name: 碧根果树树叶
+  type:
+  - '&7&o树叶'
+CLT_LEAVES_TREE_PINEAPPLE:
+  name: 菠萝树树叶
+  type:
+  - '&7&o树叶'
+CLT_LEEK:
+  name: 韭葱
+  type:
+  - '&7&o农产品'
+  description:
+  - 不知为何它在滴水？
+  - 难道是哪里"韭"漏了？
+CLT_LEMON:
+  name: 柠檬
+  type:
+  - '&7&o农产品'
+  description:
+  - 干嘛一脸酸样？
+CLT_LEMON_DROP:
+  name: 柠檬糖
+  type:
+  - '&7&o食物'
+  description:
+  - 清口小食。
+  stats:
+  - '&8⇨ &7清除所有效果，并让你再次感到饥饿。'
+CLT_LETTUCE:
+  name: 生菜
+  type:
+  - '&7&o农产品'
+  description:
+  - 又薄又水，却很美味。
+CLT_LICORICE:
+  name: 甘草
+  type:
+  - '&7&o农产品'
+  description:
+  - 快跑，现在就跑！
+CLT_LIME:
+  name: 青柠
+  type:
+  - '&7&o农产品'
+  description:
+  - 很久很久"柠"前，有一种美味的水果……
+CLT_MACE:
+  name: 肉豆蔻衣
+  type:
+  - '&7&o农产品'
+  description:
+  - 用来朝攻击者脸上喷。
+  - ……
+  - 什么，你说这个肉豆蔻衣不是防狼喷雾？
+CLT_MANGO:
+  name: 芒果
+  type:
+  - '&7&o农产品'
+  description:
+  - '"芒"死了，我得走了。'
+  - 写设定好难……
+CLT_MARJORAM:
+  name: 马郁兰
+  type:
+  - '&7&o农产品'
+  description:
+  - 我现在急得像咖喱下了锅，回头再聊行吗？
+CLT_MARROW:
+  name: 笋瓜
+  type:
+  - '&7&o农产品'
+  description:
+  - 你知道吗？笋瓜（骨髓）就藏在
+  - 你的骨头里面。
+  - 没错，塞菲聪明绝顶。
+CLT_MASHED_APPLE:
+  name: 捣碎的苹果
+  type:
+  - '&7&o副产品'
+CLT_MASHED_APRICOT:
+  name: 捣碎的杏
+  type:
+  - '&7&o副产品'
+CLT_MASHED_ARTICHOKE:
+  name: 捣碎的洋蓟
+  type:
+  - '&7&o副产品'
+CLT_MASHED_ASPARAGUS:
+  name: 捣碎的芦笋
+  type:
+  - '&7&o副产品'
+CLT_MASHED_AUBERGINE:
+  name: 捣碎的茄子
+  type:
+  - '&7&o副产品'
+CLT_MASHED_AVOCADO:
+  name: 捣碎的牛油果
+  type:
+  - '&7&o副产品'
+CLT_MASHED_BANANA:
+  name: 捣碎的香蕉
+  type:
+  - '&7&o副产品'
+CLT_MASHED_BASIL:
+  name: 捣碎的罗勒
+  type:
+  - '&7&o副产品'
+CLT_MASHED_BAY_LEAF:
+  name: 捣碎的月桂叶
+  type:
+  - '&7&o副产品'
+CLT_MASHED_BEEF:
+  name: 捣碎的牛肉
+  type:
+  - '&7&o副产品'
+CLT_MASHED_BEETROOT:
+  name: 捣碎的甜菜根
+  type:
+  - '&7&o副产品'
+CLT_MASHED_BELL_PEPPER:
+  name: 捣碎的甜椒
+  type:
+  - '&7&o副产品'
+CLT_MASHED_BLACK_BEANS:
+  name: 捣碎的黑豆
+  type:
+  - '&7&o副产品'
+CLT_MASHED_BREAD:
+  name: 捣碎的面包
+  type:
+  - '&7&o副产品'
+CLT_MASHED_BROCCOLI:
+  name: 捣碎的西兰花
+  type:
+  - '&7&o副产品'
+CLT_MASHED_BROWN_MUSHROOM:
+  name: 捣碎的棕色蘑菇
+  type:
+  - '&7&o副产品'
+CLT_MASHED_BRUSSELS_SPROUTS:
+  name: 捣碎的抱子甘蓝
+  type:
+  - '&7&o副产品'
+CLT_MASHED_CABBAGE:
+  name: 捣碎的卷心菜
+  type:
+  - '&7&o副产品'
+CLT_MASHED_CARROT:
+  name: 捣碎的胡萝卜
+  type:
+  - '&7&o副产品'
+CLT_MASHED_CAULIFLOWER:
+  name: 捣碎的花椰菜
+  type:
+  - '&7&o副产品'
+CLT_MASHED_CAYENNE_PEPPER:
+  name: 捣碎的卡宴辣椒
+  type:
+  - '&7&o副产品'
+CLT_MASHED_CELERIAC:
+  name: 捣碎的块根芹
+  type:
+  - '&7&o副产品'
+CLT_MASHED_CELERY:
+  name: 捣碎的芹菜
+  type:
+  - '&7&o副产品'
+CLT_MASHED_CHERRY:
+  name: 捣碎的樱桃
+  type:
+  - '&7&o副产品'
+CLT_MASHED_CHESTNUT:
+  name: 捣碎的栗子
+  type:
+  - '&7&o副产品'
+CLT_MASHED_CHICKEN:
+  name: 捣碎的鸡肉
+  type:
+  - '&7&o副产品'
+CLT_MASHED_CHICKPEAS:
+  name: 捣碎的鹰嘴豆
+  type:
+  - '&7&o副产品'
+CLT_MASHED_CHICORY:
+  name: 捣碎的菊苣
+  type:
+  - '&7&o副产品'
+CLT_MASHED_CHILLY_PEPPER:
+  name: 捣碎的辣椒
+  type:
+  - '&7&o副产品'
+CLT_MASHED_CHIVES:
+  name: 捣碎的细香葱
+  type:
+  - '&7&o副产品'
+CLT_MASHED_CHORUS_FRUIT:
+  name: 捣碎的紫颂果
+  type:
+  - '&7&o副产品'
+CLT_MASHED_CILANTRO:
+  name: 捣碎的香菜
+  type:
+  - '&7&o副产品'
+CLT_MASHED_CINNAMON:
+  name: 捣碎的肉桂
+  type:
+  - '&7&o副产品'
+CLT_MASHED_CLOVE:
+  name: 捣碎的丁香
+  type:
+  - '&7&o副产品'
+CLT_MASHED_COCOA_BEANS:
+  name: 捣碎的可可豆
+  type:
+  - '&7&o副产品'
+CLT_MASHED_COD:
+  name: 捣碎的鳕鱼
+  type:
+  - '&7&o副产品'
+CLT_MASHED_COURGETTE:
+  name: 捣碎的西葫芦
+  type:
+  - '&7&o副产品'
+CLT_MASHED_CUCUMBER:
+  name: 捣碎的黄瓜
+  type:
+  - '&7&o副产品'
+CLT_MASHED_CUMIN:
+  name: 捣碎的孜然
+  type:
+  - '&7&o副产品'
+CLT_MASHED_CURRY_LEAF:
+  name: 捣碎的咖喱叶
+  type:
+  - '&7&o副产品'
+CLT_MASHED_DILL:
+  name: 捣碎的莳萝
+  type:
+  - '&7&o副产品'
+CLT_MASHED_EGG:
+  name: 捣碎的鸡蛋
+  type:
+  - '&7&o副产品'
+CLT_MASHED_ENCHANTED_GOLDEN_APPLE:
+  name: 捣碎的附魔金苹果
+  type:
+  - '&7&o副产品'
+CLT_MASHED_FENNEL:
+  name: 捣碎的茴香
+  type:
+  - '&7&o副产品'
+CLT_MASHED_GARLIC:
+  name: 捣碎的大蒜
+  type:
+  - '&7&o副产品'
+CLT_MASHED_GINGER:
+  name: 捣碎的生姜
+  type:
+  - '&7&o副产品'
+CLT_MASHED_GLOW_BERRIES:
+  name: 捣碎的发光浆果
+  type:
+  - '&7&o副产品'
+CLT_MASHED_GOLDEN_APPLE:
+  name: 捣碎的金苹果
+  type:
+  - '&7&o副产品'
+CLT_MASHED_GOLDEN_CARROT:
+  name: 捣碎的金胡萝卜
+  type:
+  - '&7&o副产品'
+CLT_MASHED_GRAPE:
+  name: 捣碎的葡萄
+  type:
+  - '&7&o副产品'
+CLT_MASHED_GREEN_APPLE:
+  name: 捣碎的青苹果
+  type:
+  - '&7&o副产品'
+CLT_MASHED_GREEN_BEANS:
+  name: 捣碎的四季豆
+  type:
+  - '&7&o副产品'
+CLT_MASHED_GREEN_ONION:
+  name: 捣碎的小葱
+  type:
+  - '&7&o副产品'
+CLT_MASHED_HAZELNUT:
+  name: 捣碎的榛子
+  type:
+  - '&7&o副产品'
+CLT_MASHED_HORSERADISH:
+  name: 捣碎的辣根
+  type:
+  - '&7&o副产品'
+CLT_MASHED_JALAPENO:
+  name: 捣碎的墨西哥辣椒
+  type:
+  - '&7&o副产品'
+CLT_MASHED_JASMINE:
+  name: 捣碎的茉莉
+  type:
+  - '&7&o副产品'
+CLT_MASHED_JUNIPER_BERRY:
+  name: 捣碎的杜松子
+  type:
+  - '&7&o副产品'
+CLT_MASHED_KAFFIR_LIME:
+  name: 捣碎的泰国青柠叶
+  type:
+  - '&7&o副产品'
+CLT_MASHED_KALE:
+  name: 捣碎的羽衣甘蓝
+  type:
+  - '&7&o副产品'
+CLT_MASHED_KELP:
+  name: 捣碎的海带
+  type:
+  - '&7&o副产品'
+CLT_MASHED_KIWI:
+  name: 捣碎的猕猴桃
+  type:
+  - '&7&o副产品'
+CLT_MASHED_LAVENDER:
+  name: 捣碎的薰衣草
+  type:
+  - '&7&o副产品'
+CLT_MASHED_LEEK:
+  name: 捣碎的韭葱
+  type:
+  - '&7&o副产品'
+CLT_MASHED_LEMON:
+  name: 捣碎的柠檬
+  type:
+  - '&7&o副产品'
+CLT_MASHED_LETTUCE:
+  name: 捣碎的生菜
+  type:
+  - '&7&o副产品'
+CLT_MASHED_LICORICE:
+  name: 捣碎的甘草
+  type:
+  - '&7&o副产品'
+CLT_MASHED_LIME:
+  name: 捣碎的青柠
+  type:
+  - '&7&o副产品'
+CLT_MASHED_MACE:
+  name: 捣碎的肉豆蔻衣
+  type:
+  - '&7&o副产品'
+CLT_MASHED_MANGO:
+  name: 捣碎的芒果
+  type:
+  - '&7&o副产品'
+CLT_MASHED_MARJORAM:
+  name: 捣碎的马郁兰
+  type:
+  - '&7&o副产品'
+CLT_MASHED_MARROW:
+  name: 捣碎的笋瓜
+  type:
+  - '&7&o副产品'
+CLT_MASHED_MELON:
+  name: 捣碎的西瓜
+  type:
+  - '&7&o副产品'
+CLT_MASHED_MINT:
+  name: 捣碎的薄荷
+  type:
+  - '&7&o副产品'
+CLT_MASHED_MUSTARD_SEEDS:
+  name: 捣碎的芥菜籽
+  type:
+  - '&7&o副产品'
+CLT_MASHED_MUTTON:
+  name: 捣碎的羊肉
+  type:
+  - '&7&o副产品'
+CLT_MASHED_NETTLES:
+  name: 捣碎的荨麻
+  type:
+  - '&7&o副产品'
+CLT_MASHED_OKRA:
+  name: 捣碎的秋葵
+  type:
+  - '&7&o副产品'
+CLT_MASHED_ONION:
+  name: 捣碎的洋葱
+  type:
+  - '&7&o副产品'
+CLT_MASHED_ORANGE:
+  name: 捣碎的橙子
+  type:
+  - '&7&o副产品'
+CLT_MASHED_OREGANO:
+  name: 捣碎的牛至
+  type:
+  - '&7&o副产品'
+CLT_MASHED_PARSLEY:
+  name: 捣碎的欧芹
+  type:
+  - '&7&o副产品'
+CLT_MASHED_PARSNIP:
+  name: 捣碎的欧洲防风
+  type:
+  - '&7&o副产品'
+CLT_MASHED_PEA:
+  name: 捣碎的豌豆
+  type:
+  - '&7&o副产品'
+CLT_MASHED_PEACH:
+  name: 捣碎的桃子
+  type:
+  - '&7&o副产品'
+CLT_MASHED_PEANUT:
+  name: 捣碎的花生仁
+  type:
+  - '&7&o副产品'
+CLT_MASHED_PEAR:
+  name: 捣碎的梨
+  type:
+  - '&7&o副产品'
+CLT_MASHED_PECAN:
+  name: 捣碎的碧根果
+  type:
+  - '&7&o副产品'
+CLT_MASHED_PEPPER:
+  name: 捣碎的黑胡椒
+  type:
+  - '&7&o副产品'
+CLT_MASHED_PEPPERONI:
+  name: 捣碎的意式辣香肠
+  type:
+  - '&7&o副产品'
+CLT_MASHED_PINEAPPLE:
+  name: 捣碎的菠萝
+  type:
+  - '&7&o副产品'
+CLT_MASHED_PINTO_BEANS:
+  name: 捣碎的斑豆
+  type:
+  - '&7&o副产品'
+CLT_MASHED_PORKCHOP:
+  name: 捣碎的猪排
+  type:
+  - '&7&o副产品'
+CLT_MASHED_POTATO:
+  name: 捣碎的马铃薯
+  type:
+  - '&7&o副产品'
+CLT_MASHED_PUFFERFISH:
+  name: 捣碎的河豚
+  type:
+  - '&7&o副产品'
+CLT_MASHED_PUMPKIN:
+  name: 捣碎的南瓜
+  type:
+  - '&7&o副产品'
+CLT_MASHED_RABBIT:
+  name: 捣碎的兔肉
+  type:
+  - '&7&o副产品'
+CLT_MASHED_RADDISH:
+  name: 捣碎的小萝卜
+  type:
+  - '&7&o副产品'
+CLT_MASHED_RADICCHIO:
+  name: 捣碎的红菊苣
+  type:
+  - '&7&o副产品'
+CLT_MASHED_RAPESEED:
+  name: 捣碎的油菜籽
+  type:
+  - '&7&o副产品'
+CLT_MASHED_RED_MUSHROOM:
+  name: 捣碎的红色蘑菇
+  type:
+  - '&7&o副产品'
+CLT_MASHED_RHUBARB:
+  name: 捣碎的大黄
+  type:
+  - '&7&o副产品'
+CLT_MASHED_RICE:
+  name: 捣碎的大米
+  type:
+  - '&7&o副产品'
+CLT_MASHED_ROSEMARY:
+  name: 捣碎的迷迭香
+  type:
+  - '&7&o副产品'
+CLT_MASHED_ROTTEN_FLESH:
+  name: 捣碎的腐肉
+  type:
+  - '&7&o副产品'
+CLT_MASHED_RUNNER_BEANS:
+  name: 捣碎的红花菜豆
+  type:
+  - '&7&o副产品'
+CLT_MASHED_RUTABAGA:
+  name: 捣碎的芜菁甘蓝
+  type:
+  - '&7&o副产品'
+CLT_MASHED_SALMON:
+  name: 捣碎的鲑鱼
+  type:
+  - '&7&o副产品'
+CLT_MASHED_SASSAFRAS:
+  name: 捣碎的檫木
+  type:
+  - '&7&o副产品'
+CLT_MASHED_SHALLOT:
+  name: 捣碎的红葱头
+  type:
+  - '&7&o副产品'
+CLT_MASHED_SHISO:
+  name: 捣碎的紫苏
+  type:
+  - '&7&o副产品'
+CLT_MASHED_SOY_BEANS:
+  name: 捣碎的黄豆
+  type:
+  - '&7&o副产品'
+CLT_MASHED_SPINACH:
+  name: 捣碎的菠菜
+  type:
+  - '&7&o副产品'
+CLT_MASHED_STAR_ANISE:
+  name: 捣碎的八角
+  type:
+  - '&7&o副产品'
+CLT_MASHED_STRAWBERRY:
+  name: 捣碎的草莓
+  type:
+  - '&7&o副产品'
+CLT_MASHED_SUGAR:
+  name: 捣碎的糖
+  type:
+  - '&7&o副产品'
+CLT_MASHED_SWEETCORN:
+  name: 捣碎的甜玉米
+  type:
+  - '&7&o副产品'
+CLT_MASHED_SWEET_BERRIES:
+  name: 捣碎的甜浆果
+  type:
+  - '&7&o副产品'
+CLT_MASHED_SWEET_POTATO:
+  name: 捣碎的红薯
+  type:
+  - '&7&o副产品'
+CLT_MASHED_TARRAGON:
+  name: 捣碎的龙蒿
+  type:
+  - '&7&o副产品'
+CLT_MASHED_THYME:
+  name: 捣碎的百里香
+  type:
+  - '&7&o副产品'
+CLT_MASHED_TOMATO:
+  name: 捣碎的番茄
+  type:
+  - '&7&o副产品'
+CLT_MASHED_TURMERIC:
+  name: 捣碎的姜黄
+  type:
+  - '&7&o副产品'
+CLT_MASHED_TURNIP:
+  name: 捣碎的芜菁
+  type:
+  - '&7&o副产品'
+CLT_MASHED_VANILLA:
+  name: 捣碎的香草
+  type:
+  - '&7&o副产品'
+CLT_MASHED_WASABI:
+  name: 捣碎的山葵
+  type:
+  - '&7&o副产品'
+CLT_MASHED_WHEAT:
+  name: 捣碎的小麦
+  type:
+  - '&7&o副产品'
+CLT_MAYONNAISE:
+  name: 蛋黄酱
+  type:
+  - '&7&o农产品'
+  description:
+  - 丝般顺滑的蛋黄酱，几乎配什么都行。
+CLT_MEATBALLS:
+  name: 肉丸
+  type:
+  - '&7&o农产品'
+  description:
+  - 肉做的球，谁能想得到呢。
+CLT_MEATLOAF:
+  name: 烤肉糕
+  type:
+  - '&7&o食物'
+  description:
+  - 无可替代！走起。
+  stats:
+  - '&8⇨ &7治疗：&b满'
+  - '&8⇨ &b生命提升 IV &7(10:00)'
+  - '&8⇨ &b抗性提升 III &7(10:00)'
+  - '&8⇨ &b急迫 II &7(10:00)'
+  - '&8⇨ &b缓慢 II &7(10:00)'
+CLT_MINT:
+  name: 薄荷
+  type:
+  - '&7&o农产品'
+  description:
+  - 嚼嚼嚼。
+CLT_MUSTARD:
+  name: 芥末
+  type:
+  - '&7&o农产品'
+  description:
+  - 有点冲劲儿！
+CLT_MUSTARD_SEEDS:
+  name: 芥菜种子
+  type:
+  - '&7&o农产品'
+  description:
+  - 有种就嚼嚼看！
+CLT_NETTLES:
+  name: 荨麻
+  type:
+  - '&7&o农产品'
+  description:
+  - 拿这些之前请先戴上手套。
+CLT_OKRA:
+  name: 秋葵
+  type:
+  - '&7&o农产品'
+  description:
+  - 大量种植于俄克拉"秋葵"马州……对吧，对吧？
+CLT_ONION:
+  name: 洋葱
+  type:
+  - '&7&o农产品'
+  description:
+  - 等等，你怎么哭了？
+CLT_ORANGE:
+  name: 橙子
+  type:
+  - '&7&o农产品'
+  description:
+  - 这不是该上发条的吗？
+CLT_ORANGE_JUICE:
+  name: 橙子果汁
+  type:
+  - '&7&o食物'
+  description:
+  - 这真的是开启一天的最佳方式。
+  stats:
+  - '&8⇨ &b迅捷 IV &7(10:00)'
+CLT_OREGANO:
+  name: 牛至
+  type:
+  - '&7&o农产品'
+  description:
+  - 橱柜必备的经典香草。
+CLT_PARSLEY:
+  name: 欧芹
+  type:
+  - '&7&o农产品'
+  description:
+  - 史上。最差。香草。
+CLT_PARSNIP:
+  name: 欧洲防风
+  type:
+  - '&7&o农产品'
+  description:
+  - 必须马上拿去烤。
+CLT_PASTA:
+  name: 意面
+  type:
+  - '&7&o农产品'
+  description:
+  - 就是普通的意面，简单却美妙。
+CLT_PEA:
+  name: 豌豆
+  type:
+  - '&7&o农产品'
+  description:
+  - 据说常常成对躲在一个荚里。
+CLT_PEACH:
+  name: 桃子
+  type:
+  - '&7&o农产品'
+  description:
+  - 我们不聊那个表情符号
+CLT_PEANUT:
+  name: 花生仁
+  type:
+  - '&7&o农产品'
+  description:
+  - 里斯花生酱杯，我来了！
+CLT_PEANUT_BUTTER:
+  name: 花生酱
+  type:
+  - '&7&o农产品'
+  description:
+  - 只有液体黄金能与之媲美。
+CLT_PEANUT_BUTTER_JELLY_SANDWICH:
+  name: 花生酱果冻三明治
+  type:
+  - '&7&o食物'
+  description:
+  - 这真的是三明治科技的巅峰。
+  stats:
+  - '&8⇨ &7治疗：&b5颗心'
+  - '&8⇨ &b力量 III &7(10:00)'
+CLT_PEAR:
+  name: 梨
+  type:
+  - '&7&o农产品'
+  description:
+  - 你不觉得它看起来"梨"想极了吗？
+CLT_PECAN:
+  name: 碧根果
+  type:
+  - '&7&o农产品'
+  description:
+  - 简直在求着被做成派。
+CLT_PECAN_PIE:
+  name: 碧根果派
+  type:
+  - '&7&o食物'
+  description:
+  - 唯一一种吃纯糖
+  - 却不会被人指指点点的方式。
+  stats:
+  - '&8⇨ &7治疗：&b4颗心'
+  - '&8⇨ &b飘浮 I &7(10:00)'
+CLT_PEPPER:
+  name: 黑胡椒
+  type:
+  - '&7&o农产品'
+  description:
+  - 比盐更带劲。
+CLT_PEPPERONI:
+  name: 意式辣香肠
+  type:
+  - '&7&o农产品'
+  description:
+  - 一整根我都能轻松吃完。
+CLT_PICO_DE_GALLO:
+  name: 墨西哥莎莎酱
+  type:
+  - '&7&o农产品'
+  description:
+  - 一款温和的莎莎酱，满满都是美味。
+CLT_PIE_CRUST:
+  name: 派皮
+  type:
+  - '&7&o农产品'
+  description:
+  - 要是单吃它合法的话，
+  - 它就会是我的主食。
+CLT_PINEAPPLE:
+  name: 菠萝
+  type:
+  - '&7&o农产品'
+  description:
+  - 它就该出现在世界上每一张披萨上。
+  - 想打一架吗！？
+CLT_PINTO_BEANS:
+  name: 斑豆
+  type:
+  - '&7&o农产品'
+  description:
+  - 叮！卷饼时间到。
+CLT_PIZZA_CHEESE:
+  name: 芝士披萨
+  type:
+  - '&7&o食物'
+  description:
+  - 为什么会有人只点芝士的？我不懂。
+  stats:
+  - '&8⇨ &7治疗：&b4颗心'
+  - '&8⇨ &b缓慢 I &7(10:00)'
+CLT_PIZZA_MUSHROOM:
+  name: 蘑菇披萨
+  type:
+  - '&7&o食物'
+  description:
+  - 一款满是蛋白质的简单素食披萨。
+  stats:
+  - '&8⇨ &7治疗：&b6颗心'
+  - '&8⇨ &b缓慢 I &7(10:00)'
+  - '&8⇨ &b急迫 II &7(10:00)'
+CLT_PIZZA_PEPPERONI:
+  name: 意式辣香肠披萨
+  type:
+  - '&7&o食物'
+  description:
+  - 一款风味十足的纽约经典。
+  stats:
+  - '&8⇨ &7治疗：&b6颗心'
+  - '&8⇨ &b迅捷 I &7(10:00)'
+  - '&8⇨ &b急迫 I &7(10:00)'
+  - '&8⇨ &b跳跃提升 I &7(10:00)'
+CLT_PLANT_AIR:
+  name: 原初之风植株
+  type:
+  - '&7&o植物'
+  description:
+  - 一株静静哼唱着
+  - 周围自然旋律的植物。
+  - '&e原初植物不会产出物品，'
+  - '&e仅用于杂交育种。'
+CLT_PLANT_AMETHYST:
+  name: 紫水晶植株
+  type:
+  - '&7&o植物'
+  description:
+  - 这株植物喜欢在幽深黑暗的
+  - 地方茁壮成长。
+CLT_PLANT_ANALYSER:
+  name: 植物分析仪
+  type:
+  - '&7&o工具'
+  description:
+  - 一个非常基础的工具，能让你
+  - 查看正在生长的植物的详情
+  usage:
+  - '&e右键点击&7：显示植物的品种和生长详情。'
+  - '&e潜行右键点击&7：显示植物或灌木的名称。'
+CLT_PLANT_BASALT:
+  name: 玄武岩植株
+  type:
+  - '&7&o植物'
+  description:
+  - 一株非常无聊乏味的植物。
+CLT_PLANT_BEE:
+  name: 蜜蜂植株
+  type:
+  - '&7&o植物'
+  description:
+  - 一株长着一对小巧精致翅膀的植物。
+CLT_PLANT_BLACKSTONE:
+  name: 黑石植株
+  type:
+  - '&7&o植物'
+  description:
+  - 一株据说会吸收光线的植物。
+CLT_PLANT_BLAZE:
+  name: 烈焰人植株
+  type:
+  - '&7&o植物'
+  description:
+  - 一株边缘被烧焦的植物。
+CLT_PLANT_CHICKEN:
+  name: 鸡植株
+  type:
+  - '&7&o植物'
+  description:
+  - 传说只要把这颗种子
+  - 举过头顶，从高处
+  - 跳下，你就会滑翔而不是
+  - 坠落。
+CLT_PLANT_CLAY:
+  name: 黏土植株
+  type:
+  - '&7&o植物'
+  description:
+  - 这株植物可以随意塑形和重塑。
+  - 不过，这不代表
+  - 这么做是个好主意！
+CLT_PLANT_COAL:
+  name: 煤炭植株
+  type:
+  - '&7&o植物'
+  description:
+  - 一株潜力无穷的植物。
+CLT_PLANT_COBBLESTONE:
+  name: 圆石植株
+  type:
+  - '&7&o植物'
+  description:
+  - 这株植物硬得像石头。
+CLT_PLANT_CONCRETE:
+  name: 混凝土植株
+  type:
+  - '&7&o植物'
+  description:
+  - 这株植物硬化得太快，
+  - 长得很吃力。
+CLT_PLANT_COW:
+  name: 牛植株
+  type:
+  - '&7&o植物'
+  description:
+  - 如果你把这颗种子贴在耳边
+  - 仔细倾听，偶尔能听到
+  - 一声哞叫。
+CLT_PLANT_CREEPER:
+  name: 苦力怕植株
+  type:
+  - '&7&o植物'
+  description:
+  - 嘶嘶嘶嘶嘶嘶嘶嘶嘶嘶……
+CLT_PLANT_DARKNESS:
+  name: 原初之暗植株
+  type:
+  - '&7&o植物'
+  description:
+  - 一株燃烧着无尽
+  - 怒火的植物。
+  - '&e原初植物不会产出物品，'
+  - '&e仅用于杂交育种。'
+CLT_PLANT_DARK_FLORA:
+  name: 暗影花卉植株
+  type:
+  - '&7&o植物'
+  description:
+  - 这颗朴素的种子里潜藏着无声的邪恶。
+CLT_PLANT_DARK_GRASS:
+  name: 暗影草植株
+  type:
+  - '&7&o植物'
+  description:
+  - 一株彻底迷失了
+  - 自我的植物。
+CLT_PLANT_DEEPSLATE:
+  name: 深板岩植株
+  type:
+  - '&7&o植物'
+  description:
+  - 深沉，板岩质，<此处插入设定>。
+CLT_PLANT_DIAMOND:
+  name: 钻石植株
+  type:
+  - '&7&o植物'
+  description:
+  - 一株浑身散发着财富气息的植物。
+CLT_PLANT_DIM_LIT:
+  name: 微光植株
+  type:
+  - '&7&o植物'
+  description:
+  - 这颗种子内部透出非常微弱的光。
+CLT_PLANT_DIRT:
+  name: 泥土植株
+  type:
+  - '&7&o植物'
+  description:
+  - 表面脏兮兮，却蕴含着
+  - 生命本身的基石。
+CLT_PLANT_DROWNED:
+  name: 溺尸植株
+  type:
+  - '&7&o植物'
+  description:
+  - 一株无时无刻不在
+  - 滴水的植物。
+CLT_PLANT_DUSTY:
+  name: 积尘植株
+  type:
+  - '&7&o植物'
+  description:
+  - 这株植物需要特别照料，
+  - 稍微强一点的风就足以
+  - 让它散架。
+CLT_PLANT_EARTH:
+  name: 原初之土植株
+  type:
+  - '&7&o植物'
+  description:
+  - 一株滋养周围
+  - 世界的植物。
+  - '&e原初植物不会产出物品，'
+  - '&e仅用于杂交育种。'
+CLT_PLANT_ECHO:
+  name: 回响植株
+  type:
+  - '&7&o植物'
+  description:
+  - 这株植物总是知道
+  - 回家的路。
+CLT_PLANT_ELDER_GUARDIAN:
+  name: 远古守卫者植株
+  type:
+  - '&7&o植物'
+  description:
+  - 待在这株植物附近会让人
+  - 变得迟钝。
+CLT_PLANT_EMERALD:
+  name: 绿宝石植株
+  type:
+  - '&7&o植物'
+  description:
+  - 这株植物的主人得费尽
+  - 周折才买得起它。
+CLT_PLANT_ENDERMAN:
+  name: 末影人植株
+  type:
+  - '&7&o植物'
+  description:
+  - 如果照料不慎，这株植物
+  - 可能会随机传送！
+CLT_PLANT_ENDER_DRAGON:
+  name: 末影龙植株
+  type:
+  - '&7&o植物'
+  description:
+  - 植物界的真正首领。
+CLT_PLANT_END_STONE:
+  name: 末地石植株
+  type:
+  - '&7&o植物'
+  description:
+  - 一株与虚空共鸣的植物。
+CLT_PLANT_FIRE:
+  name: 原初之火植株
+  type:
+  - '&7&o植物'
+  description:
+  - 一株既提供
+  - 毁灭之源，又带来
+  - 新生的植物。
+  - '&e原初植物不会产出物品，'
+  - '&e仅用于杂交育种。'
+CLT_PLANT_FISH:
+  name: 鱼植株
+  type:
+  - '&7&o植物'
+  description:
+  - 这颗种子散发出一股熟透的气味。
+CLT_PLANT_FLOWER:
+  name: 开花植株
+  type:
+  - '&7&o植物'
+  description:
+  - 一个精心呈现的美丽丰饶角。
+CLT_PLANT_FROG:
+  name: 青蛙植株
+  type:
+  - '&7&o植物'
+  description:
+  - 呱呱！
+CLT_PLANT_GHAST:
+  name: 恶魂植株
+  type:
+  - '&7&o植物'
+  description:
+  - 一株据说会
+  - 随机发射火球的植物。
+CLT_PLANT_GLASS:
+  name: 玻璃植株
+  type:
+  - '&7&o植物'
+  description:
+  - 从合适的角度看，你会
+  - 发誓自己能看穿这株植物。
+CLT_PLANT_GLAZED:
+  name: 釉面植株
+  type:
+  - '&7&o植物'
+  description:
+  - 一株长着繁复花纹的植物。
+CLT_PLANT_GLOWING_VINE:
+  name: 发光藤蔓植株
+  type:
+  - '&7&o植物'
+  description:
+  - 这颗种子内部透出淡淡的光。
+CLT_PLANT_GLOW_SQUID:
+  name: 发光鱿鱼植株
+  type:
+  - '&7&o植物'
+  description:
+  - 一株闪闪发亮、带着微光的植物。
+CLT_PLANT_GOAT:
+  name: 山羊植株
+  type:
+  - '&7&o植物'
+  description:
+  - 一株时不时发狂、
+  - 喜欢到处乱跳的植物。
+CLT_PLANT_GRASS:
+  name: 草植株
+  type:
+  - '&7&o植物'
+  description:
+  - 蓬勃的生命
+  - 从地面喷涌而出。
+CLT_PLANT_GRAVEL:
+  name: 沙砾植株
+  type:
+  - '&7&o植物'
+  description:
+  - 这株植物实在不知道
+  - 怎么让自己保持完整。
+CLT_PLANT_GUARDIAN:
+  name: 守卫者植株
+  type:
+  - '&7&o植物'
+  description:
+  - 被触碰时，这株植物会
+  - 射出尖刺。
+CLT_PLANT_IGNEOUS:
+  name: 火成植株
+  type:
+  - '&7&o植物'
+  description:
+  - 这株植物是由高温和高压
+  - 形成的。别那样看着我！所有
+  - 这些植物描述都完全合理。
+CLT_PLANT_LAPIS:
+  name: 青金石植株
+  type:
+  - '&7&o植物'
+  description:
+  - 一株带着淡淡魔法气息的植物。
+CLT_PLANT_LIGHT:
+  name: 原初之光植株
+  type:
+  - '&7&o植物'
+  description:
+  - 一株散发着
+  - 纯粹爱意的植物。
+  - '&e原初植物不会产出物品，'
+  - '&e仅用于杂交育种。'
+CLT_PLANT_MAGMA:
+  name: 岩浆植株
+  type:
+  - '&7&o植物'
+  description:
+  - 一株热到会烧焦
+  - 周围一切的植物。
+CLT_PLANT_MAGMA_CUBE:
+  name: 岩浆怪植株
+  type:
+  - '&7&o植物'
+  description:
+  - 没人看着的时候，这株植物
+  - 喜欢上下蹦跶。
+CLT_PLANT_MOSS:
+  name: 苔藓植株
+  type:
+  - '&7&o植物'
+  description:
+  - 这株植物往往会失控蔓延。
+CLT_PLANT_MUD:
+  name: 泥巴植株
+  type:
+  - '&7&o植物'
+  description:
+  - 一株几乎和它所生长的
+  - 土地一样脏的植物。
+CLT_PLANT_MUSHROOM:
+  name: 蘑菇植株
+  type:
+  - '&7&o植物'
+  description:
+  - 没错，一株会长出蘑菇的植物。
+  - 这里一切都完全正常。
+CLT_PLANT_NETHERRACK:
+  name: 下界岩植株
+  type:
+  - '&7&o植物'
+  description:
+  - 一株坚韧耐活的植物，
+  - 能在大多数地方生存。
+CLT_PLANT_NETHER_QUARTZ:
+  name: 下界石英植株
+  type:
+  - '&7&o植物'
+  description:
+  - 这株植物的刺锋利到
+  - 让人很难处理。
+CLT_PLANT_PHANTOM:
+  name: 幻翼植株
+  type:
+  - '&7&o植物'
+  description:
+  - 一株叶片高高耸起的植物。
+CLT_PLANT_PIG:
+  name: 猪植株
+  type:
+  - '&7&o植物'
+  description:
+  - 一株会随机哼哼的植物。
+CLT_PLANT_POWER:
+  name: 原初之力植株
+  type:
+  - '&7&o植物'
+  description:
+  - 一株散发着强大力量的植物。
+  - '&e原初植物不会产出物品，'
+  - '&e仅用于杂交育种。'
+CLT_PLANT_PURPUR:
+  name: 紫珀植株
+  type:
+  - '&7&o植物'
+  description:
+  - 一株奇怪的植物，似乎比大多数
+  - 植物都轻。
+CLT_PLANT_RABBIT:
+  name: 兔子植株
+  type:
+  - '&7&o植物'
+  description:
+  - 虫子们会为之骄傲。
+CLT_PLANT_RAINBOW:
+  name: 彩虹植株
+  type:
+  - '&7&o植物'
+  description:
+  - 这株植物的尽头也许有，
+  - 也许没有一罐金子。
+CLT_PLANT_RAW_COPPER:
+  name: 粗铜植株
+  type:
+  - '&7&o植物'
+  description:
+  - 放着不管时，这株植物有时会
+  - 引来闪电。
+CLT_PLANT_RAW_GOLD:
+  name: 粗金植株
+  type:
+  - '&7&o植物'
+  description:
+  - 如果附近有猪灵，这株植物
+  - 常常会被偷走。
+CLT_PLANT_RAW_IRON:
+  name: 粗铁植株
+  type:
+  - '&7&o植物'
+  description:
+  - 一株坚固的植物，能抵御大多数
+  - 环境。
+CLT_PLANT_REDSTONE:
+  name: 红石植株
+  type:
+  - '&7&o植物'
+  description:
+  - 一株浑身充满能量的植物。
+CLT_PLANT_RED_SAND:
+  name: 红沙植株
+  type:
+  - '&7&o植物'
+  description:
+  - 这株植物有时一碰就会
+  - 碎掉，不过……更红一些。
+CLT_PLANT_REINFORCED:
+  name: 强化植株
+  type:
+  - '&7&o植物'
+  description:
+  - 一株无论遇到什么
+  - 都能撑住自己的植物。
+CLT_PLANT_SAND:
+  name: 沙子植株
+  type:
+  - '&7&o植物'
+  description:
+  - 这株植物有时一碰就会
+  - 碎掉。
+CLT_PLANT_SAPLING:
+  name: 树苗植株
+  type:
+  - '&7&o植物'
+  description:
+  - 这株植物根本说不通……
+CLT_PLANT_SCRAPPY:
+  name: 碎屑植株
+  type:
+  - '&7&o植物'
+  description:
+  - 这株植物堪称
+  - 园艺学的巅峰。
+CLT_PLANT_SHEEP:
+  name: 绵羊植株
+  type:
+  - '&7&o植物'
+  description:
+  - 一株带有粗糙羊毛质感的植物。
+CLT_PLANT_SHULKER:
+  name: 潜影贝植株
+  type:
+  - '&7&o植物'
+  description:
+  - 一株经常飘离
+  - 地面的植物。
+CLT_PLANT_SKELETON:
+  name: 骷髅植株
+  type:
+  - '&7&o植物'
+  description:
+  - 一株摇摆时会咔咔作响的植物。
+CLT_PLANT_SLIME:
+  name: 史莱姆植株
+  type:
+  - '&7&o植物'
+  description:
+  - 它怎么这么黏？
+CLT_PLANT_SOUL:
+  name: 灵魂植株
+  type:
+  - '&7&o植物'
+  description:
+  - 一株在四下寂静时
+  - 能听到尖叫声的植物。
+CLT_PLANT_SPECTRUM:
+  name: 原初光谱植株
+  type:
+  - '&7&o植物'
+  description:
+  - 一株颜色会微微变化的植物。
+  - '&e原初植物不会产出物品，'
+  - '&e仅用于杂交育种。'
+CLT_PLANT_SPIDER:
+  name: 蜘蛛植株
+  type:
+  - '&7&o植物'
+  description:
+  - 杀了它，马上杀了它！
+CLT_PLANT_SQUID:
+  name: 鱿鱼植株
+  type:
+  - '&7&o植物'
+  description:
+  - 小心，只要碰一下这株植物
+  - 就有可能让墨汁
+  - 喷得到处都是。
+CLT_PLANT_STAINED:
+  name: 染色植株
+  type:
+  - '&7&o植物'
+  description:
+  - 这株植物能把光分解成
+  - 真正的光谱，投射到附近的物体上。
+CLT_PLANT_TERRA:
+  name: 泰拉植株
+  type:
+  - '&7&o植物'
+  description:
+  - 一株坚硬朴实、受压就会开裂的植物。
+CLT_PLANT_TURTLE:
+  name: 海龟植株
+  type:
+  - '&7&o植物'
+  description:
+  - 一颗被坚硬外壳包裹的种子。
+CLT_PLANT_VILLAGER:
+  name: 村民植株
+  type:
+  - '&7&o植物'
+  description:
+  - 没错，我们把村民的精华浓缩
+  - 进了一株植物。据说很疼。
+CLT_PLANT_VINE:
+  name: 藤蔓植株
+  type:
+  - '&7&o植物'
+  description:
+  - 一株会瞬间把自己
+  - 缠成一团的植物。
+CLT_PLANT_WATER:
+  name: 原初之水植株
+  type:
+  - '&7&o植物'
+  description:
+  - 一株滋养周围地区、
+  - 为其带来生命的植物。
+  - '&e原初植物不会产出物品，'
+  - '&e仅用于杂交育种。'
+CLT_PLANT_WAXY:
+  name: 涂蜡植株
+  type:
+  - '&7&o植物'
+  description:
+  - 这株植物的汁液会凝结成
+  - 完美的蜡烛形状的蜡。
+CLT_PLANT_WEALTH:
+  name: 原初财富植株
+  type:
+  - '&7&o植物'
+  description:
+  - 一株洋溢着奢华财富的植物。
+  - '&e原初植物不会产出物品，'
+  - '&e仅用于杂交育种。'
+CLT_PLANT_WITCH:
+  name: 女巫植株
+  type:
+  - '&7&o植物'
+  description:
+  - 一株听起来像是在
+  - 轻声念咒的植物。
+CLT_PLANT_WITHER:
+  name: 凋灵植株
+  type:
+  - '&7&o植物'
+  description:
+  - 一株致命的植物，必须
+  - 小心对待。
+CLT_PLANT_WITHER_ROSE:
+  name: 凋灵玫瑰植株
+  type:
+  - '&7&o植物'
+  description:
+  - 这株植物不知为何在周身
+  - 散发着有害的气息。
+CLT_PLANT_WITHER_SKELETON:
+  name: 凋灵骷髅植株
+  type:
+  - '&7&o植物'
+  description:
+  - 一株出了名难以捉摸又顽强的植物。
+CLT_PLANT_WOOLLY:
+  name: 羊毛植株
+  type:
+  - '&7&o植物'
+  description:
+  - 一株从根到花瓣都毛茸茸的植物！
+CLT_PLANT_ZOMBIE:
+  name: 僵尸植株
+  type:
+  - '&7&o植物'
+  description:
+  - 这株植物在滴着……某种东西……
+CLT_RADDISH:
+  name: 小萝卜
+  type:
+  - '&7&o农产品'
+  description:
+  - 一个个鲜脆的小阳光口袋。
+CLT_RADICCHIO:
+  name: 红菊苣
+  type:
+  - '&7&o农产品'
+  description:
+  - 写这些设定要花好长时间。
+  - 我都想"苣"绝了。
+CLT_RAMEN_BEEF:
+  name: 牛肉拉面
+  type:
+  - '&7&o食物'
+  description:
+  - 一个不那么健康的选择。
+  stats: &id004
+  - '&8⇨ &b生命提升 I &7(10:00)'
+CLT_RAMEN_BEEF_HEARTY:
+  name: 丰盛牛肉拉面
+  type:
+  - '&7&o食物'
+  description:
+  - 一个健康的选择。
+  stats: &id005
+  - '&8⇨ &7治疗：&b满'
+  - '&8⇨ &b生命提升 II &7(10:00)'
+  - '&8⇨ &b迅捷 I &7(10:00)'
+CLT_RAMEN_CHICKEN:
+  name: 鸡肉拉面
+  type:
+  - '&7&o食物'
+  description:
+  - 一个不那么顶饱的选择。
+  stats: *id004
+CLT_RAMEN_CHICKEN_HEARTY:
+  name: 丰盛鸡肉拉面
+  type:
+  - '&7&o食物'
+  description:
+  - 一个顶饱的选择。
+  stats: *id005
+CLT_RAMEN_SEAFOOD:
+  name: 海鲜拉面
+  type:
+  - '&7&o食物'
+  description:
+  - 一个不那么令人满足的选择。
+  stats: *id004
+CLT_RAMEN_SEAFOOD_HEARTY:
+  name: 丰盛海鲜拉面
+  type:
+  - '&7&o食物'
+  description:
+  - 一个令人满足的选择。
+  stats: *id005
+CLT_RAPESEED:
+  name: 油菜籽
+  type:
+  - '&7&o农产品'
+  description:
+  - 常用来榨油。
+CLT_RECIPE_UNLOCK:
+  name: 卡尔提维逊知识卷轴
+  type:
+  - '&7&o工具'
+  description:
+  - 右键点击来学习一个卡尔提维逊
+  - 育种配方。
+CLT_RHUBARB:
+  name: 大黄
+  type:
+  - '&7&o农产品'
+  description:
+  - 一定要把叶子去掉！
+CLT_RICE:
+  name: 大米
+  type:
+  - '&7&o农产品'
+  description:
+  - 记住，人生只有一次，"饭"事要及时！
+CLT_ROSEMARY:
+  name: 迷迭香
+  type:
+  - '&7&o农产品'
+  description:
+  - 总是错过时间。
+CLT_RUNNER_BEANS:
+  name: 红花菜豆
+  type:
+  - '&7&o农产品'
+  description:
+  - 总想着逃跑。
+CLT_RUTABAGA:
+  name: 芜菁甘蓝
+  type:
+  - '&7&o农产品'
+  description:
+  - 不叫它瑞典芜菁，真的好难受。
+CLT_SALMON_NIGIRI:
+  name: 鲑鱼握寿司
+  type:
+  - '&7&o食物'
+  description:
+  - 令人愉悦又含蓄的风味。
+  stats:
+  - '&8⇨ &7治疗：&b2颗心'
+  - '&8⇨ &b生命恢复 I &7(10:00)'
+CLT_SASSAFRAS:
+  name: 檫木
+  type:
+  - '&7&o农产品'
+  description:
+  - 可以吃的根汁汽水，认真的，去搜
+  - 一下，我现在经常买。
+CLT_SAUSAGE:
+  name: 香肠
+  type:
+  - '&7&o食物'
+  description:
+  - 培根的兄弟。
+  stats: &id007
+  - '&8⇨ &7治疗：&b1颗心'
+CLT_SEED_PACK:
+  name: 种子包
+  type:
+  - '&7&o工具'
+  description:
+  - 右键点击打开这个包。
+  stats:
+  - '&8⇨ &7设置为：&b无'
+CLT_SHAKSHUKA:
+  name: 北非蛋
+  type:
+  - '&7&o食物'
+  description:
+  - 一道暖心的菜，鸡蛋多到吃不完。
+  stats:
+  - '&8⇨ &7治疗：&b4颗心'
+  - '&8⇨ &b村庄英雄 I &7(10:00)'
+  - '&8⇨ &b幸运 I &7(10:00)'
+CLT_SHALLOT:
+  name: 红葱头
+  type:
+  - '&7&o农产品'
+  description:
+  - 我超爱一大堆红葱头。
+CLT_SHEPHERDS_PIE:
+  name: 牧羊人派
+  type:
+  - '&7&o食物'
+  description:
+  - 温暖、丰盛，简直太美妙了。
+  stats: *id006
+CLT_SHISO:
+  name: 紫苏
+  type:
+  - '&7&o农产品'
+  description:
+  - 薄荷，外加一份爱。
+CLT_SLICED_APPLE:
+  name: 切片的苹果
+  type:
+  - '&7&o副产品'
+CLT_SLICED_APRICOT:
+  name: 切片的杏
+  type:
+  - '&7&o副产品'
+CLT_SLICED_ARTICHOKE:
+  name: 切片的洋蓟
+  type:
+  - '&7&o副产品'
+CLT_SLICED_ASPARAGUS:
+  name: 切片的芦笋
+  type:
+  - '&7&o副产品'
+CLT_SLICED_AUBERGINE:
+  name: 切片的茄子
+  type:
+  - '&7&o副产品'
+CLT_SLICED_AVOCADO:
+  name: 切片的牛油果
+  type:
+  - '&7&o副产品'
+CLT_SLICED_BANANA:
+  name: 切片的香蕉
+  type:
+  - '&7&o副产品'
+CLT_SLICED_BASIL:
+  name: 切片的罗勒
+  type:
+  - '&7&o副产品'
+CLT_SLICED_BAY_LEAF:
+  name: 切片的月桂叶
+  type:
+  - '&7&o副产品'
+CLT_SLICED_BEEF:
+  name: 切片的牛肉
+  type:
+  - '&7&o副产品'
+CLT_SLICED_BEETROOT:
+  name: 切片的甜菜根
+  type:
+  - '&7&o副产品'
+CLT_SLICED_BELL_PEPPER:
+  name: 切片的甜椒
+  type:
+  - '&7&o副产品'
+CLT_SLICED_BLACK_BEANS:
+  name: 切片的黑豆
+  type:
+  - '&7&o副产品'
+CLT_SLICED_BREAD:
+  name: 切片的面包
+  type:
+  - '&7&o副产品'
+CLT_SLICED_BROCCOLI:
+  name: 切片的西兰花
+  type:
+  - '&7&o副产品'
+CLT_SLICED_BROWN_MUSHROOM:
+  name: 切片的棕色蘑菇
+  type:
+  - '&7&o副产品'
+CLT_SLICED_BRUSSELS_SPROUTS:
+  name: 切片的抱子甘蓝
+  type:
+  - '&7&o副产品'
+CLT_SLICED_CABBAGE:
+  name: 切片的卷心菜
+  type:
+  - '&7&o副产品'
+CLT_SLICED_CARROT:
+  name: 切片的胡萝卜
+  type:
+  - '&7&o副产品'
+CLT_SLICED_CAULIFLOWER:
+  name: 切片的花椰菜
+  type:
+  - '&7&o副产品'
+CLT_SLICED_CAYENNE_PEPPER:
+  name: 切片的卡宴辣椒
+  type:
+  - '&7&o副产品'
+CLT_SLICED_CELERIAC:
+  name: 切片的块根芹
+  type:
+  - '&7&o副产品'
+CLT_SLICED_CELERY:
+  name: 切片的芹菜
+  type:
+  - '&7&o副产品'
+CLT_SLICED_CHERRY:
+  name: 切片的樱桃
+  type:
+  - '&7&o副产品'
+CLT_SLICED_CHESTNUT:
+  name: 切片的栗子
+  type:
+  - '&7&o副产品'
+CLT_SLICED_CHICKEN:
+  name: 切片的鸡肉
+  type:
+  - '&7&o副产品'
+CLT_SLICED_CHICKPEAS:
+  name: 切片的鹰嘴豆
+  type:
+  - '&7&o副产品'
+CLT_SLICED_CHICORY:
+  name: 切片的菊苣
+  type:
+  - '&7&o副产品'
+CLT_SLICED_CHILLY_PEPPER:
+  name: 切片的辣椒
+  type:
+  - '&7&o副产品'
+CLT_SLICED_CHIVES:
+  name: 切片的细香葱
+  type:
+  - '&7&o副产品'
+CLT_SLICED_CHORUS_FRUIT:
+  name: 切片的紫颂果
+  type:
+  - '&7&o副产品'
+CLT_SLICED_CILANTRO:
+  name: 切片的香菜
+  type:
+  - '&7&o副产品'
+CLT_SLICED_CINNAMON:
+  name: 切片的肉桂
+  type:
+  - '&7&o副产品'
+CLT_SLICED_CLOVE:
+  name: 切片的丁香
+  type:
+  - '&7&o副产品'
+CLT_SLICED_COCOA_BEANS:
+  name: 切片的可可豆
+  type:
+  - '&7&o副产品'
+CLT_SLICED_COD:
+  name: 切片的鳕鱼
+  type:
+  - '&7&o副产品'
+CLT_SLICED_COURGETTE:
+  name: 切片的西葫芦
+  type:
+  - '&7&o副产品'
+CLT_SLICED_CUCUMBER:
+  name: 切片的黄瓜
+  type:
+  - '&7&o副产品'
+CLT_SLICED_CUMIN:
+  name: 切片的孜然
+  type:
+  - '&7&o副产品'
+CLT_SLICED_CURRY_LEAF:
+  name: 切片的咖喱叶
+  type:
+  - '&7&o副产品'
+CLT_SLICED_DILL:
+  name: 切片的莳萝
+  type:
+  - '&7&o副产品'
+CLT_SLICED_EGG:
+  name: 切片的鸡蛋
+  type:
+  - '&7&o副产品'
+CLT_SLICED_ENCHANTED_GOLDEN_APPLE:
+  name: 切片的附魔金苹果
+  type:
+  - '&7&o副产品'
+CLT_SLICED_FENNEL:
+  name: 切片的茴香
+  type:
+  - '&7&o副产品'
+CLT_SLICED_GARLIC:
+  name: 切片的大蒜
+  type:
+  - '&7&o副产品'
+CLT_SLICED_GINGER:
+  name: 切片的生姜
+  type:
+  - '&7&o副产品'
+CLT_SLICED_GLOW_BERRIES:
+  name: 切片的发光浆果
+  type:
+  - '&7&o副产品'
+CLT_SLICED_GOLDEN_APPLE:
+  name: 切片的金苹果
+  type:
+  - '&7&o副产品'
+CLT_SLICED_GOLDEN_CARROT:
+  name: 切片的金胡萝卜
+  type:
+  - '&7&o副产品'
+CLT_SLICED_GRAPE:
+  name: 切片的葡萄
+  type:
+  - '&7&o副产品'
+CLT_SLICED_GREEN_APPLE:
+  name: 切片的青苹果
+  type:
+  - '&7&o副产品'
+CLT_SLICED_GREEN_BEANS:
+  name: 切片的四季豆
+  type:
+  - '&7&o副产品'
+CLT_SLICED_GREEN_ONION:
+  name: 切片的小葱
+  type:
+  - '&7&o副产品'
+CLT_SLICED_HAZELNUT:
+  name: 切片的榛子
+  type:
+  - '&7&o副产品'
+CLT_SLICED_HORSERADISH:
+  name: 切片的辣根
+  type:
+  - '&7&o副产品'
+CLT_SLICED_JALAPENO:
+  name: 切片的墨西哥辣椒
+  type:
+  - '&7&o副产品'
+CLT_SLICED_JASMINE:
+  name: 切片的茉莉
+  type:
+  - '&7&o副产品'
+CLT_SLICED_JUNIPER_BERRY:
+  name: 切片的杜松子
+  type:
+  - '&7&o副产品'
+CLT_SLICED_KAFFIR_LIME:
+  name: 切片的泰国青柠叶
+  type:
+  - '&7&o副产品'
+CLT_SLICED_KALE:
+  name: 切片的羽衣甘蓝
+  type:
+  - '&7&o副产品'
+CLT_SLICED_KELP:
+  name: 切片的海带
+  type:
+  - '&7&o副产品'
+CLT_SLICED_KIWI:
+  name: 切片的猕猴桃
+  type:
+  - '&7&o副产品'
+CLT_SLICED_LAVENDER:
+  name: 切片的薰衣草
+  type:
+  - '&7&o副产品'
+CLT_SLICED_LEEK:
+  name: 切片的韭葱
+  type:
+  - '&7&o副产品'
+CLT_SLICED_LEMON:
+  name: 切片的柠檬
+  type:
+  - '&7&o副产品'
+CLT_SLICED_LETTUCE:
+  name: 切片的生菜
+  type:
+  - '&7&o副产品'
+CLT_SLICED_LICORICE:
+  name: 切片的甘草
+  type:
+  - '&7&o副产品'
+CLT_SLICED_LIME:
+  name: 切片的青柠
+  type:
+  - '&7&o副产品'
+CLT_SLICED_MACE:
+  name: 切片的肉豆蔻衣
+  type:
+  - '&7&o副产品'
+CLT_SLICED_MANGO:
+  name: 切片的芒果
+  type:
+  - '&7&o副产品'
+CLT_SLICED_MARJORAM:
+  name: 切片的马郁兰
+  type:
+  - '&7&o副产品'
+CLT_SLICED_MARROW:
+  name: 切片的笋瓜
+  type:
+  - '&7&o副产品'
+CLT_SLICED_MELON:
+  name: 切片的西瓜
+  type:
+  - '&7&o副产品'
+CLT_SLICED_MINT:
+  name: 切片的薄荷
+  type:
+  - '&7&o副产品'
+CLT_SLICED_MUSTARD_SEEDS:
+  name: 切片的芥菜籽
+  type:
+  - '&7&o副产品'
+CLT_SLICED_MUTTON:
+  name: 切片的羊肉
+  type:
+  - '&7&o副产品'
+CLT_SLICED_NETTLES:
+  name: 切片的荨麻
+  type:
+  - '&7&o副产品'
+CLT_SLICED_OKRA:
+  name: 切片的秋葵
+  type:
+  - '&7&o副产品'
+CLT_SLICED_ONION:
+  name: 切片的洋葱
+  type:
+  - '&7&o副产品'
+CLT_SLICED_ORANGE:
+  name: 切片的橙子
+  type:
+  - '&7&o副产品'
+CLT_SLICED_OREGANO:
+  name: 切片的牛至
+  type:
+  - '&7&o副产品'
+CLT_SLICED_PARSLEY:
+  name: 切片的欧芹
+  type:
+  - '&7&o副产品'
+CLT_SLICED_PARSNIP:
+  name: 切片的欧洲防风
+  type:
+  - '&7&o副产品'
+CLT_SLICED_PEA:
+  name: 切片的豌豆
+  type:
+  - '&7&o副产品'
+CLT_SLICED_PEACH:
+  name: 切片的桃子
+  type:
+  - '&7&o副产品'
+CLT_SLICED_PEANUT:
+  name: 切片的花生仁
+  type:
+  - '&7&o副产品'
+CLT_SLICED_PEAR:
+  name: 切片的梨
+  type:
+  - '&7&o副产品'
+CLT_SLICED_PECAN:
+  name: 切片的碧根果
+  type:
+  - '&7&o副产品'
+CLT_SLICED_PEPPER:
+  name: 切片的黑胡椒
+  type:
+  - '&7&o副产品'
+CLT_SLICED_PEPPERONI:
+  name: 切片的意式辣香肠
+  type:
+  - '&7&o副产品'
+CLT_SLICED_PINEAPPLE:
+  name: 切片的菠萝
+  type:
+  - '&7&o副产品'
+CLT_SLICED_PINTO_BEANS:
+  name: 切片的斑豆
+  type:
+  - '&7&o副产品'
+CLT_SLICED_PORKCHOP:
+  name: 切片的猪排
+  type:
+  - '&7&o副产品'
+CLT_SLICED_POTATO:
+  name: 切片的马铃薯
+  type:
+  - '&7&o副产品'
+CLT_SLICED_PUFFERFISH:
+  name: 切片的河豚
+  type:
+  - '&7&o副产品'
+CLT_SLICED_PUMPKIN:
+  name: 切片的南瓜
+  type:
+  - '&7&o副产品'
+CLT_SLICED_RABBIT:
+  name: 切片的兔肉
+  type:
+  - '&7&o副产品'
+CLT_SLICED_RADDISH:
+  name: 切片的小萝卜
+  type:
+  - '&7&o副产品'
+CLT_SLICED_RADICCHIO:
+  name: 切片的红菊苣
+  type:
+  - '&7&o副产品'
+CLT_SLICED_RAPESEED:
+  name: 切片的油菜籽
+  type:
+  - '&7&o副产品'
+CLT_SLICED_RED_MUSHROOM:
+  name: 切片的红色蘑菇
+  type:
+  - '&7&o副产品'
+CLT_SLICED_RHUBARB:
+  name: 切片的大黄
+  type:
+  - '&7&o副产品'
+CLT_SLICED_RICE:
+  name: 切片的大米
+  type:
+  - '&7&o副产品'
+CLT_SLICED_ROSEMARY:
+  name: 切片的迷迭香
+  type:
+  - '&7&o副产品'
+CLT_SLICED_ROTTEN_FLESH:
+  name: 切片的腐肉
+  type:
+  - '&7&o副产品'
+CLT_SLICED_RUNNER_BEANS:
+  name: 切片的红花菜豆
+  type:
+  - '&7&o副产品'
+CLT_SLICED_RUTABAGA:
+  name: 切片的芜菁甘蓝
+  type:
+  - '&7&o副产品'
+CLT_SLICED_SALMON:
+  name: 切片的鲑鱼
+  type:
+  - '&7&o副产品'
+CLT_SLICED_SASSAFRAS:
+  name: 切片的檫木
+  type:
+  - '&7&o副产品'
+CLT_SLICED_SHALLOT:
+  name: 切片的红葱头
+  type:
+  - '&7&o副产品'
+CLT_SLICED_SHISO:
+  name: 切片的紫苏
+  type:
+  - '&7&o副产品'
+CLT_SLICED_SOY_BEANS:
+  name: 切片的黄豆
+  type:
+  - '&7&o副产品'
+CLT_SLICED_SPINACH:
+  name: 切片的菠菜
+  type:
+  - '&7&o副产品'
+CLT_SLICED_STAR_ANISE:
+  name: 切片的八角
+  type:
+  - '&7&o副产品'
+CLT_SLICED_STRAWBERRY:
+  name: 切片的草莓
+  type:
+  - '&7&o副产品'
+CLT_SLICED_SUGAR:
+  name: 切片的糖
+  type:
+  - '&7&o副产品'
+CLT_SLICED_SWEETCORN:
+  name: 切片的甜玉米
+  type:
+  - '&7&o副产品'
+CLT_SLICED_SWEET_BERRIES:
+  name: 切片的甜浆果
+  type:
+  - '&7&o副产品'
+CLT_SLICED_SWEET_POTATO:
+  name: 切片的红薯
+  type:
+  - '&7&o副产品'
+CLT_SLICED_TARRAGON:
+  name: 切片的龙蒿
+  type:
+  - '&7&o副产品'
+CLT_SLICED_THYME:
+  name: 切片的百里香
+  type:
+  - '&7&o副产品'
+CLT_SLICED_TOMATO:
+  name: 切片的番茄
+  type:
+  - '&7&o副产品'
+CLT_SLICED_TURMERIC:
+  name: 切片的姜黄
+  type:
+  - '&7&o副产品'
+CLT_SLICED_TURNIP:
+  name: 切片的芜菁
+  type:
+  - '&7&o副产品'
+CLT_SLICED_VANILLA:
+  name: 切片的香草
+  type:
+  - '&7&o副产品'
+CLT_SLICED_WASABI:
+  name: 切片的山葵
+  type:
+  - '&7&o副产品'
+CLT_SLICED_WHEAT:
+  name: 切片的小麦
+  type:
+  - '&7&o副产品'
+CLT_SOFT_BOILED_EGG:
+  name: 溏心蛋
+  type:
+  - '&7&o食物'
+  description:
+  - 就是个水煮蛋，还有什么好说的。
+  stats:
+  - '&8⇨ &7治疗：&b1颗心'
+  - '&8⇨ &7有时能召唤一只鸡来帮你。'
+CLT_SOYLENT:
+  name: 索伦特
+  type:
+  - '&7&o食物'
+  description:
+  - 身体所需的一切！
+  stats:
+  - '&8⇨ &b不祥之兆 I &7(10:00)'
+  - '&8⇨ &b虚弱 IV &7(10:00)'
+CLT_SOY_BEANS:
+  name: 黄豆
+  type:
+  - '&7&o农产品'
+  description:
+  - 豆浆将至。
+CLT_SPAGHETTI:
+  name: 意大利细面
+  type:
+  - '&7&o食物'
+  description:
+  - 继续嗦就对了。
+  stats: *id007
+CLT_SPAGHETTI_AND_MEATBALLS:
+  name: 肉丸意大利细面
+  type:
+  - '&7&o食物'
+  description:
+  - 简单、经典又丰盛。
+  stats:
+  - '&8⇨ &7治疗：&b1颗心'
+  - '&8⇨ &b不祥之兆 I &7(10:00)'
+CLT_SPINACH:
+  name: 菠菜
+  type:
+  - '&7&o农产品'
+  description:
+  - 用爱焯软。
+CLT_STAR_ANISE:
+  name: 八角
+  type:
+  - '&7&o农产品'
+  description:
+  - 最棒也最独特的风味之一。
+CLT_STRAWBERRY:
+  name: 草莓
+  type:
+  - '&7&o农产品'
+  description:
+  - 加点奶油就行！
+CLT_STRAWBERRY_JELLY:
+  name: 草莓果冻
+  type:
+  - '&7&o农产品'
+  description: *id008
+CLT_SUGARED_SKULL:
+  name: 糖霜骷髅
+  type:
+  - '&7&o食物'
+  description:
+  - 这还算是食物吗……？
+  stats:
+  - '&8⇨ &b黑暗 III &7(10:00)'
+CLT_SWEETCORN:
+  name: 甜玉米
+  type:
+  - '&7&o农产品'
+  description:
+  - 也许是最棒的蔬菜。
+CLT_SWEET_BEEHIVE:
+  name: 甜蜜蜂巢
+  type:
+  - '&7&o食物'
+  description:
+  - 真不知道是什么让你想做这个！
+  stats:
+  - '&8⇨ &7召唤一些蜜蜂！'
+CLT_SWEET_POTATO:
+  name: 红薯
+  type:
+  - '&7&o农产品'
+  description:
+  - 好吃，"薯"一"薯"二！
+CLT_TAQUITO:
+  name: 墨西哥炸卷饼
+  type:
+  - '&7&o食物'
+  description:
+  - 吉姆会为之骄傲！
+  stats:
+  - '&8⇨ &7治疗：&b4颗心'
+  - '&8⇨ &7召唤吉尔来帮忙（是只铁傀儡，放轻松）。'
+CLT_TARRAGON:
+  name: 龙蒿
+  type:
+  - '&7&o农产品'
+  description:
+  - 我真的什么都往上放。
+  - 剧透：我不是个好厨师。
+CLT_TATER_TOTS:
+  name: 土豆球
+  type:
+  - '&7&o食物'
+  description:
+  - 一口一个的小土豆。
+  stats:
+  - '&8⇨ &7治疗：&b0.5颗心'
+  - '&8⇨ &b迅捷 II &7(10:00)'
+CLT_THYME:
+  name: 百里香
+  type:
+  - '&7&o农产品'
+  description:
+  - 常常想念迷迭香。
+CLT_TOMATO:
+  name: 番茄
+  type:
+  - '&7&o农产品'
+  description:
+  - 刚从藤上摘下来的……呃……灌木上？
+CLT_TORTILLAS:
+  name: 玉米饼
+  type:
+  - '&7&o农产品'
+  description:
+  - 玉米粉的美味
+CLT_TREE_APRICOT:
+  name: 杏树
+  type:
+  - '&7&o树苗'
+  description:
+  - 里面有一颗绝望之核。
+  stats: &id009
+  - '&8⇨ &7设计者：&b比怀特'
+CLT_TREE_BANANA:
+  name: 香蕉树
+  type:
+  - '&7&o树苗'
+  description:
+  - 一棵长出手指的树，好吓人！
+  stats:
+  - '&8⇨ &7设计者：&b塞菲拉特'
+CLT_TREE_CHERRY:
+  name: 樱桃树
+  type:
+  - '&7&o树苗'
+  description:
+  - 打个结吧！
+  stats:
+  - '&8⇨ &7设计者：&b里森方德迪科伊'
+CLT_TREE_CHESTNUT:
+  name: 栗子树
+  type:
+  - '&7&o树苗'
+  description:
+  - 一棵显然是为攀爬而设计的树。
+  stats: &id010
+  - '&8⇨ &7设计者：&b阿比特奥迪什'
+CLT_TREE_GREEN_APPLE:
+  name: 青苹果树
+  type:
+  - '&7&o树苗'
+  description:
+  - 结出又大又脆的青苹果。
+  stats: *id009
+CLT_TREE_HAZELNUT:
+  name: 榛子树
+  type:
+  - '&7&o树苗'
+  description:
+  - 摇这棵树是童年的消遣。
+  stats: *id010
+CLT_TREE_KIWI:
+  name: 猕猴桃树
+  type:
+  - '&7&o树苗'
+  description:
+  - 一棵新西兰的树？我说得对吗？
+  stats: *id010
+CLT_TREE_LEMON:
+  name: 柠檬树
+  type:
+  - '&7&o树苗'
+  description:
+  - 光是看着这棵树就觉得酸。
+  stats: &id011
+  - '&8⇨ &7设计者：&b杰夫'
+CLT_TREE_LIME:
+  name: 青柠树
+  type:
+  - '&7&o树苗'
+  description:
+  - 你知道吗？青柠其实就是憋着气的柠檬。
+  stats: *id010
+CLT_TREE_MANGO:
+  name: 芒果树
+  type:
+  - '&7&o树苗'
+  description:
+  - 最熟的时候最好吃。
+  stats: *id009
+CLT_TREE_ORANGE:
+  name: 橙子树
+  type:
+  - '&7&o树苗'
+  description:
+  - 一颗颗小太阳。
+  stats: *id011
+CLT_TREE_PEACH:
+  name: 桃树
+  type:
+  - '&7&o树苗'
+  description:
+  - 詹姆斯好像在找这个？
+  stats: *id010
+CLT_TREE_PEAR:
+  name: 梨树
+  type:
+  - '&7&o树苗'
+  description:
+  - 梨梨成双，对对配对，配成一对。
+  stats: *id009
+CLT_TREE_PECAN:
+  name: 碧根果树
+  type:
+  - '&7&o树苗'
+  description:
+  - 我们能种这棵树吗？"碧"须能！
+  stats: *id009
+CLT_TREE_PINEAPPLE:
+  name: 菠萝树
+  type:
+  - '&7&o树苗'
+  description:
+  - 我的披萨在哪里？
+  stats: *id010
+CLT_TURMERIC:
+  name: 姜黄
+  type:
+  - '&7&o农产品'
+  description:
+  - 浓郁的麝香气息，能让许多菜肴更饱满。
+CLT_TURNIP:
+  name: 芜菁
+  type:
+  - '&7&o农产品'
+  description:
+  - 能解决人生的所有问题。
+CLT_VANILLA:
+  name: 香草
+  type:
+  - '&7&o农产品'
+  description:
+  - 使用说明：直接蘸进拿铁
+CLT_WASABI:
+  name: 山葵
+  type:
+  - '&7&o农产品'
+  description:
+  - 救命……山……葵……
+CLT_WITHER_ROSE_SALAD:
+  name: 凋灵玫瑰沙拉
+  type:
+  - '&7&o食物'
+  description:
+  - 力量充沛，但副作用很猛。
+  stats:
+  - '&8⇨ &7治疗：&b满'
+  - '&8⇨ &b凋零 II &7(10:00)'
+  - '&8⇨ &b生命提升 XX &7(10:00)'

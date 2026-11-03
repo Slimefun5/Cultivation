@@ -1,0 +1,87 @@
+cultivation:
+  bush_harvest:
+    name: 灌木采集
+    lore:
+    - 此物品可以从
+    - 卡尔提维逊灌木上采集
+  tree_harvest:
+    name: 树木采集
+    lore:
+    - 此物品可以从
+    - 卡尔提维逊树木上采集
+  trading_farmer:
+    name: 村民交易
+    lore:
+    - 此物品可以从
+    - 农民村民处购买。
+  trading_fletcher:
+    name: 村民交易
+    lore:
+    - 此物品可以从
+    - 制箭师村民处购买。
+  mob:
+    name: 生物掉落
+    lore:
+    - 此物品有几率从
+    - 以下生物身上掉落。
+  plant_breeding:
+    name: 植物育种
+    lore:
+    - 这颗种子通过育种获得。
+    - 要育种植物，
+    - 放下两株植物，中间隔
+    - 一个空气方块。
+    - ''
+    - 育种图鉴可以用来
+    - 记录你的发现。
+    - ''
+    - 提示：黑色粒子表示
+    - 这两株植物无法杂交。
+  vanilla_block_drop:
+    name: 世界掉落
+    lore:
+    - 在世界中破坏方块时掉落。
+  bucketing:
+    name: 世界掉落
+    lore:
+    - 在世界中使用桶时获得。
+  chopped:
+    name: 切碎
+    lore:
+    - 用刀切碎即可！
+  mashed:
+    name: 捣碎
+    lore:
+    - 捣捣捣
+  blended:
+    name: 搅打
+    lore:
+    - 把物品放进搅拌机制成。
+  sliced:
+    name: 切片
+    lore:
+    - 薄如蝉翼
+  ground:
+    name: 研磨
+    lore:
+    - 研磨得细细的
+  boiled:
+    name: 水煮
+    lore:
+    - 烫烫烫！
+  fried:
+    name: 油炸
+    lore:
+    - 酥脆完美。
+  grilled:
+    name: 烤制
+    lore:
+    - 鲜嫩多汁。
+  finishing:
+    name: 装盘
+    lore:
+    - 使用厨房的装盘台面来制作此物品。
+  baking:
+    name: 烘焙
+    lore:
+    - 使用厨房的烤箱台面来制作此物品。

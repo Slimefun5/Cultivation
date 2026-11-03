@@ -1,0 +1,87 @@
+cultivation:
+  bush_harvest:
+    name: Récolte sur buisson
+    lore:
+    - Cet objet peut être récolté sur un
+    - buisson Cultivation
+  tree_harvest:
+    name: Récolte sur arbre
+    lore:
+    - Cet objet peut être récolté sur un
+    - arbre Cultivation
+  trading_farmer:
+    name: Commerce villageois
+    lore:
+    - Cet objet peut être acheté auprès d'un
+    - villageois fermier.
+  trading_fletcher:
+    name: Commerce villageois
+    lore:
+    - Cet objet peut être acheté auprès d'un
+    - villageois archer.
+  mob:
+    name: Butin de créature
+    lore:
+    - Cet objet peut être lâché par
+    - la ou les créatures suivantes.
+  plant_breeding:
+    name: Croisement de plantes
+    lore:
+    - Cette graine s'obtient par croisement.
+    - Pour croiser des plantes, placez
+    - deux plantes séparées par un bloc
+    - d'air.
+    - ''
+    - Le dictionnaire de croisement permet
+    - de suivre vos découvertes.
+    - ''
+    - 'Astuce : des particules noires signifient'
+    - que les deux plantes NE PEUVENT PAS se croiser.
+  vanilla_block_drop:
+    name: Butin du monde
+    lore:
+    - Tombe des blocs cassés dans le monde.
+  bucketing:
+    name: Butin du monde
+    lore:
+    - S'obtient dans le monde avec un seau.
+  chopped:
+    name: Haché
+    lore:
+    - Il suffit de hacher au couteau !
+  mashed:
+    name: Écrasé
+    lore:
+    - On écrase, on écrase, on écrase
+  blended:
+    name: Mixé
+    lore:
+    - S'obtient en mettant un objet dans le mixeur.
+  sliced:
+    name: Tranché
+    lore:
+    - Si fin et délicat
+  ground:
+    name: Moulu
+    lore:
+    - Finement moulu
+  boiled:
+    name: Bouilli
+    lore:
+    - Ça brûle, ça brûle !
+  fried:
+    name: Frit
+    lore:
+    - Croustillant à la perfection.
+  grilled:
+    name: Grillé
+    lore:
+    - Juteux et tendre.
+  finishing:
+    name: Finition
+    lore:
+    - Utilisez le plan de travail de finition de la cuisine pour fabriquer cet objet.
+  baking:
+    name: Cuisson au four
+    lore:
+    - Utilisez le plan de travail four de la cuisine pour fabriquer cet objet.

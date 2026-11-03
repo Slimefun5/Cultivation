@@ -1,0 +1,65 @@
+lore:
+  seed-pack-set-to: 设置为
+  knowledge-script-unlocks: 解锁
+  drop-level: 掉落等级
+  growth-speed: 生长速度
+  breed-strength: 育种强度
+command:
+  no-permission: 你没有权限执行此操作。
+  invalid-subcommand: 请提供有效的子命令。
+  players-only: 此命令只能由玩家执行。
+  hold-seed-pack: 你必须手持种子包才能执行此操作。
+  pack-empty: 这个包是空的！
+  pack-contents: 内容物
+  pack-entry: 等级%level%，速度%speed%，强度%strength%
+kitchen:
+  recipe-disabled: 此配方已被禁用。
+  no-recipe: 没有匹配的配方。
+  not-enough-power: 电力不足。
+  input-empty: 请在输入槽中放入一个物品。
+  cooked: 真好吃！
+food:
+  eaten: 太棒了！你已经吃饱了。
+  not-hungry: 你还不饿！每半天（10分钟）只能吃一次。
+  palate-cleansed: 你感觉味蕾被清洗了一遍。
+  ouch: 哎哟！
+knowledge-script:
+  learned: 你学会了如何培育%plant%。
+seed-pack:
+  title: 种子包
+  unstack-first: 你必须先把堆叠的种子包分开。
+  not-a-seed: 该物品必须是卡尔提维逊的植物种子。
+  empty-before-change: 更换植物前，你必须先清空种子包。
+  no-plant-set: 你还没有设置植物。
+  none-stored: 你没有符合这些等级的这种种子。
+  set-here: 在此设置种子
+  retrieve-here: 在此取出
+  no-seed-set: 未设置种子
+  no-seed-set-lore:
+  - 手持种子时点击左侧的
+  - 图标来设置种子包。
+  empty-set: 无匹配种子
+  empty-set-lore:
+  - 你没有符合
+  - 这些等级的种子。
+  stored-seed: 存储的种子类型
+  take-seed: 从种子包中取出一颗种子
+  level: 等级
+  speed: 速度
+  strength: 强度
+  left-click: 左键点击
+  right-click: 右键点击
+  increase: 增加%stat%
+  decrease: 减少%stat%
+  current: 当前
+codex:
+  title: 植物图鉴
+  child: 子代植物
+  mother: 母本植物
+  father: 父本植物
+  growth-rate: 生长速率
+  not-discovered: 未发现
+  not-discovered-lore:
+  - 你还没有发现如何
+  - 培育这种植物！
+  discovery: 发现

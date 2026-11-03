@@ -1,0 +1,65 @@
+lore:
+  seed-pack-set-to: Défini sur
+  knowledge-script-unlocks: Débloque
+  drop-level: Niveau de récolte
+  growth-speed: Vitesse de croissance
+  breed-strength: Force de croisement
+command:
+  no-permission: Vous n'avez pas la permission de faire ça.
+  invalid-subcommand: Veuillez indiquer une sous-commande valide.
+  players-only: Cette commande ne peut être exécutée que par un joueur.
+  hold-seed-pack: Vous devez tenir un sachet de graines pour cela.
+  pack-empty: Ce sachet est vide !
+  pack-contents: Contenu
+  pack-entry: Niveau %level%, vitesse %speed%, force %strength%
+kitchen:
+  recipe-disabled: Cette recette est désactivée.
+  no-recipe: Aucune recette correspondante.
+  not-enough-power: Pas assez d'énergie.
+  input-empty: Placez un objet dans l'emplacement d'entrée.
+  cooked: Délicieux !
+food:
+  eaten: Parfait ! Vous êtes rassasié.
+  not-hungry: Vous n'avez pas encore faim ! Vous ne pouvez manger qu'une fois par demi-journée (10 minutes).
+  palate-cleansed: Vous sentez votre palais se nettoyer.
+  ouch: Aïe !
+knowledge-script:
+  learned: Vous avez appris à croiser %plant%.
+seed-pack:
+  title: Sachet de graines
+  unstack-first: Vous devez d'abord dépiler vos sachets de graines.
+  not-a-seed: L'objet doit être une graine de plante Cultivation.
+  empty-before-change: Vous devez vider un sachet avant de changer sa plante.
+  no-plant-set: Vous n'avez pas encore défini de plante.
+  none-stored: Vous n'avez aucune graine de ce type à ces niveaux.
+  set-here: Définir la graine ici
+  retrieve-here: Récupérer ici
+  no-seed-set: Aucune graine définie
+  no-seed-set-lore:
+  - Cliquez sur l'icône de gauche en
+  - tenant une graine pour définir le sachet.
+  empty-set: Sélection vide
+  empty-set-lore:
+  - Vous n'avez aucune graine correspondant
+  - à ces niveaux.
+  stored-seed: Type de graine stockée
+  take-seed: Prendre une graine du sachet
+  level: Niveau
+  speed: Vitesse
+  strength: Force
+  left-click: Clic gauche
+  right-click: Clic droit
+  increase: Augmenter %stat%
+  decrease: Diminuer %stat%
+  current: Actuel
+codex:
+  title: Codex des plantes
+  child: Plante enfant
+  mother: Plante mère
+  father: Plante père
+  growth-rate: Taux de croissance
+  not-discovered: Non découvert
+  not-discovered-lore:
+  - Vous n'avez pas encore découvert comment
+  - croiser cette plante !
+  discovery: Découverte

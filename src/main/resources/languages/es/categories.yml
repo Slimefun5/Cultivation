@@ -1,0 +1,13 @@
+cultivation:
+  main: Cultivation
+  hidden: Oculto
+  crafting: Objetos de fabricación
+  tools: Herramientas
+  machines: Máquinas
+  plants: Plantas
+  bushes: Arbustos
+  trees: Árboles
+  produce: Cosechas
+  by-products: Subproductos
+  foods: Comidas
+  plant_codex: Códice de plantas
