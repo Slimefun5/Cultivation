@@ -1,0 +1,6674 @@
+CLT_APRICOT:
+  name: Kayısı
+  type:
+  - '&7&oMahsul'
+  description:
+  - Bunlardan Poké Top yapabilirsin.
+  - '...'
+  - Ne demek o başka bir şeymiş...?
+CLT_ARTICHOKE:
+  name: Enginar
+  type:
+  - '&7&oMahsul'
+  description:
+  - Kalbini söküp çıkar!
+CLT_ASPARAGUS:
+  name: Kuşkonmaz
+  type:
+  - '&7&oMahsul'
+  description:
+  - Sonra tuvalete giderken dikkatli ol.
+CLT_AUBERGINE:
+  name: Patlıcan
+  type:
+  - '&7&oMahsul'
+  description:
+  - Parlak mor ve %100 patlamaz.
+  - Yine de adı patlıcan, garip değil mi?
+CLT_AVOCADO:
+  name: Avokado
+  type:
+  - '&7&oMahsul'
+  description:
+  - Hipsterların rüyası.
+CLT_BACON_SANDWICH:
+  name: Pastırmalı Sandviç
+  type:
+  - '&7&oYiyecek'
+  description:
+  - Basit bir klasik!
+  stats:
+  - '&8⇨ &7İyileşme: &b2 Kalp'
+  - '&8⇨ &bKuvvet I &7(10:00)'
+  - '&8⇨ &bHız I &7(10:00)'
+CLT_BAGEL:
+  name: Halka Ekmek
+  type:
+  - '&7&oYiyecek'
+  description:
+  - Kızarmış mı? Yoksa...
+  stats:
+  - '&8⇨ &7İyileşme: &b2.5 Kalp'
+CLT_BAGEL_BITE:
+  name: Mini Halka Ekmek
+  type:
+  - '&7&oYiyecek'
+  description:
+  - Her an pizza ye!
+  stats:
+  - '&8⇨ &7Her lokmada ağzını yakar!'
+CLT_BAGEL_CREAM_CHEESE:
+  name: Krem Peynirli Halka Ekmek
+  type:
+  - '&7&oYiyecek'
+  description:
+  - O kadar güzel ki muhtemelen bir tane daha isteyeceksin.
+  stats:
+  - '&8⇨ &7İyileşme: &b5 Kalp'
+  - '&8⇨ &bSağlık Arttırma I &7(10:00)'
+CLT_BANANA:
+  name: Muz
+  type:
+  - '&7&oMahsul'
+  description:
+  - Kabuğuna sığmayan bir lezzet!
+CLT_BASIL:
+  name: Fesleğen
+  type:
+  - '&7&oMahsul'
+  description:
+  - Ağızda hafif biberimsi bir tat bırakan tatlı bir yaprak.
+CLT_BAY_LEAF:
+  name: Defne Yaprağı
+  type:
+  - '&7&oMahsul'
+  description:
+  - Pek çok kullanım alanı olan güçlü bir aroma.
+CLT_BELL_PEPPER:
+  name: Dolmalık Biber
+  type:
+  - '&7&oMahsul'
+  description:
+  - İçi boş ama sözü dolu.
+CLT_BISCUIT:
+  name: Bisküvi
+  type:
+  - '&7&oYiyecek'
+  description:
+  - Kocaman lezzetli küçük bir atıştırmalık.
+  stats: &id002
+  - '&8⇨ &7Seni havaya fırlatır'
+CLT_BISCUIT_BASE:
+  name: Bisküvi Tabanı
+  type:
+  - '&7&oMahsul'
+  description:
+  - Artık dümdüz oldu diye
+  - çiğ yiyebileceğin anlamına gelmez.
+CLT_BISCUIT_DOUGH:
+  name: Bisküvi Hamuru
+  type:
+  - '&7&oMahsul'
+  description:
+  - 'Kendine hatırlat: "Bunu çiğ yeme."'
+CLT_BLACK_BEANS:
+  name: Siyah Fasulye
+  type:
+  - '&7&oMahsul'
+  description:
+  - Lezzetli bir vejetaryen protein.
+CLT_BLENDED_APPLE:
+  name: Blenderdan Geçirilmiş Elma
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_APRICOT:
+  name: Blenderdan Geçirilmiş Kayısı
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_ARTICHOKE:
+  name: Blenderdan Geçirilmiş Enginar
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_ASPARAGUS:
+  name: Blenderdan Geçirilmiş Kuşkonmaz
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_AUBERGINE:
+  name: Blenderdan Geçirilmiş Patlıcan
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_AVOCADO:
+  name: Blenderdan Geçirilmiş Avokado
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_BANANA:
+  name: Blenderdan Geçirilmiş Muz
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_BASIL:
+  name: Blenderdan Geçirilmiş Fesleğen
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_BAY_LEAF:
+  name: Blenderdan Geçirilmiş Defne Yaprağı
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_BEEF:
+  name: Blenderdan Geçirilmiş Sığır Eti
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_BEETROOT:
+  name: Blenderdan Geçirilmiş Pancar
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_BELL_PEPPER:
+  name: Blenderdan Geçirilmiş Dolmalık Biber
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_BLACK_BEANS:
+  name: Blenderdan Geçirilmiş Siyah Fasulye
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_BREAD:
+  name: Blenderdan Geçirilmiş Ekmek
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_BROCCOLI:
+  name: Blenderdan Geçirilmiş Brokoli
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_BROWN_MUSHROOM:
+  name: Blenderdan Geçirilmiş Kahverengi Mantar
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_BRUSSELS_SPROUTS:
+  name: Blenderdan Geçirilmiş Brüksel Lahanası
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_CABBAGE:
+  name: Blenderdan Geçirilmiş Lahana
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_CARROT:
+  name: Blenderdan Geçirilmiş Havuç
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_CAULIFLOWER:
+  name: Blenderdan Geçirilmiş Karnabahar
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_CAYENNE_PEPPER:
+  name: Blenderdan Geçirilmiş Kayen Biberi
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_CELERIAC:
+  name: Blenderdan Geçirilmiş Kereviz
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_CELERY:
+  name: Blenderdan Geçirilmiş Sap Kereviz
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_CHERRY:
+  name: Blenderdan Geçirilmiş Kiraz
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_CHESTNUT:
+  name: Blenderdan Geçirilmiş Kestane
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_CHICKEN:
+  name: Blenderdan Geçirilmiş Tavuk
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_CHICKPEAS:
+  name: Blenderdan Geçirilmiş Nohut
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_CHICORY:
+  name: Blenderdan Geçirilmiş Hindiba
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_CHILLY_PEPPER:
+  name: Blenderdan Geçirilmiş Acı Biber
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_CHIVES:
+  name: Blenderdan Geçirilmiş Frenk Soğanı
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_CHORUS_FRUIT:
+  name: Blenderdan Geçirilmiş Nakarat Meyvesi
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_CILANTRO:
+  name: Blenderdan Geçirilmiş Kişniş
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_CINNAMON:
+  name: Blenderdan Geçirilmiş Tarçın
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_CLOVE:
+  name: Blenderdan Geçirilmiş Karanfil
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_COCOA_BEANS:
+  name: Blenderdan Geçirilmiş Kakao Çekirdekleri
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_COD:
+  name: Blenderdan Geçirilmiş Morina
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_COURGETTE:
+  name: Blenderdan Geçirilmiş Kabak
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_CUCUMBER:
+  name: Blenderdan Geçirilmiş Salatalık
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_CUMIN:
+  name: Blenderdan Geçirilmiş Kimyon
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_CURRY_LEAF:
+  name: Blenderdan Geçirilmiş Köri Yaprağı
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_DILL:
+  name: Blenderdan Geçirilmiş Dereotu
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_EGG:
+  name: Blenderdan Geçirilmiş Yumurta
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_ENCHANTED_GOLDEN_APPLE:
+  name: Blenderdan Geçirilmiş Büyülü Altın Elma
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_FENNEL:
+  name: Blenderdan Geçirilmiş Rezene
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_GARLIC:
+  name: Blenderdan Geçirilmiş Sarımsak
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_GINGER:
+  name: Blenderdan Geçirilmiş Zencefil
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_GLOW_BERRIES:
+  name: Blenderdan Geçirilmiş Parlayan Meyveler
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_GOLDEN_APPLE:
+  name: Blenderdan Geçirilmiş Altın Elma
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_GOLDEN_CARROT:
+  name: Blenderdan Geçirilmiş Altın Havuç
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_GRAPE:
+  name: Blenderdan Geçirilmiş Üzüm
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_GREEN_APPLE:
+  name: Blenderdan Geçirilmiş Yeşil Elma
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_GREEN_BEANS:
+  name: Blenderdan Geçirilmiş Taze Fasulye
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_GREEN_ONION:
+  name: Blenderdan Geçirilmiş Taze Soğan
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_HAZELNUT:
+  name: Blenderdan Geçirilmiş Fındık
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_HORSERADISH:
+  name: Blenderdan Geçirilmiş Yaban Turpu
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_JALAPENO:
+  name: Blenderdan Geçirilmiş Jalapeno Biberi
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_JASMINE:
+  name: Blenderdan Geçirilmiş Yasemin
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_JUNIPER_BERRY:
+  name: Blenderdan Geçirilmiş Ardıç Meyvesi
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_KAFFIR_LIME:
+  name: Blenderdan Geçirilmiş Kafir Limonu Yaprağı
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_KALE:
+  name: Blenderdan Geçirilmiş Kara Lahana
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_KELP:
+  name: Blenderdan Geçirilmiş Su Yosunu
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_KIWI:
+  name: Blenderdan Geçirilmiş Kivi
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_LAVENDER:
+  name: Blenderdan Geçirilmiş Lavanta
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_LEEK:
+  name: Blenderdan Geçirilmiş Pırasa
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_LEMON:
+  name: Blenderdan Geçirilmiş Limon
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_LETTUCE:
+  name: Blenderdan Geçirilmiş Marul
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_LICORICE:
+  name: Blenderdan Geçirilmiş Meyan Kökü
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_LIME:
+  name: Blenderdan Geçirilmiş Misket Limonu
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_MACE:
+  name: Blenderdan Geçirilmiş Muskat Çiçeği
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_MANGO:
+  name: Blenderdan Geçirilmiş Mango
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_MARJORAM:
+  name: Blenderdan Geçirilmiş Mercanköşk
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_MARROW:
+  name: Blenderdan Geçirilmiş Sakız Kabağı
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_MELON:
+  name: Blenderdan Geçirilmiş Karpuz
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_MINT:
+  name: Blenderdan Geçirilmiş Nane
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_MUSTARD_SEEDS:
+  name: Blenderdan Geçirilmiş Tane Hardal
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_MUTTON:
+  name: Blenderdan Geçirilmiş Koyun Eti
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_NETTLES:
+  name: Blenderdan Geçirilmiş Isırgan Otu
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_OKRA:
+  name: Blenderdan Geçirilmiş Bamya
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_ONION:
+  name: Blenderdan Geçirilmiş Soğan
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_ORANGE:
+  name: Blenderdan Geçirilmiş Portakal
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_OREGANO:
+  name: Blenderdan Geçirilmiş Dağ Kekiği
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_PARSLEY:
+  name: Blenderdan Geçirilmiş Maydanoz
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_PARSNIP:
+  name: Blenderdan Geçirilmiş Yaban Havucu
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_PEA:
+  name: Blenderdan Geçirilmiş Bezelye
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_PEACH:
+  name: Blenderdan Geçirilmiş Şeftali
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_PEANUT:
+  name: Blenderdan Geçirilmiş Yer Fıstığı
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_PEAR:
+  name: Blenderdan Geçirilmiş Armut
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_PECAN:
+  name: Blenderdan Geçirilmiş Pekan Cevizi
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_PEPPER:
+  name: Blenderdan Geçirilmiş Karabiber
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_PEPPERONI:
+  name: Blenderdan Geçirilmiş Pepperoni
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_PINEAPPLE:
+  name: Blenderdan Geçirilmiş Ananas
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_PINTO_BEANS:
+  name: Blenderdan Geçirilmiş Barbunya
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_PORKCHOP:
+  name: Blenderdan Geçirilmiş Domuz Pirzolası
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_POTATO:
+  name: Blenderdan Geçirilmiş Patates
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_PUFFERFISH:
+  name: Blenderdan Geçirilmiş Kirpi Balığı
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_PUMPKIN:
+  name: Blenderdan Geçirilmiş Bal Kabağı
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_RABBIT:
+  name: Blenderdan Geçirilmiş Tavşan
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_RADDISH:
+  name: Blenderdan Geçirilmiş Turp
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_RADICCHIO:
+  name: Blenderdan Geçirilmiş Kırmızı Hindiba
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_RAPESEED:
+  name: Blenderdan Geçirilmiş Kolza
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_RED_MUSHROOM:
+  name: Blenderdan Geçirilmiş Kırmızı Mantar
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_RHUBARB:
+  name: Blenderdan Geçirilmiş Ravent
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_RICE:
+  name: Blenderdan Geçirilmiş Pirinç
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_ROSEMARY:
+  name: Blenderdan Geçirilmiş Biberiye
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_ROTTEN_FLESH:
+  name: Blenderdan Geçirilmiş Çürük Et
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_RUNNER_BEANS:
+  name: Blenderdan Geçirilmiş Sırık Fasulye
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_RUTABAGA:
+  name: Blenderdan Geçirilmiş İsveç Şalgamı
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_SALMON:
+  name: Blenderdan Geçirilmiş Somon
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_SASSAFRAS:
+  name: Blenderdan Geçirilmiş Sassafras
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_SHALLOT:
+  name: Blenderdan Geçirilmiş Arpacık Soğan
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_SHISO:
+  name: Blenderdan Geçirilmiş Shiso
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_SOY_BEANS:
+  name: Blenderdan Geçirilmiş Soya Fasulyesi
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_SPINACH:
+  name: Blenderdan Geçirilmiş Ispanak
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_STAR_ANISE:
+  name: Blenderdan Geçirilmiş Yıldız Anason
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_STRAWBERRY:
+  name: Blenderdan Geçirilmiş Çilek
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_SUGAR:
+  name: Blenderdan Geçirilmiş Şeker
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_SWEETCORN:
+  name: Blenderdan Geçirilmiş Tatlı Mısır
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_SWEET_BERRIES:
+  name: Blenderdan Geçirilmiş Tatlı Orman Meyveleri
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_SWEET_POTATO:
+  name: Blenderdan Geçirilmiş Tatlı Patates
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_TARRAGON:
+  name: Blenderdan Geçirilmiş Tarhun
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_THYME:
+  name: Blenderdan Geçirilmiş Kekik
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_TOMATO:
+  name: Blenderdan Geçirilmiş Domates
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_TURMERIC:
+  name: Blenderdan Geçirilmiş Zerdeçal
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_TURNIP:
+  name: Blenderdan Geçirilmiş Şalgam
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_VANILLA:
+  name: Blenderdan Geçirilmiş Vanilya
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_WASABI:
+  name: Blenderdan Geçirilmiş Vasabi
+  type:
+  - '&7&oYan Ürün'
+CLT_BLENDED_WHEAT:
+  name: Blenderdan Geçirilmiş Buğday
+  type:
+  - '&7&oYan Ürün'
+CLT_BLUE_CANDY:
+  name: Mavi Şekerleme
+  type:
+  - '&7&oYiyecek'
+  description:
+  - Nefis tatlı bir şekerleme.
+  stats:
+  - '&8⇨ &7Bir Huzurveren çağırır'
+CLT_BOILED_APPLE:
+  name: Haşlanmış Elma
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_APRICOT:
+  name: Haşlanmış Kayısı
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_ARTICHOKE:
+  name: Haşlanmış Enginar
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_ASPARAGUS:
+  name: Haşlanmış Kuşkonmaz
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_AUBERGINE:
+  name: Haşlanmış Patlıcan
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_AVOCADO:
+  name: Haşlanmış Avokado
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_BANANA:
+  name: Haşlanmış Muz
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_BASIL:
+  name: Haşlanmış Fesleğen
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_BAY_LEAF:
+  name: Haşlanmış Defne Yaprağı
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_BEEF:
+  name: Haşlanmış Sığır Eti
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_BEETROOT:
+  name: Haşlanmış Pancar
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_BELL_PEPPER:
+  name: Haşlanmış Dolmalık Biber
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_BLACK_BEANS:
+  name: Haşlanmış Siyah Fasulye
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_BREAD:
+  name: Haşlanmış Ekmek
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_BROCCOLI:
+  name: Haşlanmış Brokoli
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_BROWN_MUSHROOM:
+  name: Haşlanmış Kahverengi Mantar
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_BRUSSELS_SPROUTS:
+  name: Haşlanmış Brüksel Lahanası
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_CABBAGE:
+  name: Haşlanmış Lahana
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_CARROT:
+  name: Haşlanmış Havuç
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_CAULIFLOWER:
+  name: Haşlanmış Karnabahar
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_CAYENNE_PEPPER:
+  name: Haşlanmış Kayen Biberi
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_CELERIAC:
+  name: Haşlanmış Kereviz
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_CELERY:
+  name: Haşlanmış Sap Kereviz
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_CHERRY:
+  name: Haşlanmış Kiraz
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_CHESTNUT:
+  name: Haşlanmış Kestane
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_CHICKEN:
+  name: Haşlanmış Tavuk
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_CHICKPEAS:
+  name: Haşlanmış Nohut
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_CHICORY:
+  name: Haşlanmış Hindiba
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_CHILLY_PEPPER:
+  name: Haşlanmış Acı Biber
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_CHIVES:
+  name: Haşlanmış Frenk Soğanı
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_CHORUS_FRUIT:
+  name: Haşlanmış Nakarat Meyvesi
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_CILANTRO:
+  name: Haşlanmış Kişniş
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_CINNAMON:
+  name: Haşlanmış Tarçın
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_CLOVE:
+  name: Haşlanmış Karanfil
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_COCOA_BEANS:
+  name: Haşlanmış Kakao Çekirdekleri
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_COD:
+  name: Haşlanmış Morina
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_COURGETTE:
+  name: Haşlanmış Kabak
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_CUCUMBER:
+  name: Haşlanmış Salatalık
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_CUMIN:
+  name: Haşlanmış Kimyon
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_CURRY_LEAF:
+  name: Haşlanmış Köri Yaprağı
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_DILL:
+  name: Haşlanmış Dereotu
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_EGG:
+  name: Haşlanmış Yumurta
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_ENCHANTED_GOLDEN_APPLE:
+  name: Haşlanmış Büyülü Altın Elma
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_FENNEL:
+  name: Haşlanmış Rezene
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_GARLIC:
+  name: Haşlanmış Sarımsak
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_GINGER:
+  name: Haşlanmış Zencefil
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_GLOW_BERRIES:
+  name: Haşlanmış Parlayan Meyveler
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_GOLDEN_APPLE:
+  name: Haşlanmış Altın Elma
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_GOLDEN_CARROT:
+  name: Haşlanmış Altın Havuç
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_GRAPE:
+  name: Haşlanmış Üzüm
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_GREEN_APPLE:
+  name: Haşlanmış Yeşil Elma
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_GREEN_BEANS:
+  name: Haşlanmış Taze Fasulye
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_GREEN_ONION:
+  name: Haşlanmış Taze Soğan
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_HAZELNUT:
+  name: Haşlanmış Fındık
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_HORSERADISH:
+  name: Haşlanmış Yaban Turpu
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_JALAPENO:
+  name: Haşlanmış Jalapeno Biberi
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_JASMINE:
+  name: Haşlanmış Yasemin
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_JUNIPER_BERRY:
+  name: Haşlanmış Ardıç Meyvesi
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_KAFFIR_LIME:
+  name: Haşlanmış Kafir Limonu Yaprağı
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_KALE:
+  name: Haşlanmış Kara Lahana
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_KELP:
+  name: Haşlanmış Su Yosunu
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_KIWI:
+  name: Haşlanmış Kivi
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_LAVENDER:
+  name: Haşlanmış Lavanta
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_LEEK:
+  name: Haşlanmış Pırasa
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_LEMON:
+  name: Haşlanmış Limon
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_LETTUCE:
+  name: Haşlanmış Marul
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_LICORICE:
+  name: Haşlanmış Meyan Kökü
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_LIME:
+  name: Haşlanmış Misket Limonu
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_MACE:
+  name: Haşlanmış Muskat Çiçeği
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_MANGO:
+  name: Haşlanmış Mango
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_MARJORAM:
+  name: Haşlanmış Mercanköşk
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_MARROW:
+  name: Haşlanmış Sakız Kabağı
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_MELON:
+  name: Haşlanmış Karpuz
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_MINT:
+  name: Haşlanmış Nane
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_MUSTARD_SEEDS:
+  name: Haşlanmış Tane Hardal
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_MUTTON:
+  name: Haşlanmış Koyun Eti
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_NETTLES:
+  name: Haşlanmış Isırgan Otu
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_OKRA:
+  name: Haşlanmış Bamya
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_ONION:
+  name: Haşlanmış Soğan
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_ORANGE:
+  name: Haşlanmış Portakal
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_OREGANO:
+  name: Haşlanmış Dağ Kekiği
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_PARSLEY:
+  name: Haşlanmış Maydanoz
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_PARSNIP:
+  name: Haşlanmış Yaban Havucu
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_PEA:
+  name: Haşlanmış Bezelye
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_PEACH:
+  name: Haşlanmış Şeftali
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_PEANUT:
+  name: Haşlanmış Yer Fıstığı
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_PEAR:
+  name: Haşlanmış Armut
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_PECAN:
+  name: Haşlanmış Pekan Cevizi
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_PEPPER:
+  name: Haşlanmış Karabiber
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_PEPPERONI:
+  name: Haşlanmış Pepperoni
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_PINEAPPLE:
+  name: Haşlanmış Ananas
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_PINTO_BEANS:
+  name: Haşlanmış Barbunya
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_PORKCHOP:
+  name: Haşlanmış Domuz Pirzolası
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_POTATO:
+  name: Haşlanmış Patates
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_PUFFERFISH:
+  name: Haşlanmış Kirpi Balığı
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_PUMPKIN:
+  name: Haşlanmış Bal Kabağı
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_RABBIT:
+  name: Haşlanmış Tavşan
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_RADDISH:
+  name: Haşlanmış Turp
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_RADICCHIO:
+  name: Haşlanmış Kırmızı Hindiba
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_RAPESEED:
+  name: Haşlanmış Kolza
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_RED_MUSHROOM:
+  name: Haşlanmış Kırmızı Mantar
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_RHUBARB:
+  name: Haşlanmış Ravent
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_RICE:
+  name: Haşlanmış Pirinç
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_ROSEMARY:
+  name: Haşlanmış Biberiye
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_ROTTEN_FLESH:
+  name: Haşlanmış Çürük Et
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_RUNNER_BEANS:
+  name: Haşlanmış Sırık Fasulye
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_RUTABAGA:
+  name: Haşlanmış İsveç Şalgamı
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_SALMON:
+  name: Haşlanmış Somon
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_SASSAFRAS:
+  name: Haşlanmış Sassafras
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_SHALLOT:
+  name: Haşlanmış Arpacık Soğan
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_SHISO:
+  name: Haşlanmış Shiso
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_SOY_BEANS:
+  name: Haşlanmış Soya Fasulyesi
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_SPINACH:
+  name: Haşlanmış Ispanak
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_STAR_ANISE:
+  name: Haşlanmış Yıldız Anason
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_STRAWBERRY:
+  name: Haşlanmış Çilek
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_SUGAR:
+  name: Haşlanmış Şeker
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_SWEETCORN:
+  name: Haşlanmış Tatlı Mısır
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_SWEET_BERRIES:
+  name: Haşlanmış Tatlı Orman Meyveleri
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_SWEET_POTATO:
+  name: Haşlanmış Tatlı Patates
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_TARRAGON:
+  name: Haşlanmış Tarhun
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_THYME:
+  name: Haşlanmış Kekik
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_TOMATO:
+  name: Haşlanmış Domates
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_TURMERIC:
+  name: Haşlanmış Zerdeçal
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_TURNIP:
+  name: Haşlanmış Şalgam
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_VANILLA:
+  name: Haşlanmış Vanilya
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_WASABI:
+  name: Haşlanmış Vasabi
+  type:
+  - '&7&oYan Ürün'
+CLT_BOILED_WHEAT:
+  name: Haşlanmış Buğday
+  type:
+  - '&7&oYan Ürün'
+CLT_BOWL_OF_STEVE:
+  name: Bir Kase... Steve?
+  type:
+  - '&7&oYiyecek'
+  description:
+  - Bu da neyin &%£$
+  stats:
+  - '&8⇨ &bMadenci Yorgunluğu X &7(10:00)'
+  - '&8⇨ &bYavaşlık VI &7(10:00)'
+  - '&8⇨ &bKuvvet X &7(10:00)'
+  - '&8⇨ &7Canını 1/2 kalbe düşürür'
+CLT_BROCCOLI:
+  name: Brokoli
+  type:
+  - '&7&oMahsul'
+  description:
+  - Ağaç tutan bir dev misin?
+  - Yok canım, sadece minicik bir ağaç :)
+CLT_BRUSSELS_SPROUTS:
+  name: Brüksel Lahanası
+  type:
+  - '&7&oMahsul'
+  description:
+  - Gaz yapan bir lezzet.
+CLT_BUSH_ARTICHOKE:
+  name: Enginar Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - 'Gönlü engin, kalbi nar gibi: işte'
+  - enginar. Of. Kelime oyunu zor iş.
+CLT_BUSH_ASPARAGUS:
+  name: Kuşkonmaz Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Bu kuşkonmaz çalısı kuşları hiç
+  - kondurmaz!
+CLT_BUSH_AUBERGINE:
+  name: Patlıcan Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Patlıcana "kara kız" demeyi reddediyorum. Öyle işte.
+CLT_BUSH_AVOCADO:
+  name: Avokado Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Bu çalı özellikle çok fazla su
+  - tüketmeyecek şekilde yetiştirildi.
+CLT_BUSH_BASIL:
+  name: Fesleğen Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Neşe dolu, gönlü hafif bir çalı.
+CLT_BUSH_BAY_LEAF:
+  name: Defne Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Bu çalının kokusu kilometrelerce öteye gider.
+CLT_BUSH_BELL_PEPPER:
+  name: Dolmalık Biber Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Yanından geçerken dikkat et, bu çalı
+  - zil çalabilir.
+CLT_BUSH_BLACK_BEANS:
+  name: Siyah Fasulye Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - 'Bu çalı sana usulca fısıldıyor:'
+  - Sen fasulye gibi bir insansın, bir tanesin.
+CLT_BUSH_BROCCOLI:
+  name: Brokoli Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Yenilebilen minik ağaçlar mı? Bunu kim icat etti!?
+CLT_BUSH_BRUSSELS_SPROUTS:
+  name: Brüksel Lahanası Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Bazen zararlı gazlar üretebilen
+  - bir çalı.
+CLT_BUSH_CABBAGE:
+  name: Lahana Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Kafası lahana gibi karışık, duygusal
+  - yükü ağır bir çalı.
+CLT_BUSH_CAULIFLOWER:
+  name: Karnabahar Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Küçük neşe bulutları üretebilen
+  - bir çalı.
+CLT_BUSH_CAYENNE_PEPPER:
+  name: Kayen Biberi Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Biber gibi acı bir tavrı olan çalı.
+CLT_BUSH_CELERIAC:
+  name: Kereviz Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Bir çalıdan yine mi kök çıkıyor?
+  - SefiAptal™
+CLT_BUSH_CELERY:
+  name: Sap Kereviz Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Bu çalı gereksiz.
+  - Sefi kerevizi sevmez.
+CLT_BUSH_CHICKPEAS:
+  name: Nohut Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Bir tavukla bir bezelyeyi çiftleştirerek
+  - yapılmış bir çalı. BİLİM.
+CLT_BUSH_CHICORY:
+  name: Hindiba Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Hindiba kök değil miydi? Bu eklenti hiç
+  - araştırma yapmıyor mu!?
+CLT_BUSH_CHILLI_PEPPER:
+  name: Acı Biber Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Bu çalıya bakmak bile dilimi yakıyor.
+CLT_BUSH_CHIVES:
+  name: Frenk Soğanı Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Aslında dünyanın en küçük soğanını
+  - üreten bir çalı.
+CLT_BUSH_CILANTRO:
+  name: Kişniş Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Bu çalıdan hafif bir narenciye ve baharat kokusu yayılıyor.
+CLT_BUSH_CINNAMON:
+  name: Tarçın Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Nefis kokulu bir çalı.
+CLT_BUSH_CLOVE:
+  name: Karanfil Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Bana hep Noel'i hatırlatan bir çalı.
+CLT_BUSH_COURGETTE:
+  name: Kabak Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Bu çalı neden durmadan Zucchini diye
+  - bağırıyor? Herhalde Amerikalıdır?
+CLT_BUSH_CUCUMBER:
+  name: Salatalık Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Bu çalı yalnızca enfes yaz salatalarınız
+  - için tasarlandı.
+CLT_BUSH_CUMIN:
+  name: Kimyon Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Sıcak bir narenciye aroması yayan bir çalı.
+CLT_BUSH_CURRY_LEAF:
+  name: Köri Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - En güzeli yağsız tavada kavrulmuşu.
+CLT_BUSH_DILL:
+  name: Dereotu Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Bu çalı diğerlerinden çok daha hızlı büyür.
+CLT_BUSH_FENNEL:
+  name: Rezene Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Bu çalı neden böcekleri kaçırıyor!?
+CLT_BUSH_GARLIC:
+  name: Sarımsak Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Bu çalının nefesi düpedüz berbat.
+CLT_BUSH_GINGER:
+  name: Zencefil Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Bu çalı bütün halde haşlanınca çok güzel olur.
+CLT_BUSH_GRAPE:
+  name: Üzüm Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Neredeyse çalıdan kendiliğinden düşen
+  - olgun ve sulu üzümler.
+CLT_BUSH_GREEN_BEANS:
+  name: Taze Fasulye Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Kuru fasulye yapmak için bu çalının
+  - üstüne domates sosu dök.
+CLT_BUSH_GREEN_ONION:
+  name: Taze Soğan Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Yeşil soğan olarak da bilinir.
+  - Taze soğanın tadı genellikle
+  - çoğu soğandan daha hafiftir.
+CLT_BUSH_HORSERADISH:
+  name: Yaban Turpu Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Yine söylüyorum, bunun bir çalıda büyümesi hiç mantıklı değil.
+CLT_BUSH_JALAPENO:
+  name: Jalapeno Biberi Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Bu çalıyı tutmak bile seni
+  - '%1 ihtimalle tutuşturur.'
+CLT_BUSH_JASMINE:
+  name: Yasemin Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Bu çalının kokusu çok yumuşak ve dingin.
+CLT_BUSH_JUNIPER_BERRY:
+  name: Ardıç Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Çalıdayken çok tatlı, kuruyunca biberimsi.
+CLT_BUSH_KAFFIR_LIME:
+  name: Kafir Limonu Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Yaprakları meyvesinden daha çok aranan bir çalı.
+CLT_BUSH_KALE:
+  name: Kara Lahana Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Bu çalıyı ektiğinde kara günlerin
+  - biteceğini hissedersin.
+CLT_BUSH_LAVENDER:
+  name: Lavanta Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Bu çalı kokusunu her yere yayar.
+CLT_BUSH_LEEK:
+  name: Pırasa Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Pırasanın korse giymiş bir soğan olduğunu
+  - biliyor muydun? Gerçek hikaye.
+CLT_BUSH_LETTUCE:
+  name: Marul Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Marul çalıda mı yetişir ki?
+  - 'Sürpriz bozan: Hayır, yetişmez.'
+CLT_BUSH_LICORICE:
+  name: Meyan Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - İğrenç
+CLT_BUSH_MACE:
+  name: Muskat Çiçeği Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Bu çalı saldırganları püskürtüyor gibi mi?
+CLT_BUSH_MARJORAM:
+  name: Mercanköşk Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Odunsu kokulu büyük bir çalı.
+CLT_BUSH_MARROW:
+  name: Sakız Kabağı Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Bu çalının kendi ağırlığını
+  - taşıyabilmesine şaşırdım.
+CLT_BUSH_MINT:
+  name: Nane Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Kesinlikle en güzel kokan çalı.
+CLT_BUSH_MUSTARD:
+  name: Kara Hardal Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Ağızda ateş gibi.
+CLT_BUSH_NETTLES:
+  name: Isırgan Otu Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Bu çalının içinden geçerken dikkatli ol!
+CLT_BUSH_OKRA:
+  name: Bamya Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Okra Winfrey'nin Sebze Kulübü'ne göre
+  - 1 numaralı sebze seçildi.
+CLT_BUSH_ONION:
+  name: Soğan Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Bu çalı ağlıyor gibi mi görünüyor?
+CLT_BUSH_OREGANO:
+  name: Dağ Kekiği Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Keskin kokulu bu çalı ziyaretçileri uzak tutar.
+CLT_BUSH_PARSLEY:
+  name: Maydanoz Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Bu çalıyı lavlara at, hemen :D
+CLT_BUSH_PARSNIP:
+  name: Yaban Havucu Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Aracıyı boş ver, çalıyı doğrudan
+  - kızart gitsin.
+CLT_BUSH_PEA:
+  name: Bezelye Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Ben Q'ları tercih ederim
+CLT_BUSH_PEANUTS:
+  name: Yer Fıstığı Çalısı
+  type:
+  - '&7&oÇalı'
+  description: &id001
+  - Sağlam, mis kokulu ve protein dolu.
+CLT_BUSH_PEPPER:
+  name: Karabiber Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Karabiber, daha Yunan ve Roma
+  - döneminde Hindistan ile Avrupa arasındaki
+  - baharat ticaretinin önemli bir parçasıydı.
+CLT_BUSH_PINTO_BEANS:
+  name: Barbunya Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Doğrudan dürüm veren bir çalıyı
+  - yetiştirmemiz yakındır, değil mi?
+CLT_BUSH_RADDISH:
+  name: Turp Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Bu bitki az önce kaykayla hareket çekti.
+  - Turp gibi maşallah.
+CLT_BUSH_RADICCHIO:
+  name: Kırmızı Hindiba Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Havalı görünmek mi istiyorsun? Her
+  - yemeğe kırmızı hindiba koy, aslında lahana
+  - gibidir ama seni pek kibar gösterir.
+CLT_BUSH_RAPESEED:
+  name: Kolza Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Bu çalıdan yağlı bir madde sızıyor.
+CLT_BUSH_RHUBARB:
+  name: Ravent Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Raventin sebze olduğunu biliyor muydun?
+  - Ben bir çeşit çekiç sanıyordum.
+CLT_BUSH_RICE:
+  name: Pirinç Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Temel gıdaların kralı.
+CLT_BUSH_ROSEMARY:
+  name: Biberiye Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Kokusu insanlara pazar sofralarını hatırlatan bir çalı.
+CLT_BUSH_RUNNER_BEANS:
+  name: Sırık Fasulye Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Bu çalının ayakları mı var o.o?
+CLT_BUSH_RUTABAGA:
+  name: İsveç Şalgamı Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - İsveç şalgamı. Resmen bir İsveçli.
+CLT_BUSH_SASSAFRAS:
+  name: Sassafras Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Bu çalı küçük su birikintilerinin
+  - yakınına ekilmeyi sever.
+CLT_BUSH_SHALLOT:
+  name: Arpacık Soğan Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Bu çalı hızla nefis mini soğanlar üretir.
+  - Neyse ki arpacık göze değil toprağa çıkıyor.
+CLT_BUSH_SHISO:
+  name: Shiso Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Bu çalının bir nane çalısıyla bir fesleğen
+  - çalısının aşk çocuğu olduğunu düşünmeyi seviyorum.
+  - Ne yazık ki çalı çiftleştirmek diye bir şey yok!
+CLT_BUSH_SOY_BEANS:
+  name: Soya Fasulyesi Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Bu çalı dost canlısı bir lezzet. Soyu
+  - sopu belli, insanı mutlu eder.
+CLT_BUSH_SPINACH:
+  name: Ispanak Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Bu çalı Temel Reis'in en iyi dostu.
+CLT_BUSH_STAR_ANISE:
+  name: Yıldız Anason Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Bu çalıdan anasona öyle özgü bir koku
+  - yayılır ki, inanamazsın.
+CLT_BUSH_STRAWBERRY:
+  name: Çilek Çalısı
+  type:
+  - '&7&oÇalı'
+  description: *id001
+CLT_BUSH_SWEETCORN:
+  name: Tatlı Mısır Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Bu çalı resmen labirent yapılmak için
+  - yalvarıyor.
+CLT_BUSH_SWEET_POTATO:
+  name: Tatlı Patates Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Bu çalı öyle tatlı ki. Sen dinlemezken
+  - sana iltifat ettiğini duydum.
+CLT_BUSH_TARRAGON:
+  name: Tarhun Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Bu çalı çok fazla dikkat çekmeyi sevmez.
+CLT_BUSH_THYME:
+  name: Kekik Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Bu çalının hiç vakti yok... vakit... kekik... *öhö*
+CLT_BUSH_TOMATO:
+  name: Domates Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Olgun ve hazır.
+CLT_BUSH_TURMERIC:
+  name: Zerdeçal Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Bu çalıyı tutar tutmaz burnuna
+  - bir baharat kokusu çarpar.
+CLT_BUSH_TURNIP:
+  name: Şalgam Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - İngiliz Hükümeti'ne göre
+  - bu çalı tüm sorunlarımızı çözecek.
+CLT_BUSH_VANILLA:
+  name: Vanilya Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Bu çalı doğal olarak StarBucks şubelerinin yakınında yetişir.
+CLT_BUSH_WASABI:
+  name: Vasabi Çalısı
+  type:
+  - '&7&oÇalı'
+  description:
+  - Bir çalıdan yine mi bir kök?
+  - Off...
+CLT_CABBAGE:
+  name: Lahana
+  type:
+  - '&7&oMahsul'
+  description:
+  - Bir bavul dolusu lahana.
+CLT_CAESAR_SALAD:
+  name: Sezar Salata
+  type:
+  - '&7&oYiyecek'
+  description:
+  - Sağlıklı bir klasik.
+  stats:
+  - '&8⇨ &7İyileşme: &b6 Kalp'
+  - '&8⇨ &bHız I &7(10:00)'
+  - '&8⇨ &bGörünmezlik I &7(10:00)'
+  - '&8⇨ &bYavaş Düşüş I &7(10:00)'
+CLT_CAJUN_GARLIC_BUTTER_COD:
+  name: Cajun Usulü Sarımsaklı Tereyağlı Morina
+  type:
+  - '&7&oYiyecek'
+  description:
+  - Lezzetten patlayan çok basit bir yemek.
+  stats:
+  - '&8⇨ &7İyileşme: &b4 Kalp'
+  - '&8⇨ &bYenilenme II &7(10:00)'
+  - '&8⇨ &bHız I &7(10:00)'
+CLT_CAULIFLOWER:
+  name: Karnabahar
+  type:
+  - '&7&oMahsul'
+  description:
+  - Taşınabilir bir bulut!
+CLT_CAYENNE_PEPPER:
+  name: Kayen Biberi
+  type:
+  - '&7&oMahsul'
+  description:
+  - Hafif ve baharatlı bir ikram.
+CLT_CELERIAC:
+  name: Kereviz
+  type:
+  - '&7&oMahsul'
+  description:
+  - Pek çok geleneksel tarifte kök salmış
+  - (heh) doyurucu bir kök.
+CLT_CELERY:
+  name: Sap Kereviz
+  type:
+  - '&7&oMahsul'
+  description:
+  - Resmen lifli sudan ibaret. Aksini
+  - kanıtla bakalım.
+CLT_CHEESE_BURGER:
+  name: Burger
+  type:
+  - '&7&oYiyecek'
+  description:
+  - Basit bir çizburger, ama hiçbir şey onu geçemez!
+  stats:
+  - '&8⇨ &7İyileşme: &b4 Kalp'
+  - '&8⇨ &bYenilenme III &7(10:00)'
+CLT_CHEESY_SCALLOPED_COURGETTE:
+  name: Fırında Peynirli Kabak
+  type:
+  - '&7&oYiyecek'
+  description:
+  - Muhteşem bir klasiğin düşük karbonhidratlı hali.
+  stats:
+  - '&8⇨ &7İyileşme: &b2 Kalp'
+  - '&8⇨ &bGece Görüşü I &7(10:00)'
+  - '&8⇨ &bGörünmezlik I &7(10:00)'
+CLT_CHERRY:
+  name: Kiraz
+  type:
+  - '&7&oMahsul'
+  description:
+  - Ah, ağaçta şekerlenmiş olarak yetiştiklerini sanmıştım, yazık!
+CLT_CHESTNUT:
+  name: Kestane
+  type:
+  - '&7&oMahsul'
+  description:
+  - Hemen fırına girmek için tasarlandı.
+CLT_CHICKEN_ALFREDO_MAC_AND_CHEESE:
+  name: Tavuklu Alfredo Peynirli Makarna
+  type:
+  - '&7&oYiyecek'
+  description:
+  - Sıradan bir klasiğe şık bir dokunuş.
+  stats:
+  - '&8⇨ &7İyileşme: &b1 Kalp'
+  - '&8⇨ &bAteş Direnci II &7(10:00)'
+  - '&8⇨ &bDirenç III &7(10:00)'
+CLT_CHICKEN_PASTA_BAKE:
+  name: Fırında Tavuklu Makarna
+  type:
+  - '&7&oYiyecek'
+  description:
+  - Öğrencilerin vazgeçilmezi.
+  stats:
+  - '&8⇨ &7İyileşme: &b5 Kalp'
+  - '&8⇨ &bGece Görüşü I &7(10:00)'
+  - '&8⇨ &bSu Altında Nefes Alma I &7(10:00)'
+CLT_CHICKEN_POT_PIE:
+  name: Tavuklu Turta
+  type:
+  - '&7&oYiyecek'
+  description:
+  - İçini ısıtan, tam ev gibi hissettiren bir yemek.
+  stats:
+  - '&8⇨ &7İyileşme: &b10 Kalp'
+  - '&8⇨ &bZıplama Desteği II &7(10:00)'
+  - '&8⇨ &bDoygunluk I &7(10:00)'
+CLT_CHICKPEAS:
+  name: Nohut
+  type:
+  - '&7&oMahsul'
+  description:
+  - Börülce şarkı söyleyebilir, nohut ise ancak humus mırıldanır.
+CLT_CHICORY:
+  name: Hindiba
+  type:
+  - '&7&oMahsul'
+  description:
+  - Fındıksı, acı bir kök.
+CLT_CHILLY_PEPPER:
+  name: Acı Biber
+  type:
+  - '&7&oMahsul'
+  description:
+  - Koca bir biberi ağlamadan yiyebilirim.
+  - Yani, yarısını.
+  - YAANİİİ.... 1/4
+  - '...'
+  - Tamam, dilime değdirebilirim
+CLT_CHIVES:
+  name: Frenk Soğanı
+  type:
+  - '&7&oMahsul'
+  description:
+  - Tatlı, soğan tadında bir ot.
+CLT_CHOPPED_APPLE:
+  name: Doğranmış Elma
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_APRICOT:
+  name: Doğranmış Kayısı
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_ARTICHOKE:
+  name: Doğranmış Enginar
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_ASPARAGUS:
+  name: Doğranmış Kuşkonmaz
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_AUBERGINE:
+  name: Doğranmış Patlıcan
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_AVOCADO:
+  name: Doğranmış Avokado
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_BANANA:
+  name: Doğranmış Muz
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_BASIL:
+  name: Doğranmış Fesleğen
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_BAY_LEAF:
+  name: Doğranmış Defne Yaprağı
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_BEEF:
+  name: Doğranmış Sığır Eti
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_BEETROOT:
+  name: Doğranmış Pancar
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_BELL_PEPPER:
+  name: Doğranmış Dolmalık Biber
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_BLACK_BEANS:
+  name: Doğranmış Siyah Fasulye
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_BREAD:
+  name: Doğranmış Ekmek
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_BROCCOLI:
+  name: Doğranmış Brokoli
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_BROWN_MUSHROOM:
+  name: Doğranmış Kahverengi Mantar
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_BRUSSELS_SPROUTS:
+  name: Doğranmış Brüksel Lahanası
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_CABBAGE:
+  name: Doğranmış Lahana
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_CARROT:
+  name: Doğranmış Havuç
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_CAULIFLOWER:
+  name: Doğranmış Karnabahar
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_CAYENNE_PEPPER:
+  name: Doğranmış Kayen Biberi
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_CELERIAC:
+  name: Doğranmış Kereviz
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_CELERY:
+  name: Doğranmış Sap Kereviz
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_CHERRY:
+  name: Doğranmış Kiraz
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_CHESTNUT:
+  name: Doğranmış Kestane
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_CHICKEN:
+  name: Doğranmış Tavuk
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_CHICKPEAS:
+  name: Doğranmış Nohut
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_CHICORY:
+  name: Doğranmış Hindiba
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_CHILLY_PEPPER:
+  name: Doğranmış Acı Biber
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_CHIVES:
+  name: Doğranmış Frenk Soğanı
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_CHORUS_FRUIT:
+  name: Doğranmış Nakarat Meyvesi
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_CILANTRO:
+  name: Doğranmış Kişniş
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_CINNAMON:
+  name: Doğranmış Tarçın
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_CLOVE:
+  name: Doğranmış Karanfil
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_COCOA_BEANS:
+  name: Doğranmış Kakao Çekirdekleri
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_COD:
+  name: Doğranmış Morina
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_COURGETTE:
+  name: Doğranmış Kabak
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_CUCUMBER:
+  name: Doğranmış Salatalık
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_CUMIN:
+  name: Doğranmış Kimyon
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_CURRY_LEAF:
+  name: Doğranmış Köri Yaprağı
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_DILL:
+  name: Doğranmış Dereotu
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_EGG:
+  name: Doğranmış Yumurta
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_ENCHANTED_GOLDEN_APPLE:
+  name: Doğranmış Büyülü Altın Elma
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_FENNEL:
+  name: Doğranmış Rezene
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_GARLIC:
+  name: Doğranmış Sarımsak
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_GINGER:
+  name: Doğranmış Zencefil
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_GLOW_BERRIES:
+  name: Doğranmış Parlayan Meyveler
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_GOLDEN_APPLE:
+  name: Doğranmış Altın Elma
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_GOLDEN_CARROT:
+  name: Doğranmış Altın Havuç
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_GRAPE:
+  name: Doğranmış Üzüm
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_GREEN_APPLE:
+  name: Doğranmış Yeşil Elma
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_GREEN_BEANS:
+  name: Doğranmış Taze Fasulye
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_GREEN_ONION:
+  name: Doğranmış Taze Soğan
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_HAZELNUT:
+  name: Doğranmış Fındık
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_HORSERADISH:
+  name: Doğranmış Yaban Turpu
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_JALAPENO:
+  name: Doğranmış Jalapeno Biberi
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_JASMINE:
+  name: Doğranmış Yasemin
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_JUNIPER_BERRY:
+  name: Doğranmış Ardıç Meyvesi
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_KAFFIR_LIME:
+  name: Doğranmış Kafir Limonu Yaprağı
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_KALE:
+  name: Doğranmış Kara Lahana
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_KELP:
+  name: Doğranmış Su Yosunu
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_KIWI:
+  name: Doğranmış Kivi
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_LAVENDER:
+  name: Doğranmış Lavanta
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_LEEK:
+  name: Doğranmış Pırasa
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_LEMON:
+  name: Doğranmış Limon
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_LETTUCE:
+  name: Doğranmış Marul
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_LICORICE:
+  name: Doğranmış Meyan Kökü
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_LIME:
+  name: Doğranmış Misket Limonu
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_MACE:
+  name: Doğranmış Muskat Çiçeği
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_MANGO:
+  name: Doğranmış Mango
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_MARJORAM:
+  name: Doğranmış Mercanköşk
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_MARROW:
+  name: Doğranmış Sakız Kabağı
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_MELON:
+  name: Doğranmış Karpuz
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_MINT:
+  name: Doğranmış Nane
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_MUSTARD_SEEDS:
+  name: Doğranmış Tane Hardal
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_MUTTON:
+  name: Doğranmış Koyun Eti
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_NETTLES:
+  name: Doğranmış Isırgan Otu
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_OKRA:
+  name: Doğranmış Bamya
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_ONION:
+  name: Doğranmış Soğan
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_ORANGE:
+  name: Doğranmış Portakal
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_OREGANO:
+  name: Doğranmış Dağ Kekiği
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_PARSLEY:
+  name: Doğranmış Maydanoz
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_PARSNIP:
+  name: Doğranmış Yaban Havucu
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_PEA:
+  name: Doğranmış Bezelye
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_PEACH:
+  name: Doğranmış Şeftali
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_PEANUT:
+  name: Doğranmış Yer Fıstığı
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_PEAR:
+  name: Doğranmış Armut
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_PECAN:
+  name: Doğranmış Pekan Cevizi
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_PEPPER:
+  name: Doğranmış Karabiber
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_PEPPERONI:
+  name: Doğranmış Pepperoni
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_PINEAPPLE:
+  name: Doğranmış Ananas
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_PINTO_BEANS:
+  name: Doğranmış Barbunya
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_PORKCHOP:
+  name: Doğranmış Domuz Pirzolası
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_POTATO:
+  name: Doğranmış Patates
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_PUFFERFISH:
+  name: Doğranmış Kirpi Balığı
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_PUMPKIN:
+  name: Doğranmış Bal Kabağı
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_RABBIT:
+  name: Doğranmış Tavşan
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_RADDISH:
+  name: Doğranmış Turp
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_RADICCHIO:
+  name: Doğranmış Kırmızı Hindiba
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_RAPESEED:
+  name: Doğranmış Kolza
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_RED_MUSHROOM:
+  name: Doğranmış Kırmızı Mantar
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_RHUBARB:
+  name: Doğranmış Ravent
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_RICE:
+  name: Doğranmış Pirinç
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_ROSEMARY:
+  name: Doğranmış Biberiye
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_ROTTEN_FLESH:
+  name: Doğranmış Çürük Et
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_RUNNER_BEANS:
+  name: Doğranmış Sırık Fasulye
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_RUTABAGA:
+  name: Doğranmış İsveç Şalgamı
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_SALMON:
+  name: Doğranmış Somon
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_SASSAFRAS:
+  name: Doğranmış Sassafras
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_SHALLOT:
+  name: Doğranmış Arpacık Soğan
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_SHISO:
+  name: Doğranmış Shiso
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_SOY_BEANS:
+  name: Doğranmış Soya Fasulyesi
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_SPINACH:
+  name: Doğranmış Ispanak
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_STAR_ANISE:
+  name: Doğranmış Yıldız Anason
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_STRAWBERRY:
+  name: Doğranmış Çilek
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_SUGAR:
+  name: Doğranmış Şeker
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_SWEETCORN:
+  name: Doğranmış Tatlı Mısır
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_SWEET_BERRIES:
+  name: Doğranmış Tatlı Orman Meyveleri
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_SWEET_POTATO:
+  name: Doğranmış Tatlı Patates
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_TARRAGON:
+  name: Doğranmış Tarhun
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_THYME:
+  name: Doğranmış Kekik
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_TOMATO:
+  name: Doğranmış Domates
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_TURMERIC:
+  name: Doğranmış Zerdeçal
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_TURNIP:
+  name: Doğranmış Şalgam
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_VANILLA:
+  name: Doğranmış Vanilya
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_WASABI:
+  name: Doğranmış Vasabi
+  type:
+  - '&7&oYan Ürün'
+CLT_CHOPPED_WHEAT:
+  name: Doğranmış Buğday
+  type:
+  - '&7&oYan Ürün'
+CLT_CILANTRO:
+  name: Kişniş
+  type:
+  - '&7&oMahsul'
+  description:
+  - Hafif narenciye dokunuşlu yumuşak bir baharat.
+CLT_CINNAMON:
+  name: Tarçın
+  type:
+  - '&7&oMahsul'
+  description:
+  - Çubuk halindeyken çiğnemesi harika.
+CLT_CINNAMON_ROLL:
+  name: Tarçınlı Çörek
+  type:
+  - '&7&oYiyecek'
+  description:
+  - Eğlencesine rulo yapılmış tatlı bir lezzet.
+  - Yiyince dünyan tepetaklak olur!
+  stats:
+  - '&8⇨ &7İyileşme: &b4 Kalp'
+  - '&8⇨ &bYükselme I &7(10:00)'
+  - '&8⇨ &bYavaş Düşüş I &7(10:00)'
+CLT_CLOVE:
+  name: Karanfil
+  type:
+  - '&7&oMahsul'
+  description:
+  - Çok sıcak ve yoğun bir lezzet.
+CLT_COMPRESSED_BISCUIT:
+  name: Sıkıştırılmış Bisküvi
+  type:
+  - '&7&oYiyecek'
+  description:
+  - Kocamandan da kocaman lezzetli küçük bir atıştırmalık.
+  stats: *id002
+CLT_COOKED_BURGER_PATTY:
+  name: Pişmiş Burger Köftesi
+  type:
+  - '&7&oMahsul'
+  description:
+  - Resmen damlıyor
+CLT_COUNTER_BLENDER:
+  name: Mutfak Tezgâhı (Blender)
+  type:
+  - '&7&oMakine'
+  description:
+  - Ürünleri blenderdan geçirmek için bu bloğa sağ tıkla.
+  usage: &id003
+  - Profesyonel İpucu! Yerleştirdikten sonra shift +
+  - sağ tıklarsan, elindeki blok(lar) mutfağın
+  - tasarımını değiştirir. Bir dene!
+CLT_COUNTER_BOILING:
+  name: Mutfak Tezgâhı (Haşlama Tenceresi)
+  type:
+  - '&7&oMakine'
+  description:
+  - Belirli eşyaları haşlayabilir.
+  usage: *id003
+CLT_COUNTER_CHOPPING:
+  name: Mutfak Tezgâhı (Doğrama Tahtası)
+  type:
+  - '&7&oMakine'
+  description:
+  - Ürünleri doğramak için bu bloğa sağ tıkla.
+  usage: *id003
+CLT_COUNTER_FINISHING:
+  name: Mutfak Tezgâhı (Son Dokunuş)
+  type:
+  - '&7&oMakine'
+  description:
+  - Ürünleri/yan ürünleri başka yan ürünlere
+  - veya hazır yiyeceklere dönüştürmekte kullanılır.
+  usage: *id003
+CLT_COUNTER_FRYING:
+  name: Mutfak Tezgâhı (Kızartma Tavası)
+  type:
+  - '&7&oMakine'
+  description:
+  - Belirli ürünleri kızartabilir.
+  usage: *id003
+CLT_COUNTER_GRILL:
+  name: Mutfak Tezgâhı (Izgara)
+  type:
+  - '&7&oMakine'
+  description:
+  - Belirli ürünleri ızgarada pişirebilir.
+  usage: *id003
+CLT_COUNTER_GRINDER:
+  name: Mutfak Tezgâhı (Havan ve Tokmak)
+  type:
+  - '&7&oMakine'
+  description:
+  - Ürünleri öğütmek için bu bloğa sağ tıkla.
+  usage: *id003
+CLT_COUNTER_MASHER:
+  name: Mutfak Tezgâhı (Ezme Kasesi)
+  type:
+  - '&7&oMakine'
+  description:
+  - Ürünleri ezmek için bu bloğa sağ tıkla.
+  usage: *id003
+CLT_COUNTER_NOTHING:
+  name: Mutfak Tezgâhı (Boş)
+  type:
+  - '&7&oMakine'
+  description:
+  - Sadece dekorasyon için!
+  usage: *id003
+CLT_COUNTER_OVEN:
+  name: Mutfak Tezgâhı (Fırın)
+  type:
+  - '&7&oMakine'
+  description:
+  - Belirli ürünleri fırında pişirebilir.
+  usage: *id003
+CLT_COUNTER_SLICING:
+  name: Mutfak Tezgâhı (Dilimleme Tahtası)
+  type:
+  - '&7&oMakine'
+  description:
+  - Ürünleri dilimlemek için bu bloğa sağ tıkla.
+  usage: *id003
+CLT_COURGETTE:
+  name: Kabak
+  type:
+  - '&7&oMahsul'
+  description:
+  - 'Profesyonel İpucu: Derinlik ve doku için bunu'
+  - herhangi bir makarna sosuna rendele.
+CLT_CREAM_CHEESE:
+  name: Krem Peynir
+  type:
+  - '&7&oMahsul'
+  description:
+  - Peynirden çok kremamsı.
+CLT_CROP_STICKS:
+  name: Ekin Çubukları
+  type:
+  - '&7&oAlet'
+  description:
+  - Ekin çubukları, büyüyebilmesi için
+  - yerleştirilmiş bir tohuma uygulanmalıdır.
+  - İkinci bir set yerleştirmek bitkiyi
+  - çaprazlar, böylece bitki yayılabilir
+  - ve/veya çiftleşebilir.
+CLT_CUCUMBER:
+  name: Salatalık
+  type:
+  - '&7&oMahsul'
+  description:
+  - Yeşil kabuğa girmiş su, aksini
+  - kanıtla.
+CLT_CUMIN:
+  name: Kimyon
+  type:
+  - '&7&oMahsul'
+  description:
+  - Sıcak, narenciye kokulu bir bitki.
+CLT_CURRY_LEAF:
+  name: Köri Yaprağı
+  type:
+  - '&7&oMahsul'
+  description:
+  - Nice harika yemeğin temeli.
+CLT_DILL:
+  name: Dereotu
+  type:
+  - '&7&oMahsul'
+  description:
+  - Bana çimen gibi geliyor. İnsanlar
+  - bunu neden seviyor ki?
+CLT_DOUGH:
+  name: Hamur
+  type:
+  - '&7&oMahsul'
+  description:
+  - Bildiğin sade hamur!
+CLT_EGG_SALAD:
+  name: Yumurta Salatası
+  type:
+  - '&7&oMahsul'
+  description:
+  - Bunu trende aç, cesaretin varsa!
+CLT_EGG_SALAD_SANDWICH:
+  name: Yumurta Salatalı Sandviç
+  type:
+  - '&7&oYiyecek'
+  description:
+  - Biraz kokuyor ama tadı muhteşem!
+  stats: &id006
+  - '&8⇨ &7İyileşme: &b10 Kalp'
+  - '&8⇨ &bYenilenme II &7(10:00)'
+CLT_FENNEL:
+  name: Rezene
+  type:
+  - '&7&oMahsul'
+  description:
+  - Anason ile meyan kökü karışımı gibi.
+CLT_FRIED_APPLE:
+  name: Kızarmış Elma
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_APRICOT:
+  name: Kızarmış Kayısı
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_ARTICHOKE:
+  name: Kızarmış Enginar
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_ASPARAGUS:
+  name: Kızarmış Kuşkonmaz
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_AUBERGINE:
+  name: Kızarmış Patlıcan
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_AVOCADO:
+  name: Kızarmış Avokado
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_BANANA:
+  name: Kızarmış Muz
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_BASIL:
+  name: Kızarmış Fesleğen
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_BAY_LEAF:
+  name: Kızarmış Defne Yaprağı
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_BEEF:
+  name: Kızarmış Sığır Eti
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_BEETROOT:
+  name: Kızarmış Pancar
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_BELL_PEPPER:
+  name: Kızarmış Dolmalık Biber
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_BLACK_BEANS:
+  name: Kızarmış Siyah Fasulye
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_BREAD:
+  name: Kızarmış Ekmek
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_BROCCOLI:
+  name: Kızarmış Brokoli
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_BROWN_MUSHROOM:
+  name: Kızarmış Kahverengi Mantar
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_BRUSSELS_SPROUTS:
+  name: Kızarmış Brüksel Lahanası
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_CABBAGE:
+  name: Kızarmış Lahana
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_CARROT:
+  name: Kızarmış Havuç
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_CAULIFLOWER:
+  name: Kızarmış Karnabahar
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_CAYENNE_PEPPER:
+  name: Kızarmış Kayen Biberi
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_CELERIAC:
+  name: Kızarmış Kereviz
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_CELERY:
+  name: Kızarmış Sap Kereviz
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_CHERRY:
+  name: Kızarmış Kiraz
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_CHESTNUT:
+  name: Kızarmış Kestane
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_CHICKEN:
+  name: Kızarmış Tavuk
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_CHICKPEAS:
+  name: Kızarmış Nohut
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_CHICORY:
+  name: Kızarmış Hindiba
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_CHILLY_PEPPER:
+  name: Kızarmış Acı Biber
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_CHIVES:
+  name: Kızarmış Frenk Soğanı
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_CHORUS_FRUIT:
+  name: Kızarmış Nakarat Meyvesi
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_CILANTRO:
+  name: Kızarmış Kişniş
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_CINNAMON:
+  name: Kızarmış Tarçın
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_CLOVE:
+  name: Kızarmış Karanfil
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_COCOA_BEANS:
+  name: Kızarmış Kakao Çekirdekleri
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_COD:
+  name: Kızarmış Morina
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_COURGETTE:
+  name: Kızarmış Kabak
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_CUCUMBER:
+  name: Kızarmış Salatalık
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_CUMIN:
+  name: Kızarmış Kimyon
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_CURRY_LEAF:
+  name: Kızarmış Köri Yaprağı
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_DILL:
+  name: Kızarmış Dereotu
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_EGG:
+  name: Kızarmış Yumurta
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_ENCHANTED_GOLDEN_APPLE:
+  name: Kızarmış Büyülü Altın Elma
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_FENNEL:
+  name: Kızarmış Rezene
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_GARLIC:
+  name: Kızarmış Sarımsak
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_GINGER:
+  name: Kızarmış Zencefil
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_GLOW_BERRIES:
+  name: Kızarmış Parlayan Meyveler
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_GOLDEN_APPLE:
+  name: Kızarmış Altın Elma
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_GOLDEN_CARROT:
+  name: Kızarmış Altın Havuç
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_GRAPE:
+  name: Kızarmış Üzüm
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_GREEN_APPLE:
+  name: Kızarmış Yeşil Elma
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_GREEN_BEANS:
+  name: Kızarmış Taze Fasulye
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_GREEN_ONION:
+  name: Kızarmış Taze Soğan
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_HAZELNUT:
+  name: Kızarmış Fındık
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_HORSERADISH:
+  name: Kızarmış Yaban Turpu
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_JALAPENO:
+  name: Kızarmış Jalapeno Biberi
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_JASMINE:
+  name: Kızarmış Yasemin
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_JUNIPER_BERRY:
+  name: Kızarmış Ardıç Meyvesi
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_KAFFIR_LIME:
+  name: Kızarmış Kafir Limonu Yaprağı
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_KALE:
+  name: Kızarmış Kara Lahana
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_KELP:
+  name: Kızarmış Su Yosunu
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_KIWI:
+  name: Kızarmış Kivi
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_LAVENDER:
+  name: Kızarmış Lavanta
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_LEEK:
+  name: Kızarmış Pırasa
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_LEMON:
+  name: Kızarmış Limon
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_LETTUCE:
+  name: Kızarmış Marul
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_LICORICE:
+  name: Kızarmış Meyan Kökü
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_LIME:
+  name: Kızarmış Misket Limonu
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_MACE:
+  name: Kızarmış Muskat Çiçeği
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_MANGO:
+  name: Kızarmış Mango
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_MARJORAM:
+  name: Kızarmış Mercanköşk
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_MARROW:
+  name: Kızarmış Sakız Kabağı
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_MELON:
+  name: Kızarmış Karpuz
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_MINT:
+  name: Kızarmış Nane
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_MUSTARD_SEEDS:
+  name: Kızarmış Tane Hardal
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_MUTTON:
+  name: Kızarmış Koyun Eti
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_NETTLES:
+  name: Kızarmış Isırgan Otu
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_OKRA:
+  name: Kızarmış Bamya
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_ONION:
+  name: Kızarmış Soğan
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_ORANGE:
+  name: Kızarmış Portakal
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_OREGANO:
+  name: Kızarmış Dağ Kekiği
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_PARSLEY:
+  name: Kızarmış Maydanoz
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_PARSNIP:
+  name: Kızarmış Yaban Havucu
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_PEA:
+  name: Kızarmış Bezelye
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_PEACH:
+  name: Kızarmış Şeftali
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_PEANUT:
+  name: Kızarmış Yer Fıstığı
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_PEAR:
+  name: Kızarmış Armut
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_PECAN:
+  name: Kızarmış Pekan Cevizi
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_PEPPER:
+  name: Kızarmış Karabiber
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_PEPPERONI:
+  name: Kızarmış Pepperoni
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_PINEAPPLE:
+  name: Kızarmış Ananas
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_PINTO_BEANS:
+  name: Kızarmış Barbunya
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_PORKCHOP:
+  name: Kızarmış Domuz Pirzolası
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_POTATO:
+  name: Kızarmış Patates
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_PUFFERFISH:
+  name: Kızarmış Kirpi Balığı
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_PUMPKIN:
+  name: Kızarmış Bal Kabağı
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_RABBIT:
+  name: Kızarmış Tavşan
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_RADDISH:
+  name: Kızarmış Turp
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_RADICCHIO:
+  name: Kızarmış Kırmızı Hindiba
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_RAPESEED:
+  name: Kızarmış Kolza
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_RED_MUSHROOM:
+  name: Kızarmış Kırmızı Mantar
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_RHUBARB:
+  name: Kızarmış Ravent
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_RICE:
+  name: Kızarmış Pirinç
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_ROSEMARY:
+  name: Kızarmış Biberiye
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_ROTTEN_FLESH:
+  name: Kızarmış Çürük Et
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_RUNNER_BEANS:
+  name: Kızarmış Sırık Fasulye
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_RUTABAGA:
+  name: Kızarmış İsveç Şalgamı
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_SALMON:
+  name: Kızarmış Somon
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_SASSAFRAS:
+  name: Kızarmış Sassafras
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_SHALLOT:
+  name: Kızarmış Arpacık Soğan
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_SHISO:
+  name: Kızarmış Shiso
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_SOY_BEANS:
+  name: Kızarmış Soya Fasulyesi
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_SPINACH:
+  name: Kızarmış Ispanak
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_STAR_ANISE:
+  name: Kızarmış Yıldız Anason
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_STRAWBERRY:
+  name: Kızarmış Çilek
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_SUGAR:
+  name: Kızarmış Şeker
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_SWEETCORN:
+  name: Kızarmış Tatlı Mısır
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_SWEET_BERRIES:
+  name: Kızarmış Tatlı Orman Meyveleri
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_SWEET_POTATO:
+  name: Kızarmış Tatlı Patates
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_TARRAGON:
+  name: Kızarmış Tarhun
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_THYME:
+  name: Kızarmış Kekik
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_TOMATO:
+  name: Kızarmış Domates
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_TURMERIC:
+  name: Kızarmış Zerdeçal
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_TURNIP:
+  name: Kızarmış Şalgam
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_VANILLA:
+  name: Kızarmış Vanilya
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_WASABI:
+  name: Kızarmış Vasabi
+  type:
+  - '&7&oYan Ürün'
+CLT_FRIED_WHEAT:
+  name: Kızarmış Buğday
+  type:
+  - '&7&oYan Ürün'
+CLT_FRUIT_SALAD:
+  name: Meyve Salatası
+  type:
+  - '&7&oYiyecek'
+  description:
+  - Adına salata dersen istediğin kadar
+  - yiyebilirsin, çünkü sağlıklı.
+  stats:
+  - '&8⇨ &7İyileşme: &b6 Kalp'
+  - '&8⇨ &bHız III &7(10:00)'
+CLT_FUGU:
+  name: Fugu
+  type:
+  - '&7&oYiyecek'
+  description:
+  - Zarları atmaya hazır mısın?
+  stats:
+  - '&8⇨ &7İyileşme: &b1 Kalp'
+  - '&8⇨ &bKuvvet V &7(10:00)'
+  - '&8⇨ &7%33 ihtimalle direkt ölürsün!'
+CLT_GARDEN_CLOCHE:
+  name: Bahçe Fanusu
+  type:
+  - '&7&oMakine'
+  description:
+  - İçindeki bitkileri otomatik olarak büyütür.
+  stats:
+  - '&8⇨ &7Tik Başına Güç: &b100'
+CLT_GARLIC:
+  name: Sarımsak
+  type:
+  - '&7&oMahsul'
+  description:
+  - Çabuk, vampirler gelmeden!
+CLT_GARLIC_BUTTER_MUSHROOMS:
+  name: Sarımsaklı Tereyağlı Mantar
+  type:
+  - '&7&oYiyecek'
+  description:
+  - Dünyadaki en iyi yiyecek olabilir.
+  stats:
+  - '&8⇨ &7İyileşme: &b2 Kalp'
+  - '&8⇨ &bParlama I &7(10:00)'
+CLT_GINGER:
+  name: Zencefil
+  type:
+  - '&7&oMahsul'
+  description:
+  - Kaynar suda doğranmış zencefil, her derde deva!
+CLT_GRAPE:
+  name: Üzüm
+  type:
+  - '&7&oMahsul'
+  description:
+  - Ne kadar da dolgun!
+CLT_GRAPE_JELLY:
+  name: Üzüm Jölesi
+  type:
+  - '&7&oMahsul'
+  description: &id008
+  - Kaşıkla yemek suç sayılır.
+CLT_GREEN_APPLE:
+  name: Yeşil Elma
+  type:
+  - '&7&oMahsul'
+  description:
+  - Notta ne yazıyor... Sevgili Öğretmenim?
+CLT_GREEN_BEANS:
+  name: Taze Fasulye
+  type:
+  - '&7&oMahsul'
+  description:
+  - Ne kadar yaratıcı bir isim!
+CLT_GREEN_ONION:
+  name: Taze Soğan
+  type:
+  - '&7&oMahsul'
+  description:
+  - Takoların üstüne çok yakışır!
+CLT_GRILLED_APPLE:
+  name: Izgara Elma
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_APRICOT:
+  name: Izgara Kayısı
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_ARTICHOKE:
+  name: Izgara Enginar
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_ASPARAGUS:
+  name: Izgara Kuşkonmaz
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_AUBERGINE:
+  name: Izgara Patlıcan
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_AVOCADO:
+  name: Izgara Avokado
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_BANANA:
+  name: Izgara Muz
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_BASIL:
+  name: Izgara Fesleğen
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_BAY_LEAF:
+  name: Izgara Defne Yaprağı
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_BEEF:
+  name: Izgara Sığır Eti
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_BEETROOT:
+  name: Izgara Pancar
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_BELL_PEPPER:
+  name: Izgara Dolmalık Biber
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_BLACK_BEANS:
+  name: Izgara Siyah Fasulye
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_BREAD:
+  name: Izgara Ekmek
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_BROCCOLI:
+  name: Izgara Brokoli
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_BROWN_MUSHROOM:
+  name: Izgara Kahverengi Mantar
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_BRUSSELS_SPROUTS:
+  name: Izgara Brüksel Lahanası
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_CABBAGE:
+  name: Izgara Lahana
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_CARROT:
+  name: Izgara Havuç
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_CAULIFLOWER:
+  name: Izgara Karnabahar
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_CAYENNE_PEPPER:
+  name: Izgara Kayen Biberi
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_CELERIAC:
+  name: Izgara Kereviz
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_CELERY:
+  name: Izgara Sap Kereviz
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_CHERRY:
+  name: Izgara Kiraz
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_CHESTNUT:
+  name: Izgara Kestane
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_CHICKEN:
+  name: Izgara Tavuk
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_CHICKPEAS:
+  name: Izgara Nohut
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_CHICORY:
+  name: Izgara Hindiba
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_CHILLY_PEPPER:
+  name: Izgara Acı Biber
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_CHIVES:
+  name: Izgara Frenk Soğanı
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_CHORUS_FRUIT:
+  name: Izgara Nakarat Meyvesi
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_CILANTRO:
+  name: Izgara Kişniş
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_CINNAMON:
+  name: Izgara Tarçın
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_CLOVE:
+  name: Izgara Karanfil
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_COCOA_BEANS:
+  name: Izgara Kakao Çekirdekleri
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_COD:
+  name: Izgara Morina
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_COURGETTE:
+  name: Izgara Kabak
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_CUCUMBER:
+  name: Izgara Salatalık
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_CUMIN:
+  name: Izgara Kimyon
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_CURRY_LEAF:
+  name: Izgara Köri Yaprağı
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_DILL:
+  name: Izgara Dereotu
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_EGG:
+  name: Izgara Yumurta
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_ENCHANTED_GOLDEN_APPLE:
+  name: Izgara Büyülü Altın Elma
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_FENNEL:
+  name: Izgara Rezene
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_GARLIC:
+  name: Izgara Sarımsak
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_GINGER:
+  name: Izgara Zencefil
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_GLOW_BERRIES:
+  name: Izgara Parlayan Meyveler
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_GOLDEN_APPLE:
+  name: Izgara Altın Elma
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_GOLDEN_CARROT:
+  name: Izgara Altın Havuç
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_GRAPE:
+  name: Izgara Üzüm
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_GREEN_APPLE:
+  name: Izgara Yeşil Elma
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_GREEN_BEANS:
+  name: Izgara Taze Fasulye
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_GREEN_ONION:
+  name: Izgara Taze Soğan
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_HAZELNUT:
+  name: Izgara Fındık
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_HORSERADISH:
+  name: Izgara Yaban Turpu
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_JALAPENO:
+  name: Izgara Jalapeno Biberi
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_JASMINE:
+  name: Izgara Yasemin
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_JUNIPER_BERRY:
+  name: Izgara Ardıç Meyvesi
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_KAFFIR_LIME:
+  name: Izgara Kafir Limonu Yaprağı
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_KALE:
+  name: Izgara Kara Lahana
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_KELP:
+  name: Izgara Su Yosunu
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_KIWI:
+  name: Izgara Kivi
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_LAVENDER:
+  name: Izgara Lavanta
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_LEEK:
+  name: Izgara Pırasa
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_LEMON:
+  name: Izgara Limon
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_LETTUCE:
+  name: Izgara Marul
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_LICORICE:
+  name: Izgara Meyan Kökü
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_LIME:
+  name: Izgara Misket Limonu
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_MACE:
+  name: Izgara Muskat Çiçeği
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_MANGO:
+  name: Izgara Mango
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_MARJORAM:
+  name: Izgara Mercanköşk
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_MARROW:
+  name: Izgara Sakız Kabağı
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_MELON:
+  name: Izgara Karpuz
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_MINT:
+  name: Izgara Nane
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_MUSTARD_SEEDS:
+  name: Izgara Tane Hardal
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_MUTTON:
+  name: Izgara Koyun Eti
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_NETTLES:
+  name: Izgara Isırgan Otu
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_OKRA:
+  name: Izgara Bamya
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_ONION:
+  name: Izgara Soğan
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_ORANGE:
+  name: Izgara Portakal
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_OREGANO:
+  name: Izgara Dağ Kekiği
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_PARSLEY:
+  name: Izgara Maydanoz
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_PARSNIP:
+  name: Izgara Yaban Havucu
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_PEA:
+  name: Izgara Bezelye
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_PEACH:
+  name: Izgara Şeftali
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_PEANUT:
+  name: Izgara Yer Fıstığı
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_PEAR:
+  name: Izgara Armut
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_PECAN:
+  name: Izgara Pekan Cevizi
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_PEPPER:
+  name: Izgara Karabiber
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_PEPPERONI:
+  name: Izgara Pepperoni
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_PINEAPPLE:
+  name: Izgara Ananas
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_PINTO_BEANS:
+  name: Izgara Barbunya
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_PORKCHOP:
+  name: Izgara Domuz Pirzolası
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_POTATO:
+  name: Izgara Patates
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_PUFFERFISH:
+  name: Izgara Kirpi Balığı
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_PUMPKIN:
+  name: Izgara Bal Kabağı
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_RABBIT:
+  name: Izgara Tavşan
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_RADDISH:
+  name: Izgara Turp
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_RADICCHIO:
+  name: Izgara Kırmızı Hindiba
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_RAPESEED:
+  name: Izgara Kolza
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_RED_MUSHROOM:
+  name: Izgara Kırmızı Mantar
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_RHUBARB:
+  name: Izgara Ravent
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_RICE:
+  name: Izgara Pirinç
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_ROSEMARY:
+  name: Izgara Biberiye
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_ROTTEN_FLESH:
+  name: Izgara Çürük Et
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_RUNNER_BEANS:
+  name: Izgara Sırık Fasulye
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_RUTABAGA:
+  name: Izgara İsveç Şalgamı
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_SALMON:
+  name: Izgara Somon
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_SALMON_SALAD:
+  name: Izgara Somon Salatası
+  type:
+  - '&7&oYiyecek'
+  description:
+  - Nefis çıtır ve harika baharatlanmış.
+  stats:
+  - '&8⇨ &7İyileşme: &b4 Kalp'
+  - '&8⇨ &bYenilenme I &7(10:00)'
+  - '&8⇨ &bSağlık Arttırma V &7(10:00)'
+CLT_GRILLED_SASSAFRAS:
+  name: Izgara Sassafras
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_SHALLOT:
+  name: Izgara Arpacık Soğan
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_SHISO:
+  name: Izgara Shiso
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_SOY_BEANS:
+  name: Izgara Soya Fasulyesi
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_SPINACH:
+  name: Izgara Ispanak
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_STAR_ANISE:
+  name: Izgara Yıldız Anason
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_STRAWBERRY:
+  name: Izgara Çilek
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_SUGAR:
+  name: Izgara Şeker
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_SWEETCORN:
+  name: Izgara Tatlı Mısır
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_SWEET_BERRIES:
+  name: Izgara Tatlı Orman Meyveleri
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_SWEET_POTATO:
+  name: Izgara Tatlı Patates
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_TARRAGON:
+  name: Izgara Tarhun
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_THYME:
+  name: Izgara Kekik
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_TOMATO:
+  name: Izgara Domates
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_TURMERIC:
+  name: Izgara Zerdeçal
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_TURNIP:
+  name: Izgara Şalgam
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_VANILLA:
+  name: Izgara Vanilya
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_WASABI:
+  name: Izgara Vasabi
+  type:
+  - '&7&oYan Ürün'
+CLT_GRILLED_WHEAT:
+  name: Izgara Buğday
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_APPLE:
+  name: Öğütülmüş Elma
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_APRICOT:
+  name: Öğütülmüş Kayısı
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_ARTICHOKE:
+  name: Öğütülmüş Enginar
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_ASPARAGUS:
+  name: Öğütülmüş Kuşkonmaz
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_AUBERGINE:
+  name: Öğütülmüş Patlıcan
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_AVOCADO:
+  name: Öğütülmüş Avokado
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_BANANA:
+  name: Öğütülmüş Muz
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_BASIL:
+  name: Öğütülmüş Fesleğen
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_BAY_LEAF:
+  name: Öğütülmüş Defne Yaprağı
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_BEEF:
+  name: Öğütülmüş Sığır Eti
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_BEETROOT:
+  name: Öğütülmüş Pancar
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_BELL_PEPPER:
+  name: Öğütülmüş Dolmalık Biber
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_BLACK_BEANS:
+  name: Öğütülmüş Siyah Fasulye
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_BREAD:
+  name: Öğütülmüş Ekmek
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_BROCCOLI:
+  name: Öğütülmüş Brokoli
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_BROWN_MUSHROOM:
+  name: Öğütülmüş Kahverengi Mantar
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_BRUSSELS_SPROUTS:
+  name: Öğütülmüş Brüksel Lahanası
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_CABBAGE:
+  name: Öğütülmüş Lahana
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_CARROT:
+  name: Öğütülmüş Havuç
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_CAULIFLOWER:
+  name: Öğütülmüş Karnabahar
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_CAYENNE_PEPPER:
+  name: Öğütülmüş Kayen Biberi
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_CELERIAC:
+  name: Öğütülmüş Kereviz
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_CELERY:
+  name: Öğütülmüş Sap Kereviz
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_CHERRY:
+  name: Öğütülmüş Kiraz
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_CHESTNUT:
+  name: Öğütülmüş Kestane
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_CHICKEN:
+  name: Öğütülmüş Tavuk
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_CHICKPEAS:
+  name: Öğütülmüş Nohut
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_CHICORY:
+  name: Öğütülmüş Hindiba
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_CHILLY_PEPPER:
+  name: Öğütülmüş Acı Biber
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_CHIVES:
+  name: Öğütülmüş Frenk Soğanı
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_CHORUS_FRUIT:
+  name: Öğütülmüş Nakarat Meyvesi
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_CILANTRO:
+  name: Öğütülmüş Kişniş
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_CINNAMON:
+  name: Öğütülmüş Tarçın
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_CLOVE:
+  name: Öğütülmüş Karanfil
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_COCOA_BEANS:
+  name: Öğütülmüş Kakao Çekirdekleri
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_COD:
+  name: Öğütülmüş Morina
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_COURGETTE:
+  name: Öğütülmüş Kabak
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_CUCUMBER:
+  name: Öğütülmüş Salatalık
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_CUMIN:
+  name: Öğütülmüş Kimyon
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_CURRY_LEAF:
+  name: Öğütülmüş Köri Yaprağı
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_DILL:
+  name: Öğütülmüş Dereotu
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_EGG:
+  name: Öğütülmüş Yumurta
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_ENCHANTED_GOLDEN_APPLE:
+  name: Öğütülmüş Büyülü Altın Elma
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_FENNEL:
+  name: Öğütülmüş Rezene
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_GARLIC:
+  name: Öğütülmüş Sarımsak
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_GINGER:
+  name: Öğütülmüş Zencefil
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_GLOW_BERRIES:
+  name: Öğütülmüş Parlayan Meyveler
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_GOLDEN_APPLE:
+  name: Öğütülmüş Altın Elma
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_GOLDEN_CARROT:
+  name: Öğütülmüş Altın Havuç
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_GRAPE:
+  name: Öğütülmüş Üzüm
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_GREEN_APPLE:
+  name: Öğütülmüş Yeşil Elma
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_GREEN_BEANS:
+  name: Öğütülmüş Taze Fasulye
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_GREEN_ONION:
+  name: Öğütülmüş Taze Soğan
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_HAZELNUT:
+  name: Öğütülmüş Fındık
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_HORSERADISH:
+  name: Öğütülmüş Yaban Turpu
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_JALAPENO:
+  name: Öğütülmüş Jalapeno Biberi
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_JASMINE:
+  name: Öğütülmüş Yasemin
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_JUNIPER_BERRY:
+  name: Öğütülmüş Ardıç Meyvesi
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_KAFFIR_LIME:
+  name: Öğütülmüş Kafir Limonu Yaprağı
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_KALE:
+  name: Öğütülmüş Kara Lahana
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_KELP:
+  name: Öğütülmüş Su Yosunu
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_KIWI:
+  name: Öğütülmüş Kivi
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_LAVENDER:
+  name: Öğütülmüş Lavanta
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_LEEK:
+  name: Öğütülmüş Pırasa
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_LEMON:
+  name: Öğütülmüş Limon
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_LETTUCE:
+  name: Öğütülmüş Marul
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_LICORICE:
+  name: Öğütülmüş Meyan Kökü
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_LIME:
+  name: Öğütülmüş Misket Limonu
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_MACE:
+  name: Öğütülmüş Muskat Çiçeği
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_MANGO:
+  name: Öğütülmüş Mango
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_MARJORAM:
+  name: Öğütülmüş Mercanköşk
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_MARROW:
+  name: Öğütülmüş Sakız Kabağı
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_MELON:
+  name: Öğütülmüş Karpuz
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_MINT:
+  name: Öğütülmüş Nane
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_MUSTARD_SEEDS:
+  name: Öğütülmüş Tane Hardal
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_MUTTON:
+  name: Öğütülmüş Koyun Eti
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_NETTLES:
+  name: Öğütülmüş Isırgan Otu
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_OKRA:
+  name: Öğütülmüş Bamya
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_ONION:
+  name: Öğütülmüş Soğan
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_ORANGE:
+  name: Öğütülmüş Portakal
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_OREGANO:
+  name: Öğütülmüş Dağ Kekiği
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_PARSLEY:
+  name: Öğütülmüş Maydanoz
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_PARSNIP:
+  name: Öğütülmüş Yaban Havucu
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_PEA:
+  name: Öğütülmüş Bezelye
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_PEACH:
+  name: Öğütülmüş Şeftali
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_PEANUT:
+  name: Öğütülmüş Yer Fıstığı
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_PEAR:
+  name: Öğütülmüş Armut
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_PECAN:
+  name: Öğütülmüş Pekan Cevizi
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_PEPPER:
+  name: Öğütülmüş Karabiber
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_PEPPERONI:
+  name: Öğütülmüş Pepperoni
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_PINEAPPLE:
+  name: Öğütülmüş Ananas
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_PINTO_BEANS:
+  name: Öğütülmüş Barbunya
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_PORKCHOP:
+  name: Öğütülmüş Domuz Pirzolası
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_POTATO:
+  name: Öğütülmüş Patates
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_PUFFERFISH:
+  name: Öğütülmüş Kirpi Balığı
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_PUMPKIN:
+  name: Öğütülmüş Bal Kabağı
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_RABBIT:
+  name: Öğütülmüş Tavşan
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_RADDISH:
+  name: Öğütülmüş Turp
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_RADICCHIO:
+  name: Öğütülmüş Kırmızı Hindiba
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_RAPESEED:
+  name: Öğütülmüş Kolza
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_RED_MUSHROOM:
+  name: Öğütülmüş Kırmızı Mantar
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_RHUBARB:
+  name: Öğütülmüş Ravent
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_RICE:
+  name: Öğütülmüş Pirinç
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_ROSEMARY:
+  name: Öğütülmüş Biberiye
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_ROTTEN_FLESH:
+  name: Öğütülmüş Çürük Et
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_RUNNER_BEANS:
+  name: Öğütülmüş Sırık Fasulye
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_RUTABAGA:
+  name: Öğütülmüş İsveç Şalgamı
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_SALMON:
+  name: Öğütülmüş Somon
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_SASSAFRAS:
+  name: Öğütülmüş Sassafras
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_SHALLOT:
+  name: Öğütülmüş Arpacık Soğan
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_SHISO:
+  name: Öğütülmüş Shiso
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_SOY_BEANS:
+  name: Öğütülmüş Soya Fasulyesi
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_SPINACH:
+  name: Öğütülmüş Ispanak
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_STAR_ANISE:
+  name: Öğütülmüş Yıldız Anason
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_STRAWBERRY:
+  name: Öğütülmüş Çilek
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_SUGAR:
+  name: Öğütülmüş Şeker
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_SWEETCORN:
+  name: Öğütülmüş Tatlı Mısır
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_SWEET_BERRIES:
+  name: Öğütülmüş Tatlı Orman Meyveleri
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_SWEET_POTATO:
+  name: Öğütülmüş Tatlı Patates
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_TARRAGON:
+  name: Öğütülmüş Tarhun
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_THYME:
+  name: Öğütülmüş Kekik
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_TOMATO:
+  name: Öğütülmüş Domates
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_TURMERIC:
+  name: Öğütülmüş Zerdeçal
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_TURNIP:
+  name: Öğütülmüş Şalgam
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_VANILLA:
+  name: Öğütülmüş Vanilya
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_WASABI:
+  name: Öğütülmüş Vasabi
+  type:
+  - '&7&oYan Ürün'
+CLT_GROUND_WHEAT:
+  name: Öğütülmüş Buğday
+  type:
+  - '&7&oYan Ürün'
+CLT_HAZELNUT:
+  name: Fındık
+  type:
+  - '&7&oMahsul'
+  description:
+  - Ne gerekiyorsa yap ve bunu bana
+  - kahve yap, hemen!
+CLT_HORSERADISH:
+  name: Yaban Turpu
+  type:
+  - '&7&oMahsul'
+  description:
+  - Direkt ısırırsan sana $100.
+CLT_JALAPENO:
+  name: Jalapeno Biberi
+  type:
+  - '&7&oMahsul'
+  description:
+  - ACI ACI ACI.
+CLT_JASMINE:
+  name: Yasemin
+  type:
+  - '&7&oMahsul'
+  description:
+  - Harika bir çay olur.
+CLT_JUNIPER_BERRY:
+  name: Ardıç Meyvesi
+  type:
+  - '&7&oMahsul'
+  description:
+  - Biberimsi bir mükemmelliğe dek kurutulmuş.
+CLT_KAFFIR_LIME:
+  name: Kafir Limonu Yaprağı
+  type:
+  - '&7&oMahsul'
+  description:
+  - Müthiş aromalı bir yaprak.
+CLT_KALE:
+  name: Kara Lahana
+  type:
+  - '&7&oMahsul'
+  description:
+  - İmdat, ben bir 2020 smoothie hipsterıyım!
+CLT_KETCHUP:
+  name: Ketçap
+  type:
+  - '&7&oMahsul'
+  description:
+  - Kremamsı hale gelmiş domatesten ibaret.
+CLT_KEY_LIME_PIE:
+  name: Misket Limonlu Turta
+  type:
+  - '&7&oYiyecek'
+  description:
+  - Kesinlikle en iyisi!
+  stats:
+  - '&8⇨ &7İyileşme: &b6 Kalp'
+  - '&8⇨ &bAcele IV &7(10:00)'
+CLT_KIWI:
+  name: Kivi
+  type:
+  - '&7&oMahsul'
+  description:
+  - Bunu eklentiye zorla koydum.
+  - Kiviler kötüdür ve onları kullanan
+  - herkes otomatik olarak 100 puan
+  - kaybeder.
+CLT_LASAGNA:
+  name: Lazanya
+  type:
+  - '&7&oYiyecek'
+  description:
+  - Kat kat harikalık.
+  stats:
+  - '&8⇨ &7İyileşme: &bTam'
+  - '&8⇨ &bYenilenme II &7(10:00)'
+  - '&8⇨ &bDirenç II &7(10:00)'
+CLT_LAVENDER:
+  name: Lavanta
+  type:
+  - '&7&oMahsul'
+  description:
+  - Beni yavaşça uykuya daldırabilen bir koku.
+CLT_LEAVES_TREE_APRICOT:
+  name: Kayısı Ağacı Yaprakları
+  type:
+  - '&7&oYapraklar'
+CLT_LEAVES_TREE_BANANA:
+  name: Muz Ağacı Yaprakları
+  type:
+  - '&7&oYapraklar'
+CLT_LEAVES_TREE_CHERRY:
+  name: Kiraz Ağacı Yaprakları
+  type:
+  - '&7&oYapraklar'
+CLT_LEAVES_TREE_CHESTNUT:
+  name: Kestane Ağacı Yaprakları
+  type:
+  - '&7&oYapraklar'
+CLT_LEAVES_TREE_GREEN_APPLE:
+  name: Yeşil Elma Ağacı Yaprakları
+  type:
+  - '&7&oYapraklar'
+CLT_LEAVES_TREE_HAZELNUT:
+  name: Fındık Ağacı Yaprakları
+  type:
+  - '&7&oYapraklar'
+CLT_LEAVES_TREE_KIWI:
+  name: Kivi Ağacı Yaprakları
+  type:
+  - '&7&oYapraklar'
+CLT_LEAVES_TREE_LEMON:
+  name: Limon Ağacı Yaprakları
+  type:
+  - '&7&oYapraklar'
+CLT_LEAVES_TREE_LIME:
+  name: Misket Limonu Ağacı Yaprakları
+  type:
+  - '&7&oYapraklar'
+CLT_LEAVES_TREE_MANGO:
+  name: Mango Ağacı Yaprakları
+  type:
+  - '&7&oYapraklar'
+CLT_LEAVES_TREE_ORANGE:
+  name: Portakal Ağacı Yaprakları
+  type:
+  - '&7&oYapraklar'
+CLT_LEAVES_TREE_PEACH:
+  name: Şeftali Ağacı Yaprakları
+  type:
+  - '&7&oYapraklar'
+CLT_LEAVES_TREE_PEAR:
+  name: Armut Ağacı Yaprakları
+  type:
+  - '&7&oYapraklar'
+CLT_LEAVES_TREE_PECAN:
+  name: Pekan Cevizi Ağacı Yaprakları
+  type:
+  - '&7&oYapraklar'
+CLT_LEAVES_TREE_PINEAPPLE:
+  name: Ananas Ağacı Yaprakları
+  type:
+  - '&7&oYapraklar'
+CLT_LEEK:
+  name: Pırasa
+  type:
+  - '&7&oMahsul'
+  description:
+  - Nedense sular damlıyor?
+  - Yoksa pırasa bir yerden su mu sızdırdı?
+CLT_LEMON:
+  name: Limon
+  type:
+  - '&7&oMahsul'
+  description:
+  - Neden o ekşi surat?
+CLT_LEMON_DROP:
+  name: Limonlu Şekerleme
+  type:
+  - '&7&oYiyecek'
+  description:
+  - Damak temizleyici.
+  stats:
+  - '&8⇨ &7Tüm efektleri temizler ve seni yeniden acıktırır.'
+CLT_LETTUCE:
+  name: Marul
+  type:
+  - '&7&oMahsul'
+  description:
+  - İnce, sulu ama yine de lezzetli.
+CLT_LICORICE:
+  name: Meyan Kökü
+  type:
+  - '&7&oMahsul'
+  description:
+  - Kaç, hemen kaç!
+CLT_LIME:
+  name: Misket Limonu
+  type:
+  - '&7&oMahsul'
+  description:
+  - Bir varmış bir misketmiş, nefis bir meyve varmış...
+CLT_MACE:
+  name: Muskat Çiçeği
+  type:
+  - '&7&oMahsul'
+  description:
+  - Saldırganların yüzüne sıkmak için kullanılır.
+  - '...'
+  - Ne demek bu biber gazı değil, baharat mı?
+CLT_MANGO:
+  name: Mango
+  type:
+  - '&7&oMahsul'
+  description:
+  - MAN, GO dedim, gidiyorum.
+  - Açıklama yazmak zor iş...
+CLT_MARJORAM:
+  name: Mercanköşk
+  type:
+  - '&7&oMahsul'
+  description:
+  - Biraz telaştayım, köri sonra konuşsak olur mu?
+CLT_MARROW:
+  name: Sakız Kabağı
+  type:
+  - '&7&oMahsul'
+  description:
+  - Kabağın iliklerine kadar işlediğini
+  - biliyor muydun? Kemik iliği yani.
+  - Evet, Sefi Akıllı.
+CLT_MASHED_APPLE:
+  name: Ezilmiş Elma
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_APRICOT:
+  name: Ezilmiş Kayısı
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_ARTICHOKE:
+  name: Ezilmiş Enginar
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_ASPARAGUS:
+  name: Ezilmiş Kuşkonmaz
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_AUBERGINE:
+  name: Ezilmiş Patlıcan
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_AVOCADO:
+  name: Ezilmiş Avokado
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_BANANA:
+  name: Ezilmiş Muz
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_BASIL:
+  name: Ezilmiş Fesleğen
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_BAY_LEAF:
+  name: Ezilmiş Defne Yaprağı
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_BEEF:
+  name: Ezilmiş Sığır Eti
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_BEETROOT:
+  name: Ezilmiş Pancar
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_BELL_PEPPER:
+  name: Ezilmiş Dolmalık Biber
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_BLACK_BEANS:
+  name: Ezilmiş Siyah Fasulye
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_BREAD:
+  name: Ezilmiş Ekmek
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_BROCCOLI:
+  name: Ezilmiş Brokoli
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_BROWN_MUSHROOM:
+  name: Ezilmiş Kahverengi Mantar
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_BRUSSELS_SPROUTS:
+  name: Ezilmiş Brüksel Lahanası
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_CABBAGE:
+  name: Ezilmiş Lahana
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_CARROT:
+  name: Ezilmiş Havuç
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_CAULIFLOWER:
+  name: Ezilmiş Karnabahar
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_CAYENNE_PEPPER:
+  name: Ezilmiş Kayen Biberi
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_CELERIAC:
+  name: Ezilmiş Kereviz
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_CELERY:
+  name: Ezilmiş Sap Kereviz
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_CHERRY:
+  name: Ezilmiş Kiraz
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_CHESTNUT:
+  name: Ezilmiş Kestane
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_CHICKEN:
+  name: Ezilmiş Tavuk
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_CHICKPEAS:
+  name: Ezilmiş Nohut
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_CHICORY:
+  name: Ezilmiş Hindiba
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_CHILLY_PEPPER:
+  name: Ezilmiş Acı Biber
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_CHIVES:
+  name: Ezilmiş Frenk Soğanı
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_CHORUS_FRUIT:
+  name: Ezilmiş Nakarat Meyvesi
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_CILANTRO:
+  name: Ezilmiş Kişniş
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_CINNAMON:
+  name: Ezilmiş Tarçın
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_CLOVE:
+  name: Ezilmiş Karanfil
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_COCOA_BEANS:
+  name: Ezilmiş Kakao Çekirdekleri
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_COD:
+  name: Ezilmiş Morina
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_COURGETTE:
+  name: Ezilmiş Kabak
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_CUCUMBER:
+  name: Ezilmiş Salatalık
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_CUMIN:
+  name: Ezilmiş Kimyon
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_CURRY_LEAF:
+  name: Ezilmiş Köri Yaprağı
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_DILL:
+  name: Ezilmiş Dereotu
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_EGG:
+  name: Ezilmiş Yumurta
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_ENCHANTED_GOLDEN_APPLE:
+  name: Ezilmiş Büyülü Altın Elma
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_FENNEL:
+  name: Ezilmiş Rezene
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_GARLIC:
+  name: Ezilmiş Sarımsak
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_GINGER:
+  name: Ezilmiş Zencefil
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_GLOW_BERRIES:
+  name: Ezilmiş Parlayan Meyveler
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_GOLDEN_APPLE:
+  name: Ezilmiş Altın Elma
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_GOLDEN_CARROT:
+  name: Ezilmiş Altın Havuç
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_GRAPE:
+  name: Ezilmiş Üzüm
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_GREEN_APPLE:
+  name: Ezilmiş Yeşil Elma
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_GREEN_BEANS:
+  name: Ezilmiş Taze Fasulye
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_GREEN_ONION:
+  name: Ezilmiş Taze Soğan
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_HAZELNUT:
+  name: Ezilmiş Fındık
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_HORSERADISH:
+  name: Ezilmiş Yaban Turpu
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_JALAPENO:
+  name: Ezilmiş Jalapeno Biberi
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_JASMINE:
+  name: Ezilmiş Yasemin
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_JUNIPER_BERRY:
+  name: Ezilmiş Ardıç Meyvesi
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_KAFFIR_LIME:
+  name: Ezilmiş Kafir Limonu Yaprağı
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_KALE:
+  name: Ezilmiş Kara Lahana
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_KELP:
+  name: Ezilmiş Su Yosunu
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_KIWI:
+  name: Ezilmiş Kivi
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_LAVENDER:
+  name: Ezilmiş Lavanta
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_LEEK:
+  name: Ezilmiş Pırasa
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_LEMON:
+  name: Ezilmiş Limon
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_LETTUCE:
+  name: Ezilmiş Marul
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_LICORICE:
+  name: Ezilmiş Meyan Kökü
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_LIME:
+  name: Ezilmiş Misket Limonu
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_MACE:
+  name: Ezilmiş Muskat Çiçeği
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_MANGO:
+  name: Ezilmiş Mango
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_MARJORAM:
+  name: Ezilmiş Mercanköşk
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_MARROW:
+  name: Ezilmiş Sakız Kabağı
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_MELON:
+  name: Ezilmiş Karpuz
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_MINT:
+  name: Ezilmiş Nane
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_MUSTARD_SEEDS:
+  name: Ezilmiş Tane Hardal
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_MUTTON:
+  name: Ezilmiş Koyun Eti
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_NETTLES:
+  name: Ezilmiş Isırgan Otu
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_OKRA:
+  name: Ezilmiş Bamya
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_ONION:
+  name: Ezilmiş Soğan
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_ORANGE:
+  name: Ezilmiş Portakal
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_OREGANO:
+  name: Ezilmiş Dağ Kekiği
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_PARSLEY:
+  name: Ezilmiş Maydanoz
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_PARSNIP:
+  name: Ezilmiş Yaban Havucu
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_PEA:
+  name: Ezilmiş Bezelye
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_PEACH:
+  name: Ezilmiş Şeftali
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_PEANUT:
+  name: Ezilmiş Yer Fıstığı
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_PEAR:
+  name: Ezilmiş Armut
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_PECAN:
+  name: Ezilmiş Pekan Cevizi
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_PEPPER:
+  name: Ezilmiş Karabiber
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_PEPPERONI:
+  name: Ezilmiş Pepperoni
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_PINEAPPLE:
+  name: Ezilmiş Ananas
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_PINTO_BEANS:
+  name: Ezilmiş Barbunya
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_PORKCHOP:
+  name: Ezilmiş Domuz Pirzolası
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_POTATO:
+  name: Ezilmiş Patates
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_PUFFERFISH:
+  name: Ezilmiş Kirpi Balığı
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_PUMPKIN:
+  name: Ezilmiş Bal Kabağı
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_RABBIT:
+  name: Ezilmiş Tavşan
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_RADDISH:
+  name: Ezilmiş Turp
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_RADICCHIO:
+  name: Ezilmiş Kırmızı Hindiba
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_RAPESEED:
+  name: Ezilmiş Kolza
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_RED_MUSHROOM:
+  name: Ezilmiş Kırmızı Mantar
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_RHUBARB:
+  name: Ezilmiş Ravent
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_RICE:
+  name: Ezilmiş Pirinç
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_ROSEMARY:
+  name: Ezilmiş Biberiye
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_ROTTEN_FLESH:
+  name: Ezilmiş Çürük Et
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_RUNNER_BEANS:
+  name: Ezilmiş Sırık Fasulye
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_RUTABAGA:
+  name: Ezilmiş İsveç Şalgamı
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_SALMON:
+  name: Ezilmiş Somon
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_SASSAFRAS:
+  name: Ezilmiş Sassafras
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_SHALLOT:
+  name: Ezilmiş Arpacık Soğan
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_SHISO:
+  name: Ezilmiş Shiso
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_SOY_BEANS:
+  name: Ezilmiş Soya Fasulyesi
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_SPINACH:
+  name: Ezilmiş Ispanak
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_STAR_ANISE:
+  name: Ezilmiş Yıldız Anason
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_STRAWBERRY:
+  name: Ezilmiş Çilek
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_SUGAR:
+  name: Ezilmiş Şeker
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_SWEETCORN:
+  name: Ezilmiş Tatlı Mısır
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_SWEET_BERRIES:
+  name: Ezilmiş Tatlı Orman Meyveleri
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_SWEET_POTATO:
+  name: Ezilmiş Tatlı Patates
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_TARRAGON:
+  name: Ezilmiş Tarhun
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_THYME:
+  name: Ezilmiş Kekik
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_TOMATO:
+  name: Ezilmiş Domates
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_TURMERIC:
+  name: Ezilmiş Zerdeçal
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_TURNIP:
+  name: Ezilmiş Şalgam
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_VANILLA:
+  name: Ezilmiş Vanilya
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_WASABI:
+  name: Ezilmiş Vasabi
+  type:
+  - '&7&oYan Ürün'
+CLT_MASHED_WHEAT:
+  name: Ezilmiş Buğday
+  type:
+  - '&7&oYan Ürün'
+CLT_MAYONNAISE:
+  name: Mayonez
+  type:
+  - '&7&oMahsul'
+  description:
+  - Neredeyse her şeye yakışan, ipek gibi pürüzsüz bir mayonez.
+CLT_MEATBALLS:
+  name: Köfte
+  type:
+  - '&7&oMahsul'
+  description:
+  - Et topları, kimin aklına gelirdi.
+CLT_MEATLOAF:
+  name: Rulo Köfte
+  type:
+  - '&7&oYiyecek'
+  description:
+  - Eşi benzeri yok! Hadi bakalım.
+  stats:
+  - '&8⇨ &7İyileşme: &bTam'
+  - '&8⇨ &bSağlık Arttırma IV &7(10:00)'
+  - '&8⇨ &bDirenç III &7(10:00)'
+  - '&8⇨ &bAcele II &7(10:00)'
+  - '&8⇨ &bYavaşlık II &7(10:00)'
+CLT_MINT:
+  name: Nane
+  type:
+  - '&7&oMahsul'
+  description:
+  - Çiğne çiğne çiğne.
+CLT_MUSTARD:
+  name: Hardal
+  type:
+  - '&7&oMahsul'
+  description:
+  - Hafiften bir acısı var!
+CLT_MUSTARD_SEEDS:
+  name: Hardal Tohumu
+  type:
+  - '&7&oMahsul'
+  description:
+  - Çiğne bakalım, cesaretin varsa!
+CLT_NETTLES:
+  name: Isırgan Otu
+  type:
+  - '&7&oMahsul'
+  description:
+  - Bunları tutmadan önce lütfen eldivenlerini tak.
+CLT_OKRA:
+  name: Bamya
+  type:
+  - '&7&oMahsul'
+  description:
+  - Okra-homa'da bolca yetişir... değil mi, DEĞİL Mİ?
+CLT_ONION:
+  name: Soğan
+  type:
+  - '&7&oMahsul'
+  description:
+  - Dur, neden ağlıyorsun?
+CLT_ORANGE:
+  name: Portakal
+  type:
+  - '&7&oMahsul'
+  description:
+  - Bunun otomatik portakal olması gerekmiyor muydu?
+CLT_ORANGE_JUICE:
+  name: Portakal Suyu
+  type:
+  - '&7&oYiyecek'
+  description:
+  - Güne başlamanın gerçekten en iyi yolu.
+  stats:
+  - '&8⇨ &bHız IV &7(10:00)'
+CLT_OREGANO:
+  name: Dağ Kekiği
+  type:
+  - '&7&oMahsul'
+  description:
+  - Mutfak dolabının klasik baş otu.
+CLT_PARSLEY:
+  name: Maydanoz
+  type:
+  - '&7&oMahsul'
+  description:
+  - Dünyanın. En. Kötü. Otu.
+CLT_PARSNIP:
+  name: Yaban Havucu
+  type:
+  - '&7&oMahsul'
+  description:
+  - Hemen fırınlanması gerekir.
+CLT_PASTA:
+  name: Makarna
+  type:
+  - '&7&oMahsul'
+  description:
+  - Bildiğin sade makarna, basit ama harika.
+CLT_PEA:
+  name: Bezelye
+  type:
+  - '&7&oMahsul'
+  description:
+  - Genelde bir kabuğun içinde çift çift bulunur, öyle duydum.
+CLT_PEACH:
+  name: Şeftali
+  type:
+  - '&7&oMahsul'
+  description:
+  - Emojiden bahsetmiyoruz
+CLT_PEANUT:
+  name: Yer Fıstığı
+  type:
+  - '&7&oMahsul'
+  description:
+  - Reese's, geliyorum!
+CLT_PEANUT_BUTTER:
+  name: Fıstık Ezmesi
+  type:
+  - '&7&oMahsul'
+  description:
+  - Ancak sıvı altınla kıyaslanabilir.
+CLT_PEANUT_BUTTER_JELLY_SANDWICH:
+  name: Fıstık Ezmeli Reçelli Sandviç
+  type:
+  - '&7&oYiyecek'
+  description:
+  - Sandviç teknolojisinin gerçekten zirvesi.
+  stats:
+  - '&8⇨ &7İyileşme: &b5 Kalp'
+  - '&8⇨ &bKuvvet III &7(10:00)'
+CLT_PEAR:
+  name: Armut
+  type:
+  - '&7&oMahsul'
+  description:
+  - Armut piş, ağzıma düş. Tam kıvamında, değil mi?
+CLT_PECAN:
+  name: Pekan Cevizi
+  type:
+  - '&7&oMahsul'
+  description:
+  - Turta olmak için yalvarıyor.
+CLT_PECAN_PIE:
+  name: Pekan Cevizli Turta
+  type:
+  - '&7&oYiyecek'
+  description:
+  - Kimse seni yargılamadan saf şeker
+  - yemenin tek yolu.
+  stats:
+  - '&8⇨ &7İyileşme: &b4 Kalp'
+  - '&8⇨ &bYükselme I &7(10:00)'
+CLT_PEPPER:
+  name: Karabiber
+  type:
+  - '&7&oMahsul'
+  description:
+  - Tuzdan da baharatlı.
+CLT_PEPPERONI:
+  name: Pepperoni
+  type:
+  - '&7&oMahsul'
+  description:
+  - Bunun koca bir kütüğünü rahatça yiyebilirim.
+CLT_PICO_DE_GALLO:
+  name: Pico de Gallo
+  type:
+  - '&7&oMahsul'
+  description:
+  - Saf lezzet dolu, hafif bir salsa.
+CLT_PIE_CRUST:
+  name: Turta Tabanı
+  type:
+  - '&7&oMahsul'
+  description:
+  - Tek başına yemek yasal olsaydı
+  - ana besin kaynağım olurdu.
+CLT_PINEAPPLE:
+  name: Ananas
+  type:
+  - '&7&oMahsul'
+  description:
+  - Bu, var olan her pizzaya yakışır.
+  - Kavga mı istiyorsun!?
+CLT_PINTO_BEANS:
+  name: Barbunya
+  type:
+  - '&7&oMahsul'
+  description:
+  - Çaching! Burrito zamanı.
+CLT_PIZZA_CHEESE:
+  name: Peynirli Pizza
+  type:
+  - '&7&oYiyecek'
+  description:
+  - Neden biri sadece peynirli sipariş eder? Bilmiyorum.
+  stats:
+  - '&8⇨ &7İyileşme: &b4 Kalp'
+  - '&8⇨ &bYavaşlık I &7(10:00)'
+CLT_PIZZA_MUSHROOM:
+  name: Mantarlı Pizza
+  type:
+  - '&7&oYiyecek'
+  description:
+  - Protein dolu, basit bir vejetaryen pizza.
+  stats:
+  - '&8⇨ &7İyileşme: &b6 Kalp'
+  - '&8⇨ &bYavaşlık I &7(10:00)'
+  - '&8⇨ &bAcele II &7(10:00)'
+CLT_PIZZA_PEPPERONI:
+  name: Pepperonili Pizza
+  type:
+  - '&7&oYiyecek'
+  description:
+  - Lezzet dolu bir New York klasiği.
+  stats:
+  - '&8⇨ &7İyileşme: &b6 Kalp'
+  - '&8⇨ &bHız I &7(10:00)'
+  - '&8⇨ &bAcele I &7(10:00)'
+  - '&8⇨ &bZıplama Desteği I &7(10:00)'
+CLT_PLANT_AIR:
+  name: İlkel Hava Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Çevresindeki doğanın ezgisiyle
+  - sessizce mırıldanan bir bitki.
+  - '&eİlkel bitkiler eşya üretmez'
+  - '&eve yalnızca çiftleştirme içindir.'
+CLT_PLANT_AMETHYST:
+  name: Ametist Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Bu bitki derin, karanlık yerlerde
+  - serpilmeyi sever.
+CLT_PLANT_ANALYSER:
+  name: Bitki Analizörü
+  type:
+  - '&7&oAlet'
+  description:
+  - Büyüyen bir bitkinin ayrıntılarını
+  - görmeni sağlayan çok basit bir alet
+  usage:
+  - '&eSağ Tık&7: Bir bitkinin türünü ve büyüme ayrıntılarını gösterir.'
+  - '&eShift Sağ Tık&7: Bir bitkinin veya çalının adını gösterir.'
+CLT_PLANT_BASALT:
+  name: Bazalt Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Çok sıkıcı ve renksiz bir bitki.
+CLT_PLANT_BEE:
+  name: Arı Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Çok küçük ve narin bir çift kanadı olan bitki.
+CLT_PLANT_BLACKSTONE:
+  name: Karataş Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Işığı emdiği bilinen bir bitki.
+CLT_PLANT_BLAZE:
+  name: Blaze Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Kenarları kavrulmuş bir bitki.
+CLT_PLANT_CHICKEN:
+  name: Tavuk Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Söylentiye göre bu tohumu
+  - başının üstünde tutup yüksek
+  - bir yerden atlarsan, düşmek yerine
+  - süzülürmüşsün.
+CLT_PLANT_CLAY:
+  name: Kil Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Bu bitki serbestçe şekillendirilip yeniden
+  - biçimlendirilebilir. Ama bu, bunu yapmanın
+  - iyi bir fikir olduğu anlamına gelmez!
+CLT_PLANT_COAL:
+  name: Kömür Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Büyük bir potansiyel taşıyan bitki.
+CLT_PLANT_COBBLESTONE:
+  name: Kırık Taş Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Bu bitki kaya gibi sert.
+CLT_PLANT_CONCRETE:
+  name: Beton Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Bu bitki çok çabuk sertleştiği için
+  - büyümekte zorlanır.
+CLT_PLANT_COW:
+  name: İnek Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Bu tohumu kulağına tutup çok dikkatli
+  - dinlersen, ara sıra bir böğürme
+  - duyabilirsin.
+CLT_PLANT_CREEPER:
+  name: Creeper Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Tsssssssssttt...
+CLT_PLANT_DARKNESS:
+  name: İlkel Karanlık Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Dizginlenemeyen bir öfkeyle
+  - köpüren bir bitki.
+  - '&eİlkel bitkiler eşya üretmez'
+  - '&eve yalnızca çiftleştirme içindir.'
+CLT_PLANT_DARK_FLORA:
+  name: Karanlık Flora Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Bu sade tohumun içinde sessiz bir kötülük yatar.
+CLT_PLANT_DARK_GRASS:
+  name: Karanlık Çimen Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Kimliğini gerçekten yitirmiş
+  - bir bitki.
+CLT_PLANT_DEEPSLATE:
+  name: Kayrak Taşı Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Derin, kayrak gibi, <buraya açıklama ekle>.
+CLT_PLANT_DIAMOND:
+  name: Elmas Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Zenginlik kokan bir bitki.
+CLT_PLANT_DIM_LIT:
+  name: Loş Bitki
+  type:
+  - '&7&oBitki'
+  description:
+  - Bu tohumun içinden çok loş bir ışık yayılır.
+CLT_PLANT_DIRT:
+  name: Toprak Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Yüzeyi kirli ama yaşamın kendisinin
+  - yapı taşlarını barındırıyor.
+CLT_PLANT_DROWNED:
+  name: Boğuk Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Her zaman sırılsıklam
+  - olan bir bitki.
+CLT_PLANT_DUSTY:
+  name: Tozlu Bitki
+  type:
+  - '&7&oBitki'
+  description:
+  - Bu bitki özel bakım ister, en ufak
+  - sert bir esinti bile onu dağıtmaya
+  - yetebilir.
+CLT_PLANT_EARTH:
+  name: İlkel Toprak Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Çevresindeki dünyayı
+  - zenginleştiren bir bitki.
+  - '&eİlkel bitkiler eşya üretmez'
+  - '&eve yalnızca çiftleştirme içindir.'
+CLT_PLANT_ECHO:
+  name: Yankı Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Bu bitki evinin yolunu
+  - her zaman bulur.
+CLT_PLANT_ELDER_GUARDIAN:
+  name: Yaşlı Gardiyan Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Bu bitkinin yakınında olmak insanları
+  - uyuşuk yapar.
+CLT_PLANT_EMERALD:
+  name: Zümrüt Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Bu bitkinin sahipleri onu alabilmek için
+  - takla atmak zorunda kalır.
+CLT_PLANT_ENDERMAN:
+  name: Enderman Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Dikkatli davranılmazsa bu bitki
+  - rastgele ışınlanabilir!
+CLT_PLANT_ENDER_DRAGON:
+  name: Ender Ejderhası Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Tam bir boss gibi bitki.
+CLT_PLANT_END_STONE:
+  name: End Taşı Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Boşlukla birlikte uğuldayan bir bitki.
+CLT_PLANT_FIRE:
+  name: İlkel Ateş Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Hem yıkımın hem de yeniden
+  - doğuşun kaynaklarını sağlayan
+  - bir bitki.
+  - '&eİlkel bitkiler eşya üretmez'
+  - '&eve yalnızca çiftleştirme içindir.'
+CLT_PLANT_FISH:
+  name: Balık Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Bu tohumdan olgun bir koku yayılıyor.
+CLT_PLANT_FLOWER:
+  name: Çiçekli Bitki
+  type:
+  - '&7&oBitki'
+  description:
+  - Güzelce sunulmuş bir bereket boynuzu.
+CLT_PLANT_FROG:
+  name: Kurbağa Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Vırak!
+CLT_PLANT_GHAST:
+  name: Ghast Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Rastgele ateş topları fırlattığı
+  - bilinen bir bitki.
+CLT_PLANT_GLASS:
+  name: Cam Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Doğru açıdan bakınca, bu bitkinin
+  - içini görebildiğine yemin edebilirsin.
+CLT_PLANT_GLAZED:
+  name: Sırlı Bitki
+  type:
+  - '&7&oBitki'
+  description:
+  - Karmaşık bir desenle büyüyen bitki.
+CLT_PLANT_GLOWING_VINE:
+  name: Parlayan Sarmaşık Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Bu tohumun içinden hafif bir ışık yayılır.
+CLT_PLANT_GLOW_SQUID:
+  name: Parlayan Mürekkep Balığı Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Hafifçe parlayan, ışıl ışıl bir bitki.
+CLT_PLANT_GOAT:
+  name: Keçi Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Etrafta zıplamayı seven, durduk yere
+  - saldırganlaşan bir bitki.
+CLT_PLANT_GRASS:
+  name: Çimen Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Topraktan fışkıran, filizlenen
+  - hayat.
+CLT_PLANT_GRAVEL:
+  name: Çakıl Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Bu bitki kendini nasıl toparlayacağını
+  - hiç bilmiyor.
+CLT_PLANT_GUARDIAN:
+  name: Gardiyan Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Dokunulduğunda bu bitki
+  - diken saçar.
+CLT_PLANT_IGNEOUS:
+  name: Magmatik Bitki
+  type:
+  - '&7&oBitki'
+  description:
+  - Bu bitki ısı ve basınçla oluştu.
+  - Bana öyle bakma! Bütün bu bitki
+  - açıklamaları gayet mantıklı.
+CLT_PLANT_LAPIS:
+  name: Lapis Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Hafif büyülü bir havası olan bitki.
+CLT_PLANT_LIGHT:
+  name: İlkel Işık Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Saf sevgi yayan
+  - bir bitki.
+  - '&eİlkel bitkiler eşya üretmez'
+  - '&eve yalnızca çiftleştirme içindir.'
+CLT_PLANT_MAGMA:
+  name: Magma Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - O kadar sıcak ki çevresini
+  - yakan bir bitki.
+CLT_PLANT_MAGMA_CUBE:
+  name: Magma Küpü Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Kimse bakmadığında bu bitki
+  - yukarı aşağı zıplamayı sever.
+CLT_PLANT_MOSS:
+  name: Yosun Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Bu bitki kontrolsüzce yayılma eğilimindedir.
+CLT_PLANT_MUD:
+  name: Çamur Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Neredeyse geldiği toprak kadar
+  - kirli bir bitki.
+CLT_PLANT_MUSHROOM:
+  name: Mantar Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Evet, mantar yapan bir bitki.
+  - Burada her şey tamamen normal.
+CLT_PLANT_NETHERRACK:
+  name: Netherrack Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Çoğu yerde hayatta kalabilen
+  - sağlam, dayanıklı bir bitki.
+CLT_PLANT_NETHER_QUARTZ:
+  name: Nether Kuvarsı Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Bu bitkinin dikenleri o kadar keskin ki
+  - onunla çalışmak zor.
+CLT_PLANT_PHANTOM:
+  name: Kâbus Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Yüce yapraklı bir bitki.
+CLT_PLANT_PIG:
+  name: Domuz Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Durduk yere burnundan soluyan bir bitki.
+CLT_PLANT_POWER:
+  name: İlkel Güç Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Resmen güç saçan bir bitki.
+  - '&eİlkel bitkiler eşya üretmez'
+  - '&eve yalnızca çiftleştirme içindir.'
+CLT_PLANT_PURPUR:
+  name: Purpur Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Tuhaf bir bitki, çoğundan çok
+  - daha hafif görünüyor.
+CLT_PLANT_RABBIT:
+  name: Tavşan Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Böcekler gurur duyardı.
+CLT_PLANT_RAINBOW:
+  name: Gökkuşağı Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Bu bitkinin sonunda bir küp altın
+  - olabilir de olmayabilir de.
+CLT_PLANT_RAW_COPPER:
+  name: Ham Bakır Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Kendi haline bırakılırsa bu bitki
+  - bazen yıldırım çeker.
+CLT_PLANT_RAW_GOLD:
+  name: Ham Altın Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Yakınlarda piglin varsa bu bitki
+  - sık sık çalınır.
+CLT_PLANT_RAW_IRON:
+  name: Ham Demir Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Çoğu ortama dayanabilen
+  - sağlam bir bitki.
+CLT_PLANT_REDSTONE:
+  name: Kızıltaş Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Baştan aşağı güçle dolup taşan bir bitki.
+CLT_PLANT_RED_SAND:
+  name: Kırmızı Kum Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Bu bitki bazen tek bir dokunuşla
+  - ufalanabilir, ama... daha kırmızı.
+CLT_PLANT_REINFORCED:
+  name: Güçlendirilmiş Bitki
+  type:
+  - '&7&oBitki'
+  description:
+  - Her şeye rağmen kendini ayakta
+  - tutabilen bir bitki.
+CLT_PLANT_SAND:
+  name: Kum Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Bu bitki bazen tek bir dokunuşla
+  - ufalanabilir.
+CLT_PLANT_SAPLING:
+  name: Fidan Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Bu bitki hiç mantıklı bile değil...
+CLT_PLANT_SCRAPPY:
+  name: Hurdalı Bitki
+  type:
+  - '&7&oBitki'
+  description:
+  - Bu bitki gerçekten bahçeciliğin
+  - zirvesi.
+CLT_PLANT_SHEEP:
+  name: Koyun Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Kaba, yünlü dokulu bir bitki.
+CLT_PLANT_SHULKER:
+  name: Shulker Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Sık sık yerden havalanan
+  - bir bitki.
+CLT_PLANT_SKELETON:
+  name: İskelet Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Sallandıkça takırdayan bir bitki.
+CLT_PLANT_SLIME:
+  name: Balçık Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Neden bu kadar yapış yapış?
+CLT_PLANT_SOUL:
+  name: Ruh Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Ortalık sessizken çığlık attığı
+  - duyulabilen bir bitki.
+CLT_PLANT_SPECTRUM:
+  name: İlkel Tayf Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Rengi hafifçe değişen bir bitki.
+  - '&eİlkel bitkiler eşya üretmez'
+  - '&eve yalnızca çiftleştirme içindir.'
+CLT_PLANT_SPIDER:
+  name: Örümcek Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Öldür onu, HEMEN öldür!
+CLT_PLANT_SQUID:
+  name: Mürekkep Balığı Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Dikkat et, bu bitkiye dokunmak bile
+  - her yere mürekkep patlatma ihtimali
+  - taşır.
+CLT_PLANT_STAINED:
+  name: Boyalı Bitki
+  type:
+  - '&7&oBitki'
+  description:
+  - Bu bitki ışığı yakındaki nesnelere
+  - gerçek bir tayf halinde böler.
+CLT_PLANT_TERRA:
+  name: Pişmiş Toprak Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Baskı altında çatlayan sert, topraksı bir bitki.
+CLT_PLANT_TURTLE:
+  name: Kaplumbağa Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Kaya gibi sert bir kabukla çevrili bir tohum.
+CLT_PLANT_VILLAGER:
+  name: Köylü Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Evet, bir köylünün özünü bir bitkiye
+  - yoğunlaştırdık. Görünüşe göre çok acıtmış.
+CLT_PLANT_VINE:
+  name: Sarmaşık Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Anında kendi kendine dolanan
+  - bir bitki.
+CLT_PLANT_WATER:
+  name: İlkel Su Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Çevresini besleyen ve ona
+  - hayat veren bir bitki.
+  - '&eİlkel bitkiler eşya üretmez'
+  - '&eve yalnızca çiftleştirme içindir.'
+CLT_PLANT_WAXY:
+  name: Mumlu Bitki
+  type:
+  - '&7&oBitki'
+  description:
+  - Bu bitkinin özsuyu kusursuz
+  - mum biçiminde balmumuna dönüşür.
+CLT_PLANT_WEALTH:
+  name: İlkel Servet Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Coşkun bir zenginlik haykıran bir bitki.
+  - '&eİlkel bitkiler eşya üretmez'
+  - '&eve yalnızca çiftleştirme içindir.'
+CLT_PLANT_WITCH:
+  name: Cadı Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Usulca büyü mırıldanıyormuş
+  - gibi ses çıkaran bir bitki.
+CLT_PLANT_WITHER:
+  name: Wither Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Dikkatle ele alınması gereken
+  - ölümcül bir bitki.
+CLT_PLANT_WITHER_ROSE:
+  name: Wither Gülü Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Bu bitki bir şekilde etrafına zararlı
+  - bir aura yayıyor.
+CLT_PLANT_WITHER_SKELETON:
+  name: Wither İskeleti Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Ele geçmez ve dayanıklı olduğu bilinen bir bitki.
+CLT_PLANT_WOOLLY:
+  name: Yünlü Bitki
+  type:
+  - '&7&oBitki'
+  description:
+  - Kökünden taç yapraklarına kadar yünlü bir bitki!
+CLT_PLANT_ZOMBIE:
+  name: Zombi Bitkisi
+  type:
+  - '&7&oBitki'
+  description:
+  - Bu bitkiden bir şeyler damlıyor... bir şeyler...
+CLT_RADDISH:
+  name: Turp
+  type:
+  - '&7&oMahsul'
+  description:
+  - Taze, çıtır, minik güneş cepleri.
+CLT_RADICCHIO:
+  name: Kırmızı Hindiba
+  type:
+  - '&7&oMahsul'
+  description:
+  - Bütün bu açıklamaları yazmak çok uzun sürüyor.
+  - Resmen kırmızı hindiba gibi acı bir iş.
+CLT_RAMEN_BEEF:
+  name: Sığır Etli Ramen
+  type:
+  - '&7&oYiyecek'
+  description:
+  - Pek de sağlıklı olmayan bir seçim.
+  stats: &id004
+  - '&8⇨ &bSağlık Arttırma I &7(10:00)'
+CLT_RAMEN_BEEF_HEARTY:
+  name: Doyurucu Sığır Etli Ramen
+  type:
+  - '&7&oYiyecek'
+  description:
+  - Sağlıklı bir seçim.
+  stats: &id005
+  - '&8⇨ &7İyileşme: &bTam'
+  - '&8⇨ &bSağlık Arttırma II &7(10:00)'
+  - '&8⇨ &bHız I &7(10:00)'
+CLT_RAMEN_CHICKEN:
+  name: Tavuklu Ramen
+  type:
+  - '&7&oYiyecek'
+  description:
+  - Pek de doyurucu olmayan bir seçim.
+  stats: *id004
+CLT_RAMEN_CHICKEN_HEARTY:
+  name: Doyurucu Tavuklu Ramen
+  type:
+  - '&7&oYiyecek'
+  description:
+  - Doyurucu bir seçim.
+  stats: *id005
+CLT_RAMEN_SEAFOOD:
+  name: Deniz Ürünlü Ramen
+  type:
+  - '&7&oYiyecek'
+  description:
+  - Pek de tatmin edici olmayan bir seçim.
+  stats: *id004
+CLT_RAMEN_SEAFOOD_HEARTY:
+  name: Doyurucu Deniz Ürünlü Ramen
+  type:
+  - '&7&oYiyecek'
+  description:
+  - Tatmin edici bir seçim.
+  stats: *id005
+CLT_RAPESEED:
+  name: Kolza
+  type:
+  - '&7&oMahsul'
+  description:
+  - Sıklıkla yağ yapımında kullanılır.
+CLT_RECIPE_UNLOCK:
+  name: Cultivation Bilgi Parşömeni
+  type:
+  - '&7&oAlet'
+  description:
+  - Bir Cultivation çiftleştirme tarifi
+  - öğrenmek için sağ tıkla.
+CLT_RHUBARB:
+  name: Ravent
+  type:
+  - '&7&oMahsul'
+  description:
+  - Yaprakları çıkarmayı sakın unutma!
+CLT_RICE:
+  name: Pirinç
+  type:
+  - '&7&oMahsul'
+  description:
+  - Unutma, pirince giderken bulgurdan olma!
+CLT_ROSEMARY:
+  name: Biberiye
+  type:
+  - '&7&oMahsul'
+  description:
+  - Sık sık kekiği özlüyor.
+CLT_RUNNER_BEANS:
+  name: Sırık Fasulye
+  type:
+  - '&7&oMahsul'
+  description:
+  - Hep kaçmaya çalışıyor.
+CLT_RUTABAGA:
+  name: İsveç Şalgamı
+  type:
+  - '&7&oMahsul'
+  description:
+  - Buna İsveçli dememek gerçekten acı veriyor.
+CLT_SALMON_NIGIRI:
+  name: Somon Nigiri
+  type:
+  - '&7&oYiyecek'
+  description:
+  - Nefis ama ince bir lezzet.
+  stats:
+  - '&8⇨ &7İyileşme: &b2 Kalp'
+  - '&8⇨ &bYenilenme I &7(10:00)'
+CLT_SASSAFRAS:
+  name: Sassafras
+  type:
+  - '&7&oMahsul'
+  description:
+  - Yenilebilir Kök Birası, cidden google'la,
+  - artık sürekli alıyorum.
+CLT_SAUSAGE:
+  name: Sosis
+  type:
+  - '&7&oYiyecek'
+  description:
+  - Pastırmanın kardeşi.
+  stats: &id007
+  - '&8⇨ &7İyileşme: &b1 Kalp'
+CLT_SEED_PACK:
+  name: Tohum Paketi
+  type:
+  - '&7&oAlet'
+  description:
+  - Bu paketi açmak için sağ tıkla.
+  stats:
+  - '&8⇨ &7Ayarlı: &bHiçbiri'
+CLT_SHAKSHUKA:
+  name: Şakşuka
+  type:
+  - '&7&oYiyecek'
+  description:
+  - Bol yumurtalı, içini ısıtan bir yemek.
+  stats:
+  - '&8⇨ &7İyileşme: &b4 Kalp'
+  - '&8⇨ &bKöyün Kahramanı I &7(10:00)'
+  - '&8⇨ &bŞans I &7(10:00)'
+CLT_SHALLOT:
+  name: Arpacık Soğan
+  type:
+  - '&7&oMahsul'
+  description:
+  - Arpacık soğanını arpacık kadar değil, kocaman severim.
+CLT_SHEPHERDS_PIE:
+  name: Çoban Turtası
+  type:
+  - '&7&oYiyecek'
+  description:
+  - Sıcacık, doyurucu ve harika.
+  stats: *id006
+CLT_SHISO:
+  name: Shiso
+  type:
+  - '&7&oMahsul'
+  description:
+  - Yanında sevgi servis edilen nane.
+CLT_SLICED_APPLE:
+  name: Dilimlenmiş Elma
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_APRICOT:
+  name: Dilimlenmiş Kayısı
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_ARTICHOKE:
+  name: Dilimlenmiş Enginar
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_ASPARAGUS:
+  name: Dilimlenmiş Kuşkonmaz
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_AUBERGINE:
+  name: Dilimlenmiş Patlıcan
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_AVOCADO:
+  name: Dilimlenmiş Avokado
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_BANANA:
+  name: Dilimlenmiş Muz
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_BASIL:
+  name: Dilimlenmiş Fesleğen
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_BAY_LEAF:
+  name: Dilimlenmiş Defne Yaprağı
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_BEEF:
+  name: Dilimlenmiş Sığır Eti
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_BEETROOT:
+  name: Dilimlenmiş Pancar
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_BELL_PEPPER:
+  name: Dilimlenmiş Dolmalık Biber
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_BLACK_BEANS:
+  name: Dilimlenmiş Siyah Fasulye
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_BREAD:
+  name: Dilimlenmiş Ekmek
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_BROCCOLI:
+  name: Dilimlenmiş Brokoli
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_BROWN_MUSHROOM:
+  name: Dilimlenmiş Kahverengi Mantar
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_BRUSSELS_SPROUTS:
+  name: Dilimlenmiş Brüksel Lahanası
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_CABBAGE:
+  name: Dilimlenmiş Lahana
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_CARROT:
+  name: Dilimlenmiş Havuç
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_CAULIFLOWER:
+  name: Dilimlenmiş Karnabahar
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_CAYENNE_PEPPER:
+  name: Dilimlenmiş Kayen Biberi
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_CELERIAC:
+  name: Dilimlenmiş Kereviz
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_CELERY:
+  name: Dilimlenmiş Sap Kereviz
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_CHERRY:
+  name: Dilimlenmiş Kiraz
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_CHESTNUT:
+  name: Dilimlenmiş Kestane
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_CHICKEN:
+  name: Dilimlenmiş Tavuk
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_CHICKPEAS:
+  name: Dilimlenmiş Nohut
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_CHICORY:
+  name: Dilimlenmiş Hindiba
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_CHILLY_PEPPER:
+  name: Dilimlenmiş Acı Biber
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_CHIVES:
+  name: Dilimlenmiş Frenk Soğanı
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_CHORUS_FRUIT:
+  name: Dilimlenmiş Nakarat Meyvesi
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_CILANTRO:
+  name: Dilimlenmiş Kişniş
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_CINNAMON:
+  name: Dilimlenmiş Tarçın
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_CLOVE:
+  name: Dilimlenmiş Karanfil
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_COCOA_BEANS:
+  name: Dilimlenmiş Kakao Çekirdekleri
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_COD:
+  name: Dilimlenmiş Morina
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_COURGETTE:
+  name: Dilimlenmiş Kabak
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_CUCUMBER:
+  name: Dilimlenmiş Salatalık
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_CUMIN:
+  name: Dilimlenmiş Kimyon
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_CURRY_LEAF:
+  name: Dilimlenmiş Köri Yaprağı
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_DILL:
+  name: Dilimlenmiş Dereotu
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_EGG:
+  name: Dilimlenmiş Yumurta
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_ENCHANTED_GOLDEN_APPLE:
+  name: Dilimlenmiş Büyülü Altın Elma
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_FENNEL:
+  name: Dilimlenmiş Rezene
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_GARLIC:
+  name: Dilimlenmiş Sarımsak
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_GINGER:
+  name: Dilimlenmiş Zencefil
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_GLOW_BERRIES:
+  name: Dilimlenmiş Parlayan Meyveler
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_GOLDEN_APPLE:
+  name: Dilimlenmiş Altın Elma
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_GOLDEN_CARROT:
+  name: Dilimlenmiş Altın Havuç
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_GRAPE:
+  name: Dilimlenmiş Üzüm
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_GREEN_APPLE:
+  name: Dilimlenmiş Yeşil Elma
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_GREEN_BEANS:
+  name: Dilimlenmiş Taze Fasulye
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_GREEN_ONION:
+  name: Dilimlenmiş Taze Soğan
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_HAZELNUT:
+  name: Dilimlenmiş Fındık
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_HORSERADISH:
+  name: Dilimlenmiş Yaban Turpu
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_JALAPENO:
+  name: Dilimlenmiş Jalapeno Biberi
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_JASMINE:
+  name: Dilimlenmiş Yasemin
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_JUNIPER_BERRY:
+  name: Dilimlenmiş Ardıç Meyvesi
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_KAFFIR_LIME:
+  name: Dilimlenmiş Kafir Limonu Yaprağı
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_KALE:
+  name: Dilimlenmiş Kara Lahana
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_KELP:
+  name: Dilimlenmiş Su Yosunu
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_KIWI:
+  name: Dilimlenmiş Kivi
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_LAVENDER:
+  name: Dilimlenmiş Lavanta
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_LEEK:
+  name: Dilimlenmiş Pırasa
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_LEMON:
+  name: Dilimlenmiş Limon
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_LETTUCE:
+  name: Dilimlenmiş Marul
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_LICORICE:
+  name: Dilimlenmiş Meyan Kökü
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_LIME:
+  name: Dilimlenmiş Misket Limonu
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_MACE:
+  name: Dilimlenmiş Muskat Çiçeği
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_MANGO:
+  name: Dilimlenmiş Mango
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_MARJORAM:
+  name: Dilimlenmiş Mercanköşk
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_MARROW:
+  name: Dilimlenmiş Sakız Kabağı
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_MELON:
+  name: Dilimlenmiş Karpuz
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_MINT:
+  name: Dilimlenmiş Nane
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_MUSTARD_SEEDS:
+  name: Dilimlenmiş Tane Hardal
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_MUTTON:
+  name: Dilimlenmiş Koyun Eti
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_NETTLES:
+  name: Dilimlenmiş Isırgan Otu
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_OKRA:
+  name: Dilimlenmiş Bamya
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_ONION:
+  name: Dilimlenmiş Soğan
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_ORANGE:
+  name: Dilimlenmiş Portakal
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_OREGANO:
+  name: Dilimlenmiş Dağ Kekiği
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_PARSLEY:
+  name: Dilimlenmiş Maydanoz
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_PARSNIP:
+  name: Dilimlenmiş Yaban Havucu
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_PEA:
+  name: Dilimlenmiş Bezelye
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_PEACH:
+  name: Dilimlenmiş Şeftali
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_PEANUT:
+  name: Dilimlenmiş Yer Fıstığı
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_PEAR:
+  name: Dilimlenmiş Armut
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_PECAN:
+  name: Dilimlenmiş Pekan Cevizi
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_PEPPER:
+  name: Dilimlenmiş Karabiber
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_PEPPERONI:
+  name: Dilimlenmiş Pepperoni
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_PINEAPPLE:
+  name: Dilimlenmiş Ananas
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_PINTO_BEANS:
+  name: Dilimlenmiş Barbunya
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_PORKCHOP:
+  name: Dilimlenmiş Domuz Pirzolası
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_POTATO:
+  name: Dilimlenmiş Patates
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_PUFFERFISH:
+  name: Dilimlenmiş Kirpi Balığı
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_PUMPKIN:
+  name: Dilimlenmiş Bal Kabağı
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_RABBIT:
+  name: Dilimlenmiş Tavşan
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_RADDISH:
+  name: Dilimlenmiş Turp
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_RADICCHIO:
+  name: Dilimlenmiş Kırmızı Hindiba
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_RAPESEED:
+  name: Dilimlenmiş Kolza
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_RED_MUSHROOM:
+  name: Dilimlenmiş Kırmızı Mantar
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_RHUBARB:
+  name: Dilimlenmiş Ravent
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_RICE:
+  name: Dilimlenmiş Pirinç
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_ROSEMARY:
+  name: Dilimlenmiş Biberiye
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_ROTTEN_FLESH:
+  name: Dilimlenmiş Çürük Et
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_RUNNER_BEANS:
+  name: Dilimlenmiş Sırık Fasulye
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_RUTABAGA:
+  name: Dilimlenmiş İsveç Şalgamı
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_SALMON:
+  name: Dilimlenmiş Somon
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_SASSAFRAS:
+  name: Dilimlenmiş Sassafras
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_SHALLOT:
+  name: Dilimlenmiş Arpacık Soğan
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_SHISO:
+  name: Dilimlenmiş Shiso
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_SOY_BEANS:
+  name: Dilimlenmiş Soya Fasulyesi
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_SPINACH:
+  name: Dilimlenmiş Ispanak
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_STAR_ANISE:
+  name: Dilimlenmiş Yıldız Anason
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_STRAWBERRY:
+  name: Dilimlenmiş Çilek
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_SUGAR:
+  name: Dilimlenmiş Şeker
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_SWEETCORN:
+  name: Dilimlenmiş Tatlı Mısır
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_SWEET_BERRIES:
+  name: Dilimlenmiş Tatlı Orman Meyveleri
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_SWEET_POTATO:
+  name: Dilimlenmiş Tatlı Patates
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_TARRAGON:
+  name: Dilimlenmiş Tarhun
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_THYME:
+  name: Dilimlenmiş Kekik
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_TOMATO:
+  name: Dilimlenmiş Domates
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_TURMERIC:
+  name: Dilimlenmiş Zerdeçal
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_TURNIP:
+  name: Dilimlenmiş Şalgam
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_VANILLA:
+  name: Dilimlenmiş Vanilya
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_WASABI:
+  name: Dilimlenmiş Vasabi
+  type:
+  - '&7&oYan Ürün'
+CLT_SLICED_WHEAT:
+  name: Dilimlenmiş Buğday
+  type:
+  - '&7&oYan Ürün'
+CLT_SOFT_BOILED_EGG:
+  name: Rafadan Yumurta
+  type:
+  - '&7&oYiyecek'
+  description:
+  - Bildiğin haşlanmış yumurta, daha ne denir.
+  stats:
+  - '&8⇨ &7İyileşme: &b1 Kalp'
+  - '&8⇨ &7Bazen yardımına bir tavuk çağırabilir.'
+CLT_SOYLENT:
+  name: Soylent
+  type:
+  - '&7&oYiyecek'
+  description:
+  - Vücudun ihtiyacı olan her şey!
+  stats:
+  - '&8⇨ &bKötü Kehanet I &7(10:00)'
+  - '&8⇨ &bZayıflık IV &7(10:00)'
+CLT_SOY_BEANS:
+  name: Soya Fasulyesi
+  type:
+  - '&7&oMahsul'
+  description:
+  - Soya sütü geliyor.
+CLT_SPAGHETTI:
+  name: Spagetti
+  type:
+  - '&7&oYiyecek'
+  description:
+  - Höpürdetmeye devam.
+  stats: *id007
+CLT_SPAGHETTI_AND_MEATBALLS:
+  name: Köfteli Spagetti
+  type:
+  - '&7&oYiyecek'
+  description:
+  - Basit, klasik ve doyurucu.
+  stats:
+  - '&8⇨ &7İyileşme: &b1 Kalp'
+  - '&8⇨ &bKötü Kehanet I &7(10:00)'
+CLT_SPINACH:
+  name: Ispanak
+  type:
+  - '&7&oMahsul'
+  description:
+  - Sevgiyle soldurulmuş.
+CLT_STAR_ANISE:
+  name: Yıldız Anason
+  type:
+  - '&7&oMahsul'
+  description:
+  - En iyi ve en eşsiz lezzetlerden biri.
+CLT_STRAWBERRY:
+  name: Çilek
+  type:
+  - '&7&oMahsul'
+  description:
+  - Sadece krema ekle!
+CLT_STRAWBERRY_JELLY:
+  name: Çilek Jölesi
+  type:
+  - '&7&oMahsul'
+  description: *id008
+CLT_SUGARED_SKULL:
+  name: Şekerli Kafatası
+  type:
+  - '&7&oYiyecek'
+  description:
+  - Bu yiyecek mi ki...?
+  stats:
+  - '&8⇨ &bKaranlık III &7(10:00)'
+CLT_SWEETCORN:
+  name: Tatlı Mısır
+  type:
+  - '&7&oMahsul'
+  description:
+  - Belki de etraftaki en iyi sebze.
+CLT_SWEET_BEEHIVE:
+  name: Tatlı Arı Kovanı
+  type:
+  - '&7&oYiyecek'
+  description:
+  - Bunu pişirmeyi neden istediğini hiç anlamadım!
+  stats:
+  - '&8⇨ &7Birkaç arı çağırır!'
+CLT_SWEET_POTATO:
+  name: Tatlı Patates
+  type:
+  - '&7&oMahsul'
+  description:
+  - Ham ham ham.
+CLT_TAQUITO:
+  name: Taquito
+  type:
+  - '&7&oYiyecek'
+  description:
+  - Zim gurur duyardı!
+  stats:
+  - '&8⇨ &7İyileşme: &b4 Kalp'
+  - '&8⇨ &7Yardım için Gir''i çağırır (Bir Demir Golem, sakin ol).'
+CLT_TARRAGON:
+  name: Tarhun
+  type:
+  - '&7&oMahsul'
+  description:
+  - Bunu resmen her şeye koyarım.
+  - 'Sürpriz bozan: İyi bir aşçı değilim.'
+CLT_TATER_TOTS:
+  name: Patates Topları
+  type:
+  - '&7&oYiyecek'
+  description:
+  - Atıştırmalık minik patates topları.
+  stats:
+  - '&8⇨ &7İyileşme: &b0.5 Kalp'
+  - '&8⇨ &bHız II &7(10:00)'
+CLT_THYME:
+  name: Kekik
+  type:
+  - '&7&oMahsul'
+  description:
+  - Sık sık biberiyeyi özledi.
+CLT_TOMATO:
+  name: Domates
+  type:
+  - '&7&oMahsul'
+  description:
+  - Doğrudan asmadan.... şey... çalıdan mı?
+CLT_TORTILLAS:
+  name: Tortilla
+  type:
+  - '&7&oMahsul'
+  description:
+  - Mısır unu lezzetleri
+CLT_TREE_APRICOT:
+  name: Kayısı Ağacı
+  type:
+  - '&7&oFidan'
+  description:
+  - İçinde tek bir umutsuzluk çekirdeği var.
+  stats: &id009
+  - '&8⇨ &7Tasarım: &bBWhite'
+CLT_TREE_BANANA:
+  name: Muz Ağacı
+  type:
+  - '&7&oFidan'
+  description:
+  - Parmak yetiştiren bir ağaç, ürkütücü!
+  stats:
+  - '&8⇨ &7Tasarım: &bSefiraat'
+CLT_TREE_CHERRY:
+  name: Kiraz Ağacı
+  type:
+  - '&7&oFidan'
+  description:
+  - Düğümü at!
+  stats:
+  - '&8⇨ &7Tasarım: &bReasonFoundDecoy'
+CLT_TREE_CHESTNUT:
+  name: Kestane Ağacı
+  type:
+  - '&7&oFidan'
+  description:
+  - Belli ki tırmanılmak için tasarlanmış bir ağaç.
+  stats: &id010
+  - '&8⇨ &7Tasarım: &bABitOddish'
+CLT_TREE_GREEN_APPLE:
+  name: Yeşil Elma Ağacı
+  type:
+  - '&7&oFidan'
+  description:
+  - İri ve çıtır yeşil elmalar yetiştirir.
+  stats: *id009
+CLT_TREE_HAZELNUT:
+  name: Fındık Ağacı
+  type:
+  - '&7&oFidan'
+  description:
+  - Bu ağacı sallamak bir çocukluk eğlencesidir.
+  stats: *id010
+CLT_TREE_KIWI:
+  name: Kivi Ağacı
+  type:
+  - '&7&oFidan'
+  description:
+  - Bir Yeni Zelanda ağacı mı? Doğru mu anladım?
+  stats: *id010
+CLT_TREE_LEMON:
+  name: Limon Ağacı
+  type:
+  - '&7&oFidan'
+  description:
+  - Bu ağaca bakmak bile ağzında ekşi bir tat bırakıyor.
+  stats: &id011
+  - '&8⇨ &7Tasarım: &bJeff'
+CLT_TREE_LIME:
+  name: Misket Limonu Ağacı
+  type:
+  - '&7&oFidan'
+  description:
+  - Misket limonlarının nefesini tutan limonlar olduğunu biliyor muydun?
+  stats: *id010
+CLT_TREE_MANGO:
+  name: Mango Ağacı
+  type:
+  - '&7&oFidan'
+  description:
+  - En olgun halindeyken en iyisi.
+  stats: *id009
+CLT_TREE_ORANGE:
+  name: Portakal Ağacı
+  type:
+  - '&7&oFidan'
+  description:
+  - Minik güneş topları.
+  stats: *id011
+CLT_TREE_PEACH:
+  name: Şeftali Ağacı
+  type:
+  - '&7&oFidan'
+  description:
+  - Sanırım James bunu arıyordu?
+  stats: *id010
+CLT_TREE_PEAR:
+  name: Armut Ağacı
+  type:
+  - '&7&oFidan'
+  description:
+  - Bir çift armut, çift olsun diye çiftlendi.
+  stats: *id009
+CLT_TREE_PECAN:
+  name: Pekan Cevizi Ağacı
+  type:
+  - '&7&oFidan'
+  description:
+  - Bu ağacı yetiştirebilir miyiz? Pekan-ala!
+  stats: *id009
+CLT_TREE_PINEAPPLE:
+  name: Ananas Ağacı
+  type:
+  - '&7&oFidan'
+  description:
+  - PİZZAM NEREDE?
+  stats: *id010
+CLT_TURMERIC:
+  name: Zerdeçal
+  type:
+  - '&7&oMahsul'
+  description:
+  - Pek çok yemeği dolgunlaştıran güçlü, misk kokulu bir varlık.
+CLT_TURNIP:
+  name: Şalgam
+  type:
+  - '&7&oMahsul'
+  description:
+  - Hayatın tüm sorunlarını çözecek.
+CLT_VANILLA:
+  name: Vanilya
+  type:
+  - '&7&oMahsul'
+  description:
+  - 'Talimat: Doğrudan bir Latte''ye batır'
+CLT_WASABI:
+  name: Vasabi
+  type:
+  - '&7&oMahsul'
+  description:
+  - İmdat... vasabi... yani naber...
+CLT_WITHER_ROSE_SALAD:
+  name: Wither Gülü Salatası
+  type:
+  - '&7&oYiyecek'
+  description:
+  - Güçle dolup taşıyor ama ağır bir yan etkisi var.
+  stats:
+  - '&8⇨ &7İyileşme: &bTam'
+  - '&8⇨ &bSolma II &7(10:00)'
+  - '&8⇨ &bSağlık Arttırma XX &7(10:00)'

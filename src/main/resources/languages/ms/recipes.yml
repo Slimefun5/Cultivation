@@ -1,0 +1,87 @@
+cultivation:
+  bush_harvest:
+    name: Penuaian Semak
+    lore:
+    - Item ini boleh dituai daripada
+    - Semak Cultivation
+  tree_harvest:
+    name: Penuaian Pokok
+    lore:
+    - Item ini boleh dituai daripada
+    - Pokok Cultivation
+  trading_farmer:
+    name: Dagangan Penduduk Kampung
+    lore:
+    - Item ini boleh dibeli daripada
+    - Penduduk Kampung petani.
+  trading_fletcher:
+    name: Dagangan Penduduk Kampung
+    lore:
+    - Item ini boleh dibeli daripada
+    - Penduduk Kampung pembuat anak panah.
+  mob:
+    name: Jatuhan Mob
+    lore:
+    - Item ini berpeluang dijatuhkan oleh
+    - mob berikut.
+  plant_breeding:
+    name: Pembiakan Tanaman
+    lore:
+    - Benih ini ditemui melalui pembiakan.
+    - Anda membiakkan tanaman dengan meletakkan
+    - dua tanaman dengan satu blok udara
+    - di antaranya.
+    - ''
+    - Kamus pembiakan boleh digunakan
+    - untuk menjejak penemuan anda.
+    - ''
+    - 'Petunjuk: Zarah hitam bermaksud'
+    - kedua-dua tanaman TIDAK BOLEH membiak.
+  vanilla_block_drop:
+    name: Jatuhan Dunia
+    lore:
+    - Jatuh daripada blok apabila dipecahkan di dunia.
+  bucketing:
+    name: Jatuhan Dunia
+    lore:
+    - Jatuh daripada dunia apabila menggunakan baldi.
+  chopped:
+    name: Dicincang
+    lore:
+    - Cincang saja dengan pisau!
+  mashed:
+    name: Dilecek
+    lore:
+    - Lecek Lecek Lecek
+  blended:
+    name: Dikisar
+    lore:
+    - Dibuat dengan memasukkan item ke dalam pengisar.
+  sliced:
+    name: Dihiris
+    lore:
+    - Begitu nipis dan halus
+  ground:
+    name: Ditumbuk
+    lore:
+    - Hingga lumat
+  boiled:
+    name: Direbus
+    lore:
+    - Panas panas panas!
+  fried:
+    name: Digoreng
+    lore:
+    - Rangup Sempurna.
+  grilled:
+    name: Dipanggang
+    lore:
+    - Berjus dan Lembut.
+  finishing:
+    name: Penyiapan
+    lore:
+    - Gunakan kaunter penyiapan dapur untuk membuat item ini.
+  baking:
+    name: Pembakaran
+    lore:
+    - Gunakan kaunter ketuhar dapur untuk membuat item ini.

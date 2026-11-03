@@ -1,0 +1,87 @@
+cultivation:
+  bush_harvest:
+    name: Thu hoạch bụi cây
+    lore:
+    - Vật phẩm này có thể thu hoạch từ một
+    - Bụi cây Cultivation
+  tree_harvest:
+    name: Thu hoạch cây
+    lore:
+    - Vật phẩm này có thể thu hoạch từ một
+    - Cây Cultivation
+  trading_farmer:
+    name: Giao dịch với Dân làng
+    lore:
+    - Vật phẩm này có thể mua từ một
+    - Dân làng nông dân.
+  trading_fletcher:
+    name: Giao dịch với Dân làng
+    lore:
+    - Vật phẩm này có thể mua từ một
+    - Dân làng thợ làm tên.
+  mob:
+    name: Rơi từ sinh vật
+    lore:
+    - Vật phẩm này có cơ hội rơi ra từ
+    - (các) sinh vật sau.
+  plant_breeding:
+    name: Lai tạo cây trồng
+    lore:
+    - Hạt giống này có được nhờ lai tạo.
+    - Bạn lai tạo cây bằng cách đặt
+    - hai cây xuống với một khối không khí
+    - ở giữa.
+    - ''
+    - Có thể dùng từ điển lai tạo
+    - để theo dõi những khám phá của bạn.
+    - ''
+    - 'Gợi ý: Hạt màu đen nghĩa là'
+    - hai cây KHÔNG THỂ lai tạo.
+  vanilla_block_drop:
+    name: Rơi trong thế giới
+    lore:
+    - Rơi ra từ khối khi bị phá trong thế giới.
+  bucketing:
+    name: Rơi trong thế giới
+    lore:
+    - Lấy từ thế giới bằng cách dùng xô.
+  chopped:
+    name: Băm
+    lore:
+    - Chỉ cần băm bằng dao!
+  mashed:
+    name: Nghiền
+    lore:
+    - Nghiền nghiền nghiền
+  blended:
+    name: Xay nhuyễn
+    lore:
+    - Làm bằng cách cho vật phẩm vào máy xay sinh tố.
+  sliced:
+    name: Thái lát
+    lore:
+    - Thật mỏng và tinh tế
+  ground:
+    name: Giã
+    lore:
+    - Đến độ mịn hoàn hảo
+  boiled:
+    name: Luộc
+    lore:
+    - Nóng nóng nóng!
+  fried:
+    name: Chiên
+    lore:
+    - Giòn rụm hoàn hảo.
+  grilled:
+    name: Nướng
+    lore:
+    - Mọng nước và mềm.
+  finishing:
+    name: Hoàn thiện
+    lore:
+    - Dùng quầy hoàn thiện của nhà bếp để làm vật phẩm này.
+  baking:
+    name: Nướng lò
+    lore:
+    - Dùng quầy lò nướng của nhà bếp để làm vật phẩm này.

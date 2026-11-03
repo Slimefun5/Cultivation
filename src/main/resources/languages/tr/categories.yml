@@ -1,0 +1,13 @@
+cultivation:
+  main: Cultivation
+  hidden: Gizli
+  crafting: Üretim Eşyaları
+  tools: Aletler
+  machines: Makineler
+  plants: Bitkiler
+  bushes: Çalılar
+  trees: Ağaçlar
+  produce: Mahsul
+  by-products: Yan Ürünler
+  foods: Yiyecekler
+  plant_codex: Bitki Kodeksi

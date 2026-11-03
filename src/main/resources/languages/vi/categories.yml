@@ -1,0 +1,13 @@
+cultivation:
+  main: Cultivation
+  hidden: Ẩn
+  crafting: Vật phẩm chế tạo
+  tools: Công cụ
+  machines: Máy móc
+  plants: Cây trồng
+  bushes: Bụi cây
+  trees: Cây ăn quả
+  produce: Nông sản
+  by-products: Phụ phẩm
+  foods: Thức ăn
+  plant_codex: Bách khoa cây trồng

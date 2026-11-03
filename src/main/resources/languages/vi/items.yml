@@ -1,0 +1,6674 @@
+CLT_APRICOT:
+  name: Mơ
+  type:
+  - '&7&oNông sản'
+  description:
+  - Bạn có thể làm Pokéball từ thứ này.
+  - '...'
+  - Ý bạn là sao, đó là thứ khác à...?
+CLT_ARTICHOKE:
+  name: Atisô
+  type:
+  - '&7&oNông sản'
+  description:
+  - Moi TIM nó ra!
+CLT_ASPARAGUS:
+  name: Măng tây
+  type:
+  - '&7&oNông sản'
+  description:
+  - Lát nữa đi vệ sinh nhớ cẩn thận nhé.
+CLT_AUBERGINE:
+  name: Cà tím
+  type:
+  - '&7&oNông sản'
+  description:
+  - Tím rực rỡ và 100% KHÔNG có hình quả trứng.
+  - Vậy gọi là cà tím cho lành, nhỉ?
+CLT_AVOCADO:
+  name: Quả bơ
+  type:
+  - '&7&oNông sản'
+  description:
+  - Giấc mơ của mọi tín đồ sống ảo.
+CLT_BACON_SANDWICH:
+  name: Bánh sandwich Thịt xông khói
+  type:
+  - '&7&oThức ăn'
+  description:
+  - Một món kinh điển đơn giản!
+  stats:
+  - '&8⇨ &7Hồi máu: &b2 trái tim'
+  - '&8⇨ &bSức mạnh I &7(10:00)'
+  - '&8⇨ &bTốc độ I &7(10:00)'
+CLT_BAGEL:
+  name: Bánh mì vòng
+  type:
+  - '&7&oThức ăn'
+  description:
+  - Nướng giòn? Hay là...
+  stats:
+  - '&8⇨ &7Hồi máu: &b2.5 trái tim'
+CLT_BAGEL_BITE:
+  name: Bánh mì vòng mini
+  type:
+  - '&7&oThức ăn'
+  description:
+  - Ăn pizza mọi lúc mọi nơi!
+  stats:
+  - '&8⇨ &7Bỏng miệng sau mỗi miếng cắn!'
+CLT_BAGEL_CREAM_CHEESE:
+  name: Bánh mì vòng phô mai kem
+  type:
+  - '&7&oThức ăn'
+  description:
+  - Ngon đến mức chắc bạn sẽ muốn thêm cái nữa.
+  stats:
+  - '&8⇨ &7Hồi máu: &b5 trái tim'
+  - '&8⇨ &bTăng sinh lực I &7(10:00)'
+CLT_BANANA:
+  name: Chuối
+  type:
+  - '&7&oNông sản'
+  description:
+  - Thứ này lột vỏ là mê, nhìn là phê!
+CLT_BASIL:
+  name: Húng quế
+  type:
+  - '&7&oNông sản'
+  description:
+  - Một chiếc lá ngọt với hậu vị cay nhẹ như tiêu.
+CLT_BAY_LEAF:
+  name: Lá nguyệt quế
+  type:
+  - '&7&oNông sản'
+  description:
+  - Một loại gia vị thơm nồng với vô vàn công dụng.
+CLT_BELL_PEPPER:
+  name: Ớt chuông
+  type:
+  - '&7&oNông sản'
+  description:
+  - Nghe cứ như chuông ngân vậy.
+CLT_BISCUIT:
+  name: Bánh quy
+  type:
+  - '&7&oThức ăn'
+  description:
+  - Món ăn vặt nhỏ xíu với hương vị khổng lồ.
+  stats: &id002
+  - '&8⇨ &7Phóng bạn lên không trung'
+CLT_BISCUIT_BASE:
+  name: Đế bánh quy
+  type:
+  - '&7&oNông sản'
+  description:
+  - Dù giờ nó đã dẹt lép, không có nghĩa là
+  - bạn được ăn sống đâu nhé.
+CLT_BISCUIT_DOUGH:
+  name: Bột bánh quy
+  type:
+  - '&7&oNông sản'
+  description:
+  - 'Cứ tự nhắc mình: "Đừng ăn sống."'
+CLT_BLACK_BEANS:
+  name: Đậu đen
+  type:
+  - '&7&oNông sản'
+  description:
+  - Một nguồn đạm chay thơm ngon.
+CLT_BLENDED_APPLE:
+  name: Táo xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_APRICOT:
+  name: Mơ xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_ARTICHOKE:
+  name: Atisô xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_ASPARAGUS:
+  name: Măng tây xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_AUBERGINE:
+  name: Cà tím xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_AVOCADO:
+  name: Quả bơ xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_BANANA:
+  name: Chuối xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_BASIL:
+  name: Húng quế xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_BAY_LEAF:
+  name: Lá nguyệt quế xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_BEEF:
+  name: Thịt bò xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_BEETROOT:
+  name: Củ dền xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_BELL_PEPPER:
+  name: Ớt chuông xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_BLACK_BEANS:
+  name: Đậu đen xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_BREAD:
+  name: Bánh mì xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_BROCCOLI:
+  name: Bông cải xanh xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_BROWN_MUSHROOM:
+  name: Nấm nâu xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_BRUSSELS_SPROUTS:
+  name: Cải Brussels xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_CABBAGE:
+  name: Bắp cải xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_CARROT:
+  name: Cà rốt xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_CAULIFLOWER:
+  name: Bông cải trắng xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_CAYENNE_PEPPER:
+  name: Ớt cayenne xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_CELERIAC:
+  name: Củ cần tây xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_CELERY:
+  name: Cần tây xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_CHERRY:
+  name: Anh đào xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_CHESTNUT:
+  name: Hạt dẻ xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_CHICKEN:
+  name: Thịt gà xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_CHICKPEAS:
+  name: Đậu gà xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_CHICORY:
+  name: Rau diếp xoăn xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_CHILLY_PEPPER:
+  name: Ớt xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_CHIVES:
+  name: Hẹ xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_CHORUS_FRUIT:
+  name: Quả Chorus xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_CILANTRO:
+  name: Rau mùi xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_CINNAMON:
+  name: Quế xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_CLOVE:
+  name: Đinh hương xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_COCOA_BEANS:
+  name: Hạt ca cao xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_COD:
+  name: Cá tuyết xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_COURGETTE:
+  name: Bí ngòi xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_CUCUMBER:
+  name: Dưa chuột xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_CUMIN:
+  name: Thì là Ai Cập xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_CURRY_LEAF:
+  name: Lá Cà ri xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_DILL:
+  name: Thì là xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_EGG:
+  name: Trứng xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_ENCHANTED_GOLDEN_APPLE:
+  name: Táo vàng được phù phép xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_FENNEL:
+  name: Tiểu hồi hương xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_GARLIC:
+  name: Tỏi xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_GINGER:
+  name: Gừng xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_GLOW_BERRIES:
+  name: Quả mọng phát sáng xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_GOLDEN_APPLE:
+  name: Táo vàng xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_GOLDEN_CARROT:
+  name: Cà rốt vàng xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_GRAPE:
+  name: Nho xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_GREEN_APPLE:
+  name: Táo xanh xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_GREEN_BEANS:
+  name: Đậu que xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_GREEN_ONION:
+  name: Hành lá xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_HAZELNUT:
+  name: Hạt phỉ xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_HORSERADISH:
+  name: Cải ngựa xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_JALAPENO:
+  name: Ớt jalapeno xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_JASMINE:
+  name: Hoa nhài xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_JUNIPER_BERRY:
+  name: Quả bách xù xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_KAFFIR_LIME:
+  name: Lá chanh kaffir xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_KALE:
+  name: Cải xoăn xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_KELP:
+  name: Tảo bẹ xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_KIWI:
+  name: Kiwi xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_LAVENDER:
+  name: Oải hương xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_LEEK:
+  name: Tỏi tây xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_LEMON:
+  name: Chanh vàng xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_LETTUCE:
+  name: Xà lách xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_LICORICE:
+  name: Cam thảo xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_LIME:
+  name: Chanh xanh xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_MACE:
+  name: Vỏ nhục đậu khấu xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_MANGO:
+  name: Xoài xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_MARJORAM:
+  name: Kinh giới ngọt xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_MARROW:
+  name: Bí ngòi lớn xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_MELON:
+  name: Dưa hấu xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_MINT:
+  name: Bạc hà xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_MUSTARD_SEEDS:
+  name: Hạt mù tạt xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_MUTTON:
+  name: Thịt cừu xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_NETTLES:
+  name: Tầm ma xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_OKRA:
+  name: Đậu bắp xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_ONION:
+  name: Hành tây xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_ORANGE:
+  name: Cam xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_OREGANO:
+  name: Kinh giới cay xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_PARSLEY:
+  name: Mùi tây xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_PARSNIP:
+  name: Củ cải vàng xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_PEA:
+  name: Đậu Hà Lan xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_PEACH:
+  name: Đào xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_PEANUT:
+  name: Hạt đậu phộng xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_PEAR:
+  name: Lê xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_PECAN:
+  name: Hạt hồ đào xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_PEPPER:
+  name: Tiêu đen xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_PEPPERONI:
+  name: Xúc xích pepperoni xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_PINEAPPLE:
+  name: Dứa xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_PINTO_BEANS:
+  name: Đậu pinto xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_PORKCHOP:
+  name: Sườn heo xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_POTATO:
+  name: Khoai tây xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_PUFFERFISH:
+  name: Cá nóc xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_PUMPKIN:
+  name: Bí ngô xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_RABBIT:
+  name: Thịt thỏ xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_RADDISH:
+  name: Củ cải đỏ xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_RADICCHIO:
+  name: Cải radicchio xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_RAPESEED:
+  name: Hạt cải dầu xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_RED_MUSHROOM:
+  name: Nấm đỏ xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_RHUBARB:
+  name: Đại hoàng xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_RICE:
+  name: Gạo xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_ROSEMARY:
+  name: Hương thảo xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_ROTTEN_FLESH:
+  name: Thịt thối rữa xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_RUNNER_BEANS:
+  name: Đậu leo xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_RUTABAGA:
+  name: Củ cải Thụy Điển xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_SALMON:
+  name: Cá hồi xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_SASSAFRAS:
+  name: Xá xị xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_SHALLOT:
+  name: Hành tím xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_SHISO:
+  name: Tía tô xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_SOY_BEANS:
+  name: Đậu nành xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_SPINACH:
+  name: Rau bina xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_STAR_ANISE:
+  name: Hoa hồi xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_STRAWBERRY:
+  name: Dâu tây xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_SUGAR:
+  name: Đường xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_SWEETCORN:
+  name: Ngô ngọt xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_SWEET_BERRIES:
+  name: Quả mọng ngọt xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_SWEET_POTATO:
+  name: Khoai lang xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_TARRAGON:
+  name: Ngải giấm xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_THYME:
+  name: Cỏ xạ hương xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_TOMATO:
+  name: Cà chua xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_TURMERIC:
+  name: Nghệ xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_TURNIP:
+  name: Củ cải tròn xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_VANILLA:
+  name: Vani xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_WASABI:
+  name: Wasabi xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLENDED_WHEAT:
+  name: Lúa mì xay nhuyễn
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BLUE_CANDY:
+  name: Kẹo xanh dương
+  type:
+  - '&7&oThức ăn'
+  description:
+  - Một viên kẹo ngọt ngào thích mê.
+  stats:
+  - '&8⇨ &7Triệu hồi một Allay'
+CLT_BOILED_APPLE:
+  name: Táo luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_APRICOT:
+  name: Mơ luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_ARTICHOKE:
+  name: Atisô luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_ASPARAGUS:
+  name: Măng tây luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_AUBERGINE:
+  name: Cà tím luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_AVOCADO:
+  name: Quả bơ luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_BANANA:
+  name: Chuối luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_BASIL:
+  name: Húng quế luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_BAY_LEAF:
+  name: Lá nguyệt quế luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_BEEF:
+  name: Thịt bò luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_BEETROOT:
+  name: Củ dền luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_BELL_PEPPER:
+  name: Ớt chuông luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_BLACK_BEANS:
+  name: Đậu đen luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_BREAD:
+  name: Bánh mì luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_BROCCOLI:
+  name: Bông cải xanh luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_BROWN_MUSHROOM:
+  name: Nấm nâu luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_BRUSSELS_SPROUTS:
+  name: Cải Brussels luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_CABBAGE:
+  name: Bắp cải luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_CARROT:
+  name: Cà rốt luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_CAULIFLOWER:
+  name: Bông cải trắng luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_CAYENNE_PEPPER:
+  name: Ớt cayenne luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_CELERIAC:
+  name: Củ cần tây luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_CELERY:
+  name: Cần tây luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_CHERRY:
+  name: Anh đào luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_CHESTNUT:
+  name: Hạt dẻ luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_CHICKEN:
+  name: Thịt gà luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_CHICKPEAS:
+  name: Đậu gà luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_CHICORY:
+  name: Rau diếp xoăn luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_CHILLY_PEPPER:
+  name: Ớt luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_CHIVES:
+  name: Hẹ luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_CHORUS_FRUIT:
+  name: Quả Chorus luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_CILANTRO:
+  name: Rau mùi luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_CINNAMON:
+  name: Quế luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_CLOVE:
+  name: Đinh hương luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_COCOA_BEANS:
+  name: Hạt ca cao luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_COD:
+  name: Cá tuyết luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_COURGETTE:
+  name: Bí ngòi luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_CUCUMBER:
+  name: Dưa chuột luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_CUMIN:
+  name: Thì là Ai Cập luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_CURRY_LEAF:
+  name: Lá Cà ri luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_DILL:
+  name: Thì là luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_EGG:
+  name: Trứng luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_ENCHANTED_GOLDEN_APPLE:
+  name: Táo vàng được phù phép luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_FENNEL:
+  name: Tiểu hồi hương luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_GARLIC:
+  name: Tỏi luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_GINGER:
+  name: Gừng luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_GLOW_BERRIES:
+  name: Quả mọng phát sáng luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_GOLDEN_APPLE:
+  name: Táo vàng luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_GOLDEN_CARROT:
+  name: Cà rốt vàng luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_GRAPE:
+  name: Nho luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_GREEN_APPLE:
+  name: Táo xanh luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_GREEN_BEANS:
+  name: Đậu que luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_GREEN_ONION:
+  name: Hành lá luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_HAZELNUT:
+  name: Hạt phỉ luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_HORSERADISH:
+  name: Cải ngựa luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_JALAPENO:
+  name: Ớt jalapeno luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_JASMINE:
+  name: Hoa nhài luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_JUNIPER_BERRY:
+  name: Quả bách xù luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_KAFFIR_LIME:
+  name: Lá chanh kaffir luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_KALE:
+  name: Cải xoăn luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_KELP:
+  name: Tảo bẹ luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_KIWI:
+  name: Kiwi luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_LAVENDER:
+  name: Oải hương luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_LEEK:
+  name: Tỏi tây luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_LEMON:
+  name: Chanh vàng luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_LETTUCE:
+  name: Xà lách luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_LICORICE:
+  name: Cam thảo luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_LIME:
+  name: Chanh xanh luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_MACE:
+  name: Vỏ nhục đậu khấu luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_MANGO:
+  name: Xoài luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_MARJORAM:
+  name: Kinh giới ngọt luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_MARROW:
+  name: Bí ngòi lớn luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_MELON:
+  name: Dưa hấu luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_MINT:
+  name: Bạc hà luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_MUSTARD_SEEDS:
+  name: Hạt mù tạt luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_MUTTON:
+  name: Thịt cừu luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_NETTLES:
+  name: Tầm ma luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_OKRA:
+  name: Đậu bắp luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_ONION:
+  name: Hành tây luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_ORANGE:
+  name: Cam luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_OREGANO:
+  name: Kinh giới cay luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_PARSLEY:
+  name: Mùi tây luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_PARSNIP:
+  name: Củ cải vàng luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_PEA:
+  name: Đậu Hà Lan luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_PEACH:
+  name: Đào luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_PEANUT:
+  name: Hạt đậu phộng luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_PEAR:
+  name: Lê luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_PECAN:
+  name: Hạt hồ đào luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_PEPPER:
+  name: Tiêu đen luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_PEPPERONI:
+  name: Xúc xích pepperoni luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_PINEAPPLE:
+  name: Dứa luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_PINTO_BEANS:
+  name: Đậu pinto luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_PORKCHOP:
+  name: Sườn heo luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_POTATO:
+  name: Khoai tây luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_PUFFERFISH:
+  name: Cá nóc luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_PUMPKIN:
+  name: Bí ngô luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_RABBIT:
+  name: Thịt thỏ luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_RADDISH:
+  name: Củ cải đỏ luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_RADICCHIO:
+  name: Cải radicchio luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_RAPESEED:
+  name: Hạt cải dầu luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_RED_MUSHROOM:
+  name: Nấm đỏ luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_RHUBARB:
+  name: Đại hoàng luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_RICE:
+  name: Gạo luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_ROSEMARY:
+  name: Hương thảo luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_ROTTEN_FLESH:
+  name: Thịt thối rữa luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_RUNNER_BEANS:
+  name: Đậu leo luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_RUTABAGA:
+  name: Củ cải Thụy Điển luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_SALMON:
+  name: Cá hồi luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_SASSAFRAS:
+  name: Xá xị luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_SHALLOT:
+  name: Hành tím luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_SHISO:
+  name: Tía tô luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_SOY_BEANS:
+  name: Đậu nành luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_SPINACH:
+  name: Rau bina luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_STAR_ANISE:
+  name: Hoa hồi luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_STRAWBERRY:
+  name: Dâu tây luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_SUGAR:
+  name: Đường luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_SWEETCORN:
+  name: Ngô ngọt luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_SWEET_BERRIES:
+  name: Quả mọng ngọt luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_SWEET_POTATO:
+  name: Khoai lang luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_TARRAGON:
+  name: Ngải giấm luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_THYME:
+  name: Cỏ xạ hương luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_TOMATO:
+  name: Cà chua luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_TURMERIC:
+  name: Nghệ luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_TURNIP:
+  name: Củ cải tròn luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_VANILLA:
+  name: Vani luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_WASABI:
+  name: Wasabi luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOILED_WHEAT:
+  name: Lúa mì luộc
+  type:
+  - '&7&oPhụ phẩm'
+CLT_BOWL_OF_STEVE:
+  name: Một bát... Steve?
+  type:
+  - '&7&oThức ăn'
+  description:
+  - Cái quái gì thế &%£$
+  stats:
+  - '&8⇨ &bĐào chậm X &7(10:00)'
+  - '&8⇨ &bChậm rãi VI &7(10:00)'
+  - '&8⇨ &bSức mạnh X &7(10:00)'
+  - '&8⇨ &7Giảm máu của bạn còn 1/2 trái tim'
+CLT_BROCCOLI:
+  name: Bông cải xanh
+  type:
+  - '&7&oNông sản'
+  description:
+  - Bạn là người khổng lồ đang cầm cái cây à?
+  - Không đâu, chỉ là một cái cây tí hon thôi :)
+CLT_BRUSSELS_SPROUTS:
+  name: Cải Brussels
+  type:
+  - '&7&oNông sản'
+  description:
+  - Một niềm vui đầy... hơi.
+CLT_BUSH_ARTICHOKE:
+  name: Bụi atisô
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Bụi cây tuyệt nhất để "atisô" một nghệ sĩ.
+  - Haizz. Chơi chữ khó quá đi.
+CLT_BUSH_ASPARAGUS:
+  name: Bụi măng tây
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Bụi măng tây này mọc thẳng tắp,
+  - đúng là "măng" thẳng như ruột ngựa!
+CLT_BUSH_AUBERGINE:
+  name: Bụi cà tím
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Tôi nhất quyết không gọi nó là cà dái dê.
+CLT_BUSH_AVOCADO:
+  name: Bụi bơ
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Bụi cây này được lai tạo đặc biệt để
+  - không tốn quá nhiều nước.
+CLT_BUSH_BASIL:
+  name: Bụi húng quế
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Một bụi cây vui tươi, đầy mộng mơ.
+CLT_BUSH_BAY_LEAF:
+  name: Bụi nguyệt quế
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Mùi của bụi cây này bay xa hàng dặm.
+CLT_BUSH_BELL_PEPPER:
+  name: Bụi ớt chuông
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Cẩn thận khi đi ngang qua, kẻo bạn
+  - rung chuông đấy.
+CLT_BUSH_BLACK_BEANS:
+  name: Bụi đậu đen
+  type:
+  - '&7&oBụi cây'
+  description:
+  - 'Bụi cây này khẽ thì thầm với bạn:'
+  - Bạn đúng là một hạt đậu tuyệt vời.
+CLT_BUSH_BROCCOLI:
+  name: Bụi bông cải xanh
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Cây tí hon mà ăn được? Ai nghĩ ra vậy!?
+CLT_BUSH_BRUSSELS_SPROUTS:
+  name: Bụi cải Brussels
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Một bụi cây đôi khi tỏa ra khí độc
+  - hại.
+CLT_BUSH_CABBAGE:
+  name: Bụi bắp cải
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Một bụi cây mang theo cả một
+  - bắp cải cảm xúc.
+CLT_BUSH_CAULIFLOWER:
+  name: Bụi bông cải trắng
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Một bụi cây có thể tạo ra những đám mây
+  - nhỏ đầy niềm vui.
+CLT_BUSH_CAYENNE_PEPPER:
+  name: Bụi ớt cayenne
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Một bụi cây với thái độ cay như ớt.
+CLT_BUSH_CELERIAC:
+  name: Bụi củ cần tây
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Lại một cái củ mọc ra từ bụi cây nữa à?
+  - SefiDumb™
+CLT_BUSH_CELERY:
+  name: Bụi cần tây
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Bụi cây này thừa thãi.
+  - Sefi không thích Cần tây.
+CLT_BUSH_CHICKPEAS:
+  name: Bụi đậu gà
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Một bụi cây được lai giữa một con gà
+  - và một hạt đậu. KHOA HỌC.
+CLT_BUSH_CHICORY:
+  name: Bụi rau diếp xoăn
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Tôi tưởng rau diếp xoăn là củ chứ? Addon này
+  - có chịu tìm hiểu gì không vậy!?
+CLT_BUSH_CHILLI_PEPPER:
+  name: Bụi ớt
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Chỉ nhìn bụi cây này thôi đã bỏng cả lưỡi.
+CLT_BUSH_CHIVES:
+  name: Bụi hẹ
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Một bụi cây cho ra thứ mà, về cơ bản, là
+  - củ hành nhỏ nhất thế giới.
+CLT_BUSH_CILANTRO:
+  name: Bụi rau mùi
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Bụi cây này thoảng mùi cam chanh và gia vị.
+CLT_BUSH_CINNAMON:
+  name: Bụi quế
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Một bụi cây thơm ngát dễ chịu.
+CLT_BUSH_CLOVE:
+  name: Bụi đinh hương
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Một bụi cây khiến tôi nhớ đến Giáng sinh.
+CLT_BUSH_COURGETTE:
+  name: Bụi bí ngòi
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Sao bụi cây này cứ hét mãi chữ Zucchini
+  - thế nhỉ? Chắc nó là người Mỹ?
+CLT_BUSH_CUCUMBER:
+  name: Bụi dưa chuột
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Bụi cây này được tạo ra chỉ để phục vụ
+  - những đĩa salad mùa hè xinh xắn của bạn.
+CLT_BUSH_CUMIN:
+  name: Bụi thì là Ai Cập
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Một bụi cây tỏa ra hương cam chanh ấm áp.
+CLT_BUSH_CURRY_LEAF:
+  name: Bụi cà ri
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Ngon nhất khi rang khô.
+CLT_BUSH_DILL:
+  name: Bụi thì là
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Bụi cây này mọc nhanh hơn hẳn những bụi khác.
+CLT_BUSH_FENNEL:
+  name: Bụi tiểu hồi hương
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Sao bụi cây này lại đuổi được côn trùng nhỉ!?
+CLT_BUSH_GARLIC:
+  name: Bụi tỏi
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Bụi cây này có hơi thở kinh khủng nhất.
+CLT_BUSH_GINGER:
+  name: Bụi gừng
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Bụi cây này luộc nguyên cây là ngon.
+CLT_BUSH_GRAPE:
+  name: Bụi nho
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Những chùm nho chín mọng gần như tự rụng
+  - khỏi bụi cây.
+CLT_BUSH_GREEN_BEANS:
+  name: Bụi đậu que
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Rưới sốt cà chua lên bụi cây này là
+  - có ngay đậu hầm.
+CLT_BUSH_GREEN_ONION:
+  name: Bụi hành lá
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Còn được gọi là hành hoa.
+  - Hành lá thường có vị
+  - dịu hơn hầu hết các loại hành.
+CLT_BUSH_HORSERADISH:
+  name: Bụi cải ngựa
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Lại nữa, thứ này mọc trên bụi cây thật vô lý.
+CLT_BUSH_JALAPENO:
+  name: Bụi ớt jalapeno
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Chỉ cần cầm bụi cây này là bạn có
+  - 1% cơ hội bốc cháy.
+CLT_BUSH_JASMINE:
+  name: Bụi hoa nhài
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Hương thơm của bụi cây này thật dịu dàng.
+CLT_BUSH_JUNIPER_BERRY:
+  name: Bụi bách xù
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Ngọt ngào khi trên cây, cay nồng khi phơi khô.
+CLT_BUSH_KAFFIR_LIME:
+  name: Bụi chanh kaffir
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Một bụi cây mà lá được săn đón hơn cả quả.
+CLT_BUSH_KALE:
+  name: Bụi cải xoăn
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Khi trồng bụi cây này, bạn có cảm giác
+  - mọi thứ rồi sẽ "cải" thiện thôi.
+CLT_BUSH_LAVENDER:
+  name: Bụi oải hương
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Bụi cây này tỏa mùi khắp mọi nơi.
+CLT_BUSH_LEEK:
+  name: Bụi tỏi tây
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Bạn có biết tỏi tây chỉ là củ hành
+  - mặc áo nịt ngực? Chuyện thật đấy.
+CLT_BUSH_LETTUCE:
+  name: Bụi xà lách
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Xà lách mà cũng mọc trên bụi cây à?
+  - 'Bật mí: Không, không hề.'
+CLT_BUSH_LICORICE:
+  name: Bụi cam thảo
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Ghê quá
+CLT_BUSH_MACE:
+  name: Bụi nhục đậu khấu
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Bụi cây này hình như đang xua đuổi kẻ tấn công?
+CLT_BUSH_MARJORAM:
+  name: Bụi kinh giới ngọt
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Một bụi cây lớn thoảng mùi gỗ.
+CLT_BUSH_MARROW:
+  name: Bụi bí ngòi lớn
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Tôi ngạc nhiên là bụi cây này chịu nổi
+  - sức nặng của chính nó.
+CLT_BUSH_MINT:
+  name: Bụi bạc hà
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Đơn giản là bụi cây thơm nhất.
+CLT_BUSH_MUSTARD:
+  name: Bụi hạt mù tạt
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Như có lửa trong miệng.
+CLT_BUSH_NETTLES:
+  name: Bụi tầm ma
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Cẩn thận khi đi xuyên qua bụi cây này!
+CLT_BUSH_OKRA:
+  name: Bụi đậu bắp
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Được bình chọn là rau số 1 theo
+  - Câu lạc bộ Rau củ của Okra Winfrey.
+CLT_BUSH_ONION:
+  name: Bụi hành tây
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Trông bụi cây này có vẻ sắp khóc thì phải?
+CLT_BUSH_OREGANO:
+  name: Bụi kinh giới cay
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Bụi cây hăng nồng này khiến khách bỏ chạy.
+CLT_BUSH_PARSLEY:
+  name: Bụi mùi tây
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Ném bụi cây này vào dung nham, ngay :D
+CLT_BUSH_PARSNIP:
+  name: Bụi củ cải vàng
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Bỏ qua khâu trung gian, nướng thẳng
+  - luôn cả bụi cây.
+CLT_BUSH_PEA:
+  name: Bụi đậu Hà Lan
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Tôi thích chữ Q hơn
+CLT_BUSH_PEANUTS:
+  name: Bụi đậu phộng
+  type:
+  - '&7&oBụi cây'
+  description: &id001
+  - Chắc nịch, thơm lừng và giàu đạm.
+CLT_BUSH_PEPPER:
+  name: Bụi tiêu đen
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Tiêu đen từng là mặt hàng quan trọng
+  - trong thương mại gia vị giữa Ấn Độ và châu Âu
+  - từ thời Hy Lạp và La Mã cổ đại.
+CLT_BUSH_PINTO_BEANS:
+  name: Bụi đậu pinto
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Chẳng bao lâu nữa ta sẽ lai tạo thành công
+  - một bụi cây ra thẳng bánh burrito, nhỉ?
+CLT_BUSH_RADDISH:
+  name: Bụi củ cải đỏ
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Cái cây này vừa làm một cú trượt ván.
+  - Quá là Củ...cải ngầu.
+CLT_BUSH_RADICCHIO:
+  name: Bụi cải radicchio
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Muốn nghe sang chảnh? Thêm cải radicchio vào
+  - bất kỳ món nào, về cơ bản nó giống bắp cải
+  - nhưng khiến bạn trông thật tinh tế.
+CLT_BUSH_RAPESEED:
+  name: Bụi cải dầu
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Bụi cây này đang rỉ ra một chất nhờn như dầu.
+CLT_BUSH_RHUBARB:
+  name: Bụi đại hoàng
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Bạn có biết đại hoàng là một loại rau?
+  - Tôi cứ tưởng nó là một loại búa.
+CLT_BUSH_RICE:
+  name: Bụi lúa
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Lương thực chính tối thượng.
+CLT_BUSH_ROSEMARY:
+  name: Bụi hương thảo
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Một bụi cây có mùi gợi nhớ bữa trưa chủ nhật.
+CLT_BUSH_RUNNER_BEANS:
+  name: Bụi đậu leo
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Bụi cây này có chân à o.o?
+CLT_BUSH_RUTABAGA:
+  name: Bụi củ cải Thụy Điển
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Củ cải Thụy Điển. Nó là củ cải Thụy Điển.
+CLT_BUSH_SASSAFRAS:
+  name: Bụi xá xị
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Bụi cây này thích được trồng gần những vũng
+  - nước nhỏ.
+CLT_BUSH_SHALLOT:
+  name: Bụi hành tím
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Bụi cây này ra hành tím nhỏ xinh liên tục.
+  - May mà bạn chẳng cần tím mặt vì nó.
+CLT_BUSH_SHISO:
+  name: Bụi tía tô
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Tôi thích nghĩ bụi cây này là con lai
+  - giữa bụi bạc hà và bụi húng quế. Tiếc là
+  - lai tạo bụi cây đâu có thật!
+CLT_BUSH_SOY_BEANS:
+  name: Bụi đậu nành
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Bụi cây này thân thiện dễ thương. Nó làm
+  - tôi vui "nành" cả ngày.
+CLT_BUSH_SPINACH:
+  name: Bụi rau bina
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Bụi cây này là bạn thân nhất của Popeye.
+CLT_BUSH_STAR_ANISE:
+  name: Bụi hoa hồi
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Bụi cây này tỏa ra một mùi hồi độc nhất
+  - vô nhị, bạn sẽ không thể tin nổi.
+CLT_BUSH_STRAWBERRY:
+  name: Bụi dâu tây
+  type:
+  - '&7&oBụi cây'
+  description: *id001
+CLT_BUSH_SWEETCORN:
+  name: Bụi ngô ngọt
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Bụi cây này đang gào thét đòi được xếp thành
+  - một mê cung.
+CLT_BUSH_SWEET_POTATO:
+  name: Bụi khoai lang
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Bụi cây này thật ngọt ngào. Tôi nghe nó
+  - khen bạn lúc bạn không để ý đấy.
+CLT_BUSH_TARRAGON:
+  name: Bụi ngải giấm
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Bụi cây này không thích gây chú ý.
+CLT_BUSH_THYME:
+  name: Bụi cỏ xạ hương
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Bụi cây này lúc nào cũng thiếu... thời gian... *khụ*
+CLT_BUSH_TOMATO:
+  name: Bụi cà chua
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Chín tới và sẵn sàng.
+CLT_BUSH_TURMERIC:
+  name: Bụi nghệ
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Chỉ cần cầm bụi cây này là một làn hương
+  - gia vị đã xộc thẳng vào mũi.
+CLT_BUSH_TURNIP:
+  name: Bụi củ cải tròn
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Theo Chính phủ Anh, bụi cây này
+  - sẽ giải quyết mọi vấn đề của chúng ta.
+CLT_BUSH_VANILLA:
+  name: Bụi vani
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Bụi cây này mọc tự nhiên gần các quán StarBucks.
+CLT_BUSH_WASABI:
+  name: Bụi wasabi
+  type:
+  - '&7&oBụi cây'
+  description:
+  - Lại một cái củ mọc ra từ bụi cây?
+  - Haizz...
+CLT_CABBAGE:
+  name: Bắp cải
+  type:
+  - '&7&oNông sản'
+  description:
+  - Một bao bắp cải đầy ắp.
+CLT_CAESAR_SALAD:
+  name: Salad Caesar
+  type:
+  - '&7&oThức ăn'
+  description:
+  - Một món kinh điển lành mạnh.
+  stats:
+  - '&8⇨ &7Hồi máu: &b6 trái tim'
+  - '&8⇨ &bTốc độ I &7(10:00)'
+  - '&8⇨ &bTàng hình I &7(10:00)'
+  - '&8⇨ &bRơi chậm I &7(10:00)'
+CLT_CAJUN_GARLIC_BUTTER_COD:
+  name: Cá tuyết sốt bơ tỏi Cajun
+  type:
+  - '&7&oThức ăn'
+  description:
+  - Một món rất đơn giản nhưng bùng nổ hương vị.
+  stats:
+  - '&8⇨ &7Hồi máu: &b4 trái tim'
+  - '&8⇨ &bHồi phục II &7(10:00)'
+  - '&8⇨ &bTốc độ I &7(10:00)'
+CLT_CAULIFLOWER:
+  name: Bông cải trắng
+  type:
+  - '&7&oNông sản'
+  description:
+  - Một đám mây bỏ túi!
+CLT_CAYENNE_PEPPER:
+  name: Ớt cayenne
+  type:
+  - '&7&oNông sản'
+  description:
+  - Một món ngon cay dịu.
+CLT_CELERIAC:
+  name: Củ cần tây
+  type:
+  - '&7&oNông sản'
+  description:
+  - Một loại củ đậm đà, "bén rễ" (hehe) trong
+  - rất nhiều công thức truyền thống.
+CLT_CELERY:
+  name: Cần tây
+  type:
+  - '&7&oNông sản'
+  description:
+  - Đúng nghĩa là nước có xơ. Thuyết phục
+  - tôi điều ngược lại xem nào.
+CLT_CHEESE_BURGER:
+  name: Bánh burger
+  type:
+  - '&7&oThức ăn'
+  description:
+  - Một chiếc burger phô mai đơn giản, nhưng không gì sánh bằng!
+  stats:
+  - '&8⇨ &7Hồi máu: &b4 trái tim'
+  - '&8⇨ &bHồi phục III &7(10:00)'
+CLT_CHEESY_SCALLOPED_COURGETTE:
+  name: Bí ngòi đút lò phô mai
+  type:
+  - '&7&oThức ăn'
+  description:
+  - Phiên bản ít tinh bột của một món kinh điển tuyệt vời.
+  stats:
+  - '&8⇨ &7Hồi máu: &b2 trái tim'
+  - '&8⇨ &bNhìn trong bóng tối I &7(10:00)'
+  - '&8⇨ &bTàng hình I &7(10:00)'
+CLT_CHERRY:
+  name: Anh đào
+  type:
+  - '&7&oNông sản'
+  description:
+  - Ồ, tôi tưởng chúng mọc ra đã tẩm đường sẵn, tiếc ghê!
+CLT_CHESTNUT:
+  name: Hạt dẻ
+  type:
+  - '&7&oNông sản'
+  description:
+  - Sinh ra là để được nướng, ngay lập tức.
+CLT_CHICKEN_ALFREDO_MAC_AND_CHEESE:
+  name: Nui phô mai sốt Alfredo gà
+  type:
+  - '&7&oThức ăn'
+  description:
+  - Một biến tấu sang chảnh của món quen thuộc.
+  stats:
+  - '&8⇨ &7Hồi máu: &b1 trái tim'
+  - '&8⇨ &bKháng lửa II &7(10:00)'
+  - '&8⇨ &bKháng cự III &7(10:00)'
+CLT_CHICKEN_PASTA_BAKE:
+  name: Mì Ý gà đút lò
+  type:
+  - '&7&oThức ăn'
+  description:
+  - Món ruột của sinh viên.
+  stats:
+  - '&8⇨ &7Hồi máu: &b5 trái tim'
+  - '&8⇨ &bNhìn trong bóng tối I &7(10:00)'
+  - '&8⇨ &bThở dưới nước I &7(10:00)'
+CLT_CHICKEN_POT_PIE:
+  name: Bánh nhân Gà
+  type:
+  - '&7&oThức ăn'
+  description:
+  - Một bữa ăn ấm áp mang hương vị gia đình.
+  stats:
+  - '&8⇨ &7Hồi máu: &b10 trái tim'
+  - '&8⇨ &bNhảy cao II &7(10:00)'
+  - '&8⇨ &bĐộ no bụng I &7(10:00)'
+CLT_CHICKPEAS:
+  name: Đậu gà
+  type:
+  - '&7&oNông sản'
+  description:
+  - Đậu mắt đen thì hát được cả bài, còn đậu gà chỉ biết làm hummus thôi.
+CLT_CHICORY:
+  name: Rau diếp xoăn
+  type:
+  - '&7&oNông sản'
+  description:
+  - Một loại củ bùi bùi, đăng đắng.
+CLT_CHILLY_PEPPER:
+  name: Ớt
+  type:
+  - '&7&oNông sản'
+  description:
+  - Tôi ăn được nguyên quả ớt mà không khóc.
+  - À, nửa quả.
+  - THÔI ĐƯỢC RỒI.... 1/4
+  - '...'
+  - Ok, tôi chạm được lên lưỡi một chút
+CLT_CHIVES:
+  name: Hẹ
+  type:
+  - '&7&oNông sản'
+  description:
+  - Một loại rau thơm ngọt, mang vị hành.
+CLT_CHOPPED_APPLE:
+  name: Táo băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_APRICOT:
+  name: Mơ băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_ARTICHOKE:
+  name: Atisô băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_ASPARAGUS:
+  name: Măng tây băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_AUBERGINE:
+  name: Cà tím băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_AVOCADO:
+  name: Quả bơ băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_BANANA:
+  name: Chuối băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_BASIL:
+  name: Húng quế băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_BAY_LEAF:
+  name: Lá nguyệt quế băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_BEEF:
+  name: Thịt bò băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_BEETROOT:
+  name: Củ dền băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_BELL_PEPPER:
+  name: Ớt chuông băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_BLACK_BEANS:
+  name: Đậu đen băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_BREAD:
+  name: Bánh mì băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_BROCCOLI:
+  name: Bông cải xanh băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_BROWN_MUSHROOM:
+  name: Nấm nâu băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_BRUSSELS_SPROUTS:
+  name: Cải Brussels băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_CABBAGE:
+  name: Bắp cải băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_CARROT:
+  name: Cà rốt băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_CAULIFLOWER:
+  name: Bông cải trắng băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_CAYENNE_PEPPER:
+  name: Ớt cayenne băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_CELERIAC:
+  name: Củ cần tây băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_CELERY:
+  name: Cần tây băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_CHERRY:
+  name: Anh đào băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_CHESTNUT:
+  name: Hạt dẻ băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_CHICKEN:
+  name: Thịt gà băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_CHICKPEAS:
+  name: Đậu gà băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_CHICORY:
+  name: Rau diếp xoăn băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_CHILLY_PEPPER:
+  name: Ớt băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_CHIVES:
+  name: Hẹ băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_CHORUS_FRUIT:
+  name: Quả Chorus băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_CILANTRO:
+  name: Rau mùi băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_CINNAMON:
+  name: Quế băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_CLOVE:
+  name: Đinh hương băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_COCOA_BEANS:
+  name: Hạt ca cao băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_COD:
+  name: Cá tuyết băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_COURGETTE:
+  name: Bí ngòi băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_CUCUMBER:
+  name: Dưa chuột băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_CUMIN:
+  name: Thì là Ai Cập băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_CURRY_LEAF:
+  name: Lá Cà ri băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_DILL:
+  name: Thì là băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_EGG:
+  name: Trứng băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_ENCHANTED_GOLDEN_APPLE:
+  name: Táo vàng được phù phép băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_FENNEL:
+  name: Tiểu hồi hương băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_GARLIC:
+  name: Tỏi băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_GINGER:
+  name: Gừng băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_GLOW_BERRIES:
+  name: Quả mọng phát sáng băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_GOLDEN_APPLE:
+  name: Táo vàng băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_GOLDEN_CARROT:
+  name: Cà rốt vàng băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_GRAPE:
+  name: Nho băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_GREEN_APPLE:
+  name: Táo xanh băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_GREEN_BEANS:
+  name: Đậu que băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_GREEN_ONION:
+  name: Hành lá băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_HAZELNUT:
+  name: Hạt phỉ băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_HORSERADISH:
+  name: Cải ngựa băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_JALAPENO:
+  name: Ớt jalapeno băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_JASMINE:
+  name: Hoa nhài băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_JUNIPER_BERRY:
+  name: Quả bách xù băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_KAFFIR_LIME:
+  name: Lá chanh kaffir băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_KALE:
+  name: Cải xoăn băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_KELP:
+  name: Tảo bẹ băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_KIWI:
+  name: Kiwi băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_LAVENDER:
+  name: Oải hương băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_LEEK:
+  name: Tỏi tây băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_LEMON:
+  name: Chanh vàng băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_LETTUCE:
+  name: Xà lách băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_LICORICE:
+  name: Cam thảo băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_LIME:
+  name: Chanh xanh băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_MACE:
+  name: Vỏ nhục đậu khấu băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_MANGO:
+  name: Xoài băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_MARJORAM:
+  name: Kinh giới ngọt băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_MARROW:
+  name: Bí ngòi lớn băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_MELON:
+  name: Dưa hấu băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_MINT:
+  name: Bạc hà băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_MUSTARD_SEEDS:
+  name: Hạt mù tạt băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_MUTTON:
+  name: Thịt cừu băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_NETTLES:
+  name: Tầm ma băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_OKRA:
+  name: Đậu bắp băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_ONION:
+  name: Hành tây băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_ORANGE:
+  name: Cam băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_OREGANO:
+  name: Kinh giới cay băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_PARSLEY:
+  name: Mùi tây băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_PARSNIP:
+  name: Củ cải vàng băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_PEA:
+  name: Đậu Hà Lan băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_PEACH:
+  name: Đào băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_PEANUT:
+  name: Hạt đậu phộng băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_PEAR:
+  name: Lê băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_PECAN:
+  name: Hạt hồ đào băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_PEPPER:
+  name: Tiêu đen băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_PEPPERONI:
+  name: Xúc xích pepperoni băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_PINEAPPLE:
+  name: Dứa băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_PINTO_BEANS:
+  name: Đậu pinto băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_PORKCHOP:
+  name: Sườn heo băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_POTATO:
+  name: Khoai tây băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_PUFFERFISH:
+  name: Cá nóc băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_PUMPKIN:
+  name: Bí ngô băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_RABBIT:
+  name: Thịt thỏ băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_RADDISH:
+  name: Củ cải đỏ băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_RADICCHIO:
+  name: Cải radicchio băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_RAPESEED:
+  name: Hạt cải dầu băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_RED_MUSHROOM:
+  name: Nấm đỏ băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_RHUBARB:
+  name: Đại hoàng băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_RICE:
+  name: Gạo băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_ROSEMARY:
+  name: Hương thảo băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_ROTTEN_FLESH:
+  name: Thịt thối rữa băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_RUNNER_BEANS:
+  name: Đậu leo băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_RUTABAGA:
+  name: Củ cải Thụy Điển băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_SALMON:
+  name: Cá hồi băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_SASSAFRAS:
+  name: Xá xị băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_SHALLOT:
+  name: Hành tím băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_SHISO:
+  name: Tía tô băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_SOY_BEANS:
+  name: Đậu nành băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_SPINACH:
+  name: Rau bina băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_STAR_ANISE:
+  name: Hoa hồi băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_STRAWBERRY:
+  name: Dâu tây băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_SUGAR:
+  name: Đường băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_SWEETCORN:
+  name: Ngô ngọt băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_SWEET_BERRIES:
+  name: Quả mọng ngọt băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_SWEET_POTATO:
+  name: Khoai lang băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_TARRAGON:
+  name: Ngải giấm băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_THYME:
+  name: Cỏ xạ hương băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_TOMATO:
+  name: Cà chua băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_TURMERIC:
+  name: Nghệ băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_TURNIP:
+  name: Củ cải tròn băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_VANILLA:
+  name: Vani băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_WASABI:
+  name: Wasabi băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CHOPPED_WHEAT:
+  name: Lúa mì băm
+  type:
+  - '&7&oPhụ phẩm'
+CLT_CILANTRO:
+  name: Rau mùi
+  type:
+  - '&7&oNông sản'
+  description:
+  - Một loại gia vị dịu nhẹ với chút hương cam chanh.
+CLT_CINNAMON:
+  name: Quế
+  type:
+  - '&7&oNông sản'
+  description:
+  - Nhai nguyên thanh là tuyệt nhất.
+CLT_CINNAMON_ROLL:
+  name: Bánh cuộn quế
+  type:
+  - '&7&oThức ăn'
+  description:
+  - Một món ngọt được cuộn tròn cho vui.
+  - Ăn vào là cả thế giới lộn ngược!
+  stats:
+  - '&8⇨ &7Hồi máu: &b4 trái tim'
+  - '&8⇨ &bBay lên I &7(10:00)'
+  - '&8⇨ &bRơi chậm I &7(10:00)'
+CLT_CLOVE:
+  name: Đinh hương
+  type:
+  - '&7&oNông sản'
+  description:
+  - Một hương vị cực kỳ ấm nồng và mãnh liệt.
+CLT_COMPRESSED_BISCUIT:
+  name: Bánh quy nén
+  type:
+  - '&7&oThức ăn'
+  description:
+  - Món ăn vặt nhỏ xíu với hương vị khổng lồ hơn nữa.
+  stats: *id002
+CLT_COOKED_BURGER_PATTY:
+  name: Nhân burger chín
+  type:
+  - '&7&oNông sản'
+  description:
+  - Nhỏ giọt tong tong
+CLT_COUNTER_BLENDER:
+  name: Quầy bếp (Máy xay sinh tố)
+  type:
+  - '&7&oMáy móc'
+  description:
+  - Nhấp chuột phải vào khối này để xay nhuyễn nông sản.
+  usage: &id003
+  - Mẹo hay! Khi đã đặt, bạn có thể Shift + nhấp
+  - chuột phải và (các) khối bạn đang cầm sẽ
+  - thay đổi kiểu dáng nhà bếp. Thử ngay nhé!
+CLT_COUNTER_BOILING:
+  name: Quầy bếp (Nồi luộc)
+  type:
+  - '&7&oMáy móc'
+  description:
+  - Có thể luộc một số vật phẩm.
+  usage: *id003
+CLT_COUNTER_CHOPPING:
+  name: Quầy bếp (Thớt băm)
+  type:
+  - '&7&oMáy móc'
+  description:
+  - Nhấp chuột phải vào khối này để băm nông sản.
+  usage: *id003
+CLT_COUNTER_FINISHING:
+  name: Quầy bếp (Hoàn thiện)
+  type:
+  - '&7&oMáy móc'
+  description:
+  - Dùng để chế biến sản phẩm/phụ phẩm thành
+  - phụ phẩm khác hoặc món ăn hoàn chỉnh.
+  usage: *id003
+CLT_COUNTER_FRYING:
+  name: Quầy bếp (Chảo chiên)
+  type:
+  - '&7&oMáy móc'
+  description:
+  - Có thể chiên một số nông sản.
+  usage: *id003
+CLT_COUNTER_GRILL:
+  name: Quầy bếp (Vỉ nướng)
+  type:
+  - '&7&oMáy móc'
+  description:
+  - Có thể nướng vỉ một số nông sản.
+  usage: *id003
+CLT_COUNTER_GRINDER:
+  name: Quầy bếp (Chày và cối giã)
+  type:
+  - '&7&oMáy móc'
+  description:
+  - Nhấp chuột phải vào khối này để giã nông sản.
+  usage: *id003
+CLT_COUNTER_MASHER:
+  name: Quầy bếp (Bát nghiền)
+  type:
+  - '&7&oMáy móc'
+  description:
+  - Nhấp chuột phải vào khối này để nghiền nông sản.
+  usage: *id003
+CLT_COUNTER_NOTHING:
+  name: Quầy bếp (Trống)
+  type:
+  - '&7&oMáy móc'
+  description:
+  - Chỉ để trang trí thôi!
+  usage: *id003
+CLT_COUNTER_OVEN:
+  name: Quầy bếp (Lò nướng)
+  type:
+  - '&7&oMáy móc'
+  description:
+  - Có thể nướng lò một số nông sản.
+  usage: *id003
+CLT_COUNTER_SLICING:
+  name: Quầy bếp (Thớt thái lát)
+  type:
+  - '&7&oMáy móc'
+  description:
+  - Nhấp chuột phải vào khối này để thái lát nông sản.
+  usage: *id003
+CLT_COURGETTE:
+  name: Bí ngòi
+  type:
+  - '&7&oNông sản'
+  description:
+  - 'Mẹo hay: Bào thứ này vào bất kỳ sốt mì Ý nào'
+  - để tăng độ đậm đà và kết cấu.
+CLT_CREAM_CHEESE:
+  name: Phô mai kem
+  type:
+  - '&7&oNông sản'
+  description:
+  - Béo ngậy kem hơn là vị phô mai.
+CLT_CROP_STICKS:
+  name: Cọc giàn cây trồng
+  type:
+  - '&7&oCông cụ'
+  description:
+  - Cọc giàn phải được cắm vào một
+  - hạt giống đã trồng để nó có thể lớn.
+  - Đặt thêm một bộ nữa sẽ lai chéo
+  - cây trồng, giúp nó lan rộng và/hoặc
+  - lai tạo.
+CLT_CUCUMBER:
+  name: Dưa chuột
+  type:
+  - '&7&oNông sản'
+  description:
+  - Nước bọc trong lớp vỏ xanh, chứng minh
+  - tôi sai đi.
+CLT_CUMIN:
+  name: Thì là Ai Cập
+  type:
+  - '&7&oNông sản'
+  description:
+  - Một loại cây ấm áp, thơm mùi cam chanh.
+CLT_CURRY_LEAF:
+  name: Lá Cà ri
+  type:
+  - '&7&oNông sản'
+  description:
+  - Nền tảng của biết bao món ăn tuyệt vời.
+CLT_DILL:
+  name: Thì là
+  type:
+  - '&7&oNông sản'
+  description:
+  - Với tôi thì nó chỉ có vị cỏ. Sao
+  - mọi người lại thích thứ này nhỉ?
+CLT_DOUGH:
+  name: Bột nhào
+  type:
+  - '&7&oNông sản'
+  description:
+  - Chỉ là bột nhào bình thường thôi!
+CLT_EGG_SALAD:
+  name: Salad Trứng
+  type:
+  - '&7&oNông sản'
+  description:
+  - Mở cái này trên tàu hỏa xem, tôi thách đấy!
+CLT_EGG_SALAD_SANDWICH:
+  name: Bánh sandwich salad trứng
+  type:
+  - '&7&oThức ăn'
+  description:
+  - Hơi có mùi, nhưng ngon tuyệt cú mèo!
+  stats: &id006
+  - '&8⇨ &7Hồi máu: &b10 trái tim'
+  - '&8⇨ &bHồi phục II &7(10:00)'
+CLT_FENNEL:
+  name: Tiểu hồi hương
+  type:
+  - '&7&oNông sản'
+  description:
+  - Như sự pha trộn giữa hồi và cam thảo.
+CLT_FRIED_APPLE:
+  name: Táo chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_APRICOT:
+  name: Mơ chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_ARTICHOKE:
+  name: Atisô chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_ASPARAGUS:
+  name: Măng tây chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_AUBERGINE:
+  name: Cà tím chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_AVOCADO:
+  name: Quả bơ chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_BANANA:
+  name: Chuối chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_BASIL:
+  name: Húng quế chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_BAY_LEAF:
+  name: Lá nguyệt quế chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_BEEF:
+  name: Thịt bò chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_BEETROOT:
+  name: Củ dền chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_BELL_PEPPER:
+  name: Ớt chuông chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_BLACK_BEANS:
+  name: Đậu đen chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_BREAD:
+  name: Bánh mì chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_BROCCOLI:
+  name: Bông cải xanh chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_BROWN_MUSHROOM:
+  name: Nấm nâu chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_BRUSSELS_SPROUTS:
+  name: Cải Brussels chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_CABBAGE:
+  name: Bắp cải chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_CARROT:
+  name: Cà rốt chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_CAULIFLOWER:
+  name: Bông cải trắng chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_CAYENNE_PEPPER:
+  name: Ớt cayenne chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_CELERIAC:
+  name: Củ cần tây chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_CELERY:
+  name: Cần tây chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_CHERRY:
+  name: Anh đào chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_CHESTNUT:
+  name: Hạt dẻ chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_CHICKEN:
+  name: Thịt gà chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_CHICKPEAS:
+  name: Đậu gà chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_CHICORY:
+  name: Rau diếp xoăn chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_CHILLY_PEPPER:
+  name: Ớt chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_CHIVES:
+  name: Hẹ chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_CHORUS_FRUIT:
+  name: Quả Chorus chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_CILANTRO:
+  name: Rau mùi chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_CINNAMON:
+  name: Quế chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_CLOVE:
+  name: Đinh hương chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_COCOA_BEANS:
+  name: Hạt ca cao chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_COD:
+  name: Cá tuyết chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_COURGETTE:
+  name: Bí ngòi chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_CUCUMBER:
+  name: Dưa chuột chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_CUMIN:
+  name: Thì là Ai Cập chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_CURRY_LEAF:
+  name: Lá Cà ri chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_DILL:
+  name: Thì là chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_EGG:
+  name: Trứng chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_ENCHANTED_GOLDEN_APPLE:
+  name: Táo vàng được phù phép chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_FENNEL:
+  name: Tiểu hồi hương chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_GARLIC:
+  name: Tỏi chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_GINGER:
+  name: Gừng chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_GLOW_BERRIES:
+  name: Quả mọng phát sáng chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_GOLDEN_APPLE:
+  name: Táo vàng chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_GOLDEN_CARROT:
+  name: Cà rốt vàng chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_GRAPE:
+  name: Nho chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_GREEN_APPLE:
+  name: Táo xanh chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_GREEN_BEANS:
+  name: Đậu que chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_GREEN_ONION:
+  name: Hành lá chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_HAZELNUT:
+  name: Hạt phỉ chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_HORSERADISH:
+  name: Cải ngựa chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_JALAPENO:
+  name: Ớt jalapeno chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_JASMINE:
+  name: Hoa nhài chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_JUNIPER_BERRY:
+  name: Quả bách xù chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_KAFFIR_LIME:
+  name: Lá chanh kaffir chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_KALE:
+  name: Cải xoăn chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_KELP:
+  name: Tảo bẹ chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_KIWI:
+  name: Kiwi chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_LAVENDER:
+  name: Oải hương chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_LEEK:
+  name: Tỏi tây chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_LEMON:
+  name: Chanh vàng chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_LETTUCE:
+  name: Xà lách chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_LICORICE:
+  name: Cam thảo chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_LIME:
+  name: Chanh xanh chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_MACE:
+  name: Vỏ nhục đậu khấu chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_MANGO:
+  name: Xoài chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_MARJORAM:
+  name: Kinh giới ngọt chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_MARROW:
+  name: Bí ngòi lớn chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_MELON:
+  name: Dưa hấu chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_MINT:
+  name: Bạc hà chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_MUSTARD_SEEDS:
+  name: Hạt mù tạt chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_MUTTON:
+  name: Thịt cừu chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_NETTLES:
+  name: Tầm ma chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_OKRA:
+  name: Đậu bắp chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_ONION:
+  name: Hành tây chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_ORANGE:
+  name: Cam chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_OREGANO:
+  name: Kinh giới cay chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_PARSLEY:
+  name: Mùi tây chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_PARSNIP:
+  name: Củ cải vàng chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_PEA:
+  name: Đậu Hà Lan chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_PEACH:
+  name: Đào chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_PEANUT:
+  name: Hạt đậu phộng chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_PEAR:
+  name: Lê chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_PECAN:
+  name: Hạt hồ đào chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_PEPPER:
+  name: Tiêu đen chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_PEPPERONI:
+  name: Xúc xích pepperoni chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_PINEAPPLE:
+  name: Dứa chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_PINTO_BEANS:
+  name: Đậu pinto chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_PORKCHOP:
+  name: Sườn heo chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_POTATO:
+  name: Khoai tây chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_PUFFERFISH:
+  name: Cá nóc chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_PUMPKIN:
+  name: Bí ngô chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_RABBIT:
+  name: Thịt thỏ chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_RADDISH:
+  name: Củ cải đỏ chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_RADICCHIO:
+  name: Cải radicchio chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_RAPESEED:
+  name: Hạt cải dầu chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_RED_MUSHROOM:
+  name: Nấm đỏ chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_RHUBARB:
+  name: Đại hoàng chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_RICE:
+  name: Gạo chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_ROSEMARY:
+  name: Hương thảo chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_ROTTEN_FLESH:
+  name: Thịt thối rữa chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_RUNNER_BEANS:
+  name: Đậu leo chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_RUTABAGA:
+  name: Củ cải Thụy Điển chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_SALMON:
+  name: Cá hồi chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_SASSAFRAS:
+  name: Xá xị chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_SHALLOT:
+  name: Hành tím chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_SHISO:
+  name: Tía tô chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_SOY_BEANS:
+  name: Đậu nành chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_SPINACH:
+  name: Rau bina chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_STAR_ANISE:
+  name: Hoa hồi chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_STRAWBERRY:
+  name: Dâu tây chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_SUGAR:
+  name: Đường chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_SWEETCORN:
+  name: Ngô ngọt chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_SWEET_BERRIES:
+  name: Quả mọng ngọt chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_SWEET_POTATO:
+  name: Khoai lang chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_TARRAGON:
+  name: Ngải giấm chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_THYME:
+  name: Cỏ xạ hương chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_TOMATO:
+  name: Cà chua chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_TURMERIC:
+  name: Nghệ chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_TURNIP:
+  name: Củ cải tròn chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_VANILLA:
+  name: Vani chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_WASABI:
+  name: Wasabi chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRIED_WHEAT:
+  name: Lúa mì chiên
+  type:
+  - '&7&oPhụ phẩm'
+CLT_FRUIT_SALAD:
+  name: Salad trái cây
+  type:
+  - '&7&oThức ăn'
+  description:
+  - Cứ gọi nó là salad, rồi bạn ăn bao nhiêu
+  - cũng được, vì nó lành mạnh mà.
+  stats:
+  - '&8⇨ &7Hồi máu: &b6 trái tim'
+  - '&8⇨ &bTốc độ III &7(10:00)'
+CLT_FUGU:
+  name: Fugu
+  type:
+  - '&7&oThức ăn'
+  description:
+  - Sẵn sàng thử vận may chưa?
+  stats:
+  - '&8⇨ &7Hồi máu: &b1 trái tim'
+  - '&8⇨ &bSức mạnh V &7(10:00)'
+  - '&8⇨ &733% cơ hội lăn ra chết luôn!'
+CLT_GARDEN_CLOCHE:
+  name: Chuông kính làm vườn
+  type:
+  - '&7&oMáy móc'
+  description:
+  - Tự động trồng cây bên trong.
+  stats:
+  - '&8⇨ &7Năng lượng mỗi tick: &b100'
+CLT_GARLIC:
+  name: Tỏi
+  type:
+  - '&7&oNông sản'
+  description:
+  - Nhanh lên, trước khi ma cà rồng tới!
+CLT_GARLIC_BUTTER_MUSHROOMS:
+  name: Nấm sốt bơ tỏi
+  type:
+  - '&7&oThức ăn'
+  description:
+  - Có khi là món ăn ngon nhất trên đời.
+  stats:
+  - '&8⇨ &7Hồi máu: &b2 trái tim'
+  - '&8⇨ &bPhát sáng I &7(10:00)'
+CLT_GINGER:
+  name: Gừng
+  type:
+  - '&7&oNông sản'
+  description:
+  - Gừng băm thả vào nước sôi, chữa bách bệnh!
+CLT_GRAPE:
+  name: Nho
+  type:
+  - '&7&oNông sản'
+  description:
+  - Căng mọng quá!
+CLT_GRAPE_JELLY:
+  name: Thạch nho
+  type:
+  - '&7&oNông sản'
+  description: &id008
+  - Ăn nó bằng thìa là phạm pháp đấy.
+CLT_GREEN_APPLE:
+  name: Táo xanh
+  type:
+  - '&7&oNông sản'
+  description:
+  - Mảnh giấy ghi... Thầy cô kính mến?
+CLT_GREEN_BEANS:
+  name: Đậu que
+  type:
+  - '&7&oNông sản'
+  description:
+  - Cái tên sáng tạo ghê!
+CLT_GREEN_ONION:
+  name: Hành lá
+  type:
+  - '&7&oNông sản'
+  description:
+  - Ăn kèm tacos là hết sảy!
+CLT_GRILLED_APPLE:
+  name: Táo nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_APRICOT:
+  name: Mơ nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_ARTICHOKE:
+  name: Atisô nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_ASPARAGUS:
+  name: Măng tây nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_AUBERGINE:
+  name: Cà tím nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_AVOCADO:
+  name: Quả bơ nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_BANANA:
+  name: Chuối nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_BASIL:
+  name: Húng quế nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_BAY_LEAF:
+  name: Lá nguyệt quế nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_BEEF:
+  name: Thịt bò nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_BEETROOT:
+  name: Củ dền nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_BELL_PEPPER:
+  name: Ớt chuông nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_BLACK_BEANS:
+  name: Đậu đen nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_BREAD:
+  name: Bánh mì nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_BROCCOLI:
+  name: Bông cải xanh nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_BROWN_MUSHROOM:
+  name: Nấm nâu nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_BRUSSELS_SPROUTS:
+  name: Cải Brussels nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_CABBAGE:
+  name: Bắp cải nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_CARROT:
+  name: Cà rốt nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_CAULIFLOWER:
+  name: Bông cải trắng nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_CAYENNE_PEPPER:
+  name: Ớt cayenne nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_CELERIAC:
+  name: Củ cần tây nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_CELERY:
+  name: Cần tây nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_CHERRY:
+  name: Anh đào nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_CHESTNUT:
+  name: Hạt dẻ nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_CHICKEN:
+  name: Thịt gà nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_CHICKPEAS:
+  name: Đậu gà nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_CHICORY:
+  name: Rau diếp xoăn nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_CHILLY_PEPPER:
+  name: Ớt nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_CHIVES:
+  name: Hẹ nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_CHORUS_FRUIT:
+  name: Quả Chorus nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_CILANTRO:
+  name: Rau mùi nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_CINNAMON:
+  name: Quế nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_CLOVE:
+  name: Đinh hương nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_COCOA_BEANS:
+  name: Hạt ca cao nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_COD:
+  name: Cá tuyết nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_COURGETTE:
+  name: Bí ngòi nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_CUCUMBER:
+  name: Dưa chuột nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_CUMIN:
+  name: Thì là Ai Cập nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_CURRY_LEAF:
+  name: Lá Cà ri nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_DILL:
+  name: Thì là nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_EGG:
+  name: Trứng nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_ENCHANTED_GOLDEN_APPLE:
+  name: Táo vàng được phù phép nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_FENNEL:
+  name: Tiểu hồi hương nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_GARLIC:
+  name: Tỏi nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_GINGER:
+  name: Gừng nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_GLOW_BERRIES:
+  name: Quả mọng phát sáng nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_GOLDEN_APPLE:
+  name: Táo vàng nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_GOLDEN_CARROT:
+  name: Cà rốt vàng nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_GRAPE:
+  name: Nho nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_GREEN_APPLE:
+  name: Táo xanh nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_GREEN_BEANS:
+  name: Đậu que nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_GREEN_ONION:
+  name: Hành lá nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_HAZELNUT:
+  name: Hạt phỉ nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_HORSERADISH:
+  name: Cải ngựa nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_JALAPENO:
+  name: Ớt jalapeno nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_JASMINE:
+  name: Hoa nhài nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_JUNIPER_BERRY:
+  name: Quả bách xù nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_KAFFIR_LIME:
+  name: Lá chanh kaffir nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_KALE:
+  name: Cải xoăn nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_KELP:
+  name: Tảo bẹ nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_KIWI:
+  name: Kiwi nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_LAVENDER:
+  name: Oải hương nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_LEEK:
+  name: Tỏi tây nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_LEMON:
+  name: Chanh vàng nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_LETTUCE:
+  name: Xà lách nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_LICORICE:
+  name: Cam thảo nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_LIME:
+  name: Chanh xanh nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_MACE:
+  name: Vỏ nhục đậu khấu nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_MANGO:
+  name: Xoài nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_MARJORAM:
+  name: Kinh giới ngọt nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_MARROW:
+  name: Bí ngòi lớn nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_MELON:
+  name: Dưa hấu nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_MINT:
+  name: Bạc hà nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_MUSTARD_SEEDS:
+  name: Hạt mù tạt nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_MUTTON:
+  name: Thịt cừu nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_NETTLES:
+  name: Tầm ma nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_OKRA:
+  name: Đậu bắp nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_ONION:
+  name: Hành tây nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_ORANGE:
+  name: Cam nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_OREGANO:
+  name: Kinh giới cay nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_PARSLEY:
+  name: Mùi tây nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_PARSNIP:
+  name: Củ cải vàng nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_PEA:
+  name: Đậu Hà Lan nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_PEACH:
+  name: Đào nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_PEANUT:
+  name: Hạt đậu phộng nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_PEAR:
+  name: Lê nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_PECAN:
+  name: Hạt hồ đào nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_PEPPER:
+  name: Tiêu đen nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_PEPPERONI:
+  name: Xúc xích pepperoni nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_PINEAPPLE:
+  name: Dứa nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_PINTO_BEANS:
+  name: Đậu pinto nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_PORKCHOP:
+  name: Sườn heo nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_POTATO:
+  name: Khoai tây nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_PUFFERFISH:
+  name: Cá nóc nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_PUMPKIN:
+  name: Bí ngô nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_RABBIT:
+  name: Thịt thỏ nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_RADDISH:
+  name: Củ cải đỏ nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_RADICCHIO:
+  name: Cải radicchio nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_RAPESEED:
+  name: Hạt cải dầu nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_RED_MUSHROOM:
+  name: Nấm đỏ nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_RHUBARB:
+  name: Đại hoàng nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_RICE:
+  name: Gạo nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_ROSEMARY:
+  name: Hương thảo nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_ROTTEN_FLESH:
+  name: Thịt thối rữa nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_RUNNER_BEANS:
+  name: Đậu leo nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_RUTABAGA:
+  name: Củ cải Thụy Điển nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_SALMON:
+  name: Cá hồi nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_SALMON_SALAD:
+  name: Salad cá hồi nướng
+  type:
+  - '&7&oThức ăn'
+  description:
+  - Giòn tan và nêm nếm tuyệt hảo.
+  stats:
+  - '&8⇨ &7Hồi máu: &b4 trái tim'
+  - '&8⇨ &bHồi phục I &7(10:00)'
+  - '&8⇨ &bTăng sinh lực V &7(10:00)'
+CLT_GRILLED_SASSAFRAS:
+  name: Xá xị nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_SHALLOT:
+  name: Hành tím nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_SHISO:
+  name: Tía tô nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_SOY_BEANS:
+  name: Đậu nành nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_SPINACH:
+  name: Rau bina nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_STAR_ANISE:
+  name: Hoa hồi nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_STRAWBERRY:
+  name: Dâu tây nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_SUGAR:
+  name: Đường nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_SWEETCORN:
+  name: Ngô ngọt nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_SWEET_BERRIES:
+  name: Quả mọng ngọt nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_SWEET_POTATO:
+  name: Khoai lang nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_TARRAGON:
+  name: Ngải giấm nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_THYME:
+  name: Cỏ xạ hương nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_TOMATO:
+  name: Cà chua nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_TURMERIC:
+  name: Nghệ nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_TURNIP:
+  name: Củ cải tròn nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_VANILLA:
+  name: Vani nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_WASABI:
+  name: Wasabi nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GRILLED_WHEAT:
+  name: Lúa mì nướng
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_APPLE:
+  name: Táo giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_APRICOT:
+  name: Mơ giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_ARTICHOKE:
+  name: Atisô giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_ASPARAGUS:
+  name: Măng tây giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_AUBERGINE:
+  name: Cà tím giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_AVOCADO:
+  name: Quả bơ giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_BANANA:
+  name: Chuối giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_BASIL:
+  name: Húng quế giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_BAY_LEAF:
+  name: Lá nguyệt quế giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_BEEF:
+  name: Thịt bò giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_BEETROOT:
+  name: Củ dền giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_BELL_PEPPER:
+  name: Ớt chuông giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_BLACK_BEANS:
+  name: Đậu đen giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_BREAD:
+  name: Bánh mì giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_BROCCOLI:
+  name: Bông cải xanh giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_BROWN_MUSHROOM:
+  name: Nấm nâu giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_BRUSSELS_SPROUTS:
+  name: Cải Brussels giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_CABBAGE:
+  name: Bắp cải giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_CARROT:
+  name: Cà rốt giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_CAULIFLOWER:
+  name: Bông cải trắng giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_CAYENNE_PEPPER:
+  name: Ớt cayenne giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_CELERIAC:
+  name: Củ cần tây giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_CELERY:
+  name: Cần tây giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_CHERRY:
+  name: Anh đào giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_CHESTNUT:
+  name: Hạt dẻ giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_CHICKEN:
+  name: Thịt gà giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_CHICKPEAS:
+  name: Đậu gà giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_CHICORY:
+  name: Rau diếp xoăn giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_CHILLY_PEPPER:
+  name: Ớt giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_CHIVES:
+  name: Hẹ giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_CHORUS_FRUIT:
+  name: Quả Chorus giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_CILANTRO:
+  name: Rau mùi giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_CINNAMON:
+  name: Quế giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_CLOVE:
+  name: Đinh hương giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_COCOA_BEANS:
+  name: Hạt ca cao giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_COD:
+  name: Cá tuyết giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_COURGETTE:
+  name: Bí ngòi giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_CUCUMBER:
+  name: Dưa chuột giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_CUMIN:
+  name: Thì là Ai Cập giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_CURRY_LEAF:
+  name: Lá Cà ri giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_DILL:
+  name: Thì là giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_EGG:
+  name: Trứng giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_ENCHANTED_GOLDEN_APPLE:
+  name: Táo vàng được phù phép giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_FENNEL:
+  name: Tiểu hồi hương giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_GARLIC:
+  name: Tỏi giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_GINGER:
+  name: Gừng giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_GLOW_BERRIES:
+  name: Quả mọng phát sáng giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_GOLDEN_APPLE:
+  name: Táo vàng giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_GOLDEN_CARROT:
+  name: Cà rốt vàng giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_GRAPE:
+  name: Nho giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_GREEN_APPLE:
+  name: Táo xanh giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_GREEN_BEANS:
+  name: Đậu que giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_GREEN_ONION:
+  name: Hành lá giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_HAZELNUT:
+  name: Hạt phỉ giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_HORSERADISH:
+  name: Cải ngựa giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_JALAPENO:
+  name: Ớt jalapeno giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_JASMINE:
+  name: Hoa nhài giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_JUNIPER_BERRY:
+  name: Quả bách xù giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_KAFFIR_LIME:
+  name: Lá chanh kaffir giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_KALE:
+  name: Cải xoăn giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_KELP:
+  name: Tảo bẹ giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_KIWI:
+  name: Kiwi giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_LAVENDER:
+  name: Oải hương giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_LEEK:
+  name: Tỏi tây giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_LEMON:
+  name: Chanh vàng giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_LETTUCE:
+  name: Xà lách giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_LICORICE:
+  name: Cam thảo giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_LIME:
+  name: Chanh xanh giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_MACE:
+  name: Vỏ nhục đậu khấu giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_MANGO:
+  name: Xoài giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_MARJORAM:
+  name: Kinh giới ngọt giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_MARROW:
+  name: Bí ngòi lớn giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_MELON:
+  name: Dưa hấu giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_MINT:
+  name: Bạc hà giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_MUSTARD_SEEDS:
+  name: Hạt mù tạt giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_MUTTON:
+  name: Thịt cừu giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_NETTLES:
+  name: Tầm ma giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_OKRA:
+  name: Đậu bắp giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_ONION:
+  name: Hành tây giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_ORANGE:
+  name: Cam giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_OREGANO:
+  name: Kinh giới cay giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_PARSLEY:
+  name: Mùi tây giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_PARSNIP:
+  name: Củ cải vàng giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_PEA:
+  name: Đậu Hà Lan giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_PEACH:
+  name: Đào giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_PEANUT:
+  name: Hạt đậu phộng giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_PEAR:
+  name: Lê giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_PECAN:
+  name: Hạt hồ đào giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_PEPPER:
+  name: Tiêu đen giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_PEPPERONI:
+  name: Xúc xích pepperoni giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_PINEAPPLE:
+  name: Dứa giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_PINTO_BEANS:
+  name: Đậu pinto giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_PORKCHOP:
+  name: Sườn heo giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_POTATO:
+  name: Khoai tây giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_PUFFERFISH:
+  name: Cá nóc giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_PUMPKIN:
+  name: Bí ngô giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_RABBIT:
+  name: Thịt thỏ giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_RADDISH:
+  name: Củ cải đỏ giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_RADICCHIO:
+  name: Cải radicchio giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_RAPESEED:
+  name: Hạt cải dầu giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_RED_MUSHROOM:
+  name: Nấm đỏ giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_RHUBARB:
+  name: Đại hoàng giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_RICE:
+  name: Gạo giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_ROSEMARY:
+  name: Hương thảo giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_ROTTEN_FLESH:
+  name: Thịt thối rữa giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_RUNNER_BEANS:
+  name: Đậu leo giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_RUTABAGA:
+  name: Củ cải Thụy Điển giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_SALMON:
+  name: Cá hồi giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_SASSAFRAS:
+  name: Xá xị giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_SHALLOT:
+  name: Hành tím giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_SHISO:
+  name: Tía tô giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_SOY_BEANS:
+  name: Đậu nành giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_SPINACH:
+  name: Rau bina giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_STAR_ANISE:
+  name: Hoa hồi giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_STRAWBERRY:
+  name: Dâu tây giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_SUGAR:
+  name: Đường giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_SWEETCORN:
+  name: Ngô ngọt giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_SWEET_BERRIES:
+  name: Quả mọng ngọt giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_SWEET_POTATO:
+  name: Khoai lang giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_TARRAGON:
+  name: Ngải giấm giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_THYME:
+  name: Cỏ xạ hương giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_TOMATO:
+  name: Cà chua giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_TURMERIC:
+  name: Nghệ giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_TURNIP:
+  name: Củ cải tròn giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_VANILLA:
+  name: Vani giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_WASABI:
+  name: Wasabi giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_GROUND_WHEAT:
+  name: Lúa mì giã
+  type:
+  - '&7&oPhụ phẩm'
+CLT_HAZELNUT:
+  name: Hạt phỉ
+  type:
+  - '&7&oNông sản'
+  description:
+  - Làm gì thì làm, biến cái này thành
+  - cà phê cho tôi, ngay!
+CLT_HORSERADISH:
+  name: Cải ngựa
+  type:
+  - '&7&oNông sản'
+  description:
+  - $100 nếu bạn dám cắn thẳng vào nó.
+CLT_JALAPENO:
+  name: Ớt jalapeno
+  type:
+  - '&7&oNông sản'
+  description:
+  - NÓNG NÓNG NÓNG.
+CLT_JASMINE:
+  name: Hoa nhài
+  type:
+  - '&7&oNông sản'
+  description:
+  - Pha trà thì tuyệt vời.
+CLT_JUNIPER_BERRY:
+  name: Quả bách xù
+  type:
+  - '&7&oNông sản'
+  description:
+  - Phơi khô đến độ cay hoàn hảo.
+CLT_KAFFIR_LIME:
+  name: Lá chanh kaffir
+  type:
+  - '&7&oNông sản'
+  description:
+  - Một chiếc lá với hương thơm mạnh mẽ.
+CLT_KALE:
+  name: Cải xoăn
+  type:
+  - '&7&oNông sản'
+  description:
+  - Cứu, tôi là dân sinh tố sống ảo năm 2020!
+CLT_KETCHUP:
+  name: Tương cà
+  type:
+  - '&7&oNông sản'
+  description:
+  - Chỉ là cà chua ở dạng sệt mịn.
+CLT_KEY_LIME_PIE:
+  name: Bánh chanh Key
+  type:
+  - '&7&oThức ăn'
+  description:
+  - Đơn giản là ngon nhất!
+  stats:
+  - '&8⇨ &7Hồi máu: &b6 trái tim'
+  - '&8⇨ &bĐào nhanh IV &7(10:00)'
+CLT_KIWI:
+  name: Kiwi
+  type:
+  - '&7&oNông sản'
+  description:
+  - Tôi bị ép buộc mới cho thứ này vào addon.
+  - Kiwi là thứ xấu xa và ai
+  - dùng chúng sẽ tự động bị trừ
+  - 100 điểm.
+CLT_LASAGNA:
+  name: Mì Lasagna
+  type:
+  - '&7&oThức ăn'
+  description:
+  - Từng lớp từng lớp tuyệt hảo.
+  stats:
+  - '&8⇨ &7Hồi máu: &bĐầy'
+  - '&8⇨ &bHồi phục II &7(10:00)'
+  - '&8⇨ &bKháng cự II &7(10:00)'
+CLT_LAVENDER:
+  name: Oải hương
+  type:
+  - '&7&oNông sản'
+  description:
+  - Một mùi hương khiến tôi từ từ chìm vào giấc ngủ.
+CLT_LEAVES_TREE_APRICOT:
+  name: Lá cây mơ
+  type:
+  - '&7&oLá cây'
+CLT_LEAVES_TREE_BANANA:
+  name: Lá cây chuối
+  type:
+  - '&7&oLá cây'
+CLT_LEAVES_TREE_CHERRY:
+  name: Lá cây anh đào
+  type:
+  - '&7&oLá cây'
+CLT_LEAVES_TREE_CHESTNUT:
+  name: Lá cây hạt dẻ
+  type:
+  - '&7&oLá cây'
+CLT_LEAVES_TREE_GREEN_APPLE:
+  name: Lá cây táo xanh
+  type:
+  - '&7&oLá cây'
+CLT_LEAVES_TREE_HAZELNUT:
+  name: Lá cây phỉ
+  type:
+  - '&7&oLá cây'
+CLT_LEAVES_TREE_KIWI:
+  name: Lá cây kiwi
+  type:
+  - '&7&oLá cây'
+CLT_LEAVES_TREE_LEMON:
+  name: Lá cây chanh vàng
+  type:
+  - '&7&oLá cây'
+CLT_LEAVES_TREE_LIME:
+  name: Lá cây chanh xanh
+  type:
+  - '&7&oLá cây'
+CLT_LEAVES_TREE_MANGO:
+  name: Lá cây xoài
+  type:
+  - '&7&oLá cây'
+CLT_LEAVES_TREE_ORANGE:
+  name: Lá cây cam
+  type:
+  - '&7&oLá cây'
+CLT_LEAVES_TREE_PEACH:
+  name: Lá cây đào
+  type:
+  - '&7&oLá cây'
+CLT_LEAVES_TREE_PEAR:
+  name: Lá cây lê
+  type:
+  - '&7&oLá cây'
+CLT_LEAVES_TREE_PECAN:
+  name: Lá cây hồ đào
+  type:
+  - '&7&oLá cây'
+CLT_LEAVES_TREE_PINEAPPLE:
+  name: Lá cây dứa
+  type:
+  - '&7&oLá cây'
+CLT_LEEK:
+  name: Tỏi tây
+  type:
+  - '&7&oNông sản'
+  description:
+  - sao tự dưng nó lại nhỏ nước tong tong?
+  - Chắc tỏi tây bị "tây" rò rỉ rồi?
+CLT_LEMON:
+  name: Chanh vàng
+  type:
+  - '&7&oNông sản'
+  description:
+  - Sao mặt chua thế?
+CLT_LEMON_DROP:
+  name: Kẹo chanh
+  type:
+  - '&7&oThức ăn'
+  description:
+  - Món làm sạch vị giác.
+  stats:
+  - '&8⇨ &7Xóa mọi hiệu ứng và khiến bạn đói trở lại.'
+CLT_LETTUCE:
+  name: Xà lách
+  type:
+  - '&7&oNông sản'
+  description:
+  - Mỏng, nhiều nước mà vẫn ngon lành.
+CLT_LICORICE:
+  name: Cam thảo
+  type:
+  - '&7&oNông sản'
+  description:
+  - Chạy, chạy ngay đi!
+CLT_LIME:
+  name: Chanh xanh
+  type:
+  - '&7&oNông sản'
+  description:
+  - Ngày xửa ngày xưa, có một loại quả chanh ngon tuyệt...
+CLT_MACE:
+  name: Vỏ nhục đậu khấu
+  type:
+  - '&7&oNông sản'
+  description:
+  - Dùng để xịt vào mặt kẻ tấn công.
+  - '...'
+  - Ý bạn là sao, đó không phải loại chùy đúng à?
+CLT_MANGO:
+  name: Xoài
+  type:
+  - '&7&oNông sản'
+  description:
+  - TRỜI ƠI, tôi phải ĐI đây.
+  - Viết mô tả khó quá...
+CLT_MARJORAM:
+  name: Kinh giới ngọt
+  type:
+  - '&7&oNông sản'
+  description:
+  - Tôi đang "cà ri" cà rập lắm, nói chuyện sau nhé?
+CLT_MARROW:
+  name: Bí ngòi lớn
+  type:
+  - '&7&oNông sản'
+  description:
+  - Bạn có biết bí ngòi lớn nằm trong
+  - tủy xương của bạn không?
+  - Đúng vậy, Sefi Thông Minh.
+CLT_MASHED_APPLE:
+  name: Táo nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_APRICOT:
+  name: Mơ nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_ARTICHOKE:
+  name: Atisô nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_ASPARAGUS:
+  name: Măng tây nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_AUBERGINE:
+  name: Cà tím nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_AVOCADO:
+  name: Quả bơ nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_BANANA:
+  name: Chuối nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_BASIL:
+  name: Húng quế nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_BAY_LEAF:
+  name: Lá nguyệt quế nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_BEEF:
+  name: Thịt bò nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_BEETROOT:
+  name: Củ dền nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_BELL_PEPPER:
+  name: Ớt chuông nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_BLACK_BEANS:
+  name: Đậu đen nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_BREAD:
+  name: Bánh mì nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_BROCCOLI:
+  name: Bông cải xanh nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_BROWN_MUSHROOM:
+  name: Nấm nâu nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_BRUSSELS_SPROUTS:
+  name: Cải Brussels nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_CABBAGE:
+  name: Bắp cải nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_CARROT:
+  name: Cà rốt nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_CAULIFLOWER:
+  name: Bông cải trắng nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_CAYENNE_PEPPER:
+  name: Ớt cayenne nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_CELERIAC:
+  name: Củ cần tây nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_CELERY:
+  name: Cần tây nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_CHERRY:
+  name: Anh đào nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_CHESTNUT:
+  name: Hạt dẻ nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_CHICKEN:
+  name: Thịt gà nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_CHICKPEAS:
+  name: Đậu gà nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_CHICORY:
+  name: Rau diếp xoăn nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_CHILLY_PEPPER:
+  name: Ớt nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_CHIVES:
+  name: Hẹ nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_CHORUS_FRUIT:
+  name: Quả Chorus nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_CILANTRO:
+  name: Rau mùi nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_CINNAMON:
+  name: Quế nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_CLOVE:
+  name: Đinh hương nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_COCOA_BEANS:
+  name: Hạt ca cao nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_COD:
+  name: Cá tuyết nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_COURGETTE:
+  name: Bí ngòi nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_CUCUMBER:
+  name: Dưa chuột nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_CUMIN:
+  name: Thì là Ai Cập nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_CURRY_LEAF:
+  name: Lá Cà ri nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_DILL:
+  name: Thì là nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_EGG:
+  name: Trứng nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_ENCHANTED_GOLDEN_APPLE:
+  name: Táo vàng được phù phép nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_FENNEL:
+  name: Tiểu hồi hương nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_GARLIC:
+  name: Tỏi nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_GINGER:
+  name: Gừng nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_GLOW_BERRIES:
+  name: Quả mọng phát sáng nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_GOLDEN_APPLE:
+  name: Táo vàng nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_GOLDEN_CARROT:
+  name: Cà rốt vàng nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_GRAPE:
+  name: Nho nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_GREEN_APPLE:
+  name: Táo xanh nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_GREEN_BEANS:
+  name: Đậu que nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_GREEN_ONION:
+  name: Hành lá nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_HAZELNUT:
+  name: Hạt phỉ nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_HORSERADISH:
+  name: Cải ngựa nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_JALAPENO:
+  name: Ớt jalapeno nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_JASMINE:
+  name: Hoa nhài nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_JUNIPER_BERRY:
+  name: Quả bách xù nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_KAFFIR_LIME:
+  name: Lá chanh kaffir nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_KALE:
+  name: Cải xoăn nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_KELP:
+  name: Tảo bẹ nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_KIWI:
+  name: Kiwi nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_LAVENDER:
+  name: Oải hương nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_LEEK:
+  name: Tỏi tây nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_LEMON:
+  name: Chanh vàng nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_LETTUCE:
+  name: Xà lách nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_LICORICE:
+  name: Cam thảo nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_LIME:
+  name: Chanh xanh nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_MACE:
+  name: Vỏ nhục đậu khấu nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_MANGO:
+  name: Xoài nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_MARJORAM:
+  name: Kinh giới ngọt nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_MARROW:
+  name: Bí ngòi lớn nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_MELON:
+  name: Dưa hấu nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_MINT:
+  name: Bạc hà nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_MUSTARD_SEEDS:
+  name: Hạt mù tạt nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_MUTTON:
+  name: Thịt cừu nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_NETTLES:
+  name: Tầm ma nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_OKRA:
+  name: Đậu bắp nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_ONION:
+  name: Hành tây nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_ORANGE:
+  name: Cam nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_OREGANO:
+  name: Kinh giới cay nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_PARSLEY:
+  name: Mùi tây nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_PARSNIP:
+  name: Củ cải vàng nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_PEA:
+  name: Đậu Hà Lan nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_PEACH:
+  name: Đào nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_PEANUT:
+  name: Hạt đậu phộng nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_PEAR:
+  name: Lê nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_PECAN:
+  name: Hạt hồ đào nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_PEPPER:
+  name: Tiêu đen nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_PEPPERONI:
+  name: Xúc xích pepperoni nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_PINEAPPLE:
+  name: Dứa nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_PINTO_BEANS:
+  name: Đậu pinto nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_PORKCHOP:
+  name: Sườn heo nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_POTATO:
+  name: Khoai tây nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_PUFFERFISH:
+  name: Cá nóc nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_PUMPKIN:
+  name: Bí ngô nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_RABBIT:
+  name: Thịt thỏ nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_RADDISH:
+  name: Củ cải đỏ nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_RADICCHIO:
+  name: Cải radicchio nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_RAPESEED:
+  name: Hạt cải dầu nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_RED_MUSHROOM:
+  name: Nấm đỏ nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_RHUBARB:
+  name: Đại hoàng nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_RICE:
+  name: Gạo nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_ROSEMARY:
+  name: Hương thảo nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_ROTTEN_FLESH:
+  name: Thịt thối rữa nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_RUNNER_BEANS:
+  name: Đậu leo nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_RUTABAGA:
+  name: Củ cải Thụy Điển nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_SALMON:
+  name: Cá hồi nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_SASSAFRAS:
+  name: Xá xị nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_SHALLOT:
+  name: Hành tím nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_SHISO:
+  name: Tía tô nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_SOY_BEANS:
+  name: Đậu nành nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_SPINACH:
+  name: Rau bina nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_STAR_ANISE:
+  name: Hoa hồi nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_STRAWBERRY:
+  name: Dâu tây nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_SUGAR:
+  name: Đường nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_SWEETCORN:
+  name: Ngô ngọt nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_SWEET_BERRIES:
+  name: Quả mọng ngọt nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_SWEET_POTATO:
+  name: Khoai lang nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_TARRAGON:
+  name: Ngải giấm nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_THYME:
+  name: Cỏ xạ hương nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_TOMATO:
+  name: Cà chua nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_TURMERIC:
+  name: Nghệ nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_TURNIP:
+  name: Củ cải tròn nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_VANILLA:
+  name: Vani nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_WASABI:
+  name: Wasabi nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MASHED_WHEAT:
+  name: Lúa mì nghiền
+  type:
+  - '&7&oPhụ phẩm'
+CLT_MAYONNAISE:
+  name: Sốt mayonnaise
+  type:
+  - '&7&oNông sản'
+  description:
+  - Sốt mayo mịn mượt, hợp với gần như mọi thứ.
+CLT_MEATBALLS:
+  name: Thịt viên
+  type:
+  - '&7&oNông sản'
+  description:
+  - Thịt mà vo thành viên, ai mà ngờ được.
+CLT_MEATLOAF:
+  name: Thịt xay nướng ổ
+  type:
+  - '&7&oThức ăn'
+  description:
+  - Không gì sánh bằng! Lên đường thôi.
+  stats:
+  - '&8⇨ &7Hồi máu: &bĐầy'
+  - '&8⇨ &bTăng sinh lực IV &7(10:00)'
+  - '&8⇨ &bKháng cự III &7(10:00)'
+  - '&8⇨ &bĐào nhanh II &7(10:00)'
+  - '&8⇨ &bChậm rãi II &7(10:00)'
+CLT_MINT:
+  name: Bạc hà
+  type:
+  - '&7&oNông sản'
+  description:
+  - Nhai nhai nhai.
+CLT_MUSTARD:
+  name: Mù tạt
+  type:
+  - '&7&oNông sản'
+  description:
+  - Có chút cay cay!
+CLT_MUSTARD_SEEDS:
+  name: Hạt giống mù tạt
+  type:
+  - '&7&oNông sản'
+  description:
+  - Nhai thử xem, tôi thách đấy!
+CLT_NETTLES:
+  name: Tầm ma
+  type:
+  - '&7&oNông sản'
+  description:
+  - Vui lòng đeo găng tay trước khi cầm chúng.
+CLT_OKRA:
+  name: Đậu bắp
+  type:
+  - '&7&oNông sản'
+  description:
+  - Trồng nhiều ở Okra-homa... đúng không, ĐÚNG KHÔNG?
+CLT_ONION:
+  name: Hành tây
+  type:
+  - '&7&oNông sản'
+  description:
+  - Khoan, sao bạn lại khóc?
+CLT_ORANGE:
+  name: Cam
+  type:
+  - '&7&oNông sản'
+  description:
+  - Thứ này lẽ ra phải là quả cam máy chứ nhỉ?
+CLT_ORANGE_JUICE:
+  name: Nước ép Cam
+  type:
+  - '&7&oThức ăn'
+  description:
+  - Đúng là cách tuyệt nhất để bắt đầu ngày mới.
+  stats:
+  - '&8⇨ &bTốc độ IV &7(10:00)'
+CLT_OREGANO:
+  name: Kinh giới cay
+  type:
+  - '&7&oNông sản'
+  description:
+  - Một loại rau thơm kinh điển luôn có trong tủ bếp.
+CLT_PARSLEY:
+  name: Mùi tây
+  type:
+  - '&7&oNông sản'
+  description:
+  - Rau. Thơm. Tệ. Nhất.
+CLT_PARSNIP:
+  name: Củ cải vàng
+  type:
+  - '&7&oNông sản'
+  description:
+  - Cần được nướng ngay lập tức.
+CLT_PASTA:
+  name: Mì Ý
+  type:
+  - '&7&oNông sản'
+  description:
+  - Chỉ là mì Ý bình thường, đơn giản mà tuyệt vời.
+CLT_PEA:
+  name: Đậu Hà Lan
+  type:
+  - '&7&oNông sản'
+  description:
+  - Thường đi theo cặp trong một quả, tôi nghe nói vậy.
+CLT_PEACH:
+  name: Đào
+  type:
+  - '&7&oNông sản'
+  description:
+  - Chúng ta không nói về cái Emoji đó
+CLT_PEANUT:
+  name: Hạt đậu phộng
+  type:
+  - '&7&oNông sản'
+  description:
+  - Reece's ơi, ta tới đây!
+CLT_PEANUT_BUTTER:
+  name: Bơ đậu phộng
+  type:
+  - '&7&oNông sản'
+  description:
+  - Chỉ có thể ví như vàng lỏng.
+CLT_PEANUT_BUTTER_JELLY_SANDWICH:
+  name: Bánh sandwich bơ đậu phộng và thạch
+  type:
+  - '&7&oThức ăn'
+  description:
+  - Đây đúng là đỉnh cao của công nghệ bánh sandwich.
+  stats:
+  - '&8⇨ &7Hồi máu: &b5 trái tim'
+  - '&8⇨ &bSức mạnh III &7(10:00)'
+CLT_PEAR:
+  name: Lê
+  type:
+  - '&7&oNông sản'
+  description:
+  - Bạn có thấy nó trông "lê"-ng lẫy hoàn hảo không?
+CLT_PECAN:
+  name: Hạt hồ đào
+  type:
+  - '&7&oNông sản'
+  description:
+  - Cứ như đang năn nỉ được làm thành bánh.
+CLT_PECAN_PIE:
+  name: Bánh hồ đào
+  type:
+  - '&7&oThức ăn'
+  description:
+  - Cách duy nhất để ăn đường nguyên chất mà
+  - không bị ai phán xét.
+  stats:
+  - '&8⇨ &7Hồi máu: &b4 trái tim'
+  - '&8⇨ &bBay lên I &7(10:00)'
+CLT_PEPPER:
+  name: Tiêu đen
+  type:
+  - '&7&oNông sản'
+  description:
+  - Đậm đà hơn cả muối.
+CLT_PEPPERONI:
+  name: Xúc xích pepperoni
+  type:
+  - '&7&oNông sản'
+  description:
+  - Tôi ăn hết cả một khúc thứ này, dễ ợt.
+CLT_PICO_DE_GALLO:
+  name: Sốt Pico de Gallo
+  type:
+  - '&7&oNông sản'
+  description:
+  - Một món salsa dịu nhẹ, ngon thuần túy.
+CLT_PIE_CRUST:
+  name: Vỏ bánh nướng
+  type:
+  - '&7&oNông sản'
+  description:
+  - Nếu ăn không thứ này mà hợp pháp
+  - thì nó đã là nguồn thức ăn chính của tôi.
+CLT_PINEAPPLE:
+  name: Dứa
+  type:
+  - '&7&oNông sản'
+  description:
+  - Thứ này phải có trên mọi chiếc pizza tồn tại.
+  - Muốn cãi nhau không!?
+CLT_PINTO_BEANS:
+  name: Đậu pinto
+  type:
+  - '&7&oNông sản'
+  description:
+  - Kaching! Đến giờ burrito rồi.
+CLT_PIZZA_CHEESE:
+  name: Pizza phô mai
+  type:
+  - '&7&oThức ăn'
+  description:
+  - Sao lại có người gọi pizza chỉ có phô mai? Chịu.
+  stats:
+  - '&8⇨ &7Hồi máu: &b4 trái tim'
+  - '&8⇨ &bChậm rãi I &7(10:00)'
+CLT_PIZZA_MUSHROOM:
+  name: Pizza nấm
+  type:
+  - '&7&oThức ăn'
+  description:
+  - Một chiếc pizza chay đơn giản đầy chất đạm.
+  stats:
+  - '&8⇨ &7Hồi máu: &b6 trái tim'
+  - '&8⇨ &bChậm rãi I &7(10:00)'
+  - '&8⇨ &bĐào nhanh II &7(10:00)'
+CLT_PIZZA_PEPPERONI:
+  name: Pizza pepperoni
+  type:
+  - '&7&oThức ăn'
+  description:
+  - Một món kinh điển New York đậm đà hương vị.
+  stats:
+  - '&8⇨ &7Hồi máu: &b6 trái tim'
+  - '&8⇨ &bTốc độ I &7(10:00)'
+  - '&8⇨ &bĐào nhanh I &7(10:00)'
+  - '&8⇨ &bNhảy cao I &7(10:00)'
+CLT_PLANT_AIR:
+  name: Cây khí nguyên thủy
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Một loại cây khẽ ngân nga theo
+  - giai điệu của thiên nhiên xung quanh.
+  - '&eCây nguyên thủy không cho ra vật phẩm'
+  - '&evà chỉ dùng để lai tạo.'
+CLT_PLANT_AMETHYST:
+  name: Cây thạch anh tím
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Loại cây này thích sinh sôi ở những nơi sâu thẳm,
+  - tăm tối.
+CLT_PLANT_ANALYSER:
+  name: Máy phân tích cây trồng
+  type:
+  - '&7&oCông cụ'
+  description:
+  - Một công cụ rất cơ bản cho phép
+  - bạn xem chi tiết của cây đang lớn
+  usage:
+  - '&eNhấp chuột phải&7: Cho bạn biết giống loài và chi tiết sinh trưởng của cây.'
+  - '&eShift + Nhấp chuột phải&7: Hiển thị tên của cây hoặc bụi cây.'
+CLT_PLANT_BASALT:
+  name: Cây đá bazan
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Một loại cây rất nhàm chán và tẻ nhạt.
+CLT_PLANT_BEE:
+  name: Cây ong
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Một loại cây có đôi cánh rất nhỏ và mỏng manh.
+CLT_PLANT_BLACKSTONE:
+  name: Cây đá đen
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Một loại cây nổi tiếng là hấp thụ ánh sáng.
+CLT_PLANT_BLAZE:
+  name: Cây quỷ lửa
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Một loại cây bị cháy sém quanh mép.
+CLT_PLANT_CHICKEN:
+  name: Cây gà
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Đồn rằng nếu bạn giơ hạt giống này
+  - lên đầu và nhảy từ một nơi cao
+  - xuống, bạn sẽ lượn đi thay vì
+  - rơi.
+CLT_PLANT_CLAY:
+  name: Cây đất sét
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Loại cây này có thể được nặn và tạo hình tùy ý.
+  - Nhưng không có nghĩa là làm vậy
+  - là ý hay đâu nhé!
+CLT_PLANT_COAL:
+  name: Cây than
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Một loại cây ẩn chứa tiềm năng to lớn.
+CLT_PLANT_COBBLESTONE:
+  name: Cây đá cuội
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Loại cây này cứng như đá.
+CLT_PLANT_CONCRETE:
+  name: Cây bê tông
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Loại cây này khó lớn vì nó
+  - cứng lại quá nhanh.
+CLT_PLANT_COW:
+  name: Cây bò
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Nếu áp hạt giống này vào tai và
+  - lắng nghe thật kỹ, thỉnh thoảng bạn sẽ
+  - nghe thấy tiếng bò rống.
+CLT_PLANT_CREEPER:
+  name: Cây Creeper
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Tsssssssssttt...
+CLT_PLANT_DARKNESS:
+  name: Cây bóng tối nguyên thủy
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Một loại cây sôi sục trong cơn thịnh nộ
+  - không kiềm chế.
+  - '&eCây nguyên thủy không cho ra vật phẩm'
+  - '&evà chỉ dùng để lai tạo.'
+CLT_PLANT_DARK_FLORA:
+  name: Cây thực vật bóng tối
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Một thế lực tà ác lặng lẽ ẩn trong hạt giống giản dị này.
+CLT_PLANT_DARK_GRASS:
+  name: Cây cỏ bóng tối
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Một loại cây đã thực sự đánh mất
+  - bản sắc của mình.
+CLT_PLANT_DEEPSLATE:
+  name: Cây đá bảng sâu
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Sâu thẳm, đá bảng, <chèn mô tả vào đây>.
+CLT_PLANT_DIAMOND:
+  name: Cây kim cương
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Một loại cây toát lên vẻ giàu sang.
+CLT_PLANT_DIM_LIT:
+  name: Cây ánh sáng mờ
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Một luồng sáng rất mờ phát ra từ bên trong hạt giống này.
+CLT_PLANT_DIRT:
+  name: Cây đất
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Bề ngoài lấm lem nhưng ẩn chứa
+  - những viên gạch nền móng của sự sống.
+CLT_PLANT_DROWNED:
+  name: Cây kẻ đuối nước
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Một loại cây lúc nào cũng ướt sũng,
+  - mọi lúc mọi nơi.
+CLT_PLANT_DUSTY:
+  name: Cây phủ bụi
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Loại cây này cần được chăm sóc đặc biệt, chỉ một
+  - cơn gió mạnh nhẹ thôi cũng đủ làm nó tan
+  - tành.
+CLT_PLANT_EARTH:
+  name: Cây đất nguyên thủy
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Một loại cây làm giàu cho thế giới
+  - xung quanh nó.
+  - '&eCây nguyên thủy không cho ra vật phẩm'
+  - '&evà chỉ dùng để lai tạo.'
+CLT_PLANT_ECHO:
+  name: Cây tiếng vọng
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Loại cây này luôn biết cách tìm
+  - đường về nhà.
+CLT_PLANT_ELDER_GUARDIAN:
+  name: Cây giám hộ cao niên
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Ở gần loại cây này khiến mọi người
+  - uể oải.
+CLT_PLANT_EMERALD:
+  name: Cây ngọc lục bảo
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Chủ nhân của loại cây này phải vượt qua
+  - muôn vàn thử thách mới đủ tiền mua nó.
+CLT_PLANT_ENDERMAN:
+  name: Cây người Ender
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Nếu không cẩn thận, loại cây này
+  - có thể dịch chuyển ngẫu nhiên!
+CLT_PLANT_ENDER_DRAGON:
+  name: Cây rồng Ender
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Đúng là một con trùm trong giới cây cối.
+CLT_PLANT_END_STONE:
+  name: Cây đá End
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Một loại cây ngân nga cùng hư không.
+CLT_PLANT_FIRE:
+  name: Cây lửa nguyên thủy
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Một loại cây vừa mang đến
+  - nguồn cơn của sự hủy diệt vừa là
+  - sự tái sinh.
+  - '&eCây nguyên thủy không cho ra vật phẩm'
+  - '&evà chỉ dùng để lai tạo.'
+CLT_PLANT_FISH:
+  name: Cây cá
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Một mùi chín mọng tỏa ra từ hạt giống này.
+CLT_PLANT_FLOWER:
+  name: Cây ra hoa
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Một giỏ sung túc được bày biện đẹp mắt.
+CLT_PLANT_FROG:
+  name: Cây ếch
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Ộp ộp!
+CLT_PLANT_GHAST:
+  name: Cây Ghast
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Một loại cây nổi tiếng là
+  - thỉnh thoảng bắn ra cầu lửa.
+CLT_PLANT_GLASS:
+  name: Cây thủy tinh
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Nhìn đúng góc, bạn sẽ thề là
+  - có thể nhìn xuyên qua loại cây này.
+CLT_PLANT_GLAZED:
+  name: Cây tráng men
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Một loại cây mọc lên với hoa văn tinh xảo.
+CLT_PLANT_GLOWING_VINE:
+  name: Cây dây leo phát sáng
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Một luồng sáng mờ phát ra từ bên trong hạt giống này.
+CLT_PLANT_GLOW_SQUID:
+  name: Cây mực phát sáng
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Một loại cây lấp lánh với ánh sáng mờ nhạt.
+CLT_PLANT_GOAT:
+  name: Cây dê
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Một loại cây hung hăng thất thường, thích
+  - nhảy nhót khắp nơi.
+CLT_PLANT_GRASS:
+  name: Cây cỏ
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Sự sống tràn trề vươn lên
+  - từ lòng đất.
+CLT_PLANT_GRAVEL:
+  name: Cây sỏi
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Loại cây này thực sự không biết cách
+  - giữ cho mình nguyên vẹn.
+CLT_PLANT_GUARDIAN:
+  name: Cây giám hộ
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Khi bị chạm vào, loại cây này phóng ra
+  - gai nhọn.
+CLT_PLANT_IGNEOUS:
+  name: Cây đá hỏa thành
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Loại cây này được hình thành từ nhiệt và
+  - áp suất. Đừng nhìn tôi như thế! Tất cả
+  - mô tả cây cối này đều hoàn toàn hợp lý.
+CLT_PLANT_LAPIS:
+  name: Cây lưu ly
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Một loại cây mang hào quang ma thuật mờ nhạt.
+CLT_PLANT_LIGHT:
+  name: Cây ánh sáng nguyên thủy
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Một loại cây tỏa ra hào quang
+  - của tình yêu thuần khiết.
+  - '&eCây nguyên thủy không cho ra vật phẩm'
+  - '&evà chỉ dùng để lai tạo.'
+CLT_PLANT_MAGMA:
+  name: Cây dung nham
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Một loại cây nóng đến mức thiêu đốt
+  - mọi thứ xung quanh.
+CLT_PLANT_MAGMA_CUBE:
+  name: Cây khối dung nham
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Khi không bị ai nhìn, loại cây này
+  - thích nhún nhảy lên xuống.
+CLT_PLANT_MOSS:
+  name: Cây rêu
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Loại cây này có xu hướng lan tràn không kiểm soát.
+CLT_PLANT_MUD:
+  name: Cây bùn
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Một loại cây bẩn gần bằng
+  - mặt đất nơi nó mọc lên.
+CLT_PLANT_MUSHROOM:
+  name: Cây nấm
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Đúng vậy, một loại cây sinh ra nấm.
+  - Mọi thứ ở đây hoàn toàn bình thường.
+CLT_PLANT_NETHERRACK:
+  name: Cây Netherrack
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Một loại cây cứng cáp có thể sống sót
+  - ở hầu hết mọi nơi.
+CLT_PLANT_NETHER_QUARTZ:
+  name: Cây thạch anh Nether
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Loại cây này có gai sắc đến mức
+  - rất khó xử lý.
+CLT_PLANT_PHANTOM:
+  name: Cây Phantom
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Một loại cây với những chiếc lá vươn cao.
+CLT_PLANT_PIG:
+  name: Cây heo
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Một loại cây thỉnh thoảng lại khịt mũi.
+CLT_PLANT_POWER:
+  name: Cây sức mạnh nguyên thủy
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Một loại cây toát ra sức mạnh tuyệt đối.
+  - '&eCây nguyên thủy không cho ra vật phẩm'
+  - '&evà chỉ dùng để lai tạo.'
+CLT_PLANT_PURPUR:
+  name: Cây Purpur
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Một loại cây kỳ lạ, có vẻ nhẹ hơn
+  - hầu hết các loại khác.
+CLT_PLANT_RABBIT:
+  name: Cây thỏ
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Lũ bọ hẳn sẽ tự hào lắm.
+CLT_PLANT_RAINBOW:
+  name: Cây cầu vồng
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Có thể có, hoặc không, một hũ vàng
+  - ở cuối loại cây này.
+CLT_PLANT_RAW_COPPER:
+  name: Cây đồng thô
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Nếu để yên, loại cây này đôi khi
+  - hút cả sét.
+CLT_PLANT_RAW_GOLD:
+  name: Cây vàng thô
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Loại cây này thường bị Piglin đánh cắp
+  - nếu chúng ở gần.
+CLT_PLANT_RAW_IRON:
+  name: Cây sắt thô
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Một loại cây vững chãi, chịu được hầu hết
+  - mọi môi trường.
+CLT_PLANT_REDSTONE:
+  name: Cây đá đỏ
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Một loại cây tràn đầy sức mạnh từ trong ra ngoài.
+CLT_PLANT_RED_SAND:
+  name: Cây cát đỏ
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Loại cây này đôi khi vỡ vụn chỉ với
+  - một cú chạm, nhưng mà... đỏ hơn.
+CLT_PLANT_REINFORCED:
+  name: Cây gia cố
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Một loại cây có thể tự đứng vững
+  - qua mọi thử thách.
+CLT_PLANT_SAND:
+  name: Cây cát
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Loại cây này đôi khi vỡ vụn chỉ với
+  - một cú chạm.
+CLT_PLANT_SAPLING:
+  name: Cây mầm non
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Loại cây này còn chẳng hợp lý chút nào...
+CLT_PLANT_SCRAPPY:
+  name: Cây phế liệu
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Loại cây này đúng là đỉnh cao của
+  - nghề làm vườn.
+CLT_PLANT_SHEEP:
+  name: Cây cừu
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Một loại cây với kết cấu xù xì như lông cừu.
+CLT_PLANT_SHULKER:
+  name: Cây Shulker
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Một loại cây thường bay lơ lửng
+  - khỏi mặt đất.
+CLT_PLANT_SKELETON:
+  name: Cây bộ xương
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Một loại cây kêu lạch cạch khi đung đưa.
+CLT_PLANT_SLIME:
+  name: Cây chất nhờn
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Sao nó dính thế nhỉ?
+CLT_PLANT_SOUL:
+  name: Cây linh hồn
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Một loại cây có thể nghe thấy tiếng gào thét
+  - khi xung quanh im lặng.
+CLT_PLANT_SPECTRUM:
+  name: Cây quang phổ nguyên thủy
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Một loại cây khẽ đổi màu.
+  - '&eCây nguyên thủy không cho ra vật phẩm'
+  - '&evà chỉ dùng để lai tạo.'
+CLT_PLANT_SPIDER:
+  name: Cây nhện
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Giết nó, giết nó NGAY!
+CLT_PLANT_SQUID:
+  name: Cây mực
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Cẩn thận, chỉ chạm vào loại cây này
+  - thôi cũng có thể làm mực phun tung tóe
+  - khắp nơi.
+CLT_PLANT_STAINED:
+  name: Cây nhuộm màu
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Loại cây này tách ánh sáng thành cả một
+  - dải quang phổ chiếu lên vật xung quanh.
+CLT_PLANT_TERRA:
+  name: Cây đất nung
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Một loại cây cứng như đất, nứt toác khi bị đè nén.
+CLT_PLANT_TURTLE:
+  name: Cây rùa
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Một hạt giống bọc trong lớp vỏ cứng như đá.
+CLT_PLANT_VILLAGER:
+  name: Cây dân làng
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Đúng vậy, chúng tôi đã cô đặc tinh chất của một Dân làng
+  - vào một cái cây. Nghe nói đau lắm.
+CLT_PLANT_VINE:
+  name: Cây dây leo
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Một loại cây tự quấn rối mình
+  - ngay lập tức.
+CLT_PLANT_WATER:
+  name: Cây nước nguyên thủy
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Một loại cây nuôi dưỡng và mang
+  - sự sống đến cho vùng xung quanh.
+  - '&eCây nguyên thủy không cho ra vật phẩm'
+  - '&evà chỉ dùng để lai tạo.'
+CLT_PLANT_WAXY:
+  name: Cây phủ sáp
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Nhựa của loại cây này đông lại thành
+  - sáp có hình cây nến hoàn hảo.
+CLT_PLANT_WEALTH:
+  name: Cây của cải nguyên thủy
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Một loại cây toát lên sự giàu có ngút trời.
+  - '&eCây nguyên thủy không cho ra vật phẩm'
+  - '&evà chỉ dùng để lai tạo.'
+CLT_PLANT_WITCH:
+  name: Cây phù thủy
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Một loại cây nghe như đang khẽ
+  - lẩm bẩm câu thần chú.
+CLT_PLANT_WITHER:
+  name: Cây Wither
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Một loại cây chết người, phải được đối xử
+  - thật cẩn thận.
+CLT_PLANT_WITHER_ROSE:
+  name: Cây hoa hồng Wither
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Loại cây này, bằng cách nào đó, tỏa ra một
+  - hào quang độc hại quanh mình.
+CLT_PLANT_WITHER_SKELETON:
+  name: Cây bộ xương Wither
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Một loại cây nổi tiếng khó tìm và cứng cáp.
+CLT_PLANT_WOOLLY:
+  name: Cây lông cừu
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Một loại cây xù lông, từ rễ đến cánh hoa!
+CLT_PLANT_ZOMBIE:
+  name: Cây thây ma
+  type:
+  - '&7&oCây trồng'
+  description:
+  - Loại cây này đang nhỏ giọt... thứ gì đó...
+CLT_RADDISH:
+  name: Củ cải đỏ
+  type:
+  - '&7&oNông sản'
+  description:
+  - Những túi nắng nhỏ tươi mát, giòn rụm.
+CLT_RADICCHIO:
+  name: Cải radicchio
+  type:
+  - '&7&oNông sản'
+  description:
+  - Viết hết đống mô tả này tốn thời gian ghê.
+  - Mệt muốn radicchio luôn.
+CLT_RAMEN_BEEF:
+  name: Mì ramen bò
+  type:
+  - '&7&oThức ăn'
+  description:
+  - Một lựa chọn không-mấy-lành-mạnh.
+  stats: &id004
+  - '&8⇨ &bTăng sinh lực I &7(10:00)'
+CLT_RAMEN_BEEF_HEARTY:
+  name: Mì ramen bò thịnh soạn
+  type:
+  - '&7&oThức ăn'
+  description:
+  - Một lựa chọn lành mạnh.
+  stats: &id005
+  - '&8⇨ &7Hồi máu: &bĐầy'
+  - '&8⇨ &bTăng sinh lực II &7(10:00)'
+  - '&8⇨ &bTốc độ I &7(10:00)'
+CLT_RAMEN_CHICKEN:
+  name: Mì ramen gà
+  type:
+  - '&7&oThức ăn'
+  description:
+  - Một lựa chọn không-mấy-no-bụng.
+  stats: *id004
+CLT_RAMEN_CHICKEN_HEARTY:
+  name: Mì ramen gà thịnh soạn
+  type:
+  - '&7&oThức ăn'
+  description:
+  - Một lựa chọn no bụng.
+  stats: *id005
+CLT_RAMEN_SEAFOOD:
+  name: Mì ramen hải sản
+  type:
+  - '&7&oThức ăn'
+  description:
+  - Một lựa chọn không-mấy-thỏa-mãn.
+  stats: *id004
+CLT_RAMEN_SEAFOOD_HEARTY:
+  name: Mì ramen hải sản thịnh soạn
+  type:
+  - '&7&oThức ăn'
+  description:
+  - Một lựa chọn thỏa mãn.
+  stats: *id005
+CLT_RAPESEED:
+  name: Hạt cải dầu
+  type:
+  - '&7&oNông sản'
+  description:
+  - Thường được dùng để ép dầu.
+CLT_RECIPE_UNLOCK:
+  name: Cuộn tri thức Cultivation
+  type:
+  - '&7&oCông cụ'
+  description:
+  - Nhấp chuột phải để học một công thức
+  - lai tạo của Cultivation.
+CLT_RHUBARB:
+  name: Đại hoàng
+  type:
+  - '&7&oNông sản'
+  description:
+  - Nhớ bỏ lá đi nhé!
+CLT_RICE:
+  name: Gạo
+  type:
+  - '&7&oNông sản'
+  description:
+  - Nhớ nhé, đời người chỉ có một "gạo"!
+CLT_ROSEMARY:
+  name: Hương thảo
+  type:
+  - '&7&oNông sản'
+  description:
+  - Lúc nào cũng thiếu thời gian.
+CLT_RUNNER_BEANS:
+  name: Đậu leo
+  type:
+  - '&7&oNông sản'
+  description:
+  - Lúc nào cũng muốn trốn đi.
+CLT_RUTABAGA:
+  name: Củ cải Thụy Điển
+  type:
+  - '&7&oNông sản'
+  description:
+  - Không gọi nó là củ cải Thụy Điển thì đau lòng thật.
+CLT_SALMON_NIGIRI:
+  name: Nigiri cá hồi
+  type:
+  - '&7&oThức ăn'
+  description:
+  - Một hương vị tinh tế mà dễ chịu.
+  stats:
+  - '&8⇨ &7Hồi máu: &b2 trái tim'
+  - '&8⇨ &bHồi phục I &7(10:00)'
+CLT_SASSAFRAS:
+  name: Xá xị
+  type:
+  - '&7&oNông sản'
+  description:
+  - Bia gốc rễ ăn được, nghiêm túc đấy, google
+  - thử đi, giờ tôi mua nó suốt.
+CLT_SAUSAGE:
+  name: Xúc xích
+  type:
+  - '&7&oThức ăn'
+  description:
+  - Anh em ruột của thịt xông khói.
+  stats: &id007
+  - '&8⇨ &7Hồi máu: &b1 trái tim'
+CLT_SEED_PACK:
+  name: Gói hạt giống
+  type:
+  - '&7&oCông cụ'
+  description:
+  - Nhấp chuột phải để mở gói này.
+  stats:
+  - '&8⇨ &7Đặt thành: &bKhông có'
+CLT_SHAKSHUKA:
+  name: Shakshuka
+  type:
+  - '&7&oThức ăn'
+  description:
+  - Một món ấm lòng với trứng nhiều vô kể.
+  stats:
+  - '&8⇨ &7Hồi máu: &b4 trái tim'
+  - '&8⇨ &bNg.hùng ngôi làng I &7(10:00)'
+  - '&8⇨ &bMay mắn I &7(10:00)'
+CLT_SHALLOT:
+  name: Hành tím
+  type:
+  - '&7&oNông sản'
+  description:
+  - Hành tím này, tôi mê tím cả người.
+CLT_SHEPHERDS_PIE:
+  name: Bánh Mục đồng
+  type:
+  - '&7&oThức ăn'
+  description:
+  - Ấm áp, đậm đà và đơn giản là tuyệt vời.
+  stats: *id006
+CLT_SHISO:
+  name: Tía tô
+  type:
+  - '&7&oNông sản'
+  description:
+  - Bạc hà kèm một chút yêu thương.
+CLT_SLICED_APPLE:
+  name: Táo thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_APRICOT:
+  name: Mơ thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_ARTICHOKE:
+  name: Atisô thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_ASPARAGUS:
+  name: Măng tây thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_AUBERGINE:
+  name: Cà tím thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_AVOCADO:
+  name: Quả bơ thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_BANANA:
+  name: Chuối thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_BASIL:
+  name: Húng quế thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_BAY_LEAF:
+  name: Lá nguyệt quế thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_BEEF:
+  name: Thịt bò thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_BEETROOT:
+  name: Củ dền thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_BELL_PEPPER:
+  name: Ớt chuông thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_BLACK_BEANS:
+  name: Đậu đen thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_BREAD:
+  name: Bánh mì thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_BROCCOLI:
+  name: Bông cải xanh thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_BROWN_MUSHROOM:
+  name: Nấm nâu thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_BRUSSELS_SPROUTS:
+  name: Cải Brussels thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_CABBAGE:
+  name: Bắp cải thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_CARROT:
+  name: Cà rốt thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_CAULIFLOWER:
+  name: Bông cải trắng thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_CAYENNE_PEPPER:
+  name: Ớt cayenne thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_CELERIAC:
+  name: Củ cần tây thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_CELERY:
+  name: Cần tây thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_CHERRY:
+  name: Anh đào thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_CHESTNUT:
+  name: Hạt dẻ thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_CHICKEN:
+  name: Thịt gà thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_CHICKPEAS:
+  name: Đậu gà thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_CHICORY:
+  name: Rau diếp xoăn thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_CHILLY_PEPPER:
+  name: Ớt thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_CHIVES:
+  name: Hẹ thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_CHORUS_FRUIT:
+  name: Quả Chorus thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_CILANTRO:
+  name: Rau mùi thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_CINNAMON:
+  name: Quế thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_CLOVE:
+  name: Đinh hương thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_COCOA_BEANS:
+  name: Hạt ca cao thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_COD:
+  name: Cá tuyết thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_COURGETTE:
+  name: Bí ngòi thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_CUCUMBER:
+  name: Dưa chuột thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_CUMIN:
+  name: Thì là Ai Cập thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_CURRY_LEAF:
+  name: Lá Cà ri thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_DILL:
+  name: Thì là thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_EGG:
+  name: Trứng thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_ENCHANTED_GOLDEN_APPLE:
+  name: Táo vàng được phù phép thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_FENNEL:
+  name: Tiểu hồi hương thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_GARLIC:
+  name: Tỏi thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_GINGER:
+  name: Gừng thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_GLOW_BERRIES:
+  name: Quả mọng phát sáng thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_GOLDEN_APPLE:
+  name: Táo vàng thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_GOLDEN_CARROT:
+  name: Cà rốt vàng thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_GRAPE:
+  name: Nho thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_GREEN_APPLE:
+  name: Táo xanh thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_GREEN_BEANS:
+  name: Đậu que thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_GREEN_ONION:
+  name: Hành lá thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_HAZELNUT:
+  name: Hạt phỉ thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_HORSERADISH:
+  name: Cải ngựa thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_JALAPENO:
+  name: Ớt jalapeno thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_JASMINE:
+  name: Hoa nhài thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_JUNIPER_BERRY:
+  name: Quả bách xù thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_KAFFIR_LIME:
+  name: Lá chanh kaffir thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_KALE:
+  name: Cải xoăn thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_KELP:
+  name: Tảo bẹ thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_KIWI:
+  name: Kiwi thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_LAVENDER:
+  name: Oải hương thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_LEEK:
+  name: Tỏi tây thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_LEMON:
+  name: Chanh vàng thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_LETTUCE:
+  name: Xà lách thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_LICORICE:
+  name: Cam thảo thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_LIME:
+  name: Chanh xanh thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_MACE:
+  name: Vỏ nhục đậu khấu thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_MANGO:
+  name: Xoài thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_MARJORAM:
+  name: Kinh giới ngọt thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_MARROW:
+  name: Bí ngòi lớn thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_MELON:
+  name: Dưa hấu thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_MINT:
+  name: Bạc hà thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_MUSTARD_SEEDS:
+  name: Hạt mù tạt thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_MUTTON:
+  name: Thịt cừu thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_NETTLES:
+  name: Tầm ma thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_OKRA:
+  name: Đậu bắp thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_ONION:
+  name: Hành tây thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_ORANGE:
+  name: Cam thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_OREGANO:
+  name: Kinh giới cay thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_PARSLEY:
+  name: Mùi tây thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_PARSNIP:
+  name: Củ cải vàng thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_PEA:
+  name: Đậu Hà Lan thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_PEACH:
+  name: Đào thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_PEANUT:
+  name: Hạt đậu phộng thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_PEAR:
+  name: Lê thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_PECAN:
+  name: Hạt hồ đào thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_PEPPER:
+  name: Tiêu đen thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_PEPPERONI:
+  name: Xúc xích pepperoni thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_PINEAPPLE:
+  name: Dứa thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_PINTO_BEANS:
+  name: Đậu pinto thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_PORKCHOP:
+  name: Sườn heo thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_POTATO:
+  name: Khoai tây thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_PUFFERFISH:
+  name: Cá nóc thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_PUMPKIN:
+  name: Bí ngô thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_RABBIT:
+  name: Thịt thỏ thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_RADDISH:
+  name: Củ cải đỏ thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_RADICCHIO:
+  name: Cải radicchio thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_RAPESEED:
+  name: Hạt cải dầu thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_RED_MUSHROOM:
+  name: Nấm đỏ thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_RHUBARB:
+  name: Đại hoàng thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_RICE:
+  name: Gạo thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_ROSEMARY:
+  name: Hương thảo thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_ROTTEN_FLESH:
+  name: Thịt thối rữa thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_RUNNER_BEANS:
+  name: Đậu leo thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_RUTABAGA:
+  name: Củ cải Thụy Điển thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_SALMON:
+  name: Cá hồi thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_SASSAFRAS:
+  name: Xá xị thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_SHALLOT:
+  name: Hành tím thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_SHISO:
+  name: Tía tô thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_SOY_BEANS:
+  name: Đậu nành thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_SPINACH:
+  name: Rau bina thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_STAR_ANISE:
+  name: Hoa hồi thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_STRAWBERRY:
+  name: Dâu tây thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_SUGAR:
+  name: Đường thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_SWEETCORN:
+  name: Ngô ngọt thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_SWEET_BERRIES:
+  name: Quả mọng ngọt thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_SWEET_POTATO:
+  name: Khoai lang thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_TARRAGON:
+  name: Ngải giấm thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_THYME:
+  name: Cỏ xạ hương thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_TOMATO:
+  name: Cà chua thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_TURMERIC:
+  name: Nghệ thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_TURNIP:
+  name: Củ cải tròn thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_VANILLA:
+  name: Vani thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_WASABI:
+  name: Wasabi thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SLICED_WHEAT:
+  name: Lúa mì thái lát
+  type:
+  - '&7&oPhụ phẩm'
+CLT_SOFT_BOILED_EGG:
+  name: Trứng luộc lòng đào
+  type:
+  - '&7&oThức ăn'
+  description:
+  - Chỉ là quả trứng luộc, còn gì để nói nữa.
+  stats:
+  - '&8⇨ &7Hồi máu: &b1 trái tim'
+  - '&8⇨ &7Đôi khi có thể gọi một con gà đến giúp bạn.'
+CLT_SOYLENT:
+  name: Soylent
+  type:
+  - '&7&oThức ăn'
+  description:
+  - Mọi thứ cơ thể cần!
+  stats:
+  - '&8⇨ &bĐiềm xấu I &7(10:00)'
+  - '&8⇨ &bYếu đuối IV &7(10:00)'
+CLT_SOY_BEANS:
+  name: Đậu nành
+  type:
+  - '&7&oNông sản'
+  description:
+  - Sữa đậu nành đang tới.
+CLT_SPAGHETTI:
+  name: Mì spaghetti
+  type:
+  - '&7&oThức ăn'
+  description:
+  - Cứ húp sùm sụp đi.
+  stats: *id007
+CLT_SPAGHETTI_AND_MEATBALLS:
+  name: Mì spaghetti thịt viên
+  type:
+  - '&7&oThức ăn'
+  description:
+  - Đơn giản, kinh điển và đậm đà.
+  stats:
+  - '&8⇨ &7Hồi máu: &b1 trái tim'
+  - '&8⇨ &bĐiềm xấu I &7(10:00)'
+CLT_SPINACH:
+  name: Rau bina
+  type:
+  - '&7&oNông sản'
+  description:
+  - Héo rũ vì yêu.
+CLT_STAR_ANISE:
+  name: Hoa hồi
+  type:
+  - '&7&oNông sản'
+  description:
+  - Một trong những hương vị ngon và độc đáo nhất.
+CLT_STRAWBERRY:
+  name: Dâu tây
+  type:
+  - '&7&oNông sản'
+  description:
+  - Chỉ cần thêm kem!
+CLT_STRAWBERRY_JELLY:
+  name: Thạch dâu tây
+  type:
+  - '&7&oNông sản'
+  description: *id008
+CLT_SUGARED_SKULL:
+  name: Đầu lâu đường
+  type:
+  - '&7&oThức ăn'
+  description:
+  - Đây có phải đồ ăn không vậy...?
+  stats:
+  - '&8⇨ &bBóng tối III &7(10:00)'
+CLT_SWEETCORN:
+  name: Ngô ngọt
+  type:
+  - '&7&oNông sản'
+  description:
+  - Có lẽ là loại rau ngon nhất quanh đây.
+CLT_SWEET_BEEHIVE:
+  name: Tổ ong ngọt
+  type:
+  - '&7&oThức ăn'
+  description:
+  - Không hiểu điều gì khiến bạn muốn nấu món này!
+  stats:
+  - '&8⇨ &7Triệu hồi vài con ong!'
+CLT_SWEET_POTATO:
+  name: Khoai lang
+  type:
+  - '&7&oNông sản'
+  description:
+  - Măm măm măm.
+CLT_TAQUITO:
+  name: Taquito
+  type:
+  - '&7&oThức ăn'
+  description:
+  - Zim hẳn sẽ tự hào lắm!
+  stats:
+  - '&8⇨ &7Hồi máu: &b4 trái tim'
+  - '&8⇨ &7Triệu hồi Gir đến giúp (Nó là Người sắt thôi, bình tĩnh).'
+CLT_TARRAGON:
+  name: Ngải giấm
+  type:
+  - '&7&oNông sản'
+  description:
+  - Tôi cho thứ này vào mọi món luôn.
+  - 'Bật mí: Tôi không phải đầu bếp giỏi.'
+CLT_TATER_TOTS:
+  name: Khoai tây viên chiên
+  type:
+  - '&7&oThức ăn'
+  description:
+  - Những viên khoai tây nhỏ xinh bỏ miệng.
+  stats:
+  - '&8⇨ &7Hồi máu: &b0.5 trái tim'
+  - '&8⇨ &bTốc độ II &7(10:00)'
+CLT_THYME:
+  name: Cỏ xạ hương
+  type:
+  - '&7&oNông sản'
+  description:
+  - Thường nhớ nhung hương thảo.
+CLT_TOMATO:
+  name: Cà chua
+  type:
+  - '&7&oNông sản'
+  description:
+  - Vừa hái từ dây leo.... ờ... bụi cây?
+CLT_TORTILLAS:
+  name: Bánh tortilla
+  type:
+  - '&7&oNông sản'
+  description:
+  - Món ngon từ bột ngô
+CLT_TREE_APRICOT:
+  name: Cây mơ
+  type:
+  - '&7&oCây non'
+  description:
+  - Bên trong là một hạt tuyệt vọng duy nhất.
+  stats: &id009
+  - '&8⇨ &7Thiết kế bởi: &bBWhite'
+CLT_TREE_BANANA:
+  name: Cây chuối
+  type:
+  - '&7&oCây non'
+  description:
+  - Một cái cây mọc ra ngón tay, ghê rợn!
+  stats:
+  - '&8⇨ &7Thiết kế bởi: &bSefiraat'
+CLT_TREE_CHERRY:
+  name: Cây anh đào
+  type:
+  - '&7&oCây non'
+  description:
+  - Kết duyên thôi!
+  stats:
+  - '&8⇨ &7Thiết kế bởi: &bReasonFoundDecoy'
+CLT_TREE_CHESTNUT:
+  name: Cây hạt dẻ
+  type:
+  - '&7&oCây non'
+  description:
+  - Một cái cây rõ ràng được thiết kế để leo trèo.
+  stats: &id010
+  - '&8⇨ &7Thiết kế bởi: &bABitOddish'
+CLT_TREE_GREEN_APPLE:
+  name: Cây táo xanh
+  type:
+  - '&7&oCây non'
+  description:
+  - Cho ra những quả táo xanh to và giòn.
+  stats: *id009
+CLT_TREE_HAZELNUT:
+  name: Cây phỉ
+  type:
+  - '&7&oCây non'
+  description:
+  - Rung cây này là trò tiêu khiển tuổi thơ.
+  stats: *id010
+CLT_TREE_KIWI:
+  name: Cây kiwi
+  type:
+  - '&7&oCây non'
+  description:
+  - Cây của New Zealand? Tôi nói đúng chưa?
+  stats: *id010
+CLT_TREE_LEMON:
+  name: Cây chanh vàng
+  type:
+  - '&7&oCây non'
+  description:
+  - Chỉ nhìn cái cây này thôi đã thấy chua.
+  stats: &id011
+  - '&8⇨ &7Thiết kế bởi: &bJeff'
+CLT_TREE_LIME:
+  name: Cây chanh xanh
+  type:
+  - '&7&oCây non'
+  description:
+  - Bạn có biết chanh xanh chỉ là chanh vàng đang nín thở?
+  stats: *id010
+CLT_TREE_MANGO:
+  name: Cây xoài
+  type:
+  - '&7&oCây non'
+  description:
+  - Ngon nhất khi chín tới.
+  stats: *id009
+CLT_TREE_ORANGE:
+  name: Cây cam
+  type:
+  - '&7&oCây non'
+  description:
+  - Những quả cầu nắng nhỏ xinh.
+  stats: *id011
+CLT_TREE_PEACH:
+  name: Cây đào
+  type:
+  - '&7&oCây non'
+  description:
+  - James đang tìm cái này, phải không nhỉ?
+  stats: *id010
+CLT_TREE_PEAR:
+  name: Cây lê
+  type:
+  - '&7&oCây non'
+  description:
+  - Một cặp lê được ghép lê-n đôi cho cân bằng.
+  stats: *id009
+CLT_TREE_PECAN:
+  name: Cây hồ đào
+  type:
+  - '&7&oCây non'
+  description:
+  - Ta trồng được cây này không? Hồ đào chứ, được!
+  stats: *id009
+CLT_TREE_PINEAPPLE:
+  name: Cây dứa
+  type:
+  - '&7&oCây non'
+  description:
+  - PIZZA CỦA TÔI ĐÂU?
+  stats: *id010
+CLT_TURMERIC:
+  name: Nghệ
+  type:
+  - '&7&oNông sản'
+  description:
+  - Một hương xạ nồng đậm làm đầy đặn nhiều món ăn.
+CLT_TURNIP:
+  name: Củ cải tròn
+  type:
+  - '&7&oNông sản'
+  description:
+  - Sẽ giải quyết mọi vấn đề của cuộc đời.
+CLT_VANILLA:
+  name: Vani
+  type:
+  - '&7&oNông sản'
+  description:
+  - 'Hướng dẫn: Nhúng thẳng vào ly Latte'
+CLT_WASABI:
+  name: Wasabi
+  type:
+  - '&7&oNông sản'
+  description:
+  - Cứu... wasabi...
+CLT_WITHER_ROSE_SALAD:
+  name: Salad hoa hồng Wither
+  type:
+  - '&7&oThức ăn'
+  description:
+  - Tràn đầy sức mạnh nhưng có tác dụng phụ khắc nghiệt.
+  stats:
+  - '&8⇨ &7Hồi máu: &bĐầy'
+  - '&8⇨ &bKhô héo II &7(10:00)'
+  - '&8⇨ &bTăng sinh lực XX &7(10:00)'

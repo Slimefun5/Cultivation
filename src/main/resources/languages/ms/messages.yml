@@ -1,0 +1,65 @@
+lore:
+  seed-pack-set-to: Ditetapkan kepada
+  knowledge-script-unlocks: Membuka
+  drop-level: Tahap Jatuhan
+  growth-speed: Kelajuan Tumbesaran
+  breed-strength: Kekuatan Biak
+command:
+  no-permission: Anda tidak mempunyai kebenaran untuk melakukan ini.
+  invalid-subcommand: Sila berikan subperintah yang sah.
+  players-only: Perintah ini hanya boleh dijalankan oleh pemain.
+  hold-seed-pack: Anda mesti memegang Paket Benih untuk ini.
+  pack-empty: Paket ini kosong!
+  pack-contents: Kandungan
+  pack-entry: Tahap %level%, kelajuan %speed%, kekuatan %strength%
+kitchen:
+  recipe-disabled: Resipi ini dilumpuhkan.
+  no-recipe: Tiada resipi yang sepadan.
+  not-enough-power: Kuasa tidak mencukupi.
+  input-empty: Letakkan item di slot input.
+  cooked: Sedap!
+food:
+  eaten: Bagus! Anda sudah kenyang.
+  not-hungry: Anda belum lapar lagi! Anda hanya boleh makan sekali setiap setengah hari (10 minit).
+  palate-cleansed: Anda rasa selera anda dibersihkan.
+  ouch: Aduh!
+knowledge-script:
+  learned: Anda telah belajar cara membiakkan %plant%.
+seed-pack:
+  title: Paket Benih
+  unstack-first: Anda mesti asingkan timbunan Paket Benih anda dahulu.
+  not-a-seed: Item mestilah benih tanaman Cultivation.
+  empty-before-change: Anda mesti kosongkan paket sebelum menukar tanamannya.
+  no-plant-set: Anda belum menetapkan tanaman.
+  none-stored: Anda tiada benih ini pada tahap tersebut.
+  set-here: Tetapkan benih di sini
+  retrieve-here: Ambil di sini
+  no-seed-set: Tiada Benih Ditetapkan
+  no-seed-set-lore:
+  - Klik ikon di sebelah kiri
+  - sambil memegang benih untuk menetapkan paket.
+  empty-set: Set Kosong
+  empty-set-lore:
+  - Anda tiada benih yang sepadan dengan
+  - tahap ini.
+  stored-seed: Jenis Benih Disimpan
+  take-seed: Ambil benih daripada paket
+  level: Tahap
+  speed: Kelajuan
+  strength: Kekuatan
+  left-click: Klik Kiri
+  right-click: Klik Kanan
+  increase: Tambah %stat%
+  decrease: Kurangkan %stat%
+  current: Semasa
+codex:
+  title: Kodeks Tanaman
+  child: Tanaman anak
+  mother: Tanaman ibu
+  father: Tanaman bapa
+  growth-rate: Kadar Tumbesaran
+  not-discovered: Belum Ditemui
+  not-discovered-lore:
+  - Anda belum menemui cara
+  - membiakkan tanaman ini!
+  discovery: Penemuan

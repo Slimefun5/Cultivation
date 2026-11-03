@@ -1,0 +1,65 @@
+lore:
+  seed-pack-set-to: Đặt thành
+  knowledge-script-unlocks: Mở khóa
+  drop-level: Cấp rơi
+  growth-speed: Tốc độ lớn
+  breed-strength: Sức lai tạo
+command:
+  no-permission: Bạn không có quyền làm điều này.
+  invalid-subcommand: Vui lòng nhập một lệnh phụ hợp lệ.
+  players-only: Lệnh này chỉ người chơi mới dùng được.
+  hold-seed-pack: Bạn phải cầm một Gói hạt giống để làm điều này.
+  pack-empty: Gói này trống rỗng!
+  pack-contents: Bên trong
+  pack-entry: Cấp %level%, tốc độ %speed%, sức mạnh %strength%
+kitchen:
+  recipe-disabled: Công thức này đã bị tắt.
+  no-recipe: Không có công thức phù hợp.
+  not-enough-power: Không đủ năng lượng.
+  input-empty: Hãy đặt một vật phẩm vào ô đầu vào.
+  cooked: Ngon quá!
+food:
+  eaten: Tuyệt! Bạn đã no căng bụng rồi.
+  not-hungry: Bạn chưa đói đâu! Bạn chỉ có thể ăn mỗi nửa ngày một lần (10 phút).
+  palate-cleansed: Bạn cảm thấy vị giác được làm sạch.
+  ouch: Ui da!
+knowledge-script:
+  learned: Bạn đã học được cách lai tạo %plant%.
+seed-pack:
+  title: Gói hạt giống
+  unstack-first: Bạn phải tách chồng Gói hạt giống trước.
+  not-a-seed: Vật phẩm phải là hạt giống cây trồng của Cultivation.
+  empty-before-change: Bạn phải làm trống gói trước khi đổi cây của nó.
+  no-plant-set: Bạn chưa đặt cây nào.
+  none-stored: Bạn không có hạt giống này ở các cấp độ này.
+  set-here: Đặt hạt giống ở đây
+  retrieve-here: Lấy ra ở đây
+  no-seed-set: Chưa đặt hạt giống
+  no-seed-set-lore:
+  - Nhấp vào biểu tượng bên trái
+  - khi đang cầm hạt giống để đặt cho gói.
+  empty-set: Gói trống
+  empty-set-lore:
+  - Bạn không có hạt giống nào khớp
+  - với các cấp độ này.
+  stored-seed: Loại hạt giống đã lưu
+  take-seed: Lấy một hạt giống từ gói
+  level: Cấp độ
+  speed: Tốc độ
+  strength: Sức mạnh
+  left-click: Chuột trái
+  right-click: Chuột phải
+  increase: Tăng %stat%
+  decrease: Giảm %stat%
+  current: Hiện tại
+codex:
+  title: Bách khoa cây trồng
+  child: Cây con
+  mother: Cây mẹ
+  father: Cây bố
+  growth-rate: Tốc độ sinh trưởng
+  not-discovered: Chưa khám phá
+  not-discovered-lore:
+  - Bạn chưa khám phá ra cách
+  - lai tạo loại cây này!
+  discovery: Khám phá

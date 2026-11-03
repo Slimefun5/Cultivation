@@ -1,0 +1,65 @@
+lore:
+  seed-pack-set-to: Ayarlı
+  knowledge-script-unlocks: Kilidi Açar
+  drop-level: Düşürme Seviyesi
+  growth-speed: Büyüme Hızı
+  breed-strength: Çiftleşme Gücü
+command:
+  no-permission: Bunu yapmak için iznin yok.
+  invalid-subcommand: Lütfen geçerli bir alt komut gir.
+  players-only: Bu komut yalnızca bir oyuncu tarafından çalıştırılabilir.
+  hold-seed-pack: Bunun için elinde bir Tohum Paketi tutmalısın.
+  pack-empty: Bu paket boş!
+  pack-contents: İçerik
+  pack-entry: Seviye %level%, hız %speed%, güç %strength%
+kitchen:
+  recipe-disabled: Bu tarif devre dışı.
+  no-recipe: Eşleşen tarif yok.
+  not-enough-power: Yeterli güç yok.
+  input-empty: Giriş yuvasına bir eşya koy.
+  cooked: Lezzetli!
+food:
+  eaten: Harika! Karnın tıka basa doydu.
+  not-hungry: Henüz acıkmadın! Yarım günde yalnızca bir kez yiyebilirsin (10 dakika).
+  palate-cleansed: Damağının temizlendiğini hissediyorsun.
+  ouch: Ay!
+knowledge-script:
+  learned: '%plant% için çiftleştirme yöntemini öğrendin.'
+seed-pack:
+  title: Tohum Paketi
+  unstack-first: Önce Tohum Paketlerinin yığınını dağıtmalısın.
+  not-a-seed: Eşya bir Cultivation bitki tohumu olmalı.
+  empty-before-change: Paketin bitkisini değiştirmeden önce onu boşaltmalısın.
+  no-plant-set: Henüz bir bitki ayarlamadın.
+  none-stored: Bu seviyelerde bu tohumdan hiç yok.
+  set-here: Tohumu buraya ayarla
+  retrieve-here: Buradan al
+  no-seed-set: Tohum Ayarlanmadı
+  no-seed-set-lore:
+  - Paketi ayarlamak için elinde tohum
+  - varken soldaki simgeye tıkla.
+  empty-set: Boş Set
+  empty-set-lore:
+  - Bu seviyelere uyan
+  - tohumun yok.
+  stored-seed: Depolanan Tohum Türü
+  take-seed: Paketten bir tohum al
+  level: Seviye
+  speed: Hız
+  strength: Güç
+  left-click: Sol Tık
+  right-click: Sağ Tık
+  increase: '%stat% Arttır'
+  decrease: '%stat% Azalt'
+  current: Mevcut
+codex:
+  title: Bitki Kodeksi
+  child: Yavru bitki
+  mother: Ana bitki
+  father: Baba bitki
+  growth-rate: Büyüme Oranı
+  not-discovered: Keşfedilmedi
+  not-discovered-lore:
+  - Bu bitkiyi nasıl çiftleştireceğini
+  - henüz keşfetmedin!
+  discovery: Keşif

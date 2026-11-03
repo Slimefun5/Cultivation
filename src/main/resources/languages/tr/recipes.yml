@@ -1,0 +1,87 @@
+cultivation:
+  bush_harvest:
+    name: Çalı Hasadı
+    lore:
+    - Bu eşya bir Cultivation çalısından
+    - hasat edilebilir
+  tree_harvest:
+    name: Ağaç Hasadı
+    lore:
+    - Bu eşya bir Cultivation ağacından
+    - hasat edilebilir
+  trading_farmer:
+    name: Köylü Ticareti
+    lore:
+    - Bu eşya çiftçi bir köylüden
+    - satın alınabilir.
+  trading_fletcher:
+    name: Köylü Ticareti
+    lore:
+    - Bu eşya okçu bir köylüden
+    - satın alınabilir.
+  mob:
+    name: Yaratık Ganimeti
+    lore:
+    - Bu eşyanın aşağıdaki yaratık(lar)dan
+    - düşme şansı vardır.
+  plant_breeding:
+    name: Bitki Çiftleştirme
+    lore:
+    - Bu tohum çiftleştirmeyle bulunur.
+    - Bitkileri, aralarında bir hava bloğu
+    - kalacak şekilde iki bitki koyarak
+    - çiftleştirirsin.
+    - ''
+    - Keşiflerini takip etmek için çiftleştirme
+    - sözlüğünü kullanabilirsin.
+    - ''
+    - 'İpucu: Siyah parçacıklar, iki bitkinin'
+    - çiftleşEMEYECEĞİ anlamına gelir.
+  vanilla_block_drop:
+    name: Dünya Ganimeti
+    lore:
+    - Dünyada bloklar kırıldığında düşer.
+  bucketing:
+    name: Dünya Ganimeti
+    lore:
+    - Kova kullanıldığında dünyadan düşer.
+  chopped:
+    name: Doğrama
+    lore:
+    - Bir bıçakla doğra, o kadar!
+  mashed:
+    name: Ezme
+    lore:
+    - Ez Ez Ez
+  blended:
+    name: Blender
+    lore:
+    - Bir eşyayı blendera koyarak yapılır.
+  sliced:
+    name: Dilimleme
+    lore:
+    - Öyle ince ve narin
+  ground:
+    name: Öğütme
+    lore:
+    - İncecik toz haline kadar
+  boiled:
+    name: Haşlama
+    lore:
+    - Sıcak sıcak sıcak!
+  fried:
+    name: Kızartma
+    lore:
+    - Çıtır Mükemmellik.
+  grilled:
+    name: Izgara
+    lore:
+    - Sulu ve Yumuşacık.
+  finishing:
+    name: Son Dokunuş
+    lore:
+    - Bu eşyayı yapmak için mutfağın son dokunuş tezgâhını kullan.
+  baking:
+    name: Fırınlama
+    lore:
+    - Bu eşyayı yapmak için mutfağın fırın tezgâhını kullan.
