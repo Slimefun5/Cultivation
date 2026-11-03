@@ -4,3 +4,68 @@ lore:
   drop-level: 'Drop Level'
   growth-speed: 'Growth Speed'
   breed-strength: 'Breed Strength'
+
+command:
+  no-permission: 'You do not have permission to do this.'
+  invalid-subcommand: 'Please provide a valid subcommand.'
+  players-only: 'This command can only be run by a player.'
+  hold-seed-pack: 'You must be holding a Seed Pack for this.'
+  pack-empty: 'This pack is empty!'
+  pack-contents: 'Contents'
+  pack-entry: 'Level %level%, speed %speed%, strength %strength%'
+
+kitchen:
+  recipe-disabled: 'This recipe is disabled.'
+  no-recipe: 'No matching recipe.'
+  not-enough-power: 'Not enough power.'
+  input-empty: 'Put an item in the input slot.'
+  cooked: 'Tasty!'
+
+food:
+  eaten: "Lovely! You're all full up."
+  not-hungry: "You aren't hungry yet! You can only eat once every half a day (10 minutes)."
+  palate-cleansed: 'You feel your palate being cleansed.'
+  ouch: 'Ouch!'
+
+knowledge-script:
+  learned: 'You have learned how to breed %plant%.'
+
+seed-pack:
+  title: 'Seed Pack'
+  unstack-first: 'You must unstack your Seed Packs first.'
+  not-a-seed: 'The item must be a Cultivation plant seed.'
+  empty-before-change: 'You must empty a pack before changing its plant.'
+  no-plant-set: 'You have not set a plant yet.'
+  none-stored: 'You have none of this seed at these levels.'
+  set-here: 'Set seed here'
+  retrieve-here: 'Retrieve here'
+  no-seed-set: 'No Seed Set'
+  no-seed-set-lore:
+  - 'Click the icon on the left'
+  - 'while holding a seed to set the pack.'
+  empty-set: 'Empty Set'
+  empty-set-lore:
+  - 'You have no seeds matching'
+  - 'these levels.'
+  stored-seed: 'Stored Seed Type'
+  take-seed: 'Take a seed from the pack'
+  level: 'Level'
+  speed: 'Speed'
+  strength: 'Strength'
+  left-click: 'Left Click'
+  right-click: 'Right Click'
+  increase: 'Increase %stat%'
+  decrease: 'Decrease %stat%'
+  current: 'Current'
+
+codex:
+  title: 'Plant Codex'
+  child: 'Child plant'
+  mother: 'Mother plant'
+  father: 'Father plant'
+  growth-rate: 'Growth Rate'
+  not-discovered: 'Not Discovered'
+  not-discovered-lore:
+  - 'You have not yet discovered how'
+  - 'to breed this plant!'
+  discovery: 'Discovery'

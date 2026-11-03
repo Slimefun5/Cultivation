@@ -4,6 +4,7 @@ import dev.sefiraat.cultivation.api.datatypes.SeedPackDataType;
 import dev.sefiraat.cultivation.api.datatypes.instances.FloraLevelProfile;
 import dev.sefiraat.cultivation.api.datatypes.instances.SeedPackInstance;
 import dev.sefiraat.cultivation.api.slimefun.items.plants.CultivationPlant;
+import dev.sefiraat.cultivation.implementation.localization.Messages;
 import dev.sefiraat.cultivation.libs.sefilib.string.Theme;
 import io.github.thebusybiscuit.slimefun5.api.items.ItemGroup;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItem;
@@ -19,10 +20,10 @@ import org.bukkit.Material;
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.ItemMeta;
-import javax.annotation.Nonnull;
 
 import javax.annotation.Nonnull;
 import java.util.HashMap;
+import java.util.List;
 
 public class SeedPack extends SlimefunItem {
 
@@ -42,10 +43,10 @@ public class SeedPack extends SlimefunItem {
             ItemStack itemStack = playerRightClickEvent.getItem();
             Player player = playerRightClickEvent.getPlayer();
             if (itemStack.getAmount() > 1) {
-                player.sendMessage(Theme.ERROR.apply("You must unstack your pack(s) first."));
+                player.sendMessage(Theme.ERROR.apply(Messages.get(player, "seed-pack.unstack-first", "You must unstack your Seed Packs first.")));
                 return;
             }
-            SeedPackGui gui = new SeedPackGui(itemStack);
+            SeedPackGui gui = new SeedPackGui(itemStack, player);
             gui.open(player);
         };
     }
@@ -70,42 +71,40 @@ public class SeedPack extends SlimefunItem {
         protected static final int INCREMENT_SPEED_SLOT = 22;
         protected static final int INCREMENT_STRENGTH_SLOT = 23;
 
-        protected static final ItemStack SET_BACKGROUND_STACK = CustomItemStack.create(
-            Material.GREEN_STAINED_GLASS_PANE,
-            Theme.PASSIVE.apply("Set seed here")
-        );
-
-        protected static final ItemStack PICKUP_BACKGROUND_STACK = CustomItemStack.create(
-            Material.GREEN_STAINED_GLASS_PANE,
-            Theme.PASSIVE.apply("Retrieve here")
-        );
-
-        protected static final ItemStack NO_SEED_SET_STACK = CustomItemStack.create(
-            Material.ORANGE_STAINED_GLASS_PANE,
-            Theme.WARNING.apply("No Seed Set"),
-            Theme.PASSIVE.apply("Click the left hand side icon"),
-            Theme.PASSIVE.apply("While holding a seed to set pack.")
-        );
-
-        protected static final ItemStack EMPTY_SEED_SET = CustomItemStack.create(
-            Material.RED_STAINED_GLASS_PANE,
-            Theme.WARNING.apply("Empty Set"),
-            Theme.PASSIVE.apply("You have no seeds matching the"),
-            Theme.PASSIVE.apply("given criteria.")
-        );
-
         private int level = 1;
         private int speed = 1;
         private int strength = 1;
 
         private final ItemStack packStack;
+        private final Player viewer;
+        private final ItemStack noSeedSetStack;
+        private final ItemStack emptySeedSetStack;
         private SeedPackInstance instance;
 
-        public SeedPackGui(@Nonnull ItemStack packStack) {
-            super("Seed Pack");
+        public SeedPackGui(@Nonnull ItemStack packStack, @Nonnull Player viewer) {
+            super(Messages.get(viewer, "seed-pack.title", "Seed Pack"));
             ItemMeta itemMeta = packStack.getItemMeta();
 
             this.packStack = packStack;
+            this.viewer = viewer;
+            this.noSeedSetStack = paneWithLore(
+                Material.ORANGE_STAINED_GLASS_PANE,
+                Theme.WARNING.apply(Messages.get(viewer, "seed-pack.no-seed-set", "No Seed Set")),
+                Messages.lines(viewer, "seed-pack.no-seed-set-lore", "Click the icon on the left", "while holding a seed to set the pack.")
+            );
+            this.emptySeedSetStack = paneWithLore(
+                Material.RED_STAINED_GLASS_PANE,
+                Theme.WARNING.apply(Messages.get(viewer, "seed-pack.empty-set", "Empty Set")),
+                Messages.lines(viewer, "seed-pack.empty-set-lore", "You have no seeds matching", "these levels.")
+            );
+            ItemStack setBackground = CustomItemStack.create(
+                Material.GREEN_STAINED_GLASS_PANE,
+                Theme.PASSIVE.apply(Messages.get(viewer, "seed-pack.set-here", "Set seed here"))
+            );
+            ItemStack pickupBackground = CustomItemStack.create(
+                Material.GREEN_STAINED_GLASS_PANE,
+                Theme.PASSIVE.apply(Messages.get(viewer, "seed-pack.retrieve-here", "Retrieve here"))
+            );
             instance = PersistentDataAPI.get(
                 itemMeta,
                 SeedPackDataType.KEY,
@@ -118,48 +117,48 @@ public class SeedPack extends SlimefunItem {
             ChestMenuUtils.drawBackground(this, BACKGROUND_SLOTS);
 
             for (int i : SEED_PICKUP_BACKGROUND) {
-                addItem(i, PICKUP_BACKGROUND_STACK, ChestMenuUtils.getEmptyClickHandler());
+                addItem(i, pickupBackground, ChestMenuUtils.getEmptyClickHandler());
             }
 
             for (int i : SEED_SET_BACKGROUND) {
-                addItem(i, SET_BACKGROUND_STACK, ChestMenuUtils.getEmptyClickHandler());
+                addItem(i, setBackground, ChestMenuUtils.getEmptyClickHandler());
             }
 
-            addItem(SEED_SET_SLOT, NO_SEED_SET_STACK, this::onClickSeedSetSlot);
-            addItem(SEED_PICKUP_SLOT, NO_SEED_SET_STACK, this::onClickSeedGetSlot);
+            addItem(SEED_SET_SLOT, noSeedSetStack, this::onClickSeedSetSlot);
+            addItem(SEED_PICKUP_SLOT, noSeedSetStack, this::onClickSeedGetSlot);
 
-            addItem(INCREMENT_LEVEL_SLOT, getIncrementStack("Level", 1), (p, slot, item, action) -> {
+            addItem(INCREMENT_LEVEL_SLOT, getIncrementStack(Stat.LEVEL, 1), (p, slot, item, action) -> {
                 int value;
                 if (action.isRightClicked()) {
                     value = Math.max(level - 1, 1);
                 } else {
                     value = Math.min(level + 1, 10);
                 }
-                replaceExistingItem(INCREMENT_LEVEL_SLOT, getIncrementStack("Level", value));
+                replaceExistingItem(INCREMENT_LEVEL_SLOT, getIncrementStack(Stat.LEVEL, value));
                 this.level = value;
                 setOutputStack();
                 return false;
             });
-            addItem(INCREMENT_SPEED_SLOT, getIncrementStack("Speed", 1), (p, slot, item, action) -> {
+            addItem(INCREMENT_SPEED_SLOT, getIncrementStack(Stat.SPEED, 1), (p, slot, item, action) -> {
                 int value;
                 if (action.isRightClicked()) {
                     value = Math.max(speed - 1, 1);
                 } else {
                     value = Math.min(speed + 1, 10);
                 }
-                replaceExistingItem(INCREMENT_SPEED_SLOT, getIncrementStack("Speed", value));
+                replaceExistingItem(INCREMENT_SPEED_SLOT, getIncrementStack(Stat.SPEED, value));
                 this.speed = value;
                 setOutputStack();
                 return false;
             });
-            addItem(INCREMENT_STRENGTH_SLOT, getIncrementStack("Strength", 1), (p, slot, item, action) -> {
+            addItem(INCREMENT_STRENGTH_SLOT, getIncrementStack(Stat.STRENGTH, 1), (p, slot, item, action) -> {
                 int value;
                 if (action.isRightClicked()) {
                     value = Math.max(strength - 1, 1);
                 } else {
                     value = Math.min(strength + 1, 10);
                 }
-                replaceExistingItem(INCREMENT_STRENGTH_SLOT, getIncrementStack("Strength", value));
+                replaceExistingItem(INCREMENT_STRENGTH_SLOT, getIncrementStack(Stat.STRENGTH, value));
                 this.strength = value;
                 setOutputStack();
                 return false;
@@ -177,13 +176,13 @@ public class SeedPack extends SlimefunItem {
 
             SlimefunItem slimefunItem = SlimefunItem.getByItem(itemStack);
             if (!(slimefunItem instanceof CultivationPlant)) {
-                player.sendMessage(Theme.WARNING.apply("The item must be a Cultivation Plant Seed"));
+                player.sendMessage(Theme.WARNING.apply(Messages.get(player, "seed-pack.not-a-seed", "The item must be a Cultivation plant seed.")));
                 return false;
             }
             CultivationPlant plant = (CultivationPlant) slimefunItem;
 
             if (!instance.isEmpty()) {
-                player.sendMessage(Theme.WARNING.apply("You must empty a pack before changing the type."));
+                player.sendMessage(Theme.WARNING.apply(Messages.get(player, "seed-pack.empty-before-change", "You must empty a pack before changing its plant.")));
                 return false;
             }
 
@@ -197,14 +196,14 @@ public class SeedPack extends SlimefunItem {
         private boolean onClickSeedGetSlot(Player player, int slot, ItemStack item, ClickAction action) {
             SlimefunItem slimefunItem = SlimefunItem.getById(instance.storedItemId);
             if (!(slimefunItem instanceof CultivationPlant)) {
-                player.sendMessage(Theme.WARNING.apply("You have not set a plant yet."));
+                player.sendMessage(Theme.WARNING.apply(Messages.get(player, "seed-pack.no-plant-set", "You have not set a plant yet.")));
                 return false;
             }
             CultivationPlant plant = (CultivationPlant) slimefunItem;
 
             int amount = instance.getAmount(level, speed, strength);
             if (amount < 1) {
-                player.sendMessage(Theme.WARNING.apply("You dont have any of this seed currently."));
+                player.sendMessage(Theme.WARNING.apply(Messages.get(player, "seed-pack.none-stored", "You have none of this seed at these levels.")));
                 return false;
             }
 
@@ -225,7 +224,7 @@ public class SeedPack extends SlimefunItem {
         private void setInputStack() {
             SlimefunItem slimefunItem = SlimefunItem.getById(instance.storedItemId);
             if (!(slimefunItem instanceof CultivationPlant)) {
-                replaceExistingItem(SEED_SET_SLOT, NO_SEED_SET_STACK);
+                replaceExistingItem(SEED_SET_SLOT, noSeedSetStack);
                 return;
             }
             CultivationPlant plant = (CultivationPlant) slimefunItem;
@@ -236,7 +235,7 @@ public class SeedPack extends SlimefunItem {
         private void setOutputStack() {
             SlimefunItem slimefunItem = SlimefunItem.getById(instance.storedItemId);
             if (!(slimefunItem instanceof CultivationPlant)) {
-                replaceExistingItem(SEED_PICKUP_SLOT, NO_SEED_SET_STACK);
+                replaceExistingItem(SEED_PICKUP_SLOT, noSeedSetStack);
                 return;
             }
             CultivationPlant plant = (CultivationPlant) slimefunItem;
@@ -257,33 +256,62 @@ public class SeedPack extends SlimefunItem {
         private ItemStack getSeedDisplayStack(@Nonnull CultivationPlant plant) {
             ItemStack itemStack = plant.getItem().clone();
             ItemMeta itemMeta = itemStack.getItemMeta();
-            itemMeta.setDisplayName(Theme.CLICK_INFO.apply("Stored Seed Type"));
+            itemMeta.setDisplayName(Theme.CLICK_INFO.apply(Messages.get(viewer, "seed-pack.stored-seed", "Stored Seed Type")));
             itemStack.setItemMeta(itemMeta);
-            return itemStack;
+            return ChestMenuUtils.stripTranslationIdentity(itemStack);
         }
 
         @Nonnull
         private ItemStack getSeedGetStack(@Nonnull CultivationPlant plant, int amount) {
             if (amount == 0) {
-                return EMPTY_SEED_SET;
+                return emptySeedSetStack;
             }
             ItemStack itemStack = plant.getItem().clone();
             ItemMeta itemMeta = itemStack.getItemMeta();
-            itemMeta.setDisplayName(Theme.CLICK_INFO.apply("Remove seed from pack"));
+            itemMeta.setDisplayName(Theme.CLICK_INFO.apply(Messages.get(viewer, "seed-pack.take-seed", "Take a seed from the pack")));
             itemStack.setItemMeta(itemMeta);
             itemStack.setAmount(Math.min(amount, 64));
-            return itemStack;
+            return ChestMenuUtils.stripTranslationIdentity(itemStack);
         }
         
-        private ItemStack getIncrementStack(@Nonnull String name, int value) {
+        @Nonnull
+        private ItemStack getIncrementStack(@Nonnull Stat stat, int value) {
+            String name = stat.name(viewer);
             return CustomItemStack.create(
                 Material.YELLOW_STAINED_GLASS_PANE,
                 Theme.CLICK_INFO.apply(name),
-                Theme.CLICK_INFO.asTitle("Left Click", "Increase " + name),
-                Theme.CLICK_INFO.asTitle("Right Click", "Decrease " + name),
+                Theme.CLICK_INFO.asTitle(Messages.get(viewer, "seed-pack.left-click", "Left Click"),
+                    Messages.get(viewer, "seed-pack.increase", "Increase %stat%").replace("%stat%", name)),
+                Theme.CLICK_INFO.asTitle(Messages.get(viewer, "seed-pack.right-click", "Right Click"),
+                    Messages.get(viewer, "seed-pack.decrease", "Decrease %stat%").replace("%stat%", name)),
                 "",
-                Theme.CLICK_INFO.asTitle("Current", value)
+                Theme.CLICK_INFO.asTitle(Messages.get(viewer, "seed-pack.current", "Current"), value)
             );
+        }
+
+        @Nonnull
+        private static ItemStack paneWithLore(@Nonnull Material material, @Nonnull String name, @Nonnull List<String> lore) {
+            String[] lines = lore.stream().map(Theme.PASSIVE::apply).toArray(String[]::new);
+            return CustomItemStack.create(material, name, lines);
+        }
+    }
+
+    private enum Stat {
+        LEVEL("seed-pack.level", "Level"),
+        SPEED("seed-pack.speed", "Speed"),
+        STRENGTH("seed-pack.strength", "Strength");
+
+        private final String key;
+        private final String english;
+
+        Stat(@Nonnull String key, @Nonnull String english) {
+            this.key = key;
+            this.english = english;
+        }
+
+        @Nonnull
+        String name(@Nonnull Player viewer) {
+            return Messages.get(viewer, key, english);
         }
     }
 }

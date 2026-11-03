@@ -12,6 +12,7 @@ import dev.sefiraat.cultivation.api.datatypes.SeedPackDataType;
 import dev.sefiraat.cultivation.api.datatypes.instances.FloraLevelProfile;
 import dev.sefiraat.cultivation.api.datatypes.instances.SeedPackInstance;
 import dev.sefiraat.cultivation.api.slimefun.items.trees.TreeBlockDescriptor;
+import dev.sefiraat.cultivation.implementation.localization.Messages;
 import dev.sefiraat.cultivation.implementation.slimefun.tools.SeedPack;
 import dev.sefiraat.cultivation.libs.sefilib.entity.display.DisplayGroup;
 import dev.sefiraat.cultivation.libs.sefilib.string.Theme;
@@ -89,7 +90,7 @@ public class CultivationCommands implements TabExecutor {
 
     private boolean withPermission(CommandSender sender, String permission, Runnable action) {
         if (!sender.hasPermission(permission)) {
-            sender.sendMessage(Theme.WARNING.apply("You do not have permission to do this"));
+            sender.sendMessage(Theme.WARNING.apply(Messages.get(sender, "command.no-permission", "You do not have permission to do this.")));
             return true;
         }
         action.run();
@@ -105,7 +106,7 @@ public class CultivationCommands implements TabExecutor {
     }
 
     public void onDefault(CommandSender sender) {
-        sender.sendMessage(Theme.ERROR + "Please provide a valid subcommand.");
+        sender.sendMessage(Theme.ERROR.apply(Messages.get(sender, "command.invalid-subcommand", "Please provide a valid subcommand.")));
     }
 
     public void onPos1(CommandSender sender) {
@@ -114,7 +115,7 @@ public class CultivationCommands implements TabExecutor {
             Registry.getInstance().addPositionOne(player);
             System.out.println("pos1 set");
         } else {
-            sender.sendMessage(Theme.applyThemeToString(Theme.WARNING, "Must be executed by a player"));
+            sender.sendMessage(Theme.WARNING.apply(Messages.get(sender, "command.players-only", "This command can only be run by a player.")));
         }
     }
 
@@ -124,7 +125,7 @@ public class CultivationCommands implements TabExecutor {
             Registry.getInstance().addPositionTwo(player);
             System.out.println("pos2 set");
         } else {
-            sender.sendMessage(Theme.applyThemeToString(Theme.WARNING, "Must be executed by a player"));
+            sender.sendMessage(Theme.WARNING.apply(Messages.get(sender, "command.players-only", "This command can only be run by a player.")));
         }
     }
 
@@ -304,13 +305,13 @@ public class CultivationCommands implements TabExecutor {
             Player player = (Player) sender;
             ItemStack itemStack = player.getInventory().getItemInMainHand();
             if (itemStack == null || itemStack.getType().isAir()) {
-                player.sendMessage(Theme.WARNING.apply("You must be holding a Seed Pack for this"));
+                player.sendMessage(Theme.WARNING.apply(Messages.get(player, "command.hold-seed-pack", "You must be holding a Seed Pack for this.")));
                 return;
             }
 
             SlimefunItem slimefunItem = SlimefunItem.getByItem(itemStack);
             if (!(slimefunItem instanceof SeedPack)) {
-                player.sendMessage(Theme.WARNING.apply("You must be holding a Seed Pack for this"));
+                player.sendMessage(Theme.WARNING.apply(Messages.get(player, "command.hold-seed-pack", "You must be holding a Seed Pack for this.")));
                 return;
             }
             SeedPack pack = (SeedPack) slimefunItem;
@@ -318,19 +319,19 @@ public class CultivationCommands implements TabExecutor {
             ItemMeta itemMeta = itemStack.getItemMeta();
             SeedPackInstance instance = PersistentDataAPI.get(itemMeta, SeedPackDataType.KEY, SeedPackDataType.TYPE);
             if (instance == null) {
-                player.sendMessage(Theme.WARNING.apply("This pack is empty!"));
+                player.sendMessage(Theme.WARNING.apply(Messages.get(player, "command.pack-empty", "This pack is empty!")));
                 return;
             }
 
             player.sendMessage("------------------------------------");
-            player.sendMessage("Contents");
+            player.sendMessage(Messages.get(player, "command.pack-contents", "Contents"));
             player.sendMessage("------------------------------------");
             for (Map.Entry<FloraLevelProfile, Integer> entry : instance.getAmountMap().entrySet()) {
                 FloraLevelProfile profile = entry.getKey();
-                String neatKey =
-                    " Lv: " + profile.getLevel() +
-                    " Sp: " + profile.getSpeed() +
-                    " St: " + profile.getStrength();
+                String neatKey = Messages.get(player, "command.pack-entry", "Level %level%, speed %speed%, strength %strength%")
+                    .replace("%level%", String.valueOf(profile.getLevel()))
+                    .replace("%speed%", String.valueOf(profile.getSpeed()))
+                    .replace("%strength%", String.valueOf(profile.getStrength()));
                 player.sendMessage(Theme.CLICK_INFO.asTitle(neatKey, entry.getValue()));
             }
         }

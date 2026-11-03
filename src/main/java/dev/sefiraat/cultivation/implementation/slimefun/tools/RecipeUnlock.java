@@ -22,6 +22,7 @@ import org.bukkit.persistence.PersistentDataType;
 import javax.annotation.Nonnull;
 import javax.annotation.Nullable;
 import java.util.concurrent.ThreadLocalRandom;
+import dev.sefiraat.cultivation.implementation.localization.Messages;
 
 public class RecipeUnlock extends SlimefunItem {
     public RecipeUnlock() {
@@ -47,7 +48,8 @@ public class RecipeUnlock extends SlimefunItem {
                 return;
             }
             StatisticUtils.unlockDiscovery(player, possibleId);
-            String message = "You have successfully learned how to breed: " + Slimefun.getItemTranslationService().getName(player, slimefunItem);
+            String message = Messages.get(player, "knowledge-script.learned", "You have learned how to breed %plant%.")
+                .replace("%plant%", Slimefun.getItemTranslationService().getName(player, slimefunItem) + Theme.SUCCESS);
             itemStack.setAmount(0);
             player.sendMessage(Theme.SUCCESS.apply(message));
         };

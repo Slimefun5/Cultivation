@@ -27,6 +27,7 @@ import javax.annotation.Nonnull;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.function.Function;
+import dev.sefiraat.cultivation.implementation.localization.Messages;
 
 public class CraftingKitchenMachine extends KitchenRecipeMachineComplex {
     private static final int[] INPUT_SLOTS = new int[]{
@@ -109,11 +110,11 @@ public class CraftingKitchenMachine extends KitchenRecipeMachineComplex {
                     ItemStack result = testRecipe(itemStacks);
                     SlimefunItem slimefunItem = SlimefunItem.getByItem(result);
                     if (slimefunItem != null && slimefunItem.isDisabled()) {
-                        p.sendMessage(Theme.ERROR.apply("This recipe is disabled."));
+                        p.sendMessage(Theme.ERROR.apply(Messages.get(p, "kitchen.recipe-disabled", "This recipe is disabled.")));
                         return false;
                     }
                     if (result == null || !menu.fits(result, OUTPUT_SLOT)) {
-                        p.sendMessage(Theme.ERROR.apply("No matching recipe."));
+                        p.sendMessage(Theme.ERROR.apply(Messages.get(p, "kitchen.no-recipe", "No matching recipe.")));
                         return false;
                     }
 
@@ -129,7 +130,7 @@ public class CraftingKitchenMachine extends KitchenRecipeMachineComplex {
                             inputItem.setAmount(inputItem.getAmount() - 1);
                         }
                     }
-                    p.sendMessage(Theme.SUCCESS.apply("Tasty!"));
+                    p.sendMessage(Theme.SUCCESS.apply(Messages.get(p, "kitchen.cooked", "Tasty!")));
                     return false;
                 });
             }

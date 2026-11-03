@@ -29,6 +29,7 @@ import javax.annotation.Nonnull;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.function.Function;
+import dev.sefiraat.cultivation.implementation.localization.Messages;
 
 public class PoweredKitchenMachineSimple extends KitchenRecipeMachineSimple implements EnergyNetComponent {
     private static final int INPUT_SLOT = 20;
@@ -126,12 +127,12 @@ public class PoweredKitchenMachineSimple extends KitchenRecipeMachineSimple impl
             public void newInstance(@Nonnull BlockMenu menu, @Nonnull Block b) {
                 menu.addMenuClickHandler(COOK_SLOT, (p, slot, item, action) -> {
                     if (getCharge(menu.getLocation()) < powerRequirement) {
-                        p.sendMessage(Theme.ERROR.apply("Not enough power."));
+                        p.sendMessage(Theme.ERROR.apply(Messages.get(p, "kitchen.not-enough-power", "Not enough power.")));
                         return false;
                     }
                     ItemStack itemStack = menu.getItemInSlot(INPUT_SLOT);
                     if (itemStack == null || itemStack.getType().isAir()) {
-                        p.sendMessage(Theme.ERROR.apply("Put an item in the input slot."));
+                        p.sendMessage(Theme.ERROR.apply(Messages.get(p, "kitchen.input-empty", "Put an item in the input slot.")));
                         return false;
                     }
                     SlimefunItem slimefunItem = SlimefunItem.getByItem(itemStack);
@@ -142,14 +143,14 @@ public class PoweredKitchenMachineSimple extends KitchenRecipeMachineSimple impl
 
                     ItemStack result = testRecipe(id);
                     if (result == null || !menu.fits(result, OUTPUT_SLOT)) {
-                        p.sendMessage(Theme.ERROR.apply("No matching recipe."));
+                        p.sendMessage(Theme.ERROR.apply(Messages.get(p, "kitchen.no-recipe", "No matching recipe.")));
                         return false;
                     }
 
                     menu.pushItem(result, OUTPUT_SLOT);
                     itemStack.setAmount(itemStack.getAmount() - 1);
                     removeCharge(menu.getLocation(), powerRequirement);
-                    p.sendMessage(Theme.SUCCESS.apply("Tasty!"));
+                    p.sendMessage(Theme.SUCCESS.apply(Messages.get(p, "kitchen.cooked", "Tasty!")));
                     return false;
                 });
             }

@@ -2,13 +2,13 @@ package dev.sefiraat.cultivation.implementation.slimefun.groups;
 
 
 import io.github.thebusybiscuit.slimefun5.implementation.Slimefun;
-import com.google.common.collect.ImmutableList;
 import dev.sefiraat.cultivation.Registry;
 import dev.sefiraat.cultivation.api.slimefun.groups.CultivationGroups;
 import dev.sefiraat.cultivation.api.slimefun.items.plants.CultivationPlant;
 import dev.sefiraat.cultivation.api.slimefun.items.plants.HarvestablePlant;
 import dev.sefiraat.cultivation.api.slimefun.plant.BreedingPair;
 import dev.sefiraat.cultivation.api.utils.CultivationThemes;
+import dev.sefiraat.cultivation.implementation.localization.Messages;
 import dev.sefiraat.cultivation.api.utils.StatisticUtils;
 import dev.sefiraat.cultivation.libs.sefilib.string.Theme;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItem;
@@ -71,21 +71,6 @@ public class PlantCodexFlexGroup extends NestedItemGroup {
         38, 39, 40, 41, 42, 43
     };
 
-    private static final ItemStack MOTHER_INFO = CustomItemStack.create(
-        Material.LIGHT_BLUE_STAINED_GLASS_PANE,
-        Theme.PASSIVE + "'Mother' Plant"
-    );
-
-    private static final ItemStack FATHER_INFO = CustomItemStack.create(
-        Material.LIGHT_BLUE_STAINED_GLASS_PANE,
-        Theme.PASSIVE + "'Father' Plant"
-    );
-
-    private static final ItemStack CHILD_INFO = CustomItemStack.create(
-        Material.LIGHT_BLUE_STAINED_GLASS_PANE,
-        Theme.PASSIVE + "'Child' Plant"
-    );
-
     private static final ItemStack HELD_SLOT = CustomItemStack.create(
         Material.BLACK_STAINED_GLASS_PANE,
         " "
@@ -106,7 +91,7 @@ public class PlantCodexFlexGroup extends NestedItemGroup {
     @Override
     @ParametersAreNonnullByDefault
     public void open(Player p, PlayerProfile profile, SlimefunGuideMode mode) {
-        ChestMenu chestMenu = new ChestMenu(CultivationThemes.MAIN.getColor() + "Plant Codex");
+        ChestMenu chestMenu = new ChestMenu(CultivationThemes.MAIN.getColor() + Messages.get(p, "codex.title", "Plant Codex"));
 
         for (int i = 0; i < 54; i++) {
             chestMenu.addItem(i, ChestMenuUtils.getBackground(), (player1, i1, itemStack, clickAction) -> false);
@@ -201,29 +186,32 @@ public class PlantCodexFlexGroup extends NestedItemGroup {
         // Child
         menu.replaceExistingItem(CHILD_SLOT, child.getItem().clone());
         menu.addMenuClickHandler(CHILD_SLOT, ChestMenuUtils.getEmptyClickHandler());
+        ItemStack childInfo = infoPane(Messages.get(p, "codex.child", "Child plant"));
         for (int i : CHILD_INFO_SLOT) {
-            menu.replaceExistingItem(i, CHILD_INFO);
+            menu.replaceExistingItem(i, childInfo);
             menu.addMenuClickHandler(i, ChestMenuUtils.getEmptyClickHandler());
         }
 
         // Mother
         menu.replaceExistingItem(MOTHER_SLOT, mother.getItem().clone());
         menu.addMenuClickHandler(MOTHER_SLOT, ChestMenuUtils.getEmptyClickHandler());
+        ItemStack motherInfo = infoPane(Messages.get(p, "codex.mother", "Mother plant"));
         for (int i : MOTHER_INFO_SLOT) {
-            menu.replaceExistingItem(i, MOTHER_INFO);
+            menu.replaceExistingItem(i, motherInfo);
             menu.addMenuClickHandler(i, ChestMenuUtils.getEmptyClickHandler());
         }
 
         // Father
         menu.replaceExistingItem(FATHER_SLOT, father.getItem().clone());
         menu.addMenuClickHandler(FATHER_SLOT, ChestMenuUtils.getEmptyClickHandler());
+        ItemStack fatherInfo = infoPane(Messages.get(p, "codex.father", "Father plant"));
         for (int i : FATHER_INFO_SLOT) {
-            menu.replaceExistingItem(i, FATHER_INFO);
+            menu.replaceExistingItem(i, fatherInfo);
             menu.addMenuClickHandler(i, ChestMenuUtils.getEmptyClickHandler());
         }
 
         // Growth Rate
-        menu.replaceExistingItem(GROWTH_RATE_SLOT, getGrowthRate(child));
+        menu.replaceExistingItem(GROWTH_RATE_SLOT, getGrowthRate(p, child));
         menu.addMenuClickHandler(GROWTH_RATE_SLOT, ChestMenuUtils.getEmptyClickHandler());
 
         // Held slots (for adding possible future plant information)
@@ -276,23 +264,29 @@ public class PlantCodexFlexGroup extends NestedItemGroup {
 
     @Nonnull
     public static ItemStack getUndiscovered(@Nonnull Player player, @Nonnull CultivationPlant seed) {
-        return Theme.themedItemStack(
+        List<String> lore = new ArrayList<>();
+        lore.add(Theme.ERROR.apply(Messages.get(player, "codex.not-discovered", "Not Discovered")));
+        for (String line : Messages.lines(player, "codex.not-discovered-lore", "You have not yet discovered how", "to breed this plant!")) {
+            lore.add(Theme.PASSIVE.apply(line));
+        }
+        lore.add(Theme.CLICK_INFO.apply(Messages.get(player, "codex.discovery", "Discovery")));
+        return CustomItemStack.create(
             Material.BARRIER,
-            CultivationThemes.DISCOVEREY,
-            Slimefun.getItemTranslationService().getName(player, seed),
-            ImmutableList.of(
-                Theme.ERROR + "Not Discovered",
-                "You have not yet discovered how",
-                "to breed this plant!"
-            )
+            CultivationThemes.DISCOVEREY.apply(Slimefun.getItemTranslationService().getName(player, seed)),
+            lore.toArray(new String[0])
         );
     }
 
     @Nonnull
-    public static ItemStack getGrowthRate(@Nonnull CultivationPlant seed) {
+    private static ItemStack infoPane(@Nonnull String name) {
+        return CustomItemStack.create(Material.LIGHT_BLUE_STAINED_GLASS_PANE, Theme.PASSIVE.apply(name));
+    }
+
+    @Nonnull
+    public static ItemStack getGrowthRate(@Nonnull Player player, @Nonnull CultivationPlant seed) {
         return CustomItemStack.create(
             Material.WHEAT_SEEDS,
-            Theme.CLICK_INFO.asTitle("Growth Rate", FORMAT.format(seed.getDefaultGrowthRate()))
+            Theme.CLICK_INFO.asTitle(Messages.get(player, "codex.growth-rate", "Growth Rate"), FORMAT.format(seed.getDefaultGrowthRate()))
         );
     }
 }

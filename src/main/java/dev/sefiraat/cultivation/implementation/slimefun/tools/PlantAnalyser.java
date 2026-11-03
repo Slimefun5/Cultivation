@@ -26,6 +26,7 @@ import org.bukkit.inventory.ItemStack;
 import javax.annotation.Nonnull;
 import javax.annotation.Nullable;
 import javax.annotation.ParametersAreNonnullByDefault;
+import dev.sefiraat.cultivation.implementation.localization.Messages;
 
 public class PlantAnalyser extends SimpleSlimefunItem<ItemUseHandler> implements NotPlaceable {
 
@@ -68,9 +69,9 @@ public class PlantAnalyser extends SimpleSlimefunItem<ItemUseHandler> implements
             profileHolder.setLevelProfile(block.getLocation(), profile);
             Player player = event.getPlayer();
             player.sendMessage(Theme.CLICK_INFO.apply(Slimefun.getItemTranslationService().getName(player, item)));
-            player.sendMessage(Theme.CLICK_INFO.asTitle("Drop Level", profile.getLevel()));
-            player.sendMessage(Theme.CLICK_INFO.asTitle("Growth Speed", profile.getSpeed()));
-            player.sendMessage(Theme.CLICK_INFO.asTitle("Breed Strength", profile.getStrength()));
+            player.sendMessage(Theme.CLICK_INFO.asTitle(Messages.get(player, "lore.drop-level", "Drop Level"), profile.getLevel()));
+            player.sendMessage(Theme.CLICK_INFO.asTitle(Messages.get(player, "lore.growth-speed", "Growth Speed"), profile.getSpeed()));
+            player.sendMessage(Theme.CLICK_INFO.asTitle(Messages.get(player, "lore.breed-strength", "Breed Strength"), profile.getStrength()));
         }
     }
 

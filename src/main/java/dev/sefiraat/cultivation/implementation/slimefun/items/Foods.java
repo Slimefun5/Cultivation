@@ -25,6 +25,7 @@ import org.bukkit.potion.PotionEffectType;
 import org.bukkit.util.Vector;
 
 import javax.annotation.Nonnull;
+import dev.sefiraat.cultivation.implementation.localization.Messages;
 
 public final class Foods {
 
@@ -45,7 +46,7 @@ public final class Foods {
                 player.removePotionEffect(activePotionEffect.getType());
             }
         }
-    ).overrideEatingMessage("You feel your palette being cleansed.")
+    ).overrideEatingMessage("food.palate-cleansed", "You feel your palate being cleansed.")
         .buildRegister(Cultivation.getInstance());
 
     public static final Food PEANUT_BUTTER_JELLY_SANDWICH = new Food(
@@ -666,7 +667,7 @@ public final class Foods {
             player.setFireTicks(40);
             player.setFoodLevel(10);
         }
-    ).overrideEatingMessage("Ouch!")
+    ).overrideEatingMessage("food.ouch", "Ouch!")
         .buildRegister(Cultivation.getInstance());
 
     public static final Food BAGEL_CREAM_CHEESE = new Food(

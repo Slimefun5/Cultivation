@@ -30,6 +30,7 @@ import javax.annotation.Nonnull;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.function.Function;
+import dev.sefiraat.cultivation.implementation.localization.Messages;
 
 public class PoweredKitchenMachineComplex extends KitchenRecipeMachineComplex implements EnergyNetComponent {
     private static final int[] INPUT_SLOTS = new int[]{
@@ -121,7 +122,7 @@ public class PoweredKitchenMachineComplex extends KitchenRecipeMachineComplex im
             public void newInstance(@Nonnull BlockMenu menu, @Nonnull Block b) {
                 menu.addMenuClickHandler(COOK_SLOT, (p, slot, item, action) -> {
                     if (getCharge(menu.getLocation()) < powerRequirement) {
-                        p.sendMessage(Theme.ERROR.apply("Not enough power."));
+                        p.sendMessage(Theme.ERROR.apply(Messages.get(p, "kitchen.not-enough-power", "Not enough power.")));
                         return false;
                     }
                     ItemStack[] itemStacks = new ItemStack[9];
@@ -131,11 +132,11 @@ public class PoweredKitchenMachineComplex extends KitchenRecipeMachineComplex im
                     ItemStack result = testRecipe(itemStacks);
                     SlimefunItem slimefunItem = SlimefunItem.getByItem(result);
                     if (slimefunItem != null && slimefunItem.isDisabled()) {
-                        p.sendMessage(Theme.ERROR.apply("This recipe is disabled."));
+                        p.sendMessage(Theme.ERROR.apply(Messages.get(p, "kitchen.recipe-disabled", "This recipe is disabled.")));
                         return false;
                     }
                     if (result == null || !menu.fits(result, OUTPUT_SLOT)) {
-                        p.sendMessage(Theme.ERROR.apply("No matching recipe."));
+                        p.sendMessage(Theme.ERROR.apply(Messages.get(p, "kitchen.no-recipe", "No matching recipe.")));
                         return false;
                     }
 
@@ -151,7 +152,7 @@ public class PoweredKitchenMachineComplex extends KitchenRecipeMachineComplex im
                             inputItem.setAmount(inputItem.getAmount() - 1);
                         }
                     }
-                    p.sendMessage(Theme.SUCCESS.apply("Tasty!"));
+                    p.sendMessage(Theme.SUCCESS.apply(Messages.get(p, "kitchen.cooked", "Tasty!")));
                     return false;
                 });
             }

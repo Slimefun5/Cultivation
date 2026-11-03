@@ -63,6 +63,7 @@ public class Cultivation extends JavaPlugin implements SlimefunAddon {
         setupStats();
 
         Slimefun.getItemTranslationService().registerTranslations(this);
+        Slimefun.getAddonMessageService().registerTranslations(this);
         Slimefun.getItemTranslationService().registerResolver(new CultivationTextResolver(ResolverTexts.load(this, "messages.yml")));
         Slimefun.getLocalization().registerItemGroupTranslations(this);
         Slimefun.getLocalization().registerRecipeTypeTranslations(this);

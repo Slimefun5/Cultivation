@@ -18,11 +18,12 @@ import javax.annotation.Nonnull;
 
 import javax.annotation.Nonnull;
 import java.util.function.Consumer;
+import dev.sefiraat.cultivation.implementation.localization.Messages;
 
 public class Food extends SimpleSlimefunItem<ItemUseHandler> {
 
     private final Consumer<Player> eatingEffects;
-    private String eatingMessage = "Lovely! You're all full up.";
+    private Messages.Text eatingMessage = new Messages.Text("food.eaten", "Lovely! You're all full up.");
 
     public Food(SlimefunItemStack item,
                 RecipeType recipeType,
@@ -42,8 +43,8 @@ public class Food extends SimpleSlimefunItem<ItemUseHandler> {
                 Player player = e.getPlayer();
                 boolean lemonDrop = getId().equals(CultivationStacks.LEMON_DROP.getItemId());
                 if (Cooldowns.isOnCooldown(Keys.SATIATED, player) && !lemonDrop) {
-                    player.sendMessage(Theme.WARNING.apply(
-                        "You aren't hungry yet! You can only eat once every half a day (10 mins)"));
+                    player.sendMessage(Theme.WARNING.apply(Messages.get(player, "food.not-hungry",
+                        "You aren't hungry yet! You can only eat once every half a day (10 minutes).")));
                     return;
                 }
                 if (!lemonDrop) {
@@ -52,14 +53,14 @@ public class Food extends SimpleSlimefunItem<ItemUseHandler> {
                     PersistentDataAPI.remove(player, Keys.SATIATED);
                 }
                 e.getItem().setAmount(e.getItem().getAmount() - 1);
-                player.sendMessage(Theme.SUCCESS.apply(eatingMessage));
+                player.sendMessage(Theme.SUCCESS.apply(Messages.get(player, eatingMessage)));
                 eatingEffects.accept(player);
             }
         };
     }
 
-    public Food overrideEatingMessage(@Nonnull String string) {
-        this.eatingMessage = string;
+    public Food overrideEatingMessage(@Nonnull String key, @Nonnull String english) {
+        this.eatingMessage = new Messages.Text(key, english);
         return this;
     }
 
